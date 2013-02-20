@@ -162,6 +162,7 @@
   <string name="bpp_printing_button_text">Printing</string>
   <string name="map_notif_title">Session Key Request for MAP</string>
   <string name="status_bpp_unknown_error_by_printer">Printing failed due to unknown error by the printer</string>
+  <string name="somestring">noreboot</string>
   <string name="status_bpp_refused_by_printer">Printing failed due to refused by the printer</string>
   <string name="ftp_session_key_dialog_title">Type session key for %1$s</string>
   <string name="status_bpp_media_low">Printing failed due to media-low</string>
