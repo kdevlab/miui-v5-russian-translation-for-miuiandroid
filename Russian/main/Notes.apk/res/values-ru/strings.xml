@@ -141,4 +141,12 @@
   <string name="toast_message_replace_image_fail">Не удалось заменить изображение!</string>
   <string name="widget_havenot_content">Нет заметок, нажмите сюда, чтобы создать заметку</string>
   <string name="widget_under_visit_mode">Не возможно просмотреть заметки, потому что включен гостевой режим</string>
+
+  <string name="not_now">Not now</string>
+  <string name="select_account_prompt">Enable note synchronization</string>
+  <string name="enable_sync">Sync</string>
+  <string name="enable_sync_desc">Notes can be synced with your Xiaomi account %1$s, sync now?</string>
+  <string name="menu_rename_folder">Change name</string>
+  <string name="login_sync">Login &amp; sync</string>
+  <string name="add_account_desc">Notes can be synced to your Xiaomi account. Login and sync now?</string>
 </resources>

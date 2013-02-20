@@ -567,4 +567,19 @@
   <string name="widget_starred">Помеченные</string>
   <string name="widget_touch_to_configure">Нажмите для настройки</string>
   <string name="widget_unread">Непрочитанные</string>
+
+  <string name="account_setup_basic_description_label">Account name (optional)</string>
+  <string name="add_quick_responses_action">Create new</string>
+  <string name="alert_selected_all_message">" has at least %d messages, do you sure select all？"</string>
+  <string name="account_setup_basic_name_label">Your name (optional)</string>
+  <string name="done">Return</string>
+  <string name="account_setup_index_label">Please choose you need to add the email service providers:</string>
+  <string name="account_setup_index_other_mails">Other mails</string>
+  <string name="account_security_waiting_policy_key_message">%s needs security settings information from server，please wait.</string>
+  <string name="account_setup_basic_label">Please fill in information for %s mailbox :</string>
+  <string name="copy_number">Copy phone number</string>
+  <string name="alert_title_selected">Check all</string>
+  <string name="copy_email">Copy email address</string>
+  <string name="widget_no_mailboxes">"This account isn't synced. Try again later."</string>
+  <string name="account_setup_index_title">Mail Settings Guide</string>
 </resources>

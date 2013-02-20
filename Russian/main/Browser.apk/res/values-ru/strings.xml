@@ -443,4 +443,13 @@
   <string name="webstorage_origin_summary_mb_stored">Объем занятой памяти телефона (МБ)</string>
   <string name="webstorage_outofspace_notification_text">Нажмите, чтобы освободить место</string>
   <string name="webstorage_outofspace_notification_title">Память браузера переполнена</string>
+
+  <string name="pref_allow_apptabs">Allow multiple tabs per app</string>
+  <string name="other_bookmarks">Other Bookmarks</string>
+  <string name="accessibility_button_bookmark">Bookmark</string>
+  <string name="pref_ua_mione_entry">MiOne</string>
+  <string name="accessibility_button_tabs">Tabs</string>
+  <string name="selection_all">Select all</string>
+  <string name="url_copy_done">Url copied</string>
+  <string name="MIUI_startpage">Start page</string>
 </resources>

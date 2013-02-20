@@ -123,4 +123,12 @@
   <string name="workday_alarm_clock">По рабочим дням</string>
   <string name="worldclock_empty_text">Нет часовых поясов</string>
   <string name="worldclock_title">Мировое время</string>
+
+  <string name="system_time_setting">Time setting</string>
+  <string name="alarm_label_hint">Input the alarm label</string>
+  <string name="edit_alarm">Edit alarm</string>
+  <string name="minute_unit">M</string>
+  <string name="stopwatch_lap_empty_text">No laps</string>
+  <string name="hour_unit">Hr</string>
+  <string name="lap_num">Lap</string>
 </resources>

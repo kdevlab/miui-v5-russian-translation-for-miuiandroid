@@ -214,4 +214,21 @@
   <string name="verifying">Проверка на вирусы...</string>
   <string name="version_label">Версия：</string>
   <string name="version_name">Версия: %1$s</string>
+
+  <string name="no_fitness">Oops! No fit apps, try to search :)</string>
+  <string name="clear_search_record_message">Do you want to clear search history?</string>
+  <string name="result_of_clear_history">Search history has been cleared</string>
+  <string name="login_first_install_title">Log in Xiaomi Account</string>
+  <string name="login_download_title">Log in Xiaomi Account</string>
+  <string name="comment_upload_hint">Your comment will be displayed after the audit</string>
+  <string name="no_network">No internet access, please check and try to refresh :)</string>
+  <string name="expand_full_text_comment">Expand all text▼</string>
+  <string name="login_skip">Skip</string>
+  <string name="login_active">Active</string>
+  <string name="login_ok">Login</string>
+  <string name="login_active_title">Your account is not activated, set to active it now ?</string>
+  <string name="pref_title_silent_install">Silent install</string>
+  <string name="button_search">Search</string>
+  <string name="button_refresh">Refresh</string>
+  <string name="menu_clear_search_history">Clear search history</string>
 </resources>

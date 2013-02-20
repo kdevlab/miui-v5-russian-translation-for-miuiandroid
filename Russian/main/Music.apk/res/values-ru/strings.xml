@@ -268,4 +268,24 @@
   <string name="unknown_artist_name">Неизвестный исполнитель</string>
   <string name="use_local_album">Установить обложку альбома</string>
   <string name="use_local_lyric">Присвоить текст песни</string>
+
+  <string name="download_all_track">Download All Tracks</string>
+  <string name="add">Add</string>
+  <string name="artist_albums">All Albums</string>
+  <string name="cancle_warining">Has Canceled Sleep Mode</string>
+  <string name="album_search_local_descript">Local | %1$d x %2$d</string>
+  <string name="more">More</string>
+  <string name="channel_postfix">MHZ</string>
+  <string name="enter_sleep_mode">Enter Sleep Mode</string>
+  <string name="send_to_application">Send to other application</string>
+  <string name="start_to_download_avatar">Downloading artist avatar for your song(s) library</string>
+  <string name="complete">Complete</string>
+  <string name="download_all_avatar">Download Atist Avatar(s)</string>
+  <string name="album_search_online_descript">Online | %1$d x %2$d</string>
+  <string formatted="false" name="track_album_format">%s - %s</string>
+  <string name="artist_hot_audios">Hot Audios</string>
+  <string formatted="false" name="channel_format">"%s  %s MHZ"</string>
+  <string name="no_song_downloaded">No song can be downloaded.</string>
+  <string name="play_all">Play All</string>
+  <string name="album_select">Please select a album art</string>
 </resources>

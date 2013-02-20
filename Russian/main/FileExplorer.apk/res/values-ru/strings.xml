@@ -307,4 +307,7 @@ pan.xiaomi.com на вашем компьютере"</string>
   <string name="wifi_state">Статус Wi-Fi</string>
   <string name="xiaomi_account">Аккаунт Xiaomi</string>
   <string name="yes">Да</string>
+
+  <string name="upload_successful">Upload successful</string>
+  <string name="download_successful">Download successful</string>
 </resources>

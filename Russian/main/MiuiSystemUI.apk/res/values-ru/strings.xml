@@ -305,4 +305,15 @@ d MMMM yyyy"</string>
   <string name="user_guide_for_notification">При получении нового уведомления, можно раскрыть панель состояния для получения дополнительных сведений</string>
   <string name="user_guide_for_toggle">Список переключателей можно прокручивать по горизонтали</string>
   <string name="user_guide_for_toggle_list">Нажмите, чтобы настроить список переключателей</string>
+
+  <string name="no_notification_tips">No notifications</string>
+  <string name="recording_tip">Click to return to Recorder</string>
+  <string name="description_direction_left">Slide left for %s.</string>
+  <string name="status_bar_date_formatter">%2$s</string>
+  <string name="description_direction_right">Slide right for %s.</string>
+  <string name="dreams_dock_launcher">Activate screen saver</string>
+  <string name="description_direction_down">Slide down for %s.</string>
+  <string name="battery_low_title">Connect charger</string>
+  <string name="description_direction_up">Slide up for %s.</string>
+  <string name="description_target_search">Search</string>
 </resources>

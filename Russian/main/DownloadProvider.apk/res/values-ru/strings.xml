@@ -37,4 +37,6 @@
 
 Чтобы продолжить загрузку позже через Wi-Fi, нажмите %s"</string>
   <string name="wifi_required_title">Слишком большой файл для сети оператора</string>
+
+  <string name="auto_restart_under_wifi">WLAN will automatically download this file</string>
 </resources>

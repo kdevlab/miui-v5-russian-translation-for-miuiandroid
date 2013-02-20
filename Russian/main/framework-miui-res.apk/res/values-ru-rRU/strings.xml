@@ -572,4 +572,20 @@
   <string name="wifi_tether_configure_ssid_default">KDG Phone</string>
   <string name="winter_begins">Зима</string>
   <string name="winter_solstice" />
+
+  <string name="unknown_caller">Unknown caller</string>
+  <string name="volume_icon_description_media">Media</string>
+  <string name="alwaysUsePrompt">Set as default (no prompt for next time)</string>
+  <string name="experimental_validate_warning">Your every exploration helps MIUI become better!</string>
+  <string name="experimental_validate_progress">Validating...</string>
+  <string name="volume_icon_description_notification">Notification</string>
+  <string name="miro_menu_overflow">More</string>
+  <string name="speaker">Speaker</string>
+  <string name="volume_icon_description_ringer">Ringtone</string>
+  <string name="v5_icon_menu_bar_more_item_label">More</string>
+  <string name="experimental_validate_password">Password</string>
+  <string name="v5_deselect_all">Uncheck All</string>
+  <string name="experimental_validate_thanks">Thank you!</string>
+  <string name="v5_select_all">Check All</string>
+  <string name="experimental_validate_username">Xiaomi ID</string>
 </resources>

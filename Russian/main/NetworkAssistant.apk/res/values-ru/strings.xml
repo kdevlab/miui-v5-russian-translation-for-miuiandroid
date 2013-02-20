@@ -158,4 +158,6 @@
   <string name="widget_traffic_used_status">Использовано: %s</string>
   <string name="wifi_traffic">Wi-Fi: %s</string>
   <string name="wifi_type">Wi-Fi</string>
+
+  <string name="update_no_network">Failed to update, please check the settings of network.</string>
 </resources>

@@ -496,4 +496,27 @@
   <string name="wap_push_title">"[Push-сообщение] "</string>
   <string name="will_send_at">Будет отправлено: %s</string>
   <string name="yes">ОК</string>
+
+  <string name="phrase_empty">No Phrase</string>
+  <string name="stick">Pin</string>
+  <string name="mx_current_status">Current status: Online</string>
+  <string name="mx_msg">Cloud Message</string>
+  <string name="enable_password_protect">Enable password protect</string>
+  <string name="prvate_contact">Private Contact</string>
+  <string name="conversation_style">bubble</string>
+  <string name="bookmark_empty">No Bookmark</string>
+  <string name="private_new_notification">New private message notification</string>
+  <string name="add_bookmark">Favorites</string>
+  <string name="hint_search_sms">%d sms</string>
+  <string name="found_old_messages">Found messages of previous accounts on your phone:%1$s
+Do you want to upload them to your current account %2$s?</string>
+  <string name="private_settings">Private Setting</string>
+  <string name="importing_progress_private_message">Importing messages to private MessageBox</string>
+  <string name="private_message">Private Message</string>
+  <string name="search_show_more_results">Show more</string>
+  <string name="exporting_progress_private_message">Exporting messages from private MessageBox</string>
+  <string name="private_protect">Private Protect</string>
+  <string name="unstick">Unpin</string>
+  <string name="add_private_contact">Add Private Contact</string>
+  <string name="pref_system_title">System</string>
 </resources>

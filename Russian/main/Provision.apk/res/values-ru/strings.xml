@@ -23,4 +23,7 @@
   <string name="traffic_protection_summary">Регулировка трафика напомнит вам, когда трафик в вашем тарифном плане закончился</string>
   <string name="traffic_protection_text_hint">Пожалуйста, введите лимит трафика</string>
   <string name="traffic_protection_unknown">"Я не знаю. Введу потом."</string>
+
+    <string name="use_data">Data enabled</string>
+  <string name="data_usage_summary">If you have not applied for a data package, it is recommended to turn off data usage. Otherwise, carrier may charge you additional fees.</string>
 </resources>

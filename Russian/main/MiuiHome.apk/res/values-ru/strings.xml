@@ -132,4 +132,28 @@
   <string name="widget_favorite_contacts_style">Вид</string>
   <string name="widget_gadget_player">Музыка</string>
   <string name="widget_global_search">Поиск</string>
+
+  <string name="free_style_edit_drawer">Drawer</string>
+  <string name="free_style_enter_tip">Slide down with two fingers to switch to MiSpace</string>
+  <string name="free_style_exit_tip">Slide up with two fingers to exit MiSpace</string>
+  <string name="pref_enable_drawing_cache_summary">Turn off to free up memory. Will cause some lag.</string>
+  <string name="free_style_apps_title">Select application</string>
+  <string name="free_style_edit_tab_widget">Widgets</string>
+  <string name="preference_pick_mwp_title">Choose mi-wallpaper</string>
+  <string name="free_style_edit_app">Application</string>
+  <string name="free_style_londing_text">Enhancing imagination…</string>
+  <string name="free_style_drawer_title">All applications</string>
+  <string name="free_style_edit_bar_select_app">Select app</string>
+  <string name="home_indicator">bottom_point</string>
+  <string name="free_style_edit_bar_empty">Empty</string>
+  <string name="free_style_edit_tab_shortcut">Shortcuts</string>
+  <string name="no_mi_wallpaper">"Can't find default mi-wallpaper."</string>
+  <string name="mi_wallpaper_preference">Mi-wallpaper settings</string>
+  <string name="wallpaper_scrolling">all</string>
+  <string name="mi_wallpaper_title">Mi Wallpaper</string>
+  <string name="pref_keep_layout_title">Keep current layout</string>
+  <string name="free_style_edit_move_tip">Longpress can move it</string>
+  <string name="free_style_edit_bottom_empty_tip">Tap the rect for change</string>
+  <string name="mi_wallpaper_summary">Activate your desktop</string>
+  <string name="free_style_edit_tab_free_component">Free components</string>
 </resources>

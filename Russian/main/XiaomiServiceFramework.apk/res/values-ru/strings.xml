@@ -238,5 +238,23 @@
   <string name="user_agreement_p3"> и  </string>
   <string name="user_agreement_p4">Политикой безопасности</string>
   <string name="user_agreement_p5">Регистрируясь, Вы соглашаетесь с\n </string>
-  <string name="xmpp_server_addr" />
+
+
+  <string name="mibi_license_message">You will use Xiaomi Mi Credit Service. Clicking OK means you agree to comply with %1$s.</string>
+  <string name="prepaid_error_card_length">Please input the correct prepaid card number or password</string>
+  <string name="reg_type_email">Register via email</string>
+  <string name="mibi_license_message_span">Mi Credit User Agreement</string>
+  <string name="progress_submit_hint">Recharge will be reflected within 3 minutes</string>
+  <string name="recharge_prepaid_summary">Supports China Mobile, China Unicom and China Telecom recharge cards</string>
+  <string name="prepaid_picker_title_selected">recharge amount</string>
+  <string name="remove_confirm">Delete it</string>
+  <string name="skip_login">Skip login</string>
+  <string name="btn_count_down_wait">Wait for %1$s seconds</string>
+  <string name="relogin">Re-login</string>
+  <string name="prepaid_picker_title_default">Select recharge amount</string>
+  <string name="remove_unactivated_account_notice">The Xiaomi account is not activated, remove it now?</string>
+  <string name="find_password_on_web_msg">Please visit account.xiaomi.com to retrieve password</string>
+  <string name="reg_type_phone">Register via phone number (recommended)</string>
+  <string name="mibi_license_title">User agreement</string>
+  <string name="btn_count_down_auto">Inquire after %1$s seconds</string>
 </resources>

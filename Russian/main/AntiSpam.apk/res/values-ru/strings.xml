@@ -129,4 +129,9 @@
   <string name="save_button">Сохранить</string>
   <string name="show_firewall_notification">Показывать значок</string>
   <string name="show_notification">Показать уведомления</string>
+
+  <string name="blacklist_tab_title">Черный список</string>
+  <string name="new_bw_list_button">Добавить контаты</string>
+  <string name="fw_call_imported">Импортировать журнал</string>
+  <string name="whitelist_tab_title">Белый список</string>
 </resources>

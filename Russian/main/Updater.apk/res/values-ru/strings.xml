@@ -145,4 +145,10 @@
   <string name="wifi_not_available_body">Файл прошивки слишком большой, рекомендуется скачать его через Wi-Fi. Ваш Wi-Fi в настоящее время отключен, вы хотите продолжить загрузку через мобильную сеть?</string>
   <string name="wifi_not_available_title">Wi-Fi не подключен</string>
   <string name="worst_update">3. Худшее обновление</string>
+
+  <string name="share_qq">Post it via Tencent Weibo</string>
+  <string name="share_update_content_sign">I’ve updated MIUI to %1$s! My update user rank is %2$s. For detailed changelog, please visit %3$s</string>
+  <string name="share_update_content_unsign">I’ve updated MIUI to %1$s! For detailed changelog, please visit %2$s</string>
+  <string name="share_sina">Post it via Sina Weibo</string>
+  <string name="moving_data_to_sdcard_message">"Data is being transferred to the SD card, please don't turn on USB mode or remove SD card."</string>
 </resources>

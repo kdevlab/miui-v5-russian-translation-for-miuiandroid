@@ -362,4 +362,18 @@
   <string name="widget_type_shuffle">Перемешать все изображения</string>
   <string name="width">Ширина</string>
   <string name="yes">Да</string>
+
+  <string name="projection">Projection</string>
+  <string name="settings_i_xiaomi_com">Login i.xiaomi.com to see your cloud album(s) anytime</string>
+  <string name="browse_category">Browsing photos</string>
+  <string name="initial_cloud_text">Any time and any place · Organize and view your photos</string>
+  <string name="not_show_hidden_albums">Do not show hidden album(s)</string>
+  <string name="crop_polymorphism">photoeditor_effect_crop</string>
+  <string name="local_albums">Local images</string>
+  <string name="cloud_album_more_settings">Cloud album(s) and automatic upload</string>
+  <string name="photo_page_save_uri_image_fail">Failed to save the photo.</string>
+  <string name="initial_cloud_button_text">Start to use cloud album</string>
+  <string name="show_hidden_albums">Show hidden album(s)</string>
+  <string name="photo_page_save_image">Save</string>
+  <string name="photo_page_save_uri_image_ok">The photo has been saved to camera photos directory.</string>
 </resources>

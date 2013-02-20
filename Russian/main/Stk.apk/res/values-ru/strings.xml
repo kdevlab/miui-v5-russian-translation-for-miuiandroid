@@ -18,4 +18,12 @@
   <string name="service_name">Название службы</string>
   <string name="stk_app_state">Состояние приложения</string>
   <string name="stk_no_service">Вне зоны обслуживания</string>
+
+  <string name="stk_dialog_title">SIM ToolKit</string>
+  <string name="default_setup_call_msg">Call being setup</string>
+  <string name="default_open_channel_msg">Open Channel?</string>
+  <string name="app_name2">SIM Toolkit2</string>
+  <string name="default_receive_data_msg">Receiving Data</string>
+  <string name="default_close_channel_msg">Channel Closed</string>
+  <string name="default_send_data_msg">Sending Data</string>
 </resources>

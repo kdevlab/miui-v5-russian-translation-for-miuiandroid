@@ -25,4 +25,13 @@
   <string name="toast_accuracy_low">Низкая точность калибровки. 
 Нажмите МЕНЮ для повтора</string>
   <string name="user_guide_calibrate">Нажмите кнопку МЕНЮ для калибровки компаса</string>
+
+  <string name="direction_south">S</string>
+  <string name="pressure_title">Pressure</string>
+  <string name="direction_west">W</string>
+  <string name="altitude_unit">m</string>
+  <string name="pressure_unit">hPa</string>
+  <string name="direction_north">N</string>
+  <string name="altitude_title">Altitude</string>
+  <string name="direction_east">E</string>
 </resources>

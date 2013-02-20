@@ -177,4 +177,19 @@
   <string name="where_label">Где</string>
   <string name="yearly">Ежегодно (%s)</string>
   <string name="yearly_plain">Ежегодно</string>
+
+  <string name="preferences_category_general_title">General</string>
+  <string name="do_not_check">Do NOT check -></string>
+  <string name="miui_menu_create_event">New</string>
+  <string name="delete_recurring_event_title">Delete %s?</string>
+  <string name="done">Return</string>
+  <string name="acessibility_selected_marker_description">Selected event</string>
+  <string name="acessibility_snooze_notification">Snooze Notification</string>
+  <string name="today">Today</string>
+  <string name="tomorrow_at_time_fmt">Tomorrow at %s</string>
+  <string name="copy_number">Copy phone number</string>
+  <string name="acessibility_cal_notification">Calendar Notification</string>
+  <string name="preferences_category_account_title">Account</string>
+  <string name="today_at_time_fmt">Today at %s</string>
+  <string name="copy_email">Copy email address</string>
 </resources>

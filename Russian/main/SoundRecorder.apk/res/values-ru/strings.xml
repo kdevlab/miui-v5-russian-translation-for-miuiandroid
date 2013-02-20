@@ -7,7 +7,6 @@
   <string name="audio_db_album_name">Аудиозаписи</string>
   <string name="audio_db_artist_name">Ваши записи</string>
   <string name="audio_db_playlist_name">Мои записи</string>
-  <string name="audio_db_title_format">dd-MM-yyyy_HH:mm:ss</string>
   <string name="button_ok">ОК</string>
   <string name="call_record">Запись вызова</string>
   <string name="call_record_or">или</string>
@@ -55,4 +54,17 @@
   <string name="second">%d секунд</string>
   <string name="storage_is_full">Память заполнена</string>
   <string name="unknown_caller">Неизвестный вызов</string>
+
+
+  <string name="rename">Rename</string>
+  <string name="miui_preiew_list_actionmode_title">%d Selected</string>
+  <string name="record_picker_title">Pick one record</string>
+  <string name="rename_duplicate">Duplicate record name, please re-enter:</string>
+  <string name="dialog_content_storage_full">Due to lack of storage space, the recording was forced to stop and clean up unnecessary files through the File Manager, now open?</string>
+  <string name="rename_illegal">Illegal record name, please re-enter:</string>
+  <string name="dialog_title_storage_full">The lack of storage space, now clean up?</string>
+  <string name="delete">Delete</string>
+  <string name="rename_dialog_title">Rename for this record file</string>
+  <string name="deleting_message">Deleting...</string>
+  <string name="send_to">Send to</string>
 </resources>
