@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <!--Translated by KDev Group (main repository)-->
+  <!--Fixed, merged and deleted duplicates by KDG Translation Suite-->
+  <string name="app_label">Хранилище мультимедиа</string>
+  <string name="artist_label">Исполнитель</string>
+  <string name="uid_label">Мультимедиа</string>
+  <string name="upgrade_msg">Обновление базы данных мультимедиа...</string>
+</resources>

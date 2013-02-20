@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <!--Translated by KDev Group (main repository)-->
+  <!--Fixed, merged and deleted duplicates by KDG Translation Suite-->
+  <string name="agree">Принимаю</string>
+  <string name="app_label">Местоположение сети</string>
+  <string name="disagree">Не принимаю</string>
+  <string name="location_warning_message">Разрешить службе геопозиционирования Google собирать анонимные данные о местоположении. Некоторые из них могут храниться на устройстве. Сбор сведений может проходить даже тогда, когда ни одно из приложений не запущено.</string>
+  <string name="location_warning_title">Разрешить отслеживание?</string>
+</resources>

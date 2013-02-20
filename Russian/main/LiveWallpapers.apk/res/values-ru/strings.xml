@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <!--Translated by KDev Group (main repository)-->
+  <!--Fixed, merged and deleted duplicates by KDG Translation Suite-->
+  <string name="clock_settings">Полярные часы: настройки</string>
+  <string name="palette">Цветовая палитра</string>
+  <string name="palette_black_c">Черная дыра (анимация)</string>
+  <string name="palette_gray">Сталь</string>
+  <string name="palette_halloween">Тыквенный пирог</string>
+  <string name="palette_matrix">Зеленый экран</string>
+  <string name="palette_oceanic">Синий лазер</string>
+  <string name="palette_violet">Полночь</string>
+  <string name="palette_white_c">Белый медведь (анимация)</string>
+  <string name="palette_zenburn">Винегрет с других планет</string>
+  <string name="show_seconds">Показать секунды</string>
+  <string name="variable_line_width">Изменять ширину кольца</string>
+  <string name="wallpaper_clock">Полярные часы</string>
+  <string name="wallpaper_clock_author">Google</string>
+  <string name="wallpaper_clock_desc">Оригинальные часы и календарь</string>
+  <string name="wallpaper_fall">Вода</string>
+  <string name="wallpaper_fall_author">Google</string>
+  <string name="wallpaper_fall_desc">Опавшие листья&lt;br&gt; На берегу пруда:&lt;br&gt; Вибрации Дзен</string>
+  <string name="wallpaper_galaxy">Галактика</string>
+  <string name="wallpaper_galaxy_author">Google</string>
+  <string name="wallpaper_galaxy_desc">Галактика кружащихся звезд</string>
+  <string name="wallpaper_grass">Трава</string>
+  <string name="wallpaper_grass_author">Google</string>
+  <string name="wallpaper_grass_desc">Стебли травы, колышущиеся на фоне ночного или дневного неба</string>
+  <string name="wallpaper_nexus">Нейроны</string>
+  <string name="wallpaper_nexus_author">Google</string>
+  <string name="wallpaper_nexus_desc">Нейронная сеть изнутри</string>
+  <string name="wallpaper_walkaround">В объективе</string>
+  <string name="wallpaper_walkaround_author">Google</string>
+  <string name="wallpaper_walkaround_desc">Смотрите в мир через камеру телефона и прогуливайтесь, не подвергаясь риску</string>
+  <string name="wallpapers">Живые обои</string>
+</resources>

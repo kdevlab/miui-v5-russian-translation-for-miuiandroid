@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="confirm_delete_conversation">
+        <item quantity="other">Вы уверены, что хотите удалить выбранные (%1$s) цепочки?</item>
+        <item quantity="one">Вы уверены, что хотите удалить данную цепочку?</item>
+    </plurals>
+    <plurals name="slide_duration">
+        <item quantity="other">%s с.</item>
+        <item quantity="one">%s с.</item>
+        <item quantity="few">%s с.</item>
+    </plurals>
+    <plurals name="search_results_title">
+        <item quantity="other">Поиск \"%2$s\" (%1$s)</item>
+        <item quantity="one">Поиск \"%2$s\" (%1$s)</item>
+    </plurals>
+    <plurals name="recipient_count">
+        <item quantity="other">%1$s чел.</item>
+    </plurals>
+</resources>

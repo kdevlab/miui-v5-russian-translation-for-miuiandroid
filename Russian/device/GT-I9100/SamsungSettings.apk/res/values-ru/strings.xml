@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <!--Translated by KDev Group (main repository)-->
+  <!--Fixed, merged and deleted duplicates by KDG Translation Suite-->
+  <string name="a_sensor_summary">Горизонтальная калибровка правильно используя акселерометр</string>
+  <string name="a_sensor_title">Горизонтальная калибровка</string>
+  <string name="display_saving">Авторегулировка экрана</string>
+  <string name="display_saving_mode_summary">Экономия электроэнергии на основе анализа изображений и регулировка яркости ЖК-дисплея</string>
+  <string name="factory_settings">Заводские установки</string>
+  <string name="g_sensor_summary">Калибровка движения правильно используя гироскоп</string>
+  <string name="g_sensor_title">Калибровка гироскопа</string>
+  <string name="screen_mode_setting">Режим экрана</string>
+  <string name="screen_mode_summary">Выберите режим экрана</string>
+  <string name="touch_key_light">Задержка подсветки тач-клавиш</string>
+  <string name="touch_key_light_summary">Отрегулируйте задержку перед автоотключением тач-клавиш</string>
+</resources>

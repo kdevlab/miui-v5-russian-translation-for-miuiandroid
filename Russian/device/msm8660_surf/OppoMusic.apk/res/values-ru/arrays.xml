@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Decoded with KDG BigBlackBox-->
+<resources>
+    <string-array name="eq_preset_entries">
+        <item>Close</item>
+        <item>Default</item>
+        <item>Pop</item>
+        <item>Classical</item>
+        <item>Rock</item>
+        <item>Jazz</item>
+        <item>R &amp; B</item>
+        <item>Electronic music</item>
+        <item>Latin</item>
+        <item>Custom</item>
+    </string-array>
+    <string-array name="repeat_modes_entries">
+        <item>OFF</item>
+        <item>One</item>
+        <item>All</item>
+    </string-array>
+    <string-array name="auto_search_entries">
+        <item>Open in WIFI</item>
+        <item>Always open</item>
+        <item>Always closed</item>
+    </string-array>
+    <string-array name="stop_playing_entries">
+        <item>OFF</item>
+        <item>30 min</item>
+        <item>60 min</item>
+        <item>90 min</item>
+        <item>Custom off time</item>
+    </string-array>
+    <string-array name="skin_entries">
+        <item>Skin1</item>
+        <item>Skin2</item>
+        <item>Skin3</item>
+    </string-array>
+    <string-array name="pref_ssh_entries">
+        <item>OFF</item>
+        <item>Level 1</item>
+        <item>Level 2</item>
+        <item>Level 3</item>
+    </string-array>
+    <string-array name="pref_natural_bass_entries">
+        <item>OFF</item>
+        <item>Level 1</item>
+        <item>Level 2</item>
+        <item>Level 3</item>
+    </string-array>
+    <string-array name="pref_hfe_entries">
+        <item>OFF</item>
+        <item>Level 1</item>
+        <item>Level 2</item>
+        <item>Level 3</item>
+    </string-array>
+    <string-array name="menu_more">
+        <item>Add to list</item>
+        <item>Send</item>
+        <item>Set as ringtone</item>
+    </string-array>
+</resources>

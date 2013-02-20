@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="new_account_types">
+        <item>Регистрация через телефон (рекоменд.)</item>
+        <item>Регистрация через E-mail</item>
+    </string-array>
+</resources>

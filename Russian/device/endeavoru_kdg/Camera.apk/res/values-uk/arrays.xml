@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Decoded with KDG BigBlackBox-->
+<resources>
+    <array name="pref_review_duration_choices">
+        <item>@string/pref_review_duration_no_review</item>
+        <item>@string/time_3_seconds</item>
+        <item>@string/time_5_seconds</item>
+        <item>@string/no_limit</item>
+    </array>
+    <string-array name="pref_review_duration_values">
+        <item>no_review</item>
+        <item>3s</item>
+        <item>5s</item>
+        <item>no_limit</item>
+    </string-array>
+    <array name="pref_3D_file_format_choices">
+        <item>@string/mpo_file_format</item>
+        <item>@string/jps_file_format</item>
+    </array>
+    <string-array name="pref_3D_file_format_values">
+        <item>mpo</item>
+        <item>jps</item>
+    </string-array>
+    <array name="pref_video_file_format_choices">
+        <item>@string/file_format_3gpp</item>
+        <item>@string/file_format_mp4</item>
+    </array>
+    <string-array name="pref_video_file_format_values">
+        <item>3gpp</item>
+        <item>mp4</item>
+    </string-array>
+    <array name="pref_quality_choices">
+        <item>@string/pref_quality_super</item>
+        <item>@string/pref_quality_fine</item>
+        <item>@string/pref_quality_normal</item>
+    </array>
+    <string-array name="pref_quality_values">
+        <item>_super</item>
+        <item>_fine</item>
+        <item>_normal</item>
+    </string-array>
+    <array name="pref_flash_choices">
+        <item>@string/auto</item>
+        <item>@string/on_capital</item>
+        <item>@string/off_capital</item>
+    </array>
+    <string-array name="pref_flash_values">
+        <item>auto</item>
+        <item>on</item>
+        <item>off</item>
+    </string-array>
+    <array name="pref_flash_values_text_ds">
+        <item>@string/doubleshot_main_bar_flash_auto</item>
+        <item>@string/doubleshot_main_bar_flash_on</item>
+        <item>@string/doubleshot_main_bar_flash_off</item>
+    </array>
+    <array name="pref_flash_values_text">
+        <item>@string/main_bar_flash_auto</item>
+        <item>@string/main_bar_flash_on</item>
+        <item>@string/main_bar_flash_off</item>
+    </array>
+    <array name="pref_scene_text_ds">
+        <item>@string/doubleshot_main_bar_scene_auto</item>
+        <item>@string/doubleshot_main_bar_scene_panorama</item>
+        <item>@string/doubleshot_main_bar_scene_hdr</item>
+        <item>@string/doubleshot_main_bar_scene_burst</item>
+        <item>@string/doubleshot_main_bar_scene_night</item>
+        <item>@string/doubleshot_main_bar_scene_action</item>
+        <item>@string/doubleshot_main_bar_scene_closeup</item>
+        <item>@string/doubleshot_main_bar_scene_portrait</item>
+        <item>@string/doubleshot_main_bar_scene_manual</item>
+    </array>
+    <array name="pref_scene_text_sense_3_0">
+        <item>@string/scene_auto</item>
+        <item>@string/scene_whiteboard</item>
+        <item>@string/scene_portrait</item>
+        <item>@string/scene_landscape</item>
+        <item>@string/scene_sports</item>
+        <item>@string/scene_macro</item>
+        <item>@string/scene_backlight</item>
+        <item>@string/scene_beach</item>
+        <item>@string/scene_snow</item>
+        <item>@string/scene_sunset</item>
+        <item>@string/scene_candlelight</item>
+        <item>@string/scene_lowlight</item>
+    </array>
+    <string-array name="pref_scene_values_sense_3_0">
+        <item>auto</item>
+        <item>B_whiteboard</item>
+        <item>portrait</item>
+        <item>landscape</item>
+        <item>sports</item>
+        <item>flowers</item>
+        <item>backlight</item>
+        <item>beach</item>
+        <item>snow</item>
+        <item>sunset</item>
+        <item>candlelight</item>
+        <item>night</item>
+    </string-array>
+    <array name="pref_selftimer_choices">
+        <item>@string/off_capital</item>
+        <item>@string/time_2_seconds</item>
+        <item>@string/time_10_seconds</item>
+    </array>
+    <string-array name="pref_selftimer_values">
+        <item>none</item>
+        <item>2s</item>
+        <item>10s</item>
+    </string-array>
+    <array name="pref_faceNo_choices">
+        <item>@string/off_capital</item>
+        <item>@string/one_face</item>
+        <item>@string/two_faces</item>
+    </array>
+    <string-array name="pref_faceNo_values">
+        <item>none</item>
+        <item>1face</item>
+        <item>2faces</item>
+    </string-array>
+    <array name="pref_video_format_choices">
+        <item>@string/pref_video_format_h263</item>
+        <item>@string/pref_video_format_mpeg4</item>
+    </array>
+    <string-array name="pref_video_format_values">
+        <item>h263</item>
+        <item>mpeg4</item>
+    </string-array>
+    <array name="pref_recording_limit_choices">
+        <item>@string/pref_recording_limit_1mb</item>
+        <item>@string/pref_recording_limit_2mb</item>
+        <item>@string/pref_recording_limit_10s</item>
+        <item>@string/pref_recording_limit_30s</item>
+        <item>@string/pref_recording_limit_1min</item>
+        <item>@string/pref_recording_limit_3min</item>
+        <item>@string/no_limit</item>
+    </array>
+    <string-array name="pref_recording_limit_values">
+        <item>1mb</item>
+        <item>2mb</item>
+        <item>10s</item>
+        <item>30s</item>
+        <item>1min</item>
+        <item>3min</item>
+        <item>unlimited</item>
+    </string-array>
+    <array name="pref_metering_mode_choices">
+        <item>@string/pref_metering_mode_spot</item>
+        <item>@string/pref_metering_mode_center</item>
+        <item>@string/pref_metering_mode_average</item>
+    </array>
+    <string-array name="pref_metering_mode_values">
+        <item>_spot</item>
+        <item>_center_area</item>
+        <item>_average</item>
+    </string-array>
+    <array name="pref_flicker_choices">
+        <item>@string/auto</item>
+        <item>@string/pref_flicker_50</item>
+        <item>@string/pref_flicker_60</item>
+    </array>
+    <string-array name="pref_flicker_values">
+        <item>auto</item>
+        <item>50hz</item>
+        <item>60hz</item>
+    </string-array>
+    <array name="pref_iso_choices">
+        <item>@string/auto</item>
+        <item>@string/pref_iso_100</item>
+        <item>@string/pref_iso_200</item>
+        <item>@string/pref_iso_400</item>
+        <item>@string/pref_iso_800</item>
+        <item>@string/pref_iso_1200</item>
+    </array>
+    <string-array name="pref_iso_values">
+        <item>auto</item>
+        <item>ISO100</item>
+        <item>ISO200</item>
+        <item>ISO400</item>
+        <item>ISO800</item>
+        <item>ISO1250</item>
+    </string-array>
+    <array name="pref_wb_choices">
+        <item>@string/auto</item>
+        <item>@string/wb_incandescent</item>
+        <item>@string/wb_fluorescent</item>
+        <item>@string/wb_daylight</item>
+        <item>@string/wb_cloudy</item>
+    </array>
+    <string-array name="pref_wb_values">
+        <item>auto</item>
+        <item>incandescent</item>
+        <item>fluorescent</item>
+        <item>daylight</item>
+        <item>cloudy-daylight</item>
+    </string-array>
+    <array name="pref_effect_choices">
+        <item>@string/ui_effect_grayscale</item>
+        <item>@string/ui_effect_sepia</item>
+        <item>@string/ui_effect_negative</item>
+        <item>@string/ui_effect_solarize</item>
+        <item>@string/ui_effect_posterize</item>
+        <item>@string/ui_effect_blackboard</item>
+        <item>@string/ui_effect_aqua</item>
+        <item>@string/ui_effect_pastel</item>
+        <item>@string/ui_effect_mosaic</item>
+        <item>@string/ui_effect_redtint</item>
+        <item>@string/ui_effect_bluetint</item>
+        <item>@string/ui_effect_greentint</item>
+    </array>
+    <string-array name="pref_effect_values">
+        <item>mono</item>
+        <item>sepia</item>
+        <item>negative</item>
+        <item>solarize</item>
+        <item>posterize</item>
+        <item>blackboard</item>
+        <item>aqua</item>
+        <item>pastel</item>
+        <item>mosaic</item>
+        <item>red-tint</item>
+        <item>blue-tint</item>
+        <item>green-tint</item>
+    </string-array>
+    <array name="pref_effect_choices_interactive">
+        <item>@string/ui_none</item>
+        <item>@string/ui_effect_panorama</item>
+        <item>@string/ui_effect_hdr</item>
+        <item>@string/ui_effect_burst</item>
+        <item>@string/ui_effect_distortion</item>
+        <item>@string/ui_effect_vignette</item>
+        <item>@string/ui_effect_depth</item>
+        <item>@string/ui_effect_dots</item>
+        <item>@string/ui_effect_vintage_dark</item>
+        <item>@string/ui_effect_vintage_warm</item>
+        <item>@string/ui_effect_vintage_cold</item>
+    </array>
+    <string-array name="pref_effect_values_interactive">
+        <item>none</item>
+        <item>panorama</item>
+        <item>hdr</item>
+        <item>burst</item>
+        <item>distortion</item>
+        <item>vignette</item>
+        <item>depth</item>
+        <item>dots</item>
+        <item>vintage-high</item>
+        <item>vintage-red</item>
+        <item>vintage-green</item>
+    </string-array>
+    <array name="pref_storage_choices">
+        <item>@string/storage_card</item>
+        <item>@string/storage_phone</item>
+    </array>
+    <string-array name="pref_storage_values">
+        <item>sdcard</item>
+        <item>main_memory</item>
+    </string-array>
+</resources>

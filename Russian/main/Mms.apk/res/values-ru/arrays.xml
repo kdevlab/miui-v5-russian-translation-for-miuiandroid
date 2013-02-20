@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="default_smiley_texts">
+        <item>:-)</item>
+        <item>:-(</item>
+        <item>;-)</item>
+        <item>:-P</item>
+        <item>=-O</item>
+        <item>:-*</item>
+        <item>:O</item>
+        <item>B-)</item>
+        <item>:-$</item>
+        <item>:-!</item>
+        <item>:-[</item>
+        <item>O:-)</item>
+        <item>:-\\</item>
+        <item>":'("</item>
+        <item>:-X</item>
+        <item>:-D</item>
+        <item>o_O</item>
+        <item>&lt;3</item>
+        <item>x-(</item>
+        <item>:-/</item>
+        <item>:-I</item>
+    </string-array>
+    <string-array name="default_smiley_names">
+        <item>Счастливый</item>
+        <item>Грустный</item>
+        <item>Подмигивающий</item>
+        <item>Высунутый язык</item>
+        <item>Удивлённый</item>
+        <item>Поцелуй</item>
+        <item>Вопящий</item>
+        <item>Отлично</item>
+        <item>Деньги во рту</item>
+        <item>Нога во рту</item>
+        <item>Растерянный</item>
+        <item>Ангел</item>
+        <item>Нерешительный</item>
+        <item>Кричащий</item>
+        <item>Рот закрыт</item>
+        <item>Смеющийся</item>
+        <item>Смущенный</item>
+        <item>Сердце</item>
+        <item>Бешеный</item>
+        <item>Ухмылка</item>
+        <item>Ничего не выражающее лицо</item>
+    </string-array>
+    <string-array name="resent_via_entries">
+        <item>Через сообщения</item>
+        <item>Через облачные сообщения</item>
+    </string-array>
+    <string-array name="prefEntries_ringtone_repeat">
+        <item>1 раз</item>
+        <item>2 раза</item>
+        <item>3 раза</item>
+        <item>5 раз</item>
+        <item>10 раз</item>
+    </string-array>
+    <string-array name="contact_entries">
+        <item>Имя</item>
+        <item>Ник</item>
+        <item>Телефон</item>
+        <item>E-mail</item>
+        <item>Компания</item>
+        <item>IM</item>
+        <item>Интернет номер</item>
+        <item>День рождения</item>
+        <item>Веб-сайт</item>
+        <item>Адрес</item>
+        <item>Примечания</item>
+    </string-array>
+    <string-array name="select_dialog_items">
+        <item>1 секунда</item>
+        <item>2 секунды</item>
+        <item>3 секунды</item>
+        <item>4 секунды</item>
+        <item>5 секунд</item>
+        <item>6 секунд</item>
+        <item>7 секунд</item>
+        <item>8 секунд</item>
+        <item>9 секунд</item>
+        <item>10 секунд</item>
+        <item>Другое</item>
+    </string-array>
+    <string-array name="prefEntries_vibrateWhen">
+        <item>Всегда</item>
+        <item>Беззвучный режим</item>
+        <item>Никогда</item>
+    </string-array>
+    <string-array name="entries_date_type">
+        <item>Показывать время получения</item>
+        <item>Показывать время отправки</item>
+    </string-array>
+</resources>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Decoded with KDG BigBlackBox-->
+<resources>
+    <string-array name="camera_settings">
+        <item>Camera</item>
+        <item>Shutter sound</item>
+        <item>Store location</item>
+        <item>Low light</item>
+        <item>Natural flash</item>
+        <item>HDR</item>
+        <item>Flash mode</item>
+    </string-array>
+    <string-array name="video_settings">
+        <item>Camera</item>
+        <item>File formats</item>
+        <item>Store location</item>
+        <item>Exposure</item>
+        <item>Recorder</item>
+    </string-array>
+    <string-array name="items_name">
+        <item>Funny</item>
+        <item>Rewind</item>
+        <item>Deformed</item>
+        <item>Light Color</item>
+        <item>Enhanced</item>
+    </string-array>
+    <string-array name="item_interest">
+        <item>Fisheye</item>
+        <item>Mirror</item>
+        <item>Pencil</item>
+        <item>Color</item>
+    </string-array>
+    <string-array name="item_rewind">
+        <item>Start</item>
+        <item>Demo</item>
+    </string-array>
+    <string-array name="item_haha_mirror">
+        <item>Funnel</item>
+        <item>Wave</item>
+        <item>Sphere</item>
+        <item>Sea</item>
+    </string-array>
+    <string-array name="item_diary">
+        <item>Virtual-F</item>
+        <item>Soft-F</item>
+        <item>Lomo</item>
+        <item>Retro</item>
+    </string-array>
+    <string-array name="item_strengthen">
+        <item>Burst</item>
+        <item>Panorama</item>
+    </string-array>
+</resources>

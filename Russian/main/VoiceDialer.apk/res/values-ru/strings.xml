@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <!--Translated by KDev Group (main repository)-->
+  <!--Fixed, merged and deleted duplicates by KDG Translation Suite-->
+  <string name="at_home">" , домашний"</string>
+  <string name="at_other">" , другой номер"</string>
+  <string name="at_work">" , работа"</string>
+  <string name="bluetooth_title">Голосовой набор Bluetooth</string>
+  <string name="examples">" Примеры: "</string>
+  <string name="failure">Ошибка</string>
+  <string name="goodbye_tts">До свидания.</string>
+  <string name="headset_connection_lost">Связь с наушниками потеряна.</string>
+  <string name="initializing">Подготовка к работе.</string>
+  <string name="invalid_choice_tts">Неверный выбор.</string>
+  <string name="listening">Слушаю...</string>
+  <string name="logging_disabled">Журнал Голосового набора выключен.</string>
+  <string name="logging_enabled">Журнал Голосового набора включен.</string>
+  <string name="no_results_tts">Безрезультатно, повторите попытку.</string>
+  <string name="on_mobile">" , мобильный"</string>
+  <string name="please_try_again">Попробуйте еще раз.</string>
+  <string name="recognition_error">Можно также перезапустить телефон.</string>
+  <string name="speak_now_tts">Говорите.</string>
+  <string name="title">Голосовой набор</string>
+  <string name="tool_tip_message">Нажмите и удерживайте зеленую кнопку \"Вызов\", чтобы открыть Голосовой набор.</string>
+  <string name="tool_tip_title">Знаете ли вы…</string>
+  <string name="voiceDialer">Голосовой набор</string>
+</resources>

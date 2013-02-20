@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <!--Translated by KDev Group (main repository)-->
+  <!--Fixed, merged and deleted duplicates by KDG Translation Suite-->
+  <string name="application_copyright">"Все права защищены © genokolar@gmail.com 2012
+Посетите http://www.iamgeno.com"</string>
+  <string name="dts_mode">Режим звука DTS</string>
+  <string name="dts_mode_summary">Включение/Отключение режима звука DTS</string>
+  <string name="dualmic_enable_summary">Использование второго микрофона для устранения эхо в вызовах</string>
+  <string name="dualmic_enable_title">Вкл. двойной микрофон</string>
+  <string name="fast_power_on_summary">Включение повышенного питания</string>
+  <string name="fast_power_on_title">Быстрая загрузка</string>
+  <string name="google">Сервисы Goolge</string>
+  <string name="google_summary">Урезанные версии сервисов Google</string>
+  <string name="headsetmic_enable_summary">Когда вы подкл. гарнитуру, будет использоваться микрофон гарнитуры</string>
+  <string name="headsetmic_enable_title">Использовать микрофон гарнитуры</string>
+  <string name="huawei_settings">Настройки устройства</string>
+  <string name="lite_summary">Оптимизация сервисов для увеличения доступной памяти</string>
+  <string name="lite_title">Оптимизация системы</string>
+  <string name="lowmem">Управление памятью</string>
+  <string name="lowmem_summary">Выбор режима управления памятью</string>
+  <string name="miui">Сервисы MIUI</string>
+  <string name="miui_summary">Урезанные версии сервисов MIUI</string>
+  <string name="network">Сеть/Безопасность</string>
+  <string name="network_summary">Урезанная версия сети/Сервиса безопасности</string>
+  <string name="other">Другие</string>
+  <string name="other_summary">Урезанные версии других сервисов</string>
+  <string name="powermanage">Режим Питания</string>
+  <string name="powermanage_summary">Выбор режима питания</string>
+  <string name="preferences_application_title">Информация об авторе</string>
+  <string name="project_menu_title">Проектное меню</string>
+  <string name="swap">Файл подкачки (SWAP)</string>
+  <string name="swap_summary">Использование файла подкачки для улучшения производительности памяти</string>
+  <string name="vsync">Отзывчивость интерфейса</string>
+  <string name="vsync_summary">Ускорение отзывчивости интерфейса, для лучшего реагирования</string>
+</resources>

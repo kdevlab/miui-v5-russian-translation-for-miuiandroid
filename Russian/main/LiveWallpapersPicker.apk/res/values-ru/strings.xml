@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <!--Translated by KDev Group (main repository)-->
+  <!--Fixed, merged and deleted duplicates by KDG Translation Suite-->
+  <string name="application_name">Каталог живых обоев</string>
+  <string name="configure_wallpaper">Настройки…</string>
+  <string name="live_wallpaper_empty">Живые обои отсутствуют.</string>
+  <string name="live_wallpaper_loading">Загрузка живых обоев…</string>
+  <string name="live_wallpaper_picker_label">Живые обои</string>
+  <string name="live_wallpaper_picker_title">Выберите Живые обои</string>
+  <string name="live_wallpaper_preview_title">Предпросмотр живых обоев</string>
+  <string name="set_live_wallpaper">Установить фоновый рисунок</string>
+  <string name="wallpaper_cancel">Отмена</string>
+  <string name="wallpaper_instructions">Установить обои</string>
+  <string name="wallpaper_title_and_author">%1$s, автор: %2$s</string>
+</resources>

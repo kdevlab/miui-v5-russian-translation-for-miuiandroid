@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="yandex_ru">
+        <item>Яндекс</item>
+        <item>yandex.ru</item>
+        <item>http://yandex.ru/favicon.ico</item>
+        <item>http://yandex.ru/touchsearch?&amp;clid=1788326&amp;text={searchTerms}</item>
+        <item>UTF-8</item>
+        <item>http://suggest.yandex.net/suggest-ff.cgi?&amp;clid=1788326&amp;part={searchTerms}</item>
+    </string-array>
+    <string-array name="pref_content_plugins_choices">
+        <item>Да</item>
+        <item>По требованию</item>
+        <item>Нет</item>
+    </string-array>
+    <string-array name="pref_homepage_choices">
+        <item>Текущая страница</item>
+        <item>Домашняя MIUI</item>
+        <item>Пустая страница</item>
+        <item>Страница по умолчанию</item>
+        <item>Часто посещаемые веб-сайты</item>
+        <item>Другая</item>
+    </string-array>
+    <string-array name="pref_text_size_choices">
+        <item>Мелкий</item>
+        <item>Маленький</item>
+        <item>Средний</item>
+        <item>Большой</item>
+        <item>Огромный</item>
+    </string-array>
+    <string-array name="pref_default_zoom_choices">
+        <item>Мелкий</item>
+        <item>Средний</item>
+        <item>Крупный</item>
+    </string-array>
+    <string-array name="pref_default_text_encoding_choices">
+        <item>Latin-1 (ISO-8859-1)</item>
+        <item>Юникод (UTF-8)</item>
+        <item>Китайская (GBK)</item>
+        <item>Китайская (Big5)</item>
+        <item>Японская (ISO-2022-JP)</item>
+        <item>Японская (SHIFT_JIS)</item>
+        <item>Японская (EUC-JP)</item>
+        <item>Корейская (EUC-KR)</item>
+    </string-array>
+    <string-array name="pref_data_preload_choices">
+        <item>Никогда</item>
+        <item>Только по Wi-Fi</item>
+        <item>Всегда</item>
+    </string-array>
+    <array name="pref_data_preload_values">
+        <item>@string/pref_data_preload_value_never</item>
+        <item>@string/pref_data_preload_value_wifi_only</item>
+        <item>@string/pref_data_preload_value_always</item>
+    </array>
+    <string-array name="bookmarks">
+        <item>Google</item>
+        <item>http://www.google.com/</item>
+        <item>VK.com</item>
+        <item>http://vk.com/</item>
+        <item>Яндекс</item>
+        <item>http://www.yandex.ru/</item>
+        <item>Прошивки</item>
+        <item>http://romz.bz/</item>
+        <item>Twitter</item>
+        <item>http://twitter.com/</item>
+        <item>Facebook</item>
+        <item>http://www.facebook.com/</item>
+        <item>Wikipedia</item>
+        <item>http://www.wikipedia.org/</item>
+        <item>eBay</item>
+        <item>http://www.ebay.com/</item>
+    </string-array>
+    <string-array name="google">
+        <item>Google</item>
+        <item>google.com</item>
+        <item>http://www.google.com/favicon.ico</item>
+        <item>http://www.google.com/search?hl={language}&amp;ie={inputEncoding}&amp;source=android-browser&amp;q={searchTerms}</item>
+        <item>UTF-8</item>
+        <item>http://api.bing.com/osjson.aspx?query={searchTerms}&amp;language={language}</item>
+    </string-array>
+    <string-array name="search_engines">
+        <item>google</item>
+        <item>yandex_ru</item>
+        <item>bing</item>
+    </string-array>
+    <string-array name="pref_volume_key_choices">
+        <item>Страница вверх/вниз</item>
+        <item>Переключение вкладок</item>
+    </string-array>
+    <string-array name="pref_fling_on_border_choices">
+        <item>Страница вперед/назад</item>
+        <item>Переключение вкладок</item>
+    </string-array>
+
+</resources>

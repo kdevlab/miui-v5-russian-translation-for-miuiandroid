@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <!--Translated by KDev Group (main repository)-->
+  <!--Fixed, merged and deleted duplicates by KDG Translation Suite-->
+  <string name="all_licenses_are_clearing">Удаление...</string>
+  <string name="all_licenses_are_removed">Очищенный</string>
+  <string name="app_name">Настройки лицензии</string>
+  <string name="clear_license">Очистить лицензию</string>
+  <string name="clear_license_popup">Для  повторного использования, Вы должны запросить лицензию ещё раз. Продолжить?</string>
+  <string name="clear_license_summary">Удалить все лицензии DRM</string>
+  <string name="dialog_cancel_button">Отменить</string>
+  <string name="dialog_cancel_registration_button">Отменить</string>
+  <string name="dialog_deregister_confirmation_message">Устройство уже зарегистрировано. Вы уверены, что хотите удалить?</string>
+  <string name="dialog_deregistration_button">OK</string>
+  <string name="dialog_ok_button">OK</string>
+  <string name="dialog_ok_registration_button">OK</string>
+  <string name="dialog_registration_button">OK</string>
+  <string name="divx_deregister_website">Отмена регистрации на %s</string>
+  <string name="divx_deregistration">Выйти</string>
+  <string name="divx_deregistration_code">Удалить регистрационный код: %s</string>
+  <string name="divx_deregistration_info">Продолжить регистрацию?</string>
+  <string name="divx_register_website">Зарегистрируйтесь на %s</string>
+  <string name="divx_registration">Войти в систему.</string>
+  <string name="divx_registration_code">Регистрационный код: %s</string>
+  <string name="divx_registration_info">Вам необходимо зарегистрировать устройство, чтобы открыть защищенное видео DivX®</string>
+  <string name="divx_registration_summary">Процесс регистрации DivX®</string>
+  <string name="divx_vod">DivX® VOD</string>
+  <string name="expiry_reminder">Напоминания по истечении времени</string>
+  <string name="license_settings_title">Настройки лицензии</string>
+  <string name="roaming_network">Использовать роуминг</string>
+  <string name="roaming_network_dialog_title">Получить в роуминге</string>
+  <string name="roaming_option_always_reject">Никогда не позволять</string>
+  <string name="roaming_option_manual">Вручную</string>
+  <string name="unable_to_remove_license">Лицензия не может быть очищена</string>
+</resources>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Decoded with KDG BigBlackBox-->
+<resources>
+    <plurals name="Nsongs">
+        <item quantity="other">%d songs</item>
+    </plurals>
+    <plurals name="Nsongscomp">
+        <item quantity="other">%2$d of %1$d songs</item>
+    </plurals>
+    <plurals name="Nalbums">
+        <item quantity="other">%d albums</item>
+        <item quantity="one">1 album</item>
+    </plurals>
+    <plurals name="NNNtrackstobedeleted">
+        <item quantity="other">Delete %d tracks</item>
+        <item quantity="one">Remove this track from play list?</item>
+    </plurals>
+    <plurals name="NNNtrackstoberemoved">
+        <item quantity="other">Remove %d tracks from play list?</item>
+        <item quantity="one">removed this track from playlist?</item>
+    </plurals>
+    <plurals name="NNNtracksdeleted">
+        <item quantity="other">%d tracks deleted</item>
+        <item quantity="one">1 track deleted.</item>
+    </plurals>
+    <plurals name="NNNtrackstoplaylist">
+        <item quantity="other">%d tracks added to play list</item>
+        <item quantity="one">1 track added to play list</item>
+    </plurals>
+</resources>

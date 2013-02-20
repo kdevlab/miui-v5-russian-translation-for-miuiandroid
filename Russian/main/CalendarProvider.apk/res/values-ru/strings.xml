@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <!--Translated by KDev Group (main repository)-->
+  <!--Fixed, merged and deleted duplicates by KDG Translation Suite-->
+  <string name="calendar_default_name">По умолчанию</string>
+  <string name="calendar_info">Сведения о календаре</string>
+  <string name="calendar_info_error">Ошибка</string>
+  <string name="calendar_info_events">Мероприятий: %1$d</string>
+  <string name="calendar_info_events_dirty">Мероприятий: %1$d; не сохранено: %2$d</string>
+  <string name="calendar_info_no_calendars">Нет календарей</string>
+  <string name="calendar_storage">Память календаря</string>
+  <string name="debug_tool_delete_button">Удалить сейчас</string>
+  <string name="debug_tool_email_body">К сообщению приложена база данных календаря со всеми встречами и личной информацией. Пожалуйста, обращайтесь с ней осторожно.</string>
+  <string name="debug_tool_email_sender_picker">Выберите приложение, чтобы отправить файл</string>
+  <string name="debug_tool_email_subject">БД Календаря прилагается</string>
+  <string name="debug_tool_message">Вы собираетесь 1) создать копию базы данных календаря на SD-карте/USB-накопителе, которые доступны для чтения всем приложениям, и 2) отправить ее по электронной почте. Не забудьте удалить базу данных после того, как она будет скопирована с устройства или получена по электронной почте.</string>
+  <string name="debug_tool_start_button">Начать</string>
+  <string name="provider_label">Календарь</string>
+  <string name="upgrade_msg">Обновление базы данных календаря...</string>
+</resources>

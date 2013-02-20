@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="select_dialog_items">
+        <item>Открыть доступ к контактам в группе</item>
+        <item>Получить контакт</item>
+        <item>Обмен контактами</item>
+    </string-array>
+    <string-array name="contact_groups">
+        <item>Все показаны</item>
+        <item>Контакты с номерами телефонов</item>
+        <item>Помеченные в Android</item>
+    </string-array>
+</resources>

@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <!--Translated by KDev Group (main repository)-->
+  <!--Fixed, merged and deleted duplicates by KDG Translation Suite-->
+  <string name="PSButton">OK</string>
+  <string name="PSFail">Не возможно подключиться к PC</string>
+  <string name="PSMsg">Если вы не можете подключиться к Интернету через сквозной интернет, пожалуйста, убедитесь, что ваши настройки вашего брандмауэра позволяют этот тип подключения. Сквозной интернет поддерживает только TCP соединения, если ваш компьютер подключается к Интернету через PPP (например, Dial Up, XDSL, или VPN)</string>
+  <string name="PSPass">Сквозной интернет</string>
+  <string name="PSTitle">Уведомление</string>
+  <string name="do_not_show_psmsg">"Не показывать в следующий раз"</string>
+  <string name="htc_fastboot_summary">Не рекомендуется для некоторых приложений из Market</string>
+  <string name="htc_fastboot_title">Быстрая загрузка</string>
+  <string name="htc_gestures_summary">Включить трехпальцевые жесты от HTC и выключить жесты с большим количеством пальцев</string>
+  <string name="htc_gestures_title">Жесты HTC</string>
+  <string name="htc_internet_pt_summary">Подключение к интернету через PC. Пожалуйста вставьте USB кабель.</string>
+  <string name="htc_internet_pt_title">Сквозной интернет</string>
+  <string name="stock_settings">Настройки устройства</string>
+</resources>

@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <!--Translated by KDev Group (main repository)-->
+  <!--Fixed, merged and deleted duplicates by KDG Translation Suite-->
+  <string name="about">О программе:</string>
+  <string name="about_btn">О программе Фонарик</string>
+  <string name="about_close">Закрыть</string>
+  <string name="about_title">О программе</string>
+  <string name="app_name">Фонарик</string>
+  <string name="brightwarn">"Полная яркость успешно тестировалась на 30 минутах, но очень нагревается, и начинает мигать (временно) на 45 минутах. Длительные операции приведут к непредсказуемым последствиям.
+
+Виджеты пока не поддерживаются.
+
+Нажмите 'Принять' если вы хотите использовать это на свой страх и риск."</string>
+  <string name="brightwarn_accept">Принять</string>
+  <string name="brightwarn_negative">Нет, спасибо</string>
+  <string name="brightwarn_title">"Пов. яркость 'Вкл' включить!!!"</string>
+  <string name="description">"Эта программа управляет светодиодом камеры.
+"</string>
+  <string name="label_frequency">Частота: (сдвиньте, чтобы изменить)</string>
+  <string name="label_high">Высокая яркость</string>
+  <string name="label_off">Отключено</string>
+  <string name="label_on">Включено</string>
+  <string name="label_strobe">Стробоскоп</string>
+  <string name="license">"Оригинальный код программы взят с телефона Nexus One от Ben Buxton, реализовано на правах GPL, v3.
+http://n1torch.googlecode.com/
+
+Спасибо Дэвиду Прието (David Prieto) за новый дизайн.
+
+Изменено для CyanogenMod Стивом Кондик (Steve Kondik).
+
+"</string>
+  <string name="not_torch_summary">Сейчас фонарик включен</string>
+  <string name="not_torch_title">Фонарик включен</string>
+  <string name="setting_add_widget">Добавить виджет</string>
+  <string name="setting_frequency_dialog">Частота</string>
+  <string name="setting_frequency_hz">Hz</string>
+  <string name="setting_frequency_summary">Частота of strobe light</string>
+  <string name="setting_frequency_title">Частота стробоскопа</string>
+  <string name="setting_widget_bright">Виджет яркости</string>
+  <string name="setting_widget_strobe">Виджет стробоскопа</string>
+  <string name="torch_message">"Фонарик можно быстро включить, удерживая [icon], на экране блокировки
+"</string>
+  <string name="warning">"Осторожно: Долгое свечение светодиода вызовет его перегрев.
+
+Полная яркость 'Всегда включено' успешно тестировалась на 30 минутах, но существует вероятность повредить светодиод.
+"</string>
+  <string name="warning_label">Осторожно</string>
+  <string name="widget_label">Фонарик</string>
+  <string name="widget_options">Основные настройки</string>
+</resources>

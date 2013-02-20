@@ -1,0 +1,456 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Decoded with KDG BigBlackBox-->
+<resources>
+    <string-array name="resolutionTitleList8MPW">
+        <item>@string/resolutionTitleWidescreen</item>
+        <item>@string/resolutionTitleLarge8MP</item>
+        <item>@string/resolutionTitleMedium8MP</item>
+        <item>@string/resolutionTitleSmall8MP</item>
+        <item>@string/resolutionTitleTiny8MP</item>
+    </string-array>
+    <string-array name="picResolutionValue8MPW">
+        <item>EightMPW</item>
+        <item>EightMP</item>
+        <item>FiveMP</item>
+        <item>ThreeMP</item>
+        <item>OneMP</item>
+    </string-array>
+    <string-array name="picResolutionImgList8MPW">
+        <item>ic_menu_stat_res_widescreen</item>
+        <item>ic_menu_stat_8mp</item>
+        <item>ic_menu_stat_5mp</item>
+        <item>ic_menu_stat_3mp</item>
+        <item>ic_menu_stat_1mp</item>
+    </string-array>
+    <string-array name="picResolutionSummary8MPW">
+        <item>@string/resolutionSummaryWideScreenTV</item>
+        <item>@string/resolutionSummary11by17</item>
+        <item>@string/resolutionSummary8by10</item>
+        <item>@string/resolutionSummary5by7</item>
+        <item>@string/resolutionSummary4by6</item>
+    </string-array>
+    <string-array name="resolutionTitleList8MP">
+        <item>@string/resolutionTitleLarge8MP</item>
+        <item>@string/resolutionTitleMedium8MP</item>
+        <item>@string/resolutionTitleSmall8MP</item>
+        <item>@string/resolutionTitleVerySmall8MP</item>
+        <item>@string/resolutionTitleTiny8MP</item>
+    </string-array>
+    <string-array name="picResolutionValue8MP">
+        <item>EightMP</item>
+        <item>FiveMP</item>
+        <item>ThreeMP</item>
+        <item>TwoMP</item>
+        <item>OneMP</item>
+    </string-array>
+    <string-array name="picResolutionImgList8MP">
+        <item>ic_menu_stat_5mp</item>
+        <item>ic_menu_stat_3mp</item>
+        <item>ic_menu_stat_2mp</item>
+        <item>ic_menu_stat_1mp</item>
+        <item>ic_menu_stat_1mp</item>
+    </string-array>
+    <string-array name="picResolutionSummary8MP">
+        <item>@string/resolutionSummary8by10</item>
+        <item>@string/resolutionSummary5by7</item>
+        <item>@string/resolutionSummary4by6</item>
+        <item>@string/resolutionSummaryWallet</item>
+        <item>@string/resolutionSummaryTiny</item>
+    </string-array>
+    <string-array name="resolutionTitleList5MPW">
+        <item>@string/resolutionTitleWidescreen</item>
+        <item>@string/resolutionTitleLarge5MP</item>
+        <item>@string/resolutionTitleMedium5MP</item>
+        <item>@string/resolutionTitleSmall5MP</item>
+        <item>@string/resolutionTitleVerySmall5MP</item>
+    </string-array>
+    <string-array name="picResolutionValue5MPW">
+        <item>FiveMPW</item>
+        <item>FiveMP</item>
+        <item>ThreeMP</item>
+        <item>TwoMP</item>
+        <item>OneMP</item>
+    </string-array>
+    <string-array name="picResolutionImgList5MPW">
+        <item>ic_menu_stat_res_widescreen</item>
+        <item>ic_menu_stat_5mp</item>
+        <item>ic_menu_stat_3mp</item>
+        <item>ic_menu_stat_2mp</item>
+        <item>ic_menu_stat_1mp</item>
+    </string-array>
+    <string-array name="picResolutionSummary5MPW">
+        <item>@string/resolutionSummaryWideScreenTV</item>
+        <item>@string/resolutionSummary8by10</item>
+        <item>@string/resolutionSummary5by7</item>
+        <item>@string/resolutionSummary4by6</item>
+        <item>@string/resolutionSummaryWallet</item>
+    </string-array>
+    <string-array name="resolutionTitleList5MP">
+        <item>@string/resolutionTitleLarge5MP</item>
+        <item>@string/resolutionTitleMedium5MP</item>
+        <item>@string/resolutionTitleSmall5MP</item>
+        <item>@string/resolutionTitleVerySmall5MP</item>
+    </string-array>
+    <string-array name="picResolutionValue5MP">
+        <item>FiveMP</item>
+        <item>ThreeMP</item>
+        <item>TwoMP</item>
+        <item>OneMP</item>
+    </string-array>
+    <string-array name="picResolutionImgList5MP">
+        <item>ic_menu_stat_5mp</item>
+        <item>ic_menu_stat_3mp</item>
+        <item>ic_menu_stat_2mp</item>
+        <item>ic_menu_stat_1mp</item>
+    </string-array>
+    <string-array name="picResolutionSummary5MP">
+        <item>@string/resolutionSummary8by10</item>
+        <item>@string/resolutionSummary5by7</item>
+        <item>@string/resolutionSummary4by6</item>
+        <item>@string/resolutionSummaryWallet</item>
+    </string-array>
+    <string-array name="resolutionTitleList3MP">
+        <item>@string/resolutionTitleLarge3MP</item>
+        <item>@string/resolutionTitleMedium3MP</item>
+        <item>@string/resolutionTitleSmall3MP</item>
+    </string-array>
+    <string-array name="picResolutionValue3MP">
+        <item>ThreeMP</item>
+        <item>TwoMP</item>
+        <item>OneMP</item>
+    </string-array>
+    <string-array name="picResolutionImgList3MP">
+        <item>ic_menu_stat_3mp</item>
+        <item>ic_menu_stat_2mp</item>
+        <item>ic_menu_stat_1mp</item>
+    </string-array>
+    <string-array name="picResolutionSummary3MP">
+        <item>@string/resolutionSummary5by7</item>
+        <item>@string/resolutionSummary4by6</item>
+        <item>@string/resolutionSummaryWallet</item>
+    </string-array>
+    <string-array name="resolutionTitleListVGA">
+        <item>@string/resolutionTitleSmallVGA</item>
+    </string-array>
+    <string-array name="picResolutionValueVGA">
+        <item>VGA</item>
+    </string-array>
+    <string-array name="picResolutionImgListVGA">
+        <item>ic_menu_stat_vga</item>
+    </string-array>
+    <string-array name="picResolutionSummaryVGA">
+        <item>@string/resolutionSummaryWallet</item>
+    </string-array>
+    <string-array name="supportedVideoResolutions">
+        <item>1920x1080</item>
+        <item>1280x720</item>
+        <item>720x480</item>
+        <item>640x480</item>
+        <item>320x240</item>
+    </string-array>
+    <string-array name="supportedVideoResolutionName">
+        <item>@string/videoResolutionTitleHDPlus</item>
+        <item>@string/videoResolutionTitleHD</item>
+        <item>@string/videoResolutionTitleLargeD1</item>
+        <item>@string/videoResolutionTitleLarge</item>
+        <item>@string/videoResolutionTitleMedium</item>
+    </string-array>
+    <string-array name="supportedVideoResolutionsSummary">
+        <item>@string/videoResolutionSummaryHDPlus</item>
+        <item>@string/videoResolutionSummaryHD</item>
+        <item>@string/videoResolutionSummaryLargeD1</item>
+        <item>@string/videoResolutionSummaryStandard</item>
+        <item>@string/videoResolutionSummaryShare</item>
+    </string-array>
+    <string-array name="supportedVideoResolutionsValue">
+        <item>1080p</item>
+        <item>720p</item>
+        <item>NTSC_D1</item>
+        <item>VGA</item>
+        <item>QVGA</item>
+    </string-array>
+    <string-array name="volumeKeySettingArray">
+        <item>@string/setting_volumeKeyZoom</item>
+        <item>@string/setting_volumeKeyCapture</item>
+    </string-array>
+    <string-array name="supportedVideoResolutionsImgs">
+        <item>ic_menu_stat_hd_plus</item>
+        <item>ic_menu_stat_hd</item>
+        <item>ic_menu_stat_dvd</item>
+        <item>ic_menu_stat_vga</item>
+        <item>ic_menu_stat_qvga</item>
+    </string-array>
+    <string-array name="supportedVideoResolutionTextIcons">
+        <item>@string/videoResolutionTextIconHDPlus</item>
+        <item>@string/videoResolutionTextIconHD</item>
+        <item>@string/videoResolutionTextIconDVD</item>
+        <item>@string/videoResolutionTextIconVGA</item>
+        <item>@string/videoResolutionTextIconQVGA</item>
+    </string-array>
+    <string-array name="reviewTime">
+        <item>@string/reviewTime0</item>
+        <item>@string/reviewTime2</item>
+        <item>@string/reviewTime4</item>
+        <item>@string/reviewTime6</item>
+    </string-array>
+    <string-array name="reviewTimeValue">
+        <item>0</item>
+        <item>2</item>
+        <item>4</item>
+        <item>6</item>
+    </string-array>
+    <string-array name="reviewTimeFlexEntries">
+        <item>MOTOCAMSETTING_REVIEW_TIME_0_SEC</item>
+        <item>MOTOCAMSETTING_REVIEW_TIME_2_SEC</item>
+        <item>MOTOCAMSETTING_REVIEW_TIME_4_SEC</item>
+        <item>MOTOCAMSETTING_REVIEW_TIME_6_SEC</item>
+    </string-array>
+    <string-array name="ScenesTitle">
+        <item>auto</item>
+        <item>portrait</item>
+        <item>landscape</item>
+        <item>action</item>
+        <item>night-portrait</item>
+        <item>sunset</item>
+        <item>closeup</item>
+        <item>steadyphoto</item>
+        <item>low-light</item>
+    </string-array>
+    <string-array name="ScenesTitleText">
+        <item>@string/sceneTitleAuto</item>
+        <item>@string/sceneTitlePortrait</item>
+        <item>@string/sceneTitleLandscape</item>
+        <item>@string/sceneTitleSport</item>
+        <item>@string/sceneTitleNightPortrait</item>
+        <item>@string/sceneTitleSunset</item>
+        <item>@string/sceneTitleMacro</item>
+        <item>@string/sceneTitleLowLight</item>
+    </string-array>
+    <string-array name="ScenesImg">
+        <item>ic_menu_auto</item>
+        <item>ic_menu_portrait</item>
+        <item>ic_menu_landscape</item>
+        <item>ic_menu_sport</item>
+        <item>ic_menu_night</item>
+        <item>ic_menu_sunset</item>
+        <item>ic_menu_macro</item>
+        <item>ic_menu_low_light</item>
+    </string-array>
+    <string-array name="ScenesTitleVideo">
+        <item>Auto</item>
+        <item>Night</item>
+    </string-array>
+    <string-array name="ScenesTitleVideoText">
+        <item>@string/sceneTitleAuto</item>
+        <item>@string/sceneTitleNight</item>
+    </string-array>
+    <string-array name="VideoScenesImg">
+        <item>ic_menu_auto</item>
+        <item>ic_menu_night</item>
+    </string-array>
+    <string-array name="AudioScenesTitleVideo">
+        <item>Off</item>
+        <item>Outdoor</item>
+        <item>Concert</item>
+        <item>Narrative</item>
+        <item>Subject</item>
+    </string-array>
+    <string-array name="AudioScenesTitleVideoText">
+        <item>@string/sceneTitleEveryday</item>
+        <item>@string/sceneTitleOutdoors</item>
+        <item>@string/sceneTitleConcert</item>
+        <item>@string/sceneTitleNarrative</item>
+        <item>@string/sceneTitleSubject</item>
+    </string-array>
+    <string-array name="AudioScenesImg">
+        <item>ic_menu_stereo</item>
+        <item>ic_menu_wind_reduction</item>
+        <item>ic_menu_concert</item>
+        <item>ic_menu_balanced</item>
+        <item>ic_menu_front_facing</item>
+    </string-array>
+    <string-array name="EffectTitle">
+        <item>none</item>
+        <item>mono</item>
+        <item>negative</item>
+        <item>sepia</item>
+        <item>solarize</item>
+        <item>red-tint</item>
+        <item>green-tint</item>
+        <item>blue-tint</item>
+    </string-array>
+    <string-array name="EffectTitleText">
+        <item>@string/effectNormal</item>
+        <item>@string/effectBlackAndWhite</item>
+        <item>@string/effectNegative</item>
+        <item>@string/effectSepia</item>
+        <item>@string/effectSolarize</item>
+        <item>@string/effectRedTint</item>
+        <item>@string/effectGreenTint</item>
+        <item>@string/effectBlueTint</item>
+    </string-array>
+    <string-array name="EffectsImg">
+        <item>ic_menu_normal</item>
+        <item>ic_menu_bw</item>
+        <item>ic_menu_negative</item>
+        <item>ic_menu_sepia</item>
+        <item>ic_menu_solarize</item>
+        <item>ic_menu_red_tint</item>
+        <item>ic_menu_green_tint</item>
+        <item>ic_menu_blue_tint</item>
+    </string-array>
+    <integer-array name="PictureModeValue">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+    </integer-array>
+    <string-array name="PictureModeTitle">
+        <item>@string/singleshot</item>
+        <item>@string/panoramic</item>
+        <item>@string/multishot</item>
+        <item>@string/selfPortrait</item>
+        <item>@string/cap_hdr</item>
+        <item>@string/autotimer_capture</item>
+        <item>@string/wdr</item>
+    </string-array>
+    <string-array name="PictureModeImg">
+        <item>ic_menu_single_shot</item>
+        <item>ic_menu_panorama</item>
+        <item>ic_menu_multi_shot</item>
+        <item>ic_menu_portrait</item>
+        <item>ic_menu_hdr</item>
+        <item>ic_menu_time</item>
+        <item>ic_menu_wdr</item>
+    </string-array>
+    <integer-array name="AutoTimerValue">
+        <item>3</item>
+        <item>5</item>
+        <item>10</item>
+    </integer-array>
+    <string-array name="AutoTimerImg">
+        <item>ic_menu_time_3</item>
+        <item>ic_menu_time_5</item>
+        <item>ic_menu_time_10</item>
+    </string-array>
+    <string-array name="AutoTimerCountImg">
+        <item>countdown_num_1</item>
+        <item>countdown_num_2</item>
+        <item>countdown_num_3</item>
+        <item>countdown_num_4</item>
+        <item>countdown_num_5</item>
+        <item>countdown_num_6</item>
+        <item>countdown_num_7</item>
+        <item>countdown_num_8</item>
+        <item>countdown_num_9</item>
+        <item>countdown_num_10</item>
+    </string-array>
+    <integer-array name="VideoModeValue">
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+    </integer-array>
+    <string-array name="VideoModeTitle">
+        <item>@string/normalvideo</item>
+        <item>@string/mms</item>
+        <item>@string/wdr</item>
+        <item>@string/fastmotion</item>
+        <item>@string/slowmotion</item>
+        <item>@string/timelapse</item>
+    </string-array>
+    <array name="video_timelapse_largeicons">
+        <item>@drawable/ic_timelapse_1</item>
+        <item>@drawable/ic_timelapse_5</item>
+        <item>@drawable/ic_timelapse_10</item>
+    </array>
+    <string-array name="pref_video_time_lapse_frame_interval_entries">
+        <item>@string/pref_video_time_lapse_frame_interval_entry_1000</item>
+        <item>@string/pref_video_time_lapse_frame_interval_entry_5000</item>
+        <item>@string/pref_video_time_lapse_frame_interval_entry_10000</item>
+    </string-array>
+    <integer-array name="pref_video_time_lapse_frame_interval_entryvalues">
+        <item>1000</item>
+        <item>5000</item>
+        <item>10000</item>
+    </integer-array>
+    <string-array name="VideoModeImg">
+        <item>ic_menu_video_normal</item>
+        <item>ic_menu_video_msg</item>
+        <item>ic_menu_wdr</item>
+        <item>ic_menu_fast_motion</item>
+        <item>ic_menu_slow_motion</item>
+        <item>ic_timelapse_none</item>
+    </string-array>
+    <string-array name="IsoValue">
+        <item>auto</item>
+        <item>100</item>
+        <item>200</item>
+        <item>400</item>
+        <item>800</item>
+    </string-array>
+    <string-array name="ExposureValue">
+        <item>-3</item>
+        <item>-2</item>
+        <item>-1</item>
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="shutterAnim">
+        <item>@string/None</item>
+        <item>@string/Circle</item>
+    </string-array>
+    <string-array name="shutterAnimValue">
+        <item>0</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="focus_options">
+        <item>@string/continuous</item>
+        <item>@string/auto</item>
+    </string-array>
+    <string-array name="focus_values">
+        <item>continuous</item>
+        <item>auto</item>
+    </string-array>
+    <string-array name="front_focus_options">
+        <item>@string/fixed_focus</item>
+    </string-array>
+    <string-array name="front_focus_values">
+        <item>fixed</item>
+    </string-array>
+    <string-array name="FlashTitle">
+        <item>@string/flashOff</item>
+        <item>@string/flashOn</item>
+        <item>@string/flashAuto</item>
+    </string-array>
+    <string-array name="FlashImg">
+        <item>ic_menu_flash_off</item>
+        <item>ic_menu_flash_on</item>
+        <item>ic_menu_flash_auto</item>
+    </string-array>
+    <string-array name="LightTitle">
+        <item>@string/lightOff</item>
+        <item>@string/lightOn</item>
+        <item>@string/lightAuto</item>
+    </string-array>
+    <string-array name="LightImg">
+        <item>ic_menu_cam_lights_off</item>
+        <item>ic_menu_cam_lights</item>
+        <item>ic_menu_cam_lights_auto</item>
+    </string-array>
+    <string-array name="storageLocation">
+        <item>@string/Internal</item>
+        <item>@string/SDCard</item>
+    </string-array>
+    <string-array name="storageLocationValue">
+        <item>0</item>
+        <item>1</item>
+    </string-array>
+</resources>

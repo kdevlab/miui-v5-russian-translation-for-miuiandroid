@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="prefEntries_recordType">
+        <item>amr</item>
+        <item>3gpp</item>
+    </string-array>
+</resources>

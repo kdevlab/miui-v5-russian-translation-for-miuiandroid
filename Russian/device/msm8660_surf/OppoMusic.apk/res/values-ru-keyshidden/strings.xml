@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <!--Translated by KDev Group (main repository)-->
+  <!--Fixed, merged and deleted duplicates by KDG Translation Suite-->
+  <string name="create_playlist_create_text_prompt">Open the keyboard to give your new Playlist a name, or select Save to name it \"%s\".</string>
+  <string formatted="false" name="rename_playlist_diff_prompt">Open the keyboard to give playlist \"%s\" a new name, or select Save to name it \"%s\".</string>
+  <string name="rename_playlist_same_prompt">Open the keyboard to give playlist \"%s\" a new name.</string>
+</resources>

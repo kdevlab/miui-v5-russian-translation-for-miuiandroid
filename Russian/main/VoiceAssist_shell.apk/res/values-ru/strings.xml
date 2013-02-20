@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <!--Translated by KDev Group (main repository)-->
+  <!--Fixed, merged and deleted duplicates by KDG Translation Suite-->
+  <string name="app_name">Голосовой помощник</string>
+  <string name="cancel">Отмена</string>
+  <string name="confirm">ОК</string>
+  <string name="content">Голосовой помощник не установлен, перейти в маркет и установить его?</string>
+  <string name="title_activity_check">Установка Голосового помощника</string>
+</resources>

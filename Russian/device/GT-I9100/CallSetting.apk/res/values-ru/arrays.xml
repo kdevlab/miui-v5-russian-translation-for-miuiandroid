@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="calldiverting_list">
+        <item>Да, всегда</item>
+        <item>Если вы заняты</item>
+        <item>Если нет</item>
+        <item>Когда выходит за пределы диапазона</item>
+        <item>Отменить все</item>
+    </string-array>
+    <string-array name="callbarring_list">
+        <item>Все звонки. исходящие</item>
+        <item>Исходящие вызовы. Международные</item>
+        <item>Подключиться. Международные</item>
+        <item>Все звонки. Входящий</item>
+        <item>Входящие за границей</item>
+        <item>Отменить все</item>
+    </string-array>
+    <string-array name="waiting_time">
+        <item>5 сек.</item>
+        <item>10 сек.</item>
+        <item>15 сек.</item>
+        <item>20 сек.</item>
+        <item>25 сек.</item>
+        <item>30 сек..</item>
+    </string-array>
+    <string-array name="automatic_time">
+        <item>1 сек.</item>
+        <item>2 сек.</item>
+        <item>3 сек.</item>
+        <item>4 сек.</item>
+        <item>5 сек.</item>
+    </string-array>
+    <string-array name="autoreject_alert">
+        <item>Список вызывов.</item>
+        <item>Контакты</item>
+    </string-array>
+    <string-array name="fakecallerimage_alert">
+        <item>Картинка</item>
+        <item>Сфотографируйте</item>
+    </string-array>
+    <string-array name="callerimage_alert_video_default">
+        <item>Изображения</item>
+        <item>Фильиы</item>
+    </string-array>
+    <string-array name="callerimage_alert_video_changed">
+        <item>По умолчанию изображение</item>
+        <item>Изображения</item>
+        <item>Фильмы</item>
+    </string-array>
+    <string-array name="callerimage_alert_default">
+        <item>Изображения</item>
+        <item>Фильмы</item>
+        <item>Сфотографируйте</item>
+        <item>Запись видео</item>
+    </string-array>
+    <string-array name="callerimage_alert_changed">
+        <item>По умолчанию изображение</item>
+        <item>Изображения</item>
+        <item>Фильмы</item>
+        <item>Сфотографируйте</item>
+        <item>апись видео</item>
+    </string-array>
+    <string-array name="entries_list_preference">
+        <item>От.</item>
+        <item>Через 1 секунду</item>
+        <item>Через 2 секунды</item>
+        <item>Через 3 секунды</item>
+        <item>Через 4 секунды</item>
+        <item>Через 5 секунд</item>
+    </string-array>
+    <string-array name="entryvalues_list_preference">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+    <string-array name="match_criteria_entries">
+        <item>Точно так же, как и</item>
+        <item>Начинать с</item>
+        <item>Завершает</item>
+        <item>В нем содержится</item>
+    </string-array>
+    <string-array name="match_criteria_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="auto_reject_mode_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+</resources>

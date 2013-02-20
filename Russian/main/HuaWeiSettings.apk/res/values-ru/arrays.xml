@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Decoded with KDG BigBlackBox-->
+<resources>
+    <string-array name="powermanage_entries">
+        <item>Только звонки</item>
+        <item>Энергосбережение</item>
+        <item>Нормальный</item>
+        <item>Производительность</item>
+        <item>Супер производительность</item>
+    </string-array>
+    <string-array name="lowmem_entries">
+        <item>По умолчанию</item>
+        <item>Агрессивный</item>
+        <item>Сбалансированный</item>
+        <item>Многозадачный</item>
+        <item>Игровой</item>
+    </string-array>
+</resources>

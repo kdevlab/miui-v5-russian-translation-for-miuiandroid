@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="emailAddressTypes">
+        <item>Личный</item>
+        <item>Рабочий</item>
+        <item>Другой</item>
+        <item>Создать свой ярлык</item>
+    </string-array>
+    <string-array name="imProtocols">
+        <item>AIM</item>
+        <item>Windows Live</item>
+        <item>Yahoo</item>
+        <item>Skype</item>
+        <item>QQ</item>
+        <item>Google Talk</item>
+        <item>ICQ</item>
+        <item>Jabber</item>
+    </string-array>
+    <string-array name="organizationTypes">
+        <item>Рабочий</item>
+        <item>Другое</item>
+        <item>Создать свой ярлык</item>
+    </string-array>
+    <string-array name="phoneTypes">
+        <item>Домашний</item>
+        <item>Мобильный</item>
+        <item>Рабочий</item>
+        <item>Рабочий факс</item>
+        <item>Домашний факс</item>
+        <item>Пейджер</item>
+        <item>Другой</item>
+        <item>Создать свой ярлык</item>
+    </string-array>
+    <string-array name="postalAddressTypes">
+        <item>Домашний</item>
+        <item>Рабочий</item>
+        <item>Другой</item>
+        <item>Создать свой ярлык</item>
+    </string-array>
+    <string-array name="imAddressTypes">
+        <item>Домашний</item>
+        <item>Рабочий</item>
+        <item>Другое</item>
+        <item>Создать свой ярлык</item>
+    </string-array>
+    <integer-array name="config_autoBrightnessLevels">
+        <item>6</item>
+        <item>9</item>
+        <item>14</item>
+        <item>20</item>
+        <item>30</item>
+        <item>46</item>
+        <item>68</item>
+        <item>103</item>
+        <item>154</item>
+        <item>231</item>
+        <item>346</item>
+        <item>519</item>
+        <item>778</item>
+        <item>1168</item>
+        <item>1752</item>
+        <item>2627</item>
+        <item>3941</item>
+        <item>5912</item>
+        <item>8867</item>
+    </integer-array>
+    <integer-array name="config_autoBrightnessLcdBacklightValues">
+        <item>40</item>
+        <item>42</item>
+        <item>45</item>
+        <item>47</item>
+        <item>50</item>
+        <item>52</item>
+        <item>55</item>
+        <item>57</item>
+        <item>60</item>
+        <item>70</item>
+        <item>80</item>
+        <item>90</item>
+        <item>100</item>
+        <item>125</item>
+        <item>135</item>
+        <item>175</item>
+        <item>190</item>
+        <item>220</item>
+        <item>240</item>
+        <item>250</item>
+    </integer-array>
+</resources>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="download_filters">
+        <item>Все</item>
+        <item>Завершенные</item>
+        <item>В процессе</item>
+    </string-array>
+    <string-array name="prefEntries_max_bytes_limit">
+        <item>Нет лимита</item>
+        <item>10МБ</item>
+        <item>5МБ</item>
+        <item>2МБ</item>
+        <item>1МБ</item>
+        <item>500КБ</item>
+        <item>200КБ</item>
+        <item>100КБ</item>
+    </string-array>
+</resources>

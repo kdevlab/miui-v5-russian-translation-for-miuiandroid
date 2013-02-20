@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- For new version up to 1.2.28-->
+	<string-array name="account_items">
+        <item>Фото:</item>
+        <item>Имя:</item>
+        <item>Пол:</item>
+        <item>День рождения:</item>
+        <item>Знак задиака:</item>
+        <item>Местонахождение:</item>
+        <item>Хобби:</item>
+    </string-array>
+    <string-array name="constellations">
+        <item>Овен</item>
+        <item>Телец</item>
+        <item>Близнецы</item>
+        <item>Рак</item>
+        <item>Лев</item>
+        <item>Дева</item>
+        <item>Весы</item>
+        <item>Скорпион</item>
+        <item>Стрелец</item>
+        <item>Козерог</item>
+        <item>Водолей</item>
+        <item>Рыбы</item>
+    </string-array>
+    <string-array name="select_photos">
+        <item>Сделать фото</item>
+        <item>Выбрать</item>
+    </string-array>
+</resources>

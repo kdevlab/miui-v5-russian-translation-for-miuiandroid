@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="alarm_set">
+        <item>Будильник зазвонит менее чем через минуту</item>
+        <item>Будильник зазвонит через %1$s</item>
+        <item>Будильник зазвонит через %2$s</item>
+        <item>Будильник зазвонит через %1$s и %2$s</item>
+        <item>Будильник зазвонит через %3$s</item>
+        <item>Будильник зазвонит через %1$s и %3$s</item>
+        <item>Будильник зазвонит через %2$s и %3$s</item>
+        <item>Будильник зазвонит через %1$s, %2$s и %3$s</item>
+    </string-array>
+    <string-array name="snooze_duration_entries">
+        <item>5 минут</item>
+        <item>10 минут</item>
+        <item>15 минут</item>
+        <item>20 минут</item>
+        <item>25 минут</item>
+        <item>30 минут</item>
+    </string-array>
+    <string-array name="auto_silence_entries">
+        <item>Отключено</item>
+        <item>5 минут</item>
+        <item>10 минут</item>
+        <item>15 минут</item>
+        <item>20 минут</item>
+        <item>25 минут</item>
+        <item>30 минут</item>
+    </string-array>
+    <string-array name="volume_button_setting_entries">
+        <item>Нет</item>
+        <item>Отложить</item>
+        <item>Отключить</item>
+    </string-array>
+    <string-array name="alarm_in_furture">
+        <item>Будильник зазвонит менее чем через минуту</item>
+        <item>Будильник зазвонит через %1$s</item>
+        <item>Будильник зазвонит через %2$s</item>
+        <item>Будильник зазвонит через %1$s и %2$s</item>
+        <item>Будильник зазвонит через %3$s</item>
+        <item>Будильник зазвонит через %1$s и %3$s</item>
+        <item>Будильник зазвонит через %2$s и %3$s</item>
+        <item>Будильник зазвонит через %1$s, %2$s и %3$s</item>
+    </string-array>
+    <string-array name="days">
+        <item>Вчера</item>
+        <item>Сегодня</item>
+        <item>Завтра</item>
+    </string-array>
+</resources>

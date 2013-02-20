@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <!--Translated by KDev Group (main repository)-->
+  <!--Fixed, merged and deleted duplicates by KDG Translation Suite-->
+  <string name="intelligent_battery_charger_summary_off">Зарядка до 100%</string>
+  <string name="intelligent_battery_charger_summary_on">Когда зарядка вашего телефона ниже 80%, защитить телефон от перезарядки</string>
+  <string name="intelligent_battery_charger_title">Умный режим зарядки</string>
+  <string name="intelligent_battery_supply_summary_off">Защита телефона при отключении зарядки</string>
+  <string name="intelligent_battery_supply_summary_on">Защищенная зарядка телефона</string>
+  <string name="intelligent_battery_supply_title">Режим зарядки вручную</string>
+  <string name="power_save_mode">Авторегулировка потребления экрана</string>
+  <string name="stock_settings">Настройки устройства</string>
+</resources>

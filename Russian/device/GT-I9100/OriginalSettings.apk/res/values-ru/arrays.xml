@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="date_format_entries">
+        <item>MM/DD/YYYY</item>
+        <item>DD/MM/YYYY</item>
+        <item>YYYY/MM/DD</item>
+    </string-array>
+    <string-array name="screen_timeout_entries">
+        <item>15 секунд</item>
+        <item>30 секунд</item>
+        <item>1 минута</item>
+        <item>2 минуты</item>
+        <item>5 минут</item>
+        <item>10 минут</item>
+    </string-array>
+    <string-array name="dream_timeout_entries">
+        <item>Никогда</item>
+        <item>15 секунд</item>
+        <item>30 секунд</item>
+        <item>1 минута</item>
+        <item>2 минуты</item>
+        <item>5 минут</item>
+        <item>10 минут</item>
+        <item>30 минут</item>
+    </string-array>
+    <string-array name="lock_after_timeout_entries">
+        <item>Немедленно</item>
+        <item>5 секунд</item>
+        <item>15 секунд</item>
+        <item>30 секунд</item>
+        <item>1 минута</item>
+        <item>2 минуты</item>
+        <item>5 минут</item>
+        <item>10 минут</item>
+        <item>30 минут</item>
+    </string-array>
+    <string-array name="entries_font_size">
+        <item>Мелкий</item>
+        <item>Маленький</item>
+        <item>Обычный</item>
+        <item>Крупный</item>
+        <item>Огромный</item>
+    </string-array>
+    <string-array name="tts_rate_entries">
+        <item>Очень медленно</item>
+        <item>Медленно</item>
+        <item>Нормально</item>
+        <item>Быстро</item>
+        <item>Очень быстро</item>
+    </string-array>
+    <string-array name="wifi_status">
+        <item></item>
+        <item>Сканирование…</item>
+        <item>Подключение…</item>
+        <item>Авторизация…</item>
+        <item>Получение IP-адреса…</item>
+        <item>Подключено</item>
+        <item>Условно</item>
+        <item>Отключение…</item>
+        <item>Отключено</item>
+        <item>Не удалось соединиться</item>
+    </string-array>
+    <string-array name="wifi_status_with_ssid">
+        <item></item>
+        <item>Сканирование…</item>
+        <item>Подключение к %1$s…</item>
+        <item>Авторизация на %1$s…</item>
+        <item>Получение IP-адреса от %1$s…</item>
+        <item>Подключено к %1$s</item>
+        <item>Условно</item>
+        <item>Отключение от %1$s…</item>
+        <item>Отключено</item>
+        <item>Не удалось отключиться</item>
+    </string-array>
+    <string-array name="wifi_eap_method">
+        <item>PEAP</item>
+        <item>TLS</item>
+        <item>TTLS</item>
+        <item>SIM</item>
+        <item>AKA</item>
+    </string-array>
+    <string-array name="wifi_p2p_wps_setup">
+        <item>Кнопка подключеня</item>
+        <item>PIN с подключаемого устройства</item>
+        <item>PIN с этого устройства</item>
+    </string-array>
+    <string-array name="wifi_p2p_status">
+        <item>Подключен</item>
+        <item>Приглашен</item>
+        <item>Не удалось подключиться</item>
+        <item>Нажмите для подключения</item>
+        <item>Вне зоны доступа</item>
+        <item>Поключено с другим устройством</item>
+    </string-array>
+    <string-array name="bluetooth_visibility_timeout_entries">
+        <item>2 мин</item>
+        <item>5 мин</item>
+        <item>1 час</item>
+        <item>Бесконечно</item>
+    </string-array>
+    <string-array name="wifi_signal">
+        <item>Слабый</item>
+        <item>Средний</item>
+        <item>Хороший</item>
+        <item>Отличный</item>
+    </string-array>
+    <string-array name="wifi_sleep_policy_entries">
+        <item>Выключен</item>
+        <item>Если подключено питание</item>
+        <item>Включен</item>
+    </string-array>
+    <string-array name="wifi_sleep_policy_entries_wifi_only">
+        <item>Выключен</item>
+        <item>Если подключено питание</item>
+        <item>Включен</item>
+    </string-array>
+    <string-array name="wifi_frequency_band_entries">
+        <item>Автоматически</item>
+        <item>5 GHz</item>
+        <item>2.4 GHz</item>
+    </string-array>
+    <string-array name="usage_stats_display_order_types">
+        <item>Время использования</item>
+        <item>Launch count</item>
+        <item>Имя приложения</item>
+    </string-array>
+    <string-array name="wifi_phase2_entries">
+        <item>Ничего</item>
+        <item>PAP</item>
+        <item>MSCHAP</item>
+        <item>MSCHAPV2</item>
+        <item>GTC</item>
+    </string-array>
+    <string-array name="wifi_network_setup">
+        <item>Отключено</item>
+        <item>Нажатием кнопки</item>
+        <item>PIN с точки доступа</item>
+        <item>PIN с данного устройства</item>
+    </string-array>
+    <string-array name="wifi_ip_settings">
+        <item>DHCP</item>
+        <item>Static</item>
+    </string-array>
+    <string-array name="wifi_proxy_settings">
+        <item>Нет</item>
+        <item>Вручную</item>
+    </string-array>
+    <string-array name="emergency_tone_entries">
+        <item>Отключено</item>
+        <item>Сигнал</item>
+        <item>Вибрация</item>
+    </string-array>
+    <string-array name="apn_auth_entries">
+        <item>Нет</item>
+        <item>PAP</item>
+        <item>CHAP</item>
+        <item>PAP or CHAP</item>
+    </string-array>
+    <string-array name="bearer_entries">
+        <item>LTE</item>
+        <item>eHRPD</item>
+        <item>Unspecified</item>
+    </string-array>
+    <string-array name="app_install_location_entries">
+        <item>Память устройства</item>
+        <item>Съемная SD карта</item>
+        <item>Автоматически</item>
+    </string-array>
+    <string-array name="silent_mode_entries">
+        <item>Отключено</item>
+        <item>Только вибрация</item>
+        <item>Без звука</item>
+    </string-array>
+    <string-array name="long_press_timeout_selector_titles">
+        <item>Короткий</item>
+        <item>Средний</item>
+        <item>Длинный</item>
+    </string-array>
+    <string-array name="hdcp_checking_titles">
+        <item>Никогда не проверять</item>
+        <item>Проверять только для DRM содержимого</item>
+        <item>Проверять всегда</item>
+    </string-array>
+    <string-array name="hdcp_checking_summaries">
+        <item>Никогда не использовать проверку HDCP</item>
+        <item>Использовать HDCP только для проверки DRM содержимого</item>
+        <item>Всегда использовать проверку HDCP</item>
+    </string-array>
+    <string-array name="window_animation_scale_entries">
+        <item>Отключено</item>
+        <item>0.5x</item>
+        <item>1x</item>
+        <item>1.5x</item>
+        <item>2x</item>
+        <item>5x</item>
+        <item>10x</item>
+    </string-array>
+    <string-array name="transition_animation_scale_entries">
+        <item>Отключено</item>
+        <item>0.5x</item>
+        <item>1x</item>
+        <item>1.5x</item>
+        <item>2x</item>
+        <item>5x</item>
+        <item>10x</item>
+    </string-array>
+    <string-array name="app_process_limit_entries">
+        <item>Стандартное ограничение</item>
+        <item>Без фоновых процессов</item>
+        <item>Максимум 1 процесс</item>
+        <item>Максимум 2 процесса</item>
+        <item>Максимум 3 процесса</item>
+        <item>Максимум 4 процесса</item>
+    </string-array>
+    <string-array name="vpn_types_long">
+        <item>PPTP VPN</item>
+        <item>L2TP/IPSec VPN with pre-shared keys</item>
+        <item>L2TP/IPSec VPN with certificates</item>
+        <item>IPSec VPN with pre-shared keys and Xauth authentication</item>
+        <item>IPSec VPN with certificates and Xauth authentication</item>
+        <item>IPSec VPN with certificates and hybrid authentication</item>
+    </string-array>
+    <string-array name="vpn_states">
+        <item>Отключено</item>
+        <item>Инициализация…</item>
+        <item>Подключение…</item>
+        <item>Подключено</item>
+        <item>Таймаут</item>
+        <item>Подключение не удалось</item>
+    </string-array>
+    <string-array name="psm_values_new">
+        <item>10</item>
+        <item>20</item>
+        <item>30</item>
+        <item>40</item>
+        <item>50</item>
+    </string-array>
+    <string-array name="psm_brightness_entries">
+        <item>10%</item>
+        <item>30%</item>
+        <item>50%</item>
+        <item>70%</item>
+        <item>100%</item>
+    </string-array>
+    <string-array name="touch_key_light_entries">
+        <item>1.5 секунды</item>
+        <item>6 секунд</item>
+        <item>Всегда отключены</item>
+        <item>Всегла включены</item>
+    </string-array>
+    <string-array name="psm_entries_new">
+        <item>10% батареи</item>
+        <item>20% батареи</item>
+        <item>30% батареи</item>
+        <item>40% батареи</item>
+        <item>50% батареи</item>
+    </string-array>
+    <string-array name="clock_position_entries">
+        <item>Вверху</item>
+        <item>По центру</item>
+        <item>Внизу</item>
+    </string-array>
+	<string-array name="bluetooth_class_of_device_entries">
+        <item>Наушники</item>
+        <item>ПК</item>
+        <item>Телефон</item>
+        <item>HID(клавиатура, мышка, и т.д.)</item>
+        <item>Все устройства</item>
+    </string-array>
+</resources>

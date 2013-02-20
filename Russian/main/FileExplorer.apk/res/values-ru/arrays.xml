@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="task_status">
+        <item>Обработка</item>
+        <item>Ожидание</item>
+        <item>Отменено</item>
+        <item>Ошибка</item>
+        <item>Завершено</item>
+        <item>Приостановлено</item>
+    </string-array>
+</resources>
