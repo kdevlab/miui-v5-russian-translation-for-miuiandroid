@@ -24,6 +24,6 @@
   <string name="traffic_protection_text_hint">Пожалуйста, введите лимит трафика</string>
   <string name="traffic_protection_unknown">"Я не знаю. Введу потом."</string>
 
-    <string name="use_data">Data enabled</string>
-  <string name="data_usage_summary">If you have not applied for a data package, it is recommended to turn off data usage. Otherwise, carrier may charge you additional fees.</string>
+  <string name="use_data">Данные включены</string>
+  <string name="data_usage_summary">Если Вы еще не настроили предел трафика, рекомендуется отключить использование данных. В противном случаи, Ваш оператор может взимать дополнительные денежные расходы.</string>
 </resources>
