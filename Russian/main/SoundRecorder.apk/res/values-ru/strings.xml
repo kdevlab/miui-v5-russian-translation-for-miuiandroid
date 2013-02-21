@@ -56,15 +56,15 @@
   <string name="unknown_caller">Неизвестный вызов</string>
 
 
-  <string name="rename">Rename</string>
-  <string name="miui_preiew_list_actionmode_title">%d Selected</string>
-  <string name="record_picker_title">Pick one record</string>
-  <string name="rename_duplicate">Duplicate record name, please re-enter:</string>
-  <string name="dialog_content_storage_full">Due to lack of storage space, the recording was forced to stop and clean up unnecessary files through the File Manager, now open?</string>
-  <string name="rename_illegal">Illegal record name, please re-enter:</string>
-  <string name="dialog_title_storage_full">The lack of storage space, now clean up?</string>
-  <string name="delete">Delete</string>
-  <string name="rename_dialog_title">Rename for this record file</string>
-  <string name="deleting_message">Deleting...</string>
-  <string name="send_to">Send to</string>
+  <string name="rename">Переименовать</string>
+  <string name="miui_preiew_list_actionmode_title">Выбранно: %d</string>
+  <string name="record_picker_title">Выберите запись</string>
+  <string name="rename_duplicate">Дубликат имени записи. Пожалуйста, переименуйте:</string>
+  <string name="dialog_content_storage_full">Из-за нехватки места для сохранения, запись была остановлена. Открыть файловый менеджер для очистки ненужных файлов?</string>
+  <string name="rename_illegal">Неверное имя записи. Пожалуйста, переименуйте:</string>
+  <string name="dialog_title_storage_full">Место для сохранения заполено</string>
+  <string name="delete">Удалить</string>
+  <string name="rename_dialog_title">Переименование файла</string>
+  <string name="deleting_message">Удаление...</string>
+  <string name="send_to">Отправить в</string>
 </resources>
