@@ -2219,7 +2219,6 @@
   <string name="perm_hips_root_desc_stable">Unavailable in MIUI Stable</string>
   <string name="perm_privacy_app_trust_dialog_content">MIUI will not ask your for confirmation of any security and privacy related operations from this App.</string>
   <string name="private_sms_need_to_unlock">Please enter private SMS password</string>
-  <string name="wifi_empty_list_wifi_off">To see available networks, turn WLAN on.</string>
   <string name="perm_hips_sms">SMS</string>
   <string name="perm_hips_root_hint">%1$s apps are allowed to get ROOT Permission</string>
   <string name="wps_connect_summary">请确认无线路由器支持并开启WPS</string>
