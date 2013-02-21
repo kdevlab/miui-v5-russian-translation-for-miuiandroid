@@ -148,8 +148,6 @@
   <string name="fetion_prefix">[Fetion]</string>
   <string name="flatshow_page_no">%1$d</string>
   <string name="forward_prefix">"От: "</string>
-  <string name="found_old_messages">"Найдены сообщения с предыдущего аккаунта на вашем телефоне:%1$s
-Вы хотите скопировать их в ваш аккаунт: %2$s?"</string>
   <string name="found_old_messages_title">Загрузка сообщений</string>
   <string name="found_wild_messages">Найдено сообщений с других SIM-карт в облаке: %s. Вы хотите загрузить их?</string>
   <string name="found_wild_messages_title">Скачка сообщений</string>
