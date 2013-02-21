@@ -580,6 +580,6 @@
   <string name="copy_number">Скопировать номер телефона</string>
   <string name="alert_title_selected">Проверить все</string>
   <string name="copy_email">Скопировать адрес эл. почты</string>
-  <string name="widget_no_mailboxes">"Этот акаунт не синхронизирован, попробуйте позже."</string>
+  <string name="widget_no_mailboxes">"Этот аккаунт не синхронизирован, попробуйте позже."</string>
   <string name="account_setup_index_title">Руководство настройки эл. почты</string>
 </resources>
