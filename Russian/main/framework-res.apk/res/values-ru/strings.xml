@@ -105,7 +105,6 @@
   <string name="bluetooth_a2dp_audio_route_name">Аудио Bluetooth</string>
   <string name="byteShort">\u0020Б</string>
   <string name="cancel">Отмена</string>
-  <string name="candidates_style" />
   <string name="capital_off">ВЫКЛ</string>
   <string name="capital_on">ВКЛ</string>
   <string name="car_mode_disable_notification_message">Чтобы выйти, нажмите здесь</string>
@@ -377,7 +376,6 @@
   <string name="keyguard_password_enter_pin_prompt">Новый PIN-код</string>
   <string name="keyguard_password_enter_puk_code">Введите PUK-код и новый PIN-код</string>
   <string name="keyguard_password_enter_puk_prompt">PUK-код</string>
-  <string name="keyguard_password_entry_touch_hint" />
   <string name="keyguard_password_wrong_pin_code">Неверный PIN-код!</string>
   <string name="kilobyteShort">\u0020КБ</string>
   <string name="last_month">Прошлый месяц</string>
@@ -922,9 +920,6 @@
   <string name="permlab_writeSocialStream">добавлять записи в вашу социальную ленту</string>
   <string name="permlab_writeSyncSettings">записывать настройки синхронизации</string>
   <string name="perms_description_app">Предоставлено %1$s</string>
-  <string name="perms_hide" />
-  <string name="perms_new_perm_prefix" />
-  <string name="perms_show_all" />
   <string name="petabyteShort">\u0020ПБ</string>
   <string name="phoneTypeAssistant">Секретарь</string>
   <string name="phoneTypeCallback">Обр. вызов</string>
