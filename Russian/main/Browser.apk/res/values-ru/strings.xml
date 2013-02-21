@@ -85,7 +85,7 @@
   <string name="bookmarks_root_folder">Корневая папка</string>
   <string name="bookmarks_search">Браузер</string>
   <string name="browserFrameFileErrorLabel">Проблема с файлом</string>
-  <string name="browserFrameFormResubmitMessage">Страница, которую вы пытаетесь открыть, содержит уже отправленные данные (POSTDATA). В случае их повторной отправки повторятся все действия, выполненные на странице после заполнения формы (например, поиск или покупка)</string>
+  <string name="browserFrameFormResubmitMessage">Страница, которую Вы пытаетесь открыть, содержит уже отправленные данные (POSTDATA). В случае их повторной отправки повторятся все действия, выполненные на странице после заполнения формы (например, поиск или покупка)</string>
   <string name="browserFrameNetworkErrorLabel">Ошибка подключения</string>
   <string name="browser_bookmarks_page_bookmarks_text">Закладки</string>
   <string name="browser_history">Недавно посещенные страницы</string>
@@ -155,16 +155,16 @@
   <string name="folder_name">Имя папки</string>
   <string name="forward">Вперед</string>
   <string name="geolocation_permissions_prompt_dont_share">Отклонить</string>
-  <string name="geolocation_permissions_prompt_message">%s запрашивает данные о вашем местоположении</string>
+  <string name="geolocation_permissions_prompt_message">%s запрашивает данные о Вашем местоположении</string>
   <string name="geolocation_permissions_prompt_remember">Запомнить настройки</string>
   <string name="geolocation_permissions_prompt_share">Разрешить</string>
-  <string name="geolocation_permissions_prompt_toast_allowed">У этого сайта есть доступ к данным о вашем местоположении. Чтобы запретить его, выберите \"Настройки -&gt; Расширенные -&gt; Настройки веб-сайтов\"</string>
-  <string name="geolocation_permissions_prompt_toast_disallowed">У этого сайта нет доступа к данным о вашем местоположении. Чтобы предоставить его, выберите \"Настройки -&gt; Расширенные -&gt; Настройки веб-сайтов\"</string>
+  <string name="geolocation_permissions_prompt_toast_allowed">У этого сайта есть доступ к данным о Вашем местоположении. Чтобы запретить его, выберите \"Настройки -&gt; Расширенные -&gt; Настройки веб-сайтов\"</string>
+  <string name="geolocation_permissions_prompt_toast_disallowed">У этого сайта нет доступа к данным о Вашем местоположении. Чтобы предоставить его, выберите \"Настройки -&gt; Расширенные -&gt; Настройки веб-сайтов\"</string>
   <string name="geolocation_settings_page_dialog_cancel_button">Отмена</string>
-  <string name="geolocation_settings_page_dialog_message">Закрыть этому сайту доступ к данным о вашем местоположении?</string>
+  <string name="geolocation_settings_page_dialog_message">Закрыть этому сайту доступ к данным о Вашем местоположении?</string>
   <string name="geolocation_settings_page_dialog_ok_button">ОК</string>
-  <string name="geolocation_settings_page_summary_allowed">Этот сайт сейчас имеет доступ к вашему местоположению</string>
-  <string name="geolocation_settings_page_summary_not_allowed">У этого сайта сейчас нет доступа к данным о вашем местоположении</string>
+  <string name="geolocation_settings_page_summary_allowed">Этот сайт сейчас имеет доступ к Вашему местоположению</string>
+  <string name="geolocation_settings_page_summary_not_allowed">У этого сайта сейчас нет доступа к данным о Вашем местоположении</string>
   <string name="geolocation_settings_page_title">Закрыть геоданные</string>
   <string name="go_home">Домашняя страница</string>
   <string name="google_bookmarks">"Google: "</string>
@@ -326,7 +326,7 @@
   <string name="pref_privacy_clear_form_data_summary">Удалить все сохраненные данные форм</string>
   <string name="pref_privacy_clear_geolocation_access">Закрыть геоданные</string>
   <string name="pref_privacy_clear_geolocation_access_dlg">Закрыть геоданные?</string>
-  <string name="pref_privacy_clear_geolocation_access_summary">Очистить список сайтов, имеющих доступ к данным о вашем местоположении</string>
+  <string name="pref_privacy_clear_geolocation_access_summary">Очистить список сайтов, имеющих доступ к данным о Вашем местоположении</string>
   <string name="pref_privacy_clear_history">Очистить историю</string>
   <string name="pref_privacy_clear_history_dlg">Удалить историю браузера?</string>
   <string name="pref_privacy_clear_history_summary">Очистить список посещенных в Интернете страниц</string>
@@ -335,7 +335,7 @@
   <string name="pref_privacy_clear_passwords_summary">Удалить все сохраненные пароли</string>
   <string name="pref_privacy_cookies_title">Файлы cookie</string>
   <string name="pref_privacy_enable_geolocation">Доступ к геоданным</string>
-  <string name="pref_privacy_enable_geolocation_summary">Разрешить сайтам запрашивать доступ к данным о вашем местоположении</string>
+  <string name="pref_privacy_enable_geolocation_summary">Разрешить сайтам запрашивать доступ к данным о Вашем местоположении</string>
   <string name="pref_privacy_formdata_title">Данные форм</string>
   <string name="pref_privacy_location_title">Местоположение</string>
   <string name="pref_privacy_security_title">Личные данные</string>
@@ -434,7 +434,7 @@
   <string name="warning">Внимание</string>
   <string name="website_settings_clear_all">Удалить все</string>
   <string name="website_settings_clear_all_dialog_cancel_button">Отмена</string>
-  <string name="website_settings_clear_all_dialog_message">Удалить все данные веб-сайта и разрешения на доступ к сведениям о вашем местоположении?</string>
+  <string name="website_settings_clear_all_dialog_message">Удалить все данные веб-сайта и разрешения на доступ к сведениям о Вашем местоположении?</string>
   <string name="website_settings_clear_all_dialog_ok_button">ОК</string>
   <string name="webstorage_clear_data_dialog_cancel_button">Отмена</string>
   <string name="webstorage_clear_data_dialog_message">Удалить все данные, сохраненные этим веб-сайтом?</string>
@@ -444,12 +444,12 @@
   <string name="webstorage_outofspace_notification_text">Нажмите, чтобы освободить место</string>
   <string name="webstorage_outofspace_notification_title">Память браузера переполнена</string>
 
-  <string name="pref_allow_apptabs">Allow multiple tabs per app</string>
-  <string name="other_bookmarks">Other Bookmarks</string>
-  <string name="accessibility_button_bookmark">Bookmark</string>
+  <string name="pref_allow_apptabs">Разрешить несколько вкладок для приложения</string>
+  <string name="other_bookmarks">Другие закладки</string>
+  <string name="accessibility_button_bookmark">Закладки</string>
   <string name="pref_ua_mione_entry">MiOne</string>
-  <string name="accessibility_button_tabs">Tabs</string>
-  <string name="selection_all">Select all</string>
-  <string name="url_copy_done">Url copied</string>
-  <string name="MIUI_startpage">Start page</string>
+  <string name="accessibility_button_tabs">Вкладки</string>
+  <string name="selection_all">Выбрать все</string>
+  <string name="url_copy_done">URL скопирован</string>
+  <string name="MIUI_startpage">Стартовая страница</string>
 </resources>
