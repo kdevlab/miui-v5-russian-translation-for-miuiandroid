@@ -1143,7 +1143,6 @@ SIM-карта будет заблокирована навсегда при н�
   <string name="xdivert_summary">CFNRc Settings</string>
   <string name="summary_manage_subscriptions">Manage Network settings of each subscriptions</string>
   <string name="xdivert_enternumber_error">Enter phone number for both the subscriptions</string>
-  <string name="calling_via_template">Calling via %s</string>
   <string name="card_title_callconnectingect">Call Connecting ECT</string>
   <string name="allContactdeleteFailed">Failed to delete all contacts from SIM !!!</string>
   <string name="contactUpdateFailed">Failed to update contact in SIM !!!</string>
