@@ -67,8 +67,8 @@
   <string name="unknown_apps_dlg_text">Из-за соображений безопасности на вашем телефоне заблокирована установка приложений, полученных не из Google Play</string>
   <string name="unknown_apps_dlg_title">Установка заблокирована</string>
 
-  <string name="uninstall_confirm_question">Do you want to uninstall the application?</string>
-  <string name="safe_relative">Safe relative permissions</string>
-  <string name="privacy_relative">Private relative permissions</string>
-  <string name="other_relative">Other permissions</string>
+  <string name="uninstall_confirm_question">Вы действительно хотите удалить это приложение?</string>
+  <string name="safe_relative">Безопасные разрешения</string>
+  <string name="privacy_relative">Опасные разрешения</string>
+  <string name="other_relative">Другие разрешения</string>
 </resources>
