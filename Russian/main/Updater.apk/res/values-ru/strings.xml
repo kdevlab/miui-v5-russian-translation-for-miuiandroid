@@ -66,8 +66,6 @@
   <string name="monthly_build">ежемесячная</string>
   <string name="move_data_to_sdcard_not_enough_space_message">Не хватает места %dМб для копирования файлов на SD-карту</string>
   <string name="move_data_to_sdcard_title">Копирование файлов на SD-карту</string>
-  <string name="moving_data_to_sdcard_message">"Выполняется перенос данных
-пожалуйста подождите..."</string>
   <string name="moving_data_to_sdcard_progress_format">Завершено %1$dKб из %2$dKб</string>
   <string name="my_best_update">Это лучшее обновление</string>
   <string name="my_expect_update">Это то, чего я ожидал</string>
