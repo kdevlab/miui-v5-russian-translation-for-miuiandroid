@@ -139,15 +139,14 @@
   <string name="pref_enable_drawing_cache_summary">Отключите, чтобы освободить память. Вызывает некоторые лаги.</string>
   <string name="free_style_apps_title">Выберите приложения</string>
   <string name="free_style_edit_tab_widget">Виджеты</string>
-  <string name="preference_pick_mwp_title">Выберите mi-обои</string>
+  <string name="preference_pick_mwp_title">Выберите Мi-обои</string>
   <string name="free_style_edit_app">Приложение</string>
   <string name="free_style_londing_text">Загрузка, подождите…</string>
   <string name="free_style_drawer_title">Все приложения</string>
   <string name="free_style_edit_bar_select_app">Выберите приложение</string>
-  <string name="home_indicator">bottom_point</string>
   <string name="free_style_edit_bar_empty">Пусто</string>
   <string name="free_style_edit_tab_shortcut">Ярлыки</string>
-  <string name="no_mi_wallpaper">Mi обои не найдены</string>
+  <string name="no_mi_wallpaper">Mi-обои не найдены</string>
   <string name="mi_wallpaper_preference">Настройки Mi-обоев</string>
   <string name="wallpaper_scrolling">все</string>
   <string name="mi_wallpaper_title">Обои Mi</string>
