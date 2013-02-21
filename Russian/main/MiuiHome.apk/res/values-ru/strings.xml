@@ -82,8 +82,6 @@
   <string name="photo_confirm">Готово</string>
   <string name="photo_load_failed">Не удалось загрузить фото!</string>
   <string name="pref_cell_layout_size">Сетка рабочего стола</string>
-  <string name="pref_enable_drawing_cache_summary">"Включение этой опции позволит освободить больше памяти 
-, но это снизит поток"</string>
   <string name="pref_enable_drawing_cache_title">Кэш графики</string>
   <string name="pref_icon_shadow_summary">Добавление эффекта тени для значков на рабочем столе</string>
   <string name="pref_icon_shadow_title">Тень от значков</string>
