@@ -20,6 +20,7 @@
   <string name="alarm_in_silent_mode_summary">Подавать сигнал, даже если телефон работает в беззвучном режиме</string>
   <string name="alarm_in_silent_mode_title">Включить в режиме \"Без звука\"</string>
   <string name="alarm_klaxon_service_desc">Служба воспроизведения сигналов в Часах</string>
+  <string name="alarm_label_hint">Введите название будильника</string>
   <string name="alarm_list_title">Будильник</string>
   <string name="alarm_notify_snooze_label">%s Будильник отложен</string>
   <string name="alarm_notify_snooze_text">Будильник отложен. Нажмите, чтобы выключить.</string>
@@ -55,6 +56,7 @@
   <string name="dialog_confirm_abort">Вы хотите отменить изменения?</string>
   <string name="disable_alarm">Выключить будильник</string>
   <string name="done">Готово</string>
+  <string name="edit_alarm">Изменить будильник</string>
   <string name="elapsed_hour">%d ч.</string>
   <string name="enable_alarm">Включить будильник</string>
   <string name="every_day">каждый день</string>
@@ -63,10 +65,12 @@
   <string name="hide_clock">Спрятать часы</string>
   <string name="home_button_description">Рабочий стол</string>
   <string name="hour">1 час</string>
+  <string name="hour_unit">ч</string>
   <string name="hours">%s ч.</string>
   <string name="keep_screen_on">Держать экран включенным</string>
   <string name="label">Описание</string>
   <string name="lap">Круг</string>
+  <string name="lap_num">Круг</string>
   <string name="loading_ringtone">Загрузка мелодии звонка...</string>
   <string name="menu_add_worldclock">Добавить часовой пояс</string>
   <string name="menu_alarm_setting">Настройки будильника</string>
@@ -78,6 +82,7 @@
   <string name="menu_item_dock_settings">Настройки док-станции</string>
   <string name="menu_worldclock_edit">Редактировать</string>
   <string name="minute">1 минуту</string>
+  <string name="minute_unit">м</string>
   <string name="minutes">%s мин.</string>
   <string name="music_button_description">Музыка</string>
   <string name="never">Не выбрано</string>
@@ -100,7 +105,9 @@
   <string name="snooze_duration_title">Интервал повтора сигнала</string>
   <string name="start">Старт</string>
   <string name="start_up">Пуск</string>
+  <string name="stopwatch_lap_empty_text">Нет кругов</string>
   <string name="stopwatch_title">Секундомер</string>
+  <string name="system_time_setting">Настройка времени</string>
   <string name="time">Время</string>
   <string name="timer_continue">Далее</string>
   <string name="timer_got_it">Закрыть</string>
@@ -123,12 +130,4 @@
   <string name="workday_alarm_clock">По рабочим дням</string>
   <string name="worldclock_empty_text">Нет часовых поясов</string>
   <string name="worldclock_title">Мировое время</string>
-
-  <string name="system_time_setting">Time setting</string>
-  <string name="alarm_label_hint">Input the alarm label</string>
-  <string name="edit_alarm">Edit alarm</string>
-  <string name="minute_unit">M</string>
-  <string name="stopwatch_lap_empty_text">No laps</string>
-  <string name="hour_unit">Hr</string>
-  <string name="lap_num">Lap</string>
 </resources>
