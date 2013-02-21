@@ -143,7 +143,7 @@
   <string name="widget_under_visit_mode">Не возможно просмотреть заметки, потому что включен гостевой режим</string>
 
   <string name="not_now">Не сейчас</string>
-  <string name="select_account_prompt">Включить синхронизацию заметок</string>
+  <string name="select_account_prompt">Включена синхронизация заметок</string>
   <string name="enable_sync">Синхронизация</string>
   <string name="enable_sync_desc">Заметки можно синхронизировать с вашим Xiaomi аккаунтом %1$s. Синхронизировать прямо сейчас?</string>
   <string name="menu_rename_folder">Переименовать папку</string>
