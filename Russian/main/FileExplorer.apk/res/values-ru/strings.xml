@@ -72,6 +72,7 @@
   <string name="download_failed">Ошибка загрузки</string>
   <string name="download_items_detail_message">Загрузка файлов на SD карту... %1$d осталось (%2$d%%)</string>
   <string name="download_link_completed">Я поделился %1$s через MiDrive. Нажмите ссылку внизу для просмотра:</string>
+  <string name="download_successful">Успешно загружено</string>
   <string name="downloading">Загрузка</string>
   <string name="enable_sd_card">В настоящий момента SD-карта подключена к компьютеру и используется, чтобы видеть ее содержимое, отключите режим накопителя</string>
   <string name="error_info_cant_send_folder">Папка не может быть передана</string>
@@ -292,8 +293,9 @@ pan.xiaomi.com на вашем компьютере"</string>
   <string name="ui_task_title">Управление обменом файлов</string>
   <string name="ui_task_toast_file_not_exist">Файл “%1$s” не существует</string>
   <string name="upload_failed">Ошибка загрузки</string>
-  <string name="upload_file_toolarge_message">"%1$d файлав размером более 300 Мб не могут быть отправлены. Пожалуйста, проверьте в Управлении передачами"</string>
+  <string name="upload_file_toolarge_message">"%1$d файлов размером более 300 Мб не могут быть отправлены. Пожалуйста, проверьте в Управлении передачами."</string>
   <string name="upload_items_detail_message">Загрузка файлов в MiDrive... %1$d осталось (%2$d%%)</string>
+  <string name="upload_successful">Успешно выгружено</string>
   <string name="uploading">Загрузка</string>
   <string name="used">Занято: </string>
   <string name="user_guide">Руководство пользователя</string>
@@ -307,7 +309,4 @@ pan.xiaomi.com на вашем компьютере"</string>
   <string name="wifi_state">Статус Wi-Fi</string>
   <string name="xiaomi_account">Аккаунт Xiaomi</string>
   <string name="yes">Да</string>
-
-  <string name="upload_successful">Скачано успешно</string>
-  <string name="download_successful">Загружено успешно</string>
 </resources>
