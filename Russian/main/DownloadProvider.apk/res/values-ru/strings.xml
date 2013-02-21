@@ -3,6 +3,7 @@
   <!--Translated by KDev Group (main repository)-->
   <!--Fixed, merged and deleted duplicates by KDG Translation Suite-->
   <string name="app_label">Диспетчер загрузки</string>
+  <string name="auto_restart_under_wifi">Автоматически загрузить этот файл через Wi-Fi</string>
   <string name="button_cancel_download">Отмена</string>
   <string name="button_queue_for_wifi">Добавить в очередь</string>
   <string name="button_start_now">Запустить</string>
@@ -37,6 +38,4 @@
 
 Чтобы продолжить загрузку позже через Wi-Fi, нажмите %s"</string>
   <string name="wifi_required_title">Слишком большой файл для сети оператора</string>
-
-  <string name="auto_restart_under_wifi">WLAN will automatically download this file</string>
 </resources>
