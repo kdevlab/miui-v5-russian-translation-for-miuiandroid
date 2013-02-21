@@ -32,6 +32,7 @@
   <string name="auto_create_recent_album_over_ten_times">Создает избранный альбом после захода в него более 10 раз</string>
   <string name="autofix">Авто</string>
   <string name="bigscrren_slide_exit">Выйти из слайд-шоу через TV</string>
+  <string name="browse_category">Просмотр изображений</string>
   <string name="caching_label">Кэширование...</string>
   <string name="camera_connected">Камера подключена</string>
   <string name="camera_disconnected">Камера отключена</string>
@@ -48,6 +49,7 @@
   <string name="click_import">Нажмите здесь, чтобы начать импорт</string>
   <string name="click_to_enter_camera">Открыть камеру</string>
   <string name="close">Закрыть</string>
+  <string name="cloud_album_more_settings">Облачный альбом(ы) и авто. загрузка</string>
   <string name="cloud_album_set_create">Новый</string>
   <string name="cloud_albums">Облачные альбомы</string>
   <string name="cloud_camera_display_name">Не отсортированные</string>
@@ -78,6 +80,7 @@
   <string name="crop_fail_to_load_image">Ошибка загрузки изображения для обрезки</string>
   <string name="crop_label">Обрезать фотографию</string>
   <string name="crop_not_saved">Изображение не сохранено</string>
+  <string name="crop_polymorphism">photoeditor_effect_crop</string>
   <string name="crop_save_text">Сохранить</string>
   <string name="crop_saved">Изображение сохранено в папке \"Загрузки\"</string>
   <string name="crop_tooltip">Чтобы кадрировать фото, перетащите маркеры</string>
@@ -160,6 +163,8 @@
   <string name="image_property">Свойства фотографии</string>
   <string name="import_complete">Импорт завершен</string>
   <string name="import_fail">Сбой импорта</string>
+  <string name="initial_cloud_button_text">Начать использовать облачный альбом</string>
+  <string name="initial_cloud_text">В любое время и в любом месте · Организуйте и просматривайте Ваши изображения</string>
   <string name="input_cloudfolder_name">Имя облачной папки</string>
   <string name="internal_camera_folder_display_name">Фото в памяти телефона</string>
   <string name="internal_miui_capture_screen_folder_display_name">Скриншоты в памяти телефона</string>
@@ -173,6 +178,7 @@
   <string name="loading_thumbnail">Загрузка эскизов</string>
   <string name="loading_video">Загрузка видео…</string>
   <string name="loading_will_cost">Для загрузки изображений необходимо использование трафика</string>
+  <string name="local_albums">Телефон</string>
   <string name="location">Место съемки</string>
   <string name="locations">Места</string>
   <string name="login_account">Вход в аккаунт Xiaomi и синхронизация</string>
@@ -220,7 +226,8 @@
   <string name="no_such_item">Элемент не найден</string>
   <string name="no_thumbnail">Нет уменьшенного изображения</string>
   <string name="none_picture">Нет фотографий в Галерее</string>
-  <string name="not_auto_create_recent_album">Неавтоматическое создание последних альбомов</string>
+  <string name="not_auto_create_recent_album">Не создавать автоматически последние альбомы</string>
+  <string name="not_show_hidden_albums">Не показывать скрытый альбом(ы)</string>
   <string name="only_upload_in_charging">Изображения загружаются только при зарядке. Пожалуйста, подключите телефон к зарядному устройству.</string>
   <string name="open">Открыть</string>
   <string name="open_map">Открыть карту</string>
@@ -240,6 +247,9 @@
   <string name="page_category">Категории</string>
   <string name="path">Путь к файлу</string>
   <string name="people">Люди</string>
+  <string name="photo_page_save_image">Сохранить</string>
+  <string name="photo_page_save_uri_image_fail">Не удалось сохранить фотографию</string>
+  <string name="photo_page_save_uri_image_ok">Изображение сохранено в директорию фотокамеры</string>
   <string name="photo_saved">Фотография сохранена в альбоме \"%s\"</string>
   <string name="photoeditor_name">Фотостудия</string>
   <string name="photos"> фото</string>
@@ -247,6 +257,7 @@
   <string name="play_video">Воспроизведение видео</string>
   <string name="posterize">Постеризация</string>
   <string name="process_caching_requests">Обработка запросов на кэширование</string>
+  <string name="projection">Проекция</string>
   <string name="redeye">Красные глаза</string>
   <string name="redeye_tooltip">Нажмите для устранения эффекта красных глаз</string>
   <string name="remove_hidden_album">Отменить скрытие</string>
@@ -301,12 +312,14 @@
   <string name="set_recent_album">Сделать новый альбом</string>
   <string name="set_wallpaper">Рабочий стол</string>
   <string name="settings">Настройки</string>
+  <string name="settings_i_xiaomi_com">Войдите в i.xiaomi.com, чтобы видеть Ваш облачный альбом(ы) в любое время</string>
   <string name="shadow">Затенение</string>
   <string name="share">Отправить</string>
   <string name="sharpen">Резкость</string>
   <string name="show_all">Изображения и видео</string>
   <string name="show_details">Свойства</string>
   <string name="show_hidden_album">Показать скрытые альбомы</string>
+  <string name="show_hidden_albums">Показать срытый альбом(ы)</string>
   <string name="show_images_only">Только изображения</string>
   <string name="show_on_map">Показать на карте</string>
   <string name="show_videos_only">Только видео</string>
@@ -362,18 +375,4 @@
   <string name="widget_type_shuffle">Перемешать все изображения</string>
   <string name="width">Ширина</string>
   <string name="yes">Да</string>
-
-  <string name="projection">Проекция</string>
-  <string name="settings_i_xiaomi_com">Войдите в i.xiaomi.com, чтобы видеть Ваш облачный альбом(ы) в любое время</string>
-  <string name="browse_category">Просмотр изображений</string>
-  <string name="initial_cloud_text">В любое время и в любом месте · Организуйте и просматривайте Ваши изображения</string>
-  <string name="not_show_hidden_albums">Не показывать скрытый альбом(ы)</string>
-  <string name="crop_polymorphism">фоторедактор кроп-эффекта</string>
-  <string name="local_albums">Локальные изображения</string>
-  <string name="cloud_album_more_settings">Облачный альбом(ы) и авто. загрузка</string>
-  <string name="photo_page_save_uri_image_fail">Неудачное сохранение изображения.</string>
-  <string name="initial_cloud_button_text">Начать использовать облачный альбом</string>
-  <string name="show_hidden_albums">Показать срытый альбом(ы))</string>
-  <string name="photo_page_save_image">Сохранить</string>
-  <string name="photo_page_save_uri_image_ok">Изображение сохранено в директорию фотокамеры.</string>
 </resources>
