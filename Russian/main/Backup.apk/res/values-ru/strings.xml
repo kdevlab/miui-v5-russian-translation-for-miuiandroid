@@ -13,8 +13,6 @@
   <string name="auto_backup_date">Частота Р.К. (в днях)</string>
   <string name="auto_backup_only_wifi">Только через Wi-Fi</string>
   <string name="auto_backup_open">Автоматическое резервное копирование</string>
-  <string name="auto_backup_progress">"Выполнение автоматического резервного копирования
-Подождите, пожалуйста..."</string>
   <string name="auto_backup_setting">Настройка Р.К. по расписанию</string>
   <string name="auto_backup_time">Запланировать копирование</string>
   <string name="backup">Р.К.</string>
@@ -174,7 +172,7 @@
   <string name="unknown_hint">Неизвестно</string>
   <string name="wifi_title">Настройки Wi-Fi</string>
 
-  <string name="account_contact_backup_info">Данные (Аккаунт Xiaomi, Аккаунты Gmail и Email. Будет содержать контакты и аакаунты.)</string>
+  <string name="account_contact_backup_info">Данные (аккаунты Xiaomi, Gmail и Email. Будет содержать контакты и аккаунты.)</string>
   <string name="restore_failed">Ошибка восстановления</string>
   <string name="restore_data">Восстановить</string>
   <string name="system_backup_info">Настройки системы и расположение значков.</string>
