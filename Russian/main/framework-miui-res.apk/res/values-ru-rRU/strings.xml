@@ -573,19 +573,19 @@
   <string name="winter_begins">Зима</string>
   <string name="winter_solstice" />
 
-  <string name="unknown_caller">Unknown caller</string>
-  <string name="volume_icon_description_media">Media</string>
-  <string name="alwaysUsePrompt">Set as default (no prompt for next time)</string>
-  <string name="experimental_validate_warning">Your every exploration helps MIUI become better!</string>
-  <string name="experimental_validate_progress">Validating...</string>
-  <string name="volume_icon_description_notification">Notification</string>
-  <string name="miro_menu_overflow">More</string>
-  <string name="speaker">Speaker</string>
-  <string name="volume_icon_description_ringer">Ringtone</string>
-  <string name="v5_icon_menu_bar_more_item_label">More</string>
-  <string name="experimental_validate_password">Password</string>
-  <string name="v5_deselect_all">Uncheck All</string>
-  <string name="experimental_validate_thanks">Thank you!</string>
-  <string name="v5_select_all">Check All</string>
-  <string name="experimental_validate_username">Xiaomi ID</string>
+  <string name="unknown_caller">Неизвестный абонент</string>
+  <string name="volume_icon_description_media">Медиа</string>
+  <string name="alwaysUsePrompt">Установить по умолчанию (без запроса в следующий раз)</string>
+  <string name="experimental_validate_warning">Каждое Ваше исследование помогает стать MIUI лучше!</string>
+  <string name="experimental_validate_progress">Проверка. Пожалуйста, подождтите...</string>
+  <string name="volume_icon_description_notification">Уведомления</string>
+  <string name="miro_menu_overflow">Еще</string>
+  <string name="speaker">Динамик</string>
+  <string name="volume_icon_description_ringer">Рингтон</string>
+  <string name="v5_icon_menu_bar_more_item_label">Еще</string>
+  <string name="experimental_validate_password">Пароль</string>
+  <string name="v5_deselect_all">Отменить все</string>
+  <string name="experimental_validate_thanks">Спасибо!</string>
+  <string name="v5_select_all">Выбрать все</string>
+  <string name="experimental_validate_username">Логин Xiaomi</string>
 </resources>
