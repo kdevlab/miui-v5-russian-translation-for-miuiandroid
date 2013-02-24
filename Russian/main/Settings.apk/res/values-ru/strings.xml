@@ -1336,7 +1336,7 @@
   <string name="screen_compatibility_label">Совместимость с экраном</string>
   <string name="screen_compatibility_text">Возможно, приложение не предназначено для вашего экрана. Здесь можно настроить параметры его отображения</string>
   <string name="screen_on_proximity_sensor_summary">Предотвращение случайных нажатий на экран заблокированного телефона (определяется с помощью датчика приближения)</string>
-  <string name="screen_on_proximity_sensor_title">Режим педотвращения ошибок</string>
+  <string name="screen_on_proximity_sensor_title">Режим предотвращения ошибок</string>
   <string name="screen_saturation_adjust">Насыщенность</string>
   <string name="screen_timeout">Спящий режим</string>
   <string name="screen_timeout_summary">После %1$s бездействия</string>
