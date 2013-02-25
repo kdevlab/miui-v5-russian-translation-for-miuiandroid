@@ -1,12 +1,13 @@
-miui-v4-russian-translation-for-miuiandroid
+miui-v5-russian-translation-for-miuiandroid
 ============
 
-Russian MIUI v4 translation (all supported devices)
+Russian MIUI v5 translation (all supported devices)
 
 MIUI Translators:
- - KDGDev (KOJAN Development Group)
+ - KDGDev (KDev Group)
+ - DriffeX (DriffeX)
  - axel2033 (Ilia Aksyonov)
- - devserg
+ - devserg (devserg)
  - BurgerZ (Zhukovskiy Andrey)
  - malchik-solnce (Серёжка)))
  - miuirussia (MIUI Russia)
