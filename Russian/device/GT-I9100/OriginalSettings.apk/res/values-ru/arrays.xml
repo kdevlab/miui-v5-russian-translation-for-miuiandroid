@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="date_format_entries">
-        <item>MM/DD/YYYY</item>
-        <item>DD/MM/YYYY</item>
-        <item>YYYY/MM/DD</item>
+        <item>ММ/ДД/ГГГГ</item>
+        <item>ДД/ММ/ГГГГ</item>
+        <item>ГГГГ/ММ/ДД</item>
     </string-array>
     <string-array name="screen_timeout_entries">
         <item>15 секунд</item>
@@ -138,8 +138,8 @@
         <item>PIN с данного устройства</item>
     </string-array>
     <string-array name="wifi_ip_settings">
-        <item>DHCP</item>
-        <item>Static</item>
+        <item>Параметры от DHCP сервера</item>
+        <item>Постоянные параметры вручную</item>
     </string-array>
     <string-array name="wifi_proxy_settings">
         <item>Нет</item>
@@ -154,7 +154,7 @@
         <item>Нет</item>
         <item>PAP</item>
         <item>CHAP</item>
-        <item>PAP or CHAP</item>
+        <item>PAP или CHAP</item>
     </string-array>
     <string-array name="bearer_entries">
         <item>LTE</item>
@@ -214,11 +214,11 @@
     </string-array>
     <string-array name="vpn_types_long">
         <item>PPTP VPN</item>
-        <item>L2TP/IPSec VPN with pre-shared keys</item>
-        <item>L2TP/IPSec VPN with certificates</item>
-        <item>IPSec VPN with pre-shared keys and Xauth authentication</item>
-        <item>IPSec VPN with certificates and Xauth authentication</item>
-        <item>IPSec VPN with certificates and hybrid authentication</item>
+        <item>L2TP/IPSec VPN используя ключ</item>
+        <item>L2TP/IPSec VPN используя сертификат</item>
+        <item>IPSec VPN используя ключ и Xauth идентификацию</item>
+        <item>IPSec VPN используя сертификат и Xauth идентификацию</item>
+        <item>IPSec VPN используя сертификат и hybrid идентификацию</item>
     </string-array>
     <string-array name="vpn_states">
         <item>Отключено</item>
