@@ -182,8 +182,6 @@
   <string name="caller_manage_header">Конференц-вызов: %s</string>
   <string name="caller_manage_manage_done_text">Вернуться к вызову</string>
   <string name="caller_manage_manage_done_text_miui">Вернуться к вызову</string>
-  <string name="calling_via_template">"Звонок через ^1
-^2"</string>
   <string name="calling_via_template_miui">"Звонок через ^1
 ^2"</string>
   <string name="cancel">Отмена</string>
