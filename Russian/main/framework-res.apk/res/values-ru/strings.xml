@@ -1233,7 +1233,7 @@
 
   <string name="silent_mode_vibrate">Вибрация</string>
   <string name="permlab_sdcardRead">тестовый доступ к защищенному хранилищу</string>
-  <string name="keyguard_password_enter_puk_code_for_subscription">Введите PUK и новый PIN код для подписи</string>
+  <string name="keyguard_password_enter_puk_code_for_subscription">Введите PUK и новый PIN код для подписки</string>
   <string name="silent_mode_ring">Звонок вкл.</string>
   <string name="web_user_agent_target_content">"Мобильный"</string>
   <string name="permlab_route_media_output">Устройство вывода</string>
@@ -1289,7 +1289,7 @@
   <string name="permdesc_accessContentProvidersExternally">Позволяет владельцу получить доступ к контент-провайдерам из оболочки. Не потребуется для обычных приложений.</string>
   <string name="enablePin">Не удалось. Включите SIM/RUIM блокировку.</string>
   <string name="keyguard_pin_accepted">Код принят!</string>
-  <string name="keyguard_password_enter_pin_code_for_subscription">Введите PIN код для подписи</string>
+  <string name="keyguard_password_enter_pin_code_for_subscription">Введите PIN код для подписки</string>
   <string name="lockscreen_ruim_pin_blocked">PIN1 заблокирован! Введите PUK1, чтобы разблокировать PIN1.</string>
   <string name="permdesc_startAnyActivity">Приложение сможет начать любую активность, независимо от защиты разрешения или экспортированного состояния.</string>
   <string name="candidates_style">кандидаты</string>
