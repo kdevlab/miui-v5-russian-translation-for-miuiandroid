@@ -67,7 +67,6 @@
   <string name="pano_too_fast_prompt">Слишком быстро</string>
   <string name="pref_back_camera_focusmode_title">Режим фокусировки (задняя камера)</string>
   <string name="pref_back_camera_picturesize_title">Разрешение (задняя камера)</string>
-  <string name="pref_back_camera_redeyereduction_title">Устранение эффекта красных глаз (задняя камера)</string>
   <string name="pref_back_camera_touchafaec_title">Автофокус (задняя камера, ZSL выкл.)</string>
   <string name="pref_back_camera_zsl_title">Нулевая задержка затвора (задняя камера)</string>
   <string name="pref_camcorder_settings_category">Настройки видеокамеры</string>
@@ -161,11 +160,7 @@
   <string name="pref_camera_movie_solid_title">Стабилизация изображения</string>
   <string name="pref_camera_movie_solid_value_off">Выкл.</string>
   <string name="pref_camera_movie_solid_value_on">Вкл.</string>
-  <string name="pref_camera_mute_title">Бесшумная съемка</string>
-  <string name="pref_camera_mute_title_entry_off">Выкл.</string>
-  <string name="pref_camera_mute_title_entry_on">Вкл.</string>
   <string name="pref_camera_picture_format_title">Выберите формат фотографии</string>
-  <string name="pref_camera_picturesize_entry_1024x768">0.8M пикселей</string>
   <string name="pref_camera_picturesize_entry_1280x720">HD720</string>
   <string name="pref_camera_picturesize_entry_1280x768">WXGA</string>
   <string name="pref_camera_picturesize_entry_1280x960">1.3M пикселей</string>
@@ -181,7 +176,6 @@
   <string name="pref_camera_picturesize_entry_320x240">QVGA</string>
   <string name="pref_camera_picturesize_entry_352x288">CIF</string>
   <string name="pref_camera_picturesize_entry_4000x3000">12M пикселей</string>
-  <string name="pref_camera_picturesize_entry_4208x3120">13M пикселей</string>
   <string name="pref_camera_picturesize_entry_640x480">VGA</string>
   <string name="pref_camera_picturesize_entry_800x480">WVGA</string>
   <string name="pref_camera_picturesize_entry_800x600">SVGA</string>

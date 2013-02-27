@@ -88,9 +88,7 @@
   <string name="cit_kayboard_volume_down">Кнопка: VOLUME_DOWN</string>
   <string name="cit_kayboard_volume_up">Кнопка: VOLUME_UP</string>
   <string name="cit_keyboard_back">Кнопка: BACK</string>
-  <string name="cit_keyboard_camera">Кнопка: CAMERA</string>
   <string name="cit_keyboard_current">В настоящее время: %s</string>
-  <string name="cit_keyboard_focus">Кнопка: FOCUS</string>
   <string name="cit_keyboard_menu">Кнопка: MENU</string>
   <string name="cit_keyboard_test_summary">Ниже показаны текущие нажатые кнопки.(Примечание: клавиша HOME свернет проверку)</string>
   <string name="cit_keyboard_test_title">Основные тесты</string>
@@ -106,7 +104,6 @@
   <string name="cit_magnetic_sensor_check_title">Проверка встроенного компаса</string>
   <string name="cit_main_camera_check_summary">Шаги: 1.Нажмите кнопку камеры 2.Выбирете стандартную камеру, если у вас имеется несколько приложений для фотосъемки 3.Сфотографируйте 4.Подтвердите сохранение снимка  5.Просмотрите изображение, а после удалите соответствующей кнопкой</string>
   <string name="cit_main_camera_check_title">Проверка камеры</string>
-  <string name="cit_main_camera_sdcard_error">Переполнение Sd-карты</string>
   <string name="cit_name">Оборудование</string>
   <string name="cit_not_available">Не поддерживается</string>
   <string name="cit_notificationlight">Bндикатор уведомления</string>

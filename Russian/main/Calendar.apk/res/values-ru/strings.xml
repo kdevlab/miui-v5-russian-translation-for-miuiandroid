@@ -43,8 +43,6 @@
   <string name="birthday_notification_type_term_lunar" />
   <string name="calendar_refresh">Обновить</string>
   <string name="change_response_title">Изменить ответ</string>
-  <string name="chips_waiting_for_directory_result">Ожидание ответов</string>
-  <string name="copy">Скопировать адрес эл. почты</string>
   <string name="copy_db">Отправить базу данных</string>
   <string name="create_an_account_desc">"Подключите Календарь к аккаунту Google, чтобы: 
 
@@ -78,7 +76,6 @@
   <string name="event_delete">Удалить мероприятие</string>
   <string name="event_edit">Изменить мероприятие</string>
   <string name="event_info_desc_less">Меньше</string>
-  <string name="event_info_desc_more">Больше</string>
   <string name="event_info_organizer">Организатор:</string>
   <string name="event_info_reminders_label">Напоминания</string>
   <string name="event_info_title">Просмотр мероприятия</string>
