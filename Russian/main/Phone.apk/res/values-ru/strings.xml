@@ -1056,7 +1056,7 @@ SIM-карта будет заблокирована навсегда при н�
   <string name="preferred_network_mode_lte_summary">Preferred network mode: LTE</string>
   <string name="ecm_exit_dialog">EcmExitDialog</string>
   <string name="sendSms">Отправить SMS</string>
-  <string name="phone_numbers">Введите телефонные номера</string>
+  <string name="phone_numbers">Введите номера телефонов</string>
   <string name="requesting_nw_unlock">Requesting SIM network unlock…</string>
   <string name="sp_unlock_success">SIM Service Provider unlock successful.</string>
   <string name="exportContacts">Экспорт контактов на SIM-карту…</string>
