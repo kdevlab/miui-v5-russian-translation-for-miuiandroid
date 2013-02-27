@@ -1,37 +1,30 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="utf-8"?>
+<!--Merged with KDG BigBlackBox-->
 <resources>
-  <!--Translated by KDev Group (main repository)-->
-  <!--Fixed, merged and deleted duplicates by KDG Translation Suite-->
-  <string name="altitude">Высота %.1f метров</string>
-  <string name="app_label">Компас</string>
-  <string name="calibrate_failed_no_location">Ошибка калибрации: Невозможно получить данные</string>
-  <string name="calibrate_failed_timeout">Ошибка калибрации: Сервер не отвечает</string>
-  <string name="calibrate_success">Калибровка успешно выполнена</string>
-  <string name="cannot_get_location">Не удалось получить координаты</string>
-  <string name="dialog_calibrat_altitude">Калибрация через интеренет подключение.</string>
-  <string name="dialog_content">Компас не закончил калибровку, которая может привести к неточности. Вы действительно хотите отменить?</string>
-  <string name="dialog_title">Отмена калибровки</string>
-  <string name="dialog_title_no_network">Сетей не найдено, подключитесь через Wi-Fi или включите мобильный интернет</string>
-  <string name="getting_location">Получение координат...</string>
-  <string name="latitude">LAT</string>
-  <string name="location_east">%s В</string>
-  <string name="location_north">%s С</string>
-  <string name="location_south">%s Ю</string>
-  <string name="location_west">%s З</string>
-  <string name="longitude">LON</string>
-  <string name="menu_calibrate">Калибровать</string>
-  <string name="menu_calibrate_altitude">Калибрация высоты</string>
-  <string name="pressure">Давление %.1fгПа</string>
-  <string name="toast_accuracy_low">Низкая точность калибровки. 
-Нажмите МЕНЮ для повтора</string>
-  <string name="user_guide_calibrate">Нажмите кнопку МЕНЮ для калибровки компаса</string>
-
-  <string name="direction_south">Ю</string>
-  <string name="pressure_title">Давление</string>
-  <string name="direction_west">З</string>
-  <string name="altitude_unit">m</string>
-  <string name="pressure_unit">hPa</string>
-  <string name="direction_north">С</string>
-  <string name="altitude_title">Высота</string>
-  <string name="direction_east">В</string>
+	<string name="menu_calibrate_altitude">Калибрация высоты</string>
+	<string name="dialog_calibrat_altitude">Калибрация через интеренет подключение.</string>
+	<string name="altitude">Высота %.1f метров</string>
+	<string name="pressure_title">Давление</string>
+	<string name="menu_calibrate">Калибровать</string>
+	<string name="location_west">%s З</string>
+	<string name="direction_east">В</string>
+	<string name="dialog_title_no_network">Сетей не найдено, подключитесь через Wi-Fi или включите мобильный интернет</string>
+	<string name="calibrate_failed_timeout">Ошибка калибрации: Сервер не отвечает</string>
+	<string name="app_label">Компас</string>
+	<string name="direction_west">З</string>
+	<string name="altitude_unit">m</string>
+	<string name="longitude">LON</string>
+	<string name="altitude_title">Высота</string>
+	<string name="direction_south">Ю</string>
+	<string name="pressure">Давление %.1fгПа</string>
+	<string name="getting_location">Получение координат...</string>
+	<string name="location_east">%s В</string>
+	<string name="calibrate_success">Калибровка успешно выполнена</string>
+	<string name="calibrate_failed_no_location">Ошибка калибрации: Невозможно получить данные</string>
+	<string name="pressure_unit">hPa</string>
+	<string name="cannot_get_location">Не удалось получить координаты</string>
+	<string name="direction_north">С</string>
+	<string name="location_south">%s Ю</string>
+	<string name="latitude">LAT</string>
+	<string name="location_north">%s С</string>
 </resources>
