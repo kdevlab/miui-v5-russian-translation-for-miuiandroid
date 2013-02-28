@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--Merged with KDG BigBlackBox-->
 <resources>
-	<string name="permdesc_handoverStatus">Позволяет получать информацию статуса передачи Bluetooth передач</string>
+	<string name="permdesc_handoverStatus">Позволяет получать информацию статуса передачи Bluetooth</string>
 	<string name="pbap_acceptance_timeout_message">Истекло время ожидания при установке подключения к %1$s.</string>
 	<string name="status_bpp_sucess">Печать успешно завершена</string>
 	<string name="bluetooth_share_file_name">bluetooth_content_share</string>
