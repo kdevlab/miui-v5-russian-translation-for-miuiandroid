@@ -11,4 +11,5 @@ MIUI Translators:
  - BurgerZ (Zhukovskiy Andrey)
  - malchik-solnce (Серёжка)))
  - miuirussia (MIUI Russia)
+ - Ахмедов Арсен
  - VBenkovskyy (Vlaaaad)
