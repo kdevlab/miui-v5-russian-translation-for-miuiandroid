@@ -185,7 +185,7 @@
 	<string name="full_name">Имя</string>
 	<string name="menu_redirect_calls_to_vm">Только голосовая почта</string>
 	<string name="contact_list_loading">Загрузка…</string>
-	<string name="fail_reason_low_memory_during_import">Недостаточно памяти. Возможно, файл слишком большой</string>
+	<string name="fail_reason_low_memory_during_import">Недостаточно памяти. Возможно, файл слишком большой.</string>
 	<string name="frequentList">Часто вызываемые</string>
 	<string name="status_available">На месте</string>
 	<string name="my_phone_not_provider_bluetooth">my phone dont provider bluetooth</string>
@@ -193,7 +193,7 @@
 	<string name="type_incoming">Входящий вызов</string>
 	<string name="description_image_button_one">один</string>
 	<string name="preference_smart_group_title">Умная группировка</string>
-	<string name="scanning">scanning for devices...</string>
+	<string name="scanning">поиск устройств...</string>
 	<string name="no_contacts_dialog_title">Контакт не найден</string>
 	<string name="import_contact_card_button">Импорт</string>
 	<string name="contact_edit_title_edit">Изменить контакт</string>
@@ -205,7 +205,7 @@
 	<string name="recentCalls_addToContact">Добавить в контакты</string>
 	<string name="sms_fax_work">SMS: рабочий факс</string>
 	<string name="showAllContactsJoinItem">Показать все контакты</string>
-	<string name="simContacts_emptyLoading">Загрузка с SIM-карты…</string>
+	<string name="simContacts_emptyLoading">Загрузка контактов с SIM-карты…</string>
 	<string name="sms_mobile">SMS: мобильный</string>
 	<string name="phone_primary">Основной</string>
 	<string name="display_options_view_names_as">Показывать в контактах</string>
@@ -238,7 +238,7 @@
 	<string name="description_call_log_missed_call">Пропущенный вызов</string>
 	<string name="preference_smart_group_frequency_summary">Группировка контактов по последним вызовам или SMS</string>
 	<string name="pick_photo">Выбрать изображение из галереи</string>
-	<string name="addPeopleToGroup">Чтобы добавить что-то, измените группу.</string>
+	<string name="addPeopleToGroup">Чтобы добавить что-то, измените группу</string>
 	<string name="attach_photo_dialog_title">Изображение контакта</string>
 	<string name="contactsFavoritesLabel">Избранное</string>
 	<string name="returnCall">Обратный вызов</string>
@@ -350,7 +350,7 @@
 	<string name="device_version_header_no_bluetooth">Импорт контактов с SIM-карты</string>
 	<string name="sim_card_no_free_space_message">Память SIM-карты заполнена. Пожалуйста, очистите SIM карту и попробуйте еще раз.</string>
 	<string name="listTotalAllContactsZeroStarred">Нет контактов</string>
-	<string name="noContactsHelpTextForCreateShortcut">Отсутствуют контакты для отображения.</string>
+	<string name="noContactsHelpTextForCreateShortcut">Отсутствуют контакты для отображения</string>
 	<string name="account_container_title">Из аккаунта</string>
 	<string name="type_voicemail">Голосовая почта</string>
 	<string name="messageShortcutActivityTitle">Выбрать номер для отправки сообщения</string>
@@ -447,7 +447,7 @@
 	<string name="toast_making_personal_copy">Копирование...</string>
 	<string name="sms_mms">MMS</string>
 	<string name="callrecordview_menu_paste">Вставить</string>
-	<string name="scan_merge">Поиск возможных дубликатов контактов, пожалуйста, подождите...</string>
+	<string name="scan_merge">Поиск возможных дубликатов контактов. Пожалуйста, подождите...</string>
 	<string name="menu_import_export">Импорт/экспорт</string>
 	<string name="account_type_format">Контакт %1$s</string>
 	<string name="status_busy">Не беспокоить</string>
@@ -497,11 +497,11 @@
 	<string name="list_filter_all_starred">Помеченные</string>
 	<string name="activity_title_settings">Настройки</string>
 	<string name="websiteLabelsGroup">Веб-сайт</string>
-	<string name="contactSavedToast">Контакт сохранен.</string>
+	<string name="contactSavedToast">Контакт сохранен</string>
 	<string name="aggregation_suggestion_edit_dialog_title">Редактировать выбранные контакты</string>
-	<string name="send_to_voicemail_checkbox">Send calls directly to voicemail</string>
+	<string name="send_to_voicemail_checkbox">Отправить звонки на голосовую почту</string>
 	<string name="relationLabelsGroup">Отношения</string>
-	<string name="export_sim_contacts_dialog_message">На SIM-карту можно сохранить %d контактов, продолжить?</string>
+	<string name="export_sim_contacts_dialog_message">На SIM-карту можно сохранить %d контактов. Продолжить?</string>
 	<string name="call_log_empty_gecode">-</string>
 	<string name="save_photo_progress">Сохранение фотографии...</string>
 	<string name="hint_findContacts">Найти контакты</string>
@@ -539,7 +539,7 @@
 	<string name="contact_status_update_attribution_with_date">%1$s с помощью %2$s</string>
 	<string name="add_account">Добавить аккаунт</string>
 	<string name="share_visible_contacts">Передать все контакты</string>
-	<string name="callAgain">Позвонить еще ​​раз</string>
+	<string name="callAgain">Позвонить еще раз</string>
 	<string name="non_phone_close">Закрыть</string>
 	<string name="display_more_groups">Другие группы...</string>
 	<string name="checkhint">проверить другой телефон</string>
@@ -568,7 +568,7 @@
 	<string name="preference_dial_pad_touch_tone_title">Тон набора сенсорной панели</string>
 	<string name="toast_join_with_empty_contact">Укажите имя контакта, который хотите объединить</string>
 	<string name="frequency_weekly">Каждую неделю</string>
-	<string name="config_export_dir">/mnt/sdcard</string>
+	<string name="config_export_dir">/mnt/sdcard/miui/contacts</string>
 	<string name="phoneLabelsGroup">Телефон</string>
 	<string name="menu_deleteGroup">Удалить</string>
 	<string name="searchHint">Поиск контактов</string>
@@ -704,11 +704,11 @@
 	<string name="preference_dial_pad_touch_tone_piano">Фортепианный звук</string>
 	<string name="picker_groups_list_empty">Нет групп</string>
 	<string name="callrecordview_menu_delete_all">Очистить журнал</string>
-	<string name="no_contact_in_other_phone">There is no contact in your phone</string>
+	<string name="no_contact_in_other_phone">Нет контактов</string>
 	<string name="group_create_fail_toast">Не удалось создать группу</string>
 	<string name="recentCalls_deleteAll">Очистить журнал вызовов</string>
 	<string name="splitConfirmation_title">Разделение контакта</string>
-	<string name="prepare_import">prepare import</string>
+	<string name="prepare_import">подготовка импорта</string>
 	<string name="group_read_only">Здесь доступно только для чтения</string>
 	<string name="ghostData_title">Название</string>
 	<string name="contacts_unavailable_add_account">Войти в аккаунт</string>
@@ -721,8 +721,8 @@
 	<string name="contactDetailCalllog">Журнал звонков</string>
 	<string name="menu_discard">Отменить</string>
 	<string name="recent_contacts_label">Недавние</string>
-	<string name="quickcontact_missing_app">Действие не поддерживается ни в одном приложении.</string>
-	<string name="use_photo_as_primary2">Use %s contact photo</string>
+	<string name="quickcontact_missing_app">Действие не поддерживается ни в одном приложении</string>
+	<string name="use_photo_as_primary2">Использовать как фото контакта к %s</string>
 	<string name="sms_other">Отправить SMS</string>
 	<string name="aggregation_suggestion_join_dialog_message">Объединить текущий контакт с выбранным контактом?</string>
 	<string name="picker_all_list_empty">Нет контактов</string>
