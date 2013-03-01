@@ -5,7 +5,9 @@
 	<string name="sdcard_no_enough_space_message">Резервное копирование может завершиться с ошибкой, пожалуйста освободите место на SD-карте</string>
 	<string name="prompt_reading">Чтение...</string>
 	<string name="service_stoped">Служба остановилась</string>
+	<string name="auto_backup_user_data">Приложения</string>
 	<string name="enable_encrypt_summery2">Новый бэкап будет автоматически шифроваться. Вы должны войти в свой аккаунт Xiaomi - для удаления данных или использования с других устройств для восстановления резервной копии.</string>
+	<string name="auto_backup_select_user_apps">Выбор приложений</string>
 	<string name="local_select_userapp">Приложения + данные</string>
 	<string name="sc_network_unavailable">Сеть не доступна</string>
 	<string name="exchange_account">Сменить аккаунт</string>
@@ -56,6 +58,7 @@
 	<string name="task_restore_cancel_dialog">Вы собираетесь отменить операцию.\nЭто может привести к потере данных!</string>
 	<string name="delete">Удалить</string>
 	<string name="backup">Р.К.</string>
+	<string name="auto_backup_system_data">Система</string>
 	<string name="local_backup_window_title">Локальное</string>
 	<string name="backup_file_error">Файлы резерной копии повреждены, операция не завершена</string>
 	<string name="restore_launcher_layout_hit">- Заменит расположение значков</string>
@@ -84,6 +87,7 @@
 	<string name="button_ok">OК</string>
 	<string name="task_restore_none">Не нуждается в восстановлении</string>
 	<string name="read_encrypt_fail">Не удалось расшифровать</string>
+	<string name="auto_backup_selected_user_apps">Выбранные приложения</string>
 	<string name="backup_recently">(Последний)</string>
 	<string name="task_pending">В ожидании</string>
 	<string name="auto_backup_choose_title">Настройка автоматического резервного копирования</string>
@@ -113,6 +117,7 @@
 	<string name="local_select_sysdata">Настройки системы</string>
 	<string name="findlost_contact">Найти удаленый контакт(ы)</string>
 	<string name="task_failed_all_local">Ошибки во всех задачах</string>
+	<string name="auto_backup_all_user_apps">Все приложения</string>
 	<string name="succeed">Успешно завершено</string>
 	<string name="auto_backup_date">Частота Р.К. (в днях)</string>
 	<string name="compute_backup_info">Получение информации резервного копирования</string>

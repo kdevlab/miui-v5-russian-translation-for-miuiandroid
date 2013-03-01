@@ -18,12 +18,14 @@
 	<string name="delete_label">Удалить</string>
 	<string name="accessibility_remove_reminder">Удалить напоминание</string>
 	<string name="presence_label">Мой статус:</string>
+	<string name="copy_number">Скопировать номер телефона</string>
 	<string name="search">Поиск</string>
 	<string name="discard_label">Отмена</string>
 	<string name="edit_event_calendar_label">Календарь</string>
 	<string name="event_create">Новое мероприятие</string>
 	<string name="quick_response_custom_msg">Пользовательское сообщение...</string>
 	<string name="loading">Загрузка…</string>
+	<string name="done">Готово</string>
 	<string name="agenda_view">Повестка дня</string>
 	<string name="monthly">Ежемесячно</string>
 	<string name="agenda_tomorrow">Завтра, %1$s</string>
@@ -67,6 +69,7 @@
 	<string name="hint_attendees">Адреса электронной почты</string>
 	<string name="preferences_category_general_title">Общие</string>
 	<string name="preferences_clear_search_history_title">Очистить историю поиска</string>
+	<string name="delete_recurring_event_title">Удалить %s?</string>
 	<string name="accessibility_remove_attendee">Удалить участника</string>
 	<string name="event_info_title_invite">Приглашение на встречу</string>
 	<string name="add_account">Добавить аккаунт</string>
@@ -102,12 +105,14 @@
 	<string name="preferences_default_reminder_dialog">Время напоминания</string>
 	<string name="monthly_on_day_count">Ежемесячно (кажд. %1$s %2$s)</string>
 	<string name="yearly">Ежегодно (%s)</string>
+	<string name="copy_email">Скопировать адрес E-Mail</string>
 	<string name="birthday_notification_text_today">Не забудьте поздравить!</string>
 	<string name="preferences_default_reminder_title">Время напоминания</string>
 	<string name="custom">Особое… (настраивается только на сайте)</string>
 	<string name="search_title">Поиск календарей</string>
 	<string name="local_owner_account_name">Локальный аккаунт</string>
 	<string name="accessibility_pick_start_time">Время начала</string>
+	<string name="do_not_check">Не проверять -></string>
 	<string name="accessibility_reminder_time">Время напоминания</string>
 	<string name="event_view">Просмотр мероприятия</string>
 	<string name="response_no">Нет</string>

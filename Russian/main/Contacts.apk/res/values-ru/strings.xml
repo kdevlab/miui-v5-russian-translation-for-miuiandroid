@@ -117,7 +117,7 @@
 	<string name="description_view_contact_detail">Данные контакта</string>
 	<string name="separatorJoinAggregateSuggestions">Предлагаемые контакты</string>
 	<string name="take_photo">Сделать фотографию</string>
-	<string name="callDetailsDurationFormat" formatted="false">%s: %s</string>
+	<string name="import_weibo_progress_hint">Импортирование...</string>
 	<string name="hint_search_phone_numbers">Телефонов: %d</string>
 	<string name="picker_join_title">Выберите контакт для объединения с %s</string>
 	<string name="insertContactDescription">Создать контакт</string>
@@ -144,6 +144,7 @@
 	<string name="smart_group_location_unavailable">Нет информации о адресе</string>
 	<string name="menu_new_contact_action_bar">Добавить</string>
 	<string name="callrecordview_menu_delete_missed">Очистить пропущенные вызовы</string>
+	<string name="phone_info_divider">"  |  "</string>
 	<string name="fail_reason_failed_to_read_files">Один или несколько файлов не могут быть импортированы (%s)</string>
 	<string name="chat_aim">Чат через AIM</string>
 	<string name="emptyGroup">Нет людей в этой группе</string>
@@ -251,13 +252,14 @@
 	<string name="sms_disambig_title">Отправить SMS с помощью</string>
 	<string name="menu_joinAggregate">Объединить</string>
 	<string name="display_options_sort_by_given_name">По имени</string>
+	<string name="device_import_account_dialog_title_suffix">\n(найдено %1$s контактов)</string>
 	<string name="contacts_unavailable_import_contacts">Импортировать контакты из файла</string>
 	<string name="description_call">Позвонить: %1$s</string>
 	<string name="email">Эл. почта</string>
 	<string name="option_rename_group">Переименовать</string>
 	<string name="label_notes">Примечания</string>
+	<string name="zero_items_selected">Пожалуйста, выберите пункты</string>
 	<string name="callrecordview_menu_show_missed">Только пропущенные</string>
-	<string name="smart_group_action_bar_title">%1$s-%2$s</string>
 	<string name="name_middle">Отчество</string>
 	<string name="recentCalls_callNumber">Звонков %s</string>
 	<string name="menu_bar_group_sms">Группа SMS</string>
@@ -287,6 +289,7 @@
 	<string name="description_search_button">поиск</string>
 	<string name="exporting_contact_list_progress" formatted="false">%s из %s контактов</string>
 	<string name="dirty_contacts_notification_description">У вас есть %d не синхронизированных контактов</string>
+	<string name="smart_group_loading">Загрузка групп...</string>
 	<string name="people">Контакты</string>
 	<string name="confirm_delete_contact_all_call_logs">Вы действительно хотите удалить все журналы вызовов для %s?</string>
 	<string name="event_edit_field_hint_text">Дата</string>
@@ -294,10 +297,12 @@
 	<string name="set_default">Установить по умолчанию</string>
 	<string name="import_to_xiaomi_account_confirm">Импорт</string>
 	<string name="callrecordview_item_op_time_only_seconds">%d секунд</string>
+	<string name="auto_nickname">Авто</string>
 	<string name="preference_smart_group_company_title">По компаниям</string>
 	<string name="chat_msn">Чат через Windows Live</string>
 	<string name="deselect_all">Снять выделение</string>
 	<string name="button_scan">Пересканировать</string>
+	<string name="auto_set_nickname">Авто</string>
 	<string name="add_connection_button">Добавить соц. сеть</string>
 	<string name="missing_name">(без имени)</string>
 	<string name="description_dial_button">набрать</string>
@@ -331,6 +336,7 @@
 	<string name="social_widget_loading">Загрузка…</string>
 	<string name="call_telex">Телекс</string>
 	<string name="callrecordview_menu_show_all">Все</string>
+	<string name="restore_nickname">Восстановить</string>
 	<string name="hint_search_contacts">Поиск контактов</string>
 	<string name="device_other_guide">если Вашей марки телефона нет в списке, попробуйте обратитться в помощь ниже</string>
 	<string name="dialog_voicemail_not_ready_message">Чтобы настроить голосовую почту, перейдите в Меню > Настройки</string>
@@ -397,14 +403,15 @@
 	<string name="removePhoto">Удалить изображение</string>
 	<string name="callrecordview_menu_show_called">Только исходящие</string>
 	<string name="callrecordview_menu_show">Фильтр вызовов</string>
+	<string name="import_weibo_notification_title">Импортирование контактов sina weibo...</string>
 	<string name="shortcutContact">Контакты</string>
 	<string name="device_import_account_dialog_title">выберите аккаунт для импорта</string>
 	<string name="menu_bar_group_ringtone">Рингтон группы</string>
 	<string name="menu_select_none">Отменить все</string>
 	<string name="clearCallLogConfirmation_title">Удаление данных</string>
 	<string name="contact_read_only">Здесь доступно только для чтения</string>
-	<string name="call_isdn">Номер ISDN</string>
 	<string name="no_contacts_dialog_message">Человек не найден в Контактах. Возможно он находится на SIM-карте, для поиска импортируйте все контакты с SIM-карты.</string>
+	<string name="call_isdn">Номер ISDN</string>
 	<string name="edit_contact">Изменить контакт</string>
 	<string name="sms_work_pager">SMS: рабоч. пейдж.</string>
 	<string name="no_contacts_selected">Контакты не выбраны</string>
@@ -526,8 +533,9 @@
 	<string name="upgrade_in_progress">Список контактов обновляется...</string>
 	<string name="share_error">Не удалось передать данные</string>
 	<string name="callDetailTitle">Сведения о вызове</string>
-	<string name="dialerKeyboardHintText">Используйте клавиатуру для набора</string>
 	<string name="title_other_devices">Другие доступные устройства</string>
+	<string name="dialerKeyboardHintText">Используйте клавиатуру для набора</string>
+	<string name="export_to_sim_title">Экспорт на SIM-карту...</string>
 	<string name="device_import_title">импортирование</string>
 	<string name="sms_company_main">SMS: тел. офиса</string>
 	<string name="menu_not_redirect_calls_to_vm">Голосовая почта не используется</string>
@@ -545,6 +553,7 @@
 	<string name="checkhint">проверить другой телефон</string>
 	<string name="fail_reason_too_long_filename">Слишком длинное название: %s</string>
 	<string name="device_paired_dialog_message">Возможно, Вам придется подтвердить на другом телефоне</string>
+	<string name="import_weibo_dialog_title">Импортировать контакты sina weibo</string>
 	<string name="chat">Чат</string>
 	<string name="generic_no_account_prompt_title">Добавить аккаунт</string>
 	<string name="description_image_button_pound">решетка</string>
@@ -568,10 +577,11 @@
 	<string name="preference_dial_pad_touch_tone_title">Тон набора сенсорной панели</string>
 	<string name="toast_join_with_empty_contact">Укажите имя контакта, который хотите объединить</string>
 	<string name="frequency_weekly">Каждую неделю</string>
-	<string name="config_export_dir">/mnt/sdcard/miui/contacts</string>
+	<string name="remove_duplicate">MIUI поможет вам найти и объединить дублированные контакты, контакты не будут объединены автоматически, пожалуйста, объедините их вручную\n\nНажмите на объединение и возможно, Вам придется потратить немного времени, чтобы подождать автоматического объединения.</string>
 	<string name="phoneLabelsGroup">Телефон</string>
 	<string name="menu_deleteGroup">Удалить</string>
 	<string name="searchHint">Поиск контактов</string>
+	<string name="import_weibo_notification_title_done">Импортирование контактов sina weibo завершено</string>
 	<string name="call_work">Рабочий тел.</string>
 	<string name="non_phone_add_to_contacts">Добавить номер к контакту</string>
 	<string name="group_create_success_toast">Группа успешно создана</string>
@@ -627,6 +637,7 @@
 	<string name="video_chat">Видеочат</string>
 	<string name="callrecordview_menu_show_accepted">Только входящие</string>
 	<string name="add_new_entry_for_section">Добавить</string>
+	<string name="group_sms_progress_msg">Подготовка к групповой отправке SMS...</string>
 	<string name="previous">ранее</string>
 	<string name="titleJoinContactDataWith">Объединить контакты</string>
 	<string name="dialer_empty_text_loading">Загрузка...</string>
@@ -703,6 +714,7 @@
 	<string name="imei">IMEI</string>
 	<string name="preference_dial_pad_touch_tone_piano">Фортепианный звук</string>
 	<string name="picker_groups_list_empty">Нет групп</string>
+	<string name="recent_number">Недавний</string>
 	<string name="callrecordview_menu_delete_all">Очистить журнал</string>
 	<string name="no_contact_in_other_phone">Нет контактов</string>
 	<string name="group_create_fail_toast">Не удалось создать группу</string>
@@ -766,6 +778,8 @@
 	<string name="preference_others">Другое</string>
 	<string name="calllog_menu_edit_before_call">Отредактировать перед вызовом</string>
 	<string name="status_away">Отсутствует</string>
+	<string name="rebuild_t9_index_dialog_message">Перестроение данных индекса...</string>
+	<string name="custom_nickname_hint">Введите титул (например: Мр. или Доктор)</string>
 	<string name="device_import_progress_end_message">Импорт завершен!</string>
 	<string name="recentCalls_trashVoicemail">Удалить голосовое сообщение</string>
 	<string name="voicemail_fetching_content">Получение голосовой почты...</string>
@@ -779,7 +793,6 @@
 	<string name="chat_qq">Чат через QQ</string>
 	<string name="pref_key_photo_word_summary">Автоматический выбор изображений для контактов без них</string>
 	<string name="dialerDialpadHintText">Наберите номер, чтобы добавить вызов</string>
-	<string name="scan_duplicate">Поиск дубликатов, пожалуйста, подождите...</string>
 	<string name="pick_favorites_list_title">Избранных контактов: %1$d</string>
 	<string name="sms_assistant">Отправить текстовое сообщение на номер %s</string>
 	<string name="pickerNewContactHeader">Создать новый контакт</string>

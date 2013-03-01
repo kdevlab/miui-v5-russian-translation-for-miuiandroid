@@ -68,6 +68,7 @@
 	<string name="tab_closed">Вкладка закрыта</string>
 	<string name="pref_extras_reset_default_title">Сброс настроек</string>
 	<string name="pref_reading_mode_enabled_title">Режим чтения</string>
+	<string name="pref_allow_apptabs">Разрешить несколько вкладок в приложении</string>
 	<string name="import_bookmarks_dialog_select_add_account">Добавить закладки, имеющиеся на этом устройстве, и начать синхронизацию с аккаунтом Google</string>
 	<string name="current_page">"на "</string>
 	<string name="download_sdcard_busy_dlg_msg">USB-накопитель занят. Чтобы разрешить загрузки, выберите \"Отключить USB-накопитель\" в уведомлении.</string>
@@ -110,7 +111,6 @@
 	<string name="pref_content_load_page">Обзор страниц</string>
 	<string name="permission_preload_label">Загрузить результаты</string>
 	<string name="pref_clear_cache_for_exit">Очищать кэш при выходе</string>
-	<string name="add_bookmark_to_home_screen">На домашнюю страницу</string>
 	<string name="open_bookmark">Открыть</string>
 	<string name="ok">ОК</string>
 	<string name="contextmenu_copy">Копировать</string>
@@ -180,6 +180,7 @@
 	<string name="pref_privacy_clear_history">Очистить историю</string>
 	<string name="remove_from_bookmarks">Удалить из закладок</string>
 	<string name="action">Вход</string>
+	<string name="accessibility_button_larger">Больше</string>
 	<string name="import_bookmarks_dialog_add">Добавить закладки в аккаунт Google</string>
 	<string name="please_select_a_file_to_import">Пожалуйста, выберите файл с данными</string>
 	<string name="shortcut_bookmark_title">Выберите закладку</string>
@@ -217,6 +218,7 @@
 	<string name="menu_share_url">Отправить</string>
 	<string name="pref_privacy_clear_geolocation_access">Закрыть геоданные</string>
 	<string name="forward">Вперед</string>
+	<string name="accessibility_button_smaller">Меньше</string>
 	<string name="pref_link_prefetch_summary">Разрешить браузеру предварительно загружать связанные веб-страницы в фоновом режиме</string>
 	<string name="pref_autologin_title">Автоматический вход в систему</string>
 	<string name="pref_autofill_profile_editor">Текст автозаполнения</string>
@@ -398,6 +400,7 @@
 	<string name="geolocation_settings_page_summary_not_allowed">У этого сайта сейчас нет доступа к данным о Вашем местоположении</string>
 	<string name="accessibility_button_search">Поиск</string>
 	<string name="pref_general_exit_setting_title">Настройки выхода</string>
+	<string name="other_bookmarks">Другие закладки</string>
 	<string name="pref_volume_key_enabled">Кнопки громкости</string>
 	<string name="pref_link_prefetch_dialogtitle">Загрузка веб-страниц</string>
 	<string name="page_info_address">Адрес:</string>
@@ -405,7 +408,6 @@
 	<string name="page_info">Информация о странице</string>
 	<string name="contextmenu_sharelink">Отправить ссылку</string>
 	<string name="pref_content_autofit">Мобильный вид</string>
-	<string name="manage_feature_permissions">Управление разрешениями</string>
 	<string name="stop">Стоп</string>
 	<string name="do_not_save">Отмена</string>
 	<string name="too_many_windows_dialog_title">Открыто макс. число вкладок</string>
@@ -420,6 +422,7 @@
 	<string name="search_yahoo">Yahoo</string>
 	<string name="add_bookmark">Добавить закладку</string>
 	<string name="import_bookmarks_dialog_title">Синхронизация с аккаунтом Google</string>
+	<string name="send_bookmark_to_home_screen">Создать ярлык на рабочем столе</string>
 	<string name="importing_favorite_files">Импорт данных...</string>
 	<string name="search_bing">Bing</string>
 	<string name="pref_privacy_clear_geolocation_access_summary">Очистить список сайтов, имеющих доступ к данным о Вашем местоположении</string>
@@ -430,9 +433,7 @@
 	<string name="add_to_other_folder_menu_option">Другая папка</string>
 	<string name="pref_default_zoom">Масштаб по умолчанию</string>
 	<string name="import_bookmarks_wizard_previous">Назад</string>
-	<string name="miui_yellowpage_category">Категории</string>
 	<string name="is_first_tab">На первой вкладке</string>
-	<string name="miui_yellowpage_site">Сайты</string>
 	<string name="pref_content_load_images">Загружать графику</string>
 	<string name="choosertitle_sharevia">Способ отправки</string>
 	<string name="contextmenu_view_image">Просмотр изображения</string>
