@@ -888,6 +888,7 @@
 	<string name="call_settings_category_miui">Настройки вызовов</string>
 	<string name="sim_lock_title_miui">Блокировка SIM-карты</string>
 	<string name="sum_fdn_manage_list">Управление списком разрешенных номеров</string>
+	<string name="pin2_attempts">\nОсталось попыток:</string>
 	<string name="cdma_display_precise_call_state_title_miui">Показывать состояние вызова</string>
 	<string name="label_rcdp">RUIM corporate unlock PIN</string>
 	<string name="voicemail_settings_for">Настройки для %s</string>
