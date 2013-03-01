@@ -1,8 +1,4 @@
 <strings>
-    <string name="date_time" value="EEEE, d MMMM"/>
-    <string name="missed_call" value="Пропущено вызовов: %d"/>
-    <string name="unread_sms" value="Не прочитано сообщений: %d"/>
-    <string name="low_battery" value="Батарея разряжена (%d%%)"/>
-    <string name="charging" value="Батарея заряжается (%d%%)"/>
-    <string name="battery_full" value="Батарея полностью заряжена"/>
+    <string name="short_date_format" value="dd.MM.yyyy" />
+    <string name="long_date_format" value="dd MMMM yyyy" />
 </strings>
