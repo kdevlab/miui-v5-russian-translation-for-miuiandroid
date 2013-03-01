@@ -816,10 +816,10 @@
 	<string name="main_running_process_description">Основной используемый процесс</string>
 	<string name="service_restarting">Перезапуск</string>
 	<string name="musicfx_title">Эквалайзер</string>
-	<string name="perm_privacy_count">Allowed: %1$d Denied: %2$d</string>
+	<string name="perm_privacy_count">Разрешен: %1$d Запрещен: %2$d</string>
 	<string name="user_information_heading">Информация</string>
 	<string name="data_usage_auto_sync_on_dialog_title">Включить автосинхронизацию?</string>
-	<string name="development_enable">Enable development</string>
+	<string name="development_enable">Режим разработчика</string>
 	<string name="invalid_size_value">Не удалось вычислить размер пакета</string>
 	<string name="tts_data_installed_summary">Голоса, необходимые для синтеза речи, уже установлены</string>
 	<string name="active_input_method_subtypes">Активные способы ввода</string>
@@ -1037,7 +1037,7 @@
 	<string name="breathing_light_freq_title">Частота</string>
 	<string name="apn_mcc">MCC</string>
 	<string name="tts_default_lang_summary">Выбор языка для чтения текста</string>
-	<string name="filter_apps_cached">Cached</string>
+	<string name="filter_apps_cached">Кеш</string>
 	<string name="wifi_other_network">Другая сеть…</string>
 	<string name="service_stop">Остановить</string>
 	<string name="radioInfo_service_in">В зоне обслуживания</string>
@@ -1057,7 +1057,6 @@
 	<string name="sdcard_unmount">Извлечь SD-карту</string>
 	<string name="app_not_found_dlg_text">Приложение не найдено в списке установленных</string>
 	<string name="wifi_disabled_help">Сеть отклонена, так как соединение неустойчивое. Чтобы изменить параметры, выберите \"Настройки > Wi-Fi\" и откройте меню \"Дополнительно\"</string>
-	<string name="wifi_ip_address_hint">192.168.1.128</string>
 	<string name="bluetooth_sap_remember_choice">Больше не спрашивать</string>
 	<string name="unlock_set_unlock_pattern_title">Графический ключ</string>
 	<string name="camera_key_action_shortcut_title">Ярлык</string>
