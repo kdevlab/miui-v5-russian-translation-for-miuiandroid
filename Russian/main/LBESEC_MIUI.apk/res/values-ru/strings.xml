@@ -151,6 +151,7 @@
 	<string name="HIPS_Perm_ROOT_Desc">Запрос на доступ от имени суперпользователя</string>
 	<string name="app_name">Безопасность</string>
 	<string name="Generic_Operating">В процессе...</string>
+	<string name="Su_Unavailable">Права администратора не доступны в стабильной версии MIUI. Пожалуйста, установите версию для разработчиков.</string>
 	<string name="HIPS_Perm_SendSMS_Text">Отправить SMS на %1$s</string>
 	<string name="HIPS_Perm_SMS_Desc">Доступ к входящим SMS</string>
 	<string name="HIPS_SecurityPrompt_Title">%1$s пытается %2$s</string>

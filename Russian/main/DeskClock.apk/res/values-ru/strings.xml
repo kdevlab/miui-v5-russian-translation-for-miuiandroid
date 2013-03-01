@@ -27,7 +27,6 @@
 	<string name="start">Старт</string>
 	<string name="analog_gadget">Часы</string>
 	<string name="delelte_selected_timezone">Вы действительно хотите удалить выбранный часовой пояс(а)?</string>
-	<string name="shutdown_alarm_disable_summary">Не включать автоматически телефон, даже если настроен будильник</string>
 	<string name="alarm_ascending_mode_title">Нарастание громкости</string>
 	<string name="keep_screen_on">Держать экран включенным</string>
 	<string name="timer_message_with_hour">таймер на %1$d часов и %2$d минут</string>
