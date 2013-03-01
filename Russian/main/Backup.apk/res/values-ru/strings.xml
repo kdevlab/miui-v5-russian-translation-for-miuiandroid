@@ -40,7 +40,7 @@
 	<string name="cloud_backup_window_title">Облако</string>
 	<string name="sdcard_unmounted">SD-карта не найдена или отключена</string>
 	<string name="auto_backup_time">Запланировать копирование</string>
-	<string name="local_select_account_contact">Аккауты и контакты (%d)</string>
+	<string name="local_select_account_contact">Аккауты и контакты</string>
 	<string name="backup_empty_info">Резервное копирование данных, настроек и приложений</string>
 	<string name="menu_patch_delete">Удаление резервных копий</string>
 	<string name="button_backup">Создать резервную копию</string>
