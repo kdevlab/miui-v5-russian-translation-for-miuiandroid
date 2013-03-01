@@ -372,4 +372,43 @@
         <item>Яркий</item>
         <item>Стандартный</item>
     </string-array>
+    <string-array name="msd_pc_system">
+        <item>Windows XP или старее</item>
+        <item>Windows Vista или новее</item>
+        <item>OS X</item>
+        <item>Linux</item>
+    </string-array>
+    <string-array name="msd_pc_system_install_start_summary">
+        <item>Для Windows XP или старее,\nдрайвер должен быть установлен вручную</item>
+        <item>Для Windows Vista или новее,\nмузыкальный плеер MI-2 появится на вашем компьютере</item>
+        <item>Для операционной системы OS X,\nдрайвер должен быть установлен вручную</item>
+        <item></item>
+    </string-array>
+    <string-array name="msd_pc_system_install_step_1_summary">
+        <item>(Пожалуйста, игнорируйте всплывающие окна мастера установки)\nзапоминающее устройство XIAOMI появится на вашем компьютере\nОткройте и выберите файл Setup.exe для установки</item>
+        <item></item>
+        <item>Запоминающее устройство XIAOMI появится на вашем компьютере\nткройте и выберите файл AndroidFileTransfer.dmg для установки</item>
+        <item></item>
+    </string-array>
+    <string-array name="msd_pc_system_install_step_2_summary">
+        <item>2. Мобильное устройство хранения MI-2 появится на вашем компьютере\nТеперь вы можете передавать файлы</item>
+        <item></item>
+        <item>Компьютер будет автоматически открывать и читать данные телефона\nТеперь вы можете передавать файлы</item>
+        <item></item>
+    </string-array>
+    <string-array name="msd_pc_system_install_finish_summary">
+        <item>Если вы установили этот драйвер\nМобильное устройство хранения MI-2 должно быть на вашем компьютере</item>
+        <item>Для Windows Vista или новее,\nмузыкальный плеер MI-2 должен появится на вашем компьютере</item>
+        <item>Если вы установили драйвер\nКомпьютер будет автоматически открывать и читать данные телефона</item>
+        <item></item>
+    </string-array>
+    <string-array name="perm_hips_action">
+        <item>Разрешить</item>
+        <item>Запрос</item>
+        <item>Запретить</item>
+    </string-array>
+    <string-array name="startup_hips_action">
+        <item>Разрешить</item>
+        <item>Запретить</item>
+    </string-array>
 </resources>
