@@ -31,7 +31,7 @@
 	<string name="cancel_txt">Отмена</string>
 	<string name="adjust_traffic_carrier_settings_title">Оператор</string>
 	<string name="menu_display_system_app">Показать системные приложения</string>
-	<string name="plate_traffic_exceed">Превышено (%s)</string>
+	<string name="plate_traffic_exceed">Превышено</string>
 	<string name="carrier_cmcc">%1$s, %2$s, %3$s</string>
 	<string name="edit_frame_month_start_title">Дата начала учета</string>
 	<string name="traffic_suffix_with_uint">Трафик (МБ)</string>
@@ -117,7 +117,7 @@
 	<string name="finish_traffic_settings_hint">Настройки сохранены</string>
 	<string name="settings_page_traffic_summary">Доступно: %1$s, Предупреждений: %2$s, Дата последнего пополнения: %3$d</string>
 	<string name="adjust_traffic_title">Регулировка трафика</string>
-	<string name="plate_traffic_already_used">Использовано (%s)</string>
+	<string name="plate_traffic_already_used">Использовано</string>
 	<string name="notify_carrier_settings_title">Вы не настроили поставщика услуг связи. Настроить сейчас?</string>
 	<string name="menu_traffic_adjust">Регулировка трафика</string>
 	<string name="apply_rules_failed">Не удалось включить брандмауэр, попробуйте еще раз. (%s)</string>

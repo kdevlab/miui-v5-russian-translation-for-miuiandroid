@@ -6,7 +6,6 @@
 	<string name="pano_how_to_use_prompt">Нажмите затвор для съемки панорамы</string>
 	<string name="pref_camera_focusmode_entry_continuous">Следящий фокус</string>
 	<string name="wait">Пожалуйста, ждите...</string>
-	<string name="pref_camera_focusmode_value_default">auto</string>
 	<string name="pref_camera_recordlocation_entry_on">Вкл.</string>
 	<string name="pref_camera_scenemode_entry_steadyphoto">Четкий снимок</string>
 	<string name="time">Время</string>
@@ -40,7 +39,7 @@
 	<string name="accessibility_switch">%1$s переключ.</string>
 	<string name="pref_camera_autoexposure_entry_frameaverage">Усредненный</string>
 	<string name="not_selectable_in_effect">Недоступно при включенных эффектах.</string>
-	<string name="pref_camera_coloreffect_title_simple_mode">Filter</string>
+	<string name="pref_camera_coloreffect_title_simple_mode">Фильтр</string>
 	<string name="pref_camera_histogram_entry_disable">Выключена</string>
 	<string name="pref_camera_preview_value_off">off</string>
 	<string name="pref_camera_zsl_value_on">on</string>
@@ -181,7 +180,7 @@
 	<string name="switch_to_panorama_label">Переключение в режим панорамы</string>
 	<string name="pref_camera_saturation_title">Насыщенность</string>
 	<string name="pano_dialog_prepare_preview">Подготовка панорамы</string>
-	<string name="pref_camera_ae_bracket_hdr_title">HDR-Bracketing</string>
+	<string name="pref_camera_ae_bracket_hdr_title">HDR</string>
 	<string name="pref_camera_coloreffect_entry_bluetint">Синий оттенок</string>
 	<string name="pref_camera_whitebalance_entry_incandescent">Лампа накаливания</string>
 	<string name="effect_goofy_face_big_nose">Большой нос</string>
@@ -547,7 +546,6 @@
 	<string name="import_complete">Импорт завершен</string>
 	<string name="pref_back_camera_picturesize_title">Разрешение (задняя камера)</string>
 	<string name="pref_camera_iso_entry_isodeblur">Авто ISO (HJR)</string>
-	<string name="pref_camera_redeyereduction_default">disable</string>
 	<string name="pref_camera_coloreffect_entry_pro">Старина</string>
 	<string name="pref_settings_mode">Режим камеры</string>
 	<string name="share">Поделиться</string>
@@ -562,9 +560,8 @@
 	<string name="pref_video_quality_entry_vga">VGA</string>
 	<string name="pref_video_speed_value_slow">Медленно</string>
 	<string name="flash_on">Вспышка включена</string>
-	<string name="pref_camera_long_pressing_burst_shooting_entry_on">On</string>
+	<string name="pref_camera_long_pressing_burst_shooting_entry_on">Вкл</string>
 	<string name="accessibility_switch_to_panorama">Режим \"Панорама\"</string>
-	<string name="pref_camera_flashmode_no_flash">no_flash</string>
 	<string name="manual">Вручную</string>
 	<string name="pref_camera_selectablezoneaf_entry_centerweighted">Центровзвешенная</string>
 	<string name="pref_camera_whitebalance_entry_daylight">Дневной свет</string>
@@ -572,7 +569,5 @@
 	<string name="pref_camera_scenemode_entry_ar">AR</string>
 	<string name="no_picture_to_share">Нет фотографий для публикации</string>
 	<string name="effect_goofy_face_squeeze">Сжать</string>
-	<string name="pref_video_continuous_focus_entryvalue_default">caf-off</string>
 	<string name="pref_advanced_functions">Расширенные функции</string>
-	<string name="pref_camera_autoexposure_value_spotmetering">spot-metering</string>
 </resources>
