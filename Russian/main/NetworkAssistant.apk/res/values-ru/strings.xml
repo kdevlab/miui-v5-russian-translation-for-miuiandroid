@@ -150,6 +150,6 @@
 	<string name="unknown_location">Неизвестное местоположение</string>
 	<string name="adjust_traffic_carrier_summary_oneweek_before">Обновлено неделю назад</string>
 	<string name="unknown_free_traffic_text">Я не знаю об ограничениях трафика</string>
-	<string name="plate_traffic_remain">Осталось (%s)</string>
+	<string name="plate_traffic_remain">Осталось</string>
 	<string name="traffic_used_status">Использовано: %s</string>
 </resources>

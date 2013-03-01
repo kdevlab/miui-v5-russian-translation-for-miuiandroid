@@ -17,11 +17,14 @@
 	<string name="share_update_content_unsign">Я обновил MIUI до %1$s! Для получения подробных изменений, пожалуйста, посетите %2$s.</string>
 	<string name="active_xiaomi_account_title">Активация аккаунта</string>
 	<string name="refuse_recommend_reason">Пожалуйста, введите причину</string>
+	<string name="check_update">Проверить обновление</string>
 	<string name="monthly_build">ежемесячная</string>
+	<string name="sign_in_add_account">Активируйте аккунт Xiaomi</string>
 	<string name="not_recommend">Не рекомендую</string>
 	<string name="view_upgrade_tutorial">Показать справку</string>
 	<string name="apply_update_fail">Ошибка обновления</string>
 	<string name="view_install_log">Просмотр журнала</string>
+	<string name="top_secret_build">Секретная сборка</string>
 	<string name="dialog_no">Нет</string>
 	<string name="loading">Загрузка MIUI</string>
 	<string name="system_backup_cancel_text">Обновить</string>
@@ -67,6 +70,7 @@
 	<string name="check_update_policy">Параметры обновления</string>
 	<string name="my_update_feel">Мои ощущения</string>
 	<string name="new_update_download_complete_body">Готово к установке: %s</string>
+	<string name="experimental_build">Экспериментальная сборка</string>
 	<string name="send_install_log_error">Не удалось отправить журнал ошибок</string>
 	<string name="sdcard_has_no_space_dialog_title">Нет места на SD-карте</string>
 	<string name="exception_while_downloading">Произошла ошибка при загрузке обновления</string>
@@ -100,6 +104,7 @@
 	<string name="move_data_to_sdcard_not_enough_space_message">Не хватает места %dМб для копирования файлов на SD-карту</string>
 	<string name="update_general">Более-менее</string>
 	<string name="paused_queued_for_wifi">Ожидание подключения Wi-Fi</string>
+	<string name="sign_in_info_rank_more">Your update ranking is after %1$s\nOver %2$s users have signed in for MIUI %3$s</string>
 	<string name="submit_success">Отправлено!</string>
 	<string name="confirm_download_cancelation_dialog_message">Вы уверены, что хотите отменить загрузку обновления?</string>
 	<string name="sdcard_is_not_present_dialog_title">Нет SD-карты</string>
@@ -109,6 +114,7 @@
 	<string name="copy_install_log">Копировать в буфер</string>
 	<string name="choose_recommend">Пожалуйста, выберите рекомендуете или нет</string>
 	<string name="sdcard_is_not_present_dialog_body">Вам нужна SD-карта для загрузки обновления</string>
+	<string name="internal_build">внутренняя сборка</string>
 	<string name="update_feedback_expired">Жаль, что вы пропустили возможность участия в отзывах о прошивке!\nПожалуйста, попробуйте опрос в следующий вторник</string>
 	<string name="no_updatecheck_executed">Не выполнять проверку обновлений</string>
 	<string name="recommend">Рекомендую</string>
@@ -128,6 +134,7 @@
 	<string name="network_error">Не удается подключиться, возможно, из-за проблем с сетью или сервер занят</string>
 	<string name="current_version_text">Текущая версия:</string>
 	<string name="upgrade_kernel">Обновления ядра</string>
+	<string name="sign_in_info_total_more">Your update ranking is %1$s\nOver %2$s users have signed in for MIUI %3$s</string>
 	<string name="mione_update_success_title">Обновление завершено</string>
 	<string name="update_comment_title">У меня есть что сказать</string>
 	<string name="install_qq">Установить Tencent weibo</string>
