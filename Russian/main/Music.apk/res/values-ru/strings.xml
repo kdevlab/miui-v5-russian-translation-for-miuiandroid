@@ -6,8 +6,6 @@
 	<string name="correct_id3_settings">Настройки корректировки ID3</string>
 	<string name="edit_playlist_menu">Редактировать</string>
 	<string name="impunity_declaration_title">Примечание</string>
-	<string name="track_num_format">(%s)</string>
-	<string name="track_album_format" formatted="false">%s - %s</string>
 	<string name="online_music">Интернет музыка</string>
 	<string name="keep_quit_position_settings">Запомнить позицию</string>
 	<string name="music_picker_title">Выберите трек</string>
@@ -23,6 +21,7 @@
 	<string name="equalizer">Эквалайзер</string>
 	<string name="create_equalzier_create_text_prompt">Название профиля</string>
 	<string name="correct_id3_failed">Ошибка корректировки ID3!</string>
+	<string name="music_open_other_connect">Скачать музыку с помощью мобильного подключения к Интернету</string>
 	<string name="download_all_album">Загрузить все обложки</string>
 	<string name="refresh_media_db">Обновить</string>
 	<string name="load_bill_failed">Ошибка загрузки, попробуйте еще раз</string>
@@ -34,12 +33,10 @@
 	<string name="track_edit">Песня</string>
 	<string name="shake_degree_desc">Чувствительность</string>
 	<string name="lyric_open_other_connect">Загрузка текста песен, с помощью мобильного подключения к Интернету</string>
-	<string name="durationformatlong">%1$d:%3$02d:%5$02d</string>
 	<string name="shake_and_skip">Встряхивание</string>
 	<string name="filter_by_folder">Фильтр по папкам</string>
 	<string name="other_settings">Другие</string>
 	<string name="filter_by_size_min">0KБ</string>
-	<string name="folder_title_format" formatted="false">%s(%d)</string>
 	<string name="buffering">Кэширование...</string>
 	<string name="listen_to_music_online_settings">Прослушивание онлайн музыки</string>
 	<string name="fast_scroll_alphabet">" ABCDEFGHIJKLMNOPQRSTUVWXYZ"</string>
@@ -49,7 +46,6 @@
 	<string name="new_equalizer_name_template">Профиль %d</string>
 	<string name="fade_effect_settings">Эффект затухания</string>
 	<string name="channel_postfix">МГЦ</string>
-	<string name="durationformatshort_padding_with_0">%2$02d:%5$02d</string>
 	<string name="new_playlist_name_template">Новый плейлист %d</string>
 	<string name="ringtone_set">Трек \"%s\" установлен как рингтон</string>
 	<string name="file_not_found">Файл не найден</string>
@@ -77,8 +73,8 @@
 	<string name="create_playlist_create_text_prompt">Название плейлиста</string>
 	<string name="album_picker_not_found">Галерея не найдена на устройстве</string>
 	<string name="search_title">Поиск</string>
+	<string name="load_album_artist_failed">Не удалось загрузить альбом и список исполнителя. Пожалуйста, попробуйте еще раз.</string>
 	<string name="load_channel_failed">Ошибка загрузки, попробуйте еще раз</string>
-	<string name="default_interval">30</string>
 	<string name="empty_edit_hint">Информация о песне недоступна</string>
 	<string name="load_audio_failed">Ошибка загрузки, попробуйте еще раз</string>
 	<string name="cancle_warining">Режим сна отменен</string>
@@ -90,12 +86,10 @@
 	<string name="billboard">Анонсы</string>
 	<string name="emptyplaylist">Плейлист пуст</string>
 	<string name="playlist_deleted_message">Плейлист удален</string>
-	<string name="artist_details_format">%1$s, %2$s</string>
 	<string name="add_to_playlist">В плейлист</string>
 	<string name="sdcard_missing_message">SD-карта не вставлена в телефон</string>
 	<string name="playback_failed_no_title_by_bad_file">Невозможно проиграть трэк, не поддерживается формат файла</string>
 	<string name="play_and_download">Слушать и скачать</string>
-	<string name="min_interval">1</string>
 	<string name="sdcard_busy_message_nosdcard">SD-карта используется</string>
 	<string name="fade_effect_summary">Плавное изменение громкости при переключении между треками. Рекомендуется включить.</string>
 	<string name="recommend">Рекомендуемые</string>
@@ -145,6 +139,7 @@
 	<string name="sdcard_busy_message">SD-карта занята</string>
 	<string name="no_song_downloaded">Нет песен для загрузки</string>
 	<string name="load_album_in_process">Загрузка списка альбомов</string>
+	<string name="add_to">Добавить в</string>
 	<string name="lrc_select">Выберите текст</string>
 	<string name="modify_tracks_id3_background">Изменить ID3 выбранной песни в фоновом режиме</string>
 	<string name="cancel_sleep_mode">Спящий режим отменён</string>
@@ -209,8 +204,8 @@
 	<string name="start_to_download_avatar">Загрузка аватара исполнителя для Вашей музыкальной библиотеки</string>
 	<string name="lyric_display_settings">Показывать тексты</string>
 	<string name="download_all_avatar">Скачать аватар(ы) исполнителей</string>
-	<string name="play_selection">Слушать</string>
 	<string name="mediaplaybacklabel">Музыка</string>
+	<string name="play_selection">Слушать</string>
 	<string name="download_album_summary">Может отразится на стоимости услуг за мобильную связь. Рекомендуется отключить</string>
 	<string name="all_tracks">Все песни</string>
 	<string name="load_artist_failed">Ошибка загрузки, попробуйте еще раз</string>
@@ -229,6 +224,7 @@
 	<string name="filter_by_size">Фильтр по размеру</string>
 	<string name="auto_correct_id3_summary">Алгоритм поиска корректных ID3 тегов при проигрывании</string>
 	<string name="rename_artist_menu">Переименовать исполнителя</string>
+	<string name="load_album_artist_in_process">Загрузка альбомов и списка артистов...</string>
 	<string name="id3_edit">Изменить ID3 информацию</string>
 	<string name="equalizer_save_success">Профиль сохранен</string>
 	<string name="send_to_application">Отправить в другое приложение</string>

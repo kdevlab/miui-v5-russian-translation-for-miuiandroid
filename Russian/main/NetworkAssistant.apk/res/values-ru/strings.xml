@@ -126,9 +126,11 @@
 	<string name="finish_traffic_settings_message">Использовано %s трафика. Данные верны? Если нет, то вы можете изменить настройки</string>
 	<string name="daily_limit_result_no_disconnect">Напоминать, когда ежедневный трафик превышает %d МБ</string>
 	<string name="carrier_query_number_location">Местоположение</string>
+	<string name="text_save">Сохранить</string>
 	<string name="menu_sort_by_name">По имени приложений</string>
 	<string name="menu_traffic_settings">Тарифный план</string>
 	<string name="traffic_remain">Осталось</string>
+	<string name="text_done">Готово</string>
 	<string name="pref_connect_settings_exceed_limit_hint">Предупреждать меня при превышении ежемесячным трафиком лимита</string>
 	<string name="sync_fail_notify_detail">Данные оператора не получены, попробуйте еще раз</string>
 	<string name="manual_input_used_traffic_hint">Использовано трафика</string>

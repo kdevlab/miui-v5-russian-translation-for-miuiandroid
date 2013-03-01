@@ -231,7 +231,7 @@
 	<string name="resource_title">Подробнее</string>
 	<string name="status_bar_toggle_wifi">Wi-Fi</string>
 	<string name="resource_local">Локально %1$s</string>
-	<string name="screen_rotation_freeze_message">Поворот экрана заблокирован в ландшавтном режиме</string>
+	<string name="screen_rotation_freeze_message">Поворот экрана заблокирован в ландшафтном режиме</string>
 	<string name="edit_folder_title">Редактирование папки</string>
 	<string name="failed_to_drop_widget_nospace">На экране не хватает места</string>
 </resources>
