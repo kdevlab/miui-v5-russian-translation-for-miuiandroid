@@ -33,7 +33,7 @@
 	<string name="category_apk">Программы</string>
 	<string name="category_log">Лог</string>
 	<string name="delete_files_and_folders">Вы уверены, что хотите удалить выбранные файлы (%1$d) и папки (%2$d)?</string>
-	<string name="binded_accout_description">Эти два аккаунта были объединены и теперь вы можете войти используя либо аккаунт Xiaomi или аккаунт kuaipan, теперь в обоих будут одни и теже файлы</string>
+	<string name="binded_accout_description">Эти два аккаунта были объединены. Теперь Вы можете войти используя либо аккаунт Xiaomi, либо аккаунт Kuaipan. В них обоих будут одни и теже файлы.</string>
 	<string name="download_failed">Ошибка загрузки</string>
 	<string name="user_guide">Руководство пользователя</string>
 	<string name="uploading">Загрузка</string>
