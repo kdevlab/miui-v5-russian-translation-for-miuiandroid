@@ -1699,7 +1699,7 @@
 	<string name="cant_sync_dialog_message">Синхронизация отключена. Чтобы включить ее, временно разрешите передачу данных в фоновом режиме и автоматическую синхронизацию</string>
 	<string name="bluetooth_not_discoverable">Сделать устройство видимым</string>
 	<string name="trusted_credentials_remove_label">Удалить</string>
-	<string name="msd_install_retry_linux">Если ваш компьютер не распознает устройство,\nПопробуйте следующее:\n1) Используйте инструменты в командной строке: sudo aptitude install mtpfs libfuse-dev libmad0-dev\n2) Создайте папку: mkdir /media/mtp\n3) Подтвердите права групп пользователей в текущей группе пользователей\n4) Перезайдите в учетную запись\n5) Access mounted device mtpfs /media/mtp через файловый менеджер, как в локальную папку\n6) Удаление устройства: fusermount -u /media/mtp\n Заметка: Для ubuntu 8.04</string>
+	<string name="msd_install_retry_linux">Если ваш компьютер не распознает устройство,\nПопробуйте следующее:\n1) Используйте инструменты в командной строке: sudo aptitude install mtpfs libfuse-dev libmad0-dev\n2) Создайте папку: mkdir /media/mtp\n3) Подтвердите права групп пользователей в текущей группе пользователей\n4) Перезайдите в учетную запись\n5) Получите доступ к смонтированному устройству mtpfs /media/mtp через файловый менеджер, как в локальную папку\n6) Удаление устройства: fusermount -u /media/mtp\n Заметка: Для ubuntu 8.04</string>
 	<string name="roaming_enable">Подключаться к службам передачи данных при роуминге</string>
 	<string name="camera_key_action_toggle_title">Переключатель</string>
 	<string name="cant_sync_dialog_title">Не удалось синхронизировать данные</string>
