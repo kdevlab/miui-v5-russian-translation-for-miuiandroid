@@ -9,7 +9,7 @@
 	<string name="sms_other_fax">Отправить SMS·на номер факса</string>
 	<string name="menu_new_group_action_bar">Новая группа</string>
 	<string name="contact_edit_title_insert">Создать (%s) контакт</string>
-	<string name="fail_reason_failed_to_collect_vcard_meta_info">"Не возможно получить информацию из vCard."</string>
+	<string name="fail_reason_failed_to_collect_vcard_meta_info">"Невозможно получить информацию из vCard."</string>
 	<string name="sim_card_no_free_space_title">SIM-карта заполнена!</string>
 	<string name="picker_postal_title">Выберите почтовый индекс</string>
 	<string name="btn_delete_multi_contacts">Удалить %d контактов</string>
@@ -121,7 +121,7 @@
 	<string name="hint_search_phone_numbers">Телефонов: %d</string>
 	<string name="picker_join_title">Выберите контакт для объединения с %s</string>
 	<string name="insertContactDescription">Создать контакт</string>
-	<string name="dirty_contacts_notification_title">Вы хотите, синхронизировать контакты?</string>
+	<string name="dirty_contacts_notification_title">Вы хотите синхронизировать контакты?</string>
 	<string name="unknown">Неизвестно</string>
 	<string name="label_custom_type">Пользовательский</string>
 	<string name="email_mobile">Моб. эл. почта</string>
@@ -188,7 +188,7 @@
 	<string name="fail_reason_low_memory_during_import">Недостаточно памяти. Возможно, файл слишком большой.</string>
 	<string name="frequentList">Часто вызываемые</string>
 	<string name="status_available">На месте</string>
-	<string name="my_phone_not_provider_bluetooth">my phone dont provider bluetooth</string>
+	<string name="my_phone_not_provider_bluetooth">нет провайдера bluetooth</string>
 	<string name="clearFrequentsConfirmation">"Вы очистите все часто используемые контакты в приложениях Телефон и Контакты и телефон будет собирать информацию снова."</string>
 	<string name="type_incoming">Входящий вызов</string>
 	<string name="description_image_button_one">один</string>
@@ -298,7 +298,7 @@
 	<string name="chat_msn">Чат через Windows Live</string>
 	<string name="deselect_all">Снять выделение</string>
 	<string name="button_scan">Пересканировать</string>
-	<string name="add_connection_button">Добавить соцсеть</string>
+	<string name="add_connection_button">Добавить соц. сеть</string>
 	<string name="missing_name">(без имени)</string>
 	<string name="description_dial_button">набрать</string>
 	<string name="date_picker_label">Напомнить за 3 дня и в день рождения</string>
@@ -415,7 +415,7 @@
 	<string name="callrecordview_menu_delete_stranger">Открыть непринятые вызовы</string>
 	<string name="call_car">Тел. в машине</string>
 	<string name="recentCalls_removeFromRecentList">Удалить из списка вызовов</string>
-	<string name="description_image_button_zero">нуль</string>
+	<string name="description_image_button_zero">ноль</string>
 	<string name="contact_status_update_attribution">с помощью %1$s</string>
 	<string name="preference_telocation_summary_countrycode_off">Не добавлять автоматически код страны</string>
 	<string name="menu_new_favorite_action_bar">Добавить</string>
@@ -469,7 +469,7 @@
 	<string name="today">Сегодня</string>
 	<string name="export_to_sim">Экспорт на SIM-карту</string>
 	<string name="search_settings_description">Имена контактов</string>
-	<string name="device_paired_dialog_title">Устройства спарено, доставка контактов</string>
+	<string name="device_paired_dialog_title">Устройства сопряжено, доставка контактов</string>
 	<string name="preference_auto_ip_summary_disable">Не включено</string>
 	<string name="fail_reason_could_not_initialize_exporter">Не удалось запустить функцию экспорта. Причина: %s.</string>
 	<string name="description_image_button_four">четыре</string>
@@ -517,7 +517,7 @@
 	<string name="nfc_vcard_file_name">Получено по NFC</string>
 	<string name="menu_show_all_calls">Показать все вызовы</string>
 	<string name="device_bluetooth_title">подготовительные работы</string>
-	<string name="device_import_local_account">Local account</string>
+	<string name="device_import_local_account">Локальный аккаунт</string>
 	<string name="vcard_import_will_start_message_with_default_name">Файл будет импортирован в ближайшее время</string>
 	<string name="callrecordview_item_op_time_short_outgoing">" | "</string>
 	<string name="picker_recent_list_empty">Нет недавних контактов</string>
@@ -598,7 +598,7 @@
 	<string name="call_log_new_header">Новые</string>
 	<string name="import_to_xiaomi_account_title">Вы уверены, что хотите импортировать контакты в аккаунт Xiaomi?</string>
 	<string name="ic_menu_back">Назад</string>
-	<string name="callrecordview_menu_delete_accepted">Очистить журнал принятых вызовов</string>
+	<string name="callrecordview_menu_delete_accepted">Очистить журнал входящих вызовов</string>
 	<string name="chat_yahoo">Чат через Yahoo</string>
 	<string name="noAccounts">Для создания групп нужен аккаунт</string>
 	<string name="menu_removeStar">Удалить из избранных</string>
@@ -785,5 +785,5 @@
 	<string name="pickerNewContactHeader">Создать новый контакт</string>
 	<string name="description_image_button_two">два</string>
 	<string name="invalidContactMessage">Контакт удален</string>
-	<string name="device_pairing_dialog_message">Возможно, Вам придется подтвердить сопряжение на другом телефоне</string>
+	<string name="device_pairing_dialog_message">Возможно Вам придется подтвердить сопряжение на другом телефоне</string>
 </resources>
