@@ -131,7 +131,7 @@
 	<string name="space_usage">Использование облачного хранилища</string>
 	<string name="ftp_open_port_error">Невозможно открыть выбранный FTP-порт, проверьте подключение к сети и попробуйте еще раз</string>
 	<string name="favorite_screen_cap">Скриншоты</string>
-	<string name="binded_accout_title">В настоящее время Вы уже привязаны к учетной записи kuaipan</string>
+	<string name="binded_accout_title">В настоящее время Вы уже связаны с учетной записью KuaiPan</string>
 	<string name="xiaomi_account">Аккаунт Xiaomi</string>
 	<string name="login_reg_content">MiDrive позволяет хранить файлы и синхронизировать их между несколькими устройствами.</string>
 	<string name="operation_hide_sys">Скрыть системные</string>
@@ -179,7 +179,7 @@
 	<string name="file_info_ishidden">Скрытый:</string>
 	<string name="storage_usb">Устойство USB</string>
 	<string name="operation_refresh">Обновить</string>
-	<string name="bind_account">Привязка к аккаунту Kuaipan</string>
+	<string name="bind_account">Привязка к аккаунту KuaiPan</string>
 	<string name="operation_resume">Начать</string>
 	<string name="delete_file">Вы уверены, что хотите удалить этот файл?</string>
 	<string name="operation_paste">Вставить</string>
@@ -212,7 +212,7 @@
 	<string name="send_to_midrive_failed_message">Не удалось отправить в MiDrive. Неверный формат файла.</string>
 	<string name="choose_send_type">Выбор метода отправки</string>
 	<string name="dialog_type_audio">Аудио</string>
-	<string name="binded_accout_warning">Предупреждение: Эта операция не обратима</string>
+	<string name="binded_accout_warning">Предупреждение: эта операция не обратима</string>
 	<string name="gbk_title">GBK</string>
 	<string name="notif_server_starting">Синхронизация включена</string>
 	<string name="operation_move">Переместить</string>

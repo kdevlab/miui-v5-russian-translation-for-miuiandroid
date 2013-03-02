@@ -14,7 +14,7 @@
 	<string name="delete_bookmark">Удалить закладку</string>
 	<string name="menu_compose_new">Новое сообщение</string>
 	<string name="undelivered_msg_dialog_body">Не удалось отправить сообщение.\nПопыток: %s.</string>
-	<string name="batch_delete_confirm_dialog_message">Удалить %1$s сообщение(ий)?</string>
+	<string name="batch_delete_confirm_dialog_message">Удалить %1$s сообщения(ий)?</string>
 	<string name="duration_zero">Значение должно быть больше нуля.</string>
 	<string name="menu_lock">Заблокировать</string>
 	<string name="move_down">Переместить вниз</string>
@@ -77,7 +77,7 @@
 	<string name="title_timed_message_dialog">Настройка времени отправки сообщения</string>
 	<string name="confirm_dialog_locked_title">Удалить заблокированное сообщение?</string>
 	<string name="move_up">Переместить вверх</string>
-	<string name="found_wild_messages">Найдено сообщений с других SIM-карт в облаке: %s. Вы хотите загрузить их?</string>
+	<string name="found_wild_messages">В облаке найдено %s сообщений с других SIM-карт. Вы хотите загрузить их?</string>
 	<string name="add_video">Добавить видео</string>
 	<string name="pref_title_show_recent_contacts">Показать недавние контакты</string>
 	<string name="insufficient_drm_rights">Обнаруженных прав DRM недостаточно</string>
@@ -273,7 +273,7 @@
 	<string name="from_label">"От: "</string>
 	<string name="confirm_delete_SIM_message">Вы уверены, что хотите удалить это сообщение с SIM-карты?</string>
 	<string name="class_0_message_activity">Сообщение класса 0</string>
-	<string name="mx_activate_error_malformed_info">Ваши личные данные повреждены, требуется повторная активация облачных сообщений</string>
+	<string name="mx_activate_error_malformed_info">Ваши личные данные повреждены. Необходимо повторить активацию облачных сообщений.</string>
 	<string name="no_subject_view">(Без темы)</string>
 	<string name="context_menu_send_sms">Отправить SMS</string>
 	<string name="service_network_problem">Не удалось отправить сообщение из-за ошибки сети</string>

@@ -31,7 +31,7 @@
 	<string name="notelist_string_info">...</string>
 	<string name="preferences_bg_random_appear_title">Случайный цвет</string>
 	<string name="menu_title_select_folder">Выберите папку</string>
-	<string name="pref_title_data_export">Экспорт</string>
+	<string name="pref_title_data_export">Экспорт заметок</string>
 	<string name="select_account_prompt">Включена синхронизация заметок</string>
 	<string name="format_folder_files_count">" (%d)"</string>
 	<string name="alert_message_discard_changes">Отменить все действия?</string>
@@ -70,7 +70,7 @@
 	<string name="note_alert_expired">Просрочено</string>
 	<string name="alert_message_delete_notes">Вы уверены, что хотите удалить выбранные (%1$s) заметки?</string>
 	<string name="alert_title_discard">Отмена</string>
-	<string name="pref_title_note_style">Стиль заметки</string>
+	<string name="pref_title_note_style">Стиль заметок</string>
 	<string name="error_note_not_exist">Заметка отсутствует</string>
 	<string name="alert_edit_action_update">Изменить</string>
 	<string name="default_folder_name">Заметки</string>

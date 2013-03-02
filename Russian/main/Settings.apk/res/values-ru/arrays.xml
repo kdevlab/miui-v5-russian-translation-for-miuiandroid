@@ -34,7 +34,6 @@
         <item>10 минут</item>
         <item>30 минут</item>
     </string-array>
-
     <string-array name="lock_after_timeout_entries">
         <item>Сразу</item>
         <item>5 сек</item>
@@ -235,14 +234,6 @@
         <item>Не более 3 процессов</item>
         <item>Не более 4 процессов</item>
     </string-array>
-    <string-array name="vpn_types_long">
-        <item>PPTP VPN</item>
-        <item>L2TP/IPSec VPN with pre-shared keys</item>
-        <item>L2TP/IPSec VPN with certificates</item>
-        <item>IPSec VPN with pre-shared keys and Xauth authentication</item>
-        <item>IPSec VPN with certificates and Xauth authentication</item>
-        <item>IPSec VPN with certificates and hybrid authentication</item>
-    </string-array>
     <string-array name="vpn_states">
         <item>Отключено</item>
         <item>Инициализация...</item>
@@ -315,7 +306,7 @@
         <item>8 секунд</item>
         <item>9 секунд</item>
     </string-array>
-        <string-array name="back_long_press_timeout">
+    <string-array name="back_long_press_timeout">
         <item>Половина секунды</item>
         <item>Одна секунда</item>
         <item>Полторы секунды</item>
@@ -360,7 +351,7 @@
     </string-array>
     <string-array name="power_mode_entries">
         <item>Производительность</item>
-        <item>Нормальный</item>
+        <item>Обычный</item>
         <item>Энергосбережение</item>
     </string-array>
     <string-array name="screen_color_title">

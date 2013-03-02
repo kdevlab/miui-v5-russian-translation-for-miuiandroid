@@ -32,7 +32,7 @@
 	<string name="menu_item_sort">Сортировка</string>
 	<string name="click_to_enter_camera">Открыть камеру</string>
 	<string name="turn_right">Повернуть</string>
-	<string name="set_image">Установить картинку как</string>
+	<string name="set_image">Применить</string>
 	<string name="saving_image">Сохранение картинки...</string>
 	<string name="documentary">Документальные</string>
 	<string name="albumset_page_title_separator"> | </string>
@@ -157,7 +157,7 @@
 	<string name="photoeditor_name">Фотостудия</string>
 	<string name="open">Открыть</string>
 	<string name="group_by_faces">По именам</string>
-	<string name="sync_history_power_on">Синхр-ция истории изображений только во время зарядки</string>
+	<string name="sync_history_power_on">Синхр. во время зарядки</string>
 	<string name="shadow">Затенение</string>
 	<string name="cloud_screenshots_display_name">Скриншоты</string>
 	<string name="photo_saved">Фотография сохранена в альбоме \"%s\"</string>
@@ -172,7 +172,7 @@
 	<string name="done">Готово</string>
 	<string name="menu_item_sort_date_desc">По дате (Z-A)</string>
 	<string name="lomoish">Ломо</string>
-	<string name="confirm_delete_album" formatted="false">Вы уверены, что хотите удалить альбомы (%s) (Включая %s штук)?</string>
+	<string name="confirm_delete_album" formatted="false">Вы уверены, что хотите удалить альбомы (%s) (включая %s штук)?</string>
 	<string name="import_fail">Сбой импорта</string>
 	<string name="miliao_painting_folder_display_name">Рисунок MiTalk</string>
 	<string name="appwidget_title">Фотогалерея</string>
@@ -190,7 +190,7 @@
 	<string name="straighten">Выравнивание</string>
 	<string name="video_err">Не удалось воспроизвести видео</string>
 	<string name="no_network_connected">Нет подключения к сети</string>
-	<string name="alert_message_open_sync">Вы должны сначала включить синхронизацию, вы уверены, что хотите включить？</string>
+	<string name="alert_message_open_sync">Необходима синхронизация. Вы хотите включить ее сейчас?</string>
 	<string name="widget_type_photo">Выберите изображение</string>
 	<string name="delete">Файл будет удален</string>
 	<string name="frame_white">Белый</string>
