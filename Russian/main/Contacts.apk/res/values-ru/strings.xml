@@ -8,7 +8,7 @@
 	<string name="cancel_vcard_import_or_export_failed">Не удалось отменить импорт/экспорт vCard</string>
 	<string name="sms_other_fax">Отправить SMS·на номер факса</string>
 	<string name="menu_new_group_action_bar">Новая группа</string>
-	<string name="contact_edit_title_insert">Создать (%s) контакт</string>
+	<string name="contact_edit_title_insert">Создать контакт %s</string>
 	<string name="fail_reason_failed_to_collect_vcard_meta_info">Невозможно получить информацию из vCard</string>
 	<string name="sim_card_no_free_space_title">SIM-карта заполнена!</string>
 	<string name="picker_postal_title">Выберите почтовый индекс</string>

@@ -251,7 +251,7 @@
 	<string name="background_data_summary">Синхронизация, отправка и получение данных доступны всегда</string>
 	<string name="voice_search_settings_title">Голосовой поиск</string>
 	<string name="user_dict_settings_add_menu_title">Добавить</string>
-	<string name="service_stop_description">Эта служба была запущена соответствующим приложением, в котором может произойти сбой, если ее оставновить</string>
+	<string name="service_stop_description">Эта служба была запущена соответствующим приложением, в котором может произойти сбой, если ее остановить</string>
 	<string name="battery_info_technology_label">Технология батареи:</string>
 	<string name="battery_stats_screen_on_label">Экран включен</string>
 	<string name="bluetooth_device_name">Имя устройства</string>

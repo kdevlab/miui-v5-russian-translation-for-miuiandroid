@@ -192,7 +192,7 @@
 	<string name="no_network_connected">Нет подключения к сети</string>
 	<string name="alert_message_open_sync">Необходима синхронизация. Вы хотите включить ее сейчас?</string>
 	<string name="widget_type_photo">Выберите изображение</string>
-	<string name="delete">Файл будет удален</string>
+	<string name="delete">Удалить</string>
 	<string name="frame_white">Белый</string>
 	<string name="sharpen">Резкость</string>
 	<string name="error_should_not_select_image">Внимание: пожалуйста, не выбирайте файл изображения</string>
