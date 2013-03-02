@@ -5,10 +5,10 @@
 	<string name="out_of_space_dlg_text">Установить приложение %1$s не удалось. Освободите место и повторите попытку</string>
 	<string name="install_failed_older_sdk">Этот пакет поддерживается только в системе Android более поздних версий</string>
 	<string name="settings">Настройки</string>
-	<string name="perm_privacy_app_launch">Запуск</string>
+	<string name="perm_privacy_app_launch">Открыть</string>
 	<string name="cancel">Отмена</string>
 	<string name="perm_notice">Оповещение безопасности</string>
-	<string name="auto_startup_dialog_msg">MIUI позволит приложению запускаться автоматически, не спрашивая. Это может привести к потреблению трафика или батареи.\nРазрешить автозапуск？</string>
+	<string name="auto_startup_dialog_msg">MIUI позволит приложению запускаться автоматически. Это может привести к потреблению трафика или батареи.\nРазрешить автозапуск？</string>
 	<string name="uninstall_activity_text">%1$s является частью следующего приложения:</string>
 	<string name="app_not_found_dlg_text">Приложение не было найдено в списке установленных приложений</string>
 	<string name="high_risk_perms">Разрешения высокого риска</string>
@@ -33,10 +33,10 @@
 	<string name="installing">Установка...</string>
 	<string name="install_done">Приложение установлено</string>
 	<string name="uninstall_failed_retained_app_msg">Приложение, измененное оператором, не может быть удалено</string>
-	<string name="perm_privacy_app_installed">Установка заршена!</string>
+	<string name="perm_privacy_app_installed">Установка завершена!</string>
 	<string name="allow_source_dlg_title">Разрешить добавление нового источника для приложений?</string>
 	<string name="uninstall_application_title">Удаление приложения</string>
-	<string name="trust_switch_dialog_msg">MIUI не будут спрашивать вас о подтверждении любых операций связанных с безопасностью и конфиденциальностью. Пожалуйста, убедитесь, что вы хорошо знаете данного разработчика.\nВы доверяете этому приложению？</string>
+	<string name="trust_switch_dialog_msg">MIUI не будут спрашивать Вас о подтверждении любых операций связанных с безопасностью и конфиденциальностью. Пожалуйста, убедитесь, что хорошо знаете данного разработчика.\nВы доверяете этому приложению?</string>
 	<string name="safe_relative">Безопасные разрешения</string>
 	<string name="uninstall_update_text">Будет восстановлена исходная версия приложения</string>
 	<string name="manage_device_administrators">Настройки администрирования</string>
@@ -53,7 +53,7 @@
 	<string name="dlg_sys_app_replacement_statement">Приложение, которое вы устанавливаете - системное. Хотите заменить?\n\nВсе пользовательские данные будут сохранены.</string>
 	<string name="dlg_app_replacement_statement">Приложение, которое вы устанавливаете, заменит уже существующее.\n\nВсе пользовательские данные будут сохранены.</string>
 	<string name="install">Установить</string>
-	<string name="perm_privacy_app_finish">Готово</string>
+	<string name="perm_privacy_app_finish">Закрыть</string>
 	<string name="unknown">Неизвестно</string>
 	<string name="dlg_ok">ОК</string>
 	<string name="app_not_found_dlg_title">Приложение не найдено</string>

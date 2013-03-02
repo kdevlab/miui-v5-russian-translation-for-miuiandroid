@@ -261,7 +261,7 @@
 	<string name="wifi_add_network">Добавить сеть</string>
 	<string name="data_usage_tab_ethernet">Ethernet</string>
 	<string name="wallpaper_settings_fragment_title">Установка обоев</string>
-	<string name="data_usage_limit_dialog_mobile">Ваше мобильное подключение для передачи данных будет отключено, когда указанный предел будет достигнут.\n\nИспользование данных измеряется с помощью телефона, а ваш оператор может объяснить использование по-разному, рассмотрите возможность использования консервативного предела.</string>
+	<string name="data_usage_limit_dialog_mobile">Ваше мобильное подключение для передачи данных будет отключено, когда указанный предел будет достигнут.\n\nИспользование данных измеряется с помощью телефона, а Ваш оператор может объяснить использование по разному, рассмотрите возможность использования консервативного предела.</string>
 	<string name="perm_version">Версия: %1$s</string>
 	<string name="user_dict_settings_context_menu_edit_title">Изменить</string>
 	<string name="wifi_security_short_wpa2">WPA2</string>
@@ -360,7 +360,7 @@
 	<string name="perm_loading">Загрузка...</string>
 	<string name="lockpassword_choose_lock_generic_header">Способ разблокировки</string>
 	<string name="drive_mode_auto_sms_reply_content_title">Содержание сообщения</string>
-	<string name="auto_startup_dialog_msg">MIUI позволит запускать приложения автоматически, не спрашивая. Возможны потребления траффика и батареи.\nРазрешить автозапуск？</string>
+	<string name="auto_startup_dialog_msg">MIUI позволит запускать приложения автоматически. Возможны потребления траффика и батареи.\nРазрешить автозапуск/</string>
 	<string name="search_date_time">Дата и Время</string>
 	<string name="background_data_dialog_message">Отключение фонового режима обмена данными экономит заряд батареи и уменьшает объем трафика, однако некоторые приложения могут использовать этот режим даже после его отключения</string>
 	<string name="perm_hips_wifi_network_desc">Wi-Fi сеть</string>
@@ -475,7 +475,7 @@
 	<string name="permission_manage">Управление правами</string>
 	<string name="lockpassword_pin_too_short">ПИН-код должен содержать не менее %d символов</string>
 	<string name="virus_scanner_manual_update">Обновить вручную</string>
-	<string name="perm_update">Software upgrade</string>
+	<string name="perm_update">Обновление ПО</string>
 	<string name="wifi_wapi_cert_mgmt_subdir_create_fail">Ошибка создания папки</string>
 	<string name="lockpassword_choose_your_pattern_header">Создайте графический ключ</string>
 	<string name="msd_install_status_done">Драйвер уже установлен</string>
@@ -505,7 +505,7 @@
 	<string name="perm_hips_cancel_missed_calls">очистка пропущенных вызовов</string>
 	<string name="enable_traces_summary_all">Все трассировки включены</string>
 	<string name="dolby_eq_pop">Pop</string>
-	<string name="perm_hips_disable_content">Отключение остановит мониторинг приложений и не будет больше защищать вашу безопасность и конфиденциальность.\nВы уверены, что хотите отключить?</string>
+	<string name="perm_hips_disable_content">Отключение остановит мониторинг приложений и не будет больше защищать Вашу безопасность и конфиденциальность.\nВы уверены, что хотите отключить?</string>
 	<string name="unlock_change_lock_pin_title">Изменить ПИН-код разблокировки</string>
 	<string name="roaming_reenable_title">Внимание</string>
 	<string name="media_format_button_text">Очистить SD-карту</string>
@@ -591,7 +591,7 @@
 	<string name="permissions_label">Разрешения</string>
 	<string name="bluetooth_preference_found_devices">Список</string>
 	<string name="status_bar_settings">Параметры панели состояния</string>
-	<string name="trust_switch_dialog_msg">MIUI не будут спрашивать вас о подтверждении любых операций связанных с безопасностью и конфиденциальностью. Пожалуйста, убедитесь, что вы хорошо знаете данного разработчика.\nВы доверяете этому приложению？</string>
+	<string name="trust_switch_dialog_msg">MIUI не будут спрашивать Вас о подтверждении любых операций связанных с безопасностью и конфиденциальностью. Пожалуйста, убедитесь, что хорошо знаете данного разработчика.\nВы доверяете этому приложению?</string>
 	<string name="perm_hips_location_monitor">отслеживать положение</string>
 	<string name="app_disable_dlg_title">Отключить приложение?</string>
 	<string name="game_controller_settings_category">Игровой контроллер</string>
@@ -745,8 +745,13 @@
 	<string name="tts_default_pitch_summary">Влияет на высоту синтезированной речи</string>
 	<string name="dolby_preset_select">Пожалуйста, выберите настройки</string>
 	<string name="bluetooth_disable_profile_message">Профиль&lt;br>&lt;b>%1$s&lt;/b>&lt;br>&lt;br>будет отключен от устройства&lt;br>&lt;b>%2$s&lt;/b></string>
+<<<<<<< HEAD
 	<string name="perm_hips_location_source_cellular">Источник: Сотовая сеть</string>
 	<string name="perm_hips_location_source_network">Источник: Сеть</string>
+=======
+	<string name="perm_hips_location_source_cellular">Источник: сотовая сеть</string>
+	<string name="perm_hips_location_source_network">Источник: сеть</string>
+>>>>>>> 4850f2e21d442bf19d6a02de5b8039f0e41657a0
 	<string name="memory_apps_usage">Приложения</string>
 	<string name="apn_password">Пароль</string>
 	<string name="virus_scanner_select_Cancel">Отмена</string>
@@ -845,7 +850,7 @@
 	<string name="sdcard_changes_instructions">Изменения вступят в силу после повторного подключения USB-кабеля</string>
 	<string name="dolby_music_advance">Параметры режима аудио</string>
 	<string name="battery_stats_wifi_running_label">Wi-Fi</string>
-	<string name="perm_su_disabled_desc">"Разрешение прав администратора может привести к нестабильности системы или потери личных данных, системы или повреждения оборудования. Пожалуйста, включайте с осторожностью"</string>
+	<string name="perm_su_disabled_desc">Разрешение прав администратора может привести к нестабильности системы, потери личных и системных данных или повреждению оборудования. Пожалуйста, включайте с осторожностью.</string>
 	<string name="status_service_state">Доступность моб. сети</string>
 	<string name="empty_list_msg">Нет приложений сторонних разработчиков</string>
 	<string name="wifi_state_disabled">Отключено</string>
@@ -1013,7 +1018,7 @@
 	<string name="search_brightness">Яркость</string>
 	<string name="bluetooth_dock_settings_a2dp">Для музыки и мультимедиа</string>
 	<string name="settings_safetylegal_title">Сведения о безопасности</string>
-	<string name="perm_su_enable_content">Включение позволит приложениям запрашивать доступ от суперпользователя.\nВнимание: Приложения с разрешениями могут вызвать нестабильность системы, потерю персональных данных, повреждение системы или аппаратной части, будьте осторожны. Вы уверены что хотите сделать это?</string>
+	<string name="perm_su_enable_content">Включение позволит приложениям запрашивать доступ от суперпользователя.\nВнимание: приложения с разрешениями могут вызвать нестабильность системы, потерю персональных данных, повреждение системы или аппаратной части, будьте осторожны. Вы уверены что хотите сделать это?</string>
 	<string name="bluetooth_device_context_disconnect">Отключить</string>
 	<string name="confirm_new_backup_pw_prompt">Подтвердите пароль</string>
 	<string name="wifi_p2p_peer_devices">Устройства сети</string>
@@ -1611,12 +1616,12 @@
 	<string name="wifi_setup_wizard_title">Выбор Wi-Fi</string>
 	<string name="perm_hips_security_prompt_root_step5">Используйте с осторожностью!</string>
 	<string name="perm_hips_security_prompt_root_step6">Разрешить %1$s получать права суперпользователя?</string>
-	<string name="perm_hips_security_prompt_root_step3">Ваши данные, такие как аккаунты, пароли, контакты и сообщения могут быть скомпрометированы</string>
+	<string name="perm_hips_security_prompt_root_step3">Ваши личные данные (аккаунты, пароли и сообщения) могут стать общедоступны</string>
 	<string name="led_frequence_summary">Интервал между миганиями</string>
 	<string name="perm_hips_security_prompt_root_step4">Также возможны повреждения внутренних деталей устройства</string>
-	<string name="perm_hips_security_prompt_root_step1">Вы действительно хотите дать Root права приложению %1$s?</string>
+	<string name="perm_hips_security_prompt_root_step1">Разрешить %1$s получать права суперпользователя?</string>
 	<string name="status_min_number">MIN</string>
-	<string name="perm_hips_security_prompt_root_step2">Root права могут повлечь нестабильную работу телефона</string>
+	<string name="perm_hips_security_prompt_root_step2">Права суперпользователя могут привести к нестабильной работе системы</string>
 	<string name="manage_device_admin_summary">Просмотрите или отключите администраторов устройств</string>
 	<string name="sd_ejecting_title">Извлечение</string>
 	<string name="tether_settings_title_bluetooth">Bluetooth-модем</string>
@@ -1795,7 +1800,11 @@
 	<string name="sim_enter_pin">PIN-код SIM-карты</string>
 	<string name="bluetooth_dock_settings_headset">Для громкой связи</string>
 	<string name="dlg_confirm_unmount_text">Если отключить SD-карту, некоторые приложения перестанут работать и могут оставаться недоступными до ее подключения.</string>
+<<<<<<< HEAD
 	<string name="man_add_application">Добавить вручную</string>
+=======
+	<string name="man_add_application">Вручную добавить приложения в автозапуск</string>
+>>>>>>> 4850f2e21d442bf19d6a02de5b8039f0e41657a0
 	<string name="power_bluetooth">Bluetooth</string>
 	<string name="font_size_save">OK</string>
 	<string name="set_dds_error">Ошибка в подписке набора данных</string>
@@ -1816,21 +1825,21 @@
 	<string name="accessibility_service_state_on">Включено</string>
 	<string name="date_time_settings">Дата и время</string>
 	<string name="wifi_connect">Подключить</string>
-	<string name="perm_su_enable_dialog">%1$s пытается получить права суперпользователя, что отключено по умолчанию для обеспечения безопасности системы. Если вам нужно включить его, пожалуйста перейдите к настройкам в диспетчере разрешений</string>
+	<string name="perm_su_enable_dialog">%1$s пытается получить права суперпользователя, что отключено по умолчанию для обеспечения безопасности системы. Если Вам нужно включить его, пожалуйста перейдите к настройкам в диспетчере разрешений.</string>
 	<string name="wifi_cancel">Отмена</string>
 	<string name="provider_label">Подписки на рассылки оператора</string>
 	<string name="retry">Повторить</string>
 	<string name="zone_auto_summaryOff">Использование выбранного часового пояса</string>
 	<string name="trackball_settings">Трекбол</string>
 	<string name="settings_button">Настройки</string>
-	<string name="perm_privacy_app_launch">Запустить</string>
+	<string name="perm_privacy_app_launch">Открыть</string>
 	<string name="perm_hips_group_expense">Безопасность</string>
 	<string name="wifi_state_enabling">Включение</string>
 	<string name="move_app_failed_dlg_text">Не удалось переместить приложение %1$s</string>
 	<string name="perm_system_app">Системные приложения (%d)</string>
 	<string name="perm_privacy_app_trust_summary_on">MIUI будет доверять этому приложению</string>
 	<string name="wifi_wapi_cert_mgmt_user_dont_exist">Введите имя сертификата</string>
-	<string name="bluetooth_dun_acceptance_dialog_text">%1$s хотели бы использовать DUN. Разрешить доступ %2$s?</string>
+	<string name="bluetooth_dun_acceptance_dialog_text">%1$s хотел бы использовать DUN. Разрешить доступ %2$s?</string>
 	<string name="status_prl_version">Версия PRL</string>
 	<string name="no_device_admins">Нет доступных администраторов устройства</string>
 	<string name="firmware_version">Android:</string>
@@ -1882,7 +1891,7 @@
 	<string name="user_confirm_remove_title">Удалить пользователя?</string>
 	<string name="background_data_dialog_title">Отключить фоновый режим?</string>
 	<string name="radio_info_roaming_label">Роуминг:</string>
-	<string name="bluetooth_dun_remember_choice">"Больше не спрашивать"</string>
+	<string name="bluetooth_dun_remember_choice">Больше не спрашивать</string>
 	<string name="battery_stats_last_duration">Последняя зарядка была %1$s назад</string>
 	<string name="additional_system_update_settings_list_item_title">Дополнительные системные обновления</string>
 	<string name="wifi_ssid">Имя сети (SSID)</string>
@@ -1934,7 +1943,7 @@
 	<string name="lock_settings_title">Блокировка экрана</string>
 	<string name="nfc_quick_toggle_summary">Разрешить обмен данными при совмещении телефона с другим устройством</string>
 	<string name="proxy_clear_text">Очистить</string>
-	<string name="perm_su_disabled_in_stable_desc">"Разрешение прав администратора может привести к нестабильности системы или потери личных данных, системы или повреждения оборудования.\n\nПожалуйста, переключитесь на версию для разработчиков"</string>
+	<string name="perm_su_disabled_in_stable_desc">Разрешение прав администратора может привести к нестабильности системы, потери личных и системных данных или повреждению оборудования.\n\nПожалуйста, переключитесь на версию для разработчиков.</string>
 	<string name="runningservices_settings_title">Работающие приложения</string>
 	<string name="wifi_setup_description_connected">Нажмите Далее для продолжения установки.\n\nНажмите Назад для подключения к другой сети Wi-Fi</string>
 	<string name="radioInfo_unknown">неизвестно</string>
@@ -2180,7 +2189,7 @@
 	<string name="emergency_tone_title">Тональный сигнал экстренного вызова</string>
 	<string name="wifi_wapi_cert_create_subdir">Создать папку</string>
 	<string name="perm_hips_group_location">Позиционирование</string>
-	<string name="permission_manage_summary">Автоматический запуск, неприкосновенность частной жизни, безопасного управления правами</string>
+	<string name="permission_manage_summary">Автоматический запуск, конфиденциальность, безопасное управление правами</string>
 	<string name="virus_scan_app_uninstall">Пакетное удаление (%d)</string>
 	<string name="running_processes_item_description_s_p">Процессов: %1$d; служб: %2$d</string>
 	<string name="move_app">Переместить</string>

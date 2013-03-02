@@ -46,7 +46,7 @@
 	<string name="ext_media_nofs_notification_title">Пустой USB-накопитель</string>
 	<string name="accessibility_tty_enabled">Телетайп включен</string>
 	<string name="usb_debugging_title">Включить отладку по USB?</string>
-	<string name="mdb_usb_disconnection_exit">USB отключено, отмена восстановления</string>
+	<string name="mdb_usb_disconnection_exit">USB отключено. Отмена восстановления.</string>
 	<string name="status_bar_toggle_ac">Контроль доступа</string>
 	<string name="notification_otg_trackball_out">Трекбол отключен</string>
 	<string name="app_label">Графический интерфейс системы</string>
@@ -75,7 +75,7 @@
 	<string name="accessibility_back">Назад</string>
 	<string name="status_bar_network_flow_today">Сегодня: %1$s</string>
 	<string name="usb_accessory_uri_prompt">Нет установленных приложений работающих с этим USB-аксессуаром. Узнайте больше об этом аксессуаре на %1$s</string>
-	<string name="usb_storage_error_message">Проблема с накопителем USB</string>
+	<string name="usb_storage_error_message">Проблема с USB накопителем</string>
 	<string name="accessibility_data_connection_cdma">CDMA</string>
 	<string name="user_guide_for_toggle">Список переключателей можно прокручивать по горизонтали</string>
 	<string name="status_bar_toggle_power_high">Производительность</string>
@@ -87,11 +87,11 @@
 	<string name="notification_icon_filter_summary">Отключение этого параметра сделает активным уведомления от всех приложений в верхнем левом углу строки состояния</string>
 	<string name="accessibility_data_one_bar">Сигнал передачи данных: одно деление</string>
 	<string name="usb_accessory_permission_prompt">Разрешить приложению %1$s доступ к USB-аксессуару?</string>
-	<string name="status_bar_toggle_bluetooth">BT</string>
+	<string name="status_bar_toggle_bluetooth">Bluetooth</string>
 	<string name="notification_icon_filter_title">Скрыть уведомления</string>
 	<string name="notification_otg_mouse_out">Мышка отключена</string>
 	<string name="screen_button_enabled_message">Кнопки на нижней части экрана включены</string>
-	<string name="status_bar_toggle_rotate">Переворот</string>
+	<string name="status_bar_toggle_rotate">Поворот</string>
 	<string name="mdb_restore_mode">Режим восстновления</string>
 	<string name="status_bar_toggle_sync_manual">Ручная синхронизация</string>
 	<string name="accessibility_ringer_silent">Беззвучный режим</string>
@@ -109,7 +109,7 @@
 	<string name="status_bar_settings_auto_brightness_label">Автоматически</string>
 	<string name="status_bar_toggle_mute">Без звука</string>
 	<string name="tab_notifications_lable">Уведомления</string>
-	<string name="mdb_restore_info1">"Восстановит все ваши данные на телефоне"</string>
+	<string name="mdb_restore_info1">"Восстановит все Ваши данные на телефоне"</string>
 	<string name="mdb_restore_info2">"Пожалуйста, не нарушайте USB-подключение"</string>
 	<string name="status_bar_settings_notifications">Уведомления</string>
 	<string name="compat_mode_help_header">Масштаб и совместимость</string>
@@ -131,14 +131,14 @@
 	<string name="usb_mode_dont_ask">Запомнить мой выбор</string>
 	<string name="status_bar_toggle_shutdown">Выключение</string>
 	<string name="notification_otg_gamestick_in">Игровой контроллер подключен</string>
-	<string name="usb_storage_stop_notification_message">Выберите чтобы отключить USB накопитель.</string>
+	<string name="usb_storage_stop_notification_message">Выберите чтобы отключить USB накопитель</string>
 	<string name="notification_icon_filter_settings_loading">Загрузка...</string>
 	<string name="camera_key_action_none_title">Ничего не делать</string>
 	<string name="accessibility_phone_signal_full">Надежный телефонный сигнал</string>
 	<string name="notification_otg_gamestick_out">Игровой контроллер отключен</string>
 	<string name="ext_media_nomedia_notification_title">USB-хранилище извлечено</string>
 	<string name="accessibility_clear_all">Удалить все уведомления</string>
-	<string name="status_bar_toggle_sync_auto">Автосинхр.</string>
+	<string name="status_bar_toggle_sync_auto">Автосинхронизация</string>
 	<string name="notification_icon_filter_mode">Режим контроля</string>
 	<string name="data_usage_disabled_dialog_enable">Восстановить подключение</string>
 	<string name="status_bar_settings_signal_meter_disconnected">Нет подключения к Интернету</string>
@@ -153,7 +153,7 @@
 	<string name="status_bar_use_physical_keyboard">Использование физической клавиатуры</string>
 	<string name="screenshot_saving_text">Скриншот сохранен</string>
 	<string name="accessibility_menu">Меню</string>
-	<string name="status_bar_toggle_brightness">Яркость</string>
+	<string name="status_bar_toggle_brightness">Подсветка</string>
 	<string name="key_position_custom">Расположение</string>
 	<string name="accessibility_wimax_two_bars">Сигнал WiMAX: два деления</string>
 	<string name="screenshot_saved_title">Скриншот сохранен</string>
@@ -170,7 +170,7 @@
 	<string name="settings_toggle_position_divider_page">%1$d переключателей выше - показываются</string>
 	<string name="accessibility_airplane_mode">Режим полета</string>
 	<string name="data_usage_disabled_dialog_mobile_title">Моб. Интернет отключен</string>
-	<string name="mdb_restore_cancel">Cancel</string>
+	<string name="mdb_restore_cancel">Отмена</string>
 	<string name="ext_media_nofs_notification_message">USB-хранилище пусто или неподдерживаемая файловая система</string>
 	<string name="usb_notification_ptp_info">Доступ к фотографиям через подключение к компьютеру</string>
 	<string name="notification_icon_filter_list_empty_summary">Список приложений пуст</string>
@@ -198,7 +198,7 @@
 	<string name="bluetooth_tethered">Общий модем доступен через Bluetooth</string>
 	<string name="screen_key_recent_apps">Последние приложения</string>
 	<string name="status_bar_toggle_data">Интернет</string>
-	<string name="status_bar_toggle_auto_brightness">Автояркость</string>
+	<string name="status_bar_toggle_auto_brightness">Автоподсветка</string>
 	<string name="accessibility_wifi_two_bars">Wi-Fi: два деления</string>
 	<string name="status_bar_settings_settings_button">Настройки</string>
 	<string name="notification_otg_stylus_in">Стилус подключен</string>
@@ -250,7 +250,7 @@
 	<string name="status_bar_no_recent_apps">Нет недавних приложений</string>
 	<string name="data_usage_disabled_dialog_4g_title">Передача данных по каналу 4G отключена</string>
 	<string name="accessibility_data_connection_3g">3G</string>
-	<string name="status_bar_toggle_screen_button">Кнопки</string>
+	<string name="status_bar_toggle_screen_button">Отключить кнопки</string>
 	<string name="status_bar_settings_wifi_button">Wi-Fi</string>
 	<string name="accessibility_wimax_one_bar">Сигнал WiMAX: одно деление</string>
 	<string name="share">Поделиться</string>
@@ -260,7 +260,7 @@
 	<string name="status_bar_toggle_ringtone">Мелодия</string>
 	<string name="status_bar_toggle_divider">Еще</string>
 	<string name="notification_otg_touchScreen_out">Сенсорный экран отключен</string>
-	<string name="screen_button_disabled_message">Кнопки внизу экрана отключены. Вы можете включить их снова, нажав \"Домой\" и \"Питание\"</string>
+	<string name="screen_button_disabled_message">Кнопки внизу экрана отключены. Вы можете включить их снова, нажав клавиши \"Домой\" и \"Питание\".</string>
 	<string name="camera_key_action_shortcut_screenshot">Скриншот</string>
 	<string name="settings_toggle_position_divider_list">Переключатели выше - показываются</string>
 	<string name="notification_icon_filter_settings">Уведомления</string>
@@ -269,12 +269,12 @@
 	<string name="accessibility_data_connection_4g">4G</string>
 	<string name="settings_toggle_layout_style">Стиль панели</string>
 	<string name="accessibility_wifi_three_bars">Wi-Fi: три деления</string>
-	<string name="status_bar_toggle_wifi">WLAN</string>
+	<string name="status_bar_toggle_wifi">Wi-Fi</string>
 	<string name="ext_media_badremoval_notification_message">Размонтируйте USB-хранилище перед извлечением</string>
 	<string name="accessibility_wifi_signal_full">Надежный сигнал Wi-Fi</string>
 	<string name="compat_mode_on">Подогнать по размерам экрана</string>
 	<string name="settings_toggle_position_reset">Сброс переключателей</string>
-	<string name="notification_otg_mouse_in">Мышь подключена</string>
+	<string name="notification_otg_mouse_in">Мышка подключена</string>
 	<string name="screen_rotation_freeze_message">Поворот экрана заблокирован в ландшафтном режиме</string>
 	<string name="accessibility_wimax_three_bars">Сигнал WiMAX: три деления</string>
 	<string name="notification_otg_trackball_in">Трекбол подключен</string>
