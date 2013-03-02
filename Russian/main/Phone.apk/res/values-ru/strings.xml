@@ -1060,7 +1060,7 @@
 	<string name="set_sub_activate_not_supported">Активация не поддерживается</string>
 	<string name="disable_pin_ok">Запрос PIN SIM-карты отключен</string>
 	<string name="turn_off_auto_select_title_miui">Отключение автомат. выбора сети</string>
-	<string name="sliding_down_hint_miui">Сдвиньте вниз, чтобы ответить</string>
+	<string name="sliding_down_hint_miui">Сдвиньте вниз для ответа</string>
 	<string name="puk_lock_warning_miui">\nSIM-карта будет заблокирована навсегда при неудачной попытке!</string>
 	<string name="cell_bc_sms_enable">Широковещательные SMS-службы включены</string>
 	<string name="goPrivate">приватная конференция</string>
