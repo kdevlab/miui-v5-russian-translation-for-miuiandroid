@@ -669,13 +669,12 @@
 	<string name="answer_widget_sliding_vertical_miui">Вертикальный слайд</string>
 	<string name="preferred_network_mode_gsm_only_summary">Предпочтительная сеть: только GSM</string>
 	<string name="registration_status_failed_try_later">Не удалось зарегистрировать аккаунт (%s). Новая попытка будет предпринята позже</string>
-	<string name="custom_location_location_no_item_miui">"Click 'Add' below to add custom attribution"</string>
+	<string name="custom_location_location_no_item_miui">"Нажмите 'Добавить' снизу для добавления приставок"</string>
 	<string name="invalid_puk2_miui">Недопустимый PUK2, пожалуйста, введите PUK2, состоящий из 8 цифр</string>
 	<string name="back_miui">Назад</string>
 	<string name="onscreen_tools_off_miui">Еще</string>
 	<string name="auto_answer_delay_entries_immediately_miui">0 сек.</string>
 	<string name="sum_fdn_change_pin">Изменить PIN для доступа к списку разрешенных номеров</string>
-	<string name="default_port">5060</string>
 	<string name="auto_redial_pref_summary_miui">Перезвонить, если линия занята</string>
 	<string name="mobile_networks_miui">Мобильная сеть</string>
 	<string name="fdn_activation">Активация разреш. номеров</string>

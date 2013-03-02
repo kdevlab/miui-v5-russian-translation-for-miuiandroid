@@ -24,7 +24,7 @@
 	<string name="alarm_alert_snooze_set">Повтор сигнала через %d мин.</string>
 	<string name="add_alarm">Добавить будильник</string>
 	<string name="menu_add_worldclock">Добавить часовой пояс</string>
-	<string name="start">Старт</string>
+	<string name="start">Вкл. секундомер</string>
 	<string name="analog_gadget">Часы</string>
 	<string name="delelte_selected_timezone">Вы действительно хотите удалить выбранный часовой пояс(а)?</string>
 	<string name="alarm_ascending_mode_title">Нарастание громкости</string>
@@ -55,7 +55,7 @@
 	<string name="days">%s дн.</string>
 	<string name="weekend_alarm_clock">По выходным дням</string>
 	<string name="disable_alarm">Выключить будильник</string>
-	<string name="worldclock_title">Мировое время</string>
+	<string name="worldclock_title">Часы</string>
 	<string name="menu_delete">Удалить</string>
 	<string name="timer_title">Таймер</string>
 	<string name="menu_alarmclock_edit">Редактировать</string>
@@ -68,9 +68,9 @@
 	<string name="settings">Настройки</string>
 	<string name="clock_instructions">Выберите часы</string>
 	<string name="day_concat">", "</string>
-	<string name="cancel">Стоп</string>
+	<string name="cancel">Назад</string>
 	<string name="snooze_confirm_cancel">Выключить</string>
-	<string name="start_up">Пуск</string>
+	<string name="start_up">Вкл. таймер</string>
 	<string name="delete_timezone_title">Удалить часовой пояс</string>
 	<string name="desk_clock_button_description">Вид часов</string>
 	<string name="pause">Пауза</string>
@@ -78,7 +78,7 @@
 	<string name="timer_tutorial">Установка таймера</string>
 	<string name="alarm_alert_dismiss_text">Выключить</string>
 	<string name="menu_worldclock_edit">Редактировать</string>
-	<string name="system_time_setting">Настройка времени</string>
+	<string name="system_time_setting">Настройка</string>
 	<string name="full_wday_month_day_no_year">EEEE, d MMMM</string>
 	<string name="timer_minute">м</string>
 	<string name="remind_ringtone">Мелодия</string>

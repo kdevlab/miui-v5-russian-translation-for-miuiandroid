@@ -52,4 +52,8 @@
         <item quantity="other">в %d минут</item>
         <item quantity="one">в 1 минуту</item>
     </plurals>
+    <plurals name="v5_edit_mode_title">
+        <item quantity="other">Выбрано: %1$d</item>
+        <item quantity="one">Выбрано: %1$d</item>
+    </plurals>
 </resources>

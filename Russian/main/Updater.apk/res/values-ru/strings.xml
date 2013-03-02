@@ -12,7 +12,7 @@
 	<string name="upgrade_close">Закрыть</string>
 	<string name="dialog_ok">ОК</string>
 	<string name="expect">4. Ожидания</string>
-	<string name="current_version_update_monthly_build">Текущая версия:</string>
+	<string name="current_version_update_monthly_build">Текущая версия</string>
 	<string name="update_success_title">Обновление</string>
 	<string name="share_update_content_unsign">Я обновил MIUI до %1$s! Для получения подробных изменений, пожалуйста, посетите %2$s.</string>
 	<string name="active_xiaomi_account_title">Активация аккаунта</string>
@@ -132,7 +132,7 @@
 	<string name="wifi_not_available_body">Файл прошивки слишком большой, рекомендуется скачать его через Wi-Fi. Ваш Wi-Fi в настоящее время отключен, вы хотите продолжить загрузку через мобильную сеть?</string>
 	<string name="verify_and_apply_dialog_message">Проверка контрольной суммы</string>
 	<string name="network_error">Не удается подключиться, возможно, из-за проблем с сетью или сервер занят</string>
-	<string name="current_version_text">Текущая версия:</string>
+	<string name="current_version_text">Текущая версия</string>
 	<string name="upgrade_kernel">Обновления ядра</string>
 	<string name="sign_in_info_total_more">Your update ranking is %1$s\nOver %2$s users have signed in for MIUI %3$s</string>
 	<string name="mione_update_success_title">Обновление завершено</string>

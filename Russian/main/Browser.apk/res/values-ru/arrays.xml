@@ -92,5 +92,19 @@
         <item>Страница вперед/назад</item>
         <item>Переключение вкладок</item>
     </string-array>
-
+    <string-array name="pref_video_preload_values">
+        <item>Никогда</item>
+        <item>Только Wi-Fi</item>
+        <item>Всегда</item>
+    </string-array>
+    <string-array name="pref_link_prefetch_values">
+        <item>Никогда</item>
+        <item>Только Wi-Fi</item>
+        <item>Всегда</item>
+    </string-array>
+    <string-array name="pref_data_preload_values">
+        <item>Никогда</item>
+        <item>Только Wi-Fi</item>
+        <item>Всегда</item>
+    </string-array>
 </resources>
