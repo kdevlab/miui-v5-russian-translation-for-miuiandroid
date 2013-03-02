@@ -48,11 +48,6 @@
         <item>Только по Wi-Fi</item>
         <item>Всегда</item>
     </string-array>
-    <array name="pref_data_preload_values">
-        <item>@string/pref_data_preload_value_never</item>
-        <item>@string/pref_data_preload_value_wifi_only</item>
-        <item>@string/pref_data_preload_value_always</item>
-    </array>
     <string-array name="bookmarks">
         <item>Google</item>
         <item>http://www.google.com/</item>
