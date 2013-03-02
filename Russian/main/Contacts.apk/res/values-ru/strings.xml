@@ -613,11 +613,7 @@
 	<string name="noAccounts">Для создания групп нужен аккаунт</string>
 	<string name="menu_removeStar">Удалить из избранных</string>
 	<string name="separatorJoinAggregateAll">Все контакты</string>
-<<<<<<< HEAD
 	<string name="preference_telocation_title">Местоположение</string>
-=======
-	<string name="preference_telocation_title">Настройки положения</string>
->>>>>>> 4850f2e21d442bf19d6a02de5b8039f0e41657a0
 	<string name="viewContactTitle">Сведения о контакте</string>
 	<string name="deleteConfirmation">Этот контакт будет удален</string>
 	<string name="description_star">избранное</string>

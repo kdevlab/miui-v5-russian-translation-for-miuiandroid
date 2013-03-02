@@ -745,13 +745,8 @@
 	<string name="tts_default_pitch_summary">Влияет на высоту синтезированной речи</string>
 	<string name="dolby_preset_select">Пожалуйста, выберите настройки</string>
 	<string name="bluetooth_disable_profile_message">Профиль&lt;br>&lt;b>%1$s&lt;/b>&lt;br>&lt;br>будет отключен от устройства&lt;br>&lt;b>%2$s&lt;/b></string>
-<<<<<<< HEAD
 	<string name="perm_hips_location_source_cellular">Источник: Сотовая сеть</string>
 	<string name="perm_hips_location_source_network">Источник: Сеть</string>
-=======
-	<string name="perm_hips_location_source_cellular">Источник: сотовая сеть</string>
-	<string name="perm_hips_location_source_network">Источник: сеть</string>
->>>>>>> 4850f2e21d442bf19d6a02de5b8039f0e41657a0
 	<string name="memory_apps_usage">Приложения</string>
 	<string name="apn_password">Пароль</string>
 	<string name="virus_scanner_select_Cancel">Отмена</string>
@@ -1800,11 +1795,7 @@
 	<string name="sim_enter_pin">PIN-код SIM-карты</string>
 	<string name="bluetooth_dock_settings_headset">Для громкой связи</string>
 	<string name="dlg_confirm_unmount_text">Если отключить SD-карту, некоторые приложения перестанут работать и могут оставаться недоступными до ее подключения.</string>
-<<<<<<< HEAD
 	<string name="man_add_application">Добавить вручную</string>
-=======
-	<string name="man_add_application">Вручную добавить приложения в автозапуск</string>
->>>>>>> 4850f2e21d442bf19d6a02de5b8039f0e41657a0
 	<string name="power_bluetooth">Bluetooth</string>
 	<string name="font_size_save">OK</string>
 	<string name="set_dds_error">Ошибка в подписке набора данных</string>
