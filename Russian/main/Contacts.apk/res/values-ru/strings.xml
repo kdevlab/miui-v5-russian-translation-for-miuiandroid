@@ -433,14 +433,14 @@
 	<string name="readOnlyContactDeleteConfirmation">Этот контакт содержит информацию из различных аккаунтов. Информация из аккаунтов, доступных только для чтения, будет скрыта в ваших списках контактов, но не удалена.</string>
 	<string name="contact_delete_toast">Контакт успешно удален</string>
 	<string name="none_paired">Нет сопряженных устройств</string>
-	<string name="menu_bar_group_delete">Удалить</string>
+	<string name="menu_bar_group_delete">Удалить группу</string>
 	<string name="cancel_confirmation_dialog_message">Отменить изменения?</string>
 	<string name="description_call_log_outgoing_call">Исходящий вызов</string>
 	<string name="add_blacklist">Добавить в черный список</string>
 	<string name="importing_vcard_finished_title">Импорт файла vCard %s завершен</string>
 	<string name="use_photo_as_primary">Использовать данное изображение</string>
 	<string name="fail_reason_too_many_vcard">Слишком много файлов VCard на SD-карте</string>
-	<string name="option_delete_group">Удалить</string>
+	<string name="option_delete_group">Удалить группу</string>
 	<string name="preview_contact_card_title">Импортировать</string>
 	<string name="open_contact">Открыть контакт</string>
 	<string name="callShortcutActivityTitle">Выберите номер для вызова</string>
@@ -579,7 +579,7 @@
 	<string name="frequency_weekly">Каждую неделю</string>
 	<string name="remove_duplicate">MIUI поможет Вам найти и объединить дублированные контакты. Они не будут объединены автоматически. Пожалуйста, объедините их вручную.\n\nНажмите на объединение и немного подождите, пока автоматическое объединение не завершится.</string>
 	<string name="phoneLabelsGroup">Телефон</string>
-	<string name="menu_deleteGroup">Удалить</string>
+	<string name="menu_deleteGroup">Удалить группу</string>
 	<string name="searchHint">Поиск контактов</string>
 	<string name="import_weibo_notification_title_done">Импортирование контактов sina weibo завершено</string>
 	<string name="call_work">Рабочий тел.</string>
@@ -619,7 +619,7 @@
 	<string name="description_star">избранное</string>
 	<string name="none_found">Устройства не найдены</string>
 	<string name="sim_contacts">Контакты на SIM-карте</string>
-	<string name="option_not_in_group">Удалить</string>
+	<string name="option_not_in_group">Удалить контакт</string>
 	<string name="import_from_sdcard">Импорт с SD-карты</string>
 	<string name="all_list_empty">Нет контактов</string>
 	<string name="contact_editor_prompt_multiple_accounts">Выберите аккаунт, в который следует добавить новый контакт</string>
@@ -706,7 +706,7 @@
 	<string name="preference_smart_group_location_summary">Группировка контактов по коду оператора</string>
 	<string name="preference_import">Импорт контактов</string>
 	<string name="hint_distance">держать дистанцию</string>
-	<string name="menu_deleteContact">Удалить</string>
+	<string name="menu_deleteContact">Удалить контакт</string>
 	<string name="sms_radio">SMS: радиотелефон</string>
 	<string name="listFoundAllContactsZero">Ничего не найдено</string>
 	<string name="group_member_remove_toast">Контакт успешно удален из группы</string>
@@ -724,7 +724,7 @@
 	<string name="group_read_only">Здесь доступно только для чтения</string>
 	<string name="ghostData_title">Название</string>
 	<string name="contacts_unavailable_add_account">Войти в аккаунт</string>
-	<string name="option_delete_contact">Удалить</string>
+	<string name="option_delete_contact">Удалить контакт</string>
 	<string name="sms_work_mobile">SMS: рабочий моб.</string>
 	<string name="voicemail_speed_slower">Низкая скорость</string>
 	<string name="description_call_log_play_button">Прослушать голосовую почту</string>
