@@ -12,4 +12,5 @@ MIUI Translators:
  - malchik-solnce (Серёжка)))
  - miuirussia (MIUI Russia)
  - Ахмедов Арсен
+ - pushkagun (http://mi-droid.ru/)
  - VBenkovskyy (Vlaaaad)
