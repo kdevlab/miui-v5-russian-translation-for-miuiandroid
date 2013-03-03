@@ -66,21 +66,13 @@
         <item>eBay</item>
         <item>http://www.ebay.com/</item>
     </string-array>
-    <string-array name="google">
-        <item>Google</item>
-        <item>google.com</item>
-        <item>http://www.google.com/favicon.ico</item>
-        <item>http://www.google.com/search?hl={language}&amp;ie={inputEncoding}&amp;source=android-browser&amp;q={searchTerms}</item>
-        <item>UTF-8</item>
-        <item>http://api.bing.com/osjson.aspx?query={searchTerms}&amp;language={language}</item>
-    </string-array>
     <string-array name="search_engines">
         <item>google</item>
         <item>yandex_ru</item>
         <item>bing</item>
     </string-array>
     <string-array name="pref_volume_key_choices">
-        <item>Страница вверх/вниз</item>
+        <item>Прокрутка страницы</item>
         <item>Переключение вкладок</item>
     </string-array>
     <string-array name="pref_fling_on_border_choices">

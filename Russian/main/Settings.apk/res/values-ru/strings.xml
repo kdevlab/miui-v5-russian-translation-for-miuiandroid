@@ -50,7 +50,7 @@
 	<string name="bluetooth_settings_summary">Настройка подключений, видимости и имени устройства</string>
 	<string name="power_usage_history">Информация об использовании</string>
 	<string name="accessibility_service_disable_warning_summary">Чтобы отключить %1$s, нажмите ОК</string>
-	<string name="perm_su_switch">Root права</string>
+	<string name="perm_su_switch">Права суперпользователя</string>
 	<string name="use_location_summary">Разрешить Google использовать данные о местоположении для улучшения поиска и работы других служб</string>
 	<string name="data_usage_enable_mobile">Мобильный трафик</string>
 	<string name="vibrate_when_ringing_title">Вибро и звонок</string>
@@ -1248,7 +1248,7 @@
 	<string name="camera_key_action_shortcut_call">Вызов</string>
 	<string name="date_time_24_hour_sample">13:00</string>
 	<string name="try_again">Повторите попытку</string>
-	<string name="perm_service_enabled">Service is active</string>
+	<string name="perm_service_enabled">Служба включена</string>
 	<string name="network_detail">Свойства сети %s</string>
 	<string name="gadget_title">Упр. питанием</string>
 	<string name="wifi_tether_configure_subtext">Точка доступа %1$s %2$s</string>
@@ -1673,7 +1673,7 @@
 	<string name="sync_error">Ошибка синхронизации</string>
 	<string name="sync_calendar">Календарь</string>
 	<string name="baseband_version">Модем</string>
-	<string name="perm_trusted_app">Надежные приложения (%1$d)</string>
+	<string name="perm_trusted_app">Доверенные приложения (%1$d)</string>
 	<string name="vpn_not_used">(не используется)</string>
 	<string name="sim_lock_settings_category">Настроить блокировку</string>
 	<string name="yes">Да</string>
