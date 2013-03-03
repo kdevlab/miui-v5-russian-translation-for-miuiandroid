@@ -37,7 +37,7 @@
 	<string name="Dashboard_Perm_SU_Disabled_In_Stable_Desc">"Разрешение прав администратора может привести к нестабильности системы или потери личных данных, системы или повреждения оборудования. \n  \n  Пожалуйста, переключитесь на версию для разработчиков"</string>
 	<string name="HIPS_SecurityPrompt_ROOT_Caption">Внимание!</string>
 	<string name="HIPS_Perm_PhoneID_IMSI">получить номер IMSI</string>
-	<string name="HIPS_Action_Accept">Разрешить</string>
+	<string name="HIPS_Action_Accept">Разреш.</string>
 	<string name="HIPS_Perm_CallState_Hint">%1$s приложения, имеющие доступ к состоянию телефона</string>
 	<string name="Dashboard_Perm_Header">Управление %1$d приложениями</string>
 	<string name="Generic_ShowSystemApp">Показать системные приложения</string>
@@ -107,7 +107,7 @@
 	<string name="Generic_Disable">Отключено</string>
 	<string name="Privacy_App_Finish">Закрыть</string>
 	<string name="Dashboard_Perm_HIPS_Desc">Управление %1$d приложениями на безопасность и конфиденциальность</string>
-	<string name="HIPS_SecurityPrompt_Reject">Отказано (%d)</string>
+	<string name="HIPS_SecurityPrompt_Reject">Отмена (%d)</string>
 	<string name="HIPS_Perm_Network_WIFIEvent">Wi-Fi</string>
 	<string name="HIPS_Perm_SendSMS_Desc">Отправить SMS напрямую</string>
 	<string name="HIPS_Perm_ROOT_Hint">%1$s приложения с правами суперпользователя</string>
