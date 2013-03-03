@@ -20,7 +20,7 @@
 	<string name="accessibility_increment">Увеличить %1$s</string>
 	<string name="details_ms">%1$02d:%2$02d</string>
 	<string name="loading">Загрузка…</string>
-	<string name="pano_file_name_format">"'PANO'_yyyyMMdd_HHmmss"</string>
+	<string name="pano_file_name_format">"'PANO'_yyyy-MM-dd_HH-mm-ss"</string>
 	<string name="pref_camera_videoencoder_dialogtitle">Формат видео</string>
 	<string name="not_enough_space">Нет места на карте памяти</string>
 	<string name="effect_none">Нет</string>
@@ -290,7 +290,7 @@
 	<string name="pref_camera_preview_value_5000">5000</string>
 	<string name="pref_camera_auto_focus_entry_on">on</string>
 	<string name="pref_camera_sharpness_default">2</string>
-	<string name="video_file_name_format">"'VID'_yyyyMMdd_HHmmss"</string>
+	<string name="video_file_name_format">"'VID'_yyyy-MM-dd_HH-mm-ss"</string>
 	<string name="pano_dialog_waiting_previous">Ожидание завершения предыдущей панорамы</string>
 	<string name="file_size">Размер</string>
 	<string name="iso">ISO</string>
@@ -315,7 +315,7 @@
 	<string name="no_thumbnail">Нет миниатюр</string>
 	<string name="pref_camera_scenemode_entry_sunset">Закат</string>
 	<string name="pref_camera_autoexposure_title">Режим экспозиции</string>
-	<string name="send_multiple_files_hint_format">Send multiple files (%s)</string>
+	<string name="send_multiple_files_hint_format">Отправить несколько файлов (%s)</string>
 	<string name="details_hms">%1$d:%2$02d:%3$02d</string>
 	<string name="toast_burst_snap_forbidden_when_hdr_open">Серийная съемка не поддерживается, когда включен HDR</string>
 	<string name="accessibility_switch_to_video">Режим \"Видео\"</string>
@@ -404,7 +404,7 @@
 	<string name="review_ok">ГОТОВО</string>
 	<string name="pref_video_quality_entry_480p">SD 480p</string>
 	<string name="pref_camera_coloreffect_entry_redtint">Красный оттенок</string>
-	<string name="image_file_name_format">"'IMG'_yyyyMMdd_HHmmss"</string>
+	<string name="image_file_name_format">"'IMG'_yyyy-MM-dd_HH-mm-ss"</string>
 	<string name="pref_camera_videoencoder_entry_0">MPEG4</string>
 	<string name="pref_camera_movie_solid_value_off">Выкл.</string>
 	<string name="pref_camera_videoencoder_entry_1">H263</string>
