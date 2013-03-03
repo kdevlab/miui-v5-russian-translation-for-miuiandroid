@@ -1,4 +1,4 @@
 <strings>
-    <string name="short_date_format" value="dd.MM.yyyy" />
-    <string name="long_date_format" value="dd MMMM yyyy" />
+    <string name="short_date_format" value="EEEE d MMMM" />
+    <string name="long_date_format" value="d MM yyyy" />
 </strings>

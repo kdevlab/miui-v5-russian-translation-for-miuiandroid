@@ -6,13 +6,13 @@
 	<string name="resource_comment_entry_tips">Отзывов: %1$s. Нажмите, чтобы посмотреть</string>
 	<string name="wallpaper_loading_text">Загрузка...</string>
 	<string name="theme_import_oper_complete">Готово</string>
-	<string name="resource_server_out_of_service">Недоступно, попробуйте снова.</string>
+	<string name="resource_server_out_of_service">Сервис не доступен. Попробуйте позже.</string>
 	<string name="theme_import_activity_label">Обновление тем</string>
 	<string name="resource_alarm_default">Будильник</string>
 	<string name="theme_import_preparing">Поиск тем</string>
 	<string name="backup_theme_progress_message">Сохранение...</string>
 	<string name="theme_import_oper_stop_request_content">Эти темы нуждаются в обновлении для использования, остановить?</string>
-	<string name="sdcard_status_changed_dialog_message">Выходим.\nОткройте приложение после обновления ресурса.</string>
+	<string name="sdcard_status_changed_dialog_message">Требуется выход.\nПожалуйста, откройте это приложение еще раз, для обновления ресурсов.</string>
 	<string name="wallpaper_set_as_lockscreen">Применить на экран блокировки</string>
 	<string name="resource_apply">Применить</string>
 	<string name="resource_comment_version_name">(Версия: %1$s)</string>
@@ -51,7 +51,7 @@
 	<string name="component_category_more_title">Дополнительные</string>
 	<string name="short_ringtone_resource">Короткие</string>
 	<string name="resource_tip_select_ringtone">Мелодия не выбрана</string>
-	<string name="resource_get_auth_missing">Тема не скачана с официального маркета, пожалуйста, скачать аналогичную тему из официального маркета.</string>
+	<string name="resource_get_auth_missing">Тема не скачана с официального маркета. Пожалуйста, скачайте аналогичную тему из официального маркета.</string>
 	<string name="theme_import_data">Импорт информации</string>
 	<string name="resource_switch_account">Переключить</string>
 	<string name="resource_comment_name_default">Пользователь %1$s</string>
