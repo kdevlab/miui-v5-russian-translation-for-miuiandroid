@@ -5,7 +5,7 @@
 	<string name="accessibility_no_data">Сигнал передачи данных отсутствует</string>
 	<string name="status_bar_recent_memory_info">Доступно %1$s из %2$s</string>
 	<string name="mdb_restore_label">Mdb Восстановление</string>
-	<string name="settings_expandable_under_keyguard_summary">Возможность доступа к панеле состояния при заблокированном экране (если отсуствует пароль для разблокировки экрана)</string>
+	<string name="settings_expandable_under_keyguard_summary">Возможность доступа к панели состояния при заблокированном экране (если отсуствует пароль для разблокировки экрана)</string>
 	<string name="screenshot_saved_text">Нажмите, чтобы просмотреть</string>
 	<string name="notification_otg_stylus_out">Стилус отключен</string>
 	<string name="settings_show_flow_info">Отображать трафик</string>
@@ -215,7 +215,7 @@
 	<string name="accessibility_home">Главная страница</string>
 	<string name="usb_debugging_always">Всегда разрешать с этого компьютера</string>
 	<string name="data_usage_disabled_dialog">Достигнут лимит трафика.\n\nПри восстановлении подключения оператор может взимать плату за передачу данных</string>
-	<string name="settings_expandable_under_fullscreen_summary">Возможность доступа к панеле состояния при работе с полноэкранными приложениями</string>
+	<string name="settings_expandable_under_fullscreen_summary">Возможность доступа к панели состояния при работе с полноэкранными приложениями</string>
 	<string name="status_bar_toggle_sync">Синхр.</string>
 	<string name="status_bar_toggle_network_type">Тип сети</string>
 	<string name="usb_notification_ptp_ticker_text">USB подключен (Фото)</string>
