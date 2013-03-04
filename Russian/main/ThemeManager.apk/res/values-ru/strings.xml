@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--Merged with KDG BigBlackBox-->
 <resources>
-	<string name="resource_title_select_ringtone">Выбор мелодии</string>
+	<string name="resource_title_select_ringtone">Выберите мелодию</string>
 	<string name="theme_import_fail">Ошибка импорта %1$s</string>
-	<string name="resource_comment_entry_tips">Отзывов: %1$s. Нажмите, чтобы посмотреть</string>
+	<string name="resource_comment_entry_tips">Отзывов: %1$s. Нажмите, чтобы посмотреть.</string>
 	<string name="wallpaper_loading_text">Загрузка...</string>
 	<string name="theme_import_oper_complete">Готово</string>
 	<string name="resource_server_out_of_service">Сервис не доступен. Попробуйте позже.</string>
@@ -24,7 +24,7 @@
 	<string name="theme_component_title_boot_animation">Анимация загрузки</string>
 	<string name="all_ringtone_resource">Все</string>
 	<string name="description_summary">Инфо:</string>
-	<string name="resource_comment_upload_not_bought">Вы должны применить тему, прежде чем комментировать</string>
+	<string name="resource_comment_upload_not_bought">Прежде чем оставить комментарий, Вы должны применить тему</string>
 	<string name="theme_changed_message">Установлено</string>
 	<string name="theme_component_title_icon">Иконки</string>
 	<string name="loading">Загрузка...</string>
@@ -42,7 +42,7 @@
 	<string name="resource_comment_upload_data_invalid">Ошибка отправки комментария</string>
 	<string name="resource_can_not_selected">%1$s не может быть выбран!</string>
 	<string name="description_designer">Дизайнер:</string>
-	<string name="resource_comment_edit_comment_waiting">Проверка Ваших ответов к этой теме</string>
+	<string name="resource_comment_edit_comment_waiting">Проверка Ваших ответов к этой теме...</string>
 	<string name="theme_component_title_notification">Уведомление</string>
 	<string name="loading_resource_detail_info">Загрузка...</string>
 	<string name="theme_component_title_photo_frame">Фоторамка</string>
@@ -100,12 +100,12 @@
 	<string name="resource_see_more">Подробнее</string>
 	<string name="lockscreen_wallpaper">Экран блокировки</string>
 	<string name="resource_comment_upload_not_logined">Пожалуйста, войдите в аккаунт</string>
-	<string name="resource_get_auth_exceed_max_limit_title">Предел авторизаций превышен</string>
+	<string name="resource_get_auth_exceed_max_limit_title">Превышен предел авторизаций</string>
 	<string name="theme_upgrade_request_cancel">Нет</string>
 	<string name="description_size">Размер:</string>
 	<string name="resource_notification_default">Уведомления</string>
 	<string name="theme_import_oper_start">Обновить все</string>
-	<string name="resource_system_title">Системные ресурсы</string>
+	<string name="resource_system_title">Системные</string>
 	<string name="resource_delete_confirm">Вы действительно хотите удалить эти ресурсы?</string>
 	<string name="title_online">Онлайн</string>
 	<string name="apply_font_btn_reboot">Применить с перезагрузкой</string>
@@ -114,7 +114,7 @@
 	<string name="menu_refresh">Обновить</string>
 	<string name="mi_wallpaper">Mi Обои</string>
 	<string name="desktop_wallpaper">Рабочий стол</string>
-	<string name="component_lockstyle_personal_title">Настройки</string>
+	<string name="component_lockstyle_personal_title">Настройки локскрина</string>
 	<string name="processing">Обработка...</string>
 	<string name="resource_default_name">Ресурс</string>
 	<string name="theme_component_title_launcher">Рабочий стол</string>
@@ -126,7 +126,7 @@
 	<string name="theme_component_title_statusbar">Статус-бар</string>
 	<string name="theme_description_title_default">По умолчанию</string>
 	<string name="theme_import_oper_stop">Остановить</string>
-	<string name="resource_downloaded_title">Скачанные ресурсы</string>
+	<string name="resource_downloaded_title">Скачанные</string>
 	<string name="resource_price_free">Беспл.</string>
 	<string name="theme_changing_dialog_title">Применение темы. Пожалуйста, подождите...</string>
 	<string name="resource_list_title">Последнее выбранное</string>
@@ -144,7 +144,7 @@
 	<string name="resource_comment_edit_title">Комментарий к: %1$s</string>
 	<string name="app_name">Темы</string>
 	<string name="resource_comment_title">Комментарии: %1$s</string>
-	<string name="title_system_resource">Системные ресурсы</string>
+	<string name="title_system_resource">Системные</string>
 	<string name="theme_component_title_audio_effect">Звуковые эффекты</string>
 	<string name="resource_mute">Нет</string>
 	<string name="theme_import_normal">Обновление темы</string>
@@ -161,10 +161,10 @@
 	<string name="resource_app_name">Браузер ресурсов</string>
 	<string name="description_uploadtime">Обновление:</string>
 	<string name="apply_font_btn_exclude">Без шрифта</string>
-	<string name="theme_import_item_reject_use">Тема в процессе обновления, пожалуйста подождите</string>
+	<string name="theme_import_item_reject_use">Тема в процессе обновления, пожалуйста подождите...</string>
 	<string name="resource_buy">Купить</string>
 	<string name="wallpaper_crop">Обрезать</string>
-	<string name="resource_title">Дополнительно</string>
+	<string name="resource_title">Дополнительные</string>
 	<string name="resource_update">Обновить</string>
 	<string name="theme_component_title_framework">Система</string>
 	<string name="theme_upgrade_request_content">Формат локальных тем нужно преобразовать для повышения эффективности. Это может занять некоторое время и возможно подтормаживание системы в процессе. Преобразовать темы сейчас?</string>
@@ -175,6 +175,6 @@
 	<string name="resource_local">Локально %1$s</string>
 	<string name="all_resources">Все</string>
 	<string name="theme_component_title_clock">Часы</string>
-	<string name="online_search_hint">Поиск интернет-ресурсов</string>
+	<string name="online_search_hint">Введите ключевые слова</string>
 	<string name="theme_import_item_delete_request_title">Тема не обновлена</string>
 </resources>

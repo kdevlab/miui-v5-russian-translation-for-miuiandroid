@@ -39,7 +39,7 @@
 	<string name="bluetooth_on_time">Время работы Wi-Fi</string>
 	<string name="apn_edit">Настройки точки доступа</string>
 	<string name="keep_screen_on">Оставить включенным</string>
-	<string name="finish_application">Конец</string>
+	<string name="finish_application">Закрыть</string>
 	<string name="error_mnc_not23">Поле MNC должно содержать 2 или 3 цифры</string>
 	<string name="drive_mode_auto_reply">Автоответ</string>
 	<string name="radio_info_ppp_received_label">Получено PPP:</string>
@@ -1891,7 +1891,7 @@
 	<string name="wifi_setup_title_connecting_network">Подключение к сети Wi-Fi: %s</string>
 	<string name="spellcheckers_settings_title">Проверка орфографии</string>
 	<string name="show_all_anrs">Показывать ANR</string>
-	<string name="external_code_size_label">На USB-накопителе</string>
+	<string name="external_code_size_label">USB-накопитель</string>
 	<string name="lockpattern_settings_enable_tactile_feedback_title">Вибрировать при касании</string>
 	<string name="wifi_ip_address">IP-адрес</string>
 	<string name="bluetooth_disconnect_pan_user_profile">Доступ в Интернет через устройство %1$s будет отключен</string>
