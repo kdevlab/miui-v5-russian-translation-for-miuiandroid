@@ -46,7 +46,7 @@
 	<string name="unlock_success">Разблокировка сети успешно завершена</string>
 	<string name="dial_related_setting_catory_miui">Набор</string>
 	<string name="pin2_or_fdn_invalid">"FDN wasn't updated. The PIN2 was incorrect, or the phone number was rejected."</string>
-	<string name="tty_mode_entries_off_miui">TTY Off</string>
+	<string name="tty_mode_entries_off_miui">Выключен</string>
 	<string name="label_nsdp">SIM network subset unlock PIN</string>
 	<string name="auto_answer_summary_delay">" (задержка: %s сек.)"</string>
 	<string name="description_target_send_sms">Отправить SMS</string>
@@ -291,7 +291,7 @@
 	<string name="unlock_failed">Запрос на разблокировку сети не выполнен</string>
 	<string name="register_network_failed_message_miui">Невозможно зарегистрироваться в выбранной сети, вы хотите выбирать предпочитаемую сеть автоматически?</string>
 	<string name="call_record_sd_error_miui">Ошибка доступа к SD-карте!</string>
-	<string name="tty_mode_entries_full_miui">TTY Full</string>
+	<string name="tty_mode_entries_full_miui">Полнофункциональный</string>
 	<string name="simContacts_emptyLoading">Считывание с SIM-карты…</string>
 	<string name="incall_status_dialed_mmi">Запуск последовательности MMI...</string>
 	<string name="reject_via_sms_summary_miui">Редактирование сообщений быстрого ответа</string>
@@ -648,7 +648,7 @@
 	<string name="rsp_unlock_failed">RUIM Service Provider unlock request unsuccessful</string>
 	<string name="onscreen_audio_mode_headset_miui">Наушники</string>
 	<string name="registration_status_not_running">Не удалось зарегистрировать аккаунт</string>
-	<string name="tty_mode_entries_hco_miui">TTY HCO</string>
+	<string name="tty_mode_entries_hco_miui">С возможностью слышать собеседника</string>
 	<string name="adding_fdn_contact">Выполняется добавление номера ограниченного набора...</string>
 	<string name="pin_progress_change_pin2_miui">Изменение PIN2...</string>
 	<string name="command_error_sms_fail_retry_miui">Не удалось отправить SMS, пожалуйста, повторите попытку позже</string>
@@ -658,7 +658,7 @@
 	<string name="description_image_button_four">четыре</string>
 	<string name="sip_add_account_tip_text">Пожалуйста, добавьте аккаунт для интернет-телефонии</string>
 	<string name="pin_progress_unlock_icc_miui">Разблокирование SIM-карты...</string>
-	<string name="mobile_network_setting">Mobile Network Settings</string>
+	<string name="mobile_network_setting">Настройки мобильной сети</string>
 	<string name="callFailed_dsac_restricted_normal">Обычные вызовы запрещены настройками доступа</string>
 	<string name="missed_call_notify_none_miui">Не напоминать</string>
 	<string name="disable">Отключить</string>
@@ -741,7 +741,7 @@
 	<string name="description_target_decline">Отклонить</string>
 	<string name="close_dialog">ОК</string>
 	<string name="xdivert_summary">CFNRc Settings</string>
-	<string name="tty_mode_entries_vco_miui">TTY VCO</string>
+	<string name="tty_mode_entries_vco_miui">С возможностью передачи голоса</string>
 	<string name="description_image_button_pound">решетка</string>
 	<string name="preferred_network_mode_gsm_wcdma_summary">Предпочтительная сеть: GSM или WCDMA</string>
 	<string name="enable_disable_lodgings">Аренда жилья</string>

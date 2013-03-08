@@ -124,7 +124,7 @@
 	<string name="pref_camera_picture_format_title">Выберите формат фотографии</string>
 	<string name="pref_camera_sound_entry_off">Выкл.</string>
 	<string name="pref_camera_sound_entry_on">Вкл.</string>
-	<string name="video_reach_size_limit">Максимальный размер достигнут.</string>
+	<string name="video_reach_size_limit">Достигнут максимальный размер</string>
 	<string name="simple_mode_button_text_slow_video">Закрыть камеру замедленного действия</string>
 	<string name="pref_camera_picture_format_entry_raw">Raw</string>
 	<string name="pref_video_time_lapse_frame_interval_entry_10">10 сек.</string>
@@ -144,7 +144,7 @@
 	<string name="simple_mode_button_text_panorama">Закрыть панораму</string>
 	<string name="share_picture_via">Опубликовать фото через</string>
 	<string name="pref_camera_saturation_default">5</string>
-	<string name="confirm_location_message">Телефон Xiaomi может сохранять ваше местоположение, включить данную опцию?</string>
+	<string name="confirm_location_message">Телефон Xiaomi может сохранять Ваше местоположение. Включить данную опцию?</string>
 	<string name="group_by_faces">По людям</string>
 	<string name="pref_camera_flashmode_default">auto</string>
 	<string name="pref_camera_ae_bracket_hdr_default">Выкл.</string>
@@ -185,7 +185,7 @@
 	<string name="setting_increment">></string>
 	<string name="pref_video_continuous_focus_entry_off">Выкл.</string>
 	<string name="pref_camera_redeyereduction_entry_enable">Вкл.</string>
-	<string name="disable_video_snapshot_hint">Съемка недоступна при включенных эффектах.</string>
+	<string name="disable_video_snapshot_hint">Съемка недоступна при включенных эффектах</string>
 	<string name="pref_camera_preview_entry_2000">2 сек.</string>
 	<string name="pref_camera_powermode_entry_lp">Low_Power</string>
 	<string name="pref_camera_auto_focus_title_entry_on">Вкл.</string>
@@ -270,7 +270,7 @@
 	<string name="effect_backdropper_disco">Диско</string>
 	<string name="accessibility_back_to_first_level">Закрыть установление контроля</string>
 	<string name="pref_camera_video_duration_default">10</string>
-	<string name="unit_mm">м</string>
+	<string name="unit_mm">мм</string>
 	<string name="group_by_time">По времени</string>
 	<string name="time_lapse_title">Запись промежутка времени</string>
 	<string name="pref_camera_coloreffect_entry_pastel">Пастель</string>
@@ -418,14 +418,14 @@
 	<string name="dialog_ok">OK</string>
 	<string name="open">Включить</string>
 	<string name="pref_camera_mce_default">enable</string>
-	<string name="camera_disabled">Камера была отключена из-за политики безопасности.</string>
+	<string name="camera_disabled">Камера была отключена из-за политики безопасности</string>
 	<string name="group_by_size">По размеру</string>
 	<string name="rotate_left">Повернуть влево</string>
 	<string name="pref_camera_redeyereduction_entry_auto">Авто</string>
 	<string name="preparing_sd">Подготовка карты памяти</string>
 	<string name="pref_camera_referenceline_entryvalue_on">referenceline-on</string>
 	<string name="import_fail">Импорт не удался</string>
-	<string name="error_fail_to_start_audio_capture">Невозможно записать звук: Микрофон может быть занят другой программой.</string>
+	<string name="error_fail_to_start_audio_capture">Невозможно записать звук: микрофон может быть занят другой программой</string>
 	<string name="simple_mode_button_text_hdr">Закрыть HDR режим</string>
 	<string name="pref_camera_video_duration_entry_10">10 минут</string>
 	<string name="pref_camera_recordlocation_title">Добавить местоположение</string>
@@ -498,7 +498,7 @@
 	<string name="pref_camera_audioencoder_title">Формат звука</string>
 	<string name="pref_camera_histogram_title">Гистограмма</string>
 	<string name="pref_camera_autoexposure_value_frameaverage">frame-average</string>
-	<string name="spaceIsLow_content">Мало места на карте памяти. Измените качество или освободите место.</string>
+	<string name="spaceIsLow_content">Мало места на карте памяти. Измените качество фотографий или освободите место.</string>
 	<string name="pref_camera_focusmode_entry_macro">Макро</string>
 	<string name="pref_camera_histogram_value_enable">enable</string>
 	<string name="pref_camera_autoexposure_default">frame-average</string>
