@@ -39,7 +39,7 @@
 	<string name="bluetooth_on_time">Время работы Wi-Fi</string>
 	<string name="apn_edit">Настройки точки доступа</string>
 	<string name="keep_screen_on">Оставить включенным</string>
-	<string name="finish_application">Конец</string>
+	<string name="finish_application">Готово</string>
 	<string name="error_mnc_not23">Поле MNC должно содержать 2 или 3 цифры</string>
 	<string name="drive_mode_auto_reply">Автоответ</string>
 	<string name="radio_info_ppp_received_label">Получено PPP:</string>
@@ -1497,7 +1497,7 @@
 	<string name="lockpattern_settings_enable_title">Запрашивать ключ</string>
 	<string name="enforce_read_external_title">Защита USB хранилища</string>
 	<string name="no_running_services">Ничего не запущено</string>
-	<string name="permission_detail_info_summary">Все разршения: Safe %1$d，Приватные %2$d，Другие %3$d</string>
+	<string name="permission_detail_info_summary">Разрешения безопасные: %1$d, данные %2$d, другие %3$d</string>
 	<string name="usage_type_cpu">ЦП – всего</string>
 	<string name="dock_audio_settings_title">Аудио</string>
 	<string name="bluetooth_permission_request">Запрос разрешения на включение Bluetooth</string>
