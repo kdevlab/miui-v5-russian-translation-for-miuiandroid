@@ -64,7 +64,7 @@
 	<string name="uninstall_confirm_question">Вы действительно хотите удалить это приложение?</string>
 	<string name="allow_source_dlg_text">%1$s хочет установить другие приложения.\n\nРазрешить и запомнить выбор?</string>
 	<string name="perm_sysopt_boost_auto_start_summary">Это приложение будет запускаться автоматически!</string>
-	<string name="unknown_apps_dlg_text">Из-за соображений безопасности на вашем телефоне заблокирована установка приложений, полученных не из Google Play</string>
+	<string name="unknown_apps_dlg_text">Для обеспечения безопасности на вашем телефоне заблокирована установка приложений, полученных не из Google Play</string>
 	<string name="unknown_apps_dlg_title">Установка заблокирована</string>
 	<string name="install_failed_cpu_abi_incompatible">Процессор телефона не поддерживает это приложение</string>
 	<string name="uninstalling">Удаление...</string>
