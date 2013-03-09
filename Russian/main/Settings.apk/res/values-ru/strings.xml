@@ -435,7 +435,7 @@
 	<string name="app_disable_notifications_dlg_text">Если выключить уведомления для этого приложения, вы можете пропустить важное уведомление или обновление</string>
 	<string name="android_beam_off_summary">Отключено</string>
 	<string name="sync_enable">Включить синхронизацию</string>
-	<string name="camera_key_action_category_title">Если не открыто приложение камеры</string>
+	<string name="camera_key_action_category_title">Если не запущена камера</string>
 	<string name="clear_user_data_text">Стереть данные</string>
 	<string name="perm_hips_risky">Разрешения с риском (%1$d)</string>
 	<string name="data_usage_label_background">Фоновый режим</string>
@@ -741,7 +741,7 @@
 	<string name="bluetooth_lock_voice_dialing">Заблокировать голосовой набор</string>
 	<string name="virus_scan_app_finish">Готово</string>
 	<string name="device_picker">Выбор устройства Bluetooth</string>
-	<string name="upload_debug_log_title">Присоединиться к программе развития</string>
+	<string name="upload_debug_log_title">Отправлять логи</string>
 	<string name="sim_lock_settings_title">Блокировка SIM-карты</string>
 	<string name="tts_default_pitch_summary">Влияет на высоту синтезированной речи</string>
 	<string name="dolby_preset_select">Пожалуйста, выберите настройки</string>
@@ -2066,7 +2066,7 @@
 	<string name="battery_info_scale_label">Шкала батареи:</string>
 	<string name="power_wifi">Wi-Fi</string>
 	<string name="apn_settings">Точки доступа</string>
-	<string name="owner_info_settings_edit_text_hint">Введите текст для показа на экране блокировки</string>
+	<string name="owner_info_settings_edit_text_hint">Введите текст для отображения на экране блокировки</string>
 	<string name="error_apn_empty">Необходимо указать точку доступа</string>
 	<string name="disableNetwork">Отключить Сеть</string>
 	<string name="service_client_name">%1$s</string>
