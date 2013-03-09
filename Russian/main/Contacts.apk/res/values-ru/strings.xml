@@ -619,7 +619,7 @@
 	<string name="description_star">избранное</string>
 	<string name="none_found">Устройства не найдены</string>
 	<string name="sim_contacts">Контакты на SIM-карте</string>
-	<string name="option_not_in_group">Удалить контакт 1</string>
+	<string name="option_not_in_group">Удалить контакт из группы</string>
 	<string name="import_from_sdcard">Импорт с SD-карты</string>
 	<string name="all_list_empty">Нет контактов</string>
 	<string name="contact_editor_prompt_multiple_accounts">Выберите аккаунт, в который следует добавить новый контакт</string>
@@ -658,7 +658,7 @@
 	<string name="list_filter_single">Контакт</string>
 	<string name="name_phonetic_given">Имя (транскрипция)</string>
 	<string name="connections">Связи</string>
-	<string name="btn_delete_one_contact">Удалить контакт 2</string>
+	<string name="btn_delete_one_contact">Удалить контакт</string>
 	<string name="contactDetailAbout">Контактные данные</string>
 	<string name="toast_finish_delete_call_log">Запись(и) журнала удалена(ы)</string>
 	<string name="scanning_sdcard_failed_title">SD-карта не просканирована</string>
@@ -706,7 +706,7 @@
 	<string name="preference_smart_group_location_summary">Группировка контактов по коду оператора</string>
 	<string name="preference_import">Импорт контактов</string>
 	<string name="hint_distance">держать дистанцию</string>
-	<string name="menu_deleteContact">Удалить контакт 3</string>
+	<string name="menu_deleteContact">Удалить контакт</string>
 	<string name="sms_radio">SMS: радиотелефон</string>
 	<string name="listFoundAllContactsZero">Ничего не найдено</string>
 	<string name="group_member_remove_toast">Контакт успешно удален из группы</string>
@@ -724,7 +724,7 @@
 	<string name="group_read_only">Здесь доступно только для чтения</string>
 	<string name="ghostData_title">Название</string>
 	<string name="contacts_unavailable_add_account">Войти в аккаунт</string>
-	<string name="option_delete_contact">Удалить контакт 4</string>
+	<string name="option_delete_contact">Удалить контакт</string>
 	<string name="sms_work_mobile">SMS: рабочий моб.</string>
 	<string name="voicemail_speed_slower">Низкая скорость</string>
 	<string name="description_call_log_play_button">Прослушать голосовую почту</string>
