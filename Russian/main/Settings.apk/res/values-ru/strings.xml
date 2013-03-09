@@ -942,7 +942,7 @@
 	<string name="usb_tethering_active_subtext">Подключено</string>
 	<string name="power_mode">Режим питания</string>
 	<string name="unlock_set_enter_system_summary">Системный локскрин не будет использоваться после включения этой функции</string>
-	<string name="device_miui_version">MIUI:</string>
+	<string name="device_miui_version">Версия MIUI:</string>
 	<string name="perm_hips_network_mobile_event">использовать мобильные сети</string>
 	<string name="move_app_to_sdcard">Переместить на SD-карту</string>
 	<string name="virus_scanner_update_lib">Обновление базы</string>
@@ -1675,7 +1675,7 @@
 	<string name="bluetooth_headset_profile_summary_connected">Подключено к аудиоустройству телефона</string>
 	<string name="sync_error">Ошибка синхронизации</string>
 	<string name="sync_calendar">Календарь</string>
-	<string name="baseband_version">Модем</string>
+	<string name="baseband_version">Модем:</string>
 	<string name="perm_trusted_app">Доверенные приложения (%1$d)</string>
 	<string name="vpn_not_used">(не используется)</string>
 	<string name="sim_lock_settings_category">Настроить блокировку</string>
@@ -1751,7 +1751,7 @@
 	<string name="apn_mms_proxy">Прокси-сервер MMS</string>
 	<string name="status_data_state">Передача данных в моб. сети</string>
 	<string name="sync_settings">Аккаунты и синхронизация</string>
-	<string name="kernel_version">Ядро</string>
+	<string name="kernel_version">Ядро:</string>
 	<string name="no">Нет</string>
 	<string name="debug_debugging_category">Отладка</string>
 	<string name="accessibility_long_press_timeout_title">Задержка при нажатии и удержании</string>
