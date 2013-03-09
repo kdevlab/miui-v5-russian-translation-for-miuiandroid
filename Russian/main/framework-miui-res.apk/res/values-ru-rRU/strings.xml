@@ -286,7 +286,7 @@
 	<string name="lunar_er"/>
 	<string name="contact_carrier_message">Пожалуйста, свяжитесь с оператором по любому вопросу</string>
 	<string name="lunar_zheng" />
-	<string name="emergency_call_string">Экстренные вызовы</string>
+	<string name="emergency_call_string">Экстренные</string>
 	<string name="country_name_rw">Руанда</string>
 	<string name="group_name_coworkers">Коллеги</string>
 	<string name="country_name_se">Швеция</string>
@@ -466,7 +466,7 @@
 	<string name="perm_use_find_device">Обнаружение устройства</string>
 	<string name="android_capital_on">@android:string/capital_on</string>
 	<string name="country_name_ug">Уганда</string>
-	<string name="input_pin_code_to_unlock">Input PIN code to unlock device</string>
+	<string name="input_pin_code_to_unlock">Введите PIN-код для разблокировки</string>
 	<string name="country_name_tz">Танзания</string>
 	<string name="miui_privacy_policy_title">Политика конфиденциальности</string>
 	<string name="the_double_ninth_festival" />
