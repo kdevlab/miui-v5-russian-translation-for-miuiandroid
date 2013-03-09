@@ -196,6 +196,7 @@
 	<string name="date_and_time_settings_summary">Установка даты, времени, часового пояса и формата</string>
 	<string name="unknown">Неизвестно</string>
 	<string name="bluetooth_dock_settings_remember">Запомнить настройки</string>
+	<string name="preferred_launcher_warning_replace">Заменить</string>
 	<string name="radio_info_toggle_dns_check_label">Выбор проверки DNS</string>
 	<string name="tts_engine_name_is_enabled_summary">%s включен</string>
 	<string name="crypt_keeper_cooldown">Повторите попытку через ^1 с.</string>
@@ -808,6 +809,7 @@
 	<string name="bluetooth_profile_headset">Профиль HSP/HFP</string>
 	<string name="select_subscription">Выберите подписку</string>
 	<string name="radio_info_radio_resets_label">Сброс настроек радио:</string>
+	<string name="preferred_launcher_warning_title">Замена рабочего стола по-умолчанию</string>
 	<string name="msd_install_next">Далее</string>
 	<string name="screen_button_key">Виртуальные кнопки</string>
 	<string name="bluetooth_pairing_request">Запрос сопряжения Bluetooth</string>
@@ -1025,6 +1027,7 @@
 	<string name="credentials_enabled">Хранилище регистрационных данных включено</string>
 	<string name="getConfiguredNetworks">Настройки сети</string>
 	<string name="dev_settings_warning_title">Разрешить настройки для разработчиков?</string>
+	<string name="preferred_launcher_warning_use_system">Стандартный рабочий стол</string>
 	<string name="battery_sugg_radio">Если нет доступа в сеть, вкл. режим полета для экономии заряда</string>
 	<string name="bluetooth_pin_values_hint">Обычно 0000 или 1234</string>
 	<string name="power_usage_not_available">Уровень заряда неизвестен</string>
@@ -1994,6 +1997,7 @@
 	<string name="bluetooth_visibility_timeout">Тайм-аут видимости</string>
 	<string name="service_process_name">%1$s</string>
 	<string name="date_time_date_format">Формат даты</string>
+	<string name="preferred_launcher_warning_message">Замена рабочего стола по умолчанию, может увеличить потребление энергии, уменьшить скорость и т.д. Рекомендовано продолжать использовать рабочий стол по умолчанию</string>
 	<string name="data_usage_change_cycle">Изменить…</string>
 	<string name="perm_hips_phoneid_iccid">получить серийный номер SIM карты</string>
 	<string name="internal_media_format_title">Очистить внутренний накопитель</string>
@@ -2199,5 +2203,6 @@
 	<string name="tether_settings_title_all">Режим модема</string>
 	<string name="wifi_wapi_cert_mgmt_titlebar">Управление сертификатами WAPI</string>
 	<string name="bluetooth_only_visible_to_paired_devices">Отображать только для подключенных устройств</string>
+	<string name="preferred_launcher_title">Выбор рабочего стола</string>
 	<string name="crypt_keeper_failed_title">Сбой шифрования</string>
 </resources>
