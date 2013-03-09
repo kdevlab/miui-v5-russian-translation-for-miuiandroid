@@ -1520,7 +1520,7 @@
 	<string name="manually_add_network">Добавить сеть</string>
 	<string name="perm_hips_group_pim">Персональная информация</string>
 	<string name="usage_type_wake_lock">Активный режим</string>
-	<string name="system_update_settings_list_item_title">Обновления системы</string>
+	<string name="system_update_settings_list_item_title">Обновление системы</string>
 	<string name="brightness_auto_adjust_on">Эффект автояркости можно регулировать путем перемещения ползунка. Эффект яркости экрана будет меняться в зависимости от вашей настройки и света в помещении или на улице.</string>
 	<string name="security_settings_desc">У этого приложения есть доступ к следующей информации на устройстве:</string>
 	<string name="choose_timezone">Выбрать часовой пояс</string>
