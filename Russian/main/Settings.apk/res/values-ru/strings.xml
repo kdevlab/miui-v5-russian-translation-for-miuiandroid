@@ -1036,7 +1036,7 @@
 	<string name="credentials_reset">Очистить учетные данные</string>
 	<string name="bluetooth_disconnect_headset_profile">Устройство %1$s будет отключено от гарнитуры</string>
 	<string name="ac_privacy_mode_title">Режим гостя</string>
-	<string name="breathing_light_freq_title">" (Частота)"</string>
+	<string name="breathing_light_freq_title">" (частота)"</string>
 	<string name="apn_mcc">MCC</string>
 	<string name="tts_default_lang_summary">Выбор языка для чтения текста</string>
 	<string name="filter_apps_cached">Кэш</string>
