@@ -24,7 +24,7 @@
 	<string name="alarm_alert_snooze_set">Повтор сигнала через %d мин.</string>
 	<string name="add_alarm">Добавить будильник</string>
 	<string name="menu_add_worldclock">Добавить</string>
-	<string name="start">Вкл. секундомер</string>
+	<string name="start">Старт</string>
 	<string name="analog_gadget">Часы</string>
 	<string name="delelte_selected_timezone">Вы действительно хотите удалить выбранный часовой пояс(а)?</string>
 	<string name="alarm_ascending_mode_title">Нарастание громкости</string>
@@ -68,9 +68,9 @@
 	<string name="settings">Настройки</string>
 	<string name="clock_instructions">Выберите часы</string>
 	<string name="day_concat">", "</string>
-	<string name="cancel">Назад</string>
+	<string name="cancel">Отмена</string>
 	<string name="snooze_confirm_cancel">Выключить</string>
-	<string name="start_up">Вкл. таймер</string>
+	<string name="start_up">Старт</string>
 	<string name="delete_timezone_title">Удалить часовой пояс</string>
 	<string name="desk_clock_button_description">Вид часов</string>
 	<string name="pause">Пауза</string>
