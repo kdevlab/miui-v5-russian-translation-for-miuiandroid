@@ -435,7 +435,7 @@
 	<string name="app_disable_notifications_dlg_text">Если выключить уведомления для этого приложения, вы можете пропустить важное уведомление или обновление</string>
 	<string name="android_beam_off_summary">Отключено</string>
 	<string name="sync_enable">Включить синхронизацию</string>
-	<string name="camera_key_action_category_title">Если не открыто приложение камеры</string>
+	<string name="camera_key_action_category_title">Если не запущена камера</string>
 	<string name="clear_user_data_text">Стереть данные</string>
 	<string name="perm_hips_risky">Разрешения с риском (%1$d)</string>
 	<string name="data_usage_label_background">Фоновый режим</string>
@@ -741,7 +741,7 @@
 	<string name="bluetooth_lock_voice_dialing">Заблокировать голосовой набор</string>
 	<string name="virus_scan_app_finish">Готово</string>
 	<string name="device_picker">Выбор устройства Bluetooth</string>
-	<string name="upload_debug_log_title">Присоединиться к программе развития</string>
+	<string name="upload_debug_log_title">Отправлять логи</string>
 	<string name="sim_lock_settings_title">Блокировка SIM-карты</string>
 	<string name="tts_default_pitch_summary">Влияет на высоту синтезированной речи</string>
 	<string name="dolby_preset_select">Пожалуйста, выберите настройки</string>
@@ -942,7 +942,7 @@
 	<string name="usb_tethering_active_subtext">Подключено</string>
 	<string name="power_mode">Режим питания</string>
 	<string name="unlock_set_enter_system_summary">Системный локскрин не будет использоваться после включения этой функции</string>
-	<string name="device_miui_version">MIUI:</string>
+	<string name="device_miui_version">Версия MIUI:</string>
 	<string name="perm_hips_network_mobile_event">использовать мобильные сети</string>
 	<string name="move_app_to_sdcard">Переместить на SD-карту</string>
 	<string name="virus_scanner_update_lib">Обновление базы</string>
@@ -1027,7 +1027,7 @@
 	<string name="credentials_enabled">Хранилище регистрационных данных включено</string>
 	<string name="getConfiguredNetworks">Настройки сети</string>
 	<string name="dev_settings_warning_title">Разрешить настройки для разработчиков?</string>
-	<string name="preferred_launcher_warning_use_system">Использовать стандартный рабочий стол</string>
+	<string name="preferred_launcher_warning_use_system">Исполь. системный</string>
 	<string name="battery_sugg_radio">Если нет доступа в сеть, вкл. режим полета для экономии заряда</string>
 	<string name="bluetooth_pin_values_hint">Обычно 0000 или 1234</string>
 	<string name="power_usage_not_available">Уровень заряда неизвестен</string>
@@ -1036,10 +1036,10 @@
 	<string name="credentials_reset">Очистить учетные данные</string>
 	<string name="bluetooth_disconnect_headset_profile">Устройство %1$s будет отключено от гарнитуры</string>
 	<string name="ac_privacy_mode_title">Режим гостя</string>
-	<string name="breathing_light_freq_title">Частота</string>
+	<string name="breathing_light_freq_title">" (Частота)"</string>
 	<string name="apn_mcc">MCC</string>
 	<string name="tts_default_lang_summary">Выбор языка для чтения текста</string>
-	<string name="filter_apps_cached">Кеш</string>
+	<string name="filter_apps_cached">Кэш</string>
 	<string name="wifi_other_network">Другая сеть…</string>
 	<string name="service_stop">Остановить</string>
 	<string name="radioInfo_service_in">В зоне обслуживания</string>
@@ -1285,7 +1285,7 @@
 	<string name="frequently_fragment_tempty">Здесь отображаются часто используемые элементы</string>
 	<string name="audio_record_proc_title">Подавление шума</string>
 	<string name="wifi_menu_modify">Изменить сеть</string>
-	<string name="pref_button_light_summary">Индикаторы кнопок МЕНЮ, НАЗАД, ДОМОЙ</string>
+	<string name="pref_button_light_summary">Подсветка клавиш \"Меню\", \"Назад\", \"Домой\"</string>
 	<string name="usage_type_video">Видео</string>
 	<string name="screen_button_custom">Настройка расположения кнопок</string>
 	<string name="airplane_mode">Режим полета</string>
@@ -1457,7 +1457,7 @@
 	<string name="settings_license_activity_loading">Идет загрузка…</string>
 	<string name="sim_lock_off">При включении телефона будет необходимо ввести PIN-код</string>
 	<string name="bluetooth_turning_off">Выключение Bluetooth...</string>
-	<string name="button_light_timeout">Таймаут подсветки кнопок</string>
+	<string name="button_light_timeout">Таймаут подсветки клавиш</string>
 	<string name="wifi_dns2">DNS 2</string>
 	<string name="credentials_install_gesture_prompt">Нарисуйте шаблон разблокировки</string>
 	<string name="wifi_dns1">DNS 1</string>
@@ -1638,7 +1638,7 @@
 	<string name="pointer_location">Местоположение указателя</string>
 	<string name="perm_hips_call_number">вызов %1$s</string>
 	<string name="battery_desc_display">Использование батареи для подсветки экрана</string>
-	<string name="pref_volume_wake_summary">Нажатие клавиш изменения громкости разблокирует телефон</string>
+	<string name="pref_volume_wake_summary">Нажатие клавиш регулировки громкости в заблокированном состоянии разбудит устройство</string>
 	<string name="enable_text">Включить</string>
 	<string name="wifi_save">Сохранить</string>
 	<string name="date_time_set_time">Время</string>
@@ -1675,7 +1675,7 @@
 	<string name="bluetooth_headset_profile_summary_connected">Подключено к аудиоустройству телефона</string>
 	<string name="sync_error">Ошибка синхронизации</string>
 	<string name="sync_calendar">Календарь</string>
-	<string name="baseband_version">Модем</string>
+	<string name="baseband_version">Модем:</string>
 	<string name="perm_trusted_app">Доверенные приложения (%1$d)</string>
 	<string name="vpn_not_used">(не используется)</string>
 	<string name="sim_lock_settings_category">Настроить блокировку</string>
@@ -1751,7 +1751,7 @@
 	<string name="apn_mms_proxy">Прокси-сервер MMS</string>
 	<string name="status_data_state">Передача данных в моб. сети</string>
 	<string name="sync_settings">Аккаунты и синхронизация</string>
-	<string name="kernel_version">Ядро</string>
+	<string name="kernel_version">Ядро:</string>
 	<string name="no">Нет</string>
 	<string name="debug_debugging_category">Отладка</string>
 	<string name="accessibility_long_press_timeout_title">Задержка при нажатии и удержании</string>
@@ -1974,7 +1974,7 @@
 	<string name="search_screen_timeout">экран ожидания</string>
 	<string name="bluetooth_notif_ticker">Запрос сопряжения Bluetooth</string>
 	<string name="search_sync">Синхронизация</string>
-	<string name="breathing_light_color_title">- цвет светодиода</string>
+	<string name="breathing_light_color_title">" (цвет)"</string>
 	<string name="sum_carrier_select">Выберите оператора связи</string>
 	<string name="perm_hips_phoneid_imeisn">получить IMEI/SN</string>
 	<string name="sd_format">Очистить SD-карту</string>
@@ -1997,7 +1997,7 @@
 	<string name="bluetooth_visibility_timeout">Тайм-аут видимости</string>
 	<string name="service_process_name">%1$s</string>
 	<string name="date_time_date_format">Формат даты</string>
-	<string name="preferred_launcher_warning_message">Замена стандартного рабочего стола, может увеличиться потребление энергии и уменьшить скорость работы телефона. Рекомендуется использовать стандартный рабочий стол.</string>
+	<string name="preferred_launcher_warning_message">После смены рабочего стола по умолчанию, может увеличиться потребление энергии и уменьшиться скорость работы телефона. Рекомендуется использовать системный рабочий стол.</string>
 	<string name="data_usage_change_cycle">Изменить…</string>
 	<string name="perm_hips_phoneid_iccid">получить серийный номер SIM карты</string>
 	<string name="internal_media_format_title">Очистить внутренний накопитель</string>
@@ -2066,7 +2066,7 @@
 	<string name="battery_info_scale_label">Шкала батареи:</string>
 	<string name="power_wifi">Wi-Fi</string>
 	<string name="apn_settings">Точки доступа</string>
-	<string name="owner_info_settings_edit_text_hint">Введите текст для показа на экране блокировки</string>
+	<string name="owner_info_settings_edit_text_hint">Введите текст для отображения на экране блокировки</string>
 	<string name="error_apn_empty">Необходимо указать точку доступа</string>
 	<string name="disableNetwork">Отключить Сеть</string>
 	<string name="service_client_name">%1$s</string>
@@ -2094,7 +2094,7 @@
 	<string name="bluetooth_hid_profile_summary_use_for">Использовать для ввода</string>
 	<string name="device_info_label">Сведения об устройстве</string>
 	<string name="unlock_set_unlock_mode_off">Нет</string>
-	<string name="pref_volume_wake_title">Пробуждение качелькой громкости</string>
+	<string name="pref_volume_wake_title">Пробуждать устройство</string>
 	<string name="radioInfo_data_connecting">Подключение</string>
 	<string name="bluetooth_headset_profile_summary_use_for">Использовать для аудиоустройства телефона</string>
 	<string name="radio_info_smsc_label">SMSC:</string>
@@ -2203,6 +2203,6 @@
 	<string name="tether_settings_title_all">Режим модема</string>
 	<string name="wifi_wapi_cert_mgmt_titlebar">Управление сертификатами WAPI</string>
 	<string name="bluetooth_only_visible_to_paired_devices">Отображать только для подключенных устройств</string>
-	<string name="preferred_launcher_title">Выбор рабочего стола</string>
+	<string name="preferred_launcher_title">Рабочий стол</string>
 	<string name="crypt_keeper_failed_title">Сбой шифрования</string>
 </resources>
