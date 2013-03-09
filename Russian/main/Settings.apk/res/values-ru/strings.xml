@@ -1027,7 +1027,7 @@
 	<string name="credentials_enabled">Хранилище регистрационных данных включено</string>
 	<string name="getConfiguredNetworks">Настройки сети</string>
 	<string name="dev_settings_warning_title">Разрешить настройки для разработчиков?</string>
-	<string name="preferred_launcher_warning_use_system">Использовать стандартный рабочий стол</string>
+	<string name="preferred_launcher_warning_use_system">Исполь. системный</string>
 	<string name="battery_sugg_radio">Если нет доступа в сеть, вкл. режим полета для экономии заряда</string>
 	<string name="bluetooth_pin_values_hint">Обычно 0000 или 1234</string>
 	<string name="power_usage_not_available">Уровень заряда неизвестен</string>
@@ -1997,7 +1997,7 @@
 	<string name="bluetooth_visibility_timeout">Тайм-аут видимости</string>
 	<string name="service_process_name">%1$s</string>
 	<string name="date_time_date_format">Формат даты</string>
-	<string name="preferred_launcher_warning_message">Замена стандартного рабочего стола, может увеличиться потребление энергии и уменьшить скорость работы телефона. Рекомендуется использовать стандартный рабочий стол.</string>
+	<string name="preferred_launcher_warning_message">После смены рабочего стола по умолчанию, может увеличиться потребление энергии и уменьшиться скорость работы телефона. Рекомендуется использовать системный рабочий стол.</string>
 	<string name="data_usage_change_cycle">Изменить…</string>
 	<string name="perm_hips_phoneid_iccid">получить серийный номер SIM карты</string>
 	<string name="internal_media_format_title">Очистить внутренний накопитель</string>
@@ -2203,6 +2203,6 @@
 	<string name="tether_settings_title_all">Режим модема</string>
 	<string name="wifi_wapi_cert_mgmt_titlebar">Управление сертификатами WAPI</string>
 	<string name="bluetooth_only_visible_to_paired_devices">Отображать только для подключенных устройств</string>
-	<string name="preferred_launcher_title">Выбор рабочего стола</string>
+	<string name="preferred_launcher_title">Рабочий стол</string>
 	<string name="crypt_keeper_failed_title">Сбой шифрования</string>
 </resources>
