@@ -1285,7 +1285,7 @@
 	<string name="frequently_fragment_tempty">Здесь отображаются часто используемые элементы</string>
 	<string name="audio_record_proc_title">Подавление шума</string>
 	<string name="wifi_menu_modify">Изменить сеть</string>
-	<string name="pref_button_light_summary">Индикаторы кнопок МЕНЮ, НАЗАД, ДОМОЙ</string>
+	<string name="pref_button_light_summary">Подсветка клавиш \"Меню\", \"Назад\", \"Домой\"</string>
 	<string name="usage_type_video">Видео</string>
 	<string name="screen_button_custom">Настройка расположения кнопок</string>
 	<string name="airplane_mode">Режим полета</string>
@@ -1457,7 +1457,7 @@
 	<string name="settings_license_activity_loading">Идет загрузка…</string>
 	<string name="sim_lock_off">При включении телефона будет необходимо ввести PIN-код</string>
 	<string name="bluetooth_turning_off">Выключение Bluetooth...</string>
-	<string name="button_light_timeout">Таймаут подсветки кнопок</string>
+	<string name="button_light_timeout">Таймаут подсветки клавиш</string>
 	<string name="wifi_dns2">DNS 2</string>
 	<string name="credentials_install_gesture_prompt">Нарисуйте шаблон разблокировки</string>
 	<string name="wifi_dns1">DNS 1</string>
@@ -1638,7 +1638,7 @@
 	<string name="pointer_location">Местоположение указателя</string>
 	<string name="perm_hips_call_number">вызов %1$s</string>
 	<string name="battery_desc_display">Использование батареи для подсветки экрана</string>
-	<string name="pref_volume_wake_summary">Нажатие клавиш изменения громкости разблокирует телефон</string>
+	<string name="pref_volume_wake_summary">Нажатие клавиш регулировки громкости в заблокированном состоянии разбудит устройство</string>
 	<string name="enable_text">Включить</string>
 	<string name="wifi_save">Сохранить</string>
 	<string name="date_time_set_time">Время</string>
@@ -2094,7 +2094,7 @@
 	<string name="bluetooth_hid_profile_summary_use_for">Использовать для ввода</string>
 	<string name="device_info_label">Сведения об устройстве</string>
 	<string name="unlock_set_unlock_mode_off">Нет</string>
-	<string name="pref_volume_wake_title">Пробуждение качелькой громкости</string>
+	<string name="pref_volume_wake_title">Пробуждать устройство</string>
 	<string name="radioInfo_data_connecting">Подключение</string>
 	<string name="bluetooth_headset_profile_summary_use_for">Использовать для аудиоустройства телефона</string>
 	<string name="radio_info_smsc_label">SMSC:</string>
