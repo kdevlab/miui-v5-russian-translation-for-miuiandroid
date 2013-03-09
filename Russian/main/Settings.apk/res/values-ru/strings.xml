@@ -1036,10 +1036,10 @@
 	<string name="credentials_reset">Очистить учетные данные</string>
 	<string name="bluetooth_disconnect_headset_profile">Устройство %1$s будет отключено от гарнитуры</string>
 	<string name="ac_privacy_mode_title">Режим гостя</string>
-	<string name="breathing_light_freq_title">Частота</string>
+	<string name="breathing_light_freq_title">" (Частота)"</string>
 	<string name="apn_mcc">MCC</string>
 	<string name="tts_default_lang_summary">Выбор языка для чтения текста</string>
-	<string name="filter_apps_cached">Кеш</string>
+	<string name="filter_apps_cached">Кэш</string>
 	<string name="wifi_other_network">Другая сеть…</string>
 	<string name="service_stop">Остановить</string>
 	<string name="radioInfo_service_in">В зоне обслуживания</string>
@@ -1974,7 +1974,7 @@
 	<string name="search_screen_timeout">экран ожидания</string>
 	<string name="bluetooth_notif_ticker">Запрос сопряжения Bluetooth</string>
 	<string name="search_sync">Синхронизация</string>
-	<string name="breathing_light_color_title">- цвет светодиода</string>
+	<string name="breathing_light_color_title">" (цвет)"</string>
 	<string name="sum_carrier_select">Выберите оператора связи</string>
 	<string name="perm_hips_phoneid_imeisn">получить IMEI/SN</string>
 	<string name="sd_format">Очистить SD-карту</string>
