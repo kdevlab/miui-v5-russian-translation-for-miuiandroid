@@ -39,7 +39,7 @@
 	<string name="bluetooth_on_time">Время работы Wi-Fi</string>
 	<string name="apn_edit">Настройки точки доступа</string>
 	<string name="keep_screen_on">Оставить включенным</string>
-	<string name="finish_application">Готово</string>
+	<string name="finish_application">Завершить</string>
 	<string name="error_mnc_not23">Поле MNC должно содержать 2 или 3 цифры</string>
 	<string name="drive_mode_auto_reply">Автоответ</string>
 	<string name="radio_info_ppp_received_label">Получено PPP:</string>
