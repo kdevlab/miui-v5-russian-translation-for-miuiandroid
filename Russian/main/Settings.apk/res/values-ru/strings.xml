@@ -627,7 +627,7 @@
 	<string name="sdcard_settings_not_present_status">Нет SD-карты</string>
 	<string name="ime_security_warning">При использовании этого способа могут собираться все вводимые данные, в том числе пароли и номера кредитных карт. Способ ввода запрашиваетя приложением \"%1$s\". Использовать этот способ ввода?</string>
 	<string name="bluetooth_pan_user_profile_summary_connected">Используется интернет-подключение другого устройства</string>
-	<string name="volume_ring_description">Мелодия и уведомление</string>
+	<string name="volume_ring_description">Мелодия и уведомления</string>
 	<string name="filter_dlg_title">Выберите параметры фильтра</string>
 	<string name="error_mcc_not3">Поле MCC должно содержать 3 цифры</string>
 	<string name="wifi_wapi_cert_mgmt_as_name_is_empty">Введите имя сертификата</string>
@@ -678,7 +678,7 @@
 	<string name="lockpassword_pin_contains_non_digits">ПИН-код должен состоять только из цифр от 0 до 9</string>
 	<string name="misc_files_selected_count">выбрано %1$d из %2$d</string>
 	<string name="virus_scanner_select_single">Выберите наиболее надежную антивирусную базу</string>
-	<string name="screen_on_proximity_sensor_title">Режим предотвращения ошибок</string>
+	<string name="screen_on_proximity_sensor_title">Предотвращение ошибок</string>
 	<string name="data_usage_app_restrict_dialog_title">Ограничение фонового режима</string>
 	<string name="sms_delivered_sound_dialog_title">Выберите звук для уведомления о доставке сообщения</string>
 	<string name="location_neighborhood_level">Использовать Wi-Fi и мобильные сети для определения местоположения</string>
@@ -2200,4 +2200,9 @@
 	<string name="wifi_wapi_cert_mgmt_titlebar">Управление сертификатами WAPI</string>
 	<string name="bluetooth_only_visible_to_paired_devices">Отображать только для подключенных устройств</string>
 	<string name="crypt_keeper_failed_title">Сбой шифрования</string>
+	<string name="preferred_launcher_title">Выбор рабочего стола</string>
+    	<string name="preferred_launcher_warning_title">Замена рабочего стола</string>
+    	<string name="preferred_launcher_warning_message">Замена стандартного рабочего стола, может увеличиться потребление энергии и уменьшить скорость работы телефона. Рекомендуется использовать стандартный рабочий стол.</string>
+    	<string name="preferred_launcher_warning_replace">Заменить</string>
+    	<string name="preferred_launcher_warning_use_system">Использовать стандартный рабочий стол</string>
 </resources>
