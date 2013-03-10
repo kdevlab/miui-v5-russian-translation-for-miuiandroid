@@ -9,9 +9,8 @@
 	<string name="record_fail">Запись не удалась</string>
 	<string name="access_sd_fail">"Нет доступа к карте памяти."</string>
 	<string name="test_prompt">Выберите тест</string>
-	<string name="menu_sleep_cancel">Выход из сна</string>
 	<string name="frequency_already_exist">Радиочастота уже существует</string>
-	<string name="menu_new_station">Доб. новую станцию</string>
+	<string name="menu_new_station">Добавить новую станцию</string>
 	<string name="msg_scanning_pty">Сканирование %s</string>
 	<string name="msg_callactive">FM трансмиттер не поддерживается, когда активен голосовой вызов</string>
 	<string name="stat_notif_tx_frequency">FM Трансляция: %1$s</string>
@@ -82,7 +81,7 @@
 	<string name="alert_title_delete">Удалить</string>
 	<string name="audio_type_stereo">Стерео</string>
 	<string name="edit_station">Редактировать</string>
-	<string name="alert_title_save_station">Сохранить станцию - %s</string>
+	<string name="alert_title_save_station">Сохранить станцию</string>
 	<string name="status_recording">%s</string>
 	<string name="alert_message_delete_station">Вы уверены, что хотите удалить станцию?</string>
 	<string name="menu_scan_start">Сканирование</string>
@@ -122,4 +121,16 @@
 	<string name="FMRecording_reach_storage_threshold">Запись остановлена. На карте памяти мало места.</string>
 	<string name="fmradio_start_error">Ошибка включения радио</string>
 	<string name="fmradio_no_headset_at_begin">Пожалуйста, подключите наушники, они используются в качестве антенны.</string>
+	<string name="fmradio_scan_begin_msg">Сканирование радиостанций</string>
+	<string name="menu_scan">Сканировать</string>
+	<string name="scan">Сканирование</string>
+	<string name="cancel">Отмена</string>
+    	<string name="cancel_sleep_mode">Отключить спящий режим</string>
+    	<string name="select_quit_time">Установите интервал до отключения (в минутах)</string>
+    	<string name="sleep_mode">Спящий режим</string>
+    	<string name="default_time">30 мин.</string>
+    	<string name="popup_time">%d мин.</string>
+    	<string name="quit_warining">Радио отключится через %d мин.<string>
+    	<string name="alert_title_input_station">Введите частоту радиостанции</string>
+    	<string name="hint_station_name">Введите частоту радиостанции</string>
 </resources>
