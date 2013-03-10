@@ -1,5 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="Ntracks_search_result_format">
+        <item quantity="other">Найдено треков: %d</item>
+        <item quantity="one">%d трек найден</item>
+    </plurals>
+    <plurals name="Ntracks_total">
+        <item quantity="other">%d треков</item>
+        <item quantity="one">%d трек</item>
+    </plurals>
+    <plurals name="Ntracks_string">
+        <item quantity="other">%d треков</item>
+        <item quantity="one">%d трек</item>
+    </plurals>
     <plurals name="Ntracks_format">
         <item quantity="other">треков: %d</item>
         <item quantity="one">1 трек</item>
