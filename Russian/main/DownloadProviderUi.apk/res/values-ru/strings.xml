@@ -7,7 +7,7 @@
 	<string name="dialog_insufficient_space_on_external">Не могу закончить загрузку. Существует нет места на внешних накопителях.</string>
 	<string name="download_info_count_deleted_tasks">Список загрузок успешно очищен</string>
 	<string name="dialog_title_not_available">Ошибка загрузки</string>
-	<string name="disable_download_only_in_wifi_title">Отключить “Загрузку только через Wi-Fi”</string>
+	<string name="disable_download_only_in_wifi_title">Отключить загрузку только по Wi-Fi</string>
 	<string name="pref_title_enable_max_bytes_popup">Предупредить о лимите</string>
 	<string name="download_success">Завершен</string>
 	<string name="download_no_application_title">Не могу открыть файл</string>
@@ -17,7 +17,7 @@
 	<string name="retry_after_network_available">Повторите, когда сеть будет доступна</string>
 	<string name="select_operation_items">Пожалуйста выберите</string>
 	<string name="download_title_sorted_by_date">Загрузки – по дате</string>
-	<string name="confirm_disable_download_only_in_wifi_message">Выключение Загружать только по Wi-Fi может вызвать сильное потребление трафика через мобильную сеть. Вы уверены, что хотите выключить это?</string>
+	<string name="confirm_disable_download_only_in_wifi_message">Выключение этой функции может вызвать сильное потребление трафика через мобильную сеть. Вы уверены, что хотите выключить?</string>
 	<string name="keep_queued_download">Оставить</string>
 	<string name="menu_enter_edit_mode">Редактировать</string>
 	<string name="download_queued">В очереди</string>
@@ -70,7 +70,7 @@
 	<string name="preferences_title">Настройки</string>
 	<string name="download_share_dialog">Отправить по</string>
 	<string name="delete_downloads_records">Удалить все загрузки</string>
-	<string name="download_when_network_connected">Использовать мобильную сеть</string>
+	<string name="download_when_network_connected">Будет использоваться также мобильная сеть</string>
 	<string name="delete_the_downloaded_file">Удалить загруженные файлы</string>
 	<string name="resume_download">Далее</string>
 </resources>
