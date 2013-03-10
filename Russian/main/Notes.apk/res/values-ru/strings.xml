@@ -46,13 +46,13 @@
 	<string name="attachment_gallery">Галерея</string>
 	<string name="format_exported_file_location">Заметки экспортированы в файл /%1$s/ в папке %2$s на SD-карте</string>
 	<string name="button_new_note">Новая заметка</string>
-	<string name="menu_discard">Сброс</string>
+	<string name="menu_discard">Отменить все действия</string>
 	<string name="folder_exist">Папка %1$s уже существует, введите другое имя</string>
 	<string name="app_name">Заметки</string>
 	<string name="not_now">Не сейчас</string>
 	<string name="pref_desc_mode_list">Список</string>
 	<string name="pref_desc_mode_grid">Таблица</string>
-	<string name="alert_message_delete_folders">Вы уверены, что хотите удалить выбранные (%1$s) папки?</string>
+	<string name="alert_message_delete_folders">Вы уверены, что хотите удалить выбранные папки (%1$s)?</string>
 	<string name="pref_title_data_export_to_sdcard">Экспортировать на SD-карту</string>
 	<string name="login_sync">Вход и синхронизация</string>
 	<string name="alert_message_delete_folders_notes">Вы уверены, что хотите удалить выбранные (%1$s) папки и (%2$s) заметки?</string>
