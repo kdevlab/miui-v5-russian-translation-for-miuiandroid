@@ -418,7 +418,7 @@
 	<string name="month_of_january">Янв</string>
 	<string name="screen_button_notification_title">Кнопки на дисплее отключены</string>
 	<string name="unknown_caller">Неизвестный абонент</string>
-	<string name="wake_alarm_message">Отключать будильник через %s звонков</string>
+	<string name="wake_alarm_message">Будильник зазвонит\n%s</string>
 	<string name="alarm_message_12_hour_formate">h:mm aa</string>
 	<string name="winter_begins">Зима</string>
 	<string name="reverse_all">Очистить выделение</string>

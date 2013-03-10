@@ -60,7 +60,7 @@
 	<string name="preference_title_camera_sync_version">Загрузка с телефона</string>
 	<string name="account_settings_edit_quick_responses_label">Быстрые ответы</string>
 	<string name="mailbox_settings_action">Параметры синхронизации</string>
-	<string name="read_action">Отметить как прочитанное</string>
+	<string name="read_action">Прочитано</string>
 	<string name="permission_read_attachment_desc">Приложение получит доступ к прикрепленным файлам в сообщениях эл. почты</string>
 	<string name="notify_paused">Загрузки приостановлены</string>
 	<string name="toast_intent_error">Не удалось начать загрузку</string>
@@ -126,7 +126,7 @@
 	<string name="account_setup_exchange_title">Настройка аккаунта</string>
 	<string name="account_setup_failed_dlg_auth_message_fmt">Неверное имя пользователя или пароль.\n%s</string>
 	<string name="dialog_sync_all_found_none">Дополнительных фотографий или видеороликов не найдено</string>
-	<string name="mark_as_unread_action">Прочитано</string>
+	<string name="mark_as_unread_action">Не прочитано</string>
 	<string name="account_settings_notify_label">Уведомления</string>
 	<string name="picker_combined_view_fmt">Комбинированный вид (%s)</string>
 	<string name="account_settings_vibrate_when_label">Вибрация</string>
@@ -481,7 +481,7 @@
 	<string name="account_settings_sync_calendar_enable">Синхронизировать календарь</string>
 	<string name="account_settings_login_dialog_title">Не удалось войти в аккаунт</string>
 	<string name="message_view_parse_message_toast">Сообщение открывается…</string>
-	<string name="unread_action">Прочитано</string>
+	<string name="unread_action">Не прочитано</string>
 	<string name="account_settings_sync_calendar_summary">Синхронизировать календарь этого аккаунта</string>
 	<string name="manager_sync_all">Синхронизировать все</string>
 	<string name="preference_title_photos_account">Аккаунт</string>
