@@ -40,7 +40,7 @@
 	<string name="menu_stats">Статус FM RF</string>
 	<string name="test_run">Запустить тест</string>
 	<string name="station_freq_format">%sMHz</string>
-	<string name="hint_station_name">Ввести название станции</string>
+	<string name="hint_station_name">Введите название станции</string>
 	<string name="menu_record_stop">Остановить запись</string>
 	<string name="search_dialog_title">Сканировать станции</string>
 	<string name="auto_select_af">Альтернативная частота</string>
@@ -133,4 +133,7 @@
     	<string name="quit_warining">Радио отключится через %d мин.<string>
     	<string name="alert_title_input_station">Введите частоту радиостанции</string>
     	<string name="hint_station_name">Введите частоту радиостанции</string>
+    	<string name="menu_jump">Перейти к станции</string>
+    	<string name="menu_exit">Выход</string>
+    	<string name="exit">Выход</string>
 </resources>
