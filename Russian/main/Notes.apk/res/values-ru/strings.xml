@@ -32,7 +32,7 @@
 	<string name="preferences_bg_random_appear_title">Случайный цвет</string>
 	<string name="menu_title_select_folder">Выберите папку</string>
 	<string name="pref_title_data_export">Экспорт заметок</string>
-	<string name="select_account_prompt">Включена синхронизация заметок</string>
+	<string name="select_account_prompt">Синхронизация заметок</string>
 	<string name="format_folder_files_count">" (%d)"</string>
 	<string name="alert_message_discard_changes">Отменить все действия?</string>
 	<string name="hint_foler_name">Введите имя</string>
@@ -77,4 +77,5 @@
 	<string name="preferences_title">Настройки</string>
 	<string name="failed_sdcard_export">Экспорт прерван!</string>
 	<string name="menu_delete">Удалить</string>
+	<string name="close">Закрыть</string>
 </resources>
