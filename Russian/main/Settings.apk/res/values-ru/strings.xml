@@ -22,7 +22,7 @@
 	<string name="wallpaper_settings_title">Настройки обоев</string>
 	<string name="recompute_size">Повторное вычисление размера...</string>
 	<string name="spellchecker_language">Язык</string>
-	<string name="auto_startup_application_manage">Управление автозапуском приложений</string>
+	<string name="auto_startup_application_manage">Автозапуск приложений</string>
 	<string name="battery_info_label">Информация о батарее</string>
 	<string name="credentials_reset_hint">Удалить все содержимое?</string>
 	<string name="date_time_24hour">24-часовой формат</string>
@@ -769,7 +769,7 @@
 	<string name="process_mediaserver_label">Сервер медиа</string>
 	<string name="perm_hips">Управление правами</string>
 	<string name="battery_info_level_label">Уровень заряда:</string>
-	<string name="perm_auto_start">Управление автозагрузкой</string>
+	<string name="perm_auto_start">Автозапуск</string>
 	<string name="unlock_set_unlock_pattern_summary">Средний уровень защиты</string>
 	<string name="wifi_update">Обновить</string>
 	<string name="applications_settings_summary">Управление приложениями, настройка клавиш быстрого запуска</string>
@@ -1746,7 +1746,7 @@
 	<string name="wifi_wapi_cert_mgmt_subdir_name_is_empty">Введите имя папки, которую хотите создать!</string>
 	<string name="wifi_error">Ошибка</string>
 	<string name="perm_hips_send_sms_smsc_default">СМС-центр по умолчанию</string>
-	<string name="perm_app_name">Менеджер разрешений</string>
+	<string name="perm_app_name">Безопасность</string>
 	<string name="unlock_set_enter_system">Отключить локскрин</string>
 	<string name="apn_mms_proxy">Прокси-сервер MMS</string>
 	<string name="status_data_state">Передача данных в моб. сети</string>
