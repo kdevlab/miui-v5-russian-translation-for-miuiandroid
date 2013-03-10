@@ -44,7 +44,7 @@
 	<string name="format_move_notes_to_folder">Заметки %1$d перемещены в %2$s</string>
 	<string name="error_sdcard_export">Экспорт не удался, проверьте SD-карту!</string>
 	<string name="attachment_gallery">Галерея</string>
-	<string name="format_exported_file_location">Заметка сохранена в файл /%1$s/ в папке %2$s на SD-карте</string>
+	<string name="format_exported_file_location">Заметки экспортированы в файл /%1$s/ в папке %2$s на SD-карте</string>
 	<string name="button_new_note">Новая заметка</string>
 	<string name="menu_discard">Сброс</string>
 	<string name="folder_exist">Папка %1$s уже существует, введите другое имя</string>
@@ -53,7 +53,7 @@
 	<string name="pref_desc_mode_list">Список</string>
 	<string name="pref_desc_mode_grid">Таблица</string>
 	<string name="alert_message_delete_folders">Вы уверены, что хотите удалить выбранные (%1$s) папки?</string>
-	<string name="pref_title_data_export_to_sdcard">Экспортировать записку на SD-карту</string>
+	<string name="pref_title_data_export_to_sdcard">Экспортировать на SD-карту</string>
 	<string name="login_sync">Вход и синхронизация</string>
 	<string name="alert_message_delete_folders_notes">Вы уверены, что хотите удалить выбранные (%1$s) папки и (%2$s) заметки?</string>
 	<string name="notelist_menu_new">Новая заметка</string>
