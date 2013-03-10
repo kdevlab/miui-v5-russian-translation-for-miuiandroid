@@ -8,6 +8,7 @@
 	<string name="note_link_tel">Позвонить</string>
 	<string name="call_record_folder_name">Вызов заметки</string>
 	<string name="widget_havenot_content">Нет заметок, нажмите сюда, чтобы создать заметку</string>
+	<string name="close">Close</string>
 	<string name="snippet_image_template">[%1$s]</string>
 	<string name="attachment_camera">Камера</string>
 	<string name="note_link_web">Открыть браузер</string>
@@ -16,6 +17,7 @@
 	<string name="alert_edit_action_delete">Удалить</string>
 	<string name="note_link_email">Отправить E-mail</string>
 	<string name="menu_folder_change_name">Переименовать</string>
+	<string name="alert_message_exceed_image_limit">Every note only can been attached 15 pictures, you can make a new one to attach your pictures</string>
 	<string name="time_picker_dialog_title">Установка времени напоминания</string>
 	<string name="alert_title_delete">Удаление заметок</string>
 	<string name="enable_sync">Синхронизация</string>
@@ -65,6 +67,7 @@
 	<string name="search_label">Поиск заметок</string>
 	<string name="menu_move_parent_folder">Назад</string>
 	<string name="search_setting_description">Текст в заметках</string>
+	<string name="alert_title_exceed_image_limit">Reached the limit the number of pictures per-note</string>
 	<string name="error_sdcard_unmounted">Экспорт не удался, т.к. SD-карта недоступна!</string>
 	<string name="note_link_select">Выделить текст</string>
 	<string name="note_alert_expired">Просрочено</string>
