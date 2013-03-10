@@ -27,12 +27,12 @@
 	<string name="pi">π</string>
 	<string name="tan">tan</string>
 	<string name="ln">ln</string>
-	<string name="div">÷</string>
+	<string name="div">/</string>
 	<string name="powerDesc">power</string>
 	<string name="app_name">Калькулятор</string>
 	<string name="sin_mathematical_value">sin</string>
-	<string name="eDesc">"Euler's number"</string>
-	<string name="clear">CLR</string>
+	<string name="eDesc">"Число Эйлера</string>
+	<string name="clear">C</string>
 	<string name="digit6">6</string>
 	<string name="digit5">5</string>
 	<string name="digit8">8</string>
@@ -54,17 +54,17 @@
 	<string name="standard">standard</string>
 	<string name="leftParenDesc">left parenthesis</string>
 	<string name="sqrt">√</string>
-	<string name="factorialDesc">factorial</string>
+	<string name="factorialDesc">Факториал</string>
 	<string name="equal">=</string>
-	<string name="mul">×</string>
+	<string name="mul">*</string>
 	<string name="sqrtDesc">square root</string>
 	<string name="clearDesc">clear</string>
 	<string name="sin">sin</string>
 	<string name="tan_mathematical_value">tan</string>
-	<string name="scientific">scientific</string>
-	<string name="lnDesc">natural logarithm</string>
-	<string name="lgDesc">logarithm</string>
+	<string name="scientific">Научный</string>
+	<string name="lnDesc">Натуральный логарифм</string>
+	<string name="lgDesc">Логарифм</string>
 	<string name="ln_mathematical_value">ln</string>
 	<string name="factorial">!</string>
-	<string name="minusDesc">minus</string>
+	<string name="minusDesc">Минус</string>
 </resources>
