@@ -6,7 +6,7 @@
 	<string name="status_bpp_sucess">Печать успешно завершена</string>
 	<string name="bluetooth_share_file_name">bluetooth_content_share</string>
 	<string name="defaultname">Автомобильный комплект</string>
-	<string name="notification_received">Передача по Bluetooth: файл %1$s получен</string>
+	<string name="notification_received">Bluetooth: файл %1$s получен</string>
 	<string name="permlab_bluetoothWhitelist">Белый список доступа устройства Bluetooth</string>
 	<string name="status_bpp_output_area_full">Печать не удалось из-за полной выходной области</string>
 	<string name="auth_notif_message">Введите ключ сеанса для %1$s</string>
@@ -15,7 +15,7 @@
 	<string name="pbap_session_key_dialog_title">Введите ключ сеанса для %1$s</string>
 	<string name="status_bpp_canceled_by_user">Печать была отменена пользователем</string>
 	<string name="bt_share_picker_label">Bluetooth</string>
-	<string name="status_pending">Передача файла еще не началась.</string>
+	<string name="status_pending">Передача файла еще не удалась.</string>
 	<string name="airplane_error_title">Режим полета</string>
 	<string name="upload_line1">Куда: \"%1$s\"</string>
 	<string name="status_bpp_marker_supply_empty">Ошибка печати из-за пустого маркера</string>
@@ -41,11 +41,11 @@
 	<string name="btopp_live_folder">Получено по Bluetooth</string>
 	<string name="bpp_main">Bluetooth печать</string>
 	<string name="update_record">Подтвердить запись</string>
-	<string name="notification_sent">Передача по Bluetooth: файл %1$s отправлен</string>
+	<string name="notification_sent">Bluetooth: файл %1$s отправлен</string>
 	<string name="app_name_bpp">Bluetooth BPP</string>
 	<string name="bt_enable_cancel">Отмена</string>
 	<string name="bpp_setting_text">Настройка</string>
-	<string name="incoming_file_confirm_Notification_title">Передача по Bluetooth: входящий файл</string>
+	<string name="incoming_file_confirm_Notification_title">Bluetooth: входящий файл</string>
 	<string name="status_bpp_media_empty">Печать не удалось из-за отсутствия медиа</string>
 	<string name="incoming_file_confirm_timeout_ok">ОК</string>
 	<string name="incoming_file_toast_msg">Входящий файл с другого устройства. Подтвердите, что хотите загрузить его.</string>
@@ -61,7 +61,7 @@
 	<string name="download_fail_ok">ОК</string>
 	<string name="map_notif_title">Требуется ключ сессии для MAP</string>
 	<string name="status_bpp_refused_by_printer">Печать не удалось из-за отказа принтера</string>
-	<string name="notification_sent_fail">Передача по Bluetooth: файл %1$s не отправлен</string>
+	<string name="notification_sent_fail">Bluetooth: файл %1$s не отправлен</string>
 	<string name="incoming_file_confirm_ok">Принять</string>
 	<string name="no_transfers">Нет данных</string>
 	<string name="unknown_device">Неизвестное устройство</string>
@@ -114,11 +114,11 @@
 	<string name="upload_fail_line1">Файл не был отправлен на устройство \"%1$s\"</string>
 	<string name="upload_fail_line1_2">Файл: %1$s</string>
 	<string name="status_bpp_cancelled_by_printer">Ошибка печати из-за отмены принтером</string>
-	<string name="notification_sending">Передача по Bluetooth: отправка файла %1$s</string>
+	<string name="notification_sending">Bluetooth: отправка файла %1$s</string>
 	<string name="status_protocol_error">Невозможно правильно обработать запрос</string>
 	<string name="ftp_notif_message">Разрешить доступ к корневой папке %1$s</string>
 	<string name="status_bpp_output_area_almost_full">Печать не удалось, т.к. выходная область почти полная</string>
-	<string name="notification_received_fail">Передача по Bluetooth: файл %1$s не получен</string>
+	<string name="notification_received_fail">Bluetooth: файл %1$s не получен</string>
 	<string name="ftp_acceptance_timeout_message">Время вышло, чтобы ввести ключ сессии с %1$s</string>
 	<string name="transfer_clear_dlg_msg">Все элементы будут удалены из списка</string>
 	<string name="status_bpp_door_open">Ошибка печати из-за открытой крышки</string>
@@ -133,7 +133,7 @@
 	<string name="upload_succ_ok">ОК</string>
 	<string name="ftp_acceptance_dialog_header">Доступ к папкам телефона</string>
 	<string name="permdesc_bluetoothWhitelist">Разрешает приложениям временный дуступ к белому списоку Bluetooth устройства. Позволяет устройствам отправлять файлы без подтверждения пользователя.</string>
-	<string name="notification_receiving">Передача по Bluetooth: получение файла %1$s</string>
+	<string name="notification_receiving">Bluetooth: получение файла %1$s</string>
 	<string name="unknownNumber">Неизвестно</string>
 	<string name="map_session_key_dialog_title">Введите ключ сессии для %1$s</string>
 	<string name="bpp_authentication_timeout_message">Тайм-аут ввода ключа сессии %1$s</string>
