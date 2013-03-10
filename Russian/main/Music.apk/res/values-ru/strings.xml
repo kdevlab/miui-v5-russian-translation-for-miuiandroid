@@ -77,7 +77,7 @@
 	<string name="load_channel_failed">Ошибка загрузки, попробуйте еще раз</string>
 	<string name="empty_edit_hint">Информация о треке недоступна</string>
 	<string name="load_audio_failed">Ошибка загрузки, попробуйте еще раз</string>
-	<string name="cancle_warining">Режим сна отменен</string>
+	<string name="cancle_warining">Оключить спящий режим</string>
 	<string name="lyric_download">Загрузить текст песни</string>
 	<string name="correct_id3_by_internet">Автокорректировка ID3 через интернет</string>
 	<string name="download_processing">Загрузка</string>
@@ -177,7 +177,7 @@
 	<string name="filter_by_duration_format">%2$d мин %5$2d сек</string>
 	<string name="playlist_recently_played">Недавно проигранные</string>
 	<string name="select_all">Все</string>
-	<string name="enter_sleep_mode">Режим сна</string>
+	<string name="enter_sleep_mode">Спящий режим</string>
 	<string name="shake_while_screen_on_title">Переключать при активном экране</string>
 	<string name="download_all_track">Скачать все треки</string>
 	<string name="refresh_finish">Обновление завершено</string>
