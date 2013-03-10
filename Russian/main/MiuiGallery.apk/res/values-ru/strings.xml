@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--Merged with KDG BigBlackBox-->
 <resources>
-	<string name="settings_i_xiaomi_com">Войдите на сайт i.xiaomi.com, чтобы просмотреть ваши синхронизированные изображения в интернете</string>
+	<string name="settings_i_xiaomi_com">Войдите на сайт i.xiaomi.com, чтобы просмотреть ваши синхронизированные изображения на компьютере</string>
 	<string name="temperature">Тепло</string>
 	<string name="saving_failure">Не удалось сохранить фото</string>
 	<string name="rotate_tooltip">Чтобы повернуть фото, перетащите его край</string>
@@ -42,7 +42,7 @@
 	<string name="details_hms">%1$d:%2$02d:%3$02d</string>
 	<string name="camera_setas_wallpaper">Обои</string>
 	<string name="cloud_tab_all">Все</string>
-	<string name="slideshow_interval_dialog_title">Промежуток времени более 0 секунд</string>
+	<string name="slideshow_interval_dialog_title">Интервал слайд-шоу (в секундах)</string>
 	<string name="set_wallpaper">Рабочий стол</string>
 	<string name="times">Даты</string>
 	<string name="locations">Места</string>
@@ -69,12 +69,12 @@
 	<string name="camera_view_none_message">Фотографии будут отображаться здесь</string>
 	<string name="frame_movie">Фильм</string>
 	<string name="save_error">Изображение не сохранено</string>
-	<string name="input_cloudfolder_name">Имя облачной папки</string>
+	<string name="input_cloudfolder_name">Название облачного альбома</string>
 	<string name="set_lock_and_wallpaper">Установка обоев...</string>
 	<string name="settings">Настройки</string>
 	<string name="cancel">Отмена</string>
 	<string name="straighten_tooltip">Чтобы выровнять фото, перетащите его</string>
-	<string name="cloudfolder_already_exists">Папка уже существует</string>
+	<string name="cloudfolder_already_exists">Альбом уже существует</string>
 	<string name="crop">Кадрировать</string>
 	<string name="error_should_not_select_video">Внимание: пожалуйста, не выбирайте видео файл</string>
 	<string name="close">Закрыть</string>
@@ -101,7 +101,7 @@
 	<string name="show_on_map">Показать на карте</string>
 	<string name="size_between">%1$s – %2$s</string>
 	<string name="cleaning_cache">Очистка кэша...</string>
-	<string name="menu_item_sort_name_desc">По имени (Я-А)</string>
+	<string name="menu_item_sort_name_desc">По имени (по возрастанию)</string>
 	<string name="flash_off">Без вспышки</string>
 	<string name="remove_recent_album">Удалить из последних альбомов</string>
 	<string name="camera_folder_display_name">Фотографии с камеры</string>
@@ -116,7 +116,7 @@
 	<string name="must_pick_file">Выберите изображение</string>
 	<string name="miliao_saved_folder_display_name">Сохраненные MiTalk</string>
 	<string name="app_name">Галерея</string>
-	<string name="menu_item_sort_visit_asc">По частоте (A-Я)</string>
+	<string name="menu_item_sort_visit_asc">По частоте (по убыванию)</string>
 	<string name="widget_type_album">Выбрать альбом</string>
 	<string name="set_recent_album">Сделать новый альбом</string>
 	<string name="select_album">Выбрать альбомы</string>
@@ -130,7 +130,7 @@
 	<string name="maker">Устройство</string>
 	<string name="edit">Изменить</string>
 	<string name="cloud_tab_albums">Альбомы</string>
-	<string name="menu_item_sort_size_desc">По размеру (Я-A)</string>
+	<string name="menu_item_sort_size_desc">По размеру (по возрастанию)</string>
 	<string name="contact_photo">Фото контакта</string>
 	<string name="sync_only_in_wifi">Только Wi-Fi</string>
 	<string name="frame_semicircle">Полукруг</string>
@@ -140,7 +140,7 @@
 	<string name="cloud_camera_display_name">Не отсортированные</string>
 	<string name="crop_save_text">Сохранить</string>
 	<string name="grain">Зернистость</string>
-	<string name="menu_item_sort_name_asc">По имени (A-Я)</string>
+	<string name="menu_item_sort_name_asc">По имени (по убыванию)</string>
 	<string name="alert_message_initial_cloud">Система будет автоматически загружать старые и новые фотографии и скриншоты только тогда, когда есть Wi-Fi соединение</string>
 	<string name="photo_page_save_uri_image_ok">Изображение сохранено в директорию фотокамеры</string>
 	<string name="open_single_image_failure">Ошибка загрузки изображения!</string>
@@ -170,9 +170,9 @@
 	<string name="confirm_delete_pictures">%s фотографий</string>
 	<string name="alert">Внимание</string>
 	<string name="done">Готово</string>
-	<string name="menu_item_sort_date_desc">По дате (Я-A)</string>
+	<string name="menu_item_sort_date_desc">По дате (по возрастанию)</string>
 	<string name="lomoish">Ломо</string>
-	<string name="confirm_delete_album" formatted="false">Вы уверены, что хотите удалить альбомы (%s) (включая %s штук)?</string>
+	<string name="confirm_delete_album" formatted="false">Вы уверены, что хотите удалить выбранные альбомы (%s), включая %s фото?</string>
 	<string name="import_fail">Сбой импорта</string>
 	<string name="miliao_painting_folder_display_name">Рисунок MiTalk</string>
 	<string name="appwidget_title">Фотогалерея</string>
@@ -237,11 +237,11 @@
 	<string name="mimetype">Тип MIME</string>
 	<string name="more">Еще</string>
 	<string name="cloud_gallery_space_full">Ошибка отправки - облачное хранилище заполнено</string>
-	<string name="menu_item_sort_date_asc">По дате (A-Я)</string>
-	<string name="not_show_hidden_albums">Не показывать скрытый альбом(ы)</string>
-	<string name="create_new_cloud_folder">Создать новую облачную папку</string>
+	<string name="menu_item_sort_date_asc">По дате (по убыванию)</string>
+	<string name="not_show_hidden_albums">Не показывать скрытые альбомы</string>
+	<string name="create_new_cloud_folder">Создать новый облачный альбом</string>
 	<string name="operation_refresh">Обновить</string>
-	<string name="menu_item_sort_visit_desc">По частоте (Я-A)</string>
+	<string name="menu_item_sort_visit_desc">По частоте (по возрастанию)</string>
 	<string name="set_label_local_albums">Офлайн-альбомы</string>
 	<string name="facelift">Сияние</string>
 	<string name="frame_black">Черный</string>
@@ -256,7 +256,7 @@
 	<string name="import_complete">Импорт завершен</string>
 	<string name="redeye">Красные глаза</string>
 	<string name="internal_camera_folder_display_name">Фото в памяти телефона</string>
-	<string name="menu_item_sort_size_asc">По размеру (А-Я)</string>
+	<string name="menu_item_sort_size_asc">По размеру (по убыванию)</string>
 	<string name="global_setting">Настройки</string>
 	<string name="initial_cloud_text">В любое время и в любом месте вы можете просматривать Ваши изображения на облачном альбоме</string>
 	<string name="details">Сведения</string>
