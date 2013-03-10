@@ -33,7 +33,7 @@
 	<string name="alarm_notify_snooze_label">%s Будильник отложен</string>
 	<string name="lap_num">Круг</string>
 	<string name="alarm_ascending_mode_summary">Нарастание громкости будильника до установленной</string>
-	<string name="revert">Стоп</string>
+	<string name="revert">Отмена</string>
 	<string name="control_set_alarm">Установить будильник</string>
 	<string name="snooze_confirm_message">Будильник отложен на %s. Вы можете выключить этот будильник.</string>
 	<string name="app_label">Часы</string>
@@ -68,7 +68,7 @@
 	<string name="settings">Настройки</string>
 	<string name="clock_instructions">Выберите часы</string>
 	<string name="day_concat">", "</string>
-	<string name="cancel">Отмена</string>
+	<string name="cancel">Стоп</string>
 	<string name="snooze_confirm_cancel">Выключить</string>
 	<string name="start_up">Старт</string>
 	<string name="delete_timezone_title">Удалить часовой пояс</string>

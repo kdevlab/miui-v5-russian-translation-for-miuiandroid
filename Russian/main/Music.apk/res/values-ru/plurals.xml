@@ -1,8 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="Ntracks_search_result_format">
+        <item quantity="other">Найдено треков: %d</item>
+        <item quantity="one">%d трек найден</item>
+    </plurals>
+    <plurals name="Ntracks_total">
+        <item quantity="other">%d треков</item>
+        <item quantity="one">%d трек</item>
+    </plurals>
+    <plurals name="Ntracks_string">
+        <item quantity="other">%d треков</item>
+        <item quantity="one">%d трек</item>
+    </plurals>
     <plurals name="Ntracks_format">
-        <item quantity="other">песен: %d</item>
-        <item quantity="one">1 песня</item>
+        <item quantity="other">треков: %d</item>
+        <item quantity="one">1 трек</item>
     </plurals>
     <plurals name="Nalbums_format">
         <item quantity="other">альбомов: %d</item>
@@ -29,8 +41,8 @@
         <item quantity="one">" папка"</item>
     </plurals>
     <plurals name="Ntracks_batch_selection">
-        <item quantity="other">Выбрано песен: %d</item>
-        <item quantity="one">Выбрана %d песня</item>
+        <item quantity="other">Выбрано треков: %d</item>
+        <item quantity="one">Выбран %d трек</item>
     </plurals>
     <plurals name="Nalbums_batch_selection">
         <item quantity="other">Выбрано альбомов: %d</item>
@@ -49,16 +61,16 @@
         <item quantity="one">Выбран %d плейлист</item>
     </plurals>
     <plurals name="Ntrack_in_sdcard_format">
-        <item quantity="other">Песен на SD-карте: %d</item>
-        <item quantity="one">1 песня на SD-карте</item>
+        <item quantity="other">Треков на SD-карте: %d</item>
+        <item quantity="one">1 трек на SD-карте</item>
     </plurals>
     <plurals name="NNNtrackstoplaylist">
-        <item quantity="other">%d песен добавлены в плейлист</item>
-        <item quantity="one">Песня добавлена в плейлист</item>
+        <item quantity="other">%d треков добавлено в плейлист</item>
+        <item quantity="one">Трек добавлен в плейлист</item>
     </plurals>
     <plurals name="NNNtrackstofavoriteplaylist">
-        <item quantity="other">%d песен добавлены в плейлист</item>
-        <item quantity="one">Песня добавлена в плейлист</item>
+        <item quantity="other">%d треков добавлено в избранное</item>
+        <item quantity="one">Трек добавлен в избранное</item>
     </plurals>
     <plurals name="Nonlinecategory">
         <item quantity="other">" категорий"</item>
@@ -69,11 +81,11 @@
         <item quantity="one">%1$s, %2$d песня</item>
     </plurals>
     <plurals name="NNNtracksdeleted">
-        <item quantity="other">%d песен были удалены</item>
-        <item quantity="one">Песня была удалена</item>
+        <item quantity="other">%d треков удалено</item>
+        <item quantity="one">Трек удален</item>
     </plurals>
     <plurals name="Nnowplaying">
-        <item quantity="other">песен проигрываются</item>
-        <item quantity="one">песня проигрывается</item>
+        <item quantity="other">треков проигрывается</item>
+        <item quantity="one">трек проигрывается</item>
     </plurals>
 </resources>

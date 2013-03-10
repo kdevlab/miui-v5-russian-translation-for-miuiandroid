@@ -3,7 +3,7 @@
 <resources>
 	<string name="artists_title">"Исполнители "</string>
 	<string name="equalizer_delete">Сбросить</string>
-	<string name="correct_id3_settings">Автокорректировка ID3</string>
+	<string name="correct_id3_settings">Корректировка ID3</string>
 	<string name="edit_playlist_menu">Редактировать</string>
 	<string name="impunity_declaration_title">Примечание</string>
 	<string name="online_music">Онлайн музыка</string>
@@ -25,7 +25,7 @@
 	<string name="download_all_album">Загрузить все обложки</string>
 	<string name="refresh_media_db">Обновить</string>
 	<string name="load_bill_failed">Ошибка загрузки, попробуйте еще раз</string>
-	<string name="play_all">Воспр. все</string>
+	<string name="play_all">Воспроизвести все</string>
 	<string name="album_select">Пожалуйста, выберите обложку альбома</string>
 	<string name="send_to">Отправить</string>
 	<string name="playlist_favorite">Избранное</string>
@@ -38,7 +38,7 @@
 	<string name="other_settings">Другие</string>
 	<string name="filter_by_size_min">0KБ</string>
 	<string name="buffering">Кэширование...</string>
-	<string name="listen_to_music_online_settings">Прослушивание онлайн музыки</string>
+	<string name="listen_to_music_online_settings">Онлайн музыка</string>
 	<string name="fast_scroll_alphabet">" ABCDEFGHIJKLMNOPQRSTUVWXYZ"</string>
 	<string name="filter_by_duration_max">5 мин</string>
 	<string name="overwrite_confirm">Перезаписать</string>
@@ -77,7 +77,7 @@
 	<string name="load_channel_failed">Ошибка загрузки, попробуйте еще раз</string>
 	<string name="empty_edit_hint">Информация о треке недоступна</string>
 	<string name="load_audio_failed">Ошибка загрузки, попробуйте еще раз</string>
-	<string name="cancle_warining">Оключить спящий режим</string>
+	<string name="cancle_warining">Спящий режим отключен</string>
 	<string name="lyric_download">Загрузить текст песни</string>
 	<string name="correct_id3_by_internet">Автокорректировка ID3 через интернет</string>
 	<string name="download_processing">Загрузка</string>
@@ -102,7 +102,7 @@
 	<string name="delete_file_from_sdcard">Удалить файлы с SD-карты</string>
 	<string name="screen_bright_wake">Не гасить экран</string>
 	<string name="refresh_start">Началось обновление, пожалуйста, подождите...</string>
-	<string name="filter_by_folder_summary_on">Выключен, коснитесь для включения фильтра.</string>
+	<string name="filter_by_folder_summary_on">Выключен, нажмите для изменения фильтра.</string>
 	<string name="sdcard_error_message">Ошибка на вашей SD-карте</string>
 	<string name="recentlyadded_title">Недавно добавленные</string>
 	<string name="shake_while_screen_on_title_summary">Переключение возможно только при включенном экране</string>
@@ -119,7 +119,7 @@
 	<string name="album_search_failed">Обложки альбома не найдены!</string>
 	<string name="lyric_picker_not_found">Файловый менеджер, не найден на устройстве</string>
 	<string name="online_search_hint">Поиск музыки онлайн</string>
-	<string name="filter_by_size_summary">Фильтрование файлов слишком маленького размера</string>
+	<string name="filter_by_size_summary">Фильтрация файлов слишком маленького размера.</string>
 	<string name="tracks_title">"Все треки "</string>
 	<string name="download_lyric_settings">Загрузка текстов</string>
 	<string name="lrc_searching">Поиск текста песни...</string>
@@ -127,8 +127,8 @@
 	<string name="android_album_summary">Присваивается в зависимости от имени файла. Может вызвать ошибку. Рекомендуется отключить</string>
 	<string name="load_audio_in_process">Загрузка списка треков</string>
 	<string name="shake_degree_high">Высокая</string>
-	<string name="filter_by_folder_summary_off">Включен, коснитесь для изменения фильтра.</string>
-	<string name="filter_by_duration_summary">Фильтрование коротких аудио файлов</string>
+	<string name="filter_by_folder_summary_off">Включен, нажмите для изменения фильтра.</string>
+	<string name="filter_by_duration_summary">Фильтрация коротких аудио файлов.</string>
 	<string name="ringtone_menu">Как рингтон</string>
 	<string name="delete_playlist_menu">Удалить</string>
 	<string name="rename_album_menu">Переименовать альбом</string>
@@ -142,7 +142,7 @@
 	<string name="add_to">Добавить в</string>
 	<string name="lrc_select">Выберите текст</string>
 	<string name="modify_tracks_id3_background">Изменить ID3 выбранного трека в фоновом режиме</string>
-	<string name="cancel_sleep_mode">Спящий режим отменён</string>
+	<string name="cancel_sleep_mode">Отключить спящий режим</string>
 	<string name="equalizer_delete_success">Профиль удален</string>
 	<string name="folders_title">"Папки "</string>
 	<string name="mobile_connect_settings">Мобильная сеть</string>
@@ -200,13 +200,13 @@
 	<string name="add_to_favorite">В избранное</string>
 	<string name="playback_failed_by_bad_file">"Невозможно проиграть трэк '%s', не поддерживается формат файла"</string>
 	<string name="hot_artists">Популярные исполнители</string>
-	<string name="download_lyric_summary">Загрузка текстов требует небольшое потребление трафика. Рекомендуется включить.</string>
+	<string name="download_lyric_summary">Загрузка текстов требует небольшой расход трафика. Рекомендуется включить.</string>
 	<string name="start_to_download_avatar">Загрузка аватара исполнителя для Вашей музыкальной библиотеки</string>
 	<string name="lyric_display_settings">Показывать тексты</string>
 	<string name="download_all_avatar">Скачать аватар(ы) исполнителей</string>
 	<string name="mediaplaybacklabel">Музыка</string>
 	<string name="play_selection">Слушать</string>
-	<string name="download_album_summary">Может отразится на стоимости услуг за мобильную связь. Рекомендуется отключить</string>
+	<string name="download_album_summary">Может требовать большой расход трафика. Рекомендуется отключить</string>
 	<string name="all_tracks">Все треки</string>
 	<string name="load_artist_failed">Ошибка загрузки, попробуйте еще раз</string>
 	<string name="albums_title">"Альбомы "</string>
@@ -219,7 +219,7 @@
 	<string name="music_browser_label">Музыка</string>
 	<string name="select_folder">Выберите папку</string>
 	<string name="music_settings">Настройки</string>
-	<string name="auto_correct_id3_settings">Настройка автокорректировки ID3</string>
+	<string name="auto_correct_id3_settings">Автокорректировка ID3</string>
 	<string name="load_album_failed">Ошибка загрузки, попробуйте еще раз</string>
 	<string name="filter_by_size">Фильтр по размеру</string>
 	<string name="auto_correct_id3_summary">Алгоритм поиска корректных ID3 тегов при проигрывании</string>

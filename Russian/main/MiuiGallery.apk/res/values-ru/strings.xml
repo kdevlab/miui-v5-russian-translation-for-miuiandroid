@@ -10,7 +10,7 @@
 	<string name="doodle">Подмалевок</string>
 	<string name="appwidget_empty_text">Нет фотографий</string>
 	<string name="clear_thumbnail_cache_summary">Очистить эскизы изображений, созданных при просмотре изображений в галерее</string>
-	<string name="confirm_delete_folders_including" formatted="false">%s папок (включая %s)</string>
+	<string name="confirm_delete_folders_including" formatted="false">%s альбомов, включая %s фото</string>
 	<string name="fisheye">Рыбий глаз</string>
 	<string name="details_ms">%1$02d:%2$02d</string>
 	<string name="file_size">Размер файла</string>
@@ -91,7 +91,7 @@
 	<string name="widget_type">Выбор изображений</string>
 	<string name="sync_album_error">Не удалось загрузить фотографии. Повторите попытку позже</string>
 	<string name="cloud_album_more_settings">Облачные альбомы</string>
-	<string name="details_title">Элементов %1$d из %2$d:</string>
+	<string name="details_title">%1$d из %2$d</string>
 	<string name="slideshow_dream_name">Слайд-шоу</string>
 	<string name="doodle_tooltip">Рисуйте на фото пальцем</string>
 	<string name="wallpaper">Рабочий стол</string>
@@ -207,7 +207,7 @@
 	<string name="add_account">Добавить аккаунт</string>
 	<string name="loading_thumbnail">Загрузка эскизов</string>
 	<string name="no_albums_alert">Нет доступных альбомов</string>
-	<string name="cloud_gallery_no_pictures">Фото не найдены в MiCloud</string>
+	<string name="cloud_gallery_no_pictures">Нет изображений в MiCloud</string>
 	<string name="duotone">Двойной тон</string>
 	<string name="group_by">Сгруппировать</string>
 	<string name="set_lockscreen">Экран блокировки</string>
