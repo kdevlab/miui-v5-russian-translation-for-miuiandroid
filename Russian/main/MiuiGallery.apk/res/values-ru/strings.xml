@@ -276,7 +276,7 @@
 	<string name="clear_thumbnail_cache_confirm">"Очистить кэш эскизов? 
 	Галерея повторно просканирует изображения и заново создаст эскизы при просмотре."</string>
 	<string name="duration">Длительность</string>
-	<string name="set_hidden_album">Скрыть альбом(ы)</string>
+	<string name="set_hidden_album">Скрыть альбомы</string>
 	<string name="sync_album">Синхронизировать альбом</string>
 	<string name="crop_tooltip">Чтобы кадрировать фото, перетащите маркеры</string>
 	<string name="unit_mm">мм</string>
