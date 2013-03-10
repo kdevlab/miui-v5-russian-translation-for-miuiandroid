@@ -118,6 +118,7 @@
 	<string name="separatorJoinAggregateSuggestions">Предлагаемые контакты</string>
 	<string name="take_photo">Сделать фотографию</string>
 	<string name="import_weibo_progress_hint">Импортирование...</string>
+	<string name="callDetailsDurationFormat" formatted="false">%s мин. %s сек.</string>
 	<string name="hint_search_phone_numbers">Телефонов: %d</string>
 	<string name="picker_join_title">Выберите контакт для объединения с %s</string>
 	<string name="insertContactDescription">Создать контакт</string>
@@ -320,7 +321,6 @@
 	<string name="postal_neighborhood">Сосед</string>
 	<string name="device_list_title">выберите телефон для сопряжения</string>
 	<string name="callrecordview_item_op_time_minutes_seconds" formatted="false">%d минут %d секунд</string>
-	<string name="notification_voicemail_callers_list">%1$s, %2$s</string>
 	<string name="progress_notifier_message" formatted="false">Импорт %s/%s: %s</string>
 	<string name="preference_smart_group_frequency_title">По последним вызовам</string>
 	<string name="dialer_empty_text_no_search_result">Контакты не найдены</string>
