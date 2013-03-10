@@ -466,7 +466,7 @@
 	<string name="wifi_disabled_network_failure">Включено</string>
 	<string name="battery_desc_apps">Использование батареи приложениями</string>
 	<string name="cell_broadcast_settings_summary">Выбор типа уведомлений для отображения</string>
-	<string name="header_category_wireless_networks">БЕСПРОВОДНЫЕ СЕТИ</string>
+	<string name="header_category_wireless_networks">Беспроводные сети</string>
 	<string name="data_usage_list_mobile">Мобильные сети</string>
 	<string name="normal_date_format">По умолчанию (%s)</string>
 	<string name="select_all">Выбрать все</string>
@@ -723,7 +723,7 @@
 	<string name="memory_media_misc_usage">Прочее</string>
 	<string name="bluetooth_settings">Bluetooth</string>
 	<string name="bluetooth_device_advanced_enable_opp_title">Разрешить получение файлов</string>
-	<string name="header_category_device">ПАРАМЕТРЫ УСТРОЙСТВА</string>
+	<string name="header_category_device">Параметры устройства</string>
 	<string name="screen">Экран</string>
 	<string name="haptic_feedback_level">Уровень вибрации</string>
 	<string name="lockpattern_too_many_failed_confirmation_attempts_footer">Повторите попытку через %d с.</string>
@@ -1539,7 +1539,7 @@
 	<string name="wifi_setup_next">Далее</string>
 	<string name="call_settings_summary">Голосовая почта, АОН, переадресация, параллельный вызов</string>
 	<string name="accessibility_no_services_installed">Службы не установлены</string>
-	<string name="header_category_personal">ПЕРСОНАЛИЗАЦИЯ</string>
+	<string name="header_category_personal">Персонализация</string>
 	<string name="virus_scan_app_is_stop_scan">Остановить сканирование?</string>
 	<string name="msd_install_succeed">Драйвер установлен</string>
 	<string name="header_account_settings">Настройки аккаунта</string>
@@ -1742,7 +1742,7 @@
 	<string name="subscription_01_summary">Настройка параметров для настройки сети SUB1</string>
 	<string name="memory">ОЗУ</string>
 	<string name="data_usage_app_restrict_dialog">Если отсутствует доступ к Wi-Fi, функция может приостановить приложения, использующие фоновый режим обмена данными.\n\nБолее подходящие параметры можно найти в настройках этих приложений</string>
-	<string name="header_category_system">ПАРАМЕТРЫ СИСТЕМЫ</string>
+	<string name="header_category_system">Параметры системы</string>
 	<string name="wifi_wapi_cert_mgmt_subdir_name_is_empty">Введите имя папки, которую хотите создать!</string>
 	<string name="wifi_error">Ошибка</string>
 	<string name="perm_hips_send_sms_smsc_default">СМС-центр по умолчанию</string>
@@ -2024,7 +2024,7 @@
 	<string name="screensaver_settings_summary_off">Отключено</string>
 	<string name="drive_mode_phone_report">Уведомление о вызове</string>
 	<string name="vpn_dns_servers_hint">например 8.8.8.8</string>
-	<string name="search_launcher">Рабочий стол</string>
+	<string name="search_launcher">Рабочий стол MIUI</string>
 	<string name="search_key">кнопка</string>
 	<string name="wifi_security_none">Нет</string>
 	<string name="sms_summary">Выберите подписку для отправки SMS</string>
@@ -2203,6 +2203,6 @@
 	<string name="tether_settings_title_all">Режим модема</string>
 	<string name="wifi_wapi_cert_mgmt_titlebar">Управление сертификатами WAPI</string>
 	<string name="bluetooth_only_visible_to_paired_devices">Отображать только для подключенных устройств</string>
-	<string name="preferred_launcher_title">Рабочий стол</string>
+	<string name="preferred_launcher_title">Выбор рабочего стола</string>
 	<string name="crypt_keeper_failed_title">Сбой шифрования</string>
 </resources>

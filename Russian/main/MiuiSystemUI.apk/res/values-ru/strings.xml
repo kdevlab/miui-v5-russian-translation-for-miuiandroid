@@ -123,7 +123,7 @@
 	<string name="status_bar_date_format">EEEE\nd MMMM yyyy</string>
 	<string name="notification_otg_touchPad_in">Сенсорная панель подключена</string>
 	<string name="status_bar_network_flow">Сегодня: %1$s | Осталось: %2$s | Всего: %3$s</string>
-	<string name="status_bar_style_settings">Параметры панели состояния</string>
+	<string name="status_bar_style_settings">Панель состояния</string>
 	<string name="call_status_dialing">Вызов</string>
 	<string name="settings_notification_icon">Уведомления в строке состояния</string>
 	<string name="usb_debugging_message">"Ключ RSA компьютера:\n%1$s"</string>
@@ -236,7 +236,7 @@
 	<string name="battery_low_title">Низкий заряд батареи. Подключите зарядное устройство</string>
 	<string name="screen_key_home">Домой</string>
 	<string name="dlg_error_title">USB операция неудачна</string>
-	<string name="settings_toggle_layout_style_compact">Компактный</string>
+	<string name="settings_toggle_layout_style_compact">Компакт</string>
 	<string name="settings_toggle_layout_style_applying">Изменение стиля переключателей...</string>
 	<string name="accessibility_compatibility_zoom_example">Уменьшение изображения для увеличения свободного места на экране</string>
 	<string name="accessibility_no_wifi">Отсутствует подключение к Wi-Fi</string>
