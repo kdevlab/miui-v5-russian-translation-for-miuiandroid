@@ -2024,7 +2024,7 @@
 	<string name="screensaver_settings_summary_off">Отключено</string>
 	<string name="drive_mode_phone_report">Уведомление о вызове</string>
 	<string name="vpn_dns_servers_hint">например 8.8.8.8</string>
-	<string name="search_launcher">Рабочий стол</string>
+	<string name="search_launcher">Рабочий стол MIUI</string>
 	<string name="search_key">кнопка</string>
 	<string name="wifi_security_none">Нет</string>
 	<string name="sms_summary">Выберите подписку для отправки SMS</string>
@@ -2203,6 +2203,6 @@
 	<string name="tether_settings_title_all">Режим модема</string>
 	<string name="wifi_wapi_cert_mgmt_titlebar">Управление сертификатами WAPI</string>
 	<string name="bluetooth_only_visible_to_paired_devices">Отображать только для подключенных устройств</string>
-	<string name="preferred_launcher_title">Рабочий стол</string>
+	<string name="preferred_launcher_title">Выбор рабочего стола</string>
 	<string name="crypt_keeper_failed_title">Сбой шифрования</string>
 </resources>
