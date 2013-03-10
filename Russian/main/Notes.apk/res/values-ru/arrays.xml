@@ -17,4 +17,10 @@
         <item>Адрес</item>
         <item>Заметка</item>
     </string-array>	
+    <string-array name="font_size_names">
+        <item>Маленький</item>
+        <item>Средний</item>
+        <item>Большой</item>
+        <item>Огромный</item>
+    </string-array>
 </resources>
