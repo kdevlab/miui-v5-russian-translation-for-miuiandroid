@@ -9,7 +9,7 @@
 	<string name="dialog_title_not_available">Ошибка загрузки</string>
 	<string name="disable_download_only_in_wifi_title">Отключить загрузку только по Wi-Fi</string>
 	<string name="pref_title_enable_max_bytes_popup">Предупредить о лимите</string>
-	<string name="download_success">Завершен</string>
+	<string name="download_success">Завершено</string>
 	<string name="download_no_application_title">Не могу открыть файл</string>
 	<string name="download_error">Ошибка</string>
 	<string name="pref_download_settings_title">Предупреждение о лимите</string>
