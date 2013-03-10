@@ -2,7 +2,7 @@
 <resources>
     <string-array name="transformation_entries">
         <item>Стандартный</item>
-        <item>Стд.(без проскакивания)</item>
+        <item>Стандартный (без эффектов)</item>
         <item>Угасание</item>
         <item>Поворот</item>
         <item>Листание</item>
@@ -12,9 +12,9 @@
     </string-array>
     <string-array name="wallpaper_scroll_entries">
         <item>Включена</item>
-        <item>Выключена, обои по центру</item>
-        <item>Выключена, обои слева</item>
-        <item>Выключена, обои справа</item>
+        <item>Выключена (обои по центру)</item>
+        <item>Выключена (обои слева)</item>
+        <item>Выключена (обои справа)</item>
     </string-array>
     <string-array name="gadget_weather_theme_type_entries">
         <item>По умолчанию</item>
