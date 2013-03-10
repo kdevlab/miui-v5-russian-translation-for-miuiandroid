@@ -42,6 +42,7 @@
 	<string name="resource_comment_upload_data_invalid">Ошибка отправки комментария</string>
 	<string name="resource_can_not_selected">%1$s не может быть выбран!</string>
 	<string name="description_designer">Дизайнер:</string>
+	<string name="third_party_pickers_activity_title">Установить %1$s</string>
 	<string name="resource_comment_edit_comment_waiting">Проверка Ваших ответов к этой теме...</string>
 	<string name="theme_component_title_notification">Уведомление</string>
 	<string name="loading_resource_detail_info">Загрузка...</string>
