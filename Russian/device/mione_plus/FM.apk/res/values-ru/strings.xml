@@ -120,4 +120,6 @@
 	<string name="durationformat">%2$d:%5$02d</string>
 	<string name="record_file_format">%1$s_%2$s</string>
 	<string name="FMRecording_reach_storage_threshold">Запись остановлена. На карте памяти мало места.</string>
+	<string name="fmradio_start_error">Ошибка включения радио</string>
+	<string name="fmradio_no_headset_at_begin">Пожалуйста, подключите наушники, они используются в качестве антенны.</string>
 </resources>
