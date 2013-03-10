@@ -8,7 +8,7 @@
 	<string name="note_link_tel">Позвонить</string>
 	<string name="call_record_folder_name">Вызов заметки</string>
 	<string name="widget_havenot_content">Нет заметок, нажмите сюда, чтобы создать заметку</string>
-	<string name="close">Close</string>
+	<string name="close">Закрыть</string>
 	<string name="snippet_image_template">[%1$s]</string>
 	<string name="attachment_camera">Камера</string>
 	<string name="note_link_web">Открыть браузер</string>
@@ -80,5 +80,4 @@
 	<string name="preferences_title">Настройки</string>
 	<string name="failed_sdcard_export">Экспорт прерван!</string>
 	<string name="menu_delete">Удалить</string>
-	<string name="close">Закрыть</string>
 </resources>
