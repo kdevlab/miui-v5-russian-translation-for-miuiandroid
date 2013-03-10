@@ -52,7 +52,7 @@
 	<string name="debug_enable_exchange_logging_label">Включить протоколирование анализатора exchange?</string>
 	<string name="mailbox_name_display_drafts">Черновики</string>
 	<string name="account_setup_exchange_remove_certificate">Удалить</string>
-	<string name="message_view_move_to_older">След.</string>
+	<string name="message_view_move_to_older">Предыдущее сообщение</string>
 	<string name="general_preference_auto_advance_message_list">Списку сообщений</string>
 	<string name="manager_toast_canceled">Загрузка отменена</string>
 	<string name="general_preference_text_zoom_tiny">Мелкий</string>
@@ -126,7 +126,7 @@
 	<string name="account_setup_exchange_title">Настройка аккаунта</string>
 	<string name="account_setup_failed_dlg_auth_message_fmt">Неверное имя пользователя или пароль.\n%s</string>
 	<string name="dialog_sync_all_found_none">Дополнительных фотографий или видеороликов не найдено</string>
-	<string name="mark_as_unread_action">Отметить как непрочитанное</string>
+	<string name="mark_as_unread_action">Прочитано</string>
 	<string name="account_settings_notify_label">Уведомления</string>
 	<string name="picker_combined_view_fmt">Комбинированный вид (%s)</string>
 	<string name="account_settings_vibrate_when_label">Вибрация</string>
@@ -141,7 +141,7 @@
 	<string name="security_notification_ticker_fmt">Аккаунт \"%s\" требует обновления настроек безопасности</string>
 	<string name="exchange_name">Корпоративный</string>
 	<string name="message_view_date_label">Дата:</string>
-	<string name="message_view_move_to_newer">След.</string>
+	<string name="message_view_move_to_newer">Следующее сообщение</string>
 	<string name="attachment_info_no_intent">Неподдерживаемый формат. Чтобы открыть файл, установите подходящее приложение из Android Маркета</string>
 	<string name="account_setup_failed_access_denied">У вас нет разрешений на синхронизацию с этим сервером. За дополнительной информацией обратитесь к администратору сервера</string>
 	<string name="account_settings_login_dialog_content_fmt">Неверное имя пользователя или пароль аккаунта %s. Обновить их сейчас?</string>
@@ -481,7 +481,7 @@
 	<string name="account_settings_sync_calendar_enable">Синхронизировать календарь</string>
 	<string name="account_settings_login_dialog_title">Не удалось войти в аккаунт</string>
 	<string name="message_view_parse_message_toast">Сообщение открывается…</string>
-	<string name="unread_action">Отметить как непрочитанное</string>
+	<string name="unread_action">Прочитано</string>
 	<string name="account_settings_sync_calendar_summary">Синхронизировать календарь этого аккаунта</string>
 	<string name="manager_sync_all">Синхронизировать все</string>
 	<string name="preference_title_photos_account">Аккаунт</string>
