@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--Merged with KDG BigBlackBox-->
 <resources>
-	<string name="settings_i_xiaomi_com">Войдите в i.xiaomi.com, чтобы видеть Ваш облачный альбом(ы) в любое время</string>
+	<string name="settings_i_xiaomi_com">Войдите на сайт i.xiaomi.com, чтобы просмотреть ваши синхронизированные изображения в интернете</string>
 	<string name="temperature">Тепло</string>
 	<string name="saving_failure">Не удалось сохранить фото</string>
 	<string name="rotate_tooltip">Чтобы повернуть фото, перетащите его край</string>
@@ -9,7 +9,7 @@
 	<string name="slideshow">Слайд-шоу</string>
 	<string name="doodle">Подмалевок</string>
 	<string name="appwidget_empty_text">Нет фотографий</string>
-	<string name="clear_thumbnail_cache_summary">Просмотр галереи создает эскизы. Очистка кеша освобождает место</string>
+	<string name="clear_thumbnail_cache_summary">Очистить эскизы изображений, созданных при просмотре изображений в галерее</string>
 	<string name="confirm_delete_folders_including" formatted="false">%s папок (включая %s)</string>
 	<string name="fisheye">Рыбий глаз</string>
 	<string name="details_ms">%1$02d:%2$02d</string>
@@ -81,7 +81,7 @@
 	<string name="browse_category">Просмотр изображений</string>
 	<string name="rename_failed">Не удалось переименовать</string>
 	<string name="height">Высота</string>
-	<string name="clear_thumbnail_cache">Очистить кэш эскизов фото и видео</string>
+	<string name="clear_thumbnail_cache">Очистить кэш</string>
 	<string name="description">Описание</string>
 	<string name="crop_polymorphism">photoeditor_effect_crop</string>
 	<string name="sync_album_set_error">Не удалось загрузить альбомы. Повторите попытку позже.</string>
@@ -90,7 +90,7 @@
 	<string name="cloud_gallery_recyclebin_full">Корзина в облаке полна. Пожалуйста очистите корзину, зайдя на i.xiaomi.com.</string>
 	<string name="widget_type">Выбор изображений</string>
 	<string name="sync_album_error">Не удалось загрузить фотографии. Повторите попытку позже</string>
-	<string name="cloud_album_more_settings">Облачный альбом(ы) и авто. загрузка</string>
+	<string name="cloud_album_more_settings">Облачные альбомы</string>
 	<string name="details_title">Элементов %1$d из %2$d:</string>
 	<string name="slideshow_dream_name">Слайд-шоу</string>
 	<string name="doodle_tooltip">Рисуйте на фото пальцем</string>
@@ -122,8 +122,8 @@
 	<string name="select_album">Выбрать альбомы</string>
 	<string name="show_hidden_album">Показать скрытые альбомы</string>
 	<string name="miui_capture_screen_folder_display_name">Скриншоты</string>
-	<string name="local_albums">Телефон</string>
-	<string name="sync_album_summary">Загрузите ваши фотографии и скриншоты Вашего телефона в MiCloud</string>
+	<string name="local_albums">Альбомы</string>
+	<string name="sync_album_summary">Синхронизировать фотографии и скриншоты с облачным сервисом MiCloud</string>
 	<string name="not_auto_create_recent_album">Не создавать автоматически последние альбомы</string>
 	<string name="other_category">Другие настройки</string>
 	<string name="no_map_app">Нет приложений с картами</string>
@@ -214,7 +214,7 @@
 	<string name="fail_init_gallery_db_helper">Ошибка открытия базы данных галереи. Диск полон.</string>
 	<string name="sync_only_in_wifi_summary">Рекомендуется включить, иначе будет потребление мобильного трафика</string>
 	<string name="cloud_tab_locations">Местоположение</string>
-	<string name="initial_cloud_button_text">Начать использовать облачный альбом</string>
+	<string name="initial_cloud_button_text">Начать использование</string>
 	<string name="select_all">Выбрать все</string>
 	<string name="confirm_delete_system_album">%s - это системный альбом. Вы уверены, что хотите удалить?</string>
 	<string name="save_photo">Сохранить изменения?</string>
@@ -258,7 +258,7 @@
 	<string name="internal_camera_folder_display_name">Фото в памяти телефона</string>
 	<string name="menu_item_sort_size_asc">По размеру (А-Я)</string>
 	<string name="global_setting">Настройки</string>
-	<string name="initial_cloud_text">В любое время и в любом месте · Организуйте и просматривайте Ваши изображения</string>
+	<string name="initial_cloud_text">В любое время и в любом месте вы можете просматривать Ваши изображения на облачном альбоме</string>
 	<string name="details">Сведения</string>
 	<string name="add_to_cloud_folder">В облако</string>
 	<string name="group_by_location">По месту съемки</string>
@@ -273,7 +273,8 @@
 	<string name="group_by_tags">По тегам</string>
 	<string name="set_label_all_albums">Все альбомы</string>
 	<string name="manual">Вручную</string>
-	<string name="clear_thumbnail_cache_confirm">Кэш эскизов будет очищен. Галерея повторно пересканирует медиа-файлы и заново создаст эскизы позже.</string>
+	<string name="clear_thumbnail_cache_confirm">"Очистить кэш эскизов? 
+	Галерея повторно просканирует изображения и заново создаст эскизы при просмотре."</string>
 	<string name="duration">Длительность</string>
 	<string name="set_hidden_album">Скрыть альбом(ы)</string>
 	<string name="sync_album">Синхронизировать альбом</string>
