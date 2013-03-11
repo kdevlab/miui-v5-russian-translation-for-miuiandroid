@@ -203,7 +203,7 @@
 	<string name="download_lyric_summary">Загрузка текстов требует небольшой расход трафика. Рекомендуется включить.</string>
 	<string name="start_to_download_avatar">Загрузка аватара исполнителя для Вашей музыкальной библиотеки</string>
 	<string name="lyric_display_settings">Показывать тексты</string>
-	<string name="download_all_avatar">Скачать аватар(ы) исполнителей</string>
+	<string name="download_all_avatar">Скачать аватары исполнителей</string>
 	<string name="mediaplaybacklabel">Музыка</string>
 	<string name="play_selection">Слушать</string>
 	<string name="download_album_summary">Может требовать большой расход трафика. Рекомендуется отключить</string>
@@ -212,7 +212,7 @@
 	<string name="albums_title">"Альбомы "</string>
 	<string name="add">Добавить</string>
 	<string name="play_and_download_summary">Автоматически загружать треки, прослушанные онлайн. Рекомендуется включить</string>
-	<string name="quit_warining">Автоотключение через %d минут(ы)</string>
+	<string name="quit_warining">Автоотключение через %d мин.</string>
 	<string name="rename_playlist_menu">Переименовать</string>
 	<string name="artist_edit">Артист</string>
 	<string name="correct_id3_summary">Метод коррекции может привести к сильному потреблению трафика. Рекомендуется отключить</string>
