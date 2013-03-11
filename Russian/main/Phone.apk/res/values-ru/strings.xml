@@ -99,7 +99,7 @@
 	<string name="incall_error_out_of_service">Мобильная сеть недоступна</string>
 	<string name="fdn">Разрешенные номера</string>
 	<string name="requesting_nw_subset_unlock">Requesting SIM network subset unlock…</string>
-	<string name="notification_ongoing_call">Ongoing call</string>
+	<string name="notification_ongoing_call">Текущий вызов</string>
 	<string name="set_sub_activate_failed">Activate failed</string>
 	<string name="dial_emergency_error">Вызов не осуществляется, так как %s не является номером экстренного вызова!</string>
 	<string name="requesting_sim_unlock">Requesting SIM SIM unlock…</string>
@@ -911,7 +911,7 @@
 	<string name="caller_id_title_miui">Автоопределение номера</string>
 	<string name="progress_dialog_exiting_ecm">Выход из режима экстренных обратных вызовов</string>
 	<string name="pstn_phone">Вызов по сотовой сети</string>
-	<string name="notification_action_end_call">Отбой</string>
+	<string name="notification_action_end_call">Завершить вызов</string>
 	<string name="onscreenMergeCallsText">Соединить</string>
 	<string name="old_pin_hint_miui">Текущий PIN-код</string>
 	<string name="contactdeleteSuccess">Контакт успешно удален с SIM-карты</string>
