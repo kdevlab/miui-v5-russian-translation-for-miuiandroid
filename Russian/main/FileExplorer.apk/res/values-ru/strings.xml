@@ -2,12 +2,12 @@
 <!--Merged with KDG BigBlackBox-->
 <resources>
 	<string name="category_favorite">Избранное</string>
-	<string name="kuaipan_over_space">В вашем MiDrive нет больше свободного места</string>
+	<string name="kuaipan_over_space">В вашем KuaiPan нет больше свободного места</string>
 	<string name="ui_main_toast_operation_failed">Ошибка удаления %1$s</string>
 	<string name="category_zip">Архивы</string>
 	<string name="add_task">Добавить задачи</string>
 	<string name="operation_compress">Добавить в архив</string>
-	<string name="download_link_completed">Я поделился %1$s через MiDrive. Нажмите ссылку внизу для просмотра:</string>
+	<string name="download_link_completed">Я поделился %1$s через KuaiPan. Нажмите ссылку внизу для просмотра:</string>
 	<string name="utf8_summary">Тип кодировки по умолчанию</string>
 	<string name="adding_upload_tasks">Добавление задачи загрузки.</string>
 	<string name="operation_show_sys">Показать системные</string>
@@ -22,7 +22,7 @@
 	<string name="dialog_type_text">Текст</string>
 	<string name="ftp_username_hint">Имя пользователя</string>
 	<string name="operation_rename_message">Введите новое имя</string>
-	<string name="operation_create_folder_message">Пожалуйста, введите имя папки</string>
+	<string name="operation_create_folder_message">Введите имя папки</string>
 	<string name="kingsoft_account">аккаунт kingsoft kuaipan</string>
 	<string name="upload_failed">Ошибка загрузки</string>
 	<string name="category_picture">Фото</string>
@@ -52,7 +52,7 @@
 	<string name="sd_card_size">SD-карта: %1$s</string>
 	<string name="yes">Да</string>
 	<string name="ftp_username_and_passworld">Имя пользователя и пароль</string>
-	<string name="kuaipan_prompt">MiDrive</string>
+	<string name="kuaipan_prompt">KuaiPan</string>
 	<string name="background">В фоне</string>
 	<string name="multi_select_title">Выбрано: %1$s</string>
 	<string name="networkView_offline">Офлайн режим, обновление директорий приостановлено</string>
@@ -97,7 +97,7 @@
 	<string name="create_new_folder_desctiption">Создание папки...</string>
 	<string name="user_guide_download_other_version">Вы всегда можете скачать Kuaipan\nна Ваш PC или Mac</string>
 	<string name="app_name">Файлы</string>
-	<string name="user_guide_summary">Руководство по MiDrive</string>
+	<string name="user_guide_summary">Руководство по KuaiPan</string>
 	<string name="bind_account_summary">Если у вас уже есть учетная запись kuaipan, то ее можно привязать к учетной записи Xiaomi, чтобы синхронизировать данные</string>
 	<string name="storage_internal">Внутренняя память</string>
 	<string name="delete_folders">Вы уверены, что хотите удалить выбранные папки (%1$d)?</string>
@@ -118,7 +118,7 @@
 	<string name="data_capacity">Объем: %1$s</string>
 	<string name="server_control_advanced_settings">Расширенные настройки</string>
 	<string name="favorite_photo">Фотография</string>
-	<string name="tab_networkdisk">MiDrive</string>
+	<string name="tab_networkdisk">KuaiPan</string>
 	<string name="ui_bar_txt_upload_progress">Отправка...</string>
 	<string name="no_tasks">Задач нет</string>
 	<string name="ftp_port_number">Порт</string>
@@ -133,11 +133,11 @@
 	<string name="favorite_screen_cap">Скриншоты</string>
 	<string name="binded_accout_title">В настоящее время Вы уже связаны с учетной записью KuaiPan</string>
 	<string name="xiaomi_account">Аккаунт Xiaomi</string>
-	<string name="login_reg_content">MiDrive позволяет хранить файлы и синхронизировать их между несколькими устройствами.</string>
+	<string name="login_reg_content">KuaiPan позволяет хранить файлы и синхронизировать их между несколькими устройствами.</string>
 	<string name="operation_hide_sys">Скрыть системные</string>
 	<string name="decompress_to_here">Распаковать в текущую папку</string>
 	<string name="rename_description">Переименовывается···</string>
-	<string name="send_to_midrive">Отправить в MiDrive</string>
+	<string name="send_to_midrive">Отправить в KuaiPan</string>
 	<string name="operation_compressing">Создание архива...</string>
 	<string name="des_running_trans">Эти %1$d файлы ожидают отправки</string>
 	<string name="create_share_link_description">Создание ссылки···</string>
@@ -156,7 +156,7 @@
 	<string name="no_wifi_hint">Нет Wi-Fi соединения</string>
 	<string name="kuaipan_tech_support">Техническая поддержка: Kingsoft Kuaipan</string>
 	<string name="share_link_failed">Ошибка создания внешней ссылки на папку</string>
-	<string name="notif_title">Обмен файлами включен</string>
+	<string name="notif_title">FTP сеть активна</string>
 	<string name="space_info">Объем в сети: %1$s доступно，всего: %2$s</string>
 	<string name="dialog_type_video">Видео</string>
 	<string name="operation_rename">Переименовать</string>
@@ -165,7 +165,7 @@
 	<string name="category_theme">Темы</string>
 	<string name="operation_cancel">Отмена</string>
 	<string name="compress_title">Создание архива</string>
-	<string name="pan_settting">Настройки MiDrive</string>
+	<string name="pan_settting">Настройки KuaiPan</string>
 	<string name="operation_delete_confirm_message">Подтверждение удаления</string>
 	<string name="local_cache_size">Размер локального кэш: %s</string>
 	<string name="binding_accout_title">привязка к существующей учетной записи kuaipan</string>
@@ -201,7 +201,7 @@
 	<string name="wangpan_root_path">Мой диск</string>
 	<string name="menu_item_ftp">Обмен файлами через Wi-Fi</string>
 	<string name="user_guide_kuaipan_copy">Доступ к файлу с нескольких устройств\n, поместив его в Kuaipan</string>
-	<string name="login_reg_content0">KuaiPan ваш интернет диск</string>
+	<string name="login_reg_content0">KuaiPan - ваш интернет диск</string>
 	<string name="fail_to_create_folder">Не удалось создать папку, папка с таким именем уже существует</string>
 	<string name="start_server">Запустить</string>
 	<string name="tab_category">Обзор</string>
@@ -209,7 +209,7 @@
 	<string name="create_new_folder_failed">Не удалось создать папку %1$s</string>
 	<string name="paused">Пауза</string>
 	<string name="sd_card_available">Свободно: %1$s</string>
-	<string name="send_to_midrive_failed_message">Не удалось отправить в MiDrive. Неверный формат файла.</string>
+	<string name="send_to_midrive_failed_message">Не удалось отправить в KuaiPan. Неверный формат файла.</string>
 	<string name="choose_send_type">Выбор метода отправки</string>
 	<string name="dialog_type_audio">Аудио</string>
 	<string name="binded_accout_warning">Предупреждение: эта операция не обратима</string>
