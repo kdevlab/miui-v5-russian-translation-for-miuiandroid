@@ -144,6 +144,7 @@
 	<string name="message_view_move_to_newer">Следующее сообщение</string>
 	<string name="attachment_info_no_intent">Неподдерживаемый формат. Чтобы открыть файл, установите подходящее приложение из Android Маркета</string>
 	<string name="account_setup_failed_access_denied">У вас нет разрешений на синхронизацию с этим сервером. За дополнительной информацией обратитесь к администратору сервера</string>
+	<string name="cleared_trusted_senders_message">"Очистить \"Показать фотографии\", изображения в сообщениях не будут показаны автоматически."</string>
 	<string name="account_settings_login_dialog_content_fmt">Неверное имя пользователя или пароль аккаунта %s. Обновить их сейчас?</string>
 	<string name="attachment_info_sideload_disabled">Прикрепленный файл является приложением. Чтобы его можно было установить, в разделе \"Настройки > Приложения\" выберите \"Неизвестные источники\"</string>
 	<string name="password_expire_warning_ticker_fmt">Для аккаунта \"%s\" требуется изменить PIN-код или пароль блокировки экрана</string>
