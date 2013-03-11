@@ -591,7 +591,7 @@
 	<string name="application_info_label">О приложении</string>
 	<string name="permissions_label">Разрешения</string>
 	<string name="bluetooth_preference_found_devices">Список</string>
-	<string name="status_bar_settings">Параметры панели состояния</string>
+	<string name="status_bar_settings">Панель состояния</string>
 	<string name="trust_switch_dialog_msg">MIUI не будут спрашивать Вас о подтверждении любых операций связанных с безопасностью и конфиденциальностью. Пожалуйста, убедитесь, что хорошо знаете данного разработчика.\nВы доверяете этому приложению?</string>
 	<string name="perm_hips_location_monitor">отслеживать положение</string>
 	<string name="app_disable_dlg_title">Отключить приложение?</string>
@@ -2024,7 +2024,7 @@
 	<string name="screensaver_settings_summary_off">Отключено</string>
 	<string name="drive_mode_phone_report">Уведомление о вызове</string>
 	<string name="vpn_dns_servers_hint">например 8.8.8.8</string>
-	<string name="search_launcher">Рабочий стол MIUI</string>
+	<string name="search_launcher">Рабочий стол</string>
 	<string name="search_key">кнопка</string>
 	<string name="wifi_security_none">Нет</string>
 	<string name="sms_summary">Выберите подписку для отправки SMS</string>
