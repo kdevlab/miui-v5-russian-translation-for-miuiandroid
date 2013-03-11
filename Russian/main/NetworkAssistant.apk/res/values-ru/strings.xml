@@ -93,7 +93,7 @@
 	<string name="process_kernel_label">Андроид</string>
 	<string name="control_app_internet">Использование сети приложениями</string>
 	<string name="dialog_button_adjust">Настройка</string>
-	<string name="edit_frame_warning_title">Порог предупреждения</string>
+	<string name="edit_frame_warning_title">"Порог предупреждения "</string>
 	<string name="stop_app_button">Закрыть</string>
 	<string name="pref_category_adjust_traffic">Регулировка трафика</string>
 	<string name="sms_template_match_fail">Ошибка сопоставления шаблона SMS</string>
