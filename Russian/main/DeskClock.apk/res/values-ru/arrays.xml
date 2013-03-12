@@ -43,8 +43,8 @@
         <item>Будильник зазвонит через %1$s, %2$s и %3$s</item>
     </string-array>
     <string-array name="days">
-        <item>Вчера</item>
-        <item>Сегодня</item>
-        <item>Завтра</item>
+        <item>"Вчера "</item>
+        <item>"Сегодня "</item>
+        <item>"Завтра "</item>
     </string-array>
 </resources>
