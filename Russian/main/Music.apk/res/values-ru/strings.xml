@@ -89,7 +89,7 @@
 	<string name="add_to_playlist">В плейлист</string>
 	<string name="sdcard_missing_message">SD-карта не вставлена в телефон</string>
 	<string name="playback_failed_no_title_by_bad_file">Невозможно проиграть трэк, не поддерживается формат файла</string>
-	<string name="play_and_download">Слушать и скачать</string>
+	<string name="play_and_download">Прослушать и скачать</string>
 	<string name="sdcard_busy_message_nosdcard">SD-карта используется</string>
 	<string name="fade_effect_summary">Плавное изменение громкости при переключении между треками. Рекомендуется включить.</string>
 	<string name="recommend">Рекомендуемые</string>
