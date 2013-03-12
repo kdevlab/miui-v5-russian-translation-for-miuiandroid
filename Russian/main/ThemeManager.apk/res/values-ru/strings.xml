@@ -44,7 +44,7 @@
 	<string name="description_designer">Дизайнер:</string>
 	<string name="third_party_pickers_activity_title">Установить %1$s</string>
 	<string name="resource_comment_edit_comment_waiting">Проверка Ваших ответов к этой теме...</string>
-	<string name="theme_component_title_notification">Уведомление</string>
+	<string name="theme_component_title_notification">Уведомл.</string>
 	<string name="loading_resource_detail_info">Загрузка...</string>
 	<string name="theme_component_title_photo_frame">Фоторамка</string>
 	<string name="component_select_title">%1$s пунктов</string>
@@ -104,7 +104,7 @@
 	<string name="resource_get_auth_exceed_max_limit_title">Превышен предел авторизаций</string>
 	<string name="theme_upgrade_request_cancel">Нет</string>
 	<string name="description_size">Размер:</string>
-	<string name="resource_notification_default">Уведомления</string>
+	<string name="resource_notification_default">Уведомл.</string>
 	<string name="theme_import_oper_start">Обновить все</string>
 	<string name="resource_system_title">Системные</string>
 	<string name="resource_delete_confirm">Вы действительно хотите удалить эти ресурсы?</string>
