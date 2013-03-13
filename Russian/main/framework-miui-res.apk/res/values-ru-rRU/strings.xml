@@ -82,6 +82,7 @@
 	<string name="country_name_ky">Каймановы острова</string>
 	<string name="grain_rain" />
 	<string name="country_name_kp">КНДР</string>
+	<string name="yesterday">"Вчера "</string>
 	<string name="lockscreen_transport_next_description">Кнопка следующий трек</string>
 	<string name="country_name_kr">Южная Корея</string>
 	<string name="country_name_kw">Кувейт</string>
@@ -101,6 +102,7 @@
 	<string name="national_father_day"/>
 	<string name="white_dews" />
 	<string name="country_name_ht">Гаити</string>
+	<string name="today">"Сегодня "</string>
 	<string name="no_sim">Нет SIM-карты</string>
 	<string name="find_device_sim_change_instructions_no_network">"Ваше устройство заблокировано, вставьте оригинальную SIM-карту"</string>
 	<string name="country_name_hr">Хорватии</string>
@@ -430,6 +432,7 @@
 	<string name="sim_changed_reactivate_notice">Текущая SIM-карта не активирована. Необходима отправка SMS для активации услуги Xiaomi синхронизации. Активировать сейчас?</string>
 	<string name="country_name_zm">Замбия</string>
 	<string name="android_common_name_suffixes">@android:string/common_name_suffixes</string>
+	<string name="tomorrow">"Завтра "</string>
 	<string name="lockscreen_access_pattern_cell_added">Сотовая добавлена</string>
 	<string name="insects_awaken" />
 	<string name="check_phone_error_title">Не удалось открыть Синхронизацию</string>
