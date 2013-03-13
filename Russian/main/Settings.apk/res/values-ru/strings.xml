@@ -885,7 +885,7 @@
 	<string name="perm_sysopt_boost_auto_start">Разрешения автозапуска</string>
 	<string name="wifi_security_WAPI_CERT">Сертификат WAPI</string>
 	<string name="radio_info_network_type_label">Тип сети:</string>
-	<string name="notification_sound_title">Уведомление по умолчанию</string>
+	<string name="notification_sound_title">Уведомление</string>
 	<string name="master_clear_accounts">\n\nВ настоящее время вы выполнили вход в следующие аккаунты:\n</string>
 	<string name="sdcard_settings_bad_removal_status">SD-карта была извлечена во время использования!</string>
 	<string name="wfd_settings_title">Дисплей Wi-Fi</string>
@@ -1003,7 +1003,7 @@
 	<string name="erase_external_storage_description">Удалить с SD-карты все данные, в том числе музыку и фотографии</string>
 	<string name="accessibility_service_default_description">Нет описания</string>
 	<string name="bluetooth_sap_profile_summary_not_connected">Не подключено к серверу доступа SIM</string>
-	<string name="sms_delivered_sound_title">Уведомление о доставке</string>
+	<string name="sms_delivered_sound_title">Доставлено</string>
 	<string name="intent_sender_startactivity_text">Запустить активити</string>
 	<string name="wifi_wapi_cert_mgmt_as_format_is_wrong">Формат сертификата неверен! Установите правильный сертификат</string>
 	<string name="bluetooth_enter_passkey_msg">Для подключения к устройству &lt;br>&lt;b>%1$s&lt;/b>&lt;br>&lt;br> введите пароль:</string>
@@ -1128,7 +1128,7 @@
 	<string name="local_backup_password_summary_change">Выберите этот параметр, чтобы изменить или удалить пароль для резервного копирования</string>
 	<string name="select_application">Выбор приложения</string>
 	<string name="wifi_unchanged">(не изменялось)</string>
-	<string name="ringtone_title">Мелодия по умолчанию</string>
+	<string name="ringtone_title">Мелодия</string>
 	<string name="sim_enter_cancel">Отмена</string>
 	<string name="unlock_change_lock_pattern_title">Изменить графический ключ разблокировки</string>
 	<string name="bluetooth_quick_toggle_summary">Включить Bluetooth</string>
@@ -1261,7 +1261,7 @@
 	<string name="lock_title">Обеспечение безопасности телефона</string>
 	<string name="wifi_tether_failed_subtext">Ошибка подключения</string>
 	<string name="perm_hips_mobile_network_desc">Мобильная сеть</string>
-	<string name="sms_received_sound_title">Уведомление о сообщении</string>
+	<string name="sms_received_sound_title">Сообщение</string>
 	<string name="key_settings_title">Клавиши</string>
 	<string name="perm_hips_security_prompt_title">%1$s пытается %2$s</string>
 	<string name="radio_info_ppp_resets_label">Количество сбросов PPP после загрузки:</string>
