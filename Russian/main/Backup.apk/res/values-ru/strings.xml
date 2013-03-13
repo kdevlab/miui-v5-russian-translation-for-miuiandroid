@@ -52,7 +52,7 @@
 	<string name="import_from_xiaomi_account_hint_title">Используйте MiTalk для резервного копирования контактов на других устройствах</string>
 	<string name="data_no_enough_space_message">Резервное копирование может завершиться с ошибкой, пожалуйста освободите место на внутренней памяти</string>
 	<string name="restore_data">Восстановить</string>
-	<string name="system_backup">Системный бэкап</string>
+	<string name="system_backup">Бэкап</string>
 	<string name="cloud_restore_guide">Нажмите кнопку Начать для восстановления данных\nВы можете восстановить %s в Р.К.</string>
 	<string name="total_num">%d всего записей</string>
 	<string name="task_restore_cancel_dialog">Вы собираетесь отменить операцию.\nЭто может привести к потере данных!</string>

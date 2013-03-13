@@ -3,7 +3,7 @@
 <resources>
 	<string name="dotDesc">point</string>
 	<string name="rightParen">)</string>
-	<string name="rightParenDesc">right parenthesis</string>
+	<string name="rightParenDesc">Правая скобка</string>
 	<string name="cos">cos</string>
 	<string name="text_copied_toast">Текст скопирован</string>
 	<string name="dot">.</string>
@@ -52,12 +52,12 @@
 	<string name="e">e</string>
 	<string name="error">Ошибка</string>
 	<string name="standard">standard</string>
-	<string name="leftParenDesc">left parenthesis</string>
+	<string name="leftParenDesc">Левая скобка</string>
 	<string name="sqrt">√</string>
 	<string name="factorialDesc">Факториал</string>
 	<string name="equal">=</string>
 	<string name="mul">*</string>
-	<string name="sqrtDesc">square root</string>
+	<string name="sqrtDesc">Квадратный корень</string>
 	<string name="clearDesc">clear</string>
 	<string name="sin">sin</string>
 	<string name="tan_mathematical_value">tan</string>
