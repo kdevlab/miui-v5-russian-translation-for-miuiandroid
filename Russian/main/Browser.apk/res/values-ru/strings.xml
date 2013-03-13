@@ -161,6 +161,7 @@
 	<string name="local_bookmarks">Локальные</string>
 	<string name="warning">Внимание</string>
 	<string name="autofill_profile_editor_phone_number_invalid">Неправильный номер телефона</string>
+	<string name="pref_general_setting_title">Настройки</string>
 	<string name="pref_development_reset_prelogin">Сброс предлогин</string>
 	<string name="contextmenu_send_mail">Отправить сообщение по электронной почте</string>
 	<string name="tab_history">История</string>
@@ -421,6 +422,7 @@
 	<string name="pref_extras_reset_default_summary">Восстановить значения по умолчанию</string>
 	<string name="search_yahoo">Yahoo</string>
 	<string name="add_bookmark">Добавить закладку</string>
+	<string name="pref_setting_title">Настройки страницы</string>
 	<string name="import_bookmarks_dialog_title">Синхронизация с аккаунтом Google</string>
 	<string name="send_bookmark_to_home_screen">Создать ярлык на рабочем столе</string>
 	<string name="importing_favorite_files">Импорт данных...</string>
