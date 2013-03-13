@@ -15,7 +15,7 @@
 	<string name="number_type_miui">Тип номера</string>
 	<string name="fdn_enabled_miui">Разрешенные номера включены</string>
 	<string name="pin_failed">Введен неверный PIN</string>
-	<string name="turnover_mute_summary_miui">Переверните для выключения звука, когда телефон лежит горизонтально</string>
+	<string name="turnover_mute_summary_miui">Переверните телефон для выключения звука, когда телефон лежит горизонтально</string>
 	<string name="internet_phone">Интернет-вызов</string>
 	<string name="exportContacts">Экспорт контактов на SIM-карту…</string>
 	<string name="voice_quality_ui_values_bright_miui">Яркий</string>
