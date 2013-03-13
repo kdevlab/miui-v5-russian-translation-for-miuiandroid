@@ -443,7 +443,7 @@
 	<string name="add_zero_prefix">Добавить префикс 0 при наборе мобильных номеров</string>
 	<string name="callFailed_simError">SIM-карта не установлена или ошибка SIM-карты</string>
 	<string name="sub2LineNumber">Sub2 Number :</string>
-	<string name="handon_ringer_summary_miui">Бесполезно, когда вибрация включена для входящего вызова</string>
+	<string name="handon_ringer_summary_miui">Если телефон взять в руки при входящем вызове, звук станет тихим</string>
 	<string name="restaurants_enable">Рестораны включены</string>
 	<string name="lafs_enable">Расписание рейсов местного аэропорта включено</string>
 	<string name="dtmf_tones_summary">Настроить длительность тональных сигналов DTMF</string>
@@ -555,7 +555,7 @@
 	<string name="command_error_illegal_sim_or_me_miui">Выбор сети неудачен из-за неправильной SIM/ME</string>
 	<string name="onscreenSwapCallsText">Перевод звонка</string>
 	<string name="emergency_call_area_code_edit_dialog_hint_miui">Например: 112</string>
-	<string name="enforce_proximity_summary_miui">Предотвращение ошибки соединения, когда мобильный телефон в кармане брюк</string>
+	<string name="enforce_proximity_summary_miui">Блокировать экран при входящем вызове, когда телефон в кармане</string>
 	<string name="cfu_title_miui">Всегда переадресовать</string>
 	<string name="preferred_network_mode_cdma_evdo_summary">Предпочтительная сеть: CDMA/EvDo</string>
 	<string name="sliding_up_hint_miui">Сдвиньте вверх, чтобы отклонить</string>
@@ -820,7 +820,7 @@
 	<string name="respond_via_sms_confirmation_format">Сообщение отправлено на номер %s</string>
 	<string name="sip_accounts_title">Аккаунты</string>
 	<string name="notification_voicemail_title_count">Новое сообщение голосовой почты (%d)</string>
-	<string name="handon_ringer_title_miui">Телефон в руках</string>
+	<string name="handon_ringer_title_miui">Тихий вызов в руках</string>
 	<string name="ussdRunning">Выполняется запрос USSD…</string>
 	<string name="notification_missedCall_message">Сообщение</string>
 	<string name="current_areacode_sum_set_miui">Код вашей страны: %s</string>
@@ -995,7 +995,7 @@
 	<string name="disable_cfb_forbidden">Ваш оператор не поддерживает отключение переадресации звонков, если телефон занят</string>
 	<string name="ContactScreen">Доб./изм. SIM контакт</string>
 	<string name="telocation_setting_summary_countrycode_off">не добавлять код страны</string>
-	<string name="enforce_proximity_title_miui">Датчик приближения</string>
+	<string name="enforce_proximity_title_miui">Предотвращение ошибок</string>
 	<string name="auto_record_call_title_miui">Автоматическая запись</string>
 	<string name="ota_skip_activation_dialog_title">Пропустить активацию?</string>
 	<string name="onscreen_audio_mode_handset_miui">Динамик телефона</string>
