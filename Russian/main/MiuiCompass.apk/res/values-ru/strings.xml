@@ -13,7 +13,7 @@
 	<string name="app_label">Компас</string>
 	<string name="direction_west">З</string>
 	<string name="altitude_unit">м</string>
-	<string name="longitude">LON</string>
+	<string name="longitude">Долгота</string>
 	<string name="altitude_title">Высота</string>
 	<string name="direction_south">Ю</string>
 	<string name="pressure">%.1f</string>
@@ -25,6 +25,6 @@
 	<string name="cannot_get_location">Не удалось получить координаты</string>
 	<string name="direction_north">С</string>
 	<string name="location_south">Ю.Ш.</string>
-	<string name="latitude">LAT</string>
+	<string name="latitude">Широта</string>
 	<string name="location_north">С.Ш.</string>
 </resources>
