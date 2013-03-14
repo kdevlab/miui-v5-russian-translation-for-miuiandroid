@@ -1272,7 +1272,7 @@
 	<string name="sim_absent">Нет SIM/RUIM</string>
 	<string name="wifi_setup_title_add_network">Добавьте сеть</string>
 	<string name="debug_log">Журнал отладки</string>
-	<string name="dtmf_tone_enable_title"Звук клавиш</string>
+	<string name="dtmf_tone_enable_title">Звук клавиш</string>
 	<string name="config_list_label">Настроенные сети</string>
 	<string name="storageuse_settings_title">Использование памяти</string>
 	<string name="tts_engine_name_is_disabled_summary">%s: отключено</string>
