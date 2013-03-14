@@ -7,4 +7,9 @@
         <item>Большой</item>
         <item>Огромный</item>
     </string-array>
+    <string-array name="general_preference_auto_advance_summary_array">
+        <item>"Show newer message's screen after you delete a message"</item>
+        <item>"Show older message's screen after you delete a message"</item>
+        <item>"Show message list's screen after you delete a message"</item>
+    </string-array>
 </resources>
