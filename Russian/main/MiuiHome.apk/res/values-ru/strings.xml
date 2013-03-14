@@ -51,7 +51,7 @@
 	<string name="gadget_clock_22_label">Часы</string>
 	<string name="group_folder">Новая папка</string>
 	<string name="sdcard_status_changed_dialog_title">Изменился статус SD-карты</string>
-	<string name="uninstall_dialog_message">Будут очищены все данные приложения</string>
+	<string name="uninstall_dialog_message">Приложение будет удалено со всеми данными</string>
 	<string name="status_bar_toggle_vibrate">Вибрация</string>
 	<string name="free_style_edit_move_tip">Длительным нажатием можно переместить</string>
 	<string name="gadget_photo_22_label">Фоторамка</string>
