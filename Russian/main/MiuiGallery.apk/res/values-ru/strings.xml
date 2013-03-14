@@ -186,7 +186,7 @@
 	<string name="how_many_pics">Фотографий: %d</string>
 	<string name="slideshow_interval_invalid">Неверная настройка интервала времени, который должен быть от 1 до 3600. Возобновится интервал времени по умолчанию.</string>
 	<string name="title">Название</string>
-	<string name="confirm_delete">Удалить</string>
+	<string name="confirm_delete">Вы действительно хотите удалить выбранное?</string>
 	<string name="straighten">Выравнивание</string>
 	<string name="video_err">Не удалось воспроизвести видео</string>
 	<string name="no_network_connected">Нет подключения к сети</string>
