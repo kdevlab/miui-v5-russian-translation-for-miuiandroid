@@ -3,11 +3,11 @@
 <resources>
 	<string name="act_action_accept_reject">Блокировать сообщения</string>
 	<string name="opt_accept_whitelist">Принимать из белого списка</string>
-	<string name="call_log_tab_title">Звонков</string>
 	<string name="anti_stranger_title">Режим \"Свои\"</string>
 	<string name="emptylist_fwlog_ms">Все заблокированные сообщения будут храниться в этом журнале</string>
+	<string name="call_log_tab_title">Звонки</string>
 	<string name="no">Отмена</string>
-	<string name="opt_reject_blacklist_stranger_summary">Отклонение контактов которые не в списке</string>
+	<string name="opt_reject_blacklist_stranger_summary">Отклонять звонки из черного списка и принимать из белого</string>
 	<string name="act_ignore_ms">Игнорировать уведомления</string>
 	<string name="fw_call_rejected">Вызов заблокирован</string>
 	<string name="fw_ms_imported">Импортируются SMS</string>
@@ -44,10 +44,10 @@
 	<string name="remove">Удалить</string>
 	<string name="fw_ms_rejected">Сообщение заблокировано</string>
 	<string name="act_hangup_call_summary">Отклоненные номера не будут отображаться в журнале вызовов</string>
-	<string name="fw_time_settings">Время</string>
-	<string name="fw_call" formatted="false">Перехвачено звонков: %s (%d)</string>
+	<string name="fw_time_settings">Блокировка по расписанию</string>
+	<string name="fw_call" formatted="false">Перехват вызовов ：%s (%d)</string>
 	<string name="context_new_contact">Новый контакт</string>
-	<string name="black_white_list_tab_title">Списки</string>
+	<string name="black_white_list_tab_title">Фильтры</string>
 	<string name="act_mute_ms">Уведомления без звука</string>
 	<string name="act_action_accept_mute">Сообщения без звука</string>
 	<string name="fw_set_keyword">Список ключевых слов</string>
