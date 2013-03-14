@@ -119,7 +119,7 @@
 	<string name="radioInfo_cid">CID</string>
 	<string name="location_title">Мое местоположение</string>
 	<string name="battery_info_power_ac">Питание от сети</string>
-	<string name="lock_sounds_enable_title">Озвучивать блокировку экрана</string>
+	<string name="lock_sounds_enable_title">Звук блокировки экрана</string>
 	<string name="disable_power_key_long_press_under_keyguard">Отключить на экране блокировки</string>
 	<string name="apn_auth_type">Тип аутентификации</string>
 	<string name="lockpattern_need_to_unlock_wrong">Повторить:</string>
@@ -374,7 +374,7 @@
 	<string name="credentials_reset_warning_plural">Неверный пароль. Осталось несколько попыток (%1$d). Затем хранилище регистрационных данных будет очищено</string>
 	<string name="tether_settings_title_usb_bluetooth">Режим модема</string>
 	<string name="accelerometer_summary_off">Автоматически менять ориентацию экрана при повороте телефона</string>
-	<string name="sound_effects_enable_title">Озвучивать нажатия на экран</string>
+	<string name="sound_effects_enable_title">Звук нажатия на экран</string>
 	<string name="bluetooth_mas_acceptance_dialog_text">%1$s хотели бы получить доступ к сообщениям. Разрешить доступ к %2$s?</string>
 	<string name="lockpattern_tutorial_cancel_label">Отмена</string>
 	<string name="screen_saturation_adjust">Насыщенность</string>
@@ -1272,7 +1272,7 @@
 	<string name="sim_absent">Нет SIM/RUIM</string>
 	<string name="wifi_setup_title_add_network">Добавьте сеть</string>
 	<string name="debug_log">Журнал отладки</string>
-	<string name="dtmf_tone_enable_title">Озвучивать клавиши</string>
+	<string name="dtmf_tone_enable_title"Звук клавиш</string>
 	<string name="config_list_label">Настроенные сети</string>
 	<string name="storageuse_settings_title">Использование памяти</string>
 	<string name="tts_engine_name_is_disabled_summary">%s: отключено</string>
