@@ -8,8 +8,8 @@
         <item>Огромный</item>
     </string-array>
     <string-array name="general_preference_auto_advance_summary_array">
-        <item>"Show newer message's screen after you delete a message"</item>
-        <item>"Show older message's screen after you delete a message"</item>
-        <item>"Show message list's screen after you delete a message"</item>
+        <item>"Переходить к новому сообщению после удаления"</item>
+        <item>"Переходить к старому сообщению после удаления"</item>
+        <item>"Переходить к списку сообщений после удаления"</item>
     </string-array>
 </resources>
