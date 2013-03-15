@@ -53,7 +53,7 @@
 	<string name="installed">устан.</string>
 	<string name="install_sign_not_same_message">%1$s update does not match local application signature. You must uninstall the local version to install this update. Continue?</string>
 	<string name="comment_upload_account_not_activitied">Ваш аккаунт не активирован, пожалуйста, активируйте и попробуйте еще раз</string>
-	<string name="launch">Запустить приложение</string>
+	<string name="launch">Запустить</string>
 	<string name="expand_full_text">Развернуть весь текст▼</string>
 	<string name="recommendation_tag">Все</string>
 	<string name="show_all_local_app_with_count">Все приложения (%1$d)</string>
@@ -130,7 +130,7 @@
 	<string name="system_app_sign_not_match_fail">Ошибка установки %1$s: несовместимая подпись приложения</string>
 	<string name="notif_installing">Установка “%1$s”…</string>
 	<string name="install_hash_fail">%1$s - ошибка установки</string>
-	<string name="installing">установка...</string>
+	<string name="installing">Установка</string>
 	<string name="hot_rank_tag">Топ рейтинга</string>
 	<string name="new_app_tag">Новые</string>
 	<string name="loading_update_list">Загрузка списка обновлений...</string>
