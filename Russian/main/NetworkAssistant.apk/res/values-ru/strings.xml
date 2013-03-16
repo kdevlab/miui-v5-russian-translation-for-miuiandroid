@@ -108,7 +108,7 @@
 	<string name="sync_traffic_fail_message">Синхронизация с оператором не удалась, сервер занят. Пожалуйста, попробуйте позже или позвоните в поддержку %s для помощи</string>
 	<string name="about">О программе</string>
 	<string name="notify_traffic_settings_title">Вы не настроили ваш тарифный план. Настроить сейчас?</string>
-	<string name="traffic_none">N/A</string>
+	<string name="traffic_none">Н/Д</string>
 	<string name="force_stop_dlg_text">Завершение работы приложения может вызвать ошибки</string>
 	<string name="app_name">Монитор</string>
 	<string name="adjust_traffic_auto_adjust_title">Авторегуляция трафика</string>
