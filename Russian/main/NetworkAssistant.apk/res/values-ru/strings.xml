@@ -43,7 +43,7 @@
 	<string name="daily_limit_dialog_disconnect_hint">Отключать интернет при превышении лимита трафика</string>
 	<string name="apply_rules_failed_known">OK</string>
 	<string name="carrier_query_number_brand">Бренд</string>
-	<string name="app_detail_internet_background_traffic">Foreground: %1$s Background: %2$s</string>
+	<string name="app_detail_internet_background_traffic">Передний план: %1$s Фон: %2$s</string>
 	<string name="daily_limit_result">Предупреждать меня и отключать интернет при превышении ежедневного трафика (%dMB)</string>
 	<string name="settings_page_adjust_summary_no_carrier">Оператор не настроен, авторегуировка трафика отключена</string>
 	<string name="disable_background_connect_warning">При ограничении фонового трафика некоторые приложения или службы не смогут работать через 2G/3G. Вы уверены?</string>
@@ -55,7 +55,7 @@
 	<string name="menu_display_wifi">Показать Wi-Fi-трафик</string>
 	<string name="finish_traffic_settings_title">Настройки трафика</string>
 	<string name="overseas_menu_traffic_adjust">Настройка вручную</string>
-	<string name="unknown">N/A</string>
+	<string name="unknown">Н/Д</string>
 	<string name="overseas_unknown_traffic_hint">Предел трафика не настроен. Настроить сейчас?</string>
 	<string name="menu_hide_system_app">Скрыть системные приложения</string>
 	<string name="pref_netwotk_speed_internal_summary">Обновлять скорость сети каждые %d сек</string>
