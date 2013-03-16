@@ -205,7 +205,7 @@
 	<string name="throttle_time_frame_subtext">%1$s превышен максимум.\nЧастота данных уменьшена до %2$d кБ/с</string>
 	<string name="invalidPuk2">Введите 8-значный код PUK2</string>
 	<string name="label_rspdp">RUIM service provider unlock PIN</string>
-	<string name="voicemail_notification_vibrate_when_title">Вибрация</string>
+	<string name="voicemail_notification_vibrate_when_title">Вибрация при голосовой почте</string>
 	<string name="callFailed_cb_enabled">Если включена функция запрета вызовов, невозможно осуществлять исходящие вызовы</string>
 	<string name="add_vm_number_str">Добавить номер</string>
 	<string name="description_image_button_six">шесть</string>
@@ -717,7 +717,7 @@
 	<string name="primary_account_summary_with">Основной аккаунт. %s</string>
 	<string name="confirm_delete_message_title_miui">Вы уверены, что хотите удалить выбранную региональную приставку?</string>
 	<string name="entertainment_news_settings">Калейдоскоп</string>
-	<string name="connect_disconnect_vibrate_title_miui">Вибрация</string>
+	<string name="connect_disconnect_vibrate_title_miui">Вибрация при приеме вызова</string>
 	<string name="retail_directory_disable">Торговый каталог отключен</string>
 	<string name="call_forwarding_settings_miui">Переадресация вызовов</string>
 	<string name="invalid_pin_miui">Неверный PIN-код, пожалуйста, введите PIN-код, содержащий от 4 до 8 цифр</string>
