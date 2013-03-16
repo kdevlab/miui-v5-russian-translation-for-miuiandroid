@@ -47,4 +47,12 @@
         <item>"Сегодня "</item>
         <item>"Завтра "</item>
     </string-array>
+    <string-array name="alarm_count_entries">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>Выключено</item>
+    </string-array>
 </resources>
