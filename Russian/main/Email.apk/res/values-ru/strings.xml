@@ -23,7 +23,7 @@
 	<string name="notify_uploads">Загрузка с телефона</string>
 	<string name="message_list_subject_snippet_divider">" – "</string>
 	<string name="message_view_cc_label">Копия:</string>
-	<string name="search_header_text_fmt">Результаты поиска для \"%1$s\"</string>
+	<string name="search_header_text_fmt">Результаты поиска</string>
 	<string name="account_setup_account_type_imap_action">IMAP</string>
 	<string name="mailbox_name_display_junk">Спам</string>
 	<string name="general_preference_auto_advance_label">Автопереход</string>
