@@ -1,23 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!--Decoded with KDG BigBlackBox-->
 <resources>
-    <string-array name="yandex_ru">
-        <item>Яндекс</item>
-        <item>yandex.ru</item>
-        <item>http://yandex.ru/favicon.ico</item>
-        <item>http://yandex.ru/touchsearch?&amp;clid=1788326&amp;text={searchTerms}</item>
-        <item>UTF-8</item>
-        <item>http://suggest.yandex.net/suggest-ff.cgi?&amp;clid=1788326&amp;part={searchTerms}</item>
-    </string-array>
     <string-array name="pref_content_plugins_choices">
         <item>Да</item>
         <item>По требованию</item>
         <item>Нет</item>
     </string-array>
     <string-array name="pref_homepage_choices">
-        <item>Текущая страница</item>
-        <item>Домашняя MIUI</item>
-        <item>Пустая страница</item>
-        <item>Страница по умолчанию</item>
+        <item>Начальная страница</item>
         <item>Часто посещаемые веб-сайты</item>
         <item>Другая</item>
     </string-array>
@@ -43,38 +33,7 @@
         <item>Японская (EUC-JP)</item>
         <item>Корейская (EUC-KR)</item>
     </string-array>
-    <string-array name="bookmarks">
-        <item>Google</item>
-        <item>http://www.google.com/</item>
-        <item>VK.com</item>
-        <item>http://vk.com/</item>
-        <item>Яндекс</item>
-        <item>http://www.yandex.ru/</item>
-        <item>Прошивки</item>
-        <item>http://romz.bz/</item>
-        <item>Twitter</item>
-        <item>http://twitter.com/</item>
-        <item>Facebook</item>
-        <item>http://www.facebook.com/</item>
-        <item>Wikipedia</item>
-        <item>http://www.wikipedia.org/</item>
-        <item>eBay</item>
-        <item>http://www.ebay.com/</item>
-    </string-array>
-    <string-array name="search_engines">
-        <item>google</item>
-        <item>yandex_ru</item>
-        <item>bing</item>
-    </string-array>
-    <string-array name="pref_volume_key_choices">
-        <item>Прокрутка страницы</item>
-        <item>Переключение вкладок</item>
-    </string-array>
-    <string-array name="pref_fling_on_border_choices">
-        <item>Страница вперед/назад</item>
-        <item>Переключение вкладок</item>
-    </string-array>
-    <string-array name="pref_video_preload_choices">
+    <string-array name="pref_data_preload_choices">
         <item>Никогда</item>
         <item>Только Wi-Fi</item>
         <item>Всегда</item>
@@ -84,9 +43,47 @@
         <item>Только Wi-Fi</item>
         <item>Всегда</item>
     </string-array>
-    <string-array name="pref_data_preload_choices">
+    <string-array name="pref_video_preload_choices">
         <item>Никогда</item>
         <item>Только Wi-Fi</item>
         <item>Всегда</item>
+    </string-array>
+    <string-array name="bookmarks">
+        <item>Google</item>
+        <item>http://www.google.com/</item>
+        <item>Прошивки</item>
+        <item>http://romz.bz/</item>
+        <item>Yahoo!</item>
+        <item>http://www.yahoo.com/</item>
+        <item>MSN</item>
+        <item>http://www.msn.com/</item>
+        <item>Twitter</item>
+        <item>http://twitter.com/</item>
+        <item>Facebook</item>
+        <item>http://www.facebook.com/</item>
+        <item>Wikipedia</item>
+        <item>http://www.wikipedia.org/</item>
+        <item>eBay</item>
+        <item>http://www.ebay.com/</item>
+        <item>CNN</item>
+        <item>http://www.cnn.com/</item>
+        <item>NY Times</item>
+        <item>http://www.nytimes.com/</item>
+        <item>ESPN</item>
+        <item>http://espn.com/</item>
+        <item>Amazon</item>
+        <item>http://www.amazon.com/</item>
+        <item>Weather Channel</item>
+        <item>http://www.weather.com/</item>
+        <item>BBC</item>
+        <item>http://www.bbc.co.uk/</item>
+    </string-array>
+    <string-array name="pref_volume_key_choices">
+        <item>Прокрутка страницы</item>
+        <item>Переключение вкладок</item>
+    </string-array>
+    <string-array name="pref_fling_on_border_choices">
+        <item>Страница вперед/назад</item>
+        <item>Переключение вкладок</item>
     </string-array>
 </resources>
