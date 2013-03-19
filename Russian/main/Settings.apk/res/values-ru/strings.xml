@@ -412,7 +412,7 @@
 	<string name="vpn_dns_servers">DNS-серверы (например, 8.8.8.8)</string>
 	<string name="bluetooth_pb_acceptance_dialog_text">Устройство %1$s пытается получить доступ к вашим контактам и журналу вызовов. Предоставить доступ для %2$s?</string>
 	<string name="privacy_settings_title">Восстановление и сброс</string>
-	<string name="wifi_poor_network_detection_summary">Не использовать Wi-Fi сеть пока будет стабильного соединения с Интернет</string>
+	<string name="wifi_poor_network_detection_summary">Не использовать Wi-Fi сеть пока не будет стабильного интернет-соединения</string>
 	<string name="wifi_setup_title_editing_network">Подключение к сети Wi-Fi %s</string>
 	<string name="bluetooth_tethering_devices_connected_subtext">Интернет-подключение телефона используется %1$d устройствами</string>
 	<string name="accessibility_service_state_off">Отключено</string>

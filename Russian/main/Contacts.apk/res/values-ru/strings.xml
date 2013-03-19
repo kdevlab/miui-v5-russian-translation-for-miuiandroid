@@ -799,4 +799,8 @@
 	<string name="description_image_button_two">два</string>
 	<string name="invalidContactMessage">Контакт удален</string>
 	<string name="device_pairing_dialog_message">Возможно Вам придется подтвердить сопряжение на другом телефоне</string>
+        <string name="add_xiaomi_account_dialog_title">Выберите аккаунт</string>
+        <string name="add_xiaomi_account_dialog_msg">Рекомендуется сохранить контакты в аккаунт Xiaomi. Аккаунты Xiaomi позволяют производить синхронизацию и резервное копирование контактной информации и управление контактами на Вашем компьютере.</string>
+        <string name="add_xiaomi_account_dialog_btn">Исп. аккаунт Xiaomi</string>
+        <string name="keep_local_btn">Сохр. только в телефон</string>
 </resources>
