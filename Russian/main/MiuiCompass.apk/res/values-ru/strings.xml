@@ -7,15 +7,15 @@
 	<string name="pressure_title">Давление</string>
 	<string name="menu_calibrate">Калибровать</string>
 	<string name="location_west">З.Д.</string>
-	<string name="direction_east">E</string>
+	<string name="direction_east">В</string>
 	<string name="dialog_title_no_network">Сетей не найдено, подключитесь через Wi-Fi или включите мобильный интернет</string>
 	<string name="calibrate_failed_timeout">Ошибка калибрации: Сервер не отвечает</string>
 	<string name="app_label">Компас</string>
-	<string name="direction_west">W</string>
+	<string name="direction_west">З</string>
 	<string name="altitude_unit">м</string>
 	<string name="longitude">Долгота</string>
 	<string name="altitude_title">Высота</string>
-	<string name="direction_south">S</string>
+	<string name="direction_south">Ю</string>
 	<string name="pressure">%.1f</string>
 	<string name="getting_location">Получение координат...</string>
 	<string name="location_east">В.Д.</string>
@@ -23,7 +23,7 @@
 	<string name="calibrate_failed_no_location">Ошибка калибрации: невозможно получить данные</string>
 	<string name="pressure_unit">гПа</string>
 	<string name="cannot_get_location">Не удалось получить координаты</string>
-	<string name="direction_north">N</string>
+	<string name="direction_north">С</string>
 	<string name="location_south">Ю.Ш.</string>
 	<string name="latitude">Широта</string>
 	<string name="location_north">С.Ш.</string>
