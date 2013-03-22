@@ -46,6 +46,7 @@
 	<string name="resource_comment_edit_comment_waiting">Проверка Ваших ответов к этой теме...</string>
 	<string name="theme_component_title_notification">Уведомл.</string>
 	<string name="loading_resource_detail_info">Загрузка...</string>
+	<string name="restore_default_theme_alert">Вы можете стать жертвой подделки темы, перейдите в магазин тем, чтобы купить или повторно загрузить тему.</string>
 	<string name="theme_component_title_photo_frame">Фоторамка</string>
 	<string name="component_select_title">%1$s пунктов</string>
 	<string name="theme_component_title_wallpaper">Обои рабочего стола</string>
@@ -159,6 +160,7 @@
 	<string name="backup_preference_title">Резервное копирование</string>
 	<string name="theme_import_item_waiting">Ожидание</string>
 	<string name="resource_online">Онлайн %1$s</string>
+	<string name="theme_component_title_alarmstyle">Будильник</string>
 	<string name="resource_app_name">Браузер ресурсов</string>
 	<string name="description_uploadtime">Обновление:</string>
 	<string name="apply_font_btn_exclude">Без шрифта</string>
