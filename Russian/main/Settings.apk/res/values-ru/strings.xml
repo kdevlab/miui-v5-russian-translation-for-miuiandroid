@@ -12,8 +12,8 @@
 	<string name="accessibility_sync_error">Ошибка синхронизации</string>
 	<string name="radioInfo_data_disconnected">Отключено</string>
 	<string name="internal_format">Очистить внутренний накопитель</string>
-	<string name="bluetooth_no_devices_found">Устройства Bluetooth не найдены</string>
 	<string name="usb_mtp_summary">Позволяет передавать файлы мультимедиа в ОС Windows или использовать для этого Android File Transfer в ОС Mac (см. www.android.com/filetransfer)</string>
+	<string name="bluetooth_no_devices_found">Устройства Bluetooth не найдены</string>
 	<string name="perm_service_disabled">Служба отключена</string>
 	<string name="apn_general">Интернет</string>
 	<string name="sms_over_ims_on">Включить SMS через IMS</string>
@@ -29,10 +29,7 @@
 	<string name="device_admin_title">Администрирование устройства</string>
 	<string name="font_size_large">Большой</string>
 	<string name="sim_enter_old">Прежний PIN-код SIM-карты</string>
-	<string name="bluetooth_ftp_request">Ftp запрос</string>
 	<string name="radio_info_band_mode_label">Выбрать радиостанцию</string>
-	<string name="bluetooth_sap_connection_permission_request">Sap запрос на соединение</string>
-	<string name="bluetooth_profile_dun">Доступ к сети Dial-up</string>
 	<string name="erase_optional">Опциональное удаление</string>
 	<string name="use_location_title">Учитывать при поиске</string>
 	<string name="dolby_preset_create">Создать</string>
@@ -52,13 +49,12 @@
 	<string name="accessibility_service_disable_warning_summary">Чтобы отключить %1$s, нажмите ОК</string>
 	<string name="perm_su_switch">Права суперпользователя</string>
 	<string name="use_location_summary">Разрешить Google использовать данные о местоположении для улучшения поиска и работы других служб</string>
-	<string name="data_usage_enable_mobile">Мобильный трафик</string>
 	<string name="vibrate_when_ringing_title">Вибро и звонок</string>
+	<string name="data_usage_enable_mobile">Мобильный трафик</string>
 	<string name="security_relative">Вопросы безопасности</string>
 	<string name="data_usage_cycle_editor_subtitle">День месяца:</string>
 	<string name="pref_button_light">Подсветка клавиш</string>
 	<string name="wifi_advanced_ip_address_title">IP-адрес</string>
-	<string name="bluetooth_dun_profile_summary_connected">Соединение с DUN-сервером</string>
 	<string name="no_services">Неактивен</string>
 	<string name="perm_su_disabled">Root права отключены</string>
 	<string name="lockpattern_need_to_unlock">Начертите существующий ключ</string>
@@ -74,6 +70,7 @@
 	<string name="app_name_label">Приложение</string>
 	<string name="wifi_forget">Не подключаться</string>
 	<string name="debug_applications_category">Приложения</string>
+	<string name="device_name_input_hint">Введите имя вашего устройства</string>
 	<string name="user_add_user_menu">Добавить пользователя</string>
 	<string name="perm_hips_network_accept">принять соединение от %1$s</string>
 	<string name="led_pulse_summary">Мигать светодиодом при новых уведомлениях</string>
@@ -133,12 +130,10 @@
 	<string name="disable_text">Отключить</string>
 	<string name="accelerometer_title">Автоповорот экрана</string>
 	<string name="menu_key">Клавиша Меню</string>
-	<string name="bluetooth_ftp_remember_choice">Больше не спрашивать</string>
 	<string name="local_backup_password_toast_confirmation_mismatch">Новый пароль и подтверждение не совпадают</string>
 	<string name="erase_internal_storage">Очистить внутренний накопитель</string>
 	<string name="battery_sugg_apps_settings">В программе могут быть настройки режима энергосбережения</string>
 	<string name="user_remove_user_menu">Удалить пользователя</string>
-	<string name="bluetooth_sap_profile_summary_connected">Подключение к серверу доступа SIM</string>
 	<string name="credentials_configure_lock_screen_hint">Прежде чем использовать хранилище учетных данных, необходимо задать PIN-код или пароль для блокировки экрана</string>
 	<string name="pointer_location_summary">Экран, показывающий данные о прикосновении</string>
 	<string name="wfd_wps_keypad">Нажатие кнопки</string>
@@ -154,7 +149,6 @@
 	<string name="tts_settings_title">Синтез речи</string>
 	<string name="virus_scan_app_risk">Найдена угроза!</string>
 	<string name="settings_license_activity_title">Лицензии открытого ПО</string>
-	<string name="multi_sim_settings_title">Настройка нескольких сим</string>
 	<string name="unlock_disable_lock_password_summary">Удалить пароль разблокировки</string>
 	<string name="tts_general_section_title">Общие</string>
 	<string name="help_label">Помощь</string>
@@ -162,6 +156,7 @@
 	<string name="dock_audio_summary_none">Телефон не подключен к док-станции</string>
 	<string name="lockpassword_choose_your_pin_header">Выберите ПИН-код</string>
 	<string name="sound_category_system_title">Система</string>
+	<string name="device_edit_title">Сменить имя устройства</string>
 	<string name="data_usage_metered_title">Мобильные точки доступа</string>
 	<string name="trusted_credentials_summary">Показывать надежные сертификаты ЦС</string>
 	<string name="search_airplane">Режим полета</string>
@@ -184,7 +179,6 @@
 	<string name="sdcard_format">Очистить SD-карту</string>
 	<string name="bluetooth_untether_blank">Подключение к %1$s будет прервано</string>
 	<string name="wifi_security_eap">802.1x EAP</string>
-	<string name="bluetooth_map_connection_permission_request">Map connection request</string>
 	<string name="internal_media_format_desc">Очистить внутренний накопитель? Вы потеряете</string>
 	<string name="enforce_read_external_confirm_title">Защитить USB хранилище?</string>
 	<string name="tts_engine_error_reselect">Выбрать другую систему</string>
@@ -192,8 +186,8 @@
 	<string name="bluetooth_device_advanced_title">Тип подключения</string>
 	<string name="proxy_error_empty_port">Необходимо заполнить поле порта</string>
 	<string name="bluetooth_rename_button">Переименовать</string>
-	<string name="data_usage_auto_sync_on_dialog">Любые изменения аккаунта в сети автоматически будут скопированы в телефон.\n+Некоторые аккаунты также могут автоматически копировать изменения с телефона в сеть. Аккаунт Google работает именно так.\n \u0009 \u0009\n+Для выбора данных для синхронизации перейдите в Настройки > Аккаунты</string>
 	<string name="date_and_time_settings_summary">Установка даты, времени, часового пояса и формата</string>
+	<string name="data_usage_auto_sync_on_dialog">Любые изменения аккаунта в сети автоматически будут скопированы в телефон.\n+Некоторые аккаунты также могут автоматически копировать изменения с телефона в сеть. Аккаунт Google работает именно так.\n \u0009 \u0009\n+Для выбора данных для синхронизации перейдите в Настройки > Аккаунты</string>
 	<string name="unknown">Неизвестно</string>
 	<string name="bluetooth_dock_settings_remember">Запомнить настройки</string>
 	<string name="preferred_launcher_warning_replace">Применить</string>
@@ -208,7 +202,6 @@
 	<string name="oem_radio_info_label">Информация/настройки OEM</string>
 	<string name="install_all_warning">Ваши личные данные и данные телефона более уязвимы для атак приложений из неизвестных источников. Вы соглашаетесь с тем, что несете полную ответственность за любой ущерб, нанесенный телефону, и потерю данных, связанные с использованием этих приложений</string>
 	<string name="unlock_set_unlock_disabled_summary">Запрещено администратором, политикой шифрования или хранилищем учетных данных</string>
-	<string name="wifi_p2p_menu_remove_group">Удалить группу</string>
 	<string name="display_font_size_label">Размер шрифта:</string>
 	<string name="keyboard_layout_dialog_title">Раскладка клавиатуры</string>
 	<string name="android_beam_label">Android Beam</string>
@@ -225,7 +218,6 @@
 	<string name="tts_settings_changed_demo">Ваши настройки изменены. Вот пример того, как это звучит</string>
 	<string name="dolby_roomsize_normal">Средняя комната</string>
 	<string name="volume_notification_mute">Отключить уведомления</string>
-	<string name="data_title">Данные вызова</string>
 	<string name="bluetooth_pairing_device_down_error_message">Не удается установить соединение с устройством \"%1$s\"</string>
 	<string name="use_default_tts_settings_summary">Настройки по умолчанию переопределяют настройки приложений</string>
 	<string name="perm_log_clear_title">Очистить журнал</string>
@@ -273,7 +265,6 @@
 	<string name="data_usage_uninstalled_apps">Удаленные приложения</string>
 	<string name="uninstall_text">Удалить</string>
 	<string name="sync_menu_sync_now">Синхронизировать</string>
-	<string name="multi_sim_settings_summary">Настройка настроек нескольких сим, для передачи голоса, данных и SMS</string>
 	<string name="unlock_set_unlock_password_title">Пароль</string>
 	<string name="dock_audio_summary_desk">Настройки подключенной настольной док-станции</string>
 	<string name="runningservicedetails_services_title">Службы</string>
@@ -332,7 +323,6 @@
 	<string name="lockpassword_pattern_set_toast">Ключ был установлен</string>
 	<string name="sound_category_sound_title">Общие</string>
 	<string name="perm_hips_listen_call_state">Доступ к вызовам</string>
-	<string name="sim_pin_enabled">PIN1 включен!</string>
 	<string name="wifi_fail_to_scan">Не удалось начать поиск сетей</string>
 	<string name="msd_install_retry_windows_xp">Если компьютер не обнаружит устройство правильно, попробуйте следующее:</string>
 	<string name="perm_canceling">Отмена...</string>
@@ -375,7 +365,6 @@
 	<string name="tether_settings_title_usb_bluetooth">Режим модема</string>
 	<string name="accelerometer_summary_off">Автоматически менять ориентацию экрана при повороте телефона</string>
 	<string name="sound_effects_enable_title">Звук нажатия на экран</string>
-	<string name="bluetooth_mas_acceptance_dialog_text">%1$s хотели бы получить доступ к сообщениям. Разрешить доступ к %2$s?</string>
 	<string name="lockpattern_tutorial_cancel_label">Отмена</string>
 	<string name="screen_saturation_adjust">Насыщенность</string>
 	<string name="local_backup_password_summary_none">Полные резервные копии в настоящее время не защищены</string>
@@ -481,7 +470,6 @@
 	<string name="lockpassword_choose_your_pattern_header">Создайте графический ключ</string>
 	<string name="msd_install_status_done">Драйвер уже установлен</string>
 	<string name="volume_voice_description">Разговор</string>
-	<string name="sim_pin_attempts">Оставшиеся попытки :</string>
 	<string name="radio_info_gsm_disconnects_label">Отключение GSM:</string>
 	<string name="wifi_security_wpa2">WPA2 PSK</string>
 	<string name="vpn_password">Пароль</string>
@@ -513,13 +501,11 @@
 	<string name="move_app_to_internal">Переместить на телефон</string>
 	<string name="wifi_wapi_cert_mgmt_as_dont_exist">SD карта не содержит AS сертификатов!</string>
 	<string name="reset_app_preferences_title">Сбросить настройки приложений?</string>
-	<string name="bluetooth_dun_profile_summary_not_connected">Not connected to DUN Server</string>
 	<string name="wfd_available_devices">Доступные устройства</string>
 	<string name="date_time_set_timezone">Часовой пояс</string>
 	<string name="lockpattern_settings_title">Графический ключ разблокировки</string>
 	<string name="perm_disable">Disable</string>
 	<string name="proxy_hostname_hint">proxy.example.com</string>
-	<string name="bluetooth_pbap_connection_permission_request">PBAP запрос на соединение</string>
 	<string name="virus_scanner_select_lib">Выбор базы сигнатур</string>
 	<string name="credentials_wrong_password">Неправильный пароль</string>
 	<string name="media_volume_summary">Настроить громкость музыки и видео</string>
@@ -574,6 +560,7 @@
 	<string name="auto_punctuate">Автопунктуация</string>
 	<string name="strict_mode_summary">Подсвечивать экран во время длительных операций</string>
 	<string name="wifi_wapi_user_cert">Пользовательский сертификат</string>
+	<string name="device_name_usage_point">Показать имя вашего устройства, при создании Bluetooth подключения, создании точку доступа и так далее.</string>
 	<string name="virus_scanner_select_OK">ОК</string>
 	<string name="unmount_inform_text">SD-карта будет отключена</string>
 	<string name="applications_settings">Управление приложениями</string>
@@ -622,7 +609,6 @@
 	<string name="sync_item_title">%s</string>
 	<string name="battery_indicator_style">Внешний вид индикатора</string>
 	<string name="dock_audio_summary_unknown">Настройки подключенной док-станции</string>
-	<string name="subscription_02_summary">Настройка параметров для настройки сети SUB2</string>
 	<string name="sd_ejecting_summary">Выполняется извлечение</string>
 	<string name="current_input_method">По умолчанию</string>
 	<string name="sdcard_settings_not_present_status">Нет SD-карты</string>
@@ -650,7 +636,6 @@
 	<string name="security_settings_title">Безопасность</string>
 	<string name="tts_engine_security_warning">Данная система синтеза речи может записывать произносимые слова, включая личные данные, такие как пароли и номера кредитных карт. Это осуществляет система %s. Разрешить использование этой системы синтеза речи?</string>
 	<string name="unlock_set_unlock_password_summary">Высокий уровень защиты</string>
-	<string name="set_data_subscription_progress">Установка подписки данных в процессе</string>
 	<string name="app_install_location_title">Место установки</string>
 	<string name="bluetooth_profile_hid">Профиль HID</string>
 	<string name="controls_label">Элементы управления</string>
@@ -694,12 +679,11 @@
 	<string name="perm_hips_wifi_network_hint">%1$s программы имеют доступ в Интернет через Wi-Fi сеть</string>
 	<string name="radioInfo_display_packets">pkts</string>
 	<string name="auto_restore_title">Автовосстановление</string>
-	<string name="data_usage_metered_body">Выбор Wi-Fi сетей, которые являются мобильными точками доступа. Приложениям может быть запрещено их использование в фоне, а также может появиться предупреждение при загрузке больших файлов.</string>
 	<string name="crypt_keeper_confirm_title">Подтвердить шифрование</string>
+	<string name="data_usage_metered_body">Выбор Wi-Fi сетей, которые являются мобильными точками доступа. Приложениям может быть запрещено их использование в фоне, а также может появиться предупреждение при загрузке больших файлов.</string>
 	<string name="disabled">Отключено</string>
 	<string name="allow_bind_app_widget_activity_always_allow_bind">Всегда разрешать %1$s создавать виджеты и получать доступ к их данным</string>
 	<string name="credentials_title">Хранилище регистрационных данных</string>
-	<string name="bluetooth_profile_sap">Доступ к SIM</string>
 	<string name="perm_hips_prompt_all">Спрашивать всегда</string>
 	<string name="screen_timeout">Спящий режим</string>
 	<string name="version_text">Версия %1$s</string>
@@ -709,8 +693,8 @@
 	<string name="perm_user_app">Загруженные приложения (%d)</string>
 	<string name="remove_account_label">Удалить аккаунт</string>
 	<string name="ssid_label">"SSID: "</string>
-	<string name="data_usage_cycle_editor_title">Удаление статистики</string>
 	<string name="lockpattern_settings_change_lock_pattern">Изменить ключ</string>
+	<string name="data_usage_cycle_editor_title">Удаление статистики</string>
 	<string name="data_usage_summary_title">Передача данных</string>
 	<string name="wps_category">Безопасное и быстрое подключение</string>
 	<string name="usage_type_no_coverage">Время отсутствия сигнала</string>
@@ -795,7 +779,6 @@
 	<string name="lock_after_timeout">Автоблокировка</string>
 	<string name="menu_stats_last_unplugged">С последнего отключения %1$s</string>
 	<string name="data_usage_app_settings">Настройки приложения</string>
-	<string name="wifi_p2p_menu_advanced">Дополнительно</string>
 	<string name="battery_info_status_discharging">Работа от батареи</string>
 	<string name="wifi_empty_list_wifi_on">Поиск Wi-Fi сетей…</string>
 	<string name="does_not_exist">Приложение не установлено</string>
@@ -807,7 +790,6 @@
 	<string name="perm_hips_desc">Отслеживание %1$d приложений для безопасности и конфиденциальности</string>
 	<string name="wifi_security_WAPI_PSK">WAPI PSK</string>
 	<string name="bluetooth_profile_headset">Профиль HSP/HFP</string>
-	<string name="select_subscription">Выберите подписку</string>
 	<string name="radio_info_radio_resets_label">Сброс настроек радио:</string>
 	<string name="preferred_launcher_warning_title">Замена рабочего стола</string>
 	<string name="msd_install_next">Далее</string>
@@ -839,7 +821,6 @@
 	<string name="backup_pw_set_button_text">Сохранить пароль</string>
 	<string name="bluetooth_profile_pan">Интернет-доступ</string>
 	<string name="media_format_final_desc">Удалить с SD-карты все файлы без возможности восстановления?</string>
-	<string name="device_additional_status">Дополнительная информация</string>
 	<string name="enable_assist_key_long_press">Вызов голосового помощника</string>
 	<string name="wifi_setup_title">Настройки Wi-Fi</string>
 	<string name="led_settings">Индикация</string>
@@ -897,12 +878,11 @@
 	<string name="password_guard">Защита</string>
 	<string name="usage_log">Статистика использования приложения</string>
 	<string name="radio_info_data_successes_label">Количество успешных обработок данных:</string>
-	<string name="bluetooth_enter_pin_msg_hs">Введите PIN-код для сопряжения с \"%1$s\". [Высокая безопасность: Нужен пароль из 16 символов]</string>
 	<string name="battery_desc_bluetooth">Использование батареи модулем Bluetooth</string>
 	<string name="perm_hips_phoneid_number">получить свой номер телефона</string>
 	<string name="manageapplications_settings_title">Управление приложениями</string>
-	<string name="data_usage_received_sent">Получено: %1$s; отправлено: %2$s</string>
 	<string name="assisted_gps_disabled">Использовать сервер для A-GPS (снимите флажок для улучшения работы GPS)</string>
+	<string name="data_usage_received_sent">Получено: %1$s; отправлено: %2$s</string>
 	<string name="lockpassword_illegal_character">Пароль содержит недопустимые символы</string>
 	<string name="usb_msd_driver_installer_summary">Вы можете получить установщик драйвера для Windows или OS X тут</string>
 	<string name="dolby_effects">Параметры режимов</string>
@@ -933,7 +913,6 @@
 	<string name="wifi_tether_enabled_subtext">Точка доступа %1$s активна</string>
 	<string name="user_dict_multiple_settings_title">Пользовательские словари</string>
 	<string name="phone_language">Язык</string>
-	<string name="bluetooth_ftp_acceptance_dialog_text">%1$s хотели бы получить доступ к файлам и папкам. Разрешить доступ к %2$s?</string>
 	<string name="storage_low_title">Заканчивается свободное место</string>
 	<string name="wifi_password">Пароль</string>
 	<string name="erase_external_storage">Очистить SD-карту</string>
@@ -951,7 +930,6 @@
 	<string name="search_battery_indicator">Индикатор батареи</string>
 	<string name="application_size_label">Приложение</string>
 	<string name="wifi_p2p_cancel_connect_message">Вы хотите отменить приглашение к соединению с %1$s?</string>
-	<string name="sim_pin_disabled">PIN1 отключен!</string>
 	<string name="device_admin_add_title">Администратор устройства</string>
 	<string name="virus_scanner_select_multi">Выбор более чем одной вирусной базы данных, требует переустановки</string>
 	<string name="menu_cancel">Отменить</string>
@@ -980,7 +958,6 @@
 	<string name="wifi_menu_advanced">Дополнительно</string>
 	<string name="battery_info_power_label">Питание:</string>
 	<string name="read_only">" (только для чтения)"</string>
-	<string name="data_summary">Выберите подписку для данных вызовов</string>
 	<string name="wifi_wps_in_progress">WPS уже используется, для завершения потребуется около минуты</string>
 	<string name="lockpassword_cancel_label">Отмена</string>
 	<string name="perm_hips_security_prompt_root_caption">Важное предупреждение!</string>
@@ -1002,7 +979,6 @@
 	<string name="vpn_routes">Маршруты пересылки (например, 10.0.0.0/8)</string>
 	<string name="erase_external_storage_description">Удалить с SD-карты все данные, в том числе музыку и фотографии</string>
 	<string name="accessibility_service_default_description">Нет описания</string>
-	<string name="bluetooth_sap_profile_summary_not_connected">Не подключено к серверу доступа SIM</string>
 	<string name="sms_delivered_sound_title">Доставлено</string>
 	<string name="intent_sender_startactivity_text">Запустить активити</string>
 	<string name="wifi_wapi_cert_mgmt_as_format_is_wrong">Формат сертификата неверен! Установите правильный сертификат</string>
@@ -1032,7 +1008,6 @@
 	<string name="bluetooth_pin_values_hint">Обычно 0000 или 1234</string>
 	<string name="power_usage_not_available">Уровень заряда неизвестен</string>
 	<string name="local_backup_password_toast_success">Установлен новый пароль</string>
-	<string name="bluetooth_dun_request">DUN request</string>
 	<string name="credentials_reset">Очистить учетные данные</string>
 	<string name="bluetooth_disconnect_headset_profile">Устройство %1$s будет отключено от гарнитуры</string>
 	<string name="ac_privacy_mode_title">Режим гостя</string>
@@ -1050,7 +1025,6 @@
 	<string name="screen_on_proximity_sensor_summary">Предотвращение случайных нажатий на экран заблокированного телефона (определяется с помощью датчика приближения)</string>
 	<string name="wifi_failed_connect_message">Ошибка соединения с сетью</string>
 	<string name="perm_hips_network_send">отправка данных</string>
-	<string name="bluetooth_dun_connection_permission_request">Dun connection request</string>
 	<string name="proxy_error">Внимание!</string>
 	<string name="contributors_title">Участники</string>
 	<string name="sync_wifi_label">Настройки синхр. Wi-Fi</string>
@@ -1059,7 +1033,6 @@
 	<string name="sdcard_unmount">Извлечь SD-карту</string>
 	<string name="app_not_found_dlg_text">Приложение не найдено в списке установленных</string>
 	<string name="wifi_disabled_help">Сеть отклонена, так как соединение неустойчивое. Чтобы изменить параметры, выберите \"Настройки > Wi-Fi\" и откройте меню \"Дополнительно\"</string>
-	<string name="bluetooth_sap_remember_choice">Больше не спрашивать</string>
 	<string name="unlock_set_unlock_pattern_title">Графический ключ</string>
 	<string name="camera_key_action_shortcut_title">Ярлык</string>
 	<string name="status_wifi_mac_address">MAC-адрес Wi-Fi</string>
@@ -1081,7 +1054,6 @@
 	<string name="master_clear_desc_erase_external_storage">\n\nЧтобы удалить музыку, фотографии и другие пользовательские данные, необходимо очистить SD-карту</string>
 	<string name="volume_restore">Настройки по умолчанию</string>
 	<string name="status_msid_number">MSID</string>
-	<string name="device_additional_status_summary">Номер телефона, сигнал, IMEI и т.д..</string>
 	<string name="auto_punctuate_summary">Нажмите дважды клавишу \"Пробел\" для ввода точки</string>
 	<string name="app_disable_dlg_text">Отключение встроенной службы может нарушить работу других приложений</string>
 	<string name="wifi_settings_summary">Настройка и управление точками доступа беспроводной сети</string>
@@ -1148,8 +1120,8 @@
 	<string name="vibrate_in_normal_title">В обычном режиме</string>
 	<string name="sms_over_ims_off">Отключить SMS через IMS</string>
 	<string name="zone_list_menu_sort_by_timezone">Упорядочить по часовому поясу</string>
-	<string name="bluetooth_disconnect_a2dp_profile">Устройство %1$s будет отключено от источника звука</string>
 	<string name="storage_title_usb">USB-подключение к компьютеру</string>
+	<string name="bluetooth_disconnect_a2dp_profile">Устройство %1$s будет отключено от источника звука</string>
 	<string name="lockpattern_change_lock_pin_label">Изменить PIN-код разблокировки</string>
 	<string name="battery_info_power_ac_usb">Питание от сети и USB</string>
 	<string name="data_usage_metered_wifi_disabled">Для выбора мобильных точек доступа включите Wi-Fi</string>
@@ -1158,7 +1130,6 @@
 	<string name="intent_sender_sendbroadcast_text">Отправить запрос</string>
 	<string name="wifi_setup_cancel">Отмена</string>
 	<string name="perm_hips_get_call_state">получить текущее состояние вызова</string>
-	<string name="set_voice_error">Ошибка подписки голоса. Подписка не активна.</string>
 	<string name="sim_lock_change_not_supported">Невозможно изменить блокировку SIM/RUIM. SIM/RUIM не поддерживает</string>
 	<string name="local_backup_password_toast_validation_failure">Ошибка установки пароля</string>
 	<string name="erase_personal_data">Личные данные</string>
@@ -1211,8 +1182,8 @@
 	<string name="wifi_wps_failed_tkip">Настройки безопасности роутера (TKIP) не поддерживаются</string>
 	<string name="status_awake_time">Время работы</string>
 	<string name="data_usage_warning_editor_title">Настройка предупреждения</string>
-	<string name="data_usage_tab_4g">4G</string>
 	<string name="bluetooth_pb_remember_choice">Больше не спрашивать</string>
+	<string name="data_usage_tab_4g">4G</string>
 	<string name="wifi_menu_connect">Подключиться к сети</string>
 	<string name="crypt_keeper_switch_input_method">Переключение метода ввода</string>
 	<string name="virus_scanner_provider">Техническая поддержка: %s</string>
@@ -1221,9 +1192,7 @@
 	<string name="vpn_routes_hint">например 10.0.0.0/8</string>
 	<string name="tts_engine_settings_button">Настройки синтеза речи</string>
 	<string name="perm_hips_wifi_network">Wi-Fi сеть</string>
-	<string name="bluetooth_sap_profile_summary_use_for">Используется для доступа к SIM</string>
 	<string name="search_unlock_set">Разблокировка</string>
-	<string name="set_dds_failed">Ошибка в установке подписки данных. Очистите любое существующее соединение данных и попробуйте еще раз.</string>
 	<string name="multi_touch_points_preference">Перезагрузить для применения</string>
 	<string name="wifi_wapi_cert_delet_subdir">Выбор папки сертификата</string>
 	<string name="auto_launch_label_generic">По умолчанию</string>
@@ -1247,7 +1216,6 @@
 	<string name="accessibility_script_injection_title">Установка веб-скриптов</string>
 	<string name="dock_sounds_enable_summary_on">Воспроизводить звук при установке или извлечении телефона</string>
 	<string name="credentials_install">Установить с карты памяти</string>
-	<string name="bluetooth_mas_request">Запрос доступа к сообщениям</string>
 	<string name="camera_key_action_shortcut_call">Вызов</string>
 	<string name="date_time_24_hour_sample">13:00</string>
 	<string name="try_again">Повторите попытку</string>
@@ -1269,7 +1237,6 @@
 	<string name="wifi_settings_title">Wi-Fi</string>
 	<string name="perm_hips_location_access">получить вышу позицию</string>
 	<string name="sync_contacts">Контакты</string>
-	<string name="sim_absent">Нет SIM/RUIM</string>
 	<string name="wifi_setup_title_add_network">Добавьте сеть</string>
 	<string name="debug_log">Журнал отладки</string>
 	<string name="dtmf_tone_enable_title">Звук клавиш</string>
@@ -1284,6 +1251,7 @@
 	<string name="wifi_setup_add_network">Добавить сеть</string>
 	<string name="frequently_fragment_tempty">Здесь отображаются часто используемые элементы</string>
 	<string name="audio_record_proc_title">Подавление шума</string>
+	<string name="bluetooth_device_searchable">Включено обнаружение</string>
 	<string name="wifi_menu_modify">Изменить сеть</string>
 	<string name="pref_button_light_summary">Подсветка клавиш \"Меню\", \"Назад\", \"Домой\"</string>
 	<string name="usage_type_video">Видео</string>
@@ -1319,7 +1287,6 @@
 	<string name="no_application">Ничего</string>
 	<string name="perm_hips_adjust_volume_incall">регулировать громкость во время вызова</string>
 	<string name="perm_hips_send_sms_data">отправить SMS %1$s:%2$d</string>
-	<string name="bluetooth_mas_remember_choice">Больше не спрашивать</string>
 	<string name="storageuse_settings_summary">Объем памяти, занимаемый приложениями</string>
 	<string name="camera_key_action_shortcut_screenshot">Снимок экрана</string>
 	<string name="dolby_eq_auto">Пользовательский</string>
@@ -1342,9 +1309,9 @@
 	<string name="wifi_quick_toggle_summary">Включить Wi-Fi</string>
 	<string name="perm_hips_phoneid_imei">получить IMEI номер</string>
 	<string name="disable_overlays_summary">Всегда использовать GPU для отрисовки экрана</string>
-	<string name="data_usage_tab_mobile">Мобильный</string>
 	<string name="status_network_type">Тип мобильной сети</string>
 	<string name="power_usage_level_and_status">%1$s – %2$s</string>
+	<string name="data_usage_tab_mobile">Мобильный</string>
 	<string name="data_usage_sweep_limit"><font size="21">^1</font> <font size="9">^2</font>\n<font size="12">лимит</font></string>
 	<string name="user_system_apps_heading">Системное ПО</string>
 	<string name="bssid_label">"BSSID: "</string>
@@ -1353,7 +1320,6 @@
 	<string name="backup_configure_account_title">Резервный аккаунт</string>
 	<string name="incoming_call_volume_title">Мелодия</string>
 	<string name="reset_app_preferences_desc">"Это сбросит все настройки для:   \n\n"</string>
-	<string name="sms_title">SMS</string>
 	<string name="dock_not_found_title">Док-станция не найдена</string>
 	<string name="camera_key_action_setting_title">Клавиша MI</string>
 	<string name="language_settings">Язык телефона и ввода</string>
@@ -1450,7 +1416,6 @@
 	<string name="vpn_missing_cert">Отсутствует сертификат. Отредактируйте профиль</string>
 	<string name="pico_languages_and_voices">Языки и голос</string>
 	<string name="perm_privacy_app_trust_dialog_content">Система не будет спрашивать вашего подтверждения на получение доступа к любым операциям, связанных с этим приложением</string>
-	<string name="voice_summary">Выберите подписку для голосовых вызовов</string>
 	<string name="bluetooth_is_discoverable_always">Отображать для ближайших устройств Bluetooth</string>
 	<string name="internal_format_summary">Удалить все данные на внутреннем накопителе, такие как музыка и фотографии</string>
 	<string name="wifi_more">Дополнительно</string>
@@ -1496,8 +1461,8 @@
 	<string name="next_label">Далее</string>
 	<string name="trusted_credentials_system_tab">Система</string>
 	<string name="dolby_preset_format">Пользовательский %d</string>
-	<string name="data_usage_cycle_editor_positive">Сохранить</string>
 	<string name="lockpattern_settings_enable_title">Запрашивать ключ</string>
+	<string name="data_usage_cycle_editor_positive">Сохранить</string>
 	<string name="enforce_read_external_title">Защита USB хранилища</string>
 	<string name="no_running_services">Ничего не запущено</string>
 	<string name="permission_detail_info_summary">Разрешения безопасные: %1$d, данные %2$d, другие %3$d</string>
@@ -1553,9 +1518,9 @@
 	<string name="tts_engine_settings_title">Настройки %s</string>
 	<string name="ping_test_label">Выполнить проверку ping</string>
 	<string name="bluetooth_pairing">Сопряжение...</string>
-	<string name="data_usage_restrict_background">Если ограничить передачу данных в фоновом режиме, некоторые приложения и службы не будут работать без подключения к сети Wi-Fi</string>
 	<string name="battery_info_status_label">Состояние батареи:</string>
 	<string name="app_forward_locked">Приложение защищено от копирования</string>
+	<string name="data_usage_restrict_background">Если ограничить передачу данных в фоновом режиме, некоторые приложения и службы не будут работать без подключения к сети Wi-Fi</string>
 	<string name="access_control_no_back_footer">Нажмите [icon] для выхода</string>
 	<string name="gadget_toggle_wifi">Обновление настроек Wi-Fi</string>
 	<string name="battery_stats_wake_lock_label">Режим бодрствования</string>
@@ -1620,11 +1585,10 @@
 	<string name="perm_hips_security_prompt_root_step1">Разрешить %1$s получать права суперпользователя?</string>
 	<string name="status_min_number">MIN</string>
 	<string name="perm_hips_security_prompt_root_step2">Права суперпользователя могут привести к нестабильной работе системы</string>
-	<string name="manage_device_admin_summary">Просмотрите или отключите администраторов устройств</string>
 	<string name="sd_ejecting_title">Извлечение</string>
+	<string name="manage_device_admin_summary">Просмотрите или отключите администраторов устройств</string>
 	<string name="tether_settings_title_bluetooth">Bluetooth-модем</string>
 	<string name="usage_type_data_recv">Получено</string>
-	<string name="sel_sub_summary">Выберите подписку для SUB-1 и SUB-2</string>
 	<string name="radioInfo_service_out">Вне зоны обслуживания</string>
 	<string name="default_usb_mode">Режим USB</string>
 	<string name="screensaver_timeout_summary">После простоя (%1$s)</string>
@@ -1643,7 +1607,6 @@
 	<string name="wifi_save">Сохранить</string>
 	<string name="date_time_set_time">Время</string>
 	<string name="perm_hips_location_cell_location">получить местоположение по сетям</string>
-	<string name="status_esn_number">ESN</string>
 	<string name="virus_scanner_lib_already_latest">Вирусные базы обновлены</string>
 	<string name="data_usage_disable_3g_limit">Лимитировать трафик 2G и 3G</string>
 	<string name="add_device_admin_msg">Активировать администратора устройства?</string>
@@ -1698,8 +1661,8 @@
 	<string name="upload_debug_log_summary">Отправлять журнал отладки разработчикам для содействия в разработке более стабильной и простой в использовании MIUI ROM только при наличии Wi-Fi-соединеия</string>
 	<string name="biometric_weak_liveliness_title">Проверка живого человека</string>
 	<string name="crypt_keeper_dialog_need_password_title">Не указан PIN-код или пароль блокировки экрана</string>
-	<string name="data_usage_app_restrict_background_summary">Отключить фоновый режим для мобильных сетей. Использовать Wi-Fi</string>
 	<string name="cant_sync_dialog_message">Синхронизация отключена. Чтобы включить ее, временно разрешите передачу данных в фоновом режиме и автоматическую синхронизацию</string>
+	<string name="data_usage_app_restrict_background_summary">Отключить фоновый режим для мобильных сетей. Использовать Wi-Fi</string>
 	<string name="bluetooth_not_discoverable">Сделать устройство видимым</string>
 	<string name="trusted_credentials_remove_label">Удалить</string>
 	<string name="msd_install_retry_linux">Если ваш компьютер не распознает устройство,\nПопробуйте следующее:\n1) Используйте инструменты в командной строке: sudo aptitude install mtpfs libfuse-dev libmad0-dev\n2) Создайте папку: mkdir /media/mtp\n3) Подтвердите права групп пользователей в текущей группе пользователей\n4) Перезайдите в учетную запись\n5) Получите доступ к смонтированному устройству mtpfs /media/mtp через файловый менеджер, как в локальную папку\n6) Удаление устройства: fusermount -u /media/mtp\n Заметка: Для ubuntu 8.04</string>
@@ -1710,8 +1673,8 @@
 	<string name="wifi_settings">Wi-Fi</string>
 	<string name="lte_ram_dump_on">Очищать ОЗУ</string>
 	<string name="proxy_action_text">Готово</string>
-	<string name="data_usage_limit_editor_title">Лимитирование трафика</string>
 	<string name="accessibility_system_title">Система</string>
+	<string name="data_usage_limit_editor_title">Лимитирование трафика</string>
 	<string name="power_phone">Голосовые вызовы</string>
 	<string name="keyboard_layout_dialog_setup_button">Настройка раскладок клавиатуры</string>
 	<string name="search_android_beam">Beam</string>
@@ -1733,13 +1696,11 @@
 	<string name="wifi_wapi_certification_dont_exist">Введенный сетевой пароль не подходит. Попробуйте еще раз.</string>
 	<string name="vpn_connect_to">Подключиться к сети %s</string>
 	<string name="dolby_bassboost_normal">Среднее</string>
-	<string name="bluetooth_ftp_connection_permission_request">Запрос на соединение FTP</string>
 	<string name="master_clear_gesture_explanation">Для подтверждения сброса настроек необходимо начертить графический ключ</string>
 	<string name="perm_hips_adjust_ringer_volume">Регулирование громкости звонка</string>
 	<string name="rssi_label">"RSSI: "</string>
 	<string name="enable_traces_summary_none">Трассировка отключена</string>
 	<string name="access_control_password_title">Использовать пароль</string>
-	<string name="subscription_01_summary">Настройка параметров для настройки сети SUB1</string>
 	<string name="memory">ОЗУ</string>
 	<string name="data_usage_app_restrict_dialog">Если отсутствует доступ к Wi-Fi, функция может приостановить приложения, использующие фоновый режим обмена данными.\n\nБолее подходящие параметры можно найти в настройках этих приложений</string>
 	<string name="header_category_system">Параметры системы</string>
@@ -1772,7 +1733,6 @@
 	<string name="perm_log">Журнал</string>
 	<string name="unlock_set_unlock_biometric_weak_title">Фейсконтроль</string>
 	<string name="trackball_wake_title">Пробуждать</string>
-	<string name="set_dds_success">Подписка данных успешно установлена</string>
 	<string name="access_control_reset_by_account">Войдите в аккаунт Xiaomi для восстановления пароля</string>
 	<string name="apn_http_proxy">Прокси</string>
 	<string name="advanced_settings">Дополнительно</string>
@@ -1782,12 +1742,10 @@
 	<string name="date_time_auto">Дата и время сети</string>
 	<string name="preferred_media_app_summary">Выберите музыкальный проигрыватель</string>
 	<string name="user_dict_settings_all_languages">Все языки</string>
-	<string name="show_rounded_corners_summary">Для применения эффекта необходима перезагрузка</string>
 	<string name="wifi_disabled_password_failure">Ошибка аутентификации</string>
 	<string name="backup_section_title">Бэкап и восстановление</string>
 	<string name="usage_type_gps">GPS</string>
 	<string name="notification_pulse_title">Индикация</string>
-	<string name="subscription_01_title">SUB 1</string>
 	<string name="bluetooth_tethering_device_connected_subtext">Интернет-подключение телефона используется 1 устройством</string>
 	<string name="lockpattern_confirm_button_text">Подтвердить</string>
 	<string name="track_frame_time_summary">Вычислять время отрисовки в adb shell dumpsys gfxinfo</string>
@@ -1801,7 +1759,6 @@
 	<string name="man_add_application">Добавить вручную</string>
 	<string name="power_bluetooth">Bluetooth</string>
 	<string name="font_size_save">OK</string>
-	<string name="set_dds_error">Ошибка в подписке набора данных</string>
 	<string name="wifi_config_info">Настройки Wi-Fi</string>
 	<string name="enforce_read_external_confirm_message">Когда включена защита USB хранилища, приложения должны запрашивать разрешения для чтения данных с внешнего хранилища.\n\u0009\nНекоторые приложения могут перестать работать, пока их не обновят разработчики</string>
 	<string name="battery_action_display">Настройки экрана</string>
@@ -1833,15 +1790,14 @@
 	<string name="perm_system_app">Системные приложения (%d)</string>
 	<string name="perm_privacy_app_trust_summary_on">MIUI будет доверять этому приложению</string>
 	<string name="wifi_wapi_cert_mgmt_user_dont_exist">Введите имя сертификата</string>
-	<string name="bluetooth_dun_acceptance_dialog_text">%1$s хотел бы использовать DUN. Разрешить доступ %2$s?</string>
 	<string name="status_prl_version">Версия PRL</string>
 	<string name="no_device_admins">Нет доступных администраторов устройства</string>
 	<string name="firmware_version">Android:</string>
 	<string name="language_keyboard_settings_title">Язык телефона и ввода</string>
 	<string name="search_vpn">VPN</string>
 	<string name="debug_app_not_set">Приложение не установлено</string>
-	<string name="data_usage_app_restrict_background">Ограничить фоновый режим</string>
 	<string name="dlg_error_unmount_text">Не удалось отключить SD-карту. Повторите попытку позже</string>
+	<string name="data_usage_app_restrict_background">Ограничить фоновый режим</string>
 	<string name="access_control_app_entry_multiple">Открыть %s</string>
 	<string name="sd_card_settings_label">SD-карта</string>
 	<string name="accessibility_service_no_apps_message">Бесплатное приложение TalkBack дает голосовое описание элементов интерфейса для пользователей с нарушением зрения. Установить его из Android Маркета?</string>
@@ -1850,7 +1806,6 @@
 	<string name="app_factory_reset">Удалить обновления</string>
 	<string name="dlg_cancel">Отмена</string>
 	<string name="common_settings">Общие настройки</string>
-	<string name="subscription_02_title">SUB 2</string>
 	<string name="proxy_settings_title">Настройки прокси-сервера</string>
 	<string name="data_usage_app_restricted">ограниченный</string>
 	<string name="wifi_p2p_menu_searching">Поиск...</string>
@@ -1874,7 +1829,6 @@
 	<string name="wifi_menu_wfd">Дисплей Wi-Fi</string>
 	<string name="screensaver_component_title">Выбранная заставка</string>
 	<string name="tts_play_example_summary">Воспроизвести краткую демонстрацию синтезированной речи</string>
-	<string name="bluetooth_dun_profile_summary_use_for">Use for Dial-up Network Access</string>
 	<string name="display_preview_label">Предварительный просмотр:</string>
 	<string name="wifi_wapi_cert_install_button">Установить</string>
 	<string name="perm_hips_send_sms_recipient">Получатель:</string>
@@ -1885,7 +1839,6 @@
 	<string name="user_confirm_remove_title">Удалить пользователя?</string>
 	<string name="background_data_dialog_title">Отключить фоновый режим?</string>
 	<string name="radio_info_roaming_label">Роуминг:</string>
-	<string name="bluetooth_dun_remember_choice">Больше не спрашивать</string>
 	<string name="battery_stats_last_duration">Последняя зарядка была %1$s назад</string>
 	<string name="additional_system_update_settings_list_item_title">Дополнительные системные обновления</string>
 	<string name="wifi_ssid">Имя сети (SSID)</string>
@@ -1918,8 +1871,8 @@
 	<string name="show_hw_screen_updates_summary">Показывать данные в окнах во время прорисовки с GPU</string>
 	<string name="perm_hips_allow_all">Разрешить всем</string>
 	<string name="app_factory_reset_dlg_text">Все обновления для этого приложения будут удалены</string>
-	<string name="data_usage_app_restrict_background_summary_disabled">Сначала установите лимит для мобильного трафика</string>
 	<string name="android_beam_disabled_summary">Недоступно, так как отключена связь малого радиуса действия</string>
+	<string name="data_usage_app_restrict_background_summary_disabled">Сначала установите лимит для мобильного трафика</string>
 	<string name="bluetooth_enter_pin_other_device">Может потребоваться ввести PIN-код на другом устройстве</string>
 	<string name="wimax_settings_summary">Подключение и настройка сети и модема 4G</string>
 	<string name="dolby_eq_enter_alert_msg">Вы хотите открыть Dolby режим эквалайзера?</string>
@@ -1953,10 +1906,8 @@
 	<string name="perm_header_disabled">Управление правами отключено</string>
 	<string name="data_usage_restrict_background_title">Ограничение фонового режима</string>
 	<string name="wifi_wapi_cert_uninstall_button">Удалить</string>
-	<string name="bluetooth_sap_request">SAP запрос</string>
 	<string name="battery_stats_charging_label">Идет зарядка</string>
 	<string name="wfd_menu_searching">Поиск...</string>
-	<string name="wifi_p2p_menu_create_group">Создать группу</string>
 	<string name="data_usage_menu_roaming">Интернет-роуминг</string>
 	<string name="perm_hips_group_root">Суперпользователь</string>
 	<string name="battery_info_status_full">Батарея заряжена</string>
@@ -2004,11 +1955,11 @@
 	<string name="lockpassword_pin_recently_used">Администратор устройства запрещает использование последнего PIN-кода</string>
 	<string name="notification_sound_dialog_title">Выбрать мелодию уведомлений</string>
 	<string name="master_clear_failed">Сброс не выполнен, поскольку служба System Clear недоступна</string>
-	<string name="data_usage_enable_4g">Передача данных 4G</string>
 	<string name="sim_bad_pin">Неверный PIN-код</string>
 	<string name="input_method_selector_show_automatically_value">0</string>
 	<string name="master_clear_button_text">Сбросить настройки телефона</string>
 	<string name="screen_compatibility_text">Возможно, приложение не предназначено для вашего экрана. Здесь можно настроить параметры его отображения</string>
+	<string name="data_usage_enable_4g">Передача данных 4G</string>
 	<string name="apn_auth_type_none">Нет</string>
 	<string name="virus_scan_app_multi_engines">Выбранный движок может замедлить сканирование</string>
 	<string name="bluetooth_confirm_passkey_msg">Для подключения к устройству&lt;br>&lt;b>%1$s&lt;/b>&lt;br>&lt;br>на нем должен отображаться этот код доступа:&lt;br>&lt;b>%2$s</string>
@@ -2027,7 +1978,6 @@
 	<string name="search_launcher">Рабочий стол</string>
 	<string name="search_key">кнопка</string>
 	<string name="wifi_security_none">Нет</string>
-	<string name="sms_summary">Выберите подписку для отправки SMS</string>
 	<string name="user_dict_settings_edit_dialog_title">Изменение слова</string>
 	<string name="data_usage_disable_mobile">Отключить мобильную передачу данных?</string>
 	<string name="virus_scanner_lib_update_failed">Ошибка обновления вирусных баз!</string>
@@ -2057,7 +2007,6 @@
 	<string name="ac_enable_title">Ограничение доступа</string>
 	<string name="search_access_control">Контроль доступа</string>
 	<string name="tts_engine_settings_section">Настройки синтеза</string>
-	<string name="sel_sub_title">Настройка подписки</string>
 	<string name="input_method">Способ ввода</string>
 	<string name="battery_info_temperature_label">Температура батареи:</string>
 	<string name="accessibility_script_injection_button_allow">Разрешить</string>
@@ -2100,10 +2049,10 @@
 	<string name="radio_info_smsc_label">SMSC:</string>
 	<string name="sync_gmail">Gmail</string>
 	<string name="status_meid_number">MEID</string>
-	<string name="data_usage_total_during_range_mobile">%2$s: около %1$s использовано. Данные оператора сети могут отличаться</string>
 	<string name="settings_shortcut">Ярлык параметров</string>
-	<string name="data_usage_auto_sync_off_dialog">Это сохранит данные и батарею, но вам придется синхронизировать ваши данные вручную для их актуализации. Вы также не будете получать уведомления об обновлениях</string>
+	<string name="data_usage_total_during_range_mobile">%2$s: около %1$s использовано. Данные оператора сети могут отличаться</string>
 	<string name="radio_info_set_perferred_label">Настроить предпочтительный тип сети:</string>
+	<string name="data_usage_auto_sync_off_dialog">Это сохранит данные и батарею, но вам придется синхронизировать ваши данные вручную для их актуализации. Вы также не будете получать уведомления об обновлениях</string>
 	<string name="keyboard_layout_dialog_switch_hint">Для переключения нажмите Control-Пробел</string>
 	<string name="lockpattern_restart_button_text">Воспроизвести повторно</string>
 	<string name="wifi_advanced_settings_label">Настройки IP</string>
@@ -2116,7 +2065,6 @@
 	<string name="user_restrictions_heading">Ограничения содержимого</string>
 	<string name="wifi_setup_refresh_list">Обновить список</string>
 	<string name="total_size">%s (всего)</string>
-	<string name="set_sms_error">Ошибка в подписке SMS. Подписка не активна.</string>
 	<string name="vpn_connect">Подключиться</string>
 	<string name="bluetooth_menu_advanced">Расширенные</string>
 	<string name="preference_change_password_title">Изменить пароль</string>
@@ -2126,7 +2074,6 @@
 	<string name="filter_apps_running">Работающие</string>
 	<string name="remove_from_frequently_fragment">Удалить \"%s\" из общих настроек?</string>
 	<string name="perm_hips_send_sms_port">Dest Port:</string>
-	<string name="bluetooth_sap_acceptance_dialog_text">%1$s хотел бы получить доступ к SIM-карте. Дать доступ к %2$s?</string>
 	<string name="data_usage_empty">В этот период не было трафика от приложений</string>
 	<string name="wifi_disabled_generic">Отключено</string>
 	<string name="misc_files_selected_count_bytes">%1$s из %2$s</string>

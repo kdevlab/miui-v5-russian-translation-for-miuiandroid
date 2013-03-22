@@ -513,4 +513,6 @@
 	<string name="country_name_ws">Западное Самоа</string>
 	<string name="month_of_march">Мар</string>
 	<string name="memory_clear_nothing_result">Нет памяти для очистки</string>
+	<string name="perm_data_update_dspt">Разрешить обновления данных</string>
+	<string name="perm_data_update_lab">Обновление данных</string>
 </resources>
