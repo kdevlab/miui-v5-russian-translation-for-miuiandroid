@@ -39,6 +39,7 @@
 	<string name="error_app_internal">Внутренняя ошибка приложения</string>
 	<string name="delete">Удалить</string>
 	<string name="overwrite_dialog_message">%s уже существует. Вы хотите перезаписать его?</string>
+	<string name="record_name_hour">.</string>
 	<string name="insert_sd_card">Вставьте SD-карту</string>
 	<string name="call_record_or">или</string>
 	<string name="dialog_warning">Внимание</string>
