@@ -196,7 +196,7 @@
 	<string name="date_and_time_settings_summary">Установка даты, времени, часового пояса и формата</string>
 	<string name="unknown">Неизвестно</string>
 	<string name="bluetooth_dock_settings_remember">Запомнить настройки</string>
-	<string name="preferred_launcher_warning_replace">Заменить</string>
+	<string name="preferred_launcher_warning_replace">Применить</string>
 	<string name="radio_info_toggle_dns_check_label">Выбор проверки DNS</string>
 	<string name="tts_engine_name_is_enabled_summary">%s включен</string>
 	<string name="crypt_keeper_cooldown">Повторите попытку через ^1 с.</string>
@@ -1027,7 +1027,7 @@
 	<string name="credentials_enabled">Хранилище регистрационных данных включено</string>
 	<string name="getConfiguredNetworks">Настройки сети</string>
 	<string name="dev_settings_warning_title">Разрешить настройки для разработчиков?</string>
-	<string name="preferred_launcher_warning_use_system">Исполь. системный</string>
+	<string name="preferred_launcher_warning_use_system">Отмена</string>
 	<string name="battery_sugg_radio">Если нет доступа в сеть, вкл. режим полета для экономии заряда</string>
 	<string name="bluetooth_pin_values_hint">Обычно 0000 или 1234</string>
 	<string name="power_usage_not_available">Уровень заряда неизвестен</string>
@@ -1118,7 +1118,7 @@
 	<string name="access_control_app_entry_single">Запустить это приложение</string>
 	<string name="nfc_quick_toggle_title">NFC</string>
 	<string name="enable_adb">Отладка по USB</string>
-	<string name="master_clear_personal_data">Вы действительно хотите удалить ваши персональные данные? Операция не может быть отменена</string>
+	<string name="master_clear_personal_data">Вы действительно хотите удалить ваши персональные данные? Операция не может быть отменена.</string>
 	<string name="checkbox_notification_same_as_incoming_call">Использовать этот уровень громкости также для уведомлений</string>
 	<string name="radio_info_call_redirect_label">Перенаправление вызовов:</string>
 	<string name="lockpassword_pin_set_toast">ПИН-код был установлен</string>
@@ -1134,7 +1134,7 @@
 	<string name="bluetooth_quick_toggle_summary">Включить Bluetooth</string>
 	<string name="apn_mnc">MNC</string>
 	<string name="date_and_time_settings_title_setup_wizard">Установить дату и время</string>
-	<string name="sim_change_failed_enable_sim_lock">Невозможно изменить PIN.\n Включите блокировку SIM</string>
+	<string name="sim_change_failed_enable_sim_lock">Невозможно изменить PIN.\n Включите блокировку SIM.</string>
 	<string name="bluetooth_tethering_off_subtext">Выключен</string>
 	<string name="builtin_keyboard_settings_summary">Настройки физической клавиатуры</string>
 	<string name="wifi_wapi_cert_uninstall">Удалить сертификат</string>
@@ -1223,7 +1223,7 @@
 	<string name="perm_hips_wifi_network">Wi-Fi сеть</string>
 	<string name="bluetooth_sap_profile_summary_use_for">Используется для доступа к SIM</string>
 	<string name="search_unlock_set">Разблокировка</string>
-	<string name="set_dds_failed">Ошибка в установке подписки данных. Очистите любое существующее соединение данных и попробуйте еще раз</string>
+	<string name="set_dds_failed">Ошибка в установке подписки данных. Очистите любое существующее соединение данных и попробуйте еще раз.</string>
 	<string name="multi_touch_points_preference">Перезагрузить для применения</string>
 	<string name="wifi_wapi_cert_delet_subdir">Выбор папки сертификата</string>
 	<string name="auto_launch_label_generic">По умолчанию</string>
@@ -1297,7 +1297,7 @@
 	<string name="carrier_enabled">Включить/выключить APN</string>
 	<string name="band_mode_set">Настроить</string>
 	<string name="data_usage_menu_restrict_background">Ограничить фон. режим</string>
-	<string name="master_clear_all">Вы уверены, что хотите удалить все данные до заводских настроек? \nОперация не может быть отменена</string>
+	<string name="master_clear_all">Вы уверены, что хотите удалить все данные до заводских настроек? \nОперация не может быть отменена.</string>
 	<string name="perm_hips_security_prompt_accept_root">Разрешить</string>
 	<string name="ims_reg_required_on">Обязательная регистрация IMS включена</string>
 	<string name="enable_traces_dialog_title">Выбрать трассировки</string>
@@ -1386,7 +1386,7 @@
 	<string name="vpn_show_options">Показать расширенные параметры</string>
 	<string name="bluetooth_preference_paired_devices">Подключенные устройства</string>
 	<string name="wifi_speed">Скорость связи</string>
-	<string name="credentials_reset_warning">Неверный пароль. У вас осталась одна попытка, после которой хранилище регистрационных данных будет очищено</string>
+	<string name="credentials_reset_warning">Неверный пароль. У вас осталась одна попытка, после которой хранилище регистрационных данных будет очищено.</string>
 	<string name="wifi_p2p_disconnect_multiple_message">Если отключиться, то ваше соединение с %1$s и %2$s другими устройствами будет разорвано</string>
 	<string name="battery_info_health_over_voltage">Слишком высокое напряжение</string>
 	<string name="show_magnifier_when_input">Показывать лупу</string>
@@ -1433,7 +1433,7 @@
 	<string name="pico_installed">Установлено</string>
 	<string name="vpn_name">Название сети</string>
 	<string name="security_settings_summary">Настройка функции \"Местоположение\", разблокировка экрана и блокировка хранилища регистрационных данных</string>
-	<string name="font_size_preview_text">Miui V4 from Russia :)</string>
+	<string name="font_size_preview_text">Miui V5 from Russia :)</string>
 	<string name="virus_scanner_lib_updating">Обновление базы...</string>
 	<string name="drive_mode_invert_stop_report">Переверните, чтобы остановить отчеты</string>
 	<string name="details_title">Сведения об использовании</string>
@@ -1449,7 +1449,7 @@
 	<string name="dock_settings">Док-станция</string>
 	<string name="vpn_missing_cert">Отсутствует сертификат. Отредактируйте профиль</string>
 	<string name="pico_languages_and_voices">Языки и голос</string>
-	<string name="perm_privacy_app_trust_dialog_content">Система не будет спрашивать вашего подтверждения на получение доступа к любым операциям, связанных с этим приложением.</string>
+	<string name="perm_privacy_app_trust_dialog_content">Система не будет спрашивать вашего подтверждения на получение доступа к любым операциям, связанных с этим приложением</string>
 	<string name="voice_summary">Выберите подписку для голосовых вызовов</string>
 	<string name="bluetooth_is_discoverable_always">Отображать для ближайших устройств Bluetooth</string>
 	<string name="internal_format_summary">Удалить все данные на внутреннем накопителе, такие как музыка и фотографии</string>
@@ -1582,7 +1582,7 @@
 	<string name="wifi_setup_status_connecting">Подключение...</string>
 	<string name="wifi_setup_eap_not_supported">Во время установки нельзя настроить подключение к сети Wi-Fi с защитой EAP. Вы можете сделать это позже в меню \"Настройки > Беспроводные сети\"</string>
 	<string name="msd_install_finish">OK</string>
-	<string name="dev_settings_warning_message">Эти настройки только для разработчиков. Они могут вызвать нестабильность работы устройства и приложений на нем</string>
+	<string name="dev_settings_warning_message">Эти настройки только для разработчиков. Они могут вызвать нестабильность работы устройства и приложений на нем.</string>
 	<string name="band_mode_loading">Загрузка списка частот...</string>
 	<string name="radioInfo_service_emergency">Только экстренные вызовы</string>
 	<string name="accessibility_settings_title">Настройки специальных возможностей</string>
@@ -1939,7 +1939,7 @@
 	<string name="proxy_clear_text">Очистить</string>
 	<string name="perm_su_disabled_in_stable_desc">Разрешение прав администратора может привести к нестабильности системы, потери личных и системных данных или повреждению оборудования.\n\nПожалуйста, переключитесь на версию для разработчиков.</string>
 	<string name="runningservices_settings_title">Работающие приложения</string>
-	<string name="wifi_setup_description_connected">Нажмите Далее для продолжения установки.\n\nНажмите Назад для подключения к другой сети Wi-Fi</string>
+	<string name="wifi_setup_description_connected">Нажмите Далее для продолжения установки.\n\nНажмите Назад для подключения к другой сети Wi-Fi.</string>
 	<string name="radioInfo_unknown">неизвестно</string>
 	<string name="ac_privacy_mode_sum">Введите пароль доступа для отключения защищенного режима</string>
 	<string name="assisted_gps_enabled">Использовать сервер для A-GPS (снимите флажок для менее интенсивного использования сети)</string>
@@ -1997,7 +1997,7 @@
 	<string name="bluetooth_visibility_timeout">Тайм-аут видимости</string>
 	<string name="service_process_name">%1$s</string>
 	<string name="date_time_date_format">Формат даты</string>
-	<string name="preferred_launcher_warning_message">После смены рабочего стола по умолчанию, может увеличиться потребление энергии и уменьшиться скорость работы телефона. Рекомендуется использовать системный рабочий стол.</string>
+	<string name="preferred_launcher_warning_message">После смены системного рабочего стола, может увеличиться потребление энергии и уменьшиться скорость работы телефона. Рекомендуется использовать рабочий стол по умолчанию.</string>
 	<string name="data_usage_change_cycle">Изменить…</string>
 	<string name="perm_hips_phoneid_iccid">получить серийный номер SIM карты</string>
 	<string name="internal_media_format_title">Очистить внутренний накопитель</string>
@@ -2203,6 +2203,6 @@
 	<string name="tether_settings_title_all">Режим модема</string>
 	<string name="wifi_wapi_cert_mgmt_titlebar">Управление сертификатами WAPI</string>
 	<string name="bluetooth_only_visible_to_paired_devices">Отображать только для подключенных устройств</string>
-	<string name="preferred_launcher_title">Выбор рабочего стола</string>
+	<string name="preferred_launcher_title">Рабочий стол</string>
 	<string name="crypt_keeper_failed_title">Сбой шифрования</string>
 </resources>
