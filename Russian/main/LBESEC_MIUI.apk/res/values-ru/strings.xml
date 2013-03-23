@@ -28,7 +28,7 @@
 	<string name="Dashboard_Perm_SU_Disabled_In_Stable_Download">Скачать MIUI</string>
 	<string name="Dashboard_Perm_SU_Disabled_In_Stable_URL">http://romz.bz/pages/download_miui/</string>
 	<string name="Dashboard_Perm_SU_Switch">Разрешения суперпользователя</string>
-	<string name="Dashboard_Su_Enable_Content">Включение позволит приложениям запрашивать доступ от суперпользователя. Сообщение: Приложения с разрешениями могут вызвать нестабильность системы, потерю персональных данных, повреждение системы или аппаратной части, будьте осторожны. Вы уверены что хотите сделать это?</string>
+	<string name="Dashboard_Su_Enable_Content">Включение позволит приложениям запрашивать доступ от суперпользователя. Примечание: приложения с разрешениями могут вызвать нестабильность системы, потерю персональных данных, повреждение системы или аппаратной части, будьте осторожны. Вы уверены, что хотите сделать это?</string>
 	<string name="Dashboard_Su_Enable_Title">Разрешения суперпользователя</string>
 	<string name="Generic_Canceling">Отмена...</string>
 	<string name="Generic_Check">Проверка</string>
@@ -154,7 +154,7 @@
 	<string name="HIPS_SecurityPrompt_Accept">Разрешено (%d)</string>
 	<string name="HIPS_SecurityPrompt_AcceptRoot">Разрешить</string>
 	<string name="HIPS_SecurityPrompt_Caption">Предупреждение безопасности</string>
-	<string name="HIPS_SecurityPrompt_Next">Далее</string>
+	<string name="HIPS_SecurityPrompt_Next">Дальше</string>
 	<string name="HIPS_SecurityPrompt_ROOT_Caption">Внимание!</string>
 	<string name="HIPS_SecurityPrompt_ROOT_Step1">Разрешить %1$s получать права суперпользователя?</string>
 	<string name="HIPS_SecurityPrompt_ROOT_Step2">Права суперпользователя могут привести к нестабильной работе системы</string>
@@ -162,7 +162,7 @@
 	<string name="HIPS_SecurityPrompt_ROOT_Step4">Возможно повреждение оборудования</string>
 	<string name="HIPS_SecurityPrompt_ROOT_Step5">Используйте с осторожностью!</string>
 	<string name="HIPS_SecurityPrompt_ROOT_Step6">Разрешить %1$s получать права суперпользователя?</string>
-	<string name="HIPS_SecurityPrompt_Reject">Отмена (%d)</string>
+	<string name="HIPS_SecurityPrompt_Reject">Запр. (%d)</string>
 	<string name="HIPS_SecurityPrompt_Remember">Запомнить мой выбор</string>
 	<string name="HIPS_SecurityPrompt_Title">%1$s пытается %2$s</string>
 	<string name="Privacy_AppPerm_Count">%1$d разрешения</string>
@@ -173,7 +173,7 @@
 	<string name="Privacy_App_Log">Логи</string>
 	<string name="Privacy_App_Manage">Подробности</string>
 	<string name="Privacy_App_Trust">Доверие</string>
-	<string name="Privacy_App_TrustDialog_Content">MIUI не будет спрашивать вашего подтверждения какой-либо безопасности и конфиденциальности операций, связанных с этим приложением</string>
+	<string name="Privacy_App_TrustDialog_Content">MIUI не будет спрашивать Вашего подтверждения какой-либо безопасности и конфиденциальности операций, связанных с этим приложением</string>
 	<string name="Privacy_App_TrustDialog_Title">Доверять этому приложению</string>
 	<string name="Privacy_App_Trust_Summary_Off">Контроль этого приложения</string>
 	<string name="Privacy_App_Trust_Summary_On">Доверие этому приложению</string>

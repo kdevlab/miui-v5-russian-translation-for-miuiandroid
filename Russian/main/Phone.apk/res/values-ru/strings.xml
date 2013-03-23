@@ -79,7 +79,7 @@
 	<string name="auto_ip_exception_summary_more_miui">,... %d всего</string>
 	<string name="auto_ip_no_exceptions_miui">Пожалуйста, добавьте номера, которым не нужен префикс</string>
 	<string name="auto_ip_remove_exception_numbers_confirm_miui">Вы уверены, что хотите удалить %d номер(а/ов)?</string>
-	<string name="auto_ip_setting_miui">Интеллектуальный набор</string>
+	<string name="auto_ip_setting_miui">Интел. набор</string>
 	<string name="auto_ip_summary_not_enabled">Не включено</string>
 	<string name="auto_ip_support_local_numbers">Поддержка местных номеров</string>
 	<string name="auto_record_call_summary_miui">Начать запись при совершении вызова и сохранить ее на SD-карту</string>
@@ -97,7 +97,7 @@
 	<string name="auto_retry_mode_summary_miui">Включить режим автодозвона</string>
 	<string name="auto_retry_mode_title">Автодозвон</string>
 	<string name="auto_retry_mode_title_miui">Автодозвон</string>
-	<string name="autoip_miui">Интеллектуальный набор</string>
+	<string name="autoip_miui">Интел. набор</string>
 	<string name="autoip_sum_miui">Добавить префикс для иностранных номеров. Введите код страны ниже</string>
 	<string name="back_miui">Назад</string>
 	<string name="badPin">Введен неверный прежний PIN. Повторите попытку</string>
@@ -341,7 +341,7 @@
 	<string name="dial">Набор</string>
 	<string name="dial_emergency_empty_error">Вызов не осуществлен, наберите номер экстренного вызова!</string>
 	<string name="dial_emergency_error">Вызов не осуществляется, так как %s не является номером экстренного вызова!</string>
-	<string name="dial_related_setting_catory_miui">Набор</string>
+	<string name="dial_related_setting_catory_miui">Настройки набора</string>
 	<string name="dialerKeyboardHintText">Используйте клавиатуру для набора номера</string>
 	<string name="disable">Отключить</string>
 	<string name="disable_all_cf_miui">Отключить все переадресации</string>

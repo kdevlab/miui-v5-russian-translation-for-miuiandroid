@@ -108,7 +108,7 @@
 	<string name="pref_keep_in_memory_summary">Держать в памяти. Приложение не будет закрываться.</string>
 	<string name="pref_keep_in_memory_title">Держать в памяти</string>
 	<string name="pref_keep_layout_summary">Переключение сетки рабочего стола может нарушить положение иконок. Включите для сохранения положения иконок.</string>
-	<string name="pref_keep_layout_title">Держать текущую раскладку</string>
+	<string name="pref_keep_layout_title">Держать раскладку</string>
 	<string name="pref_render_in_truecolor_summary">Включите, чтобы улучшить качество цветов</string>
 	<string name="pref_render_in_truecolor_title">Качественные цвета</string>
 	<string name="pref_screen_transformation_type_title">Эффект перехода экранов</string>
@@ -116,7 +116,7 @@
 	<string name="preferences_general_title">Основные настройки</string>
 	<string name="preferences_title">Рабочий стол</string>
 	<string name="reset_scene_prompt">Расположение иконок на свободном рабочем столе будет сброшено в стандартное расположение</string>
-	<string name="screen_button_disabled_message">Кнопки внизу экрана отключены. Вы можете включить их снова, нажав клавиши \"Домой\" и \"Питание\"</string>
+	<string name="screen_button_disabled_message">Кнопки внизу экрана отключены. Вы можете включить их снова, нажав клавиши \"Домой\" и \"Питание\".</string>
 	<string name="screen_button_enabled_message">Кнопки на нижней части экрана включены</string>
 	<string name="screen_rotation_freeze_message">Поворот экрана заблокирован в ландшафтном режиме</string>
 	<string name="select_frame">Рамка</string>

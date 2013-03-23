@@ -939,7 +939,7 @@
 	<string name="lockpassword_confirm_passwords_dont_match">Пароли не совпадают</string>
 	<string name="lockpassword_confirm_pins_dont_match">PIN-коды не совпадают</string>
 	<string name="lockpassword_confirm_your_password_header">Подтвердите пароль</string>
-	<string name="lockpassword_confirm_your_pattern_header">Подтвердите графический ключ</string>
+	<string name="lockpassword_confirm_your_pattern_header">Подтвердите ключ</string>
 	<string name="lockpassword_confirm_your_pin_header">Подтвердите ПИН-код</string>
 	<string name="lockpassword_continue_label">Продолжить</string>
 	<string name="lockpassword_illegal_character">Пароль содержит недопустимые символы</string>
@@ -1320,7 +1320,7 @@
 	<string name="privacy_relative">Безопасность</string>
 	<string name="privacy_settings">Восстановление и сброс</string>
 	<string name="privacy_settings_title">Восстановление и сброс</string>
-	<string name="private_sms_need_to_unlock">Пожалуйста, введите личный СМС пароль</string>
+	<string name="private_sms_need_to_unlock">Введите личный SMS пароль</string>
 	<string name="private_sms_recording_intro_header">Нарисуйте шаблон для создания блокировки</string>
 	<string name="private_sms_reset_by_account">Войдите в аккаунт Xiaomi для восстановления пароля</string>
 	<string name="process_kernel_label">Ядро Android</string>
@@ -1336,7 +1336,7 @@
 	<string name="proxy_error_dismiss">ОК</string>
 	<string name="proxy_error_empty_host_set_port">Если поле хоста не заполнено, поле порта также следует оставить пустым</string>
 	<string name="proxy_error_empty_port">Необходимо заполнить поле порта</string>
-	<string name="proxy_error_invalid_exclusion_list">Список исключений отформатирован неверно. Перечислите исключаемые домены через запятую</string>
+	<string name="proxy_error_invalid_exclusion_list">Список исключений отформатирован неверно. Перечислите исключаемые домены через запятую.</string>
 	<string name="proxy_error_invalid_host">Введено недействительное имя хоста</string>
 	<string name="proxy_error_invalid_port">Указанный порт недействителен</string>
 	<string name="proxy_exclusionlist_hint">example.com,mycomp.test.com,localhost</string>

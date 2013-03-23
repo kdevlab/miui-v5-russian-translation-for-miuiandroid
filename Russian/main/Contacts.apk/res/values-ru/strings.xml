@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--Merged and sorted with KDG BigBlackBox-->
 <resources>
-	<string name="account_abnormal_state">Неверная информация об учетной записи, попробуйте войти снова или повторите попытку позже!</string>
+	<string name="account_abnormal_state">Неверная информация об учетной записи. Попробуйте войти снова или повторите попытку позже!</string>
 	<string name="account_container_title">Из аккаунта</string>
 	<string name="account_default">Телефон</string>
 	<string name="account_phone">Только телефон, без синхронизации</string>
@@ -36,7 +36,7 @@
 	<string name="audio_chat">Голосовой чат</string>
 	<string name="auto_nickname">Авто</string>
 	<string name="auto_set_nickname">Авто</string>
-	<string name="batch_delete">Множественное удаление контактов</string>
+	<string name="batch_delete">Пакетное удаление</string>
 	<string name="batch_delete_msg">Вы уверены, что хотите удалить эти %d контактов?\n\nЕсли вы используете облачное хранилище, то данные о контакте будут удалены и там.</string>
 	<string name="bluetooth_connection_failed_toast">Bluetooth соединение прервано</string>
 	<string name="blurbJoinContactDataWith">Выберите контакт, который хотите объединить с \"%s\":</string>
@@ -228,7 +228,7 @@
 	<string name="description_size">Размер:</string>
 	<string name="description_star">избранное</string>
 	<string name="description_summary">Инфо:</string>
-	<string name="description_uploadtime">Обновление:</string>
+	<string name="description_uploadtime">Обновлено:</string>
 	<string name="description_version">Версия:</string>
 	<string name="description_view_contact">Просмотреть данные: %1$s</string>
 	<string name="description_view_contact_detail">Данные контакта</string>
@@ -607,7 +607,7 @@
 	<string name="preference_contacts">Настройки контактов</string>
 	<string name="preference_contacts_display">Отображение контактов</string>
 	<string name="preference_contacts_filter">Контакты для отображения</string>
-	<string name="preference_contacts_more">Дополнительные настройки</string>
+	<string name="preference_contacts_more">Другие настройки</string>
 	<string name="preference_dial_pad_touch_tone_default">По умолчанию</string>
 	<string name="preference_dial_pad_touch_tone_human">Голос человека</string>
 	<string name="preference_dial_pad_touch_tone_piano">Фортепиано</string>
@@ -621,7 +621,7 @@
 	<string name="preference_import_export_title">Импорт и экспорт</string>
 	<string name="preference_others">Другое</string>
 	<string name="preference_phone">Настройки телефона</string>
-	<string name="preference_phone_more_title">Дополнительные настройки</string>
+	<string name="preference_phone_more_title">Другие настройки</string>
 	<string name="preference_remove_duplicate">Слияние дубликатов</string>
 	<string name="preference_simple_mode_description">Не отображать аватары, атрибуции, компании и т.д.</string>
 	<string name="preference_simple_mode_title">Простой режим</string>
@@ -687,13 +687,13 @@
 	<string name="resource_get_auth_checking">Проверка...</string>
 	<string name="resource_get_auth_exceed_max_limit_tips">Тема не может работать на текущем устройстве с Вашего аккаунта, т.к. ограничение составляет до 10 мобильных устройств каждый год. Пожалуйста, попробуйте другие аккаунты Xiaomi.</string>
 	<string name="resource_get_auth_exceed_max_limit_title">Превышен предел авторизаций</string>
-	<string name="resource_get_auth_missing">Тема не скачана с официального маркета. Пожалуйста, скачайте аналогичную тему из официального маркета.</string>
+	<string name="resource_get_auth_missing">Тема скачана с неофициального маркета. Пожалуйста, скачайте аналогичную тему из официального маркета.</string>
 	<string name="resource_get_auth_retrieving">Получение авторизации...</string>
 	<string name="resource_importing">Импорт...</string>
-	<string name="resource_list_title">Последнее выбранное</string>
+	<string name="resource_list_title">Последние</string>
 	<string name="resource_local">Локально %1$s</string>
 	<string name="resource_mute">Без звука</string>
-	<string name="resource_no_result">Нет результата</string>
+	<string name="resource_no_result">Нет результатов</string>
 	<string name="resource_notification_default">Уведомления</string>
 	<string name="resource_online">Онлайн %1$s</string>
 	<string name="resource_price_format">(%1$s)</string>
@@ -706,9 +706,9 @@
 	<string name="resource_switch_account">Перекл.</string>
 	<string name="resource_system_title">Системные</string>
 	<string name="resource_tip_select_ringtone">Мелодия не выбрана</string>
-	<string name="resource_title">Дополнительные</string>
-	<string name="resource_title_select_ringtone">Выбор мелодии</string>
-	<string name="resource_update">Обновить</string>
+	<string name="resource_title">Сведения</string>
+	<string name="resource_title_select_ringtone">Выберите мелодию</string>
+	<string name="resource_update">Обн.</string>
 	<string name="restore_nickname">Восстановить</string>
 	<string name="ret_sign">\n</string>
 	<string name="returnCall">Обратный вызов</string>
@@ -723,7 +723,7 @@
 	<string name="scanning_sdcard_failed_message">Не удалось просканировать SD-карту. Причина: %s.</string>
 	<string name="scanning_sdcard_failed_title">SD-карта не просканирована</string>
 	<string name="sdcard_status_changed_dialog_message">Требуется выход.\nПожалуйста, откройте это приложение еще раз, для обновления ресурсов.</string>
-	<string name="sdcard_status_changed_dialog_title">Статус SD-карты изменился</string>
+	<string name="sdcard_status_changed_dialog_title">Изменился статус SD-карты</string>
 	<string name="searchHint">Поиск контактов</string>
 	<string name="search_results_searching">Поиск...</string>
 	<string name="search_settings_description">Имена контактов</string>
@@ -732,7 +732,7 @@
 	<string name="select_device">выберите устройство для подключения</string>
 	<string name="select_new_photo_from_photo_package">Выбрать новое фото из фото-пакета</string>
 	<string name="select_none">Выберите хотя бы один контакт</string>
-	<string name="select_photo_from_photo_package">Выбрать фотографию из пакета</string>
+	<string name="select_photo_from_photo_package">Выберите фотографию</string>
 	<string name="select_show_contacts">Отображение контактов</string>
 	<string name="select_vcard_title">Выбор файла vCard</string>
 	<string name="send_contact_shortcut_todesktop_success">Ярлык на рабочем столе создан</string>
