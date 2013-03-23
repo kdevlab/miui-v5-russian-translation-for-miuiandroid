@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!--Merged with KDG BigBlackBox-->
+<!--Merged and sorted with KDG BigBlackBox-->
 <resources>
-	<string name="find_device_stop_noise">Нажмите \"OK\", чтобы остановить сигнал</string>
-	<string name="sub_sync_item_sms_summary">Рекомендуется включить, иначе возможно чрезмерное потребление трафика</string>
-	<string name="pref_title_sync_display_photo_on_wifi_only">Исполь. только Wi-Fi, для отображения фото</string>
-	<string name="find_device">Найти устройство</string>
-	<string name="sub_sync_item_sms_title_wifi_only">Исполь. только Wi-Fi для синхр. SMS/MMS</string>
-	<string name="pref_summary_sync_display_photo_on_wifi_only">Рекомендуется включить, иначе возможно чрезмерное потребление трафика</string>
-	<string name="sync_item_sms_summary">Прочитанные SMS сообщения будут автоматически синхронизированы</string>
-	<string name="pref_title_sync_contacts_title">Синхронизация контактов</string>
-	<string name="sync_item_sms_title">Синхронизация SMS</string>
 	<string name="app_name">Менеджер аккаунтов Xiaomi</string>
+	<string name="find_device">Найти устройство</string>
+	<string name="find_device_stop_noise">Нажмите \"OK\", чтобы остановить сигнал</string>
+	<string name="pref_summary_sync_display_photo_on_wifi_only">Рекомендуется включить, иначе возможно чрезмерное потребление трафика</string>
+	<string name="pref_title_sync_contacts_title">Синхронизация контактов</string>
+	<string name="pref_title_sync_display_photo_on_wifi_only">Исполь. только Wi-Fi, для отображения фото</string>
+	<string name="sub_sync_item_sms_summary">Рекомендуется включить, иначе возможно чрезмерное потребление трафика</string>
+	<string name="sub_sync_item_sms_title_wifi_only">Исполь. только Wi-Fi для синхр. SMS/MMS</string>
+	<string name="sync_item_sms_summary">Прочитанные SMS сообщения будут автоматически синхронизированы</string>
+	<string name="sync_item_sms_title">Синхронизация SMS</string>
 </resources>

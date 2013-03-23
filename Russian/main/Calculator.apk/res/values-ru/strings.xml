@@ -1,70 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!--Merged with KDG BigBlackBox-->
+<!--Merged and sorted with KDG BigBlackBox-->
 <resources>
-	<string name="dotDesc">point</string>
-	<string name="rightParen">)</string>
-	<string name="rightParenDesc">Правая скобка</string>
-	<string name="cos">cos</string>
-	<string name="text_copied_toast">Текст скопирован</string>
-	<string name="dot">.</string>
-	<string name="equal_on_history">=</string>
-	<string name="divDesc">divide</string>
-	<string name="lg_mathematical_value">lg</string>
-	<string name="basic">Основная панель</string>
-	<string name="piDesc">pi</string>
-	<string name="mulDesc">multiply</string>
 	<string name="advanced">Дополнительная панель</string>
-	<string name="power">^</string>
-	<string name="plus">+</string>
-	<string name="equalDesc">equals</string>
-	<string name="minus">−</string>
-	<string name="cos_mathematical_value">cos</string>
-	<string name="enter">↓</string>
-	<string name="delDesc">delete</string>
-	<string name="cosDesc">cosine</string>
-	<string name="lg">log</string>
-	<string name="tanDesc">tangent</string>
-	<string name="pi">π</string>
-	<string name="tan">tan</string>
-	<string name="ln">ln</string>
-	<string name="div">/</string>
-	<string name="powerDesc">power</string>
 	<string name="app_name">Калькулятор</string>
-	<string name="sin_mathematical_value">sin</string>
-	<string name="eDesc">"Число Эйлера</string>
-	<string name="clear">C</string>
-	<string name="digit6">6</string>
-	<string name="digit5">5</string>
-	<string name="digit8">8</string>
-	<string name="digit7">7</string>
-	<string name="plusDesc">plus</string>
-	<string name="digit9">9</string>
-	<string name="sinDesc">sine</string>
-	<string name="leftParen">(</string>
-	<string name="digit0">0</string>
-	<string name="del">DEL</string>
-	<string name="digit2">2</string>
-	<string name="digit1">1</string>
-	<string name="digit4">4</string>
-	<string name="digit3">3</string>
+	<string name="basic">Основная панель</string>
 	<string name="clear_history">Очистить историю</string>
-	<string name="e_mathematical_value">e</string>
-	<string name="e">e</string>
+	<string name="eDesc">"Число Эйлера</string>
 	<string name="error">Ошибка</string>
-	<string name="standard">standard</string>
-	<string name="leftParenDesc">Левая скобка</string>
-	<string name="sqrt">√</string>
 	<string name="factorialDesc">Факториал</string>
-	<string name="equal">=</string>
-	<string name="mul">*</string>
-	<string name="sqrtDesc">Квадратный корень</string>
-	<string name="clearDesc">clear</string>
-	<string name="sin">sin</string>
-	<string name="tan_mathematical_value">tan</string>
-	<string name="scientific">Научный</string>
-	<string name="lnDesc">Натуральный логарифм</string>
+	<string name="leftParenDesc">Левая скобка</string>
 	<string name="lgDesc">Логарифм</string>
-	<string name="ln_mathematical_value">ln</string>
-	<string name="factorial">!</string>
+	<string name="lnDesc">Натуральный логарифм</string>
 	<string name="minusDesc">Минус</string>
+	<string name="rightParenDesc">Правая скобка</string>
+	<string name="scientific">Научный</string>
+	<string name="sqrtDesc">Квадратный корень</string>
+	<string name="text_copied_toast">Текст скопирован</string>
 </resources>

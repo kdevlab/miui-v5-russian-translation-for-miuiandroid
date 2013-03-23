@@ -1,12 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!--Merged and sorted with KDG BigBlackBox-->
 <resources>
-    <string name="app_name">Адаптивный контроль яркости</string>
-    <string name="cabl_settings_title">Адаптивный контроль яркости</string>
-    <string name="cabl_enable_title">Включить адаптивный контроль яркости</string>
-    <string name="cabl_enable_summary_on">Подсветка будет регулироваться на основе содержимого экрана</string>
-    <string name="cabl_enable_summary_off">Подсветка не будет регулироваться на основе содержимого экрана</string>
-    <string name="cabl_levels_title">Уровни подсветки</string>
-    <string name="cabl_levels_summary">Уменьшенный уровень подсветки способствует уменьшению энергопотреблению, но уровень подсветки будет ниже</string>
-    <string name="cabl_info_default">Неизвестно</string>
-    <string name="cabl_version_title">Версия программы</string>
+	<string name="app_name">Адаптивный контроль яркости</string>
+	<string name="cabl_enable_summary_off">Подсветка не будет регулироваться на основе содержимого экрана</string>
+	<string name="cabl_enable_summary_on">Подсветка будет регулироваться на основе содержимого экрана</string>
+	<string name="cabl_enable_title">Включить адаптивный контроль яркости</string>
+	<string name="cabl_info_default">Неизвестно</string>
+	<string name="cabl_levels_summary">Уменьшенный уровень подсветки способствует уменьшению энергопотреблению, но уровень подсветки будет ниже</string>
+	<string name="cabl_levels_title">Уровни подсветки</string>
+	<string name="cabl_settings_title">Адаптивный контроль яркости</string>
+	<string name="cabl_version_title">Версия программы</string>
 </resources>
