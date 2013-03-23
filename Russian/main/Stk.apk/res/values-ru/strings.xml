@@ -1,29 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!--Merged with KDG BigBlackBox-->
+<!--Merged and sorted with KDG BigBlackBox-->
 <resources>
-	<string name="default_call_setup_msg">Посылка вызова...</string>
-	<string name="button_ok">ОК</string>
-	<string name="stk_dialog_accept">ДА</string>
-	<string name="app_name2">Инструменты SIM-карты 2</string>
-	<string name="stk_dialog_reject">НЕТ</string>
-	<string name="menu_back">Назад</string>
-	<string name="stk_no_service">Вне зоны обслуживания</string>
-	<string name="service_name">Название службы</string>
+	<string name="alphabet">Алфавит</string>
 	<string name="app_name">Инструменты SIM-карты</string>
-	<string name="button_yes">Да</string>
-	<string name="help">Справка</string>
-	<string name="default_setup_call_msg">Посылка вызова...</string>
+	<string name="app_name2">Инструменты SIM-карты 2</string>
 	<string name="button_cancel">Отмена</string>
-	<string name="digits">Цифры (0-9, *, #, +)</string>
 	<string name="button_no">Нет</string>
-	<string name="default_send_data_msg">Отправка данных...</string>
-	<string name="disable_app">Отключено</string>
+	<string name="button_ok">ОК</string>
+	<string name="button_yes">Да</string>
+	<string name="default_call_setup_msg">Посылка вызова...</string>
+	<string name="default_close_channel_msg">Канал закрыт</string>
 	<string name="default_open_channel_msg">Открыть канал?</string>
 	<string name="default_receive_data_msg">Прием данных...</string>
-	<string name="stk_app_state">Состояние приложения</string>
-	<string name="stk_dialog_title">Инструменты SIM-карты</string>
-	<string name="menu_end_session">Закончить сеанс</string>
+	<string name="default_send_data_msg">Отправка данных...</string>
+	<string name="default_setup_call_msg">Посылка вызова...</string>
+	<string name="digits">Цифры (0-9, *, #, +)</string>
+	<string name="disable_app">Отключено</string>
 	<string name="enable_app">Включено</string>
-	<string name="alphabet">Алфавит</string>
-	<string name="default_close_channel_msg">Канал закрыт</string>
+	<string name="help">Справка</string>
+	<string name="menu_back">Назад</string>
+	<string name="menu_end_session">Закончить сеанс</string>
+	<string name="service_name">Название службы</string>
+	<string name="stk_app_state">Состояние приложения</string>
+	<string name="stk_dialog_accept">ДА</string>
+	<string name="stk_dialog_reject">НЕТ</string>
+	<string name="stk_dialog_title">Инструменты SIM-карты</string>
+	<string name="stk_no_service">Вне зоны обслуживания</string>
 </resources>

@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!--Merged with KDG BigBlackBox-->
+<!--Merged and sorted with KDG BigBlackBox-->
 <resources>
-	<string name="mms_provider_label">MMS</string>
-	<string name="sms_provider_label">SMS</string>
 	<string name="app_label">Память номеров/SMS/MMS</string>
+	<string name="mms_provider_label">MMS</string>
 	<string name="mms_sms_provider_label">Сообщения</string>
+	<string name="sms_provider_label">SMS</string>
 </resources>
