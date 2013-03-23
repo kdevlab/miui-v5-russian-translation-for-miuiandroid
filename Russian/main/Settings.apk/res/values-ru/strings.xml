@@ -147,6 +147,7 @@
 	<string name="auto_startup_count">Автозапуск разрешен %d приложениям</string>
 	<string name="auto_startup_dialog_msg">MIUI позволит запускать приложения автоматически. Возможны потребления траффика и батареи.\nРазрешить автозапуск/</string>
 	<string name="automatic_brightness">Автонастройка</string>
+	<string name="available_size">%s (Доступно)</string>
 	<string name="awake">Время включения устройства</string>
 	<string name="back_long_press">Клавиша Назад</string>
 	<string name="back_long_press_timeout">Задержка</string>
@@ -1112,7 +1113,6 @@
 	<string name="owner_info_settings_title">Сведения о владельце</string>
 	<string name="packages_subtitle">Вложенные пакеты</string>
 	<string name="password_guard">Защита</string>
-	<string name="percentage">%d%%</string>
 	<string name="perm">Разрешения</string>
 	<string name="perm_app">Приложения</string>
 	<string name="perm_app_name">Безопасность</string>
