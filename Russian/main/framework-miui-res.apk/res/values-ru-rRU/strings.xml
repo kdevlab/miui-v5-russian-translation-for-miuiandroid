@@ -293,9 +293,9 @@
 	<string name="heavy_snow" />
 	<string name="hoar_frost_falls" />
 	<string name="incorrect_pincode">Неверный PIN-код</string>
-    <string name="incorrect_pincode_remaining_attempts">Неверный PIN-код. Осталось попыток: %d.</string>
-    <string name="incorrect_pukcode">Неверный PUK-код</string>
-    <string name="incorrect_pukcode_remaining_attempts">Неверный PUK-код. Осталось попыток: %d.</string>
+	<string name="incorrect_pincode_remaining_attempts">Неверный PIN-код. Осталось попыток: %d.</string>
+	<string name="incorrect_pukcode">Неверный PUK-код</string>
+	<string name="incorrect_pukcode_remaining_attempts">Неверный PUK-код. Осталось попыток: %d.</string>
 	<string name="input_pin_code">Введите PIN</string>
 	<string name="input_pin_code_to_unlock">Введите PIN-код для разблокировки</string>
 	<string name="input_puk_code">Введите PUK</string>
