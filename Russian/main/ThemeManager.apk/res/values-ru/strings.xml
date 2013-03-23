@@ -119,13 +119,13 @@
 	<string name="component_lockstyle_personal_title">Настройки локскрина</string>
 	<string name="processing">Обработка...</string>
 	<string name="resource_default_name">Ресурс</string>
-	<string name="theme_component_title_launcher">Лончер</string>
-	<string name="download_success">Загрузка завершена</string>
+	<string name="theme_component_title_launcher">Рабочий стол</string>
+	<string name="download_success">Успешно загружено</string>
 	<string name="resource_download">Скачать</string>
 	<string name="resource_comment_rate">Рейтинг:</string>
 	<string name="apply_font_tip">Тема содержит шрифт, требуется перезагрузка</string>
 	<string name="resource_ringtone_default">Мелодии</string>
-	<string name="theme_component_title_statusbar">Панель</string>
+	<string name="theme_component_title_statusbar">Статус-бар</string>
 	<string name="theme_description_title_default">По умолчанию</string>
 	<string name="theme_import_oper_stop">Остановить</string>
 	<string name="resource_downloaded_title">Скачанные</string>
