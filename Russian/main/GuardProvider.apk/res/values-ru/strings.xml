@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!--Merged with KDG BigBlackBox-->
+<!--Merged and sorted with KDG BigBlackBox-->
 <resources>
-	<string name="menu_settings">Настройки</string>
-	<string name="title_activity_main">MainActivity</string>
 	<string name="app_name">Антивирус</string>
 	<string name="hello_world">Привет мир!</string>
+	<string name="menu_settings">Настройки</string>
 </resources>

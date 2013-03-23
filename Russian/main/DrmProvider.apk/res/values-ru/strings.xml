@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!--Merged with KDG BigBlackBox-->
+<!--Merged and sorted with KDG BigBlackBox-->
 <resources>
 	<string name="app_label">Хранилище содержания, защищенного DRM</string>
-	<string name="permlab_installDrm">Установка содержания DRM</string>
 	<string name="permdesc_accessDrm">Предоставляет приложению доступ к содержанию, защищенному DRM</string>
 	<string name="permdesc_installDrm">Разрешает приложению устанавливать содержание, защищенное DRM</string>
 	<string name="permlab_accessDrm">Доступ к содержанию DRM</string>
+	<string name="permlab_installDrm">Установка содержания DRM</string>
 </resources>
