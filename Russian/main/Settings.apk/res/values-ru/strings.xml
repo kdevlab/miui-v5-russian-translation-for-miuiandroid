@@ -560,10 +560,10 @@
 	<string name="auto_punctuate">Автопунктуация</string>
 	<string name="strict_mode_summary">Подсвечивать экран во время длительных операций</string>
 	<string name="wifi_wapi_user_cert">Пользовательский сертификат</string>
-	<string name="device_name_usage_point">Показать имя вашего устройства, при создании Bluetooth подключения, создании точку доступа и так далее.</string>
+	<string name="device_name_usage_point">Показывать имя Вашего устройства при создании Bluetooth подключения, точки доступа и так далее</string>
 	<string name="virus_scanner_select_OK">ОК</string>
 	<string name="unmount_inform_text">SD-карта будет отключена</string>
-	<string name="applications_settings">Управление приложениями</string>
+	<string name="applications_settings">Приложения</string>
 	<string name="privacy_settings">Восстановление и сброс</string>
 	<string name="tts_engine_preference_section_title">Система по умолчанию</string>
 	<string name="perm_hips_reject_all">Запретить всем</string>
@@ -786,7 +786,7 @@
 	<string name="settings_label">Параметры</string>
 	<string name="sdcard_setting">SD-карта</string>
 	<string name="wfd_menu_search">Поиск устройств</string>
-	<string name="about_settings">Сведения о телефоне</string>
+	<string name="about_settings">О телефоне</string>
 	<string name="perm_hips_desc">Отслеживание %1$d приложений для безопасности и конфиденциальности</string>
 	<string name="wifi_security_WAPI_PSK">WAPI PSK</string>
 	<string name="bluetooth_profile_headset">Профиль HSP/HFP</string>
@@ -1389,7 +1389,7 @@
 	<string name="wifi_ip_settings_menu_save">Сохранить</string>
 	<string name="device_info_settings">Состояние телефона</string>
 	<string name="wifi_gateway">Шлюз</string>
-	<string name="accessibility_settings">Специальные возможности</string>
+	<string name="accessibility_settings">Спец. возможности</string>
 	<string name="search_bluetooth">Bluetooth</string>
 	<string name="wifi_not_in_range">Недоступна</string>
 	<string name="memory_size">Всего места</string>
@@ -1438,7 +1438,7 @@
 	<string name="virus_scan_app_safe_scanning">Проверка файлов на вирусы...</string>
 	<string name="percentage">%d%%</string>
 	<string name="battery_status_title">Состояние батареи</string>
-	<string name="security_privacy_settings_title">Безопасность</string>
+	<string name="security_privacy_settings_title">Конфиденциальность</string>
 	<string name="wifi_p2p_settings_title">Wi-Fi Direct</string>
 	<string name="sms_received_sound_dialog_title">Выбор звука при получении сообщения</string>
 	<string name="sdcard_settings_total_bytes_label">Всего байтов:</string>

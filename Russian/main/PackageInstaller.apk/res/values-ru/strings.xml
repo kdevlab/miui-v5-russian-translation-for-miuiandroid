@@ -2,7 +2,7 @@
 <!--Merged with KDG BigBlackBox-->
 <resources>
 	<string name="install_failed_invalid_apk">Файл поврежден</string>
-	<string name="out_of_space_dlg_text">Установить приложение %1$s не удалось. Освободите место и повторите попытку</string>
+	<string name="out_of_space_dlg_text">Установить приложение %1$s не удалось. Освободите место и повторите попытку.</string>
 	<string name="install_failed_older_sdk">Этот пакет поддерживается только в системе Android более поздних версий</string>
 	<string name="settings">Настройки</string>
 	<string name="perm_privacy_app_launch">Открыть</string>
@@ -42,11 +42,11 @@
 	<string name="manage_device_administrators">Настройки администрирования</string>
 	<string name="launch">Открыть</string>
 	<string name="uninstall_failed_msg">Удалить приложение %1$s не удалось</string>
-	<string name="install_failed_verify_timeout">Не удалось проверить пакет. Попробуйте установить его позже</string>
+	<string name="install_failed_verify_timeout">Не удалось проверить пакет. Попробуйте установить его позже.</string>
 	<string name="Parse_error_dlg_title">Синтаксическая ошибка</string>
 	<string name="app_name">Программа установки приложений</string>
 	<string name="uninstall_update_title">Удаление обновления</string>
-	<string name="perm_privacy_app_trust_summary">Система не будет следить за этим приложением.</string>
+	<string name="perm_privacy_app_trust_summary">Система не будет следить за этим приложением</string>
 	<string name="lift_ban">Снять запрет</string>
 	<string name="security_settings_desc">Разрешить этому приложению:</string>
 	<string name="install_failed">Приложение не установлено</string>
