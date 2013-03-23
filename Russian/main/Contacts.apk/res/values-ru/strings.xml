@@ -6,7 +6,7 @@
 	<string name="not_applied">Не поддерживается</string>
 	<string name="resource_title_select_ringtone">Выбор мелодии</string>
 	<string name="toast_call_detail_error">Не удается получить сведения о вызове</string>
-	<string name="add_xiaomi_account_dialog_msg">Рекомендуется сохранить контакты в аккаунт Xiaomi. Аккаунты Xiaomi позволяют производить синхронизацию и резервное копирование контактной информации и управление контактами на Вашем компьютере.</string>
+	<string name="add_xiaomi_account_dialog_msg">Рекомендуется сохранять контакты в аккаунт Xiaomi. Аккаунт Xiaomi позволяет производить синхронизацию и резервное копирование контактной информации и управление контактами на Вашем компьютере.</string>
 	<string name="cancel_vcard_import_or_export_failed">Не удалось отменить импорт/экспорт vCard</string>
 	<string name="sms_other_fax">Отправить SMS·на номер факса</string>
 	<string name="menu_new_group_action_bar">Новая группа</string>
@@ -24,7 +24,7 @@
 	<string name="remind_btn_sync_now">Сейчас</string>
 	<string name="starredList">Помеченные</string>
 	<string name="device_import_progress_toast">%1$d контактов импортировано</string>
-	<string name="keep_local_btn">Сохр. только в телефон</string>
+	<string name="keep_local_btn">В телефон</string>
 	<string name="name_given">Имя</string>
 	<string name="name_phonetic_family">Фамилия (транскрипция)</string>
 	<string name="select_vcard_title">Выбор файла vCard</string>
@@ -56,7 +56,7 @@
 	<string name="action_menu_overflow_description">Дополнительные опции</string>
 	<string name="group_rename_fail_toast">Не удалось переименовать группу</string>
 	<string name="voicemail_status_voicemail_not_available">Нет подключения к серверу гол. почты</string>
-	<string name="no_account_prompt">Подключите Контакты к аккаунту Google, чтобы:\n\n• Всегда иметь под рукой обновленные данные – на любом устройстве.\n• Синхронизировать все контакты – вы никогда не потеряете их</string>
+	<string name="no_account_prompt">Подключите Контакты к аккаунту Google, чтобы:\n\n• Всегда иметь под рукой обновленные данные – на любом устройстве\n• Синхронизировать все контакты – Вы никогда не потеряете их</string>
 	<string name="editGroupDescription">Редактировать группу</string>
 	<string name="postal_postcode">Почтовый индекс</string>
 	<string name="groupsLabel">Группы</string>
@@ -93,7 +93,7 @@
 	<string name="callrecordview_item_newcontact">Новый контакт</string>
 	<string name="empty_divider_title">Вы можете</string>
 	<string name="shortcutActivityTitle">Выбрать контакт для быстрого вызова</string>
-	<string name="preference_import_export_title">Импорт/экспорт контактов</string>
+	<string name="preference_import_export_title">Импорт и экспорт</string>
 	<string name="clearFrequentsConfirmation_title">Очистить частые контакты?</string>
 	<string name="import_failure_no_vcard_file">На SD-карте нет файлов VCard</string>
 	<string name="postalLabelsGroup">Адрес</string>
@@ -188,7 +188,7 @@
 	<string name="menu_doNotSave">Отмена</string>
 	<string name="display_options_sort_by_family_name">По фамилии</string>
 	<string name="description_uploadtime">Обновление:</string>
-	<string name="menu_set_ring_tone">Выбрать мелодию</string>
+	<string name="menu_set_ring_tone">Мелодия контакта</string>
 	<string name="call_radio">Радиотелефон</string>
 	<string name="frequency_none">Никогда</string>
 	<string name="description_call_log_voicemail">Голосовая почта</string>
@@ -201,7 +201,7 @@
 	<string name="full_name">Имя</string>
 	<string name="menu_redirect_calls_to_vm">Только голосовая почта</string>
 	<string name="contact_list_loading">Загрузка…</string>
-	<string name="fail_reason_low_memory_during_import">Недостаточно памяти. Возможно, файл слишком большой.</string>
+	<string name="fail_reason_low_memory_during_import">Недостаточно памяти. Возможно файл слишком большой.</string>
 	<string name="frequentList">Часто вызываемые</string>
 	<string name="status_available">На месте</string>
 	<string name="my_phone_not_provider_bluetooth">нет провайдера bluetooth</string>
@@ -212,7 +212,7 @@
 	<string name="scanning">поиск устройств...</string>
 	<string name="no_contacts_dialog_title">Контакт не найден</string>
 	<string name="import_contact_card_button">Импорт</string>
-	<string name="contact_edit_title_edit">Изменить контакт</string>
+	<string name="contact_edit_title_edit">Редактирование</string>
 	<string name="confirm_delete_selected_all_call_logs">Вы действительно хотите удалить все журналы вызовов контактов?</string>
 	<string name="launcherDialer">Телефон</string>
 	<string name="noContactHelpTextAccountsInfo">Синхронизировать контакты с Google, Exchange</string>
@@ -232,11 +232,11 @@
 	<string name="contact_detail_calllog_call_record_tips">Запись вызова</string>
 	<string name="option_view_group">Посмотреть</string>
 	<string name="pick_new_photo">Выбрать изображение из галереи</string>
-	<string name="picker_number_title">Пожалуйста, выберите номер</string>
+	<string name="picker_number_title">Выберите номер</string>
 	<string name="click_close">Коснитесь экрана, чтобы закрыть</string>
 	<string name="menu_share">Отправить</string>
 	<string name="description_contact_photo">изображение контакта</string>
-	<string name="picker_contact_title">Пожалуйста, выберите контакт</string>
+	<string name="picker_contact_title">Выберите контакт</string>
 	<string name="description_voicemail_button">голосовая почта</string>
 	<string name="description_image_button_five">пять</string>
 	<string name="next_birthday">Следующий День рождения: %s</string>
@@ -259,9 +259,9 @@
 	<string name="pick_photo">Выбрать изображение из галереи</string>
 	<string name="addPeopleToGroup">Чтобы добавить контакт в группу, перейдите в режим редактирования группы</string>
 	<string name="attach_photo_dialog_title">Изображение контакта</string>
-	<string name="contactsFavoritesLabel">Избранное</string>
+	<string name="contactsFavoritesLabel">Избранные</string>
 	<string name="returnCall">Обратный вызов</string>
-	<string name="share_via">Способ отправки</string>
+	<string name="share_via">Отправить</string>
 	<string name="postal_city">Город</string>
 	<string name="view_updates_from_group">Обновления</string>
 	<string name="display_sim_contacts">Показать контакты SIM-карты</string>
@@ -278,7 +278,7 @@
 	<string name="email">Эл. почта</string>
 	<string name="option_rename_group">Переименовать</string>
 	<string name="label_notes">Примечания</string>
-	<string name="zero_items_selected">Пожалуйста, выберите пункты</string>
+	<string name="zero_items_selected">Выберите контакт(ы)</string>
 	<string name="callrecordview_menu_show_missed">Только пропущенные</string>
 	<string name="name_middle">Отчество</string>
 	<string name="resource_get_auth_checking">Проверка...</string>
@@ -332,7 +332,7 @@
 	<string name="date_picker_label">Напомнить за 3 дня и в день рождения</string>
 	<string name="fail_reason_vcard_parse_error">Не возможно открыть vCard по неизвестным причинам</string>
 	<string name="description_quick_contact_for">Быстрый вызов, контакт: %1$s</string>
-	<string name="strequentList">Избранное</string>
+	<string name="strequentList">Избранные</string>
 	<string name="menu_copyContact">Копировать в \"Мои контакты\"</string>
 	<string name="dialog_import">Импорт контактов</string>
 	<string name="chat_gtalk">Чат через Google Talk</string>
@@ -395,13 +395,13 @@
 	<string name="insertGroupDescription">Создать группу</string>
 	<string name="custom_list_filter">Настройка отображения</string>
 	<string name="noContactsHelpTextWithSyncForCreateShortcut">Отсутствуют контакты для отображения. (Если аккаунт был только что добавлен, потребуется несколько минут для синхронизации контактов.)</string>
-	<string name="preference_import_export">Импорт/экспорт</string>
+	<string name="preference_import_export">Импорт и экспорт</string>
 	<string name="import_all_vcard_string">Импорт всех файлов VCard</string>
 	<string name="menu_bar_group_add">Добавить</string>
 	<string name="menu_viewContact">Просмотреть контакт</string>
 	<string name="cancel_import_dialog_message">Вы уверены, что хотите прекратить импорт контактов?</string>
 	<string name="no_sdcard_message">SD-карта не обнаружена</string>
-	<string name="preference_simple_mode_description">Элемент списка не отображает аватары, атрибуции и компании</string>
+	<string name="preference_simple_mode_description">Не отображать аватары, атрибуции, компании и т.д.</string>
 	<string name="widget_name_and_phonetic">%1$s (%2$s)</string>
 	<string name="device_version_title">Выберите версию мобильного телефона</string>
 	<string name="call_assistant">Вызов: %s</string>
@@ -413,7 +413,7 @@
 	<string name="menu_select_all">Выбрать все</string>
 	<string name="readOnlyContactWarning">Невозможно удалить контакты из аккаунта, доступного только для чтения, однако их можно скрыть в списках контактов</string>
 	<string name="resource_local">Локально %1$s</string>
-	<string name="delete_duplicate_message">Слияние...</string>
+	<string name="delete_duplicate_message">Объединение контактов...</string>
 	<string name="description_plus_button">плюс</string>
 	<string name="resource_alarm_default">Будильник</string>
 	<string name="vcard_import_request_rejected_message">Запрос на импорт данных vCard отклонен. Повторите попытку позже.</string>
@@ -425,7 +425,7 @@
 	<string name="recentCalls_shareVoicemail">Поделиться голосовой почтой</string>
 	<string name="call_work_pager">Рабочий пейджер</string>
 	<string name="display_all_contacts">Все контакты</string>
-	<string name="delete_duplicate">Слияние</string>
+	<string name="delete_duplicate">Объединить</string>
 	<string name="sms_home">SMS: домашний тел.</string>
 	<string name="calllog_menu_blacklist">Добавить в черный список</string>
 	<string name="display_warn_remove_ungrouped">Вместе с группой \"%s\" перестанут синхронизироваться контакты, не добавленные в группы</string>
@@ -494,7 +494,7 @@
 	<string name="account_type_format">Контакт %1$s</string>
 	<string name="status_busy">Не беспокоить</string>
 	<string name="multipleContactDeleteConfirmationDetail">Удаление \"%s\" удалит всю информацию о этом контакте из аккаунтов</string>
-	<string name="dialerIconLabel">Последние</string>
+	<string name="dialerIconLabel">Недавние</string>
 	<string name="device_brand_title">выберите марку мобильного телефона</string>
 	<string name="noContactHelpTextImportXiaomiAccountInfo">Восстановить контакты из резервной копии в аккаунте Xiaomi и MiTalk</string>
 	<string name="contactsGroupsLabel">Группы</string>
@@ -502,7 +502,7 @@
 	<string name="copy_text">Копировать в буфер обмена</string>
 	<string name="callrecordview_item_op_time_missed">Не подключен</string>
 	<string name="name_family">Фамилия</string>
-	<string name="preference_contacts_more">Другие настройки контактов</string>
+	<string name="preference_contacts_more">Дополнительные настройки</string>
 	<string name="smart_group_frequency_4">Не было контакта в течение более 6 месяцев</string>
 	<string name="savingDisplayGroups">Варианты отображения сохраняются...</string>
 	<string name="blurbJoinContactDataWith">Выберите контакт, который хотите объединить с \"%s\":</string>
@@ -550,7 +550,7 @@
 	<string name="description_summary">Инфо:</string>
 	<string name="save_photo_progress">Сохранение фотографии...</string>
 	<string name="hint_findContacts">Найти контакты</string>
-	<string name="noContactsHelpTextWithSync">Нет контактов для показа. Если вы только что добавили аккаунт, синхронизация контактов может занять несколько минут.\n\nЧтобы добавить контакты, нажмите Меню и выберите один из вариантов.\n\nАккаунты: добавление или настройка аккаунта с контактами, которые можно синхронизировать с телефоном.\n\nФильтр контактов: настройка параметров показа контактов.\n\nНовый контакт: добавление контакта.\n \nИмпорт/экспорт: импорт контактов с SIM- или SD-карты.\n</string>
+	<string name="noContactsHelpTextWithSync">Нет контактов для показа. Если Вы только что добавили аккаунт, синхронизация контактов может занять несколько минут.\n\nЧтобы добавить контакты, нажмите Меню и выберите один из вариантов.\n\nАккаунты: добавление или настройка аккаунта с контактами, которые можно синхронизировать с телефоном.\n\nФильтр контактов: настройка параметров показа контактов.\n\nНовый контакт: добавление контакта.\n \nИмпорт/экспорт: импорт контактов с SIM- или SD-карты.\n</string>
 	<string name="description_download">Скачано:</string>
 	<string name="menu_clear_frequents">Очистить частые</string>
 	<string name="toast_displaying_all_contacts">Отображение всех контактов</string>
@@ -580,7 +580,7 @@
 	<string name="menu_not_redirect_calls_to_vm">Голосовая почта не используется</string>
 	<string name="export_vcard_description">Экспортировать vCard на SD-карту</string>
 	<string name="call_log_old_header">Раньше</string>
-	<string name="wipe_data">Удалить все записи</string>
+	<string name="wipe_data">Очистить данные</string>
 	<string name="service_provider">Поставщик услуг</string>
 	<string name="callrecordview_menu_delete_confirm">Вы действительно хотите очистить журнал вызовов?</string>
 	<string name="contact_status_update_attribution_with_date">%1$s с помощью %2$s</string>
@@ -600,7 +600,7 @@
 	<string name="description_image_button_pound">решетка</string>
 	<string name="emailLabelsGroup">Адрес электронной почты</string>
 	<string name="menu_newContact">Новый контакт</string>
-	<string name="preference_remove_duplicate">Слияние дубликатов контактов</string>
+	<string name="preference_remove_duplicate">Слияние дубликатов</string>
 	<string name="postal_pobox">Почтовый ящик</string>
 	<string name="noContactsHelpText">Нет контактов для показа.\n\nЧтобы добавить контакты, нажмите Меню и выберите один из вариантов.\n \nАккаунты: добавление или настройка аккаунта с контактами, которые можно синхронизировать с телефоном.\n \nНовый контакт: добавление контакта.\n \nИмпорт/экспорт: импорт контактов с SIM- или SD-карты.\n</string>
 	<string name="display_options_view_family_name_first">Сначала фамилию</string>
@@ -616,7 +616,7 @@
 	<string name="unknown_contact_name">Неизвестный номер</string>
 	<string name="group_delete_success_toast">Группа успешно удалена</string>
 	<string name="composer_failed_to_get_database_infomation">База данных недоступна</string>
-	<string name="preference_dial_pad_touch_tone_title">Тон набора сенсорной панели</string>
+	<string name="preference_dial_pad_touch_tone_title">Тон сенсорной панели</string>
 	<string name="toast_join_with_empty_contact">Укажите имя контакта, который хотите объединить</string>
 	<string name="frequency_weekly">Каждую неделю</string>
 	<string name="remove_duplicate">MIUI поможет Вам найти и объединить дублированные контакты. Они не будут объединены автоматически. Пожалуйста, объедините их вручную.\n\nНажмите на объединение и немного подождите, пока автоматическое объединение не завершится.</string>
@@ -628,7 +628,7 @@
 	<string name="non_phone_add_to_contacts">Добавить номер к контакту</string>
 	<string name="group_create_success_toast">Группа успешно создана</string>
 	<string name="openDialKeyboard">Клавиатура</string>
-	<string name="pref_key_photo_word_title">Изображение для контакта</string>
+	<string name="pref_key_photo_word_title">Фото для контакта</string>
 	<string name="favoritesFrequentContacted">Часто набираемые</string>
 	<string name="create_group_dialog_title">Создание новой группы</string>
 	<string name="smart_group_label">Смарт-группировка</string>
@@ -656,7 +656,7 @@
 	<string name="callrecordview_menu_delete_accepted">Очистить журнал входящих вызовов</string>
 	<string name="chat_yahoo">Чат через Yahoo</string>
 	<string name="noAccounts">Для создания групп нужен аккаунт</string>
-	<string name="menu_removeStar">Убрать из избранных</string>
+	<string name="menu_removeStar">Удал. из избранных</string>
 	<string name="separatorJoinAggregateAll">Все контакты</string>
 	<string name="preference_telocation_title">Местоположение</string>
 	<string name="viewContactTitle">Сведения о контакте</string>
@@ -666,7 +666,7 @@
 	<string name="sim_contacts">Контакты на SIM-карте</string>
 	<string name="option_not_in_group">Удалить контакт из группы</string>
 	<string name="loading_resource_detail_info">Загрузка...</string>
-	<string name="add_xiaomi_account_dialog_btn">Исп. аккаунт Xiaomi</string>
+	<string name="add_xiaomi_account_dialog_btn">В аккаунт Xiaomi</string>
 	<string name="import_from_sdcard">Импорт с SD-карты</string>
 	<string name="all_list_empty">Нет контактов</string>
 	<string name="contact_editor_prompt_multiple_accounts">Выберите аккаунт, в который следует добавить новый контакт</string>
@@ -709,7 +709,7 @@
 	<string name="name_phonetic_given">Имя (транскрипция)</string>
 	<string name="connections">Связи</string>
 	<string name="btn_delete_one_contact">Удалить контакт</string>
-	<string name="contactDetailAbout">Контактные данные</string>
+	<string name="contactDetailAbout">Информация</string>
 	<string name="toast_finish_delete_call_log">Запись(и) журнала удалена(ы)</string>
 	<string name="scanning_sdcard_failed_title">SD-карта не просканирована</string>
 	<string name="voicemail_speed_normal">Средняя скорость</string>
@@ -735,7 +735,7 @@
 	<string name="call_custom">Позвонить (%s)</string>
 	<string name="groupSavedErrorToast">Не удалось сохранить изменения</string>
 	<string name="description_send_message">Отправить сообщение, контакт: %1$s</string>
-	<string name="preference_dial_pad_touch_tone_switch">Тон набора сенсорной панели</string>
+	<string name="preference_dial_pad_touch_tone_switch">Вкл. тон набора</string>
 	<string name="menu_dialpad_text">Клавиатура</string>
 	<string name="createContactShortcutSuccessful">Виджет контакта добавлен на рабой стол</string>
 	<string name="delete_group_dialog_title">Удаление группы</string>
@@ -748,7 +748,7 @@
 	<string name="noMatchingContacts">Подходящие контакты не найдены</string>
 	<string name="name_prefix">Форма обращения</string>
 	<string name="menu_editContact">Изменить</string>
-	<string name="menu_addStar">Добавить в избранное</string>
+	<string name="menu_addStar">Доб. в избранные</string>
 	<string name="user_profile_contacts_list_header">Я</string>
 	<string name="menu_create_contact_shortcut">На рабочий стол</string>
 	<string name="group_name_hint">Название группы</string>
@@ -785,7 +785,7 @@
 	<string name="description_call_log_play_button">Прослушать голосовую почту</string>
 	<string name="delete_contact_calllog_title">Запись(и) журнала вызовов была(и) удалена(ы)</string>
 	<string name="pick_recent_contacts_list_title">Всего контактов: %1$d</string>
-	<string name="contactDetailCalllog">Журнал звонков</string>
+	<string name="contactDetailCalllog">Журнал вызовов</string>
 	<string name="batch_delete">Множественное удаление контактов</string>
 	<string name="menu_discard">Отменить</string>
 	<string name="recent_contacts_label">Недавние</string>
@@ -809,12 +809,12 @@
 	<string name="call_main">Основной телефон</string>
 	<string name="search_results_searching">Поиск...</string>
 	<string name="deleteConfirmationDetail">\"%s\" будет удален</string>
-	<string name="preference_phone_more_title">Другие настройки телефона</string>
+	<string name="preference_phone_more_title">Дополнительные настройки</string>
 	<string name="vcard_export_will_start_message">Экспорт %s начнется в ближайшее время</string>
 	<string name="reading_vcard_canceled_title">Чтение данных vCard отменено</string>
 	<string name="resource_see_more">Подробнее</string>
 	<string name="option_not_star">Убрать из избранного</string>
-	<string name="btn_split_contact">Разделить контакты</string>
+	<string name="btn_split_contact">Разделить контакт</string>
 	<string name="option_send_to_others">Отправить...</string>
 	<string name="preference_simple_mode_title">Простой режим</string>
 	<string name="noContactsWithPhoneNumbers">Нет контактов с номерами телефонов</string>

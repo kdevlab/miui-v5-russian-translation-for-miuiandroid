@@ -43,7 +43,7 @@
 	<string name="daily_limit_dialog_disconnect_hint">Отключать интернет при превышении лимита трафика</string>
 	<string name="apply_rules_failed_known">OK</string>
 	<string name="carrier_query_number_brand">Бренд</string>
-	<string name="app_detail_internet_background_traffic">Передний план: %1$s Фон: %2$s</string>
+	<string name="app_detail_internet_background_traffic">Трафик: %1$s Фоновый трафик: %2$s</string>
 	<string name="daily_limit_result">Предупреждать меня и отключать интернет при превышении ежедневного трафика (%dMB)</string>
 	<string name="settings_page_adjust_summary_no_carrier">Оператор не настроен, авторегуировка трафика отключена</string>
 	<string name="disable_background_connect_warning">При ограничении фонового трафика некоторые приложения или службы не смогут работать через 2G/3G. Вы уверены?</string>
@@ -54,8 +54,8 @@
 	<string name="close_txt">Закрыть</string>
 	<string name="menu_display_wifi">Показать Wi-Fi-трафик</string>
 	<string name="finish_traffic_settings_title">Настройки трафика</string>
-	<string name="overseas_menu_traffic_adjust">Настройка вручную</string>
-	<string name="unknown">Н/Д</string>
+	<string name="overseas_menu_traffic_adjust">Настроить</string>
+	<string name="unknown">Нет данных</string>
 	<string name="overseas_unknown_traffic_hint">Предел трафика не настроен. Настроить сейчас?</string>
 	<string name="menu_hide_system_app">Скрыть системные приложения</string>
 	<string name="pref_netwotk_speed_internal_summary">Обновлять скорость сети каждые %d сек</string>
@@ -99,7 +99,7 @@
 	<string name="sms_template_match_fail">Ошибка сопоставления шаблона SMS</string>
 	<string name="carrier_settings_button">Настройки оператора</string>
 	<string name="update_no_network">Ошибка обновления. Пожалуйста, проверьте настройки сети.</string>
-	<string name="traffic_total">Пакет: %s</string>
+	<string name="traffic_total">всего</string>
 	<string name="sync_traffic_success">Информация о пакетах трафика получена, настройки обновлены</string>
 	<string name="mobile_traffic">2G/3G: %s</string>
 	<string name="adjust_traffic_auto_adjust_open_hint">Авторегуляция включена, система автоматически контролирует объем поторебляемого трафика</string>
@@ -108,7 +108,7 @@
 	<string name="sync_traffic_fail_message">Синхронизация с оператором не удалась, сервер занят. Пожалуйста, попробуйте позже или позвоните в поддержку %s для помощи</string>
 	<string name="about">О программе</string>
 	<string name="notify_traffic_settings_title">Вы не настроили ваш тарифный план. Настроить сейчас?</string>
-	<string name="traffic_none">Н/Д</string>
+	<string name="traffic_none">Нет данных</string>
 	<string name="force_stop_dlg_text">Завершение работы приложения может вызвать ошибки</string>
 	<string name="app_name">Монитор</string>
 	<string name="adjust_traffic_auto_adjust_title">Авторегуляция трафика</string>
@@ -123,7 +123,7 @@
 	<string name="apply_rules_failed">Не удалось включить брандмауэр, попробуйте еще раз. (%s)</string>
 	<string name="manual_input_used_traffic_title">Ввод использованного трафика вручную</string>
 	<string name="loading_app">Загрузка...</string>
-	<string name="finish_traffic_settings_message">Использовано %s трафика. Данные верны? Если нет, то вы можете изменить настройки</string>
+	<string name="finish_traffic_settings_message">Использовано %s трафика. Данные верны? Если нет, то вы можете изменить настройки.</string>
 	<string name="daily_limit_result_no_disconnect">Напоминать, когда ежедневный трафик превышает %d МБ</string>
 	<string name="carrier_query_number_location">Местоположение</string>
 	<string name="text_save">Сохранить</string>
@@ -131,19 +131,19 @@
 	<string name="menu_traffic_settings">Тарифный план</string>
 	<string name="traffic_remain">Осталось</string>
 	<string name="text_done">Готово</string>
-	<string name="pref_connect_settings_exceed_limit_hint">Предупреждать меня при превышении ежемесячным трафиком лимита</string>
+	<string name="pref_connect_settings_exceed_limit_hint">Предупреждать меня при превышении ежемесячного лимита трафика</string>
 	<string name="sync_fail_notify_detail">Данные оператора не получены, попробуйте еще раз</string>
 	<string name="manual_input_used_traffic_hint">Использовано трафика</string>
 	<string name="i_known_button">ОК</string>
 	<string name="overseas_menu_traffic_settings">Предел трафика</string>
-	<string name="menu_new_install_app_settings">Настройки по умолчанию для новых приложений</string>
+	<string name="menu_new_install_app_settings">Настройки для новых приложений</string>
 	<string name="warning_title">Внимание</string>
 	<string name="menu_sort">Сортировка</string>
 	<string name="adjust_traffic_manual_adjust">Ввести вручную</string>
 	<string name="adjust_traffic_carrier_summary_more_oneweek_before">Не обновлялось более недели</string>
 	<string name="edit_frame_free_traffic_title">Изменить учет трафика</string>
 	<string name="app_detail_version">Версия: %s</string>
-	<string name="unknown_traffic_hint">Неизвестный размер разрешенного трафика, вы хотите установить его сейчас?</string>
+	<string name="unknown_traffic_hint">Лимит трафика не установлен. Хотите установить его прямо сейчас?</string>
 	<string name="disable_background_mobile_connect">Отключить фоновые соединения</string>
 	<string name="pref_network_speed_internal_title">Интервал опроса</string>
 	<string name="traffic_settings_error">Ошибка в настройках ежемесячного разрешенного трафика. Согласно вашему оператору, размер вашего трафика: %1$s и осталось: %2$s.</string>
@@ -151,5 +151,5 @@
 	<string name="adjust_traffic_carrier_summary_oneweek_before">Обновлено неделю назад</string>
 	<string name="unknown_free_traffic_text">Я не знаю об ограничениях трафика</string>
 	<string name="plate_traffic_remain">Осталось</string>
-	<string name="traffic_used_status">Использовано: %s</string>
+	<string name="traffic_used_status">использовано</string>
 </resources>
