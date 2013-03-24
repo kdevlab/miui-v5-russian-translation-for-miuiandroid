@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!--Decoded with KDG BigBlackBox-->
 <resources>
     <plurals name="listTotalPhoneContacts">
         <item quantity="other">Контакты с номерами телефонов: %d</item>
@@ -42,7 +43,14 @@
     </plurals>
     <plurals name="number_of_items_selected">
         <item quantity="other">Выбрано: %1$d</item>
-        <item quantity="zero">Выбрано: %1$d</item>
+        <item quantity="one">Выбрано: %1$d</item>
+    </plurals>
+    <plurals name="group_add_success_toast">
+        <item quantity="other">Успешно добавлено %1$d контактов</item>
+        <item quantity="one">Успешно добавлен %1$d контакт</item>
+    </plurals>
+    <plurals name="smart_group_member_count">
+        <item quantity="other">Выбрано: %1$d</item>
         <item quantity="one">Выбрано: %1$d</item>
     </plurals>
 </resources>
