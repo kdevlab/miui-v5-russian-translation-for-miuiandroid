@@ -935,7 +935,7 @@
 	<string name="sip_settings">Интернет-телефония</string>
 	<string name="sip_settings_miui">Интернет-телефония</string>
 	<string name="sip_system_decide">Автоматически</string>
-	<string name="sliding_down_hint_miui">Сдвиньте вниз для ответа</string>
+	<string name="sliding_down_hint_miui"><font size='10'>Сдвиньте вниз для ответа</font></string>
 	<string name="sliding_target_hint_miui">Сдвиньте вверх, чтобы отклонить/отправить сообщение</string>
 	<string name="sliding_up_hint_miui">Сдвиньте вверх, чтобы отклонить</string>
 	<string name="sms_content">Содержание сообщения</string>
