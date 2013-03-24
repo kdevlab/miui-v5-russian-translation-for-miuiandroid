@@ -57,12 +57,12 @@
 	<string name="Generic_UserApp">Загруженные приложения (%d)</string>
 	<string name="Generic_Version">Версия: %1$s</string>
 	<string name="HIPS_Action_Accept">Разреш.</string>
-	<string name="HIPS_Action_Accept_Colored">разрешено</string>
+    <string name="HIPS_Action_Accept_Colored">&lt;font color=#478800>разрешено&lt;/font></string>
 	<string name="HIPS_Action_Accept_Count">Разрешенные: %1$d</string>
 	<string name="HIPS_Action_Prompt">Спросить</string>
-	<string name="HIPS_Action_Prompt_Colored">запрос</string>
+    <string name="HIPS_Action_Prompt_Colored">&lt;font color=#FF8A00>запрос&lt;/font></string>
 	<string name="HIPS_Action_Reject">Запретить</string>
-	<string name="HIPS_Action_Reject_Colored">запрещено</string>
+    <string name="HIPS_Action_Reject_Colored">&lt;font color=#DF0000>запрещено&lt;/font></string>
 	<string name="HIPS_Action_Reject_Count">Запрещенные: %1$d</string>
 	<string name="HIPS_Group_DataPrivacy">Конфиденциальность</string>
 	<string name="HIPS_Group_Expense">Безопасность</string>
