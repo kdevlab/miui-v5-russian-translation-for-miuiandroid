@@ -1123,9 +1123,9 @@
 	<string name="perm_clean">Очистить</string>
 	<string name="perm_configuration">Settings</string>
 	<string name="perm_copyright">Работает по технологии LBE Privacy Guard</string>
-	<string name="perm_disable">Disable</string>
+	<string name="perm_disable">Выключить</string>
 	<string name="perm_enable">Включить</string>
-	<string name="perm_good">Good</string>
+	<string name="perm_good">Хорошо</string>
 	<string name="perm_header">Управление %1$d приложениями</string>
 	<string name="perm_header_disabled">Управление разрешениями отключено</string>
 	<string name="perm_hide_system_app">Скрыть системные приложения</string>
@@ -1270,7 +1270,7 @@
 	<string name="permission_detail_info_summary">безопасные: %1$d, приватные %2$d, другие %3$d</string>
 	<string name="permission_manage">Управление правами</string>
 	<string name="permission_manage_summary">Автоматический запуск, конфиденциальность, безопасное управление правами</string>
-	<string name="permission_manage_title">Рзрешения %s</string>
+	<string name="permission_manage_title">Разрешения %s</string>
 	<string name="permissions_label">Разрешения</string>
 	<string name="personal_data_section_title">Возврат к заводским настройкам</string>
 	<string name="phone_info_label">Информация о телефоне</string>
