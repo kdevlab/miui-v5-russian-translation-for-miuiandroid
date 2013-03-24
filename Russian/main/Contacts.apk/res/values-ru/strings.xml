@@ -306,7 +306,7 @@
 	<string name="emptyGroup">Нет людей в этой группе</string>
 	<string name="empty_divider_title">Вы можете</string>
 	<string name="enter_contact_name">Имя контакта</string>
-	<string name="eventLabelsGroup">Мероприятия</string>
+	<string name="eventLabelsGroup">День рождения</string>
 	<string name="event_edit_field_hint_text">Дата</string>
 	<string name="export_sim_contact_finish">Экспорт на SIM-карту завершен</string>
 	<string name="export_sim_contacts_dialog_message">На SIM-карту можно сохранить %d контактов. Продолжить?</string>
@@ -431,7 +431,7 @@
 	<string name="local_profile_title">Мой профиль</string>
 	<string name="local_search_label">Все контакты</string>
 	<string name="locale_change_in_progress">Список контактов обновится после смены языка интерфейса</string>
-	<string name="lunarBirthdayLabelsGroup">День рождения</string>
+	<string name="lunarBirthdayLabelsGroup">Лунный день рождения</string>
 	<string name="make_primary">Запомнить выбранное</string>
 	<string name="map_custom">Просмотр адреса: %s</string>
 	<string name="map_home">Просмотреть домашний адрес</string>
