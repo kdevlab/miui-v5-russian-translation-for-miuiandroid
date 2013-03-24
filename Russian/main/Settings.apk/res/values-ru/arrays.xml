@@ -266,16 +266,13 @@
         <item>Белый</item>
         <item>Фиолетовый</item>
     </string-array>
-    <string-array name="led_color_entries_for_mione">
+    <string-array name="mi1_led_color_entries">
         <item>Синий</item>
         <item>Красный</item>
         <item>Зеленый</item>
         <item>Розовый</item>
+        <item>Лиловый</item>
         <item>Фиолетовый</item>
-        <item>Пурпурный</item>
-        <item>Изумрудный</item>
-        <item>Голубой</item>
-        <item>Сапфир</item>
     </string-array>
     <string-array name="multi_sim_entries">
         <item>Подписка 1</item>
