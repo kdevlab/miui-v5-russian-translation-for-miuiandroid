@@ -1,12 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="download_filters">
+        <string-array name="download_filters">
         <item>Все</item>
-        <item>Завершенные</item>
-        <item>В процессе</item>
+        <item>Темы</item>
+        <item>Маркет</item>
+        <item>Браузер</item>
+        <item>Музыка</item>
+        <item>Другие</item>
     </string-array>
     <string-array name="prefEntries_max_bytes_limit">
-        <item>Нет лимита</item>
         <item>10МБ</item>
         <item>5МБ</item>
         <item>2МБ</item>
