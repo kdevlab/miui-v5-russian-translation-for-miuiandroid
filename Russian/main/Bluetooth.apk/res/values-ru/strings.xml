@@ -110,7 +110,6 @@
 	<string name="permlab_bluetoothShareManager">Доступ к диспетчеру загрузки</string>
 	<string name="permlab_bluetoothWhitelist">Белый список доступа устройства Bluetooth</string>
 	<string name="permlab_handoverStatus">Получать BT передачи вещания</string>
-	<string name="share_prepare">Подготовка отправки по Bluetooth</string>
 	<string name="start_server">Запустить TCP-сервер</string>
 	<string name="status_bpp_aborted_by_printer">Печать не удалось из-за отмены на принтере</string>
 	<string name="status_bpp_canceled_by_user">Печать была отменена пользователем</string>

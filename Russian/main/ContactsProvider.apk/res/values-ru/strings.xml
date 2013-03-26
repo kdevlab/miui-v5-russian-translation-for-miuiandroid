@@ -2,6 +2,7 @@
 <!--Merged and sorted with KDG BigBlackBox-->
 <resources>
 	<string name="app_label">Хранилище контактов</string>
+	<string name="call_log_provider_label">Журнал вызовов</string>
 	<string name="create_contact">Создать новый контакт</string>
 	<string name="default_directory">Контакты</string>
 	<string name="edit_contact">Добавить к контакту</string>

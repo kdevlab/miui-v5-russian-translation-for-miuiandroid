@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--Merged and sorted with KDG BigBlackBox-->
 <resources>
+	<string name="account_bind_prompt">Перенос данных пользователя\nперенос данных может жанять некоторое время,\nваш аккаунт временно будет недоступен, пожалуйста подождите…</string>
 	<string name="add_task">Добавить задачи</string>
 	<string name="adding_upload_tasks">Добавление задачи загрузки.</string>
 	<string name="app_name">Файлы</string>
@@ -12,6 +13,7 @@
 	<string name="binded_accout_warning">Предупреждение: эта операция не обратима</string>
 	<string name="binding_accout_title">привязка к существующей учетной записи kuaipan</string>
 	<string name="cancel">Отмена</string>
+	<string name="cancel_cleanup">Отменить очистку</string>
 	<string name="category_all">Все</string>
 	<string name="category_apk">Программы</string>
 	<string name="category_bluetooth">Bluetooth</string>
@@ -26,10 +28,14 @@
 	<string name="category_zip">Архивы</string>
 	<string name="choose_send_type">Выбор метода отправки</string>
 	<string name="choose_upload_location">Выберите место загрузки</string>
+	<string name="clean_complete">Очистка завершена</string>
 	<string name="clean_message">Удаление %1$s</string>
 	<string name="clean_title">Удалять файлы из корзины, если они лежат там дольше 30 дней</string>
 	<string name="clean_trash_box">Очистить корзину</string>
 	<string name="clean_trash_box_failed">Ошибка удаления файлов из корзины</string>
+	<string name="cleanup_help">Очистка мусорных файлов в системе\nОсвободите место на диске</string>
+	<string name="cleanup_tab_app">Очистка приложений</string>
+	<string name="cleanup_tab_garbage">Очистка от мусора</string>
 	<string name="clear_cache">Очистить кэш</string>
 	<string name="close">Закрыть</string>
 	<string name="compress_message">Имя архива:</string>
@@ -78,6 +84,7 @@
 	<string name="file_info_modified">Изменен:</string>
 	<string name="file_info_size">Размер:</string>
 	<string name="file_loading">Загрузка...</string>
+	<string name="file_too_large">"Этот файл слишком большой для загрузки на сервер"</string>
 	<string name="finished">Завершено</string>
 	<string name="forward_to_web_recycle_prompt">&lt;a href=\"%1$s\">Нажмите сюда&lt;/a>для очистки корзины</string>
 	<string name="ftp_account_req_notice">Имя и пароль, 4~16 знаков, включая цифры, буквы, чувствительны к регистру</string>
@@ -104,6 +111,7 @@
 	<string name="local_cache_size">Размер локального кэш: %s</string>
 	<string name="login_reg_content">KuaiPan позволяет хранить файлы и синхронизировать их между несколькими устройствами.</string>
 	<string name="login_reg_content0">KuaiPan - ваш интернет диск</string>
+	<string name="menu_item_cleanup">Очистка файлов</string>
 	<string name="menu_item_ftp">Обмен файлами через Wi-Fi</string>
 	<string name="menu_item_search">Поиск</string>
 	<string name="menu_item_sort">Сортировка</string>
@@ -111,14 +119,18 @@
 	<string name="menu_item_sort_name">По названию</string>
 	<string name="menu_item_sort_size">По размеру</string>
 	<string name="menu_item_sort_type">По типу</string>
+	<string name="migrate_announcement_msg">Если у вас есть аккаунт KuaiPan, вы можете привязать его в настройках и получить доступ к данным.</string>
+	<string name="migrate_announcement_title">MiDrive был перенесен в KuaiPan</string>
 	<string name="move_failed">Ошибка перемещения</string>
 	<string name="multi_select_title">Выбрано: %1$s</string>
+	<string name="name_illegal">Имя не может быть пустым</string>
 	<string name="net_lose_connected">Сеть недоступна, не может получить размер</string>
 	<string name="networkView_notConnected">Нет доступных сетей</string>
 	<string name="networkView_offline">Офлайн режим, обновление директорий приостановлено</string>
 	<string name="new_folder_name">Новая папка</string>
 	<string name="no">Нет</string>
 	<string name="no_file">Нет файлов</string>
+	<string name="no_more_space">Не хватает места на диске</string>
 	<string name="no_tasks">Задач нет</string>
 	<string name="no_wifi">Нет Wi-Fi сети</string>
 	<string name="no_wifi_hint">Нет Wi-Fi соединения</string>
@@ -129,6 +141,8 @@
 	<string name="operation_compress">Добавить в архив</string>
 	<string name="operation_compressing">Создание архива...</string>
 	<string name="operation_copy">Копировать</string>
+	<string name="operation_copying">Копирование…</string>
+	<string name="operation_copying_detail">Копирование файлов (%1$d/%2$d)</string>
 	<string name="operation_create_folder">Новая папка</string>
 	<string name="operation_create_folder_message">Введите имя папки</string>
 	<string name="operation_decompressing">Распаковка...</string>
@@ -136,12 +150,14 @@
 	<string name="operation_delete_confirm_message">Подтверждение удаления</string>
 	<string name="operation_delete_confirm_message_folder">Удаление папки приведет к удалению всех файлов внутри нее\n</string>
 	<string name="operation_deleting">Удаление...</string>
+	<string name="operation_deleting_detail">Удаление файлов (%1$d/%2$d)</string>
 	<string name="operation_download_link">Создание ссылки для скачивания</string>
 	<string name="operation_favorite">Добавить в Избранное</string>
 	<string name="operation_hide_sys">Скрыть системные</string>
 	<string name="operation_info">Сведения</string>
 	<string name="operation_move">Переместить</string>
 	<string name="operation_moving">Перемещение...</string>
+	<string name="operation_moving_detail">Перенос файлов (%1$d/%2$d)</string>
 	<string name="operation_paste">Вставить</string>
 	<string name="operation_pasting">Копирование...</string>
 	<string name="operation_pause">Пауза</string>
@@ -156,11 +172,14 @@
 	<string name="operation_unfavorite">Удалить из Избранного</string>
 	<string name="pan_settting">Настройки KuaiPan</string>
 	<string name="paused">Пауза</string>
+	<string name="query_bind_state">Запрос состояния, пожалуйста, подождите…</string>
 	<string name="remote_management">Обмен файлами Wi-Fi</string>
 	<string name="rename_description">Переименовывается···</string>
 	<string name="rename_failed">Переименование 《%1$s》 не удалось</string>
+	<string name="scanning">Сканирование...</string>
 	<string name="sd_card_available">Свободно: %1$s</string>
 	<string name="sd_card_size">SD-карта: %1$s</string>
+	<string name="sd_full">SD-карта полна</string>
 	<string name="search_hint">Введите часть или все имя файла</string>
 	<string name="search_title">Поиск документов</string>
 	<string name="send_to_midrive">Отправить в KuaiPan</string>
@@ -172,6 +191,7 @@
 	<string name="show_message">Файл не может быть открыт без загрузки, загрузить?</string>
 	<string name="space_info">Объем в сети: %1$s доступно，всего: %2$s</string>
 	<string name="space_usage">Использование облачного хранилища</string>
+	<string name="start_cleanup">Очистка</string>
 	<string name="start_server">Запустить</string>
 	<string name="start_use_xiaomi_account">Вход</string>
 	<string name="stay_awake_summary">Не переводить экран в режим сна при использовании FTP</string>
@@ -211,6 +231,9 @@
 	<string name="user_guide_summary">Руководство по KuaiPan</string>
 	<string name="user_guide_upload_to_kuaipan">С телефона,\nпросто скопировать и вставить в Kuaipan</string>
 	<string name="utf8_summary">Тип кодировки по умолчанию</string>
+	<string name="wait_net">Ожидание сети</string>
+	<string name="wait_sdcard">Ожидание подключения SD-карты</string>
+	<string name="wait_wifi">Ожидание Wi-Fi</string>
 	<string name="waiting">Ожидание</string>
 	<string name="wangpan_root_path">Мой диск</string>
 	<string name="wifi_state">Статус Wi-Fi</string>

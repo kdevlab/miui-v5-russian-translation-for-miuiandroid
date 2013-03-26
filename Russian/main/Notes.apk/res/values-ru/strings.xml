@@ -9,10 +9,8 @@
 	<string name="alert_message_delete_note">Вы уверены, что хотите удалить эту заметку?</string>
 	<string name="alert_message_delete_notes">Вы уверены, что хотите удалить выбранные (%1$s) заметки?</string>
 	<string name="alert_message_discard_changes">Отменить все действия?</string>
-	<string name="alert_message_exceed_image_limit">К каждой заметке могут быть присоединены только 15 фотографий</string>
 	<string name="alert_title_delete">Удаление заметок</string>
 	<string name="alert_title_discard">Отмена</string>
-	<string name="alert_title_exceed_image_limit">Достигнут предел количества снимков для заметки</string>
 	<string name="app_name">Заметки</string>
 	<string name="app_widget">Заметки</string>
 	<string name="attachment_camera">Камера</string>

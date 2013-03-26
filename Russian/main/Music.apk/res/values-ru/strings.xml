@@ -55,6 +55,8 @@
 	<string name="delete_playlist_menu">Удалить</string>
 	<string name="delete_song_desc">Вы уверены что хотите удалить файл %s с SD-карты?</string>
 	<string name="deselect_all">Отмена</string>
+	<string name="dirac_disabled">Dirac включен</string>
+	<string name="dirac_enabled">Dirac выключен</string>
 	<string name="download">Загрузить</string>
 	<string name="download_album_settings">Загрузка обложек</string>
 	<string name="download_album_summary">Может требовать большой расход трафика. Рекомендуется отключить</string>
