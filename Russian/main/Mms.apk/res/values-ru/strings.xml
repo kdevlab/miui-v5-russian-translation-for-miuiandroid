@@ -110,6 +110,7 @@
 	<string name="edit_slide_activity">Изменить слайд</string>
 	<string name="edit_slideshow_activity">Изменить слайд-шоу</string>
 	<string name="enable_password_protect">Включить защиту паролем</string>
+	<string name="enable_visible_pattern_title">Сделать шаблон видимым</string>
 	<string name="enter_edit_mode">Удалить</string>
 	<string name="error_code_label">"Код ошибки: "</string>
 	<string name="error_state">Данные были изменены</string>
@@ -158,6 +159,8 @@
 	<string name="menu_edit">Изменить</string>
 	<string name="menu_forward">Переслать</string>
 	<string name="menu_lock">Заблокировать</string>
+	<string name="menu_new_manual">Ввести номер вручную</string>
+	<string name="menu_pick_from_contact">Выбрать из контактов</string>
 	<string name="menu_preferences">Настройки</string>
 	<string name="menu_unlock">Разблокировать</string>
 	<string name="menu_view_contact">Просмотреть контакт</string>
@@ -225,6 +228,7 @@
 	<string name="notification_failed_multiple_title">Сообщения не отправлены</string>
 	<string name="notification_multiple">Непрочитанных сообщений: %s</string>
 	<string name="notification_multiple_title">Новые сообщения</string>
+	<string name="number_add_hint">Введите номер, чтобы добавить к частным контактам</string>
 	<string name="phrase_confirm_delete_message">Удалить шаблоны</string>
 	<string name="phrase_empty">Нет фразы</string>
 	<string name="phrase_from">От %1s</string>
