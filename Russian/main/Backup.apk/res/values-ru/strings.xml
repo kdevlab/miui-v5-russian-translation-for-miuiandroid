@@ -17,7 +17,7 @@
 	<string name="auto_backup_progress">Создание авто-бэкапа, пожалуйста подождите...</string>
 	<string name="auto_backup_select_user_apps">Выбор приложений</string>
 	<string name="auto_backup_selected_user_apps">Выбранные приложения</string>
-	<string name="auto_backup_setting">Копирование по расписанию</string>
+	<string name="auto_backup_setting">Настройка бэкапа по расписанию</string>
 	<string name="auto_backup_system_data">Система</string>
 	<string name="auto_backup_time">Запланировать копирование</string>
 	<string name="auto_backup_user_data">Приложения</string>
@@ -57,7 +57,7 @@
 	<string name="cloud_item_info_summary">(Локально: %1$s|Онлайн: %2$s)</string>
 	<string name="cloud_last_backup">Последняя:</string>
 	<string name="cloud_no_backup">Нет резервных копий</string>
-	<string name="cloud_restore_guide">Нажмите кнопку \"Начать\" для восстановления данных\nВы можете восстановить %s в резервную копию.</string>
+	<string name="cloud_restore_guide">Нажмите кнопку \"Начать\" для восстановления данных\nВы можете восстановить %s в бэкап.</string>
 	<string name="cloud_restore_title">Восстановление</string>
 	<string name="cloud_restore_window_title">Восстановление из облака</string>
 	<string name="cloud_search">Поиск...</string>
