@@ -149,7 +149,7 @@
 	<string name="automatic_brightness">Автонастройка</string>
 	<string name="available_size">%s (Доступно)</string>
 	<string name="awake">Время включения устройства</string>
-	<string name="back_long_press">Клавиша Назад</string>
+	<string name="back_long_press">Клавиша \"Назад\"</string>
 	<string name="back_long_press_timeout">Задержка</string>
 	<string name="background_data">Фоновый режим</string>
 	<string name="background_data_dialog_message">Отключение фонового режима обмена данными экономит заряд батареи и уменьшает объем трафика, однако некоторые приложения могут использовать этот режим даже после его отключения</string>
@@ -408,7 +408,7 @@
 	<string name="camera_key_action_app_title">Открыть приложение</string>
 	<string name="camera_key_action_category_title">Если не запущена камера</string>
 	<string name="camera_key_action_none_title">Никаких действий</string>
-	<string name="camera_key_action_setting_title">Клавиша MI</string>
+	<string name="camera_key_action_setting_title">Клавиша \"MI\"</string>
 	<string name="camera_key_action_shortcut_call">Вызов</string>
 	<string name="camera_key_action_shortcut_home">Домой</string>
 	<string name="camera_key_action_shortcut_screenshot">Снимок экрана</string>
@@ -1259,7 +1259,7 @@
 	<string name="power_bluetooth">Bluetooth</string>
 	<string name="power_cell">Связь с сетью</string>
 	<string name="power_idle">Режим ожидания</string>
-	<string name="power_key">Клавиша Питания</string>
+	<string name="power_key">Клавиша питания</string>
 	<string name="power_mode">Режим питания</string>
 	<string name="power_phone">Голосовые вызовы</string>
 	<string name="power_screen">Экран</string>
@@ -1272,7 +1272,7 @@
 	<string name="pref_button_light">Подсветка клавиш</string>
 	<string name="pref_button_light_summary">Подсветка клавиш \"Меню\", \"Назад\", \"Домой\"</string>
 	<string name="pref_operational_key">Клавиши</string>
-	<string name="pref_volume_category_title">Клавиши Громкости</string>
+	<string name="pref_volume_category_title">Клавиши громкости</string>
 	<string name="pref_volume_wake_summary">Нажатие клавиш регулировки громкости в заблокированном состоянии разбудит устройство</string>
 	<string name="pref_volume_wake_title">Пробуждать устройство</string>
 	<string name="preference_change_password_title">Изменить пароль</string>
