@@ -576,6 +576,7 @@
     <string name="simple_mode_button_text_slow_video">Отключить замедленный режим</string>
     <string name="pref_camera_coloreffect_title_simple_mode">Эффекты</string>
     <string name="pref_video_slow_speed_title_simple_mode">Замедленный режим съёмки</string>
-    <string name="enter_expert_mode_title">Расширенный вид</string>
+    <string name="enter_expert_mode_title">Расширенный режим</string>
     <string name="pref_settings_mode">Режим камеры</string>
+    <string name="pref_camera_picturesize_title_simple_mode">Разрешение</string>
 </resources>
