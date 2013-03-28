@@ -31,8 +31,8 @@
 	<string name="description_summary">Инфо:</string>
 	<string name="description_uploadtime">Обновление:</string>
 	<string name="description_version">Версия:</string>
-	<string name="desktop_wallpaper">Обои стола</string>
-	<string name="download_failed">Ошибка скачивания</string>
+	<string name="desktop_wallpaper">Рабочий стол</string>
+	<string name="download_failed">Ошибка загрузки</string>
 	<string name="download_preview_failed">Не удалось загрузить изображение</string>
 	<string name="download_success">Успешно загружено</string>
 	<string name="fail_to_add_account">Ошибка добавления аккаунта</string>
