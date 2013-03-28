@@ -1047,7 +1047,7 @@
 	<string name="multi_touch_points_category_title">Мультитач</string>
 	<string name="multi_touch_points_preference">Перезагрузить для применения</string>
 	<string name="musicfx_title">Эквалайзер</string>
-	<string name="nearby_wifi">Выбрать ближайший Wi-Fi</string>
+	<string name="nearby_wifi">Доступные сети Wi-Fi</string>
 	<string name="network_detail">Свойства сети %s</string>
 	<string name="network_settings_title">Мобильная сеть</string>
 	<string name="network_state_label">"Состояние Сети: "</string>
@@ -2103,7 +2103,7 @@
 	<string name="wifi_show_password">Показывать пароль</string>
 	<string name="wifi_signal">Уровень сигнала</string>
 	<string name="wifi_speed">Скорость связи</string>
-	<string name="wifi_ssid">Имя сети (SSID)</string>
+	<string name="wifi_ssid">Имя (SSID)</string>
 	<string name="wifi_starting">Включение Wi-Fi...</string>
 	<string name="wifi_state_disabled">Отключено</string>
 	<string name="wifi_state_disabling">Отключение</string>
