@@ -343,8 +343,7 @@
 	<string name="lunar_yue" />
 	<string name="lunar_zheng" />
 	<string name="memory_clear_nothing_result">Нет памяти для очистки</string>
-	<string name="memory_clear_result">"Освобождено: %1$s
-	Доступно: %2$s"</string>
+	<string name="memory_clear_result">Освобождено: %1$s\nДоступно: %2$s</string>
 	<string name="miui_copyright_title">Авторское право</string>
 	<string name="miui_mibi_license_title">Лицензионное соглашение MiCredit</string>
 	<string name="miui_privacy_policy_title">Политика конфиденциальности</string>
