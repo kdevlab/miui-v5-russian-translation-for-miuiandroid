@@ -108,7 +108,7 @@
 	<string name="pref_keep_in_memory_summary">Держать в памяти. Приложение не будет закрываться.</string>
 	<string name="pref_keep_in_memory_title">Держать в памяти</string>
 	<string name="pref_keep_layout_summary">Переключение сетки рабочего стола может нарушить положение иконок. Включите для сохранения положения иконок.</string>
-	<string name="pref_keep_layout_title">Держать раскладку</string>
+	<string name="pref_keep_layout_title">Сохранять расстановку</string>
 	<string name="pref_render_in_truecolor_summary">Включите, чтобы улучшить качество цветов</string>
 	<string name="pref_render_in_truecolor_title">Качественные цвета</string>
 	<string name="pref_screen_transformation_type_title">Эффект перехода экранов</string>
