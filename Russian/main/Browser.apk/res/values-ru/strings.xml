@@ -360,9 +360,7 @@
 	<string name="pref_ua_title">Настройки UserAgent</string>
 	<string name="pref_use_instant_search">Google Живой поиск</string>
 	<string name="pref_use_instant_search_summary">В Живом поиске результаты появляются прямо при вводе текста (возможно увеличение объема передаваемых данных)</string>
-	<string name="pref_video_preload_dialogtitle">Загрузка видео файлов</string>
 	<string name="pref_video_preload_summary">Разрешить браузеру предварительно загружать видео файлы, если это возможно</string>
-	<string name="pref_video_preload_title">Загрузка видео файлов</string>
 	<string name="pref_volume_key_enabled">Кнопки громкости</string>
 	<string name="pref_volume_key_operation">Действие для кнопок громкости</string>
 	<string name="pref_zoom_on_double_tap">Увеличение при двойном нажатии</string>
