@@ -456,7 +456,7 @@
     <string name="pref_camera_referenceline_entryvalue_off">referenceline-off</string>
     <string name="pref_camera_referenceline_entryvalue_on">referenceline-on</string>
     <string name="pref_camera_volumekey_function_entry_volume">Громкость</string>
-    <string name="pref_camera_volumekey_function_entry_shutter">Затвор</string>
+    <string name="pref_camera_volumekey_function_entry_shutter">Снимок</string>
     <string name="pref_camera_volumekey_function_entry_zooming">Зум</string>
     <string name="pref_camera_volumekey_function_title">Клавиши громкости</string>
     <string name="pref_camera_volumekey_function_default">zoom</string>
