@@ -281,4 +281,7 @@
 	<string name="user_guide_for_notification">При получении нового уведомления, можно раскрыть панель состояния для получения дополнительных сведений</string>
 	<string name="user_guide_for_toggle">Список переключателей можно прокручивать по горизонтали</string>
 	<string name="user_guide_for_toggle_list">Нажмите, чтобы настроить список переключателей</string>
+	<string name="ext_media_mountable_notification_title">Запоминающее устройство USB подключено</string>
+    <string name="ext_media_mountable_notification_message">Нажмите для перехода в Файлы</string>
+    <string name="ext_media_safe_remove">Безопасное извлечение</string>
 </resources>
