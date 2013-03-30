@@ -283,5 +283,5 @@
 	<string name="user_guide_for_toggle_list">Нажмите, чтобы настроить список переключателей</string>
 	<string name="ext_media_mountable_notification_title">Запоминающее устройство USB подключено</string>
     <string name="ext_media_mountable_notification_message">Нажмите для перехода в Файлы</string>
-    <string name="ext_media_safe_remove">Безопасное извлечение</string>
+    <string name="ext_media_safe_remove">Извлечь</string>
 </resources>
