@@ -162,7 +162,7 @@
 	<string name="HIPS_SecurityPrompt_ROOT_Step4">Возможно повреждение оборудования</string>
 	<string name="HIPS_SecurityPrompt_ROOT_Step5">Используйте с осторожностью!</string>
 	<string name="HIPS_SecurityPrompt_ROOT_Step6">Разрешить %1$s получать права суперпользователя?</string>
-	<string name="HIPS_SecurityPrompt_Reject">Нет (%d)</string>
+	<string name="HIPS_SecurityPrompt_Reject">Запр. (%d)</string>
 	<string name="HIPS_SecurityPrompt_Remember">Запомнить мой выбор</string>
 	<string name="HIPS_SecurityPrompt_Title">%1$s пытается %2$s</string>
 	<string name="Privacy_AppPerm_Count">%1$d разрешения</string>
