@@ -35,7 +35,7 @@
 	<string name="bcc_label">"Скрытая копия: "</string>
 	<string name="bookmark">Шаблоны</string>
 	<string name="bookmark_confirm_delete_message">Удалить из шаблонов</string>
-	<string name="bookmark_empty">Нет закладки</string>
+	<string name="bookmark_empty">Нет шаблонов</string>
 	<string name="bookmark_list_title">Избранное</string>
 	<string name="cannot_add_picture_and_video">Нельзя добавить на слайд и картинку, и видео</string>
 	<string name="cannot_add_slide_anymore">Добавлено максимальное число слайдов.</string>
@@ -109,8 +109,8 @@
 	<string name="edit_phrase">Изменить шаблон</string>
 	<string name="edit_slide_activity">Изменить слайд</string>
 	<string name="edit_slideshow_activity">Изменить слайд-шоу</string>
-	<string name="enable_password_protect">Включить защиту паролем</string>
-	<string name="enable_visible_pattern_title">Сделать шаблон видимым</string>
+	<string name="enable_password_protect">Защита графич. ключом</string>
+	<string name="enable_visible_pattern_title">Видимый ключ</string>
 	<string name="enter_edit_mode">Удалить</string>
 	<string name="error_code_label">"Код ошибки: "</string>
 	<string name="error_state">Данные были изменены</string>
@@ -219,7 +219,7 @@
 	<string name="new_phrase_hint">Введите текст</string>
 	<string name="nickname_placeholder">Имя</string>
 	<string name="no">Отмена</string>
-	<string name="no_conversations">Пока ничего нет</string>
+	<string name="no_conversations">Нет сообщений</string>
 	<string name="no_subject">(Без темы)</string>
 	<string name="no_subject_view">(Без темы)</string>
 	<string name="non_english_subject_limit">Предел 13 символов для темы сообщения, написанной не латинницей</string>
@@ -286,8 +286,8 @@
 	<string name="priority_normal">Обычный</string>
 	<string name="privacy_mode_hint">Не удается отправить сообщение в режиме защиты</string>
 	<string name="private_message">Приватные сообщения</string>
-	<string name="private_new_notification">Уведомление новых приватных сообщений</string>
-	<string name="private_protect">Защита привата</string>
+	<string name="private_new_notification">Уведомление</string>
+	<string name="private_protect">Общие</string>
 	<string name="private_settings">Настройки</string>
 	<string name="processing">Обработка...</string>
 	<string name="prvate_contact">Приватные контакты</string>
