@@ -34,8 +34,8 @@
         <item quantity="one">Удалить сообщение?</item>
     </plurals>
     <plurals name="message_deleted_toast">
-        <item quantity="other">Сообщения удалены.</item>
-        <item quantity="one">Сообщение удалено.</item>
+        <item quantity="other">Сообщения удалены</item>
+        <item quantity="one">Сообщение удалено</item>
     </plurals>
     <plurals name="message_moved_toast">
         <item quantity="other">Сообщения (%1$1$d) перемещены в папку %2$2$s</item>
