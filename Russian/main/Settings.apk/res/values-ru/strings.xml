@@ -1288,7 +1288,7 @@
 	<string name="privacy_relative">Безопасность</string>
 	<string name="privacy_settings">Восстановление и сброс</string>
 	<string name="privacy_settings_title">Восстановление и сброс</string>
-	<string name="private_sms_need_to_unlock">Введите личный SMS пароль</string>
+	<string name="private_sms_need_to_unlock">Введите графический ключ</string>
 	<string name="private_sms_recording_intro_header">Нарисуйте шаблон для создания блокировки</string>
 	<string name="private_sms_reset_by_account">Войдите в аккаунт Xiaomi для восстановления пароля</string>
 	<string name="process_kernel_label">Ядро Android</string>
