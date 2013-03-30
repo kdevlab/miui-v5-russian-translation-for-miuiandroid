@@ -303,10 +303,10 @@
         <item>9 секунд</item>
     </string-array>
     <string-array name="back_long_press_timeout">
-        <item>Половина секунды</item>
-        <item>Одна секунда</item>
-        <item>Полторы секунды</item>
-        <item>Две секунды</item>
+        <item>0.5 сек.</item>
+        <item>1 сек.</item>
+        <item>1.5 сек.</item>
+        <item>2 сек.</item>
     </string-array>
     <string-array name="animator_duration_scale_entries"> 
         <item>Анимация отключена</item> 
