@@ -153,7 +153,7 @@
 	<string name="HIPS_Perm_WIFINetwork_Hint">%1$s приложения имеющие доступ в Интернет</string>
 	<string name="HIPS_SecurityPrompt_Accept">Разрешено (%d)</string>
 	<string name="HIPS_SecurityPrompt_AcceptRoot">Да</string>
-	<string name="HIPS_SecurityPrompt_Caption">Предупреждение безопасности</string>
+	<string name="HIPS_SecurityPrompt_Caption">Предупреждение</string>
 	<string name="HIPS_SecurityPrompt_Next">Далее</string>
 	<string name="HIPS_SecurityPrompt_ROOT_Caption">Внимание!</string>
 	<string name="HIPS_SecurityPrompt_ROOT_Step1">Разрешить %1$s получать права суперпользователя?</string>
