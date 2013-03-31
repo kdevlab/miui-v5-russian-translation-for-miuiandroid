@@ -116,7 +116,7 @@
 	<string name="error_state">Данные были изменены</string>
 	<string name="error_state_text">Цепочки не соответствуют получателям. Сделайте снимок экрана и отправьте сообщение об ошибке через веб-сайт http://go/droidanizer</string>
 	<string name="error_timed_msg">Невозможно запланировать время ранее текущего</string>
-	<string name="ex_type_mx">Облачное сообщение</string>
+	<string name="ex_type_mx">Облачные сообщения</string>
 	<string name="ex_type_sms">SMS</string>
 	<string name="exceed_message_size_limitation">Достигнут максимальный размер сообщения</string>
 	<string name="expire_on">Срок истекает: %s</string>
@@ -202,14 +202,14 @@
 	<string name="mx_auto_resend_sms">Отправить как SMS</string>
 	<string name="mx_auto_resend_sms_summary">Отправлять сообщения как SMS, когда облачные сообщения не доступны</string>
 	<string name="mx_btn_enable">Включить</string>
-	<string name="mx_count_dspt">Отправлено облачных сообщений (с помощью MIUI): %1$d (%2$s)</string>
-	<string name="mx_current_status">Статус: онлайн</string>
-	<string name="mx_dspt">Отправлять сообщения через Интернет (с помощью MIUI), включите отправку с помощью сотового оператора в случае ошибок (%s)</string>
+	<string name="mx_count_dspt">Облачных сообщений отправлено: \nSMS (%1$d), MMS (%2$s)</string>
+	<string name="mx_current_status">Статус: в сети</string>
+	<string name="mx_dspt">Обмениваться облачными сообщениями могут только пользователи MIUI. При отсутствии интернет соединения сообщения будут отправлены с помощью мобильного оператора.</string>
 	<string name="mx_enable">Облачные сообщения</string>
 	<string name="mx_enable_popup_msg">Облачные сообщения позволят Вам обмениваться сообщениями с другими пользователями MIUI. Требуется обычная SMS для активации. Активировать сейчас?</string>
 	<string name="mx_msg">Облачное сообщение</string>
-	<string name="mx_offline">не в сети</string>
-	<string name="mx_online">в сети</string>
+	<string name="mx_offline">Не в сети</string>
+	<string name="mx_online">В сети</string>
 	<string name="mx_reactivate">Повторная активация</string>
 	<string name="mx_warning_notice">Будет отправлено SMS для активации облачных сообщений</string>
 	<string name="need_download">Ожидание синхронизации...</string>
@@ -377,7 +377,7 @@
 	<string name="timed_message_expired_title_2">Вы хотите отправить их сейчас?</string>
 	<string name="timed_message_in_total">... (всего: %d)</string>
 	<string name="timed_message_to">для</string>
-	<string name="title_date_type">Отображение времени</string>
+	<string name="title_date_type">Дата и время</string>
 	<string name="title_timed_message_dialog">Настройка времени отправки сообщения</string>
 	<string name="to_address_label">"Кому: "</string>
 	<string name="to_count">Всего: %d</string>
