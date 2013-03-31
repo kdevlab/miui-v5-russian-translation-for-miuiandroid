@@ -6,7 +6,7 @@
 	<string name="all_ringtone_resource">Все</string>
 	<string name="app_name">Темы</string>
 	<string name="apply_font_btn_exclude">Без шрифта</string>
-	<string name="apply_font_btn_reboot">Применить с перезагрузкой</string>
+	<string name="apply_font_btn_reboot">Применить</string>
 	<string name="apply_font_tip">Тема содержит шрифт, требуется перезагрузка</string>
 	<string name="apply_lockscreen_paper_tips">Работает не стандартный экран блокировки, новые обои на нем могут не смениться</string>
 	<string name="apply_theme_no_select_message">Пожалуйста, выберите компоненты</string>
