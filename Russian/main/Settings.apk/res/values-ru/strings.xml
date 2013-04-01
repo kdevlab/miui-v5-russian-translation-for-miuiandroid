@@ -117,7 +117,7 @@
 	<string name="app_not_found_dlg_text">Приложение не найдено в списке установленных</string>
 	<string name="app_notifications_switch_label">Показывать уведомления</string>
 	<string name="app_process_limit_title">Лимит фоновых процессов</string>
-	<string name="application_forbid_auto_startup">Отключить автозапуск в фоне</string>
+	<string name="application_forbid_auto_startup">Отключить автозапуск в фоне?</string>
 	<string name="application_info_label">О приложении</string>
 	<string name="application_item_already_permission">Разрешено</string>
 	<string name="application_item_disable">Запретить</string>
@@ -145,7 +145,7 @@
 	<string name="auto_restore_title">Автовосстановление</string>
 	<string name="auto_startup_application_manage">Автозапуск</string>
 	<string name="auto_startup_count">Автозапуск разрешен %d приложениям</string>
-	<string name="auto_startup_dialog_msg">MIUI позволит запускать приложения автоматически. Возможны потребления траффика и батареи.\nРазрешить автозапуск/</string>
+	<string name="auto_startup_dialog_msg">Система позволит приложению запускаться автоматически. Это может привести к потреблению трафика или батареи.\nРазрешить автозапуск?</string>
 	<string name="automatic_brightness">Автонастройка</string>
 	<string name="available_size">%s (Доступно)</string>
 	<string name="awake">Время включения устройства</string>
@@ -496,7 +496,7 @@
 	<string name="current_input_method">По умолчанию</string>
 	<string name="data_size_label">Данные</string>
 	<string name="data_usage_app_restrict_background">Ограничить фоновый режим</string>
-	<string name="data_usage_app_restrict_background_summary">Отключить фоновый режим для мобильных сетей. Использовать Wi-Fi</string>
+	<string name="data_usage_app_restrict_background_summary">Отключить фоновый режим для мобильных сетей. Использовать Wi-Fi.</string>
 	<string name="data_usage_app_restrict_background_summary_disabled">Сначала установите лимит для мобильного трафика</string>
 	<string name="data_usage_app_restrict_dialog">Если отсутствует доступ к Wi-Fi, функция может приостановить приложения, использующие фоновый режим обмена данными.\n\nБолее подходящие параметры можно найти в настройках этих приложений</string>
 	<string name="data_usage_app_restrict_dialog_title">Ограничение фонового режима</string>
@@ -1109,7 +1109,7 @@
 	<string name="perm_hips_cancel_missed_calls">очистка пропущенных вызовов</string>
 	<string name="perm_hips_contact_access">чтение списка контактов</string>
 	<string name="perm_hips_desc">Отслеживание %1$d приложений для безопасности и конфиденциальности</string>
-	<string name="perm_hips_desc1">Мониторинг приложений для обеспечения безопасности и конфиденциальности</string>
+	<string name="perm_hips_desc1">Мониторинг разрешений приложений</string>
 	<string name="perm_hips_desc2">Проверка приложений для обеспечения безопасности: %1$d</string>
 	<string name="perm_hips_disable_content">Отключение остановит мониторинг приложений и не будет больше защищать Вашу безопасность и конфиденциальность.\nВы уверены, что хотите отключить?</string>
 	<string name="perm_hips_disable_title">Мониторинг разрешений</string>
@@ -1198,18 +1198,18 @@
 	<string name="perm_privacy_app_log">Журналы</string>
 	<string name="perm_privacy_app_manage">Подробнее</string>
 	<string name="perm_privacy_app_trust">Доверие приложению</string>
-	<string name="perm_privacy_app_trust_dialog_content">Система не будет спрашивать вашего подтверждения на получение доступа к любым операциям, связанных с этим приложением</string>
+	<string name="perm_privacy_app_trust_dialog_content">Система не будет спрашивать Вашего подтверждения на получение доступа к любым операциям, связанных с этим приложением</string>
 	<string name="perm_privacy_app_trust_dialog_title">Доверять этому приложению</string>
 	<string name="perm_privacy_app_trust_summary">доверенное</string>
-	<string name="perm_privacy_app_trust_summary_off">Система будет контролировать это приложение</string>
+	<string name="perm_privacy_app_trust_summary_off">Система не будет контролировать это приложение</string>
 	<string name="perm_privacy_app_trust_summary_on">Система будет доверять этому приложению</string>
 	<string name="perm_privacy_app_uninstall">Удалить</string>
-	<string name="perm_privacy_count">Разрешен: %1$d Запрещен: %2$d</string>
+	<string name="perm_privacy_count">Разрешено: %1$d Запрещено: %2$d</string>
 	<string name="perm_service_disabled">Служба отключена</string>
 	<string name="perm_service_enabled">Служба включена</string>
 	<string name="perm_shortcut">Контекстное меню</string>
 	<string name="perm_show_system_app">Показать системные приложения</string>
-	<string name="perm_su">Управление Root правами</string>
+	<string name="perm_su">Суперпользователь</string>
 	<string name="perm_su_desc">Управление Root правами в приложениях %1$d</string>
 	<string name="perm_su_desc1">Управление правами администратора</string>
 	<string name="perm_su_disabled">Права суперпользователя отключены</string>
@@ -1631,7 +1631,7 @@
 	<string name="storage_low_title">Заканчивается свободное место</string>
 	<string name="storage_menu_usb">USB-подключение к компьютеру</string>
 	<string name="storage_settings">Память</string>
-	<string name="storage_settings_summary">Отключить SD карту, просмотреть доступные накопители</string>
+	<string name="storage_settings_summary">Отключить SD-карту, просмотреть доступные накопители</string>
 	<string name="storage_settings_title">Настройки хранилища</string>
 	<string name="storage_title_usb">USB-подключение к компьютеру</string>
 	<string name="storageuse_settings_summary">Объем памяти, занимаемый приложениями</string>
@@ -1687,7 +1687,7 @@
 	<string name="trackball_settings">Трекбол</string>
 	<string name="trackball_wake_title">Пробуждать</string>
 	<string name="transition_animation_scale_title">Переход: масштаб</string>
-	<string name="trust_switch_dialog_msg">MIUI не будут спрашивать Вас о подтверждении любых операций связанных с безопасностью и конфиденциальностью. Пожалуйста, убедитесь, что хорошо знаете данного разработчика.\nВы доверяете этому приложению?</string>
+	<string name="trust_switch_dialog_msg">Система не будут спрашивать Вас о подтверждении любых операций связанных с безопасностью и конфиденциальностью. Пожалуйста, убедитесь, что хорошо знаете данного разработчика.\nВы доверяете этому приложению?</string>
 	<string name="trusted_credentials">Надежные учетные данные</string>
 	<string name="trusted_credentials_disable_confirmation">Отключить сертификат ЦС системы?</string>
 	<string name="trusted_credentials_disable_label">Отключить</string>

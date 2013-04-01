@@ -190,7 +190,7 @@
 	<string name="share_link_failed">Ошибка создания внешней ссылки на папку</string>
 	<string name="show_message">Файл не может быть открыт без загрузки, загрузить?</string>
 	<string name="space_info">Объем в сети: %1$s доступно，всего: %2$s</string>
-	<string name="space_usage">Использование облачного хранилища</string>
+	<string name="space_usage">Использование хранилища</string>
 	<string name="start_cleanup">Очистка</string>
 	<string name="start_server">Запустить</string>
 	<string name="start_use_xiaomi_account">Вход</string>
@@ -199,7 +199,7 @@
 	<string name="stop_server">Остановить</string>
 	<string name="storage_internal">Внутренняя память</string>
 	<string name="storage_sd_card">SD-карта</string>
-	<string name="storage_usb">Устойство USB</string>
+	<string name="storage_usb">USB-накопитель</string>
 	<string name="storage_warning">Внешний носитель не доступен</string>
 	<string name="tab_category">Обзор</string>
 	<string name="tab_networkdisk">KuaiPan</string>
@@ -215,7 +215,7 @@
 	<string name="ui_bar_txt_download_progress">Загрузка...</string>
 	<string name="ui_bar_txt_upload_progress">Отправка...</string>
 	<string name="ui_filechange_btn_download">Загрузка файла</string>
-	<string name="ui_main_menu_option_task_manage">Управление обменом файлов</string>
+	<string name="ui_main_menu_option_task_manage">Обмен файлами</string>
 	<string name="ui_main_progress_txt_open_file">Загрузка...</string>
 	<string name="ui_main_toast_favorite_removed">Избранное удалено</string>
 	<string name="ui_main_toast_operation_failed">Ошибка удаления %1$s</string>

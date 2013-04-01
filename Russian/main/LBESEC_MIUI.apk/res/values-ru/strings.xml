@@ -2,7 +2,7 @@
 <!--Merged and sorted with KDG BigBlackBox-->
 <resources>
 	<string name="Dashboard_App">Приложения</string>
-	<string name="Dashboard_HIPS_Disable_Content">Отключение оставит вашу систему MIUI без управления приложениями и без защиты безопасности и конфиденциальности.\nВы действительно хотите ее отключить?</string>
+	<string name="Dashboard_HIPS_Disable_Content">Отключение оставит Вашу систему без управления приложениями, без защиты безопасности и конфиденциальности.\nВы действительно хотите ее отключить?</string>
 	<string name="Dashboard_HIPS_Disable_Title">Монитор доступа</string>
 	<string name="Dashboard_Log">Логи</string>
 	<string name="Dashboard_Log_Clear_Content">Все логи будут удалены. Вы уверены что хотите этого?</string>
@@ -179,7 +179,7 @@
 	<string name="Privacy_App_Trust_Summary_On">Доверие этому приложению</string>
 	<string name="Privacy_App_Uninstall">Удаление</string>
 	<string name="Privacy_Perm_Count">Разрешено: %1$d Запрещено: %2$d</string>
-	<string name="Su_Enable_Dialog">%1$s пытается получить права суперпользователя, что отключено по умолчанию для обеспечения безопасности системы. Если вам нужно включить его, пожалуйста перейдите к настройкам в диспетчере разрешений</string>
+	<string name="Su_Enable_Dialog">%1$s пытается получить права суперпользователя, что отключено по умолчанию для обеспечения безопасности системы. Если Вам нужно включить его, пожалуйста перейдите к настройкам в диспетчере разрешений.</string>
 	<string name="Su_Unavailable">Права администратора не доступны в стабильной версии MIUI. Пожалуйста, установите версию для разработчиков.</string>
 	<string name="SysOpt_Boost_AutoStart">Разрешения автозагрузки</string>
 	<string name="SysOpt_Boost_AutoStart_Group">Автозагрузка</string>
