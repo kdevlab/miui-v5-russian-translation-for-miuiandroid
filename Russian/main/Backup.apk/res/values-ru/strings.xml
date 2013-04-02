@@ -169,8 +169,12 @@
 	<string name="task_restore_cancel_progress">Остановка процесса...</string>
 	<string name="task_restore_finished_local">Восстановление завершено</string>
 	<string name="task_restore_none">Не нуждается в восстановлении</string>
+	<string name="task_running_backup_dialog">Резервное копирование в процессе, нажмите кнопку OK для просмотра.</string>
+	<string name="task_running_backup_hint">Сервис запущен в фоне, попробуйте снова сделать резервное копирование!</string>
 	<string name="task_running_dialog">Фоновый прогресс резервного копирования и восстановления, чтобы увидеть его, нажмите ОК</string>
 	<string name="task_running_hint">Служба работает в фоновом режиме, пожалуйста, попробуйте еще раз, чтобы восстановить эту резервную копию!</string>
+	<string name="task_running_restore_dialog">Восстановление в процессе, нажмите кнопку OK для просмотра.</string>
+	<string name="task_running_restore_hint">Сервис запущен в фоне, попробуйте снова сделать восстановление!</string>
 	<string name="task_service_not_launched">Сервис не запустился, ждите!</string>
 	<string name="task_stopped_exception">Прервано</string>
 	<string name="total_num">%d всего записей</string>

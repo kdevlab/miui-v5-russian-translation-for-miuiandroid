@@ -131,6 +131,8 @@
 	<string name="clearFrequentsProgress_title">Очистка контактов…</string>
 	<string name="clear_default">Удалить настройки по умолчанию</string>
 	<string name="click_close">Коснитесь экрана, чтобы закрыть</string>
+	<string name="cloud_antispam_summary">Определение спам-номеров из базы Xiaomi</string>
+	<string name="cloud_antispam_title">Определять спам номера</string>
 	<string name="composer_failed_to_get_database_infomation">База данных недоступна</string>
 	<string name="composer_has_no_exportable_contact">Не найдены контакты для экспорта. Возможно, экспорт контактов с телефона не поддерживается поставщиком услуг передачи данных.</string>
 	<string name="composer_not_initialized">Редактор vCard запущен некорректно</string>
@@ -407,7 +409,6 @@
 	<string name="label_notes">Примечания</string>
 	<string name="label_sip_address">Интернет вызов</string>
 	<string name="launcherDialer">Телефон</string>
-	<string name="listAllContactsInAccount">Контактов в %s</string>
 	<string name="listCustomView">Контакты в пользовательском виде</string>
 	<string name="listFoundAllContactsZero">Ничего не найдено</string>
 	<string name="listSingleContact">Одиночный контакт</string>
@@ -558,6 +559,7 @@
 	<string name="option_view_group">Посмотреть</string>
 	<string name="organizationLabelsGroup">Организация</string>
 	<string name="organization_company_and_title">%2$s, %1$s</string>
+	<string name="other_contacts">Другие</string>
 	<string name="other_phone">другие телефоны</string>
 	<string name="payphone">Телефон-автомат</string>
 	<string name="people">Контакты</string>
@@ -798,6 +800,7 @@
 	<string name="splitConfirmation">Вы хотите разделить контакт?</string>
 	<string name="splitConfirmation_title">Разделение контакта</string>
 	<string name="starredList">Помеченные</string>
+	<string name="starred_contacts">Избранное</string>
 	<string name="status_available">На месте</string>
 	<string name="status_away">Отсутствует</string>
 	<string name="status_busy">Не беспокоить</string>

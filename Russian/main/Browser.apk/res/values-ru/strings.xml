@@ -449,6 +449,4 @@
 	<string name="webstorage_origin_summary_mb_stored">Объем занятой памяти телефона (МБ)</string>
 	<string name="webstorage_outofspace_notification_text">Нажмите, чтобы освободить место</string>
 	<string name="webstorage_outofspace_notification_title">Память браузера переполнена</string>
-	<string name="pref_video_preload_title">Загрузка видео</string>
-	<string name="pref_video_preload_dialogtitle">Загрузка видео</string>
 </resources>
