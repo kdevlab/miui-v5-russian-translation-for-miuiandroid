@@ -117,7 +117,6 @@
 	<string name="system_backup_cancel_text">Обновить</string>
 	<string name="system_backup_error_message">Ошибка резервного копирования системы</string>
 	<string name="system_backup_ok_text">Создать копию</string>
-	<string name="sytemt_backup_helper">Обновление системы не влияет на данные пользователя. Однако, для того чтобы защитить ваши данные, мы рекомендуем сделать резервную копию.</string>
 	<string name="top_secret_build">Секретная сборка</string>
 	<string name="update_comment_hint">(опционально)</string>
 	<string name="update_comment_title">У меня есть что сказать</string>

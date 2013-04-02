@@ -156,7 +156,6 @@
 	<string name="mimetype">Тип MIME</string>
 	<string name="miui_capture_screen_folder_display_name">Скриншоты</string>
 	<string name="model">Модель</string>
-	<string name="modify_cloud_settings">Параметры MiCloud</string>
 	<string name="more">Еще</string>
 	<string name="move_to_cloud_album">Переместить</string>
 	<string name="multiface_crop_help">Нажмите на лицо, чтобы начать</string>
@@ -165,7 +164,6 @@
 	<string name="no">Нет</string>
 	<string name="no_albums_alert">Нет доступных альбомов</string>
 	<string name="no_connectivity">Не удалось найти все места из-за проблем с подключением</string>
-	<string name="no_file">Файлы не найдены</string>
 	<string name="no_location">Место не указано</string>
 	<string name="no_map_app">Нет приложений с картами</string>
 	<string name="no_network_connected">Нет подключения к сети</string>

@@ -387,6 +387,8 @@
 	<string name="pin_operation_failed">PIN - операция не удалась.</string>
 	<string name="pincode_set_to_default_msg">PIN-код установлен в 1234. Пожалуйста, сбросьте PIN-код здесь.</string>
 	<string name="private_num">Приватный номер</string>
+	<string name="provider_114">号码信息由114号码百事通提供</string>
+	<string name="provider_sougou">由搜狗号码通用户标注</string>
 	<string name="puk_operation_failed">PUK - операция не удалась.</string>
 	<string name="reboot_confirm">Телефон будет перезагружен</string>
 	<string name="reboot_progress">Перезагрузка...</string>

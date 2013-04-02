@@ -1031,6 +1031,9 @@
 	<string name="move_app_to_internal">Переместить на телефон</string>
 	<string name="move_app_to_sdcard">Переместить на SD-карту</string>
 	<string name="moving">Перемещение</string>
+	<string name="msd_driver_download">Скачать драйвер</string>
+	<string name="msd_driver_mac_download">Используя ваш Mac，скачайте драйвер и откройте AndroidFileTransfer.dmg для установки\nСсылка для скачки:http://miui.com/mac</string>
+	<string name="msd_driver_windows_xp_download">Используя ваш компьютер，скачайте драйвер и выполните Setup.exe для установки\nСсылка для скачки:http://miui.com/win</string>
 	<string name="msd_help_summary">Проблемы с доступом к мобильному устройству с помощью компьютера? Пожалуйста, выберите операционную систему вашего компьютера:</string>
 	<string name="msd_help_title">Помощь</string>
 	<string name="msd_install">Установить драйвер</string>
