@@ -55,4 +55,11 @@
         <item>5</item>
         <item>Выключено</item>
     </string-array>
+    <string-array name="alarm_repeat_type">
+        <item>Один раз</item>
+        <item>Ежедневно</item>
+        <item>Рабочие дни</item>
+        <item>С пон. по пятницу</item>
+        <item>Другое</item>
+    </string-array>
 </resources>
