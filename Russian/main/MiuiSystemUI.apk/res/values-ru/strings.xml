@@ -92,10 +92,13 @@
 	<string name="ext_media_badremoval_notification_title">USB-хранилище неожиданно удалено</string>
 	<string name="ext_media_checking_notification_message">Проверка на наличие ошибок...</string>
 	<string name="ext_media_checking_notification_title">Подготовка USB-накопителя</string>
+    <string name="ext_media_mountable_notification_message">Нажмите для перехода в Файлы</string>
+	<string name="ext_media_mountable_notification_title">Запоминающее устройство USB подключено</string>
 	<string name="ext_media_nofs_notification_message">USB-хранилище пусто или неподдерживаемая файловая система</string>
 	<string name="ext_media_nofs_notification_title">Пустой USB-накопитель</string>
 	<string name="ext_media_nomedia_notification_message">Вставьте новую SD-карту</string>
 	<string name="ext_media_nomedia_notification_title">USB-хранилище извлечено</string>
+	<string name="ext_media_safe_remove">Извлечь</string>
 	<string name="ext_media_safe_unmount_notification_message">Вы можете безопасно извлечь USB-хранилище</string>
 	<string name="ext_media_safe_unmount_notification_title">Можете извлечь</string>
 	<string name="ext_media_unmountable_notification_message">Поврежденное USB-хранилище. Пожалуйста сформатируйте его</string>
