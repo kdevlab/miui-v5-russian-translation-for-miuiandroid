@@ -110,6 +110,7 @@
 	<string name="app_factory_reset">Удалить обновления</string>
 	<string name="app_factory_reset_dlg_text">Все обновления для этого приложения будут удалены</string>
 	<string name="app_factory_reset_dlg_title">Удалить обновления?</string>
+	<string name="app_floating_window_dlg">Разрешить \"%1$s\" показывать всплывающие окна?</string>
 	<string name="app_forward_locked">Приложение защищено от копирования</string>
 	<string name="app_install_location_summary">Изменить папку для установки приложений</string>
 	<string name="app_install_location_title">Место установки</string>
@@ -755,6 +756,7 @@
 	<string name="finish_application">Завершить</string>
 	<string name="finish_button_label">Готово</string>
 	<string name="firmware_version">Android:</string>
+	<string name="floating_window_switch_label">Показать всплывающее окно</string>
 	<string name="font_size_huge">Огромный</string>
 	<string name="font_size_large">Большой</string>
 	<string name="font_size_medium">Средний</string>
