@@ -117,11 +117,11 @@
 	<string name="submit_fail">Ошибка отправки</string>
 	<string name="submit_progress">Отправка...</string>
 	<string name="submit_success">Отправлено!</string>
-	<string name="system_backup_apply_helper">Устройство автоматически перезагрузится после применения обновления</string>
+	<string name="system_backup_apply_helper">"Устройство автоматически перезагрузится после применения обновления. "</string>
 	<string name="system_backup_ask">Спрашивать снова</string>
 	<string name="system_backup_button_text">Резервное копирование системы</string>
 	<string name="system_backup_cancel_text">Обновить</string>
-	<string name="system_backup_download_helper">Устройство автоматически перезагрузится после обновления</string>
+	<string name="system_backup_download_helper">"Устройство автоматически перезагрузится после обновления. "</string>
 	<string name="system_backup_error_message">Ошибка резервного копирования системы</string>
 	<string name="system_backup_helper">Обновление не будет очищать ваши данные, но рекомендуется сделать резервную копию до обновления</string>
 	<string name="system_backup_ok_text">Создать копию</string>
