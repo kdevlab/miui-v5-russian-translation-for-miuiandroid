@@ -26,7 +26,7 @@
 	<string name="alarm_notify_snooze_text">Будильник отложен. Нажмите, чтобы выключить.</string>
 	<string name="alarm_notify_text">Отложить/выключить будильник</string>
 	<string name="alarm_repeat">Дни недели</string>
-	<string name="alarm_screen">Мелодия из маркета</string>
+	<string name="alarm_screen">Тема будильника</string>
 	<string name="alarm_settings">Дополнительные</string>
 	<string name="alarm_vibrate">Вибрация</string>
 	<string name="alarm_volume_summary">Настройка громкости будильника</string>
@@ -45,11 +45,11 @@
 	<string name="day">1 день</string>
 	<string name="day_concat">", "</string>
 	<string name="days">%s дн.</string>
-	<string name="default_alarm_alert">Установить мелодию по умолчанию</string>
-	<string name="default_alarm_screen">Установить мелодию по умолчанию</string>
+	<string name="default_alarm_alert">Мелодия и тема</string>
+	<string name="default_alarm_screen">Мелодия и тема</string>
 	<string name="default_alarm_title">Стандартная мелодия</string>
 	<string name="default_label">Будильник</string>
-	<string name="default_ringtone_setting_title">Мелодия</string>
+	<string name="default_ringtone_setting_title">Мелодия и тема</string>
 	<string name="delelte_selected_timezone">Вы действительно хотите удалить выбранный часовой пояс?</string>
 	<string name="delete">Удалить</string>
 	<string name="delete_alarm">Удалить будильник</string>
@@ -94,8 +94,8 @@
 	<string name="lap_num">Круг</string>
 	<string name="legal_workday">Рабочие дни</string>
 	<string name="legal_workday_invalidate">Данные просрочены (Сейчас будильник звонит с пон. по пят.)</string>
-	<string name="legal_workday_invalidate_message">(Данные просрочены. Обновите в разделе Настройки)</string>
-	<string name="legal_workday_message">(Будильник выключен во время праздников)</string>
+	<string name="legal_workday_invalidate_message">(данные просрочены. Обновите в разделе Настройки)</string>
+	<string name="legal_workday_message">(отключен во время праздников)</string>
 	<string name="loading">Загрузка...</string>
 	<string name="loading_resource_detail_info">Загрузка...</string>
 	<string name="loading_ringtone">Загрузка мелодии звонка...</string>
