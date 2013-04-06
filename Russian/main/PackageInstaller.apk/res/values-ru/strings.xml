@@ -71,4 +71,5 @@
 	<string name="unknown">Неизвестно</string>
 	<string name="unknown_apps_dlg_text">Для обеспечения безопасности на вашем телефоне заблокирована установка приложений, полученных не из Google Play</string>
 	<string name="unknown_apps_dlg_title">Установка заблокирована</string>
+	<string name="unknown_installer">Неизвестный установщик</string>
 </resources>
