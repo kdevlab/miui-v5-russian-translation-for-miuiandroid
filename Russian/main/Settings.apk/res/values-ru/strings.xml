@@ -148,7 +148,7 @@
 	<string name="auto_startup_count">Автозапуск разрешен %d приложениям</string>
 	<string name="auto_startup_dialog_msg">Система позволит приложению запускаться автоматически. Это может привести к потреблению трафика или батареи.\nРазрешить автозапуск?</string>
 	<string name="automatic_brightness">Автонастройка</string>
-	<string name="available_size">%s (Доступно)</string>
+	<string name="available_size">%s (доступно)</string>
 	<string name="awake">Время включения устройства</string>
 	<string name="back_long_press">Клавиша \"Назад\"</string>
 	<string name="back_long_press_timeout">Задержка</string>
