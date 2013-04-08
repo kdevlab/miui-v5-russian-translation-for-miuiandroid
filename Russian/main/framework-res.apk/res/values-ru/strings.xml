@@ -163,19 +163,6 @@
 	<string name="common_name_conjunctions" />
 	<string name="common_name_prefixes" />
 	<string name="common_name_suffixes" />
-	<string name="config_datause_iface">rmnet0</string>
-	<string name="config_default_dns_server">8.8.8.8</string>
-	<string name="config_ethernet_iface_regex">eth\\d</string>
-	<string name="config_isoImagePath" />
-	<string name="config_ntpServer">2.android.pool.ntp.org</string>
-	<string name="config_tether_apndata" />
-	<string name="config_useragentprofile_url" />
-	<string name="config_wifi_p2p_device_type">10-0050F204-5</string>
-	<string name="config_wimaxManagerClassname" />
-	<string name="config_wimaxNativeLibLocation" />
-	<string name="config_wimaxServiceClassname" />
-	<string name="config_wimaxServiceJarLocation" />
-	<string name="config_wimaxStateTrackerClassname" />
 	<string name="configure_input_methods">Настройка способов ввода</string>
 	<string name="contentServiceSync">Синхр.</string>
 	<string name="contentServiceSyncNotificationTitle">Синхр.</string>
@@ -244,9 +231,6 @@
 	<string name="day_of_week_shortest_wednesday">С</string>
 	<string name="day">дн.</string>
 	<string name="days">дн.</string>
-	<string name="db_default_journal_mode">PERSIST</string>
-	<string name="db_default_sync_mode">FULL</string>
-	<string name="db_wal_sync_mode">FULL</string>
 	<string name="decline">Отклонить</string>
 	<string name="defaultMsisdnAlphaTag">MSISDN1</string>
 	<string name="defaultVoiceMailAlphaTag">Голосовая почта</string>
@@ -284,7 +268,7 @@
 	<string name="elapsed_time_short_format_h_mm_ss">%1$d:%2$02d:%3$02d</string>
 	<string name="elapsed_time_short_format_mm_ss">%1$02d:%2$02d</string>
 	<string name="ellipsis">…</string>
-	<string name="ellipsis_two_dots">...</string>
+	<string name="ellipsis_two_dots">…</string>
 	<string name="emailTypeCustom">Создать свой ярлык</string>
 	<string name="emailTypeHome">Личный</string>
 	<string name="emailTypeMobile">Мобильный</string>
@@ -1379,8 +1363,8 @@
 	<string name="time_picker_separator">:</string>
 	<string name="time_wday">%1$s, %2$s</string>
 	<string name="time_wday_date">%1$s, %2$s, %3$s</string>
-	<string name="toast_rotation_locked">Display rotation locked</string>
-	<string name="toast_rotation_unlocked">Display rotation unlocked</string>
+	<string name="toast_rotation_locked">Поворот дисплея заблокирован</string>
+	<string name="toast_rotation_unlocked">Поворот дисплея разблокирован</string>
 	<string name="turn_off_radio">Отключить беспроводное соединение</string>
 	<string name="turn_on_radio">Включить беспроводную связь</string>
 	<string name="tutorial_double_tap_to_zoom_message_short">Нажмите дважды для изменения масштаба</string>
@@ -1437,8 +1421,6 @@
 	<string name="wday1_date1_time1_wday2_date2_time2">%3$s, %1$s, %2$s - %6$s, %4$s, %5$s</string>
 	<string name="wday1_date1_wday2_date2">%1$s, %2$s - %4$s, %5$s</string>
 	<string name="wday_date">%2$s, %3$s</string>
-	<string name="web_user_agent" formatted="false">Mozilla/5.0 (Linux; U; Android %s) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 %sSafari/534.30</string>
-	<string name="web_user_agent_target_content">"Mobile "</string>
 	<string name="webpage_unresponsive">Страница не отвечает.\n\nЗакрыть ее?</string>
 	<string name="websearch">Веб-поиск</string>
 	<string name="week">нед.</string>
@@ -1462,7 +1444,7 @@
 	<string name="wifi_p2p_show_pin_message">PIN-код:</string>
 	<string name="wifi_p2p_to_message">Кому:</string>
 	<string name="wifi_p2p_turnon_message">Начать соединение через Wi-Fi Direct. Модуль Wi-Fi будет отключен.</string>
-	<string name="wifi_tether_configure_ssid_default">AndroidAP</string>
+	<string name="wifi_tether_configure_ssid_default">KDevPhone</string>
 	<string name="wifi_watchdog_network_disabled">Не удалось подключиться к сети Wi-Fi</string>
 	<string name="wifi_watchdog_network_disabled_detailed">" – плохое интернет-соединение."</string>
 	<string name="wildcardProfile">Другой</string>
