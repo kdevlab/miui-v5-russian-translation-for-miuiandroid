@@ -30,7 +30,7 @@
 	<string name="backup_failed">Резервное копирование не удалось, попробуйте еще раз</string>
 	<string name="backup_file_error">Файлы резерной копии повреждены, операция не завершена</string>
 	<string name="backup_finished">Создание резервой копии успешно завершено</string>
-	<string name="backup_hint">Не выключайте телефон - это повредит ваши данные!</string>
+	<string name="backup_hint">Не отключайте телефон</string>
 	<string name="backup_items_app_tailer">" - данные приложений "</string>
 	<string name="backup_items_sysdata_tailer">" - системные данные, "</string>
 	<string name="backup_new">Новый</string>
@@ -106,8 +106,8 @@
 	<string name="no_network">Нет сетевого соединения Пожалуйста, проверьте ваше соединение и попробуйте еще раз</string>
 	<string name="note_title">Заметки</string>
 	<string name="nothing_searched">Ничего не найдено</string>
-	<string name="progress_backup_hint">Создание резервной копии...</string>
-	<string name="progress_restore_hint">Восстановление данных...</string>
+	<string name="progress_backup_hint">Идет создание бэкапа</string>
+	<string name="progress_restore_hint">Идет восстановление</string>
 	<string name="prompt_reading">Чтение...</string>
 	<string name="prompt_sending">Отправка...</string>
 	<string name="prompt_writing">Запись...</string>
