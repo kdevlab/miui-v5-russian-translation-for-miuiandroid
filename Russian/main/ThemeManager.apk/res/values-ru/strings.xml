@@ -16,7 +16,7 @@
 	<string name="backup_theme_name">Моя тема</string>
 	<string name="backup_theme_progress_message">Сохранение...</string>
 	<string name="backup_theme_success_message">Сохранение текущей темы завершено</string>
-	<string name="change_wallpaper">Настройки обоев</string>
+	<string name="change_wallpaper">Обои</string>
 	<string name="close">Закрыть</string>
 	<string name="component_category_finest_title">Основные</string>
 	<string name="component_category_more_title">Дополнительные</string>
@@ -169,7 +169,7 @@
 	<string name="theme_upgrade_request_content">Формат локальных тем нужно преобразовать для повышения эффективности. Это может занять некоторое время и возможно подтормаживание системы в процессе. Преобразовать темы сейчас?</string>
 	<string name="theme_upgrade_request_title">Обновление тем</string>
 	<string name="theme_upgrade_request_yes">Да</string>
-	<string name="third_party_pickers_activity_title">Установить %1$s</string>
+	<string name="third_party_pickers_activity_title">%1$s</string>
 	<string name="title_component">Компоненты</string>
 	<string name="title_local">Телефон</string>
 	<string name="title_online">Онлайн</string>

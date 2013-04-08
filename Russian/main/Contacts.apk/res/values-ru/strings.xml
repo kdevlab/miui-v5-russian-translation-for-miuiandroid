@@ -80,12 +80,12 @@
 	<string name="call_work_pager">Рабочий пейджер</string>
 	<string name="calllog_menu_blacklist">Добавить в черный список</string>
 	<string name="calllog_menu_edit_before_call">Отредактировать перед вызовом</string>
-	<string name="calllog_menu_send_sms">Послать SMS</string>
+	<string name="calllog_menu_send_sms">Отправить сообщение</string>
 	<string name="callrecordview_item_newcontact">Новый контакт</string>
-	<string name="callrecordview_item_op_time_minutes_seconds" formatted="false">%d минут %d секунд</string>
+	<string name="callrecordview_item_op_time_minutes_seconds" formatted="false">%d мин. %d сек.</string>
 	<string name="callrecordview_item_op_time_missed">Не подключен</string>
-	<string name="callrecordview_item_op_time_only_minutes">%d минут</string>
-	<string name="callrecordview_item_op_time_only_seconds">%d секунд</string>
+	<string name="callrecordview_item_op_time_only_minutes">%d мин.</string>
+	<string name="callrecordview_item_op_time_only_seconds">%d сек.</string>
 	<string name="callrecordview_item_op_time_rejected">Отклонен</string>
 	<string name="callrecordview_item_op_time_short_incoming">" | "</string>
 	<string name="callrecordview_item_op_time_short_outgoing">" | "</string>
@@ -93,7 +93,7 @@
 	<string name="callrecordview_menu_delete_accepted">Очистить журнал входящих вызовов</string>
 	<string name="callrecordview_menu_delete_all">Очистить журнал</string>
 	<string name="callrecordview_menu_delete_called">Очистить журнал исходящих вызовов</string>
-	<string name="callrecordview_menu_delete_confirm">Вы действительно хотите очистить журнал вызовов?</string>
+	<string name="callrecordview_menu_delete_confirm">Очистить журнал вызовов?</string>
 	<string name="callrecordview_menu_delete_missed">Очистить пропущенные вызовы</string>
 	<string name="callrecordview_menu_delete_one">Удалить из журнала вызовов</string>
 	<string name="callrecordview_menu_delete_stranger">Открыть непринятые вызовы</string>
@@ -136,8 +136,8 @@
 	<string name="composer_failed_to_get_database_infomation">База данных недоступна</string>
 	<string name="composer_has_no_exportable_contact">Не найдены контакты для экспорта. Возможно, экспорт контактов с телефона не поддерживается поставщиком услуг передачи данных.</string>
 	<string name="composer_not_initialized">Редактор vCard запущен некорректно</string>
-	<string name="confirm_delete_contact_all_call_logs">Вы действительно хотите удалить все журналы вызовов для %s?</string>
-	<string name="confirm_delete_selected_all_call_logs">Вы действительно хотите удалить все журналы вызовов контактов?</string>
+	<string name="confirm_delete_contact_all_call_logs">Удалить все вызовы контакта \"%s\"?</string>
+	<string name="confirm_delete_selected_all_call_logs">Удалить все вызовы?</string>
 	<string name="confirm_export_message">Список контактов будет экспортирован в файл \"%s\"</string>
 	<string name="confirm_export_title">Экспорт контактов</string>
 	<string name="connections">Связи</string>
@@ -163,8 +163,8 @@
 	<string name="contact_read_only">Здесь доступно только для чтения</string>
 	<string name="contact_status_update_attribution">с помощью %1$s</string>
 	<string name="contact_status_update_attribution_with_date">%1$s с помощью %2$s</string>
-	<string name="contact_unfavorite_toast">Контакт удален из избранного</string>
-	<string name="contactsAllLabel">Все</string>
+	<string name="contact_unfavorite_toast">Контакт удален из избранных</string>
+	<string name="contactsAllLabel">Контакты</string>
 	<string name="contactsFavoritesLabel">Избранные</string>
 	<string name="contactsGroupsLabel">Группы</string>
 	<string name="contactsJoinedMessage">Контакты объединены</string>
@@ -187,10 +187,10 @@
 	<string name="deleteConfirmationDetail">\"%s\" будет удален</string>
 	<string name="deleteConfirmation_title">Удаление контакта</string>
 	<string name="delete_call_log_title">Выбрать журналы для удаления?</string>
-	<string name="delete_contact_calllog_title">Запись(и) журнала вызовов была(и) удалена(ы)</string>
+	<string name="delete_contact_calllog_title">Записи удалены</string>
 	<string name="delete_duplicate">Объединить</string>
 	<string name="delete_duplicate_message">Объединение контактов...</string>
-	<string name="delete_group_dialog_message">Действительно удалить группу \"%1$s\"? (контакты не будут удалены)</string>
+	<string name="delete_group_dialog_message">Удалить группу \"%1$s\"? (контакты не будут удалены)</string>
 	<string name="delete_group_dialog_title">Удаление группы</string>
 	<string name="delete_unknown_contact_calllog_title">Запись журнала вызововов неизвестного контакта будет удалена</string>
 	<string name="description_add_contact">Добавить контакт</string>
@@ -260,7 +260,7 @@
 	<string name="device_version_header_no_bluetooth">Импорт контактов с SIM-карты</string>
 	<string name="device_version_title">Выберите версию мобильного телефона</string>
 	<string name="dialerDialpadHintText">Наберите номер, чтобы добавить вызов</string>
-	<string name="dialerIconLabel">Недавние</string>
+	<string name="dialerIconLabel">Вызовы</string>
 	<string name="dialerKeyboardHintText">Для набора используйте клавиатуру</string>
 	<string name="dialer_addAnotherCall">Добавить вызов</string>
 	<string name="dialer_empty_text_loading">Загрузка...</string>
@@ -299,12 +299,12 @@
 	<string name="edit_contact">Изменить контакт</string>
 	<string name="edit_contact_card_title">Редактировать контакт</string>
 	<string name="email">Эл. почта</string>
-	<string name="emailLabelsGroup">Адрес электронной почты</string>
-	<string name="email_custom">Эл. почта (%s)</string>
-	<string name="email_home">Личная эл. почта</string>
-	<string name="email_mobile">Моб. эл. почта</string>
+	<string name="emailLabelsGroup">Почта</string>
+	<string name="email_custom">Почта (%s)</string>
+	<string name="email_home">Личная почта</string>
+	<string name="email_mobile">Мобильная почта</string>
 	<string name="email_other">Написать письмо</string>
-	<string name="email_work">Рабочая эл.почта</string>
+	<string name="email_work">Рабочая почта</string>
 	<string name="emptyGroup">Нет людей в этой группе</string>
 	<string name="empty_divider_title">Вы можете</string>
 	<string name="enter_contact_name">Имя контакта</string>
@@ -469,15 +469,15 @@
 	<string name="menu_joinAggregate">Объединить</string>
 	<string name="menu_newContact">Новый контакт</string>
 	<string name="menu_new_contact_action_bar">Добавить</string>
-	<string name="menu_new_favorite_action_bar">Добавить</string>
+	<string name="menu_new_favorite_action_bar">Добавить в избранные</string>
 	<string name="menu_new_group_action_bar">Новая группа</string>
-	<string name="menu_not_redirect_calls_to_vm">Голосовая почта не используется</string>
-	<string name="menu_redirect_calls_to_vm">Только голосовая почта</string>
+	<string name="menu_not_redirect_calls_to_vm">Включить голосовую почту</string>
+	<string name="menu_redirect_calls_to_vm">Выключить голосовую почту</string>
 	<string name="menu_removeStar">Удал. из избранных</string>
 	<string name="menu_search">Поиск</string>
 	<string name="menu_select_all">Выбрать все</string>
 	<string name="menu_select_none">Отменить все</string>
-	<string name="menu_sendSMS">Отправить SMS/MMS</string>
+	<string name="menu_sendSMS">Отправить сообщение</string>
 	<string name="menu_sendTextMessage">Отправить сообщение</string>
 	<string name="menu_set_ring_tone">Мелодия контакта</string>
 	<string name="menu_settings">Настройки</string>
@@ -551,7 +551,7 @@
 	<string name="option_delete_group">Удалить группу</string>
 	<string name="option_edit_contact">Изменить</string>
 	<string name="option_not_in_group">Удалить контакт из группы</string>
-	<string name="option_not_star">Убрать из избранного</string>
+	<string name="option_not_star">Убрать из избранных</string>
 	<string name="option_rename_group">Переименовать</string>
 	<string name="option_send_to_desktop">Отправить на рабочий стол</string>
 	<string name="option_send_to_others">Отправить...</string>
@@ -613,8 +613,8 @@
 	<string name="preference_dial_pad_touch_tone_default">По умолчанию</string>
 	<string name="preference_dial_pad_touch_tone_human">Голос человека</string>
 	<string name="preference_dial_pad_touch_tone_piano">Фортепиано</string>
-	<string name="preference_dial_pad_touch_tone_switch">Вкл. тон набора</string>
-	<string name="preference_dial_pad_touch_tone_title">Тон сенсорной панели</string>
+	<string name="preference_dial_pad_touch_tone_switch">Звук клавиш</string>
+	<string name="preference_dial_pad_touch_tone_title">Номеронабиратель</string>
 	<string name="preference_display">Настройки отображения</string>
 	<string name="preference_displayOptions">Варианты отображения</string>
 	<string name="preference_export">Экспорт контактов</string>
@@ -639,7 +639,7 @@
 	<string name="preference_telocation_summary_teloc_off">Скрывать местоположение</string>
 	<string name="preference_telocation_summary_teloc_on">Показывать местоположение</string>
 	<string name="preference_telocation_title">Местоположение</string>
-	<string name="preference_tone_title">Тон</string>
+	<string name="preference_tone_title">Выбрать звук</string>
 	<string name="prepare_import">подготовка импорта</string>
 	<string name="preview_contact_card_title">Импортировать</string>
 	<string name="previous">назад</string>
@@ -648,7 +648,7 @@
 	<string name="profile_display_name">Настроить профиль</string>
 	<string name="progress_notifier_message" formatted="false">Импорт %s/%s: %s</string>
 	<string name="quickcontact_missing_app">Действие не поддерживается ни в одном приложении</string>
-	<string name="quit_dialog_confirm_title">Вы действительно хотите выйти из объединения контактов?</string>
+	<string name="quit_dialog_confirm_title">Выйти из объединения контактов?</string>
 	<string name="readOnlyContactDeleteConfirmation">Этот контакт содержит информацию из различных аккаунтов. Информация из аккаунтов, доступных только для чтения, будет скрыта в ваших списках контактов, но не удалена.</string>
 	<string name="readOnlyContactDeleteConfirmationDetail">\"%s\" включает в себя информацию из нескольких аккаунтов. Информация только для чтения будет скрыта из списка, но не удалена</string>
 	<string name="readOnlyContactWarning">Невозможно удалить контакты из аккаунта, доступного только для чтения, однако их можно скрыть в списках контактов</string>
@@ -680,8 +680,8 @@
 	<string name="resource_can_not_selected">%1$s не может быть выбран!</string>
 	<string name="resource_default">Стандарт</string>
 	<string name="resource_default_name">Ресурс</string>
-	<string name="resource_delete_all">Вы уверены, что хотите удалить выбранные ресурсы (%1$d)?</string>
-	<string name="resource_delete_confirm">Вы действительно хотите удалить эти ресурсы?</string>
+	<string name="resource_delete_all">Удалить выбранные ресурсы (%1$d)?</string>
+	<string name="resource_delete_confirm">Удалить эти ресурсы?</string>
 	<string name="resource_detail">Подробно</string>
 	<string name="resource_download">Скачать</string>
 	<string name="resource_downloaded_title">Скачанные</string>
@@ -742,7 +742,7 @@
 	<string name="separatorJoinAggregateAll">Все контакты</string>
 	<string name="separatorJoinAggregateSuggestions">Предлагаемые контакты</string>
 	<string name="service_provider">Поставщик услуг</string>
-	<string name="set_default">Установить по умолчанию</string>
+	<string name="set_default">Установить как основной</string>
 	<string name="share_error">Не удалось передать данные</string>
 	<string name="share_via">Отправить</string>
 	<string name="share_visible_contacts">Передать все контакты</string>
@@ -815,7 +815,7 @@
 	<string name="title_paired_devices">Сопряжение устройств</string>
 	<string name="toast_call_detail_error">Не удается получить сведения о вызове</string>
 	<string name="toast_displaying_all_contacts">Отображение всех контактов</string>
-	<string name="toast_finish_delete_call_log">Запись(и) журнала удалена(ы)</string>
+	<string name="toast_finish_delete_call_log">Журнал вызовов очищен</string>
 	<string name="toast_for_failed_saving_nickname">Не удалось сохранить изменения</string>
 	<string name="toast_for_saving_nickname">Изменения сохранены</string>
 	<string name="toast_join_with_empty_contact">Укажите имя контакта, который хотите объединить</string>
@@ -864,5 +864,5 @@
 	<string name="voicemail_status_voicemail_not_available">Нет подключения к серверу гол. почты</string>
 	<string name="websiteLabelsGroup">Веб-сайт</string>
 	<string name="wipe_data">Очистить данные</string>
-	<string name="zero_items_selected">Выберите контакт(ы)</string>
+	<string name="zero_items_selected">Выберите контакты</string>
 </resources>

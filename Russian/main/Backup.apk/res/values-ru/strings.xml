@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--Merged and sorted with KDG BigBlackBox-->
 <resources>
-	<string name="account_contact_backup_info">Данные (аккаунты Xiaomi, Gmail и Email. Будет содержать контакты и аккаунты.)</string>
+	<string name="account_contact_backup_info">Данные аккаунтов и контакты</string>
 	<string name="account_login">Войти в систему</string>
 	<string name="account_summary">- Настройки аккаунта</string>
 	<string name="already_enable_encrypt">Включить шифрование</string>
@@ -82,7 +82,7 @@
 	<string name="enable_encrypt_xiaomi_account">Эта резервная копия была создана %1$s. Пожалуйста, удалите текущий аккаунт, и войдите в %2$s для восстановления данных.</string>
 	<string name="exchange_account">Сменить аккаунт</string>
 	<string name="fail">Ошибка</string>
-	<string name="findlost_contact">Найти удаленый контакт(ы)</string>
+	<string name="findlost_contact">Найти удаленые контакты</string>
 	<string name="findlost_contact_online">Онлайн восстановление контактов</string>
 	<string name="guarded_mode_dialog_message">Не могу работать в режиме защиты</string>
 	<string name="guarded_mode_dialog_title">Режим защиты</string>
@@ -106,8 +106,8 @@
 	<string name="no_network">Нет сетевого соединения Пожалуйста, проверьте ваше соединение и попробуйте еще раз</string>
 	<string name="note_title">Заметки</string>
 	<string name="nothing_searched">Ничего не найдено</string>
-	<string name="progress_backup_hint">Идет создание бэкапа</string>
-	<string name="progress_restore_hint">Идет восстановление</string>
+	<string name="progress_backup_hint">Резервное копирование...</string>
+	<string name="progress_restore_hint">Восстановление данных...</string>
 	<string name="prompt_reading">Чтение...</string>
 	<string name="prompt_sending">Отправка...</string>
 	<string name="prompt_writing">Запись...</string>
@@ -144,12 +144,12 @@
 	<string name="service_stoped">Служба остановилась</string>
 	<string name="settings_summary">- Настройки телефона и сообщений</string>
 	<string name="sms_title">Сообщения</string>
-	<string name="software_backup_info">Бэкап программы и её данные</string>
+	<string name="software_backup_info">Пользовательские приложения с данными</string>
 	<string name="start_backup">Начать</string>
 	<string name="start_restore">Начать восстановление</string>
 	<string name="succeed">Успешно завершено</string>
 	<string name="system_backup">Бэкап</string>
-	<string name="system_backup_info">Настройки системы и расположение значков.</string>
+	<string name="system_backup_info">Настройки всех системных приложений</string>
 	<string name="task_backup_cancel_progress">Остановка процесса...</string>
 	<string name="task_backup_finished_local">Резервное копирование выполнено успешно!</string>
 	<string name="task_canceled">Отменено</string>

@@ -19,7 +19,7 @@
 	<string name="category_bluetooth">Bluetooth</string>
 	<string name="category_document">Документы</string>
 	<string name="category_favorite">Избранное</string>
-	<string name="category_log">Лог</string>
+	<string name="category_log">Журнал</string>
 	<string name="category_music">Музыка</string>
 	<string name="category_other">Прочее</string>
 	<string name="category_picture">Фото</string>
@@ -84,7 +84,7 @@
 	<string name="file_info_modified">Изменен:</string>
 	<string name="file_info_size">Размер:</string>
 	<string name="file_loading">Загрузка...</string>
-	<string name="file_too_large">"Этот файл слишком большой для загрузки на сервер"</string>
+	<string name="file_too_large">Этот файл слишком большой для загрузки на сервер</string>
 	<string name="finished">Завершено</string>
 	<string name="forward_to_web_recycle_prompt">&lt;a href=\"%1$s\">Нажмите сюда&lt;/a>для очистки корзины</string>
 	<string name="ftp_account_req_notice">Имя и пароль, 4~16 знаков, включая цифры, буквы, чувствительны к регистру</string>
@@ -152,7 +152,7 @@
 	<string name="operation_deleting">Удаление...</string>
 	<string name="operation_deleting_detail">Удаление файлов (%1$d/%2$d)</string>
 	<string name="operation_download_link">Создание ссылки для скачивания</string>
-	<string name="operation_favorite">Добавить в Избранное</string>
+	<string name="operation_favorite">Добавить в избранное</string>
 	<string name="operation_hide_sys">Скрыть системные</string>
 	<string name="operation_info">Сведения</string>
 	<string name="operation_move">Переместить</string>
@@ -169,7 +169,7 @@
 	<string name="operation_resume_all">Начать все</string>
 	<string name="operation_send">Отправить</string>
 	<string name="operation_show_sys">Показать системные</string>
-	<string name="operation_unfavorite">Удалить из Избранного</string>
+	<string name="operation_unfavorite">Удалить из избранного</string>
 	<string name="pan_settting">Настройки KuaiPan</string>
 	<string name="paused">Пауза</string>
 	<string name="query_bind_state">Запрос состояния, пожалуйста, подождите…</string>
@@ -182,7 +182,7 @@
 	<string name="sd_full">SD-карта полна</string>
 	<string name="search_hint">Введите часть или все имя файла</string>
 	<string name="search_title">Поиск документов</string>
-	<string name="send_to_midrive">Отправить в KuaiPan</string>
+	<string name="send_to_midrive">KuaiPan</string>
 	<string name="send_to_midrive_failed_message">Не удалось отправить в KuaiPan. Неверный формат файла.</string>
 	<string name="server_control_advanced_settings">Расширенные настройки</string>
 	<string name="server_control_charset">Кодирование передачи</string>

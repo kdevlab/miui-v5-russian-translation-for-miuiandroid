@@ -14,13 +14,13 @@
 	<string name="apply_update_dialog_cancel_button">Отмена</string>
 	<string name="apply_update_dialog_update_button">Обновление</string>
 	<string name="apply_update_fail">Ошибка обновления</string>
-	<string name="apply_update_timer">Обновление завершено，устройство перезагрузится через %d секунд</string>
+	<string name="apply_update_timer">Обновление завершено, устройство перезагрузится через %d сек.</string>
 	<string name="apply_upload_info_message">Нажмите «Обновить», телефон будет автоматически перезагружен для применения обновлений</string>
 	<string name="apply_upload_info_message_manually">Вы можете сами установить обновление с SD-карты (%s)</string>
 	<string name="applying_rom_message">Применение обновления</string>
 	<string name="applying_update">Применение обновления...%s</string>
 	<string name="best_update">2. Лучшее обновление</string>
-	<string name="boot_recovery">В режим восстановления</string>
+	<string name="boot_recovery">Перезагрузка в Recovery</string>
 	<string name="cancel_download_buton_text">Отмена</string>
 	<string name="check_update">Проверить обновление</string>
 	<string name="check_update_policy">Параметры обновления</string>
@@ -50,7 +50,7 @@
 	<string name="install_email">Пожалуйста, установите программное обеспечение для электронной почты</string>
 	<string name="install_file_explorer">Пожалуйста, установите файловый мнеджер</string>
 	<string name="install_qq">Установить Tencent weibo</string>
-	<string name="install_rom_from_sd">Выбрать файл прошивки</string>
+	<string name="install_rom_from_sd">Выбрать прошивку с SD-карты</string>
 	<string name="install_sina">Установить Sina weibo</string>
 	<string name="install_whole_rom">Рекомендуется скачать полную прошивку</string>
 	<string name="internal_build">внутренняя сборка</string>
@@ -91,7 +91,7 @@
 	<string name="reboot_now">Сейчас</string>
 	<string name="reboot_to_new_system">Перезагрузка в новую систему</string>
 	<string name="recommend">Рекомендую</string>
-	<string name="recommend_comment_hint">Причина (необязательно)</string>
+	<string name="recommend_comment_hint">Причина</string>
 	<string name="recommend_vote_title">Опрос MIUI Beta Team</string>
 	<string name="refuse_recommend_reason">Пожалуйста, введите причину</string>
 	<string name="sdcard_has_no_space_dialog_body">Нет места на SD-карте, пожалуйста очистите</string>
@@ -117,11 +117,11 @@
 	<string name="submit_fail">Ошибка отправки</string>
 	<string name="submit_progress">Отправка...</string>
 	<string name="submit_success">Отправлено!</string>
-	<string name="system_backup_apply_helper">"Устройство автоматически перезагрузится после применения обновления. "</string>
+	<string name="system_backup_apply_helper">Устройство автоматически перезагрузится после применения обновления</string>
 	<string name="system_backup_ask">Спрашивать снова</string>
 	<string name="system_backup_button_text">Резервное копирование системы</string>
 	<string name="system_backup_cancel_text">Обновить</string>
-	<string name="system_backup_download_helper">"Устройство автоматически перезагрузится после обновления. "</string>
+	<string name="system_backup_download_helper">Устройство автоматически перезагрузится после обновления</string>
 	<string name="system_backup_error_message">Ошибка резервного копирования системы</string>
 	<string name="system_backup_helper">Обновление не будет очищать ваши данные, но рекомендуется сделать резервную копию до обновления</string>
 	<string name="system_backup_ok_text">Создать копию</string>
@@ -135,7 +135,7 @@
 	<string name="update_happy">Счастливый</string>
 	<string name="update_monthly_build_only">Только ежемесячные обновления</string>
 	<string name="update_sad">Грустный</string>
-	<string name="update_success">Поздравляем с успешным обновлением</string>
+	<string name="update_success">Обновление успешно завершено!</string>
 	<string name="update_success_body">Поздравляем, система успешно обновлена</string>
 	<string name="update_success_title">Обновление</string>
 	<string name="upgrade_close">Закрыть</string>

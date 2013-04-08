@@ -8,7 +8,7 @@
 	<string name="add_to_cloud_fail_too_many_items">Ошибка завершения операции. Возможно выбрано слишком много пунктов.</string>
 	<string name="add_to_cloud_folder">В облако</string>
 	<string name="albums">альбомы</string>
-	<string name="albumset_page_title_separator">" | "</string>
+	<string name="albumset_page_title_separator"> | </string>
 	<string name="alert">Внимание</string>
 	<string name="alert_message_initial_cloud">Система будет автоматически загружать старые и новые фотографии и скриншоты только тогда, когда есть Wi-Fi соединение</string>
 	<string name="alert_message_open_sync">Необходима синхронизация. Вы хотите включить ее сейчас?</string>

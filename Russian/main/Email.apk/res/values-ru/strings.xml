@@ -192,7 +192,7 @@
 	<string name="attachment_info_dialog_default_title">О прикрепленном файле</string>
 	<string name="attachment_info_dialog_wifi_title">Требуется Wi-Fi-соединение</string>
 	<string name="attachment_info_malware">Через файлы такого типа часто распространяют вредоносное ПО, поэтому мы не даем открывать и сохранять их</string>
-	<string name="attachment_info_no_intent">Неподдерживаемый формат. Чтобы открыть файл, установите подходящее приложение из Android Маркета</string>
+	<string name="attachment_info_no_intent">Неподдерживаемый формат. Чтобы открыть файл, установите подходящее приложение из Google Play.</string>
 	<string name="attachment_info_policy">Политика безопасности аккаунта не позволяет сохранять подобные файлы</string>
 	<string name="attachment_info_sideload_disabled">Прикрепленный файл является приложением. Чтобы его можно было установить, в разделе \"Настройки > Приложения\" выберите \"Неизвестные источники\"</string>
 	<string name="attachment_info_unknown">Не удается открыть прикрепленный файл</string>
@@ -210,7 +210,7 @@
 	<string name="cc">Копия:</string>
 	<string name="choose_attachment_dialog_title">Выбрать приложение</string>
 	<string name="choosertitle_sharevia">Отправить через</string>
-	<string name="cleared_trusted_senders_message">"Очистить \"Показать фотографии\", изображения в сообщениях не будут показаны автоматически."</string>
+	<string name="cleared_trusted_senders_message">Очистить \"Показать фотографии\", изображения в сообщениях не будут показаны автоматически.</string>
 	<string name="close_action">Закрыть</string>
 	<string name="completed_no_file">Файл не найден</string>
 	<string name="compose_action">Новое сообщение</string>

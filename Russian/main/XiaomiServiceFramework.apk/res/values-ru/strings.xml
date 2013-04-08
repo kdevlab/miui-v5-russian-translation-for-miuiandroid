@@ -14,8 +14,8 @@
 	<string name="btn_activate">Активировать</string>
 	<string name="btn_back">Назад</string>
 	<string name="btn_call">Позвонить</string>
-	<string name="btn_count_down_auto">Запрос через %1$s секунд</string>
-	<string name="btn_count_down_wait">Подождите %1$s секунд</string>
+	<string name="btn_count_down_auto">Запрос через %1$s сек.</string>
+	<string name="btn_count_down_wait">Подождите %1$s сек.</string>
 	<string name="btn_mili_center_recharge">Пополнить MiCredit</string>
 	<string name="btn_query">Узнать сейчас</string>
 	<string name="btn_recharge_large">Пополнить</string>
@@ -30,9 +30,9 @@
 	<string name="checking_account">Проверка аккаунта...</string>
 	<string name="completed">Завершено</string>
 	<string name="confirm">Подтвердить</string>
-	<string name="data_keep_in_phone">Оставить на Мое устройство</string>
+	<string name="data_keep_in_phone">Оставить в телефоне</string>
 	<string name="data_sync_notice">Использовать аккаунт Xiaomi для синхронизации сообщений, контактов и других данных</string>
-	<string name="data_wipe_from_phone">Удалить из Мое устройство</string>
+	<string name="data_wipe_from_phone">Удалить из телефона</string>
 	<string name="disable_find_device_error">%1$s, ошибка выключения поиска</string>
 	<string name="email_already_be_used">Этот адрес почты уже используется</string>
 	<string name="enable_find_device_error">%1$s, ошибка включения поиска</string>
@@ -114,7 +114,7 @@
 	<string name="micloud_use_existing">Существующий</string>
 	<string name="micloud_val_sms_alert">Будет отправлено сообщение для подтверждения вашего телефонного номера, продолжить?</string>
 	<string name="micloud_welcome_skip_login">Пропустить этот шаг</string>
-	<string name="mili_center">MiКредиты</string>
+	<string name="mili_center">Центр MiCredit</string>
 	<string name="next">Далее</string>
 	<string name="no_sim">Нет SIM-карты, служба синхронизации недоступна</string>
 	<string name="order_price">%1$s MiCredit</string>

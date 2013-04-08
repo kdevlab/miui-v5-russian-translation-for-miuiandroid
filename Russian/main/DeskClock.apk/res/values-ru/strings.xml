@@ -3,8 +3,8 @@
 <resources>
 	<string name="account_abnormal_state">Неверная информация об учетной записи, попробуйте войти снова или повторите попытку позже!</string>
 	<string name="add_alarm">Добавить будильник</string>
-	<string name="alarm_alert">Установить мелодию</string>
-	<string name="alarm_alert_alert_silenced">Будильник звонил %d мин.</string>
+	<string name="alarm_alert">Мелодия</string>
+	<string name="alarm_alert_alert_silenced">Будильник выключен %d мин. назад</string>
 	<string name="alarm_alert_dismiss_text">Выключить</string>
 	<string name="alarm_alert_snooze_set">Повтор сигнала через %d мин.</string>
 	<string name="alarm_alert_snooze_text">Отложить</string>
@@ -20,9 +20,9 @@
 	<string name="alarm_duration_title">Интервал и повтор</string>
 	<string name="alarm_in_silent_mode_title">В режиме \"Без звука\"</string>
 	<string name="alarm_klaxon_service_desc">Служба воспроизведения сигналов в Часах</string>
-	<string name="alarm_label_hint">Введите название будильника</string>
+	<string name="alarm_label_hint">Введите описание будильника</string>
 	<string name="alarm_list_title">Будильник</string>
-	<string name="alarm_notify_snooze_label">%s Будильник отложен</string>
+	<string name="alarm_notify_snooze_label">Будильник отложен до %s</string>
 	<string name="alarm_notify_snooze_text">Будильник отложен. Нажмите, чтобы выключить.</string>
 	<string name="alarm_notify_text">Отложить/выключить будильник</string>
 	<string name="alarm_repeat">Дни недели</string>
@@ -44,7 +44,7 @@
 	<string name="control_set_alarm_with_existing">Будильник установлен на %s</string>
 	<string name="day">1 день</string>
 	<string name="day_concat">", "</string>
-	<string name="days">%s дн.</string>
+	<string name="days">%s д.</string>
 	<string name="default_alarm_alert">Мелодия и тема</string>
 	<string name="default_alarm_screen">Мелодия и тема</string>
 	<string name="default_alarm_title">Стандартная мелодия</string>
@@ -63,7 +63,7 @@
 	<string name="description_uploadtime">Обновление:</string>
 	<string name="description_version">Версия:</string>
 	<string name="desk_clock_button_description">Вид часов</string>
-	<string name="dialog_confirm_abort">Вы хотите отменить изменения?</string>
+	<string name="dialog_confirm_abort">Отменить изменения?</string>
 	<string name="disable_alarm">Выключить будильник</string>
 	<string name="done">Готово</string>
 	<string name="download_failed">Ошибка загрузки</string>
@@ -76,7 +76,7 @@
 	<string name="full_wday_month_day_no_year">EEEE, d MMMM</string>
 	<string name="gallery_button_description">Галерея</string>
 	<string name="hide_clock">Спрятать часы</string>
-	<string name="holiday_data_already_newest">База рабочих дней самая новая</string>
+	<string name="holiday_data_already_newest">Новая база уже используется</string>
 	<string name="holiday_data_no_network">Нет сети, повторите попытку позже</string>
 	<string name="holiday_data_update_failed">Ошибка обновления, попробуйте еще раз позже</string>
 	<string name="holiday_data_update_succeed">Проверка обновлений завершена</string>
@@ -187,7 +187,7 @@
 	<string name="timezone_search_hint">Поиск города</string>
 	<string name="update_legal_workday_toast">Обновите Китайские праздники в настройках</string>
 	<string name="volume_button_dialog_title">Клавиши громкости</string>
-	<string name="volume_button_setting_summary">Настройка функции клавиш громкости во время срабатывания будильника</string>
+	<string name="volume_button_setting_summary">Функция клавиш громкости во время срабатывания будильника</string>
 	<string name="volume_button_setting_title">Клавиши громкости</string>
 	<string name="wait_when_operating_data_message">Обработка...</string>
 	<string name="weather_fetch_failure">Информация о погоде сейчас недоступна</string>

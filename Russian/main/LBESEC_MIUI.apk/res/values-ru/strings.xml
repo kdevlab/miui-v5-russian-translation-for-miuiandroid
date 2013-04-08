@@ -24,7 +24,7 @@
 	<string name="Dashboard_Perm_SU_Desc">Управление %1$d доступом для приложений суперпользователя</string>
 	<string name="Dashboard_Perm_SU_Disabled">Права суперпользователя отключены</string>
 	<string name="Dashboard_Perm_SU_Disabled_In_Stable">Права суперпользователя недоступны</string>
-	<string name="Dashboard_Perm_SU_Disabled_In_Stable_Desc">"Разрешение прав администратора может привести к нестабильности системы или потери личных данных, системы или повреждения оборудования. \n  \n  Пожалуйста, переключитесь на версию для разработчиков"</string>
+	<string name="Dashboard_Perm_SU_Disabled_In_Stable_Desc">"Разрешение прав суперпользователя может привести к нестабильности системы, к потере личных и системных данных, а также к повреждению оборудования. \n  \n  Пожалуйста, переключитесь на версию для разработчиков"</string>
 	<string name="Dashboard_Perm_SU_Disabled_In_Stable_Download">Скачать MIUI</string>
 	<string name="Dashboard_Perm_SU_Disabled_In_Stable_URL">http://romz.bz/pages/download_miui/</string>
 	<string name="Dashboard_Perm_SU_Switch">Разрешения суперпользователя</string>
@@ -147,7 +147,7 @@
 	<string name="HIPS_Perm_SendSMS_SMSC">SMS-центр:</string>
 	<string name="HIPS_Perm_SendSMS_SMSC_Default">SMS-центр по умолчанию</string>
 	<string name="HIPS_Perm_SendSMS_Text">Отправить SMS на %1$s</string>
-	<string name="HIPS_Perm_SilenceRinger">Беззвучный звонок</string>
+	<string name="HIPS_Perm_SilenceRinger">Звонок без звука</string>
 	<string name="HIPS_Perm_WIFINetwork">Wi-Fi</string>
 	<string name="HIPS_Perm_WIFINetwork_Desc">Доступ в Интернет по Wi-Fi</string>
 	<string name="HIPS_Perm_WIFINetwork_Hint">%1$s приложения имеющие доступ в Интернет</string>

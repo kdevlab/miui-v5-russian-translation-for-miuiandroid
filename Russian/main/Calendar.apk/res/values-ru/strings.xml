@@ -56,7 +56,7 @@
 	<string name="discard_label">Отмена</string>
 	<string name="dismiss_all_label">Удалить все</string>
 	<string name="do_not_check">Не проверять -></string>
-	<string name="does_not_repeat">Однократное мероприятие</string>
+	<string name="does_not_repeat">Однократно</string>
 	<string name="done">Готово</string>
 	<string name="edit_event_all_day_label">Целый день</string>
 	<string name="edit_event_calendar_label">Календарь</string>
@@ -94,7 +94,7 @@
 	<string name="menu_about_preferences">О календаре</string>
 	<string name="menu_general_preferences">Общие настройки</string>
 	<string name="menu_preferences">Настройки</string>
-	<string name="menu_select_visible_calendars">Отображать календари</string>
+	<string name="menu_select_visible_calendars">Отображение календарей</string>
 	<string name="miui_menu_create_event">Новое событие</string>
 	<string name="modify_all">Изменить все мероприятия в серии</string>
 	<string name="modify_all_following">Изменить это и будущие мероприятия</string>
@@ -143,7 +143,7 @@
 	<string name="quick_response_settings_summary">Редактирование сообщений быстрого ответа</string>
 	<string name="quick_response_settings_title">Изменить быстрый ответ</string>
 	<string name="reminders_label">Добавить напоминание</string>
-	<string name="repeats_label">Повторять</string>
+	<string name="repeats_label">Повтор</string>
 	<string name="response_maybe">Возможно</string>
 	<string name="response_no">Нет</string>
 	<string name="response_yes">Да</string>
@@ -155,7 +155,7 @@
 	<string name="search_title">Поиск календарей</string>
 	<string name="select_synced_calendars_button">Синхронизировать календари</string>
 	<string name="select_synced_calendars_title">Синхронизировать календари</string>
-	<string name="select_visible_calendars_title">Отображать календари</string>
+	<string name="select_visible_calendars_title">Отображение календарей</string>
 	<string name="show_controls">Показать элементы управления</string>
 	<string name="show_day_view">Показать день</string>
 	<string name="show_newer_events">Нажмите для поиска других мероприятий после %1$s</string>
