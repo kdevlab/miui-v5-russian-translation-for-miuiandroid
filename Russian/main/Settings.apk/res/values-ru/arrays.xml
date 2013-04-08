@@ -16,34 +16,34 @@
         <item>yyyy-MM-dd</item>
     </string-array>
     <string-array name="screen_timeout_entries">
-        <item>15 секунд</item>
-        <item>30 секунд</item>
-        <item>1 минута</item>
-        <item>2 минуты</item>
-        <item>5 минут</item>
-        <item>10 минут</item>
-        <item>30 минут</item>
+        <item>15 сек.</item>
+        <item>30 сек.</item>
+        <item>1 мин.</item>
+        <item>2 мин.</item>
+        <item>5 мин.</item>
+        <item>10 мин.</item>
+        <item>30 мин.</item>
     </string-array>
     <string-array name="dream_timeout_entries">
         <item>Никогда</item>
-        <item>15 секунд</item>
-        <item>30 секунд</item>
-        <item>1 минута</item>
-        <item>2 минуты</item>
-        <item>5 минут</item>
-        <item>10 минут</item>
-        <item>30 минут</item>
+        <item>15 сек.</item>
+        <item>30 сек.</item>
+        <item>1 мин.</item>
+        <item>2 мин.</item>
+        <item>5 мин.</item>
+        <item>10 мин.</item>
+        <item>30 мин.</item>
     </string-array>
     <string-array name="lock_after_timeout_entries">
         <item>Сразу</item>
-        <item>5 сек</item>
-        <item>15 сек</item>
-        <item>30 сек</item>
-        <item>1 мин</item>
-        <item>2 мин</item>
-        <item>5 минут</item>
-        <item>10 мин</item>
-        <item>30 мин</item>
+        <item>5 сек.</item>
+        <item>15 сек.</item>
+        <item>30 сек.</item>
+        <item>1 мин.</item>
+        <item>2 мин.</item>
+        <item>5 мин.</item>
+        <item>10 мин.</item>
+        <item>30 мин.</item>
     </string-array>
     <string-array name="entries_font_size">
         <item>Мелкий</item>
@@ -111,9 +111,9 @@
         <item>Вне диапазона</item>
     </string-array>
     <string-array name="bluetooth_visibility_timeout_entries">
-        <item>2 мин.</item>
-        <item>5 мин.</item>
-        <item>1 ч.</item>
+        <item>2 минуты</item>
+        <item>5 минут</item>
+        <item>1 час</item>
         <item>Всегда</item>
     </string-array>
     <string-array name="wifi_signal">
@@ -123,7 +123,7 @@
         <item>Отличный</item>
     </string-array>
     <string-array name="wifi_sleep_policy_entries">
-        <item>Включен (большой расход батареи!)</item>
+        <item>Включен (высокое энергопотребление)</item>
         <item>Включен, если подключено питание</item>
         <item>Выключен (энергосбережение)</item>
     </string-array>
@@ -249,8 +249,8 @@
     </string-array>
 	<string-array name="battery_indicator_style_entries">
         <item>Графический</item>
-        <item>Проценты</item>
-        <item>Полоса в баре</item>
+        <item>Процентный</item>
+        <item>Полоса в строке состояния</item>
     </string-array>
     <string-array name="usb_connection_mode_entries">
         <item>Запрос при подключении</item>
@@ -293,20 +293,20 @@
         <item>Запросить пользователя</item>
     </string-array>
     <string-array name="led_freq_entries">
-        <item>2 секунды</item>
-        <item>3 секунды</item>
-        <item>4 секунды</item>
-        <item>5 секунд</item>
-        <item>6 секунд</item>
-        <item>7 секунд</item>
-        <item>8 секунд</item>
-        <item>9 секунд</item>
+        <item>2 сек.</item>
+        <item>3 сек.</item>
+        <item>4 сек.</item>
+        <item>5 сек.</item>
+        <item>6 сек.</item>
+        <item>7 сек.</item>
+        <item>8 сек.</item>
+        <item>9 сек.</item>
     </string-array>
     <string-array name="back_long_press_timeout">
-        <item>0.5 сек</item>
-        <item>1 сек</item>
-        <item>1.5 сек</item>
-        <item>2 сек</item>
+        <item>0.5 сек.</item>
+        <item>1 сек.</item>
+        <item>1.5 сек.</item>
+        <item>2 сек.</item>
     </string-array>
     <string-array name="animator_duration_scale_entries"> 
         <item>Анимация отключена</item> 
@@ -325,11 +325,11 @@
         <item>Обезьяна</item>
     </string-array>
     <string-array name="button_light_timeout_entries">	
-        <item>1 сек</item>	
-        <item>2 сек</item>	
-        <item>5 сек</item>	
-        <item>10 сек</item>	
-        <item>20 сек</item>	
+        <item>1 сек.</item>	
+        <item>2 сек.</item>	
+        <item>5 сек.</item>	
+        <item>10 сек.</item>	
+        <item>20 сек.</item>	
         <item>Всегда</item>	
     </string-array>	
     <string-array name="entries_dolby_control">
@@ -346,18 +346,18 @@
         <item>Устройство подключено</item>
     </string-array>
     <string-array name="power_mode_entries">
-        <item>Производительность</item>
-        <item>Обычный</item>
-        <item>Энергосбережение</item>
+        <item>Производительный</item>
+        <item>Сбалансированный</item>
+        <item>Энергосберегающий</item>
     </string-array>
     <string-array name="screen_color_title">
-        <item>Теплый</item>
-        <item>Натуральный</item>
-        <item>Холодный</item>
+        <item>Теплый тон</item>
+        <item>Натуральный тон</item>
+        <item>Холодный тон</item>
     </string-array>
     <string-array name="screen_saturation_title">
-        <item>Яркий</item>
-        <item>Стандартный</item>
+        <item>Яркий режим</item>
+        <item>Стандартный режим</item>
     </string-array>
     <string-array name="msd_pc_system">
         <item>Windows XP или старее</item>

@@ -61,7 +61,7 @@
   </string-array>
   <string-array name="voicemail_notification_vibrate_when_entries">
     <item>Всегда</item>
-    <item>В беззвучном режиме</item>
+    <item>В режиме \"Без звука\"</item>
     <item>Никогда</item>
   </string-array>
 </resources>

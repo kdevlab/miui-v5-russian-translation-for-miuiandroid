@@ -2,13 +2,13 @@
 <resources>
     <string-array name="reminder_methods_labels">
         <item>Уведомление</item>
-        <item>Эл. почта</item>
+        <item>Электронная почта</item>
         <item>SMS</item>
         <item>Будильник</item>
     </string-array>
     <string-array name="reminder_minutes_labels">
-        <item>сейчас</item>
-        <item>за 1 минуту</item>
+        <item>по факту</item>
+        <item>за 1 минута</item>
         <item>за 5 минут</item>
         <item>за 10 минут</item>
         <item>за 15 минут</item>
@@ -25,8 +25,8 @@
         <item>за 1 неделю</item>
     </string-array>
     <string-array name="preferences_default_reminder_labels">
-        <item>Нет</item>
-        <item>сейчас</item>
+        <item>не напоминать</item>
+        <item>по факту</item>
         <item>за 1 минуту</item>
         <item>за 5 минут</item>
         <item>за 10 минут</item>
@@ -36,15 +36,15 @@
         <item>за 30 минут</item>
         <item>за 45 минут</item>
         <item>за 1 час</item>
-        <item>за 2 часа</item>
-        <item>за 3 часа</item>
-        <item>за 12 часов</item>
-        <item>за 24 часа</item>
+        <item>за 2 час</item>
+        <item>за 3 час</item>
+        <item>за 12 час</item>
+        <item>за 24 час</item>
         <item>за 2 дня</item>
         <item>за 1 неделю</item>
     </string-array>
     <string-array name="preferences_week_start_day_labels">
-        <item>Региональные настройки по умолчанию</item>
+        <item>по региону</item>
         <item>суббота</item>
         <item>воскресенье</item>
         <item>понедельник</item>
@@ -179,13 +179,13 @@
     </string-array>
     <string-array name="prefEntries_alerts_vibrateWhen">
         <item>Всегда</item>
-        <item>Только в режиме без звука</item>
+        <item>В режиме \"Без звука\"</item>
         <item>Никогда</item>
     </string-array>
     <string-array name="quick_response_defaults">
-        <item>Опоздаю на несколько минут</item>
-        <item>Буду там через 10 минут</item>
-        <item>Начинайте без меня</item>
-        <item>"Извините, я не могу этого сделать. Нужно пересмотреть расписание"</item>
+        <item>Опоздаю на несколько минут.</item>
+        <item>Буду там через 10 минут.</item>
+        <item>Начинайте без меня.</item>
+        <item>"Извините, я не могу этого сделать. Нужно пересмотреть расписание."</item>
     </string-array>
 </resources>

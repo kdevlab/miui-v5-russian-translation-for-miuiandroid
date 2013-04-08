@@ -53,13 +53,13 @@
         <item>3</item>
         <item>4</item>
         <item>5</item>
-        <item>Выключено</item>
+        <item>Выкл.</item>
     </string-array>
     <string-array name="alarm_repeat_type">
         <item>Один раз</item>
         <item>Ежедневно</item>
-        <item>Рабочие дни</item>
-        <item>С пон. по пятницу</item>
-        <item>Другое</item>
+        <item>"Рабочие дни "</item>
+        <item>С понедельника по пятницу</item>
+        <item>Выбрать дни</item>
     </string-array>
 </resources>

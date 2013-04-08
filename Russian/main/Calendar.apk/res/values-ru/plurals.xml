@@ -2,11 +2,11 @@
 <resources>
     <plurals name="Nminutes">
         <item quantity="other">%d мин.</item>
-        <item quantity="one">1 минута</item>
+        <item quantity="one">1 минуту</item>
     </plurals>
     <plurals name="Nmins">
         <item quantity="other">%d мин.</item>
-        <item quantity="one">1 мин.</item>
+        <item quantity="one">1 минуту</item>
     </plurals>
     <plurals name="Nhours">
         <item quantity="other">%d ч.</item>
@@ -17,7 +17,7 @@
         <item quantity="one">1 день</item>
     </plurals>
     <plurals name="weekN">
-        <item quantity="other">%d неделя</item>
+        <item quantity="other">%d нед.</item>
     </plurals>
     <plurals name="month_more_events">
         <item quantity="other">" и еще %d"</item>

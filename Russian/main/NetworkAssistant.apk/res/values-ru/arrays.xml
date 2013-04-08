@@ -6,17 +6,17 @@
         <item>По общему трафику</item>
     </string-array>
     <string-array name="date_of_traffic">
-        <item>Трафик вчера</item>
-        <item>Трафик сегодня</item>
-        <item>Месячный трафик</item>
+        <item>Трафик за вчера</item>
+        <item>Трафик за сегодня</item>
+        <item>Трафик за месяц</item>
     </string-array>
     <string-array name="date_of_app_all">
-        <item>За вчера 2G/3G</item>
-        <item>Сегодня 2G/3G</item>
-        <item>За месяц 2G/3G</item>
-        <item>За вчера WLAN</item>
-        <item>Сегодня WLAN</item>
-        <item>За месяц WLAN</item>
+        <item>За вчера: 2G/3G</item>
+        <item>За сегодня: 2G/3G</item>
+        <item>За месяц: 2G/3G</item>
+        <item>За вчера: Wi-Fi</item>
+        <item>За сегодня: Wi-Fi</item>
+        <item>За месяц: Wi-Fi</item>
     </string-array>
     <string-array name="date_of_app">
         <item>За вчера</item>
