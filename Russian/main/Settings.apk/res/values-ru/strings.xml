@@ -1531,8 +1531,8 @@
 	<string name="settings_backup">Создать резервную копию настроек</string>
 	<string name="settings_backup_summary">Резервная копия настроек</string>
 	<string name="settings_button">Настройки</string>
-	<string name="settings_label">Настройки</string>
-	<string name="settings_label_launcher">Настройки</string>
+	<string name="settings_label">Параметры</string>
+	<string name="settings_label_launcher">Параметры</string>
 	<string name="settings_license_activity_loading">Идет загрузка…</string>
 	<string name="settings_license_activity_title">Лицензии открытого ПО</string>
 	<string name="settings_license_activity_unavailable">При загрузке лицензий возникла неполадка</string>
