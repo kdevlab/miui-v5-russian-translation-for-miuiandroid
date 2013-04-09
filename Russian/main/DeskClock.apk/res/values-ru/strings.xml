@@ -95,7 +95,7 @@
 	<string name="legal_workday">Рабочие дни</string>
 	<string name="legal_workday_invalidate">Данные просрочены (Сейчас будильник звонит с пон. по пят.)</string>
 	<string name="legal_workday_invalidate_message">(данные просрочены. Обновите в разделе Настройки)</string>
-	<string name="legal_workday_message">(отключен во время праздников)</string>
+	<string name="legal_workday_message"> (отключен во время праздников)</string>
 	<string name="loading">Загрузка...</string>
 	<string name="loading_resource_detail_info">Загрузка...</string>
 	<string name="loading_ringtone">Загрузка мелодии звонка...</string>
