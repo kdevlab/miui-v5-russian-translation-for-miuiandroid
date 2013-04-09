@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Icon version="1" frameRate="0" width="136" height="136" screenWidth="720" useVariableUpdater="none">
+
+    <VariableBinders>
+         <ContentProviderBinder 
+			      name="city_binder"
+            uri="content://pro.burgerz.weather/cities"  
+            columns="location,isHome"  
+			      where="isHome=1"	
+            order="isHome DESC"
+            countName="hasHomeCity" >
+            <Variable name="cities_location" type="string" column="location" row="0"/>
+			      <Variable name="cities_ishome" type="int" column="isHome" row="0"/>
+         </ContentProviderBinder>
+		     <ContentProviderBinder 
+			      name="weather_binder" 
+            dependency="city_binder" 
+            uri="content://pro.burgerz.weather/weather" 
+            columns="station,temp,weatherID"  
+			      whereFormat="station='%s'"
+            whereParas="@cities_location" 
+            countName="hasweather" >
+            <Variable name="weather_temperature" type="int" column="temp" row="0"/>
+			      <Variable name="weather_temperature_str" type="string" column="temp" row="0"/>
+            <Variable name="weather_id" type="int" column="weatherID" row="0"/> 
+         </ContentProviderBinder>
+    </VariableBinders>
+
+    <Group>
+ <!-- weather.bg  --> 
+  <Var name="is_rain" expression="ge(#weather_id,4)*le(#weather_id,11)" /> 
+  <Var name="is_fog" expression="eq(#weather_id,3)+eq(#weather_id,24)" /> 
+  <Var name="is_snow" expression="ge(#weather_id,12)*le(#weather_id,17)" /> 
+  <Var name="is_dust" expression="ge(#weather_id,18)*le(#weather_id,21)+eq(#weather_id,23)" /> 
+  <Var name="icon_suffix" expression="ifelse(isnull(#weather_id),1,gt(#weather_id,24),1,#weather_id)" /> 
+  <Var name="icon_index" expression="ifelse(#is_rain,4,#is_snow,12,#is_dust,18,#is_fog,3,#icon_suffix)" /> 
+  <Image x="68" y="68" align="center" alignV="center" srcExp="'weather/weather_'+ #icon_index + '.png'" /> 
+ <!-- temperature  --> 
+  <Var name="is_negative" expression="lt(ifelse(isnull(#weather_temperature),0,#weather_temperature),0)" /> 
+  <Var name="num_temp" expression="len(abs(#weather_temperature))" /> 
+  <Var name="temperature_not_null" expression="#hasweather*not(eq(len(ifelse(isnull(@weather_temperature_str),'',@weather_temperature_str)),0))" type="int" /> 
+  <Var name="offset_img_y" expression="50" /> 
+  <Var name="offset_imag1" expression="ifelse(eq(#num_temp,2),68+11,68)" /> 
+  <Var name="offset_imag2" expression="ifelse(eq(#num_temp,2),68-11,#offset_imag1)" /> 
+  <Var name="offset_negative" expression="#offset_imag2-12" /> 
+  <Image name="img1" visibility="#temperature_not_null" x="#offset_imag1" y="#offset_img_y" align="center" alignV="center" srcExp="'weather/'+digit(abs(#weather_temperature),1)+'.png'" /> 
+  <Image name="img2" visibility="eq(#num_temp,2)" x="#offset_imag2" y="#offset_img_y" align="center" alignV="center" srcExp="'weather/'+digit(abs(#weather_temperature),2)+'.png'" /> 
+  <Image visibility="#is_negative" x="#offset_negative" y="#offset_img_y" align="right" alignV="center" srcExp="'weather/negative.png'" /> 
+  <Image visibility="#temperature_not_null" x="#offset_imag1+13" y="#offset_img_y" alignV="center" srcExp="'weather/degree.png'" /> 
+  </Group>
+
+</Icon>

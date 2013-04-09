@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+         
+<Icon version="1" frameRate="1" width="136" height="136" screenWidth="720" useVariableUpdater="DateTime">
+    <Group>
+        <!--表盘-->
+        <Image x="68" y="68" align="center" alignV="center" src="bg.png" />
+        <!--时针 -->
+        <Image x="68" y="38" align="center" pivotX="3" pivotY="29" src="hour.png" angle="#hour12*30+#minute/2"/>
+        <!--分针-->
+        <Image x="68" y="26" align="center" pivotX="3" pivotY="40" src="minute.png" angle="#minute*6+#second/10"/>
+        <!--秒针-->
+        <Image x="68" y="17" align="center" pivotX="6" pivotY="50" src="second.png" angle="#second*6"/>
+        <!--中心点-->
+        <Image x="68" y="68" align="center" alignV="center" src="thumb.png"/>
+    </Group>    
+</Icon>

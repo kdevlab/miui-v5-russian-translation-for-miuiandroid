@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- notes -->
+<Icon version="1" frameRate="0" width="136" height="136" screenWidth="720" useVariableUpdater="none">
+<VariableBinders>
+   <ContentProviderBinder uri="content://notes/note" columns="modified_date,snippet" 
+   order="modified_date DESC" countName="note_count">
+      <Variable name="note_snippet1" type="string" column="snippet" row="0"/>
+      <Variable name="note_snippet2" type="string" column="snippet" row="1"/>
+      <Variable name="note_snippet3" type="string" column="snippet" row="2"/>
+   </ContentProviderBinder>
+</VariableBinders>
+    <Group>
+       <Image x="68" y="68" align="center" alignV="center" src="bg.png" />
+       <Text x="20" y="33" w="96" color="#ff444444" size="18" text="@note_snippet1" visibility="#note_count"/>
+       <Text x="20" y="60" w="96" color="#ff444444" size="18" text="@note_snippet2" visibility="ge(#note_count,2)"/>
+       <Text x="20" y="87" w="96" color="#ff444444" size="18" text="@note_snippet3" visibility="ge(#note_count,3)"/>
+    </Group>    
+</Icon>
