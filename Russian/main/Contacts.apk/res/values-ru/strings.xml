@@ -350,7 +350,7 @@
 	<string name="generic_no_account_prompt">Держите свои контакты в безопасности, даже если Вы потеряете свой телефон: синхронизация с онлайн-сервисом</string>
 	<string name="generic_no_account_prompt_title">Добавить аккаунт</string>
 	<string name="ghostData_company">Компания</string>
-	<string name="ghostData_title">Название</string>
+	<string name="ghostData_title">Должность</string>
 	<string name="groupSavedErrorToast">Не удалось сохранить изменения</string>
 	<string name="groupSavedToast">Группа сохранена</string>
 	<string name="group_add_fail_toast">Ошибка добавления контаков</string>
