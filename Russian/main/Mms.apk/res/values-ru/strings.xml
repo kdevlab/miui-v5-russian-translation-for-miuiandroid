@@ -211,6 +211,7 @@
 	<string name="mx_offline">Не в сети</string>
 	<string name="mx_online">В сети</string>
 	<string name="mx_reactivate">Повторная активация</string>
+	<string name="mx_recommend_msg">Включить облачные сообщения. Нажмите кнопку включения и отправляйте бесплатные сообщения</string>
 	<string name="mx_warning_notice">Будет отправлено SMS для активации облачных сообщений</string>
 	<string name="need_download">Ожидание синхронизации...</string>
 	<string name="new_message">Новое сообщение</string>

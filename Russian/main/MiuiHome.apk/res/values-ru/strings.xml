@@ -50,6 +50,7 @@
 	<string name="gadget_clock_22_label">Часы</string>
 	<string name="gadget_clock_24_label">Часы</string>
 	<string name="gadget_error_text">Проблема загрузки виджета</string>
+	<string name="gadget_google_search_label">Поиск Google</string>
 	<string name="gadget_load_error">Ошибка загрузки виджета...</string>
 	<string name="gadget_photo_22_label">Фоторамка</string>
 	<string name="gadget_photo_24_label">Фоторамка</string>
@@ -70,6 +71,8 @@
 	<string name="group_folder">Новая папка</string>
 	<string name="group_live_folders">Папки</string>
 	<string name="group_shortcuts">Ярлыки</string>
+	<string name="guide_install_app_msg">Это приложение не установлено на вашем телефоне. Найти это приложение в маркете?</string>
+	<string name="guide_install_app_title">Установить</string>
 	<string name="guide_tips_editing_mode">Удерживая виджет, перетащите его на экран</string>
 	<string name="install">Установить</string>
 	<string name="invalid_contact_shortcut">Недопустимый ярлык</string>

@@ -131,7 +131,7 @@
 	<string name="clearFrequentsProgress_title">Очистка контактов…</string>
 	<string name="clear_default">Удалить настройки по умолчанию</string>
 	<string name="click_close">Коснитесь экрана, чтобы закрыть</string>
-	<string name="cloud_antispam_summary">Определение спам-номеров из базы Xiaomi</string>
+	<string name="cloud_antispam_mark">Отметить</string>
 	<string name="cloud_antispam_title">Определять спам номера</string>
 	<string name="composer_failed_to_get_database_infomation">База данных недоступна</string>
 	<string name="composer_has_no_exportable_contact">Не найдены контакты для экспорта. Возможно, экспорт контактов с телефона не поддерживается поставщиком услуг передачи данных.</string>

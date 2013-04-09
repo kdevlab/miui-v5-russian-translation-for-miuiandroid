@@ -45,7 +45,9 @@
 	<string name="menu_rename_folder">Переименовать папку</string>
 	<string name="menu_send_to_desktop">Ярлык на рабочий стол</string>
 	<string name="menu_setting">Настройки</string>
+	<string name="menu_stick">Прикрепить</string>
 	<string name="menu_title_select_folder">Выберите папку</string>
+	<string name="menu_unstick">Открепить</string>
 	<string name="not_now">Не сейчас</string>
 	<string name="note_alert_expired">Просрочено</string>
 	<string name="note_link_email">Отправить E-mail</string>

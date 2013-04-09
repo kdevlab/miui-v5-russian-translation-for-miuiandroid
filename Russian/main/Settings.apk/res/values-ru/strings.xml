@@ -147,8 +147,8 @@
 	<string name="auto_startup_application_manage">Автозапуск</string>
 	<string name="auto_startup_count">Автозапуск разрешен %d приложениям</string>
 	<string name="auto_startup_dialog_msg">Система позволит приложению запускаться автоматически. Это может привести к потреблению трафика или батареи.\nРазрешить автозапуск?</string>
-	<string name="available_size">%s (доступно)</string>
 	<string name="automatic_brightness">Автоподсветка</string>
+	<string name="available_size">%s (доступно)</string>
 	<string name="awake">Время включения устройства</string>
 	<string name="back_long_press">Клавиша \"Назад\"</string>
 	<string name="back_long_press_timeout">Задержка</string>
@@ -359,7 +359,6 @@
 	<string name="bluetooth_profile_details">Настройки профиля</string>
 	<string name="bluetooth_profile_headset">Профиль HSP/HFP</string>
 	<string name="bluetooth_profile_hid">Профиль HID</string>
-	<string name="bluetooth_profile_name">MIUI Phone</string>
 	<string name="bluetooth_profile_opp">Профиль OPP</string>
 	<string name="bluetooth_profile_pan">Интернет-доступ</string>
 	<string name="bluetooth_profile_pan_nap">Профиль PAN</string>
@@ -419,6 +418,7 @@
 	<string name="camera_key_action_title">Клавиша MI</string>
 	<string name="camera_key_action_toggle_title">Переключатель</string>
 	<string name="cancel">Отмена</string>
+	<string name="cancel_alert">Отменить изменения?</string>
 	<string name="cant_sync_dialog_message">Синхронизация отключена. Чтобы включить ее, временно разрешите передачу данных в фоновом режиме и автоматическую синхронизацию</string>
 	<string name="cant_sync_dialog_title">Не удалось синхронизировать данные</string>
 	<string name="carrier_enabled">Включить/выключить APN</string>
@@ -601,7 +601,6 @@
 	<string name="device_cpu">Процессор:</string>
 	<string name="device_cpu2_info">"Два ядра "</string>
 	<string name="device_cpu4_info">"Четыре ядра "</string>
-	<string name="device_default_name">MIUI Phone</string>
 	<string name="device_edit_title">Смена имени устройства</string>
 	<string name="device_info_default">Неизвестно</string>
 	<string name="device_info_label">Сведения об устройстве</string>
@@ -1025,7 +1024,6 @@
 	<string name="misc_files">Разное</string>
 	<string name="misc_files_selected_count">выбрано %1$d из %2$d</string>
 	<string name="misc_files_selected_count_bytes">%1$s из %2$s</string>
-	<string name="miui_device_default_name">MIUI Phone</string>
 	<string name="mms_vibrate_abbreviation">Сообщения</string>
 	<string name="model_number">Модель:</string>
 	<string name="move_app">Переместить</string>
