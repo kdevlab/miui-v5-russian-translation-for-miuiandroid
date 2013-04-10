@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--Decoded with KDG BigBlackBox-->
 <resources>
+    <string-array name="search_engines">
+        <item>google</item>
+        <item>yandex_ru</item>
+        <item>bing</item>
+    </string-array>
     <string-array name="pref_content_plugins_choices">
         <item>Да</item>
         <item>По требованию</item>
@@ -77,6 +82,11 @@
         <item>http://www.weather.com/</item>
         <item>BBC</item>
         <item>http://www.bbc.co.uk/</item>
+    </string-array>
+    <string-array name="search_engines_default">
+        <item>google</item>
+        <item>yandex_ru</item>
+        <item>bing</item>
     </string-array>
     <string-array name="pref_volume_key_choices">
         <item>Прокрутка страницы</item>
