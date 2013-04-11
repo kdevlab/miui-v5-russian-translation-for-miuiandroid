@@ -78,6 +78,7 @@
 	<string name="android_beam_off_summary">Отключено</string>
 	<string name="android_beam_on_summary">Можно обмениваться контентом по NFC</string>
 	<string name="android_beam_settings_title">Android Beam</string>
+	<string name="android_beam_witch_label">Включить Android Beam</string>
 	<string name="animator_duration_scale_title">Шкала длительности анимации</string>
 	<string name="apn_apn">APN</string>
 	<string name="apn_auth_type">Тип аутентификации</string>

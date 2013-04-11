@@ -58,6 +58,9 @@
 	<string name="install_btn_download_manager">Менеджер загрузок</string>
 	<string name="install_btn_ok">ОК</string>
 	<string name="install_fail">%1$s - ошибка установки</string>
+	<string name="install_google_base_button">Установить все</string>
+	<string name="install_google_base_message">“%1$s” требует Google Service Framework для работы</string>
+	<string name="install_google_base_title">Установка Google Service Framework</string>
 	<string name="install_hash_fail">%1$s - ошибка установки</string>
 	<string name="install_inconsistent_fail">%1$s - ошибка установки</string>
 	<string name="install_missing_shared_library">В системе отсутствуют необходимые компоненты</string>
@@ -98,6 +101,7 @@
 	<string name="menu_detail">Подробнее</string>
 	<string name="menu_download_manager">Менеджер загрузок</string>
 	<string name="menu_ignore">Позже</string>
+	<string name="menu_install_all">Установить все</string>
 	<string name="menu_login">Вход</string>
 	<string name="menu_preferences">Настройки</string>
 	<string name="menu_refresh">Обновить</string>
@@ -119,6 +123,7 @@
 	<string name="notif_delta_update_successful">Успешно обновлено. Для Вас сохранено %1$s, нажмите кнопку, чтобы запустить сейчас.</string>
 	<string name="notif_install_failed">Сбой установки %1$s</string>
 	<string name="notif_install_successful">%1$s успешно установлено</string>
+	<string name="notif_install_successful_default">%1$s установлено</string>
 	<string name="notif_installing">Установка “%1$s”…</string>
 	<string name="notif_title_update">Доступно обновление для %1$s!</string>
 	<string name="paused">Пауза</string>
