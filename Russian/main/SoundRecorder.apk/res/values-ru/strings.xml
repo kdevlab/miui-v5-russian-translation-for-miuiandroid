@@ -1,66 +1,128 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--Merged and sorted with KDG BigBlackBox-->
 <resources>
+	<!-- Original string: Do you want to delete selected record(s)? -->
 	<string name="alert_message_delete_record">Удалить выбранную запись?</string>
+	<!-- Original string: Sound Recorder -->
 	<string name="app_name">Диктофон</string>
+	<!-- Original string: Audio recordings -->
 	<string name="audio_db_album_name">Аудиозаписи</string>
+	<!-- Original string: Your recordings -->
 	<string name="audio_db_artist_name">Ваши записи</string>
+	<!-- Original string: My recordings -->
 	<string name="audio_db_playlist_name">Мои записи</string>
+	<!-- Original string: OK -->
 	<string name="button_ok">ОК</string>
+	<!-- Original string: Call record(%d) -->
 	<string name="call_record">Запись вызова</string>
+	<!-- Original string: or -->
 	<string name="call_record_or">или</string>
+	<!-- Original string: untitled record -->
 	<string name="default_record_name">запись без названия</string>
+	<!-- Original string: Delete -->
 	<string name="delete">Удалить</string>
+	<!-- Original string: Delete current record? -->
 	<string name="delete_dialog_message">Вы уверены, что хотите удалить текущую запись?</string>
+	<!-- Original string: Deleting... -->
 	<string name="deleting_message">Удаление...</string>
+	<!-- Original string: Due to lack of storage space, the recording was forced to stop and clean up unnecessary files through the File Manager, now open? -->
 	<string name="dialog_content_storage_full">Из-за нехватки места для сохранения, запись была остановлена. Открыть файловый менеджер для очистки ненужных файлов?</string>
+	<!-- Original string: Play -->
 	<string name="dialog_play">Играть</string>
+	<!-- Original string: Send -->
 	<string name="dialog_send">Отправить</string>
+	<!-- Original string: The lack of storage space, now clean up? -->
 	<string name="dialog_title_storage_full">Место для сохранения заполено</string>
+	<!-- Original string: Warning -->
 	<string name="dialog_warning">Внимание</string>
+	<!-- Original string: It maybe a memory card error or another app is using recording software. Please check and try again. -->
 	<string name="error_app_internal">Внутренняя ошибка приложения</string>
+	<!-- Original string: Sound recorder error -->
 	<string name="error_app_internal_title">Ошибка диктофона</string>
+	<!-- Original string: Unable to save recorded audio -->
 	<string name="error_mediadb_new_record">Не удалось сохранить аудиозапись</string>
+	<!-- Original string: Unable to access external or internal storage -->
 	<string name="error_sdcard_access">Не удалось получить доступ к SD-карте</string>
+	<!-- Original string: FM record(%d) -->
 	<string name="fm_record">Запись радио (%d)</string>
+	<!-- Original string: %d hour -->
 	<string name="hour">%d часов</string>
+	<!-- Original string: SD card is required -->
 	<string name="insert_sd_card">Вставьте SD-карту</string>
+	<!-- Original string: Cell phone battery has less than 5%, in order to ensure that the recordings are not lost, the recording has been stopped and saved.Unexpected shutdown may result in recording lost, it is recommended that the recording when fully charged. -->
 	<string name="low_battery_error">Аккумулятор телефона заряжен менее, чем 5%. Для того, чтобы не потерять запись, она была остановлена ​​и сохранена. Неожиданное отключение может привести к потере записи, рекомендуется записывать при полной зарядке.</string>
+	<!-- Original string: Low battery -->
 	<string name="low_battery_message_title">Низкий заряд батареи</string>
+	<!-- Original string: LUnexpected shutdown may result in recording lost, it is recommended that the recording when fully charged. -->
 	<string name="low_battery_warning">Неожиданное отключение может привести к потере записи. Рекомендуется записывать при полной зарядке.</string>
+	<!-- Original string: (Current) -->
 	<string name="mark_now">(текущая)</string>
+	<!-- Original string: Maximum length reached -->
 	<string name="max_length_reached">Достигнута максимальная длина</string>
+	<!-- Original string: Settings -->
 	<string name="menu_settings">Настройки</string>
+	<!-- Original string: View record list -->
 	<string name="menu_view_record_list">Список записей</string>
+	<!-- Original string: %d minute -->
 	<string name="minute">%d мин.</string>
+	<!-- Original string: No records -->
 	<string name="no_file">Нет записей</string>
+	<!-- Original string: In playback... -->
 	<string name="notification_playback">Воспроизведение...</string>
+	<!-- Original string: Recording... -->
 	<string name="notification_recording">Запись...</string>
+	<!-- Original string: Recording is stopped -->
 	<string name="notification_stopped">Запись остановлена</string>
+	<!-- Original string: Low storage(less than %d minutes)... -->
 	<string name="notification_warning">Мало памяти (осталось менее %d мин.)...</string>
+	<!-- Original string: Open file explorer -->
 	<string name="open_file_explorer">Открыть Файлы</string>
+	<!-- Original string: %s has already existed. Do you want to overwrite it? -->
 	<string name="overwrite_dialog_message">%s уже существует. Вы хотите перезаписать его?</string>
+	<!-- Original string: Recording when screenlocked -->
 	<string name="preference_led_indicator">Индикатор записи</string>
+	<!-- Original string: When recording, indicate on status bar and flash red LED in screen lock mode -->
 	<string name="preference_led_indicator_prompt">Мигать светодиодом при записи в заблокированном режиме</string>
+	<!-- Original string: Record list -->
 	<string name="record_list">Список записей</string>
+	<!-- Original string: Loading record, please wait. -->
 	<string name="record_loading">Загрузка записей, пожалуйста, подождите.</string>
+	<!-- Original string: . -->
 	<string name="record_name_hour">.</string>
+	<!-- Original string: Pick one record -->
 	<string name="record_picker_title">Выберите запись</string>
+	<!-- Original string: Saving record, please wait. -->
 	<string name="record_saving">Сохранение записи, пожалуйста, подождите.</string>
+	<!-- Original string: Recording -->
 	<string name="recording">Запись...</string>
+	<!-- Original string: Recording stopped -->
 	<string name="recording_stopped">Запись остановлена</string>
+	<!-- Original string: Rename -->
 	<string name="rename">Переименовать</string>
+	<!-- Original string: Rename for this record file -->
 	<string name="rename_dialog_title">Переименование файла</string>
+	<!-- Original string: Duplicate record name, please re-enter: -->
 	<string name="rename_duplicate">Дубликат имени записи. Пожалуйста, переименуйте:</string>
+	<!-- Original string: Illegal record name, please re-enter: -->
 	<string name="rename_illegal">Неверное имя записи. Пожалуйста, переименуйте:</string>
+	<!-- Original string: SD card is not available -->
 	<string name="sd_card_not_available">SD-карта не доступна</string>
+	<!-- Original string: %d second -->
 	<string name="second">%d сек.</string>
+	<!-- Original string: Send to -->
 	<string name="send_to">Отправить</string>
+	<!-- Original string: Settings -->
 	<string name="sound_recorder_settings">Настройки</string>
+	<!-- Original string: The phone has been muted, adjust the volume to resume. -->
 	<string name="status_bar_anti_disturb">Сторонние звуки отключены</string>
+	<!-- Original string: Click to return to Recorder -->
 	<string name="status_bar_back">Нажмите, чтобы вернуться к записи</string>
+	<!-- Original string: Recording... -->
 	<string name="status_bar_recording">Запись...</string>
+	<!-- Original string: "Record is paused. " -->
 	<string name="status_bar_recording_pause">Пауза</string>
+	<!-- Original string: Storage is full -->
 	<string name="storage_is_full">Память заполнена</string>
+	<!-- Original string: Unknown caller -->
 	<string name="unknown_caller">Неизвестный вызов</string>
 </resources>

@@ -1,77 +1,150 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--Merged and sorted with KDG BigBlackBox-->
 <resources>
+	<!-- Original string: Downloads -->
 	<string name="app_label">Загрузки</string>
+	<!-- Original string: Sort by date -->
 	<string name="button_sort_by_date">Сортировать по дате</string>
+	<!-- Original string: Sort by size -->
 	<string name="button_sort_by_size">Сортировать по размеру</string>
+	<!-- Original string: Cancel download notice -->
 	<string name="cancel_download_notice">Отменить уведомление загрузки</string>
+	<!-- Original string: Cancel -->
 	<string name="cancel_running_download">Отмена</string>
+	<!-- Original string: %d selected downloads will be removed! -->
 	<string name="confirm_delete_downloads_message">Вы хотите удалить %d загрузок, продолжить?</string>
+	<!-- Original string: Confirm download removal! -->
 	<string name="confirm_delete_the_download_item_message">Скачанное содержимое будет удалено!</string>
+	<!-- Original string: Turning off “Download via Wi-Fi only” will likely generate additional data expenses. Are you sure you wish to turn it off? -->
 	<string name="confirm_disable_download_only_in_wifi_message">Выключение этой функции может вызвать сильное потребление трафика через мобильную сеть. Вы уверены, что хотите выключить?</string>
+	<!-- Original string: Delete -->
 	<string name="delete_download">Удалить</string>
+	<!-- Original string: Delete downloads -->
 	<string name="delete_downloads_records">Удалить все загрузки</string>
+	<!-- Original string: Delete the downloaded files. -->
 	<string name="delete_the_downloaded_file">Удалить загруженные файлы</string>
+	<!-- Original string: Deselect All -->
 	<string name="deselect_all">Очистить</string>
+	<!-- Original string: Download interrupted. It cannot be resumed. -->
 	<string name="dialog_cannot_resume">Загрузка прервана. Она не может быть возобновлена.</string>
+	<!-- Original string: Do you want to retry downloading the file later or delete it from the queue? -->
 	<string name="dialog_failed_body">Вы хотите повторить загрузку файла позже или удалить его из очереди?</string>
+	<!-- Original string: Cannot download. The destination file already exists. -->
 	<string name="dialog_file_already_exists">Не могу скачать. Файл уже существует.</string>
+	<!-- Original string: The downloaded file cannot be found. -->
 	<string name="dialog_file_missing_body">Загруженный файл не найден.</string>
+	<!-- Original string: Fail to open file -->
 	<string name="dialog_file_missing_title">Ошибка открытия файла</string>
+	<!-- Original string: Cannot finish download. There is not enough space on internal download storage. -->
 	<string name="dialog_insufficient_space_on_cache">Не могу закончить загрузку. Недостаточно места на внутренних носителях.</string>
+	<!-- Original string: Cannot finish download. There is not enough space on external storage. -->
 	<string name="dialog_insufficient_space_on_external">Не могу закончить загрузку. Существует нет места на внешних накопителях.</string>
+	<!-- Original string: Cannot download. The external media is not available. -->
 	<string name="dialog_media_not_found">Не могу скачать. Внешний носитель не доступен.</string>
+	<!-- Original string: This file is queued for future download. -->
 	<string name="dialog_queued_body">Этот файл в очереди на скачивание.</string>
+	<!-- Original string: Download Failed -->
 	<string name="dialog_title_not_available">Ошибка загрузки</string>
+	<!-- Original string: File not yet available -->
 	<string name="dialog_title_queued_body">Файл не доступен</string>
+	<!-- Original string: Turning off “Download via Wi-Fi only” -->
 	<string name="disable_download_only_in_wifi_title">Отключить загрузку только по Wi-Fi</string>
+	<!-- Original string: Downloaded -->
 	<string name="download_complete">Скачанные</string>
+	<!-- Original string: Failed -->
 	<string name="download_error">Ошибка</string>
+	<!-- Original string: Insufficient space -->
 	<string name="download_error_insufficient_space">Недостаточно места</string>
+	<!-- Original string: Downloading -->
 	<string name="download_in_process">В процессе</string>
+	<!-- Original string: %s downloads removed -->
 	<string name="download_info_count_deleted_tasks">Список загрузок успешно очищен</string>
+	<!-- Original string: Delete downloads -->
 	<string name="download_info_start_deleted_tasks">Подготовка к удалению</string>
+	<!-- Original string: Cannot open file -->
 	<string name="download_no_application_title">Не могу открыть файл</string>
+	<!-- Original string: Download paused -->
 	<string name="download_paused">Загрузка приостановлена</string>
+	<!-- Original string: Download pending -->
 	<string name="download_pending">Дождитесь загрузки</string>
+	<!-- Original string: Queued -->
 	<string name="download_queued">В очереди</string>
+	<!-- Original string: In progress -->
 	<string name="download_running">В процессе</string>
+	<!-- Original string: Share via -->
 	<string name="download_share_dialog">Отправить по</string>
+	<!-- Original string: Complete -->
 	<string name="download_success">Завершено</string>
+	<!-- Original string: Downloads -->
 	<string name="download_title">Загрузки</string>
+	<!-- Original string: Downloads - Sorted by date -->
 	<string name="download_title_sorted_by_date">Загрузки – по дате</string>
+	<!-- Original string: Downloads - Sorted by size -->
 	<string name="download_title_sorted_by_size">Загрузки – по размеру</string>
+	<!-- Original string: Download using Mobile network -->
 	<string name="download_when_network_connected">Будет использоваться также мобильная сеть</string>
+	<!-- Original string: Operating... -->
 	<string name="downloads_operating">Загрузка...</string>
+	<!-- Original string: Delete -->
 	<string name="editmode_menu_delete">Удалить</string>
+	<!-- Original string: Share -->
 	<string name="editmode_menu_share">Отправить</string>
+	<!-- Original string: Keep -->
 	<string name="keep_queued_download">Оставить</string>
+	<!-- Original string: Editor -->
 	<string name="menu_enter_edit_mode">Редактировать</string>
+	<!-- Original string: Settings -->
 	<string name="menu_preferences">Параметры</string>
+	<!-- Original string: "After canceling, there will be no download prompt of operator's network. This may lead to traffic costs" -->
 	<string name="might_lead_to_mobile_charge">После отмены, загрузки из сети оператора будут идти без запросов. Это может привести к расходам трафика</string>
+	<!-- Original string: &lt;Unknown> -->
 	<string name="missing_title">Неизвестно</string>
+	<!-- Original string: No downloads -->
 	<string name="no_downloads">Нет загрузок</string>
+	<!-- Original string: Open -->
 	<string name="open_download">Открыть</string>
+	<!-- Original string: Pause -->
 	<string name="pause_download">Пауза</string>
+	<!-- Original string: Download only using Wi-Fi -->
 	<string name="pause_download_when_wifi_disconnected">Загружать только по Wi-Fi</string>
+	<!-- Original string: Paused manually -->
 	<string name="paused_by_app">Приостановлено</string>
+	<!-- Original string: Waiting for Wi-Fi connection -->
 	<string name="paused_queued_for_wifi">Ожидание Wi-Fi</string>
+	<!-- Original string: Paused for unknown reasons -->
 	<string name="paused_unknown">Остановлено</string>
+	<!-- Original string: Waiting for network connection -->
 	<string name="paused_waiting_for_network">Ожидание сетевого подключения</string>
+	<!-- Original string: Waiting to retry -->
 	<string name="paused_waiting_to_retry">Ожидание повтора</string>
+	<!-- Original string: File size limit -->
 	<string name="pref_dialog_title_max_bytes_limit">Превышение размера файла</string>
+	<!-- Original string: Data usage prompt -->
 	<string name="pref_download_settings_title">Предупреждение о лимите</string>
+	<!-- Original string: "Under the operator's network, prompt pops up if file size exceeds the limit" -->
 	<string name="pref_summary_enable_max_bytes_popup">При использовании мобильных данных, предупредить перед истечением лимита</string>
+	<!-- Original string: Prompt pops up if file size exceeds %s -->
 	<string name="pref_summary_max_bytes_limit_format">Предупреждать при превышении размера файла: %s</string>
+	<!-- Original string: Data download prompt -->
 	<string name="pref_title_enable_max_bytes_popup">Предупреждать о лимите</string>
+	<!-- Original string: File size limit -->
 	<string name="pref_title_max_bytes_limit">Максимальный размер файла</string>
+	<!-- Original string: Settings -->
 	<string name="preferences_title">Настройки</string>
+	<!-- Original string: Remove -->
 	<string name="remove_download">Удалить</string>
+	<!-- Original string: Restart -->
 	<string name="restart_download">Заново</string>
+	<!-- Original string: Resume -->
 	<string name="resume_download">Далее</string>
+	<!-- Original string: Please retry while network connection is available -->
 	<string name="retry_after_network_available">Повторите, когда сеть будет доступна</string>
+	<!-- Original string: Retry -->
 	<string name="retry_download">Повтор</string>
+	<!-- Original string: Select All -->
 	<string name="select_all">Выбрать все</string>
+	<!-- Original string: Please select operation items -->
 	<string name="select_operation_items">Пожалуйста выберите</string>
+	<!-- Original string: Selected %1$d out of %2$d -->
 	<string name="selected_count">Выбрано %1$d из %2$d</string>
 </resources>

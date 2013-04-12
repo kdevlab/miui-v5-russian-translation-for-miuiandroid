@@ -1,242 +1,480 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--Merged and sorted with KDG BigBlackBox-->
 <resources>
+	<!-- Original string: Migrating user data\ndata migration may take a few minutes,\nyour account will be temporarily locked, please wait… -->
 	<string name="account_bind_prompt">Перенос данных пользователя\nперенос данных может жанять некоторое время,\nваш аккаунт временно будет недоступен, пожалуйста подождите…</string>
+	<!-- Original string: Add tasks -->
 	<string name="add_task">Добавить задачи</string>
+	<!-- Original string: Adding upload tasks. -->
 	<string name="adding_upload_tasks">Добавление задачи загрузки.</string>
+	<!-- Original string: File Explorer -->
 	<string name="app_name">Файлы</string>
+	<!-- Original string: Download in background -->
 	<string name="background">В фоне</string>
+	<!-- Original string: Bind to kuaipan account -->
 	<string name="bind_account">Привязка к аккаунту KuaiPan</string>
+	<!-- Original string: If you have already got a kuaipan account，then you can bind to this account to read its data -->
 	<string name="bind_account_summary">Если у вас уже есть учетная запись kuaipan, то ее можно привязать к учетной записи Xiaomi, чтобы синхронизировать данные</string>
+	<!-- Original string: The two account have been merged,then using either xiaomi account or kuaipan account to login, both can read all your data -->
 	<string name="binded_accout_description">Эти два аккаунта были объединены. Теперь Вы можете войти используя либо аккаунт Xiaomi, либо аккаунт Kuaipan. В них обоих будут одни и теже файлы.</string>
+	<!-- Original string: You currently have already binded to a kuaipan account -->
 	<string name="binded_accout_title">В настоящее время Вы уже связаны с учетной записью KuaiPan</string>
+	<!-- Original string: Warning:This operation is not reversible -->
 	<string name="binded_accout_warning">Предупреждение: эта операция не обратима</string>
+	<!-- Original string: bind to your exsiting kuaipan account -->
 	<string name="binding_accout_title">привязка к существующей учетной записи kuaipan</string>
+	<!-- Original string: Cancel -->
 	<string name="cancel">Отмена</string>
+	<!-- Original string: Cancel cleanup -->
 	<string name="cancel_cleanup">Отменить очистку</string>
+	<!-- Original string: All -->
 	<string name="category_all">Все</string>
+	<!-- Original string: APKs -->
 	<string name="category_apk">Программы</string>
+	<!-- Original string: Bluetooth -->
 	<string name="category_bluetooth">Bluetooth</string>
+	<!-- Original string: Documents -->
 	<string name="category_document">Документы</string>
+	<!-- Original string: Favorites -->
 	<string name="category_favorite">Избранное</string>
+	<!-- Original string: Log -->
 	<string name="category_log">Журнал</string>
+	<!-- Original string: Music -->
 	<string name="category_music">Музыка</string>
+	<!-- Original string: Others -->
 	<string name="category_other">Прочее</string>
+	<!-- Original string: Images -->
 	<string name="category_picture">Фото</string>
+	<!-- Original string: Themes -->
 	<string name="category_theme">Темы</string>
+	<!-- Original string: Videos -->
 	<string name="category_video">Видео</string>
+	<!-- Original string: Archives -->
 	<string name="category_zip">Архивы</string>
+	<!-- Original string: Select send method -->
 	<string name="choose_send_type">Выбор метода отправки</string>
+	<!-- Original string: Choose upload location -->
 	<string name="choose_upload_location">Выберите место загрузки</string>
+	<!-- Original string: 已清理 -->
 	<string name="clean_complete">Очистка завершена</string>
+	<!-- Original string: %1$s space freed -->
 	<string name="clean_message">Удаление %1$s</string>
+	<!-- Original string: Delete the files over 30 days in the recycle bin -->
 	<string name="clean_title">Удалять файлы из корзины, если они лежат там дольше 30 дней</string>
+	<!-- Original string: Clean up recycle bin -->
 	<string name="clean_trash_box">Очистить корзину</string>
+	<!-- Original string: Failed to delete files over 30 days in the recycle bin -->
 	<string name="clean_trash_box_failed">Ошибка удаления файлов из корзины</string>
+	<!-- Original string: Clean up garbage files in the system\nRelease storage space -->
 	<string name="cleanup_help">Очистка мусорных файлов в системе\nОсвободите место на диске</string>
+	<!-- Original string: Application Cleanup -->
 	<string name="cleanup_tab_app">Очистка приложений</string>
+	<!-- Original string: Garbage Cleanup -->
 	<string name="cleanup_tab_garbage">Очистка от мусора</string>
+	<!-- Original string: Clear cache -->
 	<string name="clear_cache">Очистить кэш</string>
+	<!-- Original string: Close -->
 	<string name="close">Закрыть</string>
+	<!-- Original string: Compress to… -->
 	<string name="compress_message">Имя архива:</string>
+	<!-- Original string: Compress -->
 	<string name="compress_title">Создание архива</string>
+	<!-- Original string: Confirm -->
 	<string name="confirm">OК</string>
+	<!-- Original string: OK -->
 	<string name="confirm_know">OK</string>
+	<!-- Original string: Failed to copy -->
 	<string name="copy_failed">Ошибка копирования</string>
+	<!-- Original string: Creating new folder… -->
 	<string name="create_new_folder_desctiption">Создание папки...</string>
+	<!-- Original string: Failed to create folder %1$s -->
 	<string name="create_new_folder_failed">Не удалось создать папку %1$s</string>
+	<!-- Original string: Creating share link··· -->
 	<string name="create_share_link_description">Создание ссылки···</string>
+	<!-- Original string: Tips -->
 	<string name="cution">Советы</string>
+	<!-- Original string: Data %1$s -->
 	<string name="data_capacity">Объем: %1$s</string>
+	<!-- Original string: Cancel -->
 	<string name="decompress_cancel">Отмена</string>
+	<!-- Original string: Decompress -->
 	<string name="decompress_confirm">Распаковать</string>
+	<!-- Original string: Decompression failed -->
 	<string name="decompress_fail">Ошибка распаковки</string>
+	<!-- Original string: Decompression complete -->
 	<string name="decompress_success">Распаковка завершена</string>
+	<!-- Original string: Decompress to… -->
 	<string name="decompress_to">Распаковать в...</string>
+	<!-- Original string: Decompress to here -->
 	<string name="decompress_to_here">Распаковать в текущую папку</string>
+	<!-- Original string: Failed to delete -->
 	<string name="delete_failed">Ошибка удаления</string>
+	<!-- Original string: Are you sure you want to delete this file? -->
 	<string name="delete_file">Вы уверены, что хотите удалить этот файл?</string>
+	<!-- Original string: Are you sure you want to delete the selected %1$d files? -->
 	<string name="delete_files">Вы уверены, что хотите удалить выбранные файлы (%1$d)?</string>
+	<!-- Original string: Are you sure you want to delete the selected %1$d file(s) and %2$d folder(s)? -->
 	<string name="delete_files_and_folders">Вы уверены, что хотите удалить выбранные файлы (%1$d) и папки (%2$d)?</string>
+	<!-- Original string: Are you sure you want to delete it? -->
 	<string name="delete_folder">Вы уверены, что хотите удалить?</string>
+	<!-- Original string: Are you sure you want to delete the selected %1$d folders? -->
 	<string name="delete_folders">Вы уверены, что хотите удалить выбранные папки (%1$d)?</string>
+	<!-- Original string: There are %1$d files that still needs to be transferred -->
 	<string name="des_running_trans">Эти %1$d файлы ожидают отправки</string>
+	<!-- Original string: Select type -->
 	<string name="dialog_select_type">Выбрать тип файла</string>
+	<!-- Original string: Audio -->
 	<string name="dialog_type_audio">Аудио</string>
+	<!-- Original string: Image -->
 	<string name="dialog_type_image">Изображения</string>
+	<!-- Original string: Text -->
 	<string name="dialog_type_text">Текст</string>
+	<!-- Original string: Video -->
 	<string name="dialog_type_video">Видео</string>
+	<!-- Original string: Download failed -->
 	<string name="download_failed">Ошибка загрузки</string>
+	<!-- Original string: I shared %1$s via KuaiPan. Please click the link below to view: -->
 	<string name="download_link_completed">Я поделился %1$s через KuaiPan. Нажмите ссылку внизу для просмотра:</string>
+	<!-- Original string: Download successful -->
 	<string name="download_successful">Успешно загружено</string>
+	<!-- Original string: Downloading -->
 	<string name="downloading">Загрузка</string>
+	<!-- Original string: No available SD card. Please insert one or unmount from USB mass storage mode -->
 	<string name="enable_sd_card">В настоящий момента SD-карта подключена к компьютеру и используется, чтобы видеть ее содержимое, отключите режим накопителя</string>
+	<!-- Original string: Cannot send folder -->
 	<string name="error_info_cant_send_folder">Папка не может быть передана</string>
+	<!-- Original string: Cannot create: file or folder already exists -->
 	<string name="fail_to_create_folder">Не удалось создать папку, папка с таким именем уже существует</string>
+	<!-- Original string: Cannot rename: file or folder name already exists -->
 	<string name="fail_to_rename">Не удалось переименовать файл или папку, имя уже существует</string>
+	<!-- Original string: Photo -->
 	<string name="favorite_photo">Фотография</string>
+	<!-- Original string: Ringtones -->
 	<string name="favorite_ringtone">Мелодии</string>
+	<!-- Original string: MIUI screenshots -->
 	<string name="favorite_screen_cap">Скриншоты</string>
+	<!-- Original string: Readable: -->
 	<string name="file_info_canread">Чтение:</string>
+	<!-- Original string: Writable: -->
 	<string name="file_info_canwrite">Запись:</string>
+	<!-- Original string: Hidden: -->
 	<string name="file_info_ishidden">Скрытый:</string>
+	<!-- Original string: Location: -->
 	<string name="file_info_location">Путь:</string>
+	<!-- Original string: Time: -->
 	<string name="file_info_modified">Изменен:</string>
+	<!-- Original string: Size: -->
 	<string name="file_info_size">Размер:</string>
+	<!-- Original string: Loading… -->
 	<string name="file_loading">Загрузка...</string>
+	<!-- Original string: "The file is too large, can't be uploaded" -->
 	<string name="file_too_large">Этот файл слишком большой для загрузки на сервер</string>
+	<!-- Original string: Complete -->
 	<string name="finished">Завершено</string>
+	<!-- Original string: &lt;a href=\"%1$s\">Click here&lt;/a>to go to Recycle bin to clean up -->
 	<string name="forward_to_web_recycle_prompt">&lt;a href=\"%1$s\">Нажмите сюда&lt;/a>для очистки корзины</string>
+	<!-- Original string: Username and password, 4~16 chars, contains digits, alphabet letters, case sensitive -->
 	<string name="ftp_account_req_notice">Имя и пароль, 4~16 знаков, включая цифры, буквы, чувствительны к регистру</string>
+	<!-- Original string: Anonymous login -->
 	<string name="ftp_anonymous_login">Анонимный FTP</string>
+	<!-- Original string: Invalid username or password -->
 	<string name="ftp_invalid_username_or_password">Ошибка аутентификации</string>
+	<!-- Original string: Error opening port, check your network connection or reset port number. -->
 	<string name="ftp_open_port_error">Невозможно открыть выбранный FTP-порт, проверьте подключение к сети и попробуйте еще раз</string>
+	<!-- Original string: Password -->
 	<string name="ftp_password_hint">Пароль</string>
+	<!-- Original string: Port number -->
 	<string name="ftp_port_number">Порт</string>
+	<!-- Original string: Transfer secure -->
 	<string name="ftp_transfer_secure">Защищенная FTP-передача</string>
+	<!-- Original string: Username and password -->
 	<string name="ftp_username_and_passworld">Имя пользователя и пароль</string>
+	<!-- Original string: Username -->
 	<string name="ftp_username_hint">Имя пользователя</string>
+	<!-- Original string: If you are using Window’s File Explorer GBK encoding tools, choose this encoding to avoid Chinese coding issues -->
 	<string name="gbk_summary">Если вы используете кодировку GBK, например, в Windows Explorer, выберите этот тип кодирования, чтобы избежать искажения текста на китайском языке</string>
+	<!-- Original string: GBK -->
 	<string name="gbk_title">GBK</string>
+	<!-- Original string: Enter the following address into an FTP Client: -->
 	<string name="instruction">Адрес синхронизации:</string>
+	<!-- Original string: "Press 'Start' below to enable the FTP Server" -->
 	<string name="instruction_pre">Обмен файлами с ПК или Mac по FTP через сеть Wi-Fi</string>
+	<!-- Original string: kingsoft kuaipan account -->
 	<string name="kingsoft_account">аккаунт kingsoft kuaipan</string>
+	<!-- Original string: Your KuaiPan has no space left. -->
 	<string name="kuaipan_over_space">В вашем KuaiPan нет больше свободного места</string>
+	<!-- Original string: KuaiPan tip -->
 	<string name="kuaipan_prompt">KuaiPan</string>
+	<!-- Original string: \n The server is down for maintenance. Please try again later…\n -->
 	<string name="kuaipan_prompt_message">Идет обслуживание сервиса, пожалуйста, попробуйте позже...</string>
+	<!-- Original string: Login to kuaipan.cn to download PC, Mac version -->
 	<string name="kuaipan_tech_support">Техническая поддержка: Kingsoft Kuaipan</string>
+	<!-- Original string: Loading failed -->
 	<string name="load_err">Ошибка загрузки</string>
+	<!-- Original string: Loading -->
 	<string name="loading">Загрузка</string>
+	<!-- Original string: Local cache -->
 	<string name="local_cache">Локальный кэш</string>
+	<!-- Original string: Local cache size: %s -->
 	<string name="local_cache_size">Размер локального кэш: %s</string>
+	<!-- Original string: KuaiPan helps you store files and sync as well as read them with multiple devices\nsuch as computers, handsets and so on. -->
 	<string name="login_reg_content">KuaiPan позволяет хранить файлы и синхронизировать их между несколькими устройствами.</string>
+	<!-- Original string: KuaiPan is your Net Disk -->
 	<string name="login_reg_content0">KuaiPan - ваш интернет диск</string>
+	<!-- Original string: File Cleanup -->
 	<string name="menu_item_cleanup">Очистка файлов</string>
+	<!-- Original string: FTP -->
 	<string name="menu_item_ftp">Обмен файлами через Wi-Fi</string>
+	<!-- Original string: Search -->
 	<string name="menu_item_search">Поиск</string>
+	<!-- Original string: Sort by -->
 	<string name="menu_item_sort">Сортировка</string>
+	<!-- Original string: Date -->
 	<string name="menu_item_sort_date">По дате</string>
+	<!-- Original string: Name -->
 	<string name="menu_item_sort_name">По названию</string>
+	<!-- Original string: Size -->
 	<string name="menu_item_sort_size">По размеру</string>
+	<!-- Original string: Type -->
 	<string name="menu_item_sort_type">По типу</string>
+	<!-- Original string: If you have kuaipan account, you could bind it in the setting and access kuaipan data. -->
 	<string name="migrate_announcement_msg">Если у вас есть аккаунт KuaiPan, вы можете привязать его в настройках и получить доступ к данным.</string>
+	<!-- Original string: MiDriver has been migrated to kuaipan -->
 	<string name="migrate_announcement_title">MiDrive был перенесен в KuaiPan</string>
+	<!-- Original string: Failed to cut -->
 	<string name="move_failed">Ошибка перемещения</string>
+	<!-- Original string: %1$sselected -->
 	<string name="multi_select_title">Выбрано: %1$s</string>
+	<!-- Original string: File name can not be empty -->
 	<string name="name_illegal">Имя не может быть пустым</string>
+	<!-- Original string: Network not available: cannot get size -->
 	<string name="net_lose_connected">Сеть недоступна, не может получить размер</string>
+	<!-- Original string: No available network -->
 	<string name="networkView_notConnected">Нет доступных сетей</string>
+	<!-- Original string: Offline mode, refreshing directory temporarily disabled -->
 	<string name="networkView_offline">Офлайн режим, обновление директорий приостановлено</string>
+	<!-- Original string: New folder -->
 	<string name="new_folder_name">Новая папка</string>
+	<!-- Original string: No -->
 	<string name="no">Нет</string>
+	<!-- Original string: No files -->
 	<string name="no_file">Нет файлов</string>
+	<!-- Original string: No more space -->
 	<string name="no_more_space">Не хватает места на диске</string>
+	<!-- Original string: No tasks -->
 	<string name="no_tasks">Задач нет</string>
+	<!-- Original string: Wi-Fi disconnected -->
 	<string name="no_wifi">Нет Wi-Fi сети</string>
+	<!-- Original string: No Wi-Fi connection found. Click to check your settings -->
 	<string name="no_wifi_hint">Нет Wi-Fi соединения</string>
+	<!-- Original string: FTP Server started -->
 	<string name="notif_server_starting">Синхронизация включена</string>
+	<!-- Original string: FTP Server is running -->
 	<string name="notif_title">FTP сеть активна</string>
+	<!-- Original string: Processing… -->
 	<string name="operating">Обработка...</string>
+	<!-- Original string: Cancel -->
 	<string name="operation_cancel">Отмена</string>
+	<!-- Original string: Compress -->
 	<string name="operation_compress">Добавить в архив</string>
+	<!-- Original string: Compressing… -->
 	<string name="operation_compressing">Создание архива...</string>
+	<!-- Original string: Copy -->
 	<string name="operation_copy">Копировать</string>
+	<!-- Original string: Copying… -->
 	<string name="operation_copying">Копирование…</string>
+	<!-- Original string: Copying files(%1$d/%2$d) -->
 	<string name="operation_copying_detail">Копирование файлов (%1$d/%2$d)</string>
+	<!-- Original string: New folder -->
 	<string name="operation_create_folder">Новая папка</string>
+	<!-- Original string: Enter folder name -->
 	<string name="operation_create_folder_message">Введите имя папки</string>
+	<!-- Original string: Decompressing… -->
 	<string name="operation_decompressing">Распаковка...</string>
+	<!-- Original string: Delete -->
 	<string name="operation_delete">Удалить</string>
+	<!-- Original string: Delete -->
 	<string name="operation_delete_confirm_message">Подтверждение удаления</string>
+	<!-- Original string: Deleting the folder will also delete all the files in it.\n -->
 	<string name="operation_delete_confirm_message_folder">Удаление папки приведет к удалению всех файлов внутри нее\n</string>
+	<!-- Original string: Deleting… -->
 	<string name="operation_deleting">Удаление...</string>
+	<!-- Original string: Deleting files (%1$d/%2$d) -->
 	<string name="operation_deleting_detail">Удаление файлов (%1$d/%2$d)</string>
+	<!-- Original string: Generate download kink -->
 	<string name="operation_download_link">Создание ссылки для скачивания</string>
+	<!-- Original string: Favorite -->
 	<string name="operation_favorite">Добавить в избранное</string>
+	<!-- Original string: "Don't show hidden" -->
 	<string name="operation_hide_sys">Скрыть системные</string>
+	<!-- Original string: Details -->
 	<string name="operation_info">Сведения</string>
+	<!-- Original string: Cut -->
 	<string name="operation_move">Переместить</string>
+	<!-- Original string: Moving… -->
 	<string name="operation_moving">Перемещение...</string>
+	<!-- Original string: Cutting files(%1$d/%2$d) -->
 	<string name="operation_moving_detail">Перенос файлов (%1$d/%2$d)</string>
+	<!-- Original string: Paste -->
 	<string name="operation_paste">Вставить</string>
+	<!-- Original string: Copying… -->
 	<string name="operation_pasting">Копирование...</string>
+	<!-- Original string: Pause -->
 	<string name="operation_pause">Пауза</string>
+	<!-- Original string: Pause all -->
 	<string name="operation_pause_all">Приостановить все</string>
+	<!-- Original string: Refresh -->
 	<string name="operation_refresh">Обновить</string>
+	<!-- Original string: Rename -->
 	<string name="operation_rename">Переименовать</string>
+	<!-- Original string: Enter new name -->
 	<string name="operation_rename_message">Введите новое имя</string>
+	<!-- Original string: Start -->
 	<string name="operation_resume">Начать</string>
+	<!-- Original string: Start all -->
 	<string name="operation_resume_all">Начать все</string>
+	<!-- Original string: Send -->
 	<string name="operation_send">Отправить</string>
+	<!-- Original string: Show hidden -->
 	<string name="operation_show_sys">Показать системные</string>
+	<!-- Original string: Remove from favorites -->
 	<string name="operation_unfavorite">Удалить из избранного</string>
+	<!-- Original string: KuaiPan settings -->
 	<string name="pan_settting">Настройки KuaiPan</string>
+	<!-- Original string: Paused -->
 	<string name="paused">Пауза</string>
+	<!-- Original string: Query bind state, please wait… -->
 	<string name="query_bind_state">Запрос состояния, пожалуйста, подождите…</string>
+	<!-- Original string: FTP -->
 	<string name="remote_management">Обмен файлами Wi-Fi</string>
+	<!-- Original string: Renaming··· -->
 	<string name="rename_description">Переименовывается···</string>
+	<!-- Original string: Failed to rename %1$s -->
 	<string name="rename_failed">Переименование 《%1$s》 не удалось</string>
+	<!-- Original string: 正在扫描... -->
 	<string name="scanning">Сканирование...</string>
+	<!-- Original string: Available: %1$s -->
 	<string name="sd_card_available">Свободно: %1$s</string>
+	<!-- Original string: SD card: %1$s -->
 	<string name="sd_card_size">SD-карта: %1$s</string>
+	<!-- Original string: Sdcard is full -->
 	<string name="sd_full">SD-карта полна</string>
+	<!-- Original string: Enter all or part of the filename -->
 	<string name="search_hint">Введите часть или все имя файла</string>
+	<!-- Original string: Search -->
 	<string name="search_title">Поиск документов</string>
+	<!-- Original string: KuaiPan -->
 	<string name="send_to_midrive">KuaiPan</string>
+	<!-- Original string: KuaiPan was not supported to receive content -->
 	<string name="send_to_midrive_failed_message">Не удалось отправить в KuaiPan. Неверный формат файла.</string>
+	<!-- Original string: Advanced settings -->
 	<string name="server_control_advanced_settings">Расширенные настройки</string>
+	<!-- Original string: Transfer encoding -->
 	<string name="server_control_charset">Кодирование передачи</string>
+	<!-- Original string: Settings -->
 	<string name="server_control_settings">Настройки</string>
+	<!-- Original string: Generating folder external link failed -->
 	<string name="share_link_failed">Ошибка создания внешней ссылки на папку</string>
+	<!-- Original string: File cannot be open without downloading -->
 	<string name="show_message">Файл не может быть открыт без загрузки, загрузить?</string>
+	<!-- Original string: KuaiPan space: %1$s available, %2$s in total -->
 	<string name="space_info">Объем в сети: %1$s доступно，всего: %2$s</string>
+	<!-- Original string: Space usage -->
 	<string name="space_usage">Использование хранилища</string>
+	<!-- Original string: Start cleanup -->
 	<string name="start_cleanup">Очистка</string>
+	<!-- Original string: Start -->
 	<string name="start_server">Запустить</string>
+	<!-- Original string: Start to use -->
 	<string name="start_use_xiaomi_account">Вход</string>
+	<!-- Original string: Screen will never sleep while using FTP -->
 	<string name="stay_awake_summary">Не переводить экран в режим сна при использовании FTP</string>
+	<!-- Original string: Keep awake -->
 	<string name="stay_awake_title">Без сна</string>
+	<!-- Original string: Stop -->
 	<string name="stop_server">Остановить</string>
+	<!-- Original string: Internal storage -->
 	<string name="storage_internal">Внутренняя память</string>
+	<!-- Original string: SD card -->
 	<string name="storage_sd_card">SD-карта</string>
+	<!-- Original string: USB storage -->
 	<string name="storage_usb">USB-накопитель</string>
+	<!-- Original string: External storage is not available -->
 	<string name="storage_warning">Внешний носитель не доступен</string>
+	<!-- Original string: Category -->
 	<string name="tab_category">Обзор</string>
+	<!-- Original string: KuaiPan -->
 	<string name="tab_networkdisk">KuaiPan</string>
+	<!-- Original string: Phone -->
 	<string name="tab_phone">Телефон</string>
+	<!-- Original string: The file is unreadable. -->
 	<string name="toast_file_not_can_read">Этот тип файла не поддерживается</string>
+	<!-- Original string: Network transfer -->
 	<string name="trans_task">Передача</string>
+	<!-- Original string: Are you sure you want to delete the selected %1$d tasks? -->
 	<string name="trans_task_delete_confirm_message">Вы уверены, что хотите удалить задачи (%1$d)?</string>
+	<!-- Original string: Transmitting -->
 	<string name="transing">Отправка</string>
+	<!-- Original string: Recycle bin %1$s -->
 	<string name="trash_box_capacity">Объем корзины: %1$s</string>
+	<!-- Original string: To clean up recycle bin. Please visit <b>pan.xiaomi.com</b> -->
 	<string name="trash_box_link">Посетите pan.xiaomi.com для очистки корзины</string>
+	<!-- Original string: You can delete some unnecessary files \n to free up space -->
 	<string name="trash_box_message1">Вы можете удалить не нужные файлы для освобождения места</string>
+	<!-- Original string: You can delete some unnecessary files or \n clean up the Recycle Bin to free up space -->
 	<string name="trash_box_message2">Вы можете удалить не нужные файлы или очистить корзину для освобождения места</string>
+	<!-- Original string: %1$d file(s) left to download -->
 	<string name="ui_bar_txt_download_progress">Загрузка...</string>
+	<!-- Original string: %1$d file(s) left to upload -->
 	<string name="ui_bar_txt_upload_progress">Отправка...</string>
+	<!-- Original string: Download files -->
 	<string name="ui_filechange_btn_download">Загрузка файла</string>
+	<!-- Original string: Transfer management -->
 	<string name="ui_main_menu_option_task_manage">Обмен файлами</string>
+	<!-- Original string: Downloading… -->
 	<string name="ui_main_progress_txt_open_file">Загрузка...</string>
+	<!-- Original string: Favorite(s) removed -->
 	<string name="ui_main_toast_favorite_removed">Избранное удалено</string>
+	<!-- Original string: Unfavorite operation failed for %1$s. -->
 	<string name="ui_main_toast_operation_failed">Ошибка удаления %1$s</string>
+	<!-- Original string: Upload failed -->
 	<string name="upload_failed">Ошибка загрузки</string>
+	<!-- Original string: "%1$d files larger than 300M can't be uploaded. Please check transfer management for details." -->
 	<string name="upload_file_toolarge_message">%1$d файлов размером более 300 Мб не могут быть отправлены. Пожалуйста, проверьте в Управлении передачами.</string>
+	<!-- Original string: Upload successful -->
 	<string name="upload_successful">Успешно выгружено</string>
+	<!-- Original string: Uploading -->
 	<string name="uploading">Загрузка</string>
+	<!-- Original string: Used -->
 	<string name="used">Занято:</string>
+	<!-- Original string: User guide -->
 	<string name="user_guide">Руководство пользователя</string>
+	<!-- Original string: You can even download Kuaipan\nto your PC and Mac -->
 	<string name="user_guide_download_other_version">Вы всегда можете скачать Kuaipan\nна Ваш PC или Mac</string>
+	<!-- Original string: Access your files in multiple devices\nby placing it in Kuaipan -->
 	<string name="user_guide_kuaipan_copy">Доступ к файлу с нескольких устройств\n, поместив его в Kuaipan</string>
+	<!-- Original string: Download various versions of Kuaipan -->
 	<string name="user_guide_other_version">Скачать различные версии с Kuaipan</string>
+	<!-- Original string: How to use KuaiPan -->
 	<string name="user_guide_summary">Руководство по KuaiPan</string>
+	<!-- Original string: From your phone,\nsimply copy and paste into Kuaipan -->
 	<string name="user_guide_upload_to_kuaipan">С телефона,\nпросто скопировать и вставить в Kuaipan</string>
+	<!-- Original string: System FTP default encoding -->
 	<string name="utf8_summary">Тип кодировки по умолчанию</string>
+	<!-- Original string: Waiting for the network -->
 	<string name="wait_net">Ожидание сети</string>
+	<!-- Original string: Waiting for the sdcard mounted -->
 	<string name="wait_sdcard">Ожидание подключения SD-карты</string>
+	<!-- Original string: Waiting for Wi-Fi -->
 	<string name="wait_wifi">Ожидание Wi-Fi</string>
+	<!-- Original string: Waiting -->
 	<string name="waiting">Ожидание</string>
+	<!-- Original string: My drive -->
 	<string name="wangpan_root_path">Мой диск</string>
+	<!-- Original string: Wi-Fi status -->
 	<string name="wifi_state">Статус Wi-Fi</string>
+	<!-- Original string: Xiaomi account -->
 	<string name="xiaomi_account">Аккаунт Xiaomi</string>
+	<!-- Original string: Yes -->
 	<string name="yes">Да</string>
 </resources>

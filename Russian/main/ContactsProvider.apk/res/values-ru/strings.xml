@@ -1,21 +1,38 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--Merged and sorted with KDG BigBlackBox-->
 <resources>
+	<!-- Original string: Contacts Storage -->
 	<string name="app_label">Хранилище контактов</string>
+	<!-- Original string: Call log -->
 	<string name="call_log_provider_label">Журнал вызовов</string>
+	<!-- Original string: New contact -->
 	<string name="create_contact">Создать новый контакт</string>
+	<!-- Original string: Contacts -->
 	<string name="default_directory">Контакты</string>
+	<!-- Original string: Add to contact -->
 	<string name="edit_contact">Добавить к контакту</string>
+	<!-- Original string: Other -->
 	<string name="local_invisible_directory">Прочее</string>
+	<!-- Original string: Input number after # to search contacts -->
 	<string name="pound_search_tip">Поиск номера на SIM-карте. Введите номер контакта после \"#\"</string>
+	<!-- Original string: Contacts -->
 	<string name="provider_label">Контакты</string>
+	<!-- Original string: Allows the app to store and retrieve all voicemails that this device can access. -->
 	<string name="read_write_all_voicemail_description">Разрешить приложению сохранять и извлекать все голосовые сообщения, к которым есть доступ на этом устройстве</string>
+	<!-- Original string: Access all voicemails -->
 	<string name="read_write_all_voicemail_label">Доступ ко всей голосовой почте</string>
+	<!-- Original string: Send message -->
 	<string name="send_sms">Отправить сообщение</string>
+	<!-- Original string: Android Core Apps -->
 	<string name="sharedUserLabel">Приложения ядра Android</string>
+	<!-- Original string: Upgrading contacts database. -->
 	<string name="upgrade_msg">Обновление базы данных контактов...</string>
+	<!-- Original string: Touch to complete the upgrade. -->
 	<string name="upgrade_out_of_memory_notification_text">Нажмите, чтобы завершить обновление</string>
+	<!-- Original string: Contacts upgrade needs more memory. -->
 	<string name="upgrade_out_of_memory_notification_ticker">Для обновления контакта требуется больше памяти</string>
+	<!-- Original string: Upgrading storage for contacts -->
 	<string name="upgrade_out_of_memory_notification_title">Обновление хранилища контактов</string>
+	<!-- Original string: "Voicemail from " -->
 	<string name="voicemail_from_column">"Голосовое сообщение от абонента "</string>
 </resources>

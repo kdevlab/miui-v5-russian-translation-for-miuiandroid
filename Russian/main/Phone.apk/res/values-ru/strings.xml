@@ -1,934 +1,1864 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--Merged and sorted with KDG BigBlackBox-->
 <resources>
+	<!-- Original string: ABSENT NUMBER -->
 	<string name="absent_num">НОМЕР ОТСУТСТВУЕТ</string>
+	<!-- Original string: Call muted. -->
 	<string name="accessibility_call_muted">Звук выключен</string>
+	<!-- Original string: Speakerphone enabled. -->
 	<string name="accessibility_speakerphone_enabled">Громкая связь включена</string>
+	<!-- Original string: Add -->
 	<string name="add_button_miui">Добавить</string>
+	<!-- Original string: Add fixed dialing number -->
 	<string name="add_fdn_contact">Добавить номер ограниченного набора</string>
+	<!-- Original string: Add account -->
 	<string name="add_sip_account">Добавить аккаунт</string>
+	<!-- Original string: Add number -->
 	<string name="add_vm_number_str">Добавить номер</string>
+	<!-- Original string: Add 0 prefix while dialing mobile number -->
 	<string name="add_zero_prefix">Добавить префикс 0 при наборе мобильных номеров</string>
+	<!-- Original string: Adding fixed dialing number… -->
 	<string name="adding_fdn_contact">Выполняется добавление номера ограниченного набора...</string>
+	<!-- Original string: Additional CDMA call settings -->
 	<string name="additional_cdma_call_settings">Дополнительные настройки CDMA-звонка</string>
+	<!-- Original string: Additional settings -->
 	<string name="additional_gsm_call_settings">Дополнительные настройки</string>
+	<!-- Original string: Administrative disabled -->
 	<string name="administrative_disable">Административные функции отключены</string>
+	<!-- Original string: Administrative enabled -->
 	<string name="administrative_enable">Административные функции включены</string>
+	<!-- Original string: Optional settings -->
 	<string name="advanced_settings">Расширенные настройки</string>
+	<!-- Original string: advanced settings container -->
 	<string name="advanced_settings_container">расширенный контейнер настроек</string>
+	<!-- Original string: ▽ Touch to hide all -->
 	<string name="advanced_settings_hide">▽ Нажмите, чтобы скрыть все</string>
+	<!-- Original string: ▷ Touch to show all -->
 	<string name="advanced_settings_show">▷ Нажмите, чтобы показать все</string>
+	<!-- Original string: Advertisements disabled -->
 	<string name="advertisements_disable">Реклама отключена</string>
+	<!-- Original string: Advertisements enabled -->
 	<string name="advertisements_enable">Реклама включена</string>
+	<!-- Original string: Close the profile -->
 	<string name="alert_dialog_close">Закройте профиль</string>
+	<!-- Original string: Dismiss -->
 	<string name="alert_dialog_dismiss">Закрыть</string>
+	<!-- Original string: "The selected action isn't available while in an emergency call." -->
 	<string name="alert_dialog_in_ecm_call">Выбранное действие невозможно в режиме экстренной связи</string>
+	<!-- Original string: No -->
 	<string name="alert_dialog_no">Нет</string>
+	<!-- Original string: OK -->
 	<string name="alert_dialog_ok">ОК</string>
+	<!-- Original string: Yes -->
 	<string name="alert_dialog_yes">Да</string>
+	<!-- Original string: Always receive MMS -->
 	<string name="always_enable_mms_miui">Всегда получать MMS</string>
+	<!-- Original string: Always receive MMS even when data is disabled -->
 	<string name="always_enable_mms_summary_miui">Получать MMS при выключенной передаче данных</string>
+	<!-- Original string: Hang up and answer -->
 	<string name="answer_and_hangup_miui">Окончание вызова и ответ</string>
+	<!-- Original string: Answer -->
 	<string name="answer_features_setting_category_miui">Настройки ответа</string>
+	<!-- Original string: Answer -->
 	<string name="answer_miui">Ответ</string>
+	<!-- Original string: Settings for flip to mute, proximity sensor, etc. -->
 	<string name="answer_state_setting_summary">Настройки датчика приближения, выключения звука и т.д.</string>
+	<!-- Original string: Incoming call status settings -->
 	<string name="answer_state_setting_title">Входящие вызовы</string>
+	<!-- Original string: Incoming call status settings -->
 	<string name="answer_state_setting_title_miui">Входящие вызовы</string>
+	<!-- Original string: Select answering gesture -->
 	<string name="answer_widget_dialog_title_miui">Жест ответа</string>
+	<!-- Original string: Horizontal sliding -->
 	<string name="answer_widget_sliding_horizontal_miui">Горизонтальный слайд</string>
+	<!-- Original string: Vertical sliding -->
 	<string name="answer_widget_sliding_vertical_miui">Вертикальный слайд</string>
+	<!-- Original string: Answering gesture -->
 	<string name="answer_widget_title_miui">Жест ответа</string>
+	<!-- Original string: Access Point Names -->
 	<string name="apn_settings">Точки доступа</string>
+	<!-- Original string: OK -->
 	<string name="areacode_required_accept_miui">OK</string>
+	<!-- Original string: Locale area code required for emergency calls -->
 	<string name="areacode_required_for_emergency_number_miui">Наберите экстренный телефонный код области или города</string>
+	<!-- Original string: Area code is required -->
 	<string name="areacode_required_miui">Требуется код зоны</string>
+	<!-- Original string: Area Traffic Reports disabled -->
 	<string name="atr_disable">Информация о пробках отключена</string>
+	<!-- Original string: Area Traffic Reports enabled -->
 	<string name="atr_enable">Информация о пробках включена</string>
+	<!-- Original string: Bluetooth -->
 	<string name="audio_mode_bluetooth">Bluetooth</string>
+	<!-- Original string: Handset earpiece -->
 	<string name="audio_mode_earpiece">Динамик гарнитуры</string>
+	<!-- Original string: Speaker -->
 	<string name="audio_mode_speaker">Динамик</string>
+	<!-- Original string: Wired headset -->
 	<string name="audio_mode_wired_headset">Проводная гарнитура</string>
+	<!-- Original string: AuthUserName -->
 	<string name="auth_username">AuthUserName</string>
+	<!-- Original string: Username used for authentication -->
 	<string name="auth_username_summary">Имя пользователя для аутентификации</string>
+	<!-- Original string: Authentication username -->
 	<string name="auth_username_title">Имя пользователя</string>
+	<!-- Original string: 10s -->
 	<string name="auto_answer_delay_entries_delay_10s_miui">10 сек.</string>
+	<!-- Original string: 3s -->
 	<string name="auto_answer_delay_entries_delay_3s_miui">3 сек.</string>
+	<!-- Original string: 5s -->
 	<string name="auto_answer_delay_entries_delay_5s_miui">5 сек.</string>
+	<!-- Original string: 0s -->
 	<string name="auto_answer_delay_entries_immediately_miui">0 сек.</string>
+	<!-- Original string: Delay for auto answer -->
 	<string name="auto_answer_delay_title_miui">Задержка автоответа</string>
+	<!-- Original string: Answer calls automatically -->
 	<string name="auto_answer_pref_summary_miui">Атоматическое поднятие трубки</string>
+	<!-- Original string: Auto answer -->
 	<string name="auto_answer_pref_title_miui">Автоответ</string>
+	<!-- Original string: Always -->
 	<string name="auto_answer_scenario_enteries_always_miui">Всегда</string>
+	<!-- Original string: Bluetooth only -->
 	<string name="auto_answer_scenario_enteries_bluetooth_only_miui">Bluetooth</string>
+	<!-- Original string: Headset / Bluetooth only -->
 	<string name="auto_answer_scenario_enteries_headset_bluetooth_miui">Гарнитура/Bluetooth</string>
+	<!-- Original string: Headset only -->
 	<string name="auto_answer_scenario_enteries_headset_only_miui">Гарнитура</string>
+	<!-- Original string: Scenarios for Auto answer -->
 	<string name="auto_answer_scenario_title_miui">Режим автоответа</string>
+	<!-- Original string: Auto answer settings -->
 	<string name="auto_answer_setting_title_miui">Автоответ</string>
+	<!-- Original string: (delay:%ss) -->
 	<string name="auto_answer_summary_delay">" (задержка: %s сек.)"</string>
+	<!-- Original string: Not enabled -->
 	<string name="auto_answer_summary_not_enabled">Не включено</string>
+	<!-- Original string: Auto-add country code -->
 	<string name="auto_country_code_miui">Добавлять код страны</string>
+	<!-- Original string: Automatically adds country code before dialing known contacts. The number with country code will be dailed directly. -->
 	<string name="auto_country_code_sum_miui">Автоматически добавлять код страны перед номером телефона</string>
+	<!-- Original string: Add numbers -->
 	<string name="auto_ip_add_exception_numbers_miui">Добавить номер</string>
+	<!-- Original string: "Numbers that don't need IP prefix" -->
 	<string name="auto_ip_exception_miui">Номера, которым не нужен префикс</string>
+	<!-- Original string: %d total -->
 	<string name="auto_ip_exception_summary_miui">%d всего</string>
+	<!-- Original string: ,... %d total -->
 	<string name="auto_ip_exception_summary_more_miui">,... %d всего</string>
+	<!-- Original string: "Please adds numbers that don't need IP prefix" -->
 	<string name="auto_ip_no_exceptions_miui">Пожалуйста, добавьте номера, которым не нужен префикс</string>
+	<!-- Original string: Are you sure you want to delete those %d numbers? -->
 	<string name="auto_ip_remove_exception_numbers_confirm_miui">Вы уверены, что хотите удалить %d номер(а/ов)?</string>
+	<!-- Original string: Automatic IP settings -->
 	<string name="auto_ip_setting_miui">Интел. набор</string>
+	<!-- Original string: Not enabled -->
 	<string name="auto_ip_summary_not_enabled">Не включено</string>
+	<!-- Original string: Support local numbers -->
 	<string name="auto_ip_support_local_numbers">Поддержка местных номеров</string>
+	<!-- Original string: Calls are recorded and save into the MIUI/sound_recorder/call_rec folder in the SD card -->
 	<string name="auto_record_call_summary_miui">Начать запись при совершении вызова и сохранить ее на SD-карту</string>
+	<!-- Original string: Record automatically -->
 	<string name="auto_record_call_title_miui">Автоматическая запись</string>
+	<!-- Original string: All numbers -->
 	<string name="auto_record_scenario_enteries_always_miui">Все номера</string>
+	<!-- Original string: Specific numbers -->
 	<string name="auto_record_scenario_enteries_whitelist_miui">Выбранные номера</string>
+	<!-- Original string: Set auto recording -->
 	<string name="auto_record_scenario_title_miui">Режим автоматической записи</string>
+	<!-- Original string: Setup specific numbers -->
 	<string name="auto_record_whitelist_miui">Управление номерами</string>
+	<!-- Original string: "Click 'Add Numbers' below to add numbers for auto recording" -->
 	<string name="auto_record_whitelist_no_item_miui">Нажмите на кнопку внизу, чтобы добавить номера для автоматической записи</string>
+	<!-- Original string: 1 number -->
 	<string name="auto_record_whitelist_summary_for_one_miui">Номеров: 1</string>
+	<!-- Original string: %d numbers -->
 	<string name="auto_record_whitelist_summary_miui">Номеров: %d</string>
+	<!-- Original string: Redial automatically if line is busy -->
 	<string name="auto_redial_pref_summary_miui">Перезвонить, если линия занята</string>
+	<!-- Original string: Auto redial -->
 	<string name="auto_redial_pref_title_miui">Автодозвон</string>
+	<!-- Original string: Enable Auto-retry mode -->
 	<string name="auto_retry_mode_summary">Включить режим автодозвона</string>
+	<!-- Original string: Enable auto retry mode -->
 	<string name="auto_retry_mode_summary_miui">Включить режим автодозвона</string>
+	<!-- Original string: Auto-retry -->
 	<string name="auto_retry_mode_title">Автодозвон</string>
+	<!-- Original string: Auto retry -->
 	<string name="auto_retry_mode_title_miui">Автодозвон</string>
+	<!-- Original string: Auto IP dialing -->
 	<string name="autoip_miui">Интел. набор</string>
+	<!-- Original string: Add IP prefix to a foreign number. Enter current area code below. -->
 	<string name="autoip_sum_miui">Добавить префикс для иностранных номеров. Введите код страны ниже</string>
+	<!-- Original string: Back -->
 	<string name="back_miui">Назад</string>
+	<!-- Original string: "The old PIN you typed isn't correct. Try again." -->
 	<string name="badPin">Введен неверный прежний PIN. Повторите попытку</string>
+	<!-- Original string: "The old PIN2 you typed isn't correct. Try again." -->
 	<string name="badPin2">Введен неверный прежний код PIN2. Повторите попытку</string>
+	<!-- Original string: "The PUK2 you typed isn't correct. Try again." -->
 	<string name="badPuk2">Введен неверный код PUK2. Повторите попытку</string>
+	<!-- Original string: The old PIN2 you typed is not correct. Please try again. -->
 	<string name="bad_pin2_miui">Старый PIN2 введен не правильно. Пожалуйста, попробуйте еще раз</string>
+	<!-- Original string: The old PIN you typed is not correct. Please try again. -->
 	<string name="bad_pin_miui">Старый PIN-код вы ввели не правильно. Пожалуйста, попробуйте еще раз</string>
+	<!-- Original string: The PUK2 you typed is not correct. Please try again. -->
 	<string name="bad_puk2_miui">PUK2 введен не правильно. Пожалуйста, попробуйте еще раз</string>
+	<!-- Original string: The PUK you typed is not correct. Please try again. -->
 	<string name="bad_puk_miui">PUK-код введен неправильно. Пожалуйста, попробуйте еще раз</string>
+	<!-- Original string: Business and Financial News -->
 	<string name="bf_news_settings">Финансовые и деловые новости</string>
+	<!-- Original string: "You can't make outgoing calls while call barring is on." -->
 	<string name="callFailed_cb_enabled">Если включена функция запрета вызовов, невозможно осуществлять исходящие вызовы</string>
+	<!-- Original string: Network busy -->
 	<string name="callFailed_congestion">Сеть занята</string>
+	<!-- Original string: All calls are restricted by access control. -->
 	<string name="callFailed_dsac_restricted">Все вызовы запрещены настройками доступа</string>
+	<!-- Original string: Emergency calls are restricted by access control. -->
 	<string name="callFailed_dsac_restricted_emergency">Экстренные вызовы запрещены настройками доступа</string>
+	<!-- Original string: Normal calls are restricted by access control. -->
 	<string name="callFailed_dsac_restricted_normal">Обычные вызовы запрещены настройками доступа</string>
+	<!-- Original string: Outgoing calls are restricted by FDN. -->
 	<string name="callFailed_fdn_only">Вы можете позвонить только на телефоны из списка разрешенных номеров</string>
+	<!-- Original string: Incorrect username or password -->
 	<string name="callFailed_invalid_credentials">Неверное имя пользователя или пароль</string>
+	<!-- Original string: ACM limit exceeded -->
 	<string name="callFailed_limitExceeded">Превышен лимит ACM</string>
+	<!-- Original string: No signal -->
 	<string name="callFailed_noSignal">Нет сигнала</string>
+	<!-- Original string: Number unreachable -->
 	<string name="callFailed_number_unreachable">Номер недоступен</string>
+	<!-- Original string: Out of service area -->
 	<string name="callFailed_outOfService">Вне зоны действия сети</string>
+	<!-- Original string: Called from out-of-network -->
 	<string name="callFailed_out_of_network">Вызов из сети</string>
+	<!-- Original string: Radio off -->
 	<string name="callFailed_powerOff">Радио отключено</string>
+	<!-- Original string: Server error. Try again later. -->
 	<string name="callFailed_server_error">Ошибка сервера. Повторите попытку позже</string>
+	<!-- Original string: Server unreachable -->
 	<string name="callFailed_server_unreachable">Сервер недоступен</string>
+	<!-- Original string: No SIM or SIM error -->
 	<string name="callFailed_simError">SIM-карта не установлена или ошибка SIM-карты</string>
+	<!-- Original string: No response, timed out -->
 	<string name="callFailed_timedOut">Нет ответа, время ожидания истекло</string>
+	<!-- Original string: Invalid number -->
 	<string name="callFailed_unobtainable_number">Недействительный номер</string>
+	<!-- Original string: Line busy -->
 	<string name="callFailed_userBusy">Линия занята</string>
+	<!-- Original string: Dialing assistant -->
 	<string name="call_assistant_miui">Упрощение вызова</string>
+	<!-- Original string: Enter the number to forward to -->
 	<string name="call_forwarding_number_hint_miui">Пожалуйста, введите номер для пересылки</string>
+	<!-- Original string: Call forwarding settings -->
 	<string name="call_forwarding_settings">Переадресация вызовов</string>
+	<!-- Original string: Call forward settings -->
 	<string name="call_forwarding_settings_miui">Переадресация вызовов</string>
+	<!-- Original string: Call has been lost. -->
 	<string name="call_lost">Вызов был утрачен</string>
+	<!-- Original string: Recording stopped due to low memory, click to view %s. -->
 	<string name="call_record_notification_message_low_space_miui">Запись остановлена из-за нехватки места, нажмите для просмотра %s</string>
+	<!-- Original string: Click to view %s. -->
 	<string name="call_record_notification_message_miui">Нажмите, чтобы посмотреть файл %s</string>
+	<!-- Original string: Recording stopped because SD card is unmounted. -->
 	<string name="call_record_notification_message_sd_unmounted_miui">Запись остановлена, так как SD-карта не смонтирована</string>
+	<!-- Original string: Call recording failed -->
 	<string name="call_record_notification_title_error_miui">Запись разговоров не удалась</string>
+	<!-- Original string: Call recording complete -->
 	<string name="call_record_notification_title_miui">Запись...</string>
+	<!-- Original string: SD card -->
 	<string name="call_record_path_name_of_sdcard_miui">SD-карта</string>
+	<!-- Original string: SD card access error! -->
 	<string name="call_record_sd_error_miui">Ошибка доступа к SD-карте!</string>
+	<!-- Original string: SD card memory is low. Please delete some files on the SD card and try again. -->
 	<string name="call_record_sd_space_low_miui">Мало места на SD-карте</string>
+	<!-- Original string: Record settings -->
 	<string name="call_record_setting_miui">Запись звонков</string>
+	<!-- Original string: Show notification in status bar when recording is complete -->
 	<string name="call_recording_notification_summary_miui">Уведомление о начале и окончании записи вызова</string>
+	<!-- Original string: Recording call notification -->
 	<string name="call_recording_notification_title_miui">Уведомление о записи</string>
+	<!-- Original string: Open call recording -->
 	<string name="call_recording_prompt_miui">Идет запись...</string>
+	<!-- Original string: Call settings -->
 	<string name="call_settings">Вызовы</string>
+	<!-- Original string: Call -->
 	<string name="call_settings_category_miui">Настройки вызовов</string>
+	<!-- Original string: Call settings -->
 	<string name="call_settings_miui">Настройки вызовов</string>
+	<!-- Original string: Redialling %d times -->
 	<string name="call_title_redialing_with_times_miui">Повторный набор: попытка №%d</string>
+	<!-- Original string: During a call, notify me on incoming calls -->
 	<string name="call_waiting_sum_miui">Уведомление о входящих вызовах во время разговора</string>
+	<!-- Original string: Play prompt tone continuously -->
 	<string name="call_waiting_tone_continuously_miui">Воспроизводить непрерывно</string>
+	<!-- Original string: (Press the volume key to stop the prompt tone manually) -->
 	<string name="call_waiting_tone_stop_summary">" (нажмите клавишу изменения громкости, чтобы остановить воспроизведение)"</string>
+	<!-- Original string: Call waiting prompt tone -->
 	<string name="call_waiting_tone_title_miui">Мелодия входящего вызова</string>
+	<!-- Original string: Play prompt tone and vibrate twice -->
 	<string name="call_waiting_tone_twice_and_vibrate_miui">Воспроизводить 2 раза с вибрацией</string>
+	<!-- Original string: Play prompt tone twice -->
 	<string name="call_waiting_tone_twice_only_miui">Воспроизводить 2 раза</string>
+	<!-- Original string: Hide / Show my number for outgoing calls (if network support) -->
 	<string name="caller_id_sum_miui">Скрытие номера для исходящих вызовов (если поддерживается сетью)</string>
+	<!-- Original string: Caller ID -->
 	<string name="caller_id_title_miui">Автоопределение номера</string>
+	<!-- Original string: Conference call %s -->
 	<string name="caller_manage_header">Конференц-вызов: %s</string>
+	<!-- Original string: Back to call -->
 	<string name="caller_manage_manage_done_text_miui">Вернуться к вызову</string>
+	<!-- Original string: Calling via %s -->
 	<string name="calling_via_template">Вызов с помощью %s</string>
+	<!-- Original string: Calling via ^1\n<b>^2</b>" " -->
 	<string name="calling_via_template_miui">Звонок через ^1\n^2</string>
+	<!-- Original string: Cancel -->
 	<string name="cancel">Отмена</string>
+	<!-- Original string: Call ended -->
 	<string name="card_title_call_ended">Вызов завершен</string>
+	<!-- Original string: Conference call -->
 	<string name="card_title_conf_call">Конференц-вызов</string>
+	<!-- Original string: Dialing -->
 	<string name="card_title_dialing">Набор номера...</string>
+	<!-- Original string: Forward incoming call(s) -->
 	<string name="card_title_forwarded_incoming_call_miui">Переадресация вызовов</string>
+	<!-- Original string: Hanging up -->
 	<string name="card_title_hanging_up">Завершение разговора</string>
+	<!-- Original string: In call -->
 	<string name="card_title_in_call">Входящий вызов</string>
+	<!-- Original string: Incoming call -->
 	<string name="card_title_incoming_call">Входящий вызов</string>
+	<!-- Original string: My number is %s -->
 	<string name="card_title_my_phone_number">Мой номер: %s</string>
+	<!-- Original string: On hold -->
 	<string name="card_title_on_hold">Ждет ответа</string>
+	<!-- Original string: Retrying -->
 	<string name="card_title_redialing">Повторная попытка</string>
+	<!-- Original string: Carrier related settings -->
 	<string name="carrier_related_setting_catory_miui">Настройки оператора</string>
+	<!-- Original string: Cell Broadcast SMS settings -->
 	<string name="cb_sms_settings">Настройки широковещательных SMS-служб</string>
+	<!-- Original string: Activate device -->
 	<string name="cdma_activate_device">Активировать устройство</string>
+	<!-- Original string: Conference Call -->
 	<string name="cdma_conference_call_miui">Конференц-связь</string>
+	<!-- Original string: If your carrier does not support this, the call state will be incorrect when switched on. Do you still want to switch it on? -->
 	<string name="cdma_display_precise_call_state_message_miui">Если ваш оператор не поддерживает это, состояние вызова будет неправильно, если включен этот пункт. Продолжить?</string>
+	<!-- Original string: CDMA call timer is restrict by carrier. If supported by carrier then call state can be shown precisely. -->
 	<string name="cdma_display_precise_call_state_summary_miui">CDMA таймер вызова ограничен оператором сотовой сети. Если местный оператор поддерживает, состояние может быть показано точно.</string>
+	<!-- Original string: Display precise call state -->
 	<string name="cdma_display_precise_call_state_title_miui">Показывать состояние вызова</string>
+	<!-- Original string: Set up data service -->
 	<string name="cdma_lte_data_service">Настроить передачу данных</string>
+	<!-- Original string: CDMA Options -->
 	<string name="cdma_options">Параметры CDMA</string>
+	<!-- Original string: subscription -->
 	<string name="cdma_subscription_dialogtitle">подписка</string>
+	<!-- Original string: Change between UIM and NV -->
 	<string name="cdma_subscription_summary">Переключение между RUIM/SIM и NV</string>
+	<!-- Original string: CDMA subscription -->
 	<string name="cdma_subscription_title">CDMA-подключение</string>
+	<!-- Original string: Automatic -->
 	<string name="cdma_system_select_choices_auto_miui">Автоматически</string>
+	<!-- Original string: Home only -->
 	<string name="cdma_system_select_choices_home_only_miui">Только дома</string>
+	<!-- Original string: System select -->
 	<string name="cdma_system_select_dialogtitle">Выбор системы</string>
+	<!-- Original string: Change the CDMA roaming mode -->
 	<string name="cdma_system_select_summary">Изменить режим роуминга CDMA</string>
+	<!-- Original string: System select -->
 	<string name="cdma_system_select_title">Выбор системы</string>
+	<!-- Original string: Three-way Call -->
 	<string name="cdma_three_way_calls_miui">Три способа вызова</string>
+	<!-- Original string: Cell Broadcast SMS disabled -->
 	<string name="cell_bc_sms_disable">Широковещательные SMS-службы отключены</string>
+	<!-- Original string: Cell Broadcast SMS enabled -->
 	<string name="cell_bc_sms_enable">Широковещательные SMS-службы включены</string>
+	<!-- Original string: Cell Broadcast SMS -->
 	<string name="cell_broadcast_sms">Широковещательные SMS-службы</string>
+	<!-- Original string: Forward when busy -->
 	<string name="cfb_title_miui">Переслать, когда занято</string>
+	<!-- Original string: Forward when unreachable -->
 	<string name="cfnrc_title_miui">Переслать, когда недоступны</string>
+	<!-- Original string: Forward When unanswered -->
 	<string name="cfnry_title_miui">Переслать, когда без ответа</string>
+	<!-- Original string: Always forward -->
 	<string name="cfu_title_miui">Всегда переадресовать</string>
+	<!-- Original string: Update -->
 	<string name="change_num">Обновить</string>
+	<!-- Original string: Change SIM PIN -->
 	<string name="change_pin">Изменить PIN SIM-карты</string>
+	<!-- Original string: Change PIN2 -->
 	<string name="change_pin2">Изменить PIN2</string>
+	<!-- Original string: Change PIN2 -->
 	<string name="change_pin2_miui">Изменить PIN2</string>
+	<!-- Original string: Change SIM PIN -->
 	<string name="change_pin_miui">Изменить PIN SIM-карты</string>
+	<!-- Original string: Hide Number -->
 	<string name="clir_choices_hide_number_miui">Скрыть номер</string>
+	<!-- Original string: Network default -->
 	<string name="clir_choices_network_default_miui">Настройка сети</string>
+	<!-- Original string: Show number -->
 	<string name="clir_choices_show_number_miui">Показать номер</string>
+	<!-- Original string: OK -->
 	<string name="close_dialog">ОК</string>
+	<!-- Original string: Close -->
 	<string name="close_profile">Закрыть</string>
+	<!-- Original string: This operation is not allowed when FDN is enabled, please retry after FDN disabled. -->
 	<string name="command_error_fdn_failure_miui">Эта операция не допускается, если FDN включен, пожалуйста повторите,когда FDN отключен</string>
+	<!-- Original string: Failed to finish this operation, please retry later. -->
 	<string name="command_error_generic_failure_miui">Не удалось завершить эту операцию, пожалуйста, повторите попытку позже</string>
+	<!-- Original string: Network selection failed due to wrong SIM/ME. -->
 	<string name="command_error_illegal_sim_or_me_miui">Выбор сети неудачен из-за неправильной SIM/ME</string>
+	<!-- Original string: Invalid network response, please retry later. -->
 	<string name="command_error_invalid_response_miui">Недопустимый ответ сети, повторите попытку позже</string>
+	<!-- Original string: Failed to find CDMA subscription from specified location. -->
 	<string name="command_error_no_subscription_miui">Не удалось найти CDMA подключиться можно с указанного места</string>
+	<!-- Original string: This operation is not allowed. Device needs to be registered to a network. -->
 	<string name="command_error_op_denied_before_reg_miui">Ошибка операции</string>
+	<!-- Original string: This operation is not allowed during voice call. Please retry after call ends. -->
 	<string name="command_error_op_denied_during_call_miui">Эта операция не допустима во время голосового вызова, повторите попытку после окончания вызова</string>
+	<!-- Original string: Your password is incorrect, please re-enter again. -->
 	<string name="command_error_password_incorrect_miui">Ваш пароль является неправильным, пожалуйста, повторно введите его</string>
+	<!-- Original string: Radio unavailable (does not start or is resetting), please retry later. -->
 	<string name="command_error_radio_not_available_miui">Радио не доступно (не запускается), пожалуйста, повторите попытку</string>
+	<!-- Original string: ICC card is absent. -->
 	<string name="command_error_sim_absent_miui">ICC карта отсутствует</string>
+	<!-- Original string: PIN2 required to finish this operation. -->
 	<string name="command_error_sim_pin2_miui">PIN2 необходим для выполнения этой операции</string>
+	<!-- Original string: PIN2 is locked, PUK2 is required to unlock it. -->
 	<string name="command_error_sim_puk2_miui">PIN2 заблокирован, PUK2 требуется, чтобы разблокировать его</string>
+	<!-- Original string: Failed to send SMS, please retry later. -->
 	<string name="command_error_sms_fail_retry_miui">Не удалось отправить SMS, пожалуйста, повторите попытку позже</string>
+	<!-- Original string: The preferred network type is not supported. -->
 	<string name="command_error_unsupported_mode_miui">Предпочтительный тип сети не поддерживается</string>
+	<!-- Original string: This operation is not supported. -->
 	<string name="command_error_unsupported_request_miui">Эта операция не поддерживается</string>
+	<!-- Original string: Conference call -->
 	<string name="confCall">Конференц-вызов</string>
+	<!-- Original string: Confirm new PIN2 -->
 	<string name="confirmPin2Label">Подтвердите новый PIN2</string>
+	<!-- Original string: Confirm new PIN -->
 	<string name="confirmPinLabel">Подтвердите новый PIN</string>
+	<!-- Original string: You will delete this custom attribution messages. -->
 	<string name="confirm_delete_message_title_miui">Вы уверены, что хотите удалить выбранную региональную приставку?</string>
+	<!-- Original string: Confirm to delete the %d selected contacts on SIM card? -->
 	<string name="confirm_delete_sim_entry_miui">Вы уверены, что хотите удалить %d выбранных контактов с SIM-карты?</string>
+	<!-- Original string: Please input a number without country code. -->
 	<string name="confirm_no_countrycode_for_custom_location_miui">Пожалуйста, введите номер без кода страны</string>
+	<!-- Original string: Confirm new PIN2 -->
 	<string name="confirm_pin2_hint_miui">Подтверждение PIN2</string>
+	<!-- Original string: Confirm new PIN -->
 	<string name="confirm_pin_hint_miui">Подтвердите новый PIN-код</string>
+	<!-- Original string: None -->
 	<string name="connect_disconnect_vibrate_none_miui">Не вибрировать</string>
+	<!-- Original string: Normal -->
 	<string name="connect_disconnect_vibrate_normal_miui">Вибрировать</string>
+	<!-- Original string: null -->
 	<string name="connect_disconnect_vibrate_summary_miui" />
+	<!-- Original string: Vibrate level when receiver ans/hangs up -->
 	<string name="connect_disconnect_vibrate_title_miui">Вибрация при приеме вызова</string>
+	<!-- Original string: Weak -->
 	<string name="connect_disconnect_vibrate_weak_miui">Слабо вибрировать</string>
+	<!-- Original string: "Can't connect to this network right now. Try again later." -->
 	<string name="connect_later">Не удается подключиться к этой сети. Повторите попытку позже</string>
+	<!-- Original string: contact photo -->
 	<string name="contactPhoto">фотография контакта</string>
+	<!-- Original string: Contacts -->
 	<string name="contacts_icon_label_miui">Контакты</string>
+	<!-- Original string: Total of %d people -->
 	<string name="count_of_persons_in_conference_miui">Всего людей: %d</string>
+	<!-- Original string: The country code you input maybe incorrect, are you sure its input correctly? -->
 	<string name="countrycode_alert_message_warning_miui">Введенный код страны не похож на верный, вы уверены?</string>
+	<!-- Original string: The country code you input is incorrect, please reinput -->
 	<string name="countrycode_alert_message_wrong_miui">Введенный код страны неверный, введите заново</string>
+	<!-- Original string: Alert -->
 	<string name="countrycode_alert_title_miui">Внимание</string>
+	<!-- Original string: Call audio configuration optimization -->
 	<string name="crystaltalk_summary_miui">Оптимизация аудио-профиля при разговоре</string>
+	<!-- Original string: NICAM setting -->
 	<string name="crystaltalk_title_miui">Настройка \"CrystalTalk\"</string>
+	<!-- Original string: Current area code -->
 	<string name="current_areacode_miui">Код страны</string>
+	<!-- Original string: Area code of current location, or roaming area code if you are roaming. For example: 010 -->
 	<string name="current_areacode_sum_miui">Код Вашей страны, или код страны, в которой Вы находитесь (если Вы в роуминге). Например: 010</string>
+	<!-- Original string: Area code of current location:%s -->
 	<string name="current_areacode_sum_set_miui">Код вашей страны: %s</string>
+	<!-- Original string: Name -->
 	<string name="custom_location_location_hint_miui">Имя</string>
+	<!-- Original string: "Click 'Add' below to add custom attribution" -->
 	<string name="custom_location_location_no_item_miui">"Нажмите 'Добавить' снизу для добавления приставок"</string>
+	<!-- Original string: Area code such as 010, group number such as 68##### -->
 	<string name="custom_location_number_hint_miui">Код города, такие как 010, номер группы, такие как 68#####</string>
+	<!-- Original string: Call waiting -->
 	<string name="cw_title_miui">Ожидание вызова</string>
+	<!-- Original string: Enable data access over Mobile network -->
 	<string name="data_enable_summary">Разрешить передачу данных по сети мобильной связи</string>
+	<!-- Original string: Data enabled -->
 	<string name="data_enabled">Передача данных</string>
+	<!-- Original string: For example: 86 -->
 	<string name="default_contacts_countrycode_hint_miui">Например: 7</string>
+	<!-- Original string: Default contacts country code -->
 	<string name="default_contacts_countrycode_miui">Стандартный код города</string>
+	<!-- Original string: Set the default country code of your contacts:%s -->
 	<string name="default_contacts_countrycode_sum_miui">Задайте стандартный код города: %s</string>
+	<!-- Original string: &lt;Not set> -->
 	<string name="default_preference_summary">&lt;Не настроено></string>
+	<!-- Original string: UDP -->
 	<string name="default_transport">UDP</string>
+	<!-- Original string: Delete all SIM card contacts -->
 	<string name="delete_all_sim_contacts_miui">Удалить все контакты с SIM-карты</string>
+	<!-- Original string: Delete fixed dialing number -->
 	<string name="delete_fdn_contact">Удалить номер ограниченного набора</string>
+	<!-- Original string: Delete selected contacts -->
 	<string name="delete_selected_sim_entry_miui">Удалить выбранные контакты</string>
+	<!-- Original string: Delete SIM contacts -->
 	<string name="delete_sim_contact_confirm_title_miui">Удалить контакты с SIM</string>
+	<!-- Original string: Delete SIM contacts completed -->
 	<string name="delete_sim_entries_finish">Удаление контактов с SIM успешно</string>
+	<!-- Original string: Delete -->
 	<string name="delete_sim_entry_miui">Удалить</string>
+	<!-- Original string: Deleting fixed dialing number… -->
 	<string name="deleting_fdn_contact">Выполняется удаление номера ограниченного набора…</string>
+	<!-- Original string: Deleting contacts on SIM card -->
 	<string name="deleting_sim_entry_miui">Удаление контактов на SIM-карте</string>
+	<!-- Original string: Call recording is on-going. -->
 	<string name="description_call_recording_miui">Запись текущего разговора.</string>
+	<!-- Original string: backspace -->
 	<string name="description_delete_button">возврат</string>
+	<!-- Original string: dial -->
 	<string name="description_dial_button">набор номера</string>
+	<!-- Original string: Left for %s. -->
 	<string name="description_direction_left">Налево для %s</string>
+	<!-- Original string: Left for %s. -->
 	<string name="description_direction_left_miui">Налево для %s</string>
+	<!-- Original string: Right for %s. -->
 	<string name="description_direction_right">Направо для %s</string>
+	<!-- Original string: Right for %s. -->
 	<string name="description_direction_right_miui">Направо для %s</string>
+	<!-- Original string: Up for %s. -->
 	<string name="description_direction_up">Вверх для %s</string>
+	<!-- Original string: Up for %s. -->
 	<string name="description_direction_up_miui">Вверх для %s</string>
+	<!-- Original string: eight -->
 	<string name="description_image_button_eight">восемь</string>
+	<!-- Original string: five -->
 	<string name="description_image_button_five">пять</string>
+	<!-- Original string: four -->
 	<string name="description_image_button_four">четыре</string>
+	<!-- Original string: nine -->
 	<string name="description_image_button_nine">девять</string>
+	<!-- Original string: one -->
 	<string name="description_image_button_one">один</string>
+	<!-- Original string: pound -->
 	<string name="description_image_button_pound">решетка</string>
+	<!-- Original string: seven -->
 	<string name="description_image_button_seven">семь</string>
+	<!-- Original string: six -->
 	<string name="description_image_button_six">шесть</string>
+	<!-- Original string: star -->
 	<string name="description_image_button_star">звездочка</string>
+	<!-- Original string: three -->
 	<string name="description_image_button_three">три</string>
+	<!-- Original string: two -->
 	<string name="description_image_button_two">два</string>
+	<!-- Original string: zero -->
 	<string name="description_image_button_zero">ноль</string>
+	<!-- Original string: Answer -->
 	<string name="description_target_answer">Правильный вариант</string>
+	<!-- Original string: Answer -->
 	<string name="description_target_answer_miui">Ответ</string>
+	<!-- Original string: Decline -->
 	<string name="description_target_decline">Отклонить</string>
+	<!-- Original string: Decline -->
 	<string name="description_target_decline_miui">Отклонить</string>
+	<!-- Original string: Send SMS -->
 	<string name="description_target_send_sms">Отправить SMS</string>
+	<!-- Original string: Send SMS -->
 	<string name="description_target_send_sms_miui">Отправить SMS</string>
+	<!-- Original string: Call not sent. Dial an emergency number! -->
 	<string name="dial_emergency_empty_error">Вызов не осуществлен, наберите номер экстренного вызова!</string>
+	<!-- Original string: Call not sent. %s is not an emergency number! -->
 	<string name="dial_emergency_error">Вызов не осуществляется, так как %s не является номером экстренного вызова!</string>
+	<!-- Original string: Dial -->
 	<string name="dial_related_setting_catory_miui">Настройки набора</string>
+	<!-- Original string: Use keyboard to dial -->
 	<string name="dialerKeyboardHintText">Используйте клавиатуру для набора номера</string>
+	<!-- Original string: Disable -->
 	<string name="disable">Отключить</string>
+	<!-- Original string: Disable all call-forwarding features -->
 	<string name="disable_all_cf_miui">Отключить все переадресации</string>
+	<!-- Original string: "Your operator doesn't support disabling call forwarding when your phone is busy." -->
 	<string name="disable_cfb_forbidden">Ваш оператор не поддерживает отключение переадресации звонков, если телефон занят</string>
+	<!-- Original string: "Your carrier doesn't support disabling call forwarding when your phone is unreachable." -->
 	<string name="disable_cfnrc_forbidden">Ваш оператор не поддерживает отключение переадресации звонков, если телефон находится вне зоны доступа</string>
+	<!-- Original string: "Your operator doesn't support disabling call forwarding when your phone doesn't answer." -->
 	<string name="disable_cfnry_forbidden">Ваш оператор не поддерживает отключение переадресации звонков, если нет ответа</string>
+	<!-- Original string: Disable FDN -->
 	<string name="disable_fdn">Отключить разрешенные номера</string>
+	<!-- Original string: Enable FDN -->
 	<string name="disable_fdn_ok">Включить разрешенные номера</string>
+	<!-- Original string: Disable -->
 	<string name="disable_miui">Отключить</string>
+	<!-- Original string: SIM PIN disabled. -->
 	<string name="disable_pin_ok">Запрос PIN SIM-карты отключен</string>
+	<!-- Original string: Disable SIM PIN -->
 	<string name="disable_sim_pin">Отключить запрос PIN SIM-карты</string>
+	<!-- Original string: Disable SIM PIN -->
 	<string name="disable_sim_pin_miui">Отключить запрос PIN SIM-карты</string>
+	<!-- Original string: DisplayName -->
 	<string name="display_name">DisplayName</string>
+	<!-- Original string: &lt;Same as username> -->
 	<string name="display_name_summary">&lt;Совпадает с именем пользователя></string>
+	<!-- Original string: Display name -->
 	<string name="display_name_title">Отображаемое имя</string>
+	<!-- Original string: SipDomain -->
 	<string name="domain_address">SipDomain</string>
+	<!-- Original string: Server -->
 	<string name="domain_address_title">Сервер</string>
+	<!-- Original string: Done -->
 	<string name="doneButton">Готово</string>
+	<!-- Original string: Dial pad touch tones -->
 	<string name="dtmf_tone_enable_title">Тон набора сенсорной панели</string>
+	<!-- Original string: Long -->
 	<string name="dtmf_tone_entries_long_miui">Долгие</string>
+	<!-- Original string: Normal -->
 	<string name="dtmf_tone_entries_normal_miui">Обычные</string>
+	<!-- Original string: Set the length of DTMF tones -->
 	<string name="dtmf_tones_summary">Настроить длительность тональных сигналов DTMF</string>
+	<!-- Original string: Set the length of DTMF tones -->
 	<string name="dtmf_tones_summary_miui">Настроить длительность тональных сигналов DTMF</string>
+	<!-- Original string: DTMF tones -->
 	<string name="dtmf_tones_title">Тональные сигналы DTMF</string>
+	<!-- Original string: DTMF tones -->
 	<string name="dtmf_tones_title_miui">Тональные сигналы DTMF</string>
+	<!-- Original string: EcmExitDialog -->
 	<string name="ecm_exit_dialog">EcmExitDialog</string>
+	<!-- Original string: Customize regional attribution, number attribution, wildcards # supported -->
 	<string name="edit_custom_location_title_miui">Настройка региональных приставок</string>
+	<!-- Original string: Edit fixed dialing number -->
 	<string name="edit_fdn_contact">Изменить номер ограниченного набора</string>
+	<!-- Original string: Emergency Dialer -->
 	<string name="emergencyDialerIconLabel">Номера экстренных вызовов</string>
+	<!-- Original string: Emergency Broadcast disabled -->
 	<string name="emergency_broadcast_disable">Оповещения о чрезвычайных ситуациях отключены</string>
+	<!-- Original string: Emergency Broadcast enabled -->
 	<string name="emergency_broadcast_enable">Оповещения о чрезвычайных ситуациях включены</string>
+	<!-- Original string: Call -->
 	<string name="emergency_call_area_code_edit_dialog_button_miui">вызов</string>
+	<!-- Original string: e.g: 112 -->
 	<string name="emergency_call_area_code_edit_dialog_hint_miui">Например: 112</string>
+	<!-- Original string: Turning on radio… -->
 	<string name="emergency_enable_radio_dialog_message">Включение радио…</string>
+	<!-- Original string: Out of service area, retrying… -->
 	<string name="emergency_enable_radio_dialog_retry">Вне зоны действия сети, повторное подключение...</string>
+	<!-- Original string: Emergency call -->
 	<string name="emergency_enable_radio_dialog_title">Экстренный вызов</string>
+	<!-- Original string: "%s is required and can't be left blank." -->
 	<string name="empty_alert">Поле \"%s\" не может быть пустым</string>
+	<!-- Original string: No networks found. -->
 	<string name="empty_networks_list">Сети не найдены</string>
+	<!-- Original string: Enable -->
 	<string name="enable">Включить</string>
+	<!-- Original string: Administrative -->
 	<string name="enable_disable_administrative">Административные функции</string>
+	<!-- Original string: Advertisements -->
 	<string name="enable_disable_advertisements">Реклама</string>
+	<!-- Original string: Area Traffic Reports -->
 	<string name="enable_disable_atr">Информация о пробках</string>
+	<!-- Original string: Cell Broadcast SMS -->
 	<string name="enable_disable_cell_bc_sms">Широковещательные SMS-службы</string>
+	<!-- Original string: Emergency Broadcast -->
 	<string name="enable_disable_emergency_broadcast">Оповещения о чрезвычайных ситуациях</string>
+	<!-- Original string: Employment Opportunities -->
 	<string name="enable_disable_eo">Вакансии</string>
+	<!-- Original string: International -->
 	<string name="enable_disable_international">Международные</string>
+	<!-- Original string: Local Airport Flight Schedules -->
 	<string name="enable_disable_lafs">Расписание рейсов местного аэропорта</string>
+	<!-- Original string: Local -->
 	<string name="enable_disable_local">Местные</string>
+	<!-- Original string: Local Weather -->
 	<string name="enable_disable_local_weather">Местный прогноз погоды</string>
+	<!-- Original string: Lodgings -->
 	<string name="enable_disable_lodgings">Аренда жилья</string>
+	<!-- Original string: Maintenance -->
 	<string name="enable_disable_maintenance">Поддержка</string>
+	<!-- Original string: Medical, Health, and Hospital -->
 	<string name="enable_disable_mhh">Медицинские учреждения и больницы</string>
+	<!-- Original string: Multi-category -->
 	<string name="enable_disable_multi_category">Подборка из нескольких категорий</string>
+	<!-- Original string: National -->
 	<string name="enable_disable_national">Национальные</string>
+	<!-- Original string: Regional -->
 	<string name="enable_disable_regional">Региональные</string>
+	<!-- Original string: Restaurants -->
 	<string name="enable_disable_restaurants">Рестораны</string>
+	<!-- Original string: Retail Directory -->
 	<string name="enable_disable_retail_directory">Торговый каталог</string>
+	<!-- Original string: Stock Quotes -->
 	<string name="enable_disable_stock_quotes">Котировки ценных бумаг</string>
+	<!-- Original string: Technology News -->
 	<string name="enable_disable_technology_news">Новости технологий</string>
+	<!-- Original string: Enable FDN -->
 	<string name="enable_fdn">Включить разрешенные номера</string>
+	<!-- Original string: Disable FDN -->
 	<string name="enable_fdn_ok">Отключить разрешенные номера</string>
+	<!-- Original string: Please wait… -->
 	<string name="enable_in_progress">Подождите...</string>
+	<!-- Original string: Enable -->
 	<string name="enable_miui">Включить</string>
+	<!-- Original string: Enable/disable SIM PIN -->
 	<string name="enable_pin">Включить/отключить запрос PIN SIM-карты</string>
+	<!-- Original string: SIM PIN enabled. -->
 	<string name="enable_pin_ok">Запрос PIN SIM-карты включен</string>
+	<!-- Original string: Enable proximity sensor to disable screen display during calls -->
 	<string name="enable_proximity_summary_miui">Использовать датчик для отключения экрана во время разговора</string>
+	<!-- Original string: Enable proximity sensor -->
 	<string name="enable_proximity_title_miui">Датчик приближения</string>
+	<!-- Original string: Enable SIM PIN -->
 	<string name="enable_sim_pin">Включить запрос PIN SIM-карты</string>
+	<!-- Original string: Enable SIM PIN -->
 	<string name="enable_sim_pin_miui">Включить запрос PIN SIM-карты</string>
+	<!-- Original string: Show location -->
 	<string name="enable_telocation_title_miui">Показать свойства для номера</string>
+	<!-- Original string: Prevent misuse of phone when not being used -->
 	<string name="enforce_proximity_summary_miui">Блокировать экран при входящем вызове, когда телефон в кармане</string>
+	<!-- Original string: Enforce proximity sensor -->
 	<string name="enforce_proximity_title_miui">Предотвращение ошибок</string>
+	<!-- Original string: PIN2 -->
 	<string name="enter_pin2_text">PIN2</string>
+	<!-- Original string: PIN2 -->
 	<string name="enter_pin2_text_miui">PIN2</string>
+	<!-- Original string: SIM PIN: -->
 	<string name="enter_pin_text">PIN SIM-карты:</string>
+	<!-- Original string: Entertainment News -->
 	<string name="entertainment_news_settings">Калейдоскоп</string>
+	<!-- Original string: Employment Opportunities disabled -->
 	<string name="eo_disable">Вакансии отключены</string>
+	<!-- Original string: Employment Opportunities enabled -->
 	<string name="eo_enable">Вакансии включены</string>
+	<!-- Original string: Call settings error -->
 	<string name="error_updating_title">Ошибка настройки вызовов</string>
+	<!-- Original string: Network or SIM card error. -->
 	<string name="exception_error">Ошибка сети или SIM-карты</string>
+	<!-- Original string: Incoming phone number -->
 	<string name="fake_phone_activity_infoText_text">Входящий телефонный номер</string>
+	<!-- Original string: (650) 555-1234 -->
 	<string name="fake_phone_activity_phoneNumber_text">+7 (123) 123-4567</string>
+	<!-- Original string: Fake Incoming Call -->
 	<string name="fake_phone_activity_placeCall_text">Поддельный входящий вызов</string>
+	<!-- Original string: Fixed Dialing Numbers -->
 	<string name="fdn">Разрешенные номера</string>
+	<!-- Original string: FDN list -->
 	<string name="fdnListLabel">Разрешенные номера</string>
+	<!-- Original string: FDN activation -->
 	<string name="fdn_activation">Активация разреш. номеров</string>
+	<!-- Original string: Change PIN for FDN access -->
 	<string name="fdn_change_pin_sum_miui">Изменить PIN-код для доступа СНО</string>
+	<!-- Original string: "Your Phone app's Fixed Dialing Numbers setting is turned on. As a result, some call-related features aren't working." -->
 	<string name="fdn_check_failure">"Your Phone app's Fixed Dialing Numbers setting is turned on. As a result, some call-related features aren't working."</string>
+	<!-- Original string: Fixed dialing number added. -->
 	<string name="fdn_contact_added">Номер ограниченного набора добавлен</string>
+	<!-- Original string: Fixed dialing number deleted. -->
 	<string name="fdn_contact_deleted">Номер ограниченного набора удален</string>
+	<!-- Original string: Fixed dialing number updated. -->
 	<string name="fdn_contact_updated">Номер ограниченного набора обновлен</string>
+	<!-- Original string: Fixed Dialing Numbers are disabled -->
 	<string name="fdn_disabled">Разрешенные номера отключены</string>
+	<!-- Original string: Fixed dialing numbers are disabled -->
 	<string name="fdn_disabled_miui">Разрешенные номера отключены</string>
+	<!-- Original string: Password incorrect. Change PIN2 and retry. -->
 	<string name="fdn_enable_puk2_requested">Неверный пароль. Измените код PIN2 и повторите попытку</string>
+	<!-- Original string: PIN2 is locked. Please change PIN2 and retry. -->
 	<string name="fdn_enable_puk2_requested_miui">Неверный пароль. Измените код PIN2 и повторите попытку</string>
+	<!-- Original string: Fixed Dialing Numbers are enabled -->
 	<string name="fdn_enabled">Разрешенные номера включены</string>
+	<!-- Original string: Fixed dialing numbers are enabled -->
 	<string name="fdn_enabled_miui">Разрешенные номера включены</string>
+	<!-- Original string: "FDN wasn't updated because the number can't exceed 20 digits." -->
 	<string name="fdn_invalid_number">Номер ограниченного набора не обновлен: он не должен содержать больше 20 цифр</string>
+	<!-- Original string: Fixed dialing numbers -->
 	<string name="fdn_miui">Разрешенные номера</string>
+	<!-- Original string: The above options are all disabled when FDN are enabled -->
 	<string name="fdn_summary_miui">Все отключается, когда FDN включен</string>
+	<!-- Original string: "Couldn't change the forwarding number.\nContact your carrier if this problem persists." -->
 	<string name="fw_change_failed">Не удалось изменить номер переадресации вызовов.\nЕсли проблема не будет решена, свяжитесь со своим оператором</string>
+	<!-- Original string: "Couldn't retrieve and save current forwarding number settings.\nSwitch to the new provider anyway?" -->
 	<string name="fw_get_in_vm_failed">Не удалось сохранить текущие настройки переадресации.\nВсе равно сменить провайдера?</string>
+	<!-- Original string: General News -->
 	<string name="general_news_settings">Основные новости</string>
+	<!-- Original string: Type PIN2 -->
 	<string name="get_pin2">Введите PIN2</string>
+	<!-- Original string: Failed to get SMS center number, please try again later. -->
 	<string name="get_smsc_address_error_miui">Не удалось запросить номер SMS-центра</string>
+	<!-- Original string: Timed out when retrieving SMS center number, please try again later. -->
 	<string name="get_smsc_address_timeout_miui">Время при получении номера SMS-центра истекло, пожалуйста, повторите попытку позже</string>
+	<!-- Original string: go private -->
 	<string name="goPrivate">приватная конференция</string>
+	<!-- Original string: Go private -->
 	<string name="go_private_miui">в приват</string>
+	<!-- Original string: GSM/UMTS Options -->
 	<string name="gsm_umts_options">Параметры GSM/UMTS</string>
+	<!-- Original string: Turn on hearing aid compatibility -->
 	<string name="hac_mode_summary">Включить слуховой аппарат</string>
+	<!-- Original string: Turn on hearing aid compatibility -->
 	<string name="hac_mode_summary_miui">Включить усиление звука</string>
+	<!-- Original string: Hearing aids -->
 	<string name="hac_mode_title">Слуховые аппараты</string>
+	<!-- Original string: Hearing aids -->
 	<string name="hac_mode_title_miui">Усиление звука</string>
+	<!-- Original string: In vain when vibration enabled for incoming call -->
 	<string name="handon_ringer_summary_miui">Если телефон взять в руки при входящем вызове, звук станет тихим</string>
+	<!-- Original string: Quiet ring on pickup -->
 	<string name="handon_ringer_title_miui">Тихий вызов в руках</string>
+	<!-- Original string: Reject via SMS -->
 	<string name="hangup_sms_miui">Отклонить с SMS</string>
+	<!-- Original string: Ignore -->
 	<string name="ignore_miui">Игнорировать</string>
+	<!-- Original string: Import all -->
 	<string name="importAllSimEntries">Импортировать все</string>
+	<!-- Original string: Import -->
 	<string name="importSimEntry">Импортировать</string>
+	<!-- Original string: Import from contacts -->
 	<string name="importToFDNfromContacts">Импортировать из контактов</string>
+	<!-- Original string: Import all contacts -->
 	<string name="import_all_sim_entries_miui">Импорт всех контактов</string>
+	<!-- Original string: Import all -->
 	<string name="import_all_sim_entry_miui">Имортировать все</string>
+	<!-- Original string: Import selected contacts -->
 	<string name="import_selected_sim_entries_miui">Импорт выбранных контактов</string>
+	<!-- Original string: Import SIM contacts completed -->
 	<string name="import_sim_entries_finish">Контакты с SIM импортированы успешно</string>
+	<!-- Original string: Import -->
 	<string name="import_sim_entry_miui">Импорт</string>
+	<!-- Original string: Importing SIM contacts -->
 	<string name="importingSimContacts">Импорт контактов с SIM-карты</string>
+	<!-- Original string: Importing SIM contacts... -->
 	<string name="importing_sim_contacts_miui">Импорт контактов с SIM-карты</string>
+	<!-- Original string: Calling -->
 	<string name="in_calling">Вызов</string>
+	<!-- Original string: Message -->
 	<string name="in_sms">Сообщение</string>
+	<!-- Original string: Internet call -->
 	<string name="incall_call_type_label_sip">Интернет-вызов</string>
+	<!-- Original string: Call not sent. -->
 	<string name="incall_error_call_failed">Вызов не осуществляется</string>
+	<!-- Original string: Not registered on network. -->
 	<string name="incall_error_emergency_only">Нет регистрации в сети</string>
+	<!-- Original string: Call not sent, no valid number entered. -->
 	<string name="incall_error_no_phone_number_supplied">Вызов не осуществляется, действительный номер телефона не указан</string>
+	<!-- Original string: Mobile network not available. -->
 	<string name="incall_error_out_of_service">Мобильная сеть недоступна</string>
+	<!-- Original string: To place a call, first turn off Airplane mode. -->
 	<string name="incall_error_power_off">Перед тем как звонить, отключите режим полета</string>
+	<!-- Original string: Unable to conference calls. -->
 	<string name="incall_error_supp_service_conference">Не удается создать конференц-вызов</string>
+	<!-- Original string: Unable to release call(s). -->
 	<string name="incall_error_supp_service_hangup">Не удается разъединить абонентов</string>
+	<!-- Original string: Unable to reject call. -->
 	<string name="incall_error_supp_service_reject">Невозможно отклонить вызов</string>
+	<!-- Original string: Unable to separate call. -->
 	<string name="incall_error_supp_service_separate">Не удалось разделить вызов</string>
+	<!-- Original string: Unable to switch calls. -->
 	<string name="incall_error_supp_service_switch">Не удается переключить вызовы</string>
+	<!-- Original string: Unable to transfer call. -->
 	<string name="incall_error_supp_service_transfer">Не удалось перевести вызов</string>
+	<!-- Original string: Unsupported service. -->
 	<string name="incall_error_supp_service_unknown">Услуга не поддерживается</string>
+	<!-- Original string: "Use lockscreen wallpaper when there's no avatar" -->
 	<string name="incall_screen_background_summary_miui">Использовать обои экрана блокировки при отсутствии фото контакта</string>
+	<!-- Original string: Call screen background -->
 	<string name="incall_screen_background_title_miui">Изображение вызова</string>
+	<!-- Original string: Starting MMI sequence… -->
 	<string name="incall_status_dialed_mmi">Запуск последовательности MMI...</string>
+	<!-- Original string: International news disabled -->
 	<string name="international_disable">Международные новости отключены</string>
+	<!-- Original string: International news enabled -->
 	<string name="international_enable">Международные новости включены</string>
+	<!-- Original string: Internet call -->
 	<string name="internet_phone">Интернет-вызов</string>
+	<!-- Original string: Type a PIN that is 4 to 8 numbers. -->
 	<string name="invalidPin">Введите PIN, содержащий от 4 до 8 цифр</string>
+	<!-- Original string: Type a PIN2 that is 4 to 8 numbers. -->
 	<string name="invalidPin2">Введите PIN2, содержащий от 4 до 8 цифр.</string>
+	<!-- Original string: Type a PUK2 that is 8 numbers. -->
 	<string name="invalidPuk2">Введите 8-значный код PUK2</string>
+	<!-- Original string: Invalid new PIN2. Please type a PIN2 that is 4 to 8 numbers. -->
 	<string name="invalid_new_pin2_miui">Новый PIN2 введен неверно, пожалуйста, введите новый PIN2 из 4~8 цифр</string>
+	<!-- Original string: Invalid new PIN. Please type a PIN that is 4 to 8 numbers. -->
 	<string name="invalid_new_pin_miui">Новый PIN введен неверно, пожалуйста, введите новый PIN2 от 4~8 цифр</string>
+	<!-- Original string: Invalid PIN2. Please type a PIN2 that is 4 to 8 numbers. -->
 	<string name="invalid_pin2_miui">Недопустимые PIN2, пожалуйста, введите код PIN2, состоящий из 4~8 цифр</string>
+	<!-- Original string: Invalid PIN. Please type a PIN that is 4 to 8 numbers. -->
 	<string name="invalid_pin_miui">Неверный PIN-код, пожалуйста, введите PIN-код, содержащий от 4 до 8 цифр</string>
+	<!-- Original string: Invalid PUK2. Please type a PUK2 that is 8 numbers. -->
 	<string name="invalid_puk2_miui">Недопустимый PUK2, пожалуйста, введите PUK2, состоящий из 8 цифр</string>
+	<!-- Original string: Invalid PUK. Please type a PUK that is 8 numbers. -->
 	<string name="invalid_puk_miui">Недопустимый PUK, пожалуйста, введите PUK2, состоящий из 8 цифр</string>
+	<!-- Original string: IP prefix -->
 	<string name="ip_prefix_miui">Авто-префикс</string>
+	<!-- Original string: IP prefix is required -->
 	<string name="ip_prefix_required_miui">Вводить свой префикс номера IP</string>
+	<!-- Original string: "Carrier's IP prefix: %s" -->
 	<string name="ip_prefix_sum_miui">Префикс оператора: %s</string>
+	<!-- Original string: %s only supports numbers and wildcards -->
 	<string name="jituan_number_format_error_message_miui">%s поддерживает только цифры и символы</string>
+	<!-- Original string: CDMA call settings -->
 	<string name="labelCDMAMore">Настройки вызовов CDMA</string>
+	<!-- Original string: Call forwarding -->
 	<string name="labelCF">Переадресация вызова</string>
+	<!-- Original string: Forward when busy -->
 	<string name="labelCFB">Если занято</string>
+	<!-- Original string: Forward when unreachable -->
 	<string name="labelCFNRc">Если недоступен</string>
+	<!-- Original string: Forward when unanswered -->
 	<string name="labelCFNRy">При отсутствии ответа</string>
+	<!-- Original string: Always forward -->
 	<string name="labelCFU">Всегда на номер</string>
+	<!-- Original string: Call waiting -->
 	<string name="labelCW">Удержание вызова</string>
+	<!-- Original string: Caller ID -->
 	<string name="labelCallerId">Показ номера</string>
+	<!-- Original string: GSM call settings -->
 	<string name="labelGSMMore">Настройки вызовов GSM</string>
+	<!-- Original string: Network service settings -->
 	<string name="labelNwService">Настройки сетевой службы</string>
+	<!-- Original string: Available networks -->
 	<string name="label_available">Доступные сети</string>
+	<!-- Original string: SIM network unlock PIN -->
 	<string name="label_ndp">PIN для разблокировки сети SIM-карты</string>
+	<!-- Original string: Type PUK2 code -->
 	<string name="label_puk2_code">Введите код PUK2</string>
+	<!-- Original string: Type PUK2 code -->
 	<string name="label_puk2_code_miui">Введите PUK2-код</string>
+	<!-- Original string: Input PUK code -->
 	<string name="label_puk_code_miui">Введите PUK-код</string>
+	<!-- Original string: UIM corporate unlock PIN -->
 	<string name="label_rcdp">RUIM corporate unlock PIN</string>
+	<!-- Original string: UIM UIM unlock PIN -->
 	<string name="label_rdp">RUIM RUIM unlock PIN</string>
+	<!-- Original string: UIM hrpd unlock PIN -->
 	<string name="label_rhrpd">RUIM hrpd unlock PIN</string>
+	<!-- Original string: UIM network1 unlock PIN -->
 	<string name="label_rn1dp">RUIM network1 unlock PIN</string>
+	<!-- Original string: UIM network2 unlock PIN -->
 	<string name="label_rn2dp">RUIM network2 unlock PIN</string>
+	<!-- Original string: UIM service provider unlock PIN -->
 	<string name="label_rspdp">RUIM service provider unlock PIN</string>
+	<!-- Original string: Local Airport Flight Schedules disabled -->
 	<string name="lafs_disable">Расписание рейсов местного аэропорта отключено</string>
+	<!-- Original string: Local Airport Flight Schedules enabled -->
 	<string name="lafs_enable">Расписание рейсов местного аэропорта включено</string>
+	<!-- Original string: Languages -->
 	<string name="list_language_dtitle">Языки</string>
+	<!-- Original string: Select the news language -->
 	<string name="list_language_summary">Выбрать язык для новостей</string>
+	<!-- Original string: Language -->
 	<string name="list_language_title">Язык</string>
+	<!-- Original string: Searching… -->
 	<string name="load_networks_progress">Поиск…</string>
+	<!-- Original string: Local news disabled -->
 	<string name="local_disable">Местные новости отключены</string>
+	<!-- Original string: Local news enabled -->
 	<string name="local_enable">Местные новости включены</string>
+	<!-- Original string: Local Weather disabled -->
 	<string name="local_weather_disable">Местный прогноз погоды отключен</string>
+	<!-- Original string: Local Weather enabled -->
 	<string name="local_weather_enable">Местный прогноз погоды включен</string>
+	<!-- Original string: Lodgings disabled -->
 	<string name="lodgings_disable">Аренда жилья отключена</string>
+	<!-- Original string: Lodgings enabled -->
 	<string name="lodgings_enable">Аренда жилья включена</string>
+	<!-- Original string: Maintenance disabled -->
 	<string name="maintenance_disable">Поддержка отключена</string>
+	<!-- Original string: Maintenance enabled -->
 	<string name="maintenance_enable">Поддержка включена</string>
+	<!-- Original string: Manage conference call -->
 	<string name="manageConferenceLabel">Управление конференц-связью</string>
+	<!-- Original string: FDN list -->
 	<string name="manage_fdn_list">Разрешенные номера</string>
+	<!-- Original string: FDN list -->
 	<string name="manage_fdn_list_miui">Разрешенные номера</string>
+	<!-- Original string: Manage phone number list -->
 	<string name="manage_fdn_list_sum_miui">Управление списком номеров</string>
+	<!-- Original string: Add contact -->
 	<string name="menu_add">Добавить контакт</string>
+	<!-- Original string: Delete contact -->
 	<string name="menu_delete">Удалить контакт</string>
+	<!-- Original string: Deselect All -->
 	<string name="menu_deselect_all">Удалить все</string>
+	<!-- Original string: Edit contact -->
 	<string name="menu_edit">Изменить контакт</string>
+	<!-- Original string: Select all -->
 	<string name="menu_select_all">Выбрать все</string>
+	<!-- Original string: %d selected -->
 	<string name="menu_select_title">%d selected</string>
+	<!-- Original string: Number when busy -->
 	<string name="messageCFB">Номер, использующийся, когда линия занята</string>
+	<!-- Original string: Number when unreachable -->
 	<string name="messageCFNRc">Номер для переадресации, если абонент недоступен</string>
+	<!-- Original string: Number when unanswered -->
 	<string name="messageCFNRy">Номер для переадресации при отсутствии ответа</string>
+	<!-- Original string: Always use this number -->
 	<string name="messageCFU">Всегда переадресовывать вызов на этот номер</string>
+	<!-- Original string: Medical, Health, and Hospital disabled -->
 	<string name="mhh_disable">Медицинские учреждения и больницы отключены</string>
+	<!-- Original string: Medical, Health, and Hospital enabled -->
 	<string name="mhh_enable">Медицинские учреждения и больницы включены</string>
+	<!-- Original string: "The PINs you typed don't match. Try again." -->
 	<string name="mismatchPin">Введенные коды PIN не совпадают. Повторите попытку.</string>
+	<!-- Original string: "The PIN2s you typed don't match. Try again." -->
 	<string name="mismatchPin2">Введенные коды PIN2 не совпадают. Повторите попытку.</string>
+	<!-- Original string: The PIN2s entered do not match. Please try again. -->
 	<string name="mismatch_pin2_miui">PIN2 не совпадают. Пожалуйста, попробуйте еще раз.</string>
+	<!-- Original string: The PINs entered do not match. Please try again. -->
 	<string name="mismatch_pin_miui">Введенные PIN-коды не совпадают. Пожалуйста, попробуйте еще раз.</string>
+	<!-- Original string: Five times -->
 	<string name="missed_call_notify_five_times_miui">5 раз</string>
+	<!-- Original string: No reminder -->
 	<string name="missed_call_notify_none_miui">Не напоминать</string>
+	<!-- Original string: Once -->
 	<string name="missed_call_notify_once_miui">1 раз</string>
+	<!-- Original string: Ten times -->
 	<string name="missed_call_notify_ten_times_miui">10 раз</string>
+	<!-- Original string: Three times -->
 	<string name="missed_call_notify_thrice_miui">3 раза</string>
+	<!-- Original string: Repeats reminders every 5 minutes by default. Select number of reminders. -->
 	<string name="missed_call_notify_times_summary_miui">Количество напоминаний о пропущенном вызове</string>
+	<!-- Original string: Missed call reminder -->
 	<string name="missed_call_notify_times_title_miui">Количество напоминаний</string>
+	<!-- Original string: Twice -->
 	<string name="missed_call_notify_twice_miui">2 раза</string>
+	<!-- Original string: MMI code canceled -->
 	<string name="mmiCancelled">Код MMI отменен</string>
+	<!-- Original string: MMI code started -->
 	<string name="mmiStarted">Код MMI запущен</string>
+	<!-- Original string: Mobile network settings -->
 	<string name="mobile_networks">Настройки сотовой сети</string>
+	<!-- Original string: Mobile network settings -->
 	<string name="mobile_networks_miui">Мобильная сеть</string>
+	<!-- Original string: Multi-category disabled -->
 	<string name="multi_category_disable">Подборка из нескольких категорий отключена</string>
+	<!-- Original string: Multi-category enabled -->
 	<string name="multi_category_enable">Подборка из нескольких категорий включена</string>
+	<!-- Original string: Name -->
 	<string name="name">Имя</string>
+	<!-- Original string: National news disabled -->
 	<string name="national_disable">Национальные новости отключены</string>
+	<!-- Original string: National news enabled -->
 	<string name="national_enable">Национальные новости включены</string>
+	<!-- Original string: Network message -->
 	<string name="network_message">Сообщение сети</string>
+	<!-- Original string: Error while searching for networks. -->
 	<string name="network_query_error">Ошибка поиска сетей</string>
+	<!-- Original string: "Network query failed, press 'cancel' to select preferred network automatically or press 'ok' to retry" -->
 	<string name="network_work_query_failed_message_miui">"Ошибка запроса, нажмите 'Отмена', для выбора предпочтительной сети автоматически или нажмите «ОК» для повтора"</string>
+	<!-- Original string: Network operators -->
 	<string name="networks">Операторы связи</string>
+	<!-- Original string: Network operators -->
 	<string name="networks_title_miui">Операторы</string>
+	<!-- Original string: New PIN2 -->
 	<string name="newPin2Label">Новый PIN2</string>
+	<!-- Original string: New PIN -->
 	<string name="newPinLabel">Новый PIN</string>
+	<!-- Original string: New PIN2 -->
 	<string name="new_pin2_hint_miui">Новый PIN2</string>
+	<!-- Original string: New PIN -->
 	<string name="new_pin_hint_miui">Новый PIN-код</string>
+	<!-- Original string: Next -->
 	<string name="next_miui">Далее</string>
+	<!-- Original string: No changes were made. -->
 	<string name="no_change">Номер не изменен</string>
+	<!-- Original string: To place an Internet call, check your Internet connection first. -->
 	<string name="no_internet_available">Перед звонком через Интернет проверьте подключение</string>
+	<!-- Original string: No Internet connection -->
 	<string name="no_internet_available_title">Подключение к Интернету отсутствует</string>
+	<!-- Original string: There are no Internet calling accounts on this phone. Do you want to add one now? -->
 	<string name="no_sip_account_found">Нет аккаунтов для интернет-вызовов. Создать аккаунт?</string>
+	<!-- Original string: No Internet calling account -->
 	<string name="no_sip_account_found_title">Нет аккаунтов для интернет-вызовов</string>
+	<!-- Original string: Missing voicemail number -->
 	<string name="no_vm_number">Не указан номер голосовой почты</string>
+	<!-- Original string: No voicemail number is stored on the SIM card. -->
 	<string name="no_vm_number_msg">На SIM-карте нет ни одного номера голосовой почты</string>
+	<!-- Original string: Internet calling not supported -->
 	<string name="no_voip">Интернет-вызов не поддерживается</string>
+	<!-- Original string: You need to be connected to a Wi-Fi network for Internet calls (use the Wireless &amp; Network settings). -->
 	<string name="no_wifi_available">Для совершения интернет-вызовов необходимо подключение к сети Wi-Fi (используйте настройки беспроводной сети)</string>
+	<!-- Original string: No Wi-Fi connection -->
 	<string name="no_wifi_available_title">Отсутствует подключение Wi-Fi</string>
+	<!-- Original string: Port number should be within 1000 and 65534. -->
 	<string name="not_a_valid_port">Номер порта должен быть от 1000 до 65534</string>
+	<!-- Original string: "Your SIM card doesn't allow a connection to this network." -->
 	<string name="not_allowed">Установленная SIM-карта не может подключиться к этой сети</string>
+	<!-- Original string: Not connected -->
 	<string name="not_connected_miui">Не подключено</string>
+	<!-- Original string: Voice calling not supported -->
 	<string name="not_voice_capable">Голосовые вызовы не поддерживаются</string>
+	<!-- Original string: Hang up -->
 	<string name="notification_action_end_call">Завершить вызов</string>
+	<!-- Original string: Incoming call -->
 	<string name="notification_incoming_call">Входящий вызов</string>
+	<!-- Original string: Missed call from %s -->
 	<string name="notification_missedCallTicker">Пропущенные вызовы от абонента %s</string>
+	<!-- Original string: Missed call -->
 	<string name="notification_missedCallTitle">Пропущенный вызов</string>
+	<!-- Original string: Call back -->
 	<string name="notification_missedCall_call_back">Перезвонить</string>
+	<!-- Original string: Message -->
 	<string name="notification_missedCall_message">Сообщение</string>
+	<!-- Original string: %s missed calls -->
 	<string name="notification_missedCallsMsg">Пропущенных вызовов: %s</string>
+	<!-- Original string: Missed calls -->
 	<string name="notification_missedCallsTitle">Пропущенные вызовы</string>
+	<!-- Original string: Selected network (%s) unavailable -->
 	<string name="notification_network_selection_text">Выбранная сеть (%s) недоступна</string>
+	<!-- Original string: No service -->
 	<string name="notification_network_selection_title">Сеть не найдена</string>
+	<!-- Original string: On hold -->
 	<string name="notification_on_hold">На удержании</string>
+	<!-- Original string: Ongoing call -->
 	<string name="notification_ongoing_call">Текущий вызов</string>
+	<!-- Original string: Calling -->
 	<string name="notification_ongoing_calling_format_miui">Вызов</string>
+	<!-- Original string: Voicemail number unknown -->
 	<string name="notification_voicemail_no_vm_number">Номер голосовой почты неизвестен</string>
+	<!-- Original string: Dial %s -->
 	<string name="notification_voicemail_text_format">Набор %s</string>
+	<!-- Original string: New voicemail -->
 	<string name="notification_voicemail_title">Новое сообщение голосовой почты</string>
+	<!-- Original string: New voicemail (%d) -->
 	<string name="notification_voicemail_title_count">Новое сообщение голосовой почты (%d)</string>
+	<!-- Original string: Number -->
 	<string name="number">Номер</string>
+	<!-- Original string: %s Only supports numbers -->
 	<string name="number_format_error_message_miui">%s поддерживает только номера</string>
+	<!-- Original string: Group number -->
 	<string name="number_type_jituan_miui">Номер группы</string>
+	<!-- Original string: Number type -->
 	<string name="number_type_miui">Тип номера</string>
+	<!-- Original string: Mobile phone -->
 	<string name="number_type_mob_miui">Мобильный телефон</string>
+	<!-- Original string: Landline -->
 	<string name="number_type_tel_miui">Стационарный</string>
+	<!-- Original string: OK -->
 	<string name="ok">ОК</string>
+	<!-- Original string: Old PIN2 -->
 	<string name="oldPin2Label">Прежний PIN2</string>
+	<!-- Original string: Old PIN -->
 	<string name="oldPinLabel">Прежний PIN</string>
+	<!-- Original string: Current PIN2 -->
 	<string name="old_pin2_hint_miui">Введите PIN2</string>
+	<!-- Original string: Current PIN -->
 	<string name="old_pin_hint_miui">Текущий PIN-код</string>
+	<!-- Original string: On hold -->
 	<string name="onHold">Ждет ответа</string>
+	<!-- Original string: Add call -->
 	<string name="onscreenAddCallText">+ вызов</string>
+	<!-- Original string: Audio -->
 	<string name="onscreenAudioText">Аудио</string>
+	<!-- Original string: End -->
 	<string name="onscreenEndCallText">Завершить</string>
+	<!-- Original string: Hold -->
 	<string name="onscreenHoldText">Удерживать</string>
+	<!-- Original string: Manage calls -->
 	<string name="onscreenManageCallsText">Управление вызовами</string>
+	<!-- Original string: Manage conference -->
 	<string name="onscreenManageConferenceText">Управление конференцией</string>
+	<!-- Original string: Merge calls -->
 	<string name="onscreenMergeCallsText">Соединить</string>
+	<!-- Original string: Mute -->
 	<string name="onscreenMuteText">Откл. звук</string>
+	<!-- Original string: Dialpad -->
 	<string name="onscreenShowDialpadText">Кнопки</string>
+	<!-- Original string: Swap -->
 	<string name="onscreenSwapCallsText">Перевод звонка</string>
+	<!-- Original string: Add call -->
 	<string name="onscreen_add_call_text_miui">Контакт</string>
+	<!-- Original string: Bluetooth -->
 	<string name="onscreen_audio_mode_bluetooth_miui">Bluetooth-гарнитура</string>
+	<!-- Original string: Handsfree -->
 	<string name="onscreen_audio_mode_handset_miui">Динамик телефона</string>
+	<!-- Original string: Headphones -->
 	<string name="onscreen_audio_mode_headset_miui">Наушники</string>
+	<!-- Original string: Answer using -->
 	<string name="onscreen_audio_mode_miui">Ответ используя</string>
+	<!-- Original string: Loudspeaker -->
 	<string name="onscreen_audio_mode_speaker_miui">Громкая связь</string>
+	<!-- Original string: Record -->
 	<string name="onscreen_call_record_miui">Запись</string>
+	<!-- Original string: Keyboard -->
 	<string name="onscreen_dialer_miui">Клавиатура</string>
+	<!-- Original string: End -->
 	<string name="onscreen_end_call_text_miui">Завершить</string>
+	<!-- Original string: Hold -->
 	<string name="onscreen_hold_text_miui">Удерживать</string>
+	<!-- Original string: Manage calls -->
 	<string name="onscreen_manage_calls_text_miui">Управление вызовами</string>
+	<!-- Original string: Merge calls -->
 	<string name="onscreen_merge_calls_text_miui">Соединить</string>
+	<!-- Original string: Mute -->
 	<string name="onscreen_mute_text_miui">Без звука</string>
+	<!-- Original string: Note -->
 	<string name="onscreen_note_text_miui">Заметка</string>
+	<!-- Original string: Flash -->
 	<string name="onscreen_send_flash_text_miui">Вспышка</string>
+	<!-- Original string: Speaker -->
 	<string name="onscreen_speaker_text_miui">Динамик</string>
+	<!-- Original string: Swap -->
 	<string name="onscreen_swap_calls_text_miui">Переключится</string>
+	<!-- Original string: Tools -->
 	<string name="onscreen_tools_off_miui">Еще</string>
+	<!-- Original string: Tools -->
 	<string name="onscreen_tools_on_miui">Еще</string>
+	<!-- Original string: &lt;Optional> -->
 	<string name="optional_summary">&lt;Необязательно></string>
+	<!-- Original string: Activate -->
 	<string name="ota_activate">Активировать</string>
+	<!-- Original string: Back -->
 	<string name="ota_call_end">Назад</string>
+	<!-- Original string: Programming unsuccessful -->
 	<string name="ota_failure">Сбой при программировании</string>
+	<!-- Original string: Follow the spoken instructions until you hear that activation is complete. -->
 	<string name="ota_listen">Следуйте голосовым инструкциям, пока вам не сообщат, что активация завершена</string>
+	<!-- Original string: Next -->
 	<string name="ota_next">Далее</string>
+	<!-- Original string: Wait while your phone is being programmed. -->
 	<string name="ota_progress">Дождитесь завершения программирования телефона</string>
+	<!-- Original string: "If you skip activation, you can't place calls or connect to mobile data networks (though you can connect to Wi-Fi networks). Until you activate your phone, you are asked to activate it each time you turn it on." -->
 	<string name="ota_skip_activation_dialog_message">Если вы пропустите активацию, вы не сможете совершать вызовы и подключаться к мобильным сетям передачи данных (хотя вы сможете подключаться к сетям Wi-Fi). Пока вы не активируете свой телефон, запрос активации будет отображаться при каждом его включении</string>
+	<!-- Original string: Skip -->
 	<string name="ota_skip_activation_dialog_skip_label">Пропустить</string>
+	<!-- Original string: Skip activation? -->
 	<string name="ota_skip_activation_dialog_title">Пропустить активацию?</string>
+	<!-- Original string: EXCESS SPC FAILURES -->
 	<string name="ota_spc_failure">ПРЕВЫШЕНИЕ ЧИСЛА ОШИБОК SPC</string>
+	<!-- Original string: Speaker -->
 	<string name="ota_speaker">Динамик</string>
+	<!-- Original string: Your phone is now activated. It may take up to 15 minutes for service to start. -->
 	<string name="ota_successful">Ваш телефон активирован. Включение службы может занять до 15 минут</string>
+	<!-- Original string: Activate your phone -->
 	<string name="ota_title_activate">Активировать телефон</string>
+	<!-- Original string: Phone is activated. -->
 	<string name="ota_title_activate_success">Телефон активирован!</string>
+	<!-- Original string: Problem with activation -->
 	<string name="ota_title_problem_with_activation">Неполадки при активации</string>
+	<!-- Original string: A special call needs to be made to activate your phone service. \n\nAfter pressing “Activate”, listen to the instructions provided to activate your phone. -->
 	<string name="ota_touch_activate">Необходим специальный звонок для активации службы телефона. \n\nПосле нажатия кнопки \"Активировать\" прослушайте инструкции по активации телефона</string>
+	<!-- Original string: Try again -->
 	<string name="ota_try_again">Повторите попытку</string>
+	<!-- Original string: "Your phone didn't activate. \nYou may need to find an area with better coverage (near a window, or outside). \n\nTry again or call customer service for more options." -->
 	<string name="ota_unsuccessful">Телефон не был активирован. \nВозможно, вам следует найти зону с более высоким уровнем сигнала (у окна или на улице). \n\nПовторите попытку или свяжитесь со службой поддержки</string>
+	<!-- Original string: Other call settings -->
 	<string name="other_settings">Другие настройки вызовов</string>
+	<!-- Original string: Others -->
 	<string name="other_settings_miui">Другие настройки вызовов</string>
+	<!-- Original string: Password -->
 	<string name="password">Password</string>
+	<!-- Original string: Password -->
 	<string name="password_title">Пароль</string>
+	<!-- Original string: No -->
 	<string name="pause_prompt_no">Нет</string>
+	<!-- Original string: Sending tones\n -->
 	<string name="pause_prompt_str">Отправка тональных сигналов\n</string>
+	<!-- Original string: Yes -->
 	<string name="pause_prompt_yes">Да</string>
+	<!-- Original string: Pay phone -->
 	<string name="payphone">Телефон-автомат</string>
+	<!-- Original string: Phone -->
 	<string name="phoneAppLabel">Телефон</string>
+	<!-- Original string: Phone -->
 	<string name="phoneIconLabel">Телефон</string>
+	<!-- Original string: Entered Emergency Callback Mode -->
 	<string name="phone_entered_ecm_text">Телефон переведен в режим экстренных обратных вызовов</string>
+	<!-- Original string: Data connection disabled -->
 	<string name="phone_in_ecm_call_notification_text">Передача данных отключена</string>
+	<!-- Original string: Emergency Callback Mode -->
 	<string name="phone_in_ecm_notification_title">Режим экстренных обратных вызовов</string>
+	<!-- Original string: Place call -->
 	<string name="pick_outgoing_call_phone_type">Исходящий вызов</string>
+	<!-- Original string: Use Internet calling account: -->
 	<string name="pick_outgoing_sip_phone">Аккаунт для интернет-вызовов:</string>
+	<!-- Original string: PIN2 changed successfully. -->
 	<string name="pin2_changed">PIN2 успешно изменен</string>
+	<!-- Original string: PIN2 changed successfully -->
 	<string name="pin2_changed_miui">PIN2 успешно изменен</string>
+	<!-- Original string: "FDN wasn't updated because you typed an incorrect PIN." -->
 	<string name="pin2_invalid">Номер ограниченного набора не обновлен: вы ввели неверный PIN-код</string>
+	<!-- Original string: FDN not updated: you entered an incorrect PIN or name is too long. -->
 	<string name="pin2_invalid_or_name_is_too_long">FDN не обновлен: ​​Вы ввели неверный ПИН-код или слишком длинное имя</string>
+	<!-- Original string: \nPlease notice that PIN2 related functionality will be locked after one more failed attempt! -->
 	<string name="pin2_lock_warning_miui">\nФункционал, касающийся PIN2, будет заблокирован при неудачной попытке!</string>
+	<!-- Original string: Incorrect PIN2, and PIN2 related functionality is locked. Please reset PIN2 by PUK2. -->
 	<string name="pin2_locked_message_miui">Неверный PIN2, функционал, касающийся PIN2, заблокирован. Сбросьте PIN2 введя PUK2</string>
+	<!-- Original string: "FDN wasn't updated. The PIN2 was incorrect, or the phone number was rejected." -->
 	<string name="pin2_or_fdn_invalid">"FDN wasn't updated. The PIN2 was incorrect, or the phone number was rejected."</string>
+	<!-- Original string: You have %d attempts left -->
 	<string name="pin_attempts_miui">Осталось %d попыток</string>
+	<!-- Original string: SIM PIN changed successfully. -->
 	<string name="pin_changed">PIN SIM-карты успешно изменен</string>
+	<!-- Original string: SIM PIN changed successfully -->
 	<string name="pin_changed_miui">PIN SIM-карты успешно изменен</string>
+	<!-- Original string: The PIN you typed was incorrect. -->
 	<string name="pin_failed">Введен неверный PIN</string>
+	<!-- Original string: \nPlease note, phone will be locked if failed again! -->
 	<string name="pin_lock_warning_miui">\nТелефон будет заблокирован при неудачной попытке!</string>
+	<!-- Original string: Changing PIN2… -->
 	<string name="pin_progress_change_pin2_miui">Изменение PIN2...</string>
+	<!-- Original string: Changing PIN… -->
 	<string name="pin_progress_change_pin_miui">Изменение PIN-кода...</string>
+	<!-- Original string: Setting FDN lock state… -->
 	<string name="pin_progress_set_fdn_lock_miui">Настройка FDN состояния блокировки...</string>
+	<!-- Original string: Setting icc lock state… -->
 	<string name="pin_progress_set_icc_lock_miui">Настройка МТП состояния блокировки...</string>
+	<!-- Original string: Unlocking SIM card… -->
 	<string name="pin_progress_unlock_icc_miui">Разблокирование SIM-карты...</string>
+	<!-- Original string: Port -->
 	<string name="port">Порт</string>
+	<!-- Original string: Port number -->
 	<string name="port_title">Номер порта</string>
+	<!-- Original string: Customize regional attribution and number attribution -->
 	<string name="pref_custom_location_summary_miui">Настройка региональных приставок и количество приставок</string>
+	<!-- Original string: Customize attribution -->
 	<string name="pref_custom_location_title_miui">Настройка приставок</string>
+	<!-- Original string: Use only 2G networks -->
 	<string name="prefer_2g">Только 2G</string>
+	<!-- Original string: Saves battery -->
 	<string name="prefer_2g_summary">Использовать сети 2G для экономии заряда батареи</string>
+	<!-- Original string: Ringtone -->
 	<string name="preference_category_ringtone">Рингтон</string>
+	<!-- Original string: Preferred network mode: CDMA / EvDo -->
 	<string name="preferred_network_mode_cdma_evdo_summary">Предпочтительная сеть: CDMA/EvDo</string>
+	<!-- Original string: Preferred network mode: CDMA only -->
 	<string name="preferred_network_mode_cdma_only_summary">Предпочтительная сеть: только CDMA</string>
+	<!-- Original string: Preferred network mode: CDMA -->
 	<string name="preferred_network_mode_cdma_summary">Предпочтительная сеть: CDMA</string>
+	<!-- Original string: Preferred network mode -->
 	<string name="preferred_network_mode_dialogtitle">Режим предпочтительной сети</string>
+	<!-- Original string: Preferred network mode: EvDo only -->
 	<string name="preferred_network_mode_evdo_only_summary">Предпочтительная сеть: только EvDo</string>
+	<!-- Original string: Preferred network mode: GSM only -->
 	<string name="preferred_network_mode_gsm_only_summary">Предпочтительная сеть: только GSM</string>
+	<!-- Original string: Preferred network mode: GSM / WCDMA -->
 	<string name="preferred_network_mode_gsm_wcdma_summary">Предпочтительная сеть: GSM или WCDMA</string>
+	<!-- Original string: Preferred network mode: LTE / CDMA -->
 	<string name="preferred_network_mode_lte_cdma_summary">Предпочтительная сеть: LTE или CDMA</string>
+	<!-- Original string: Change the network operating mode -->
 	<string name="preferred_network_mode_summary">Изменить режим работы сети</string>
+	<!-- Original string: Network Mode -->
 	<string name="preferred_network_mode_title">Режим сети</string>
+	<!-- Original string: Preferred network mode: WCDMA only -->
 	<string name="preferred_network_mode_wcdma_only_summary">Предпочтительная сеть: только WCDMA</string>
+	<!-- Original string: Preferred network mode: WCDMA preferred -->
 	<string name="preferred_network_mode_wcdma_perf_summary">Предпочтительная сеть: WCDMA</string>
+	<!-- Original string: You selected 3G only as preferred network type, so there will be no signal if your SIM card has no 3G functionality!\nClick OK to continue. -->
 	<string name="preferred_network_type_3g_only_warning_miui">Вы выбрали 3G как предпочтительный режим, сигнала может не быть, если ваша SIM-карта не поддерживает 3G! Нажмите OK для продолжения.</string>
+	<!-- Original string: CDMA -->
 	<string name="preferred_network_type_cdma_miui">CDMA</string>
+	<!-- Original string: GSM/WCDMA -->
 	<string name="preferred_network_type_gsm_umts_miui">GSM/WCDMA</string>
+	<!-- Original string: 3G Preferred -->
 	<string name="preferred_network_type_pref_entries_3g_preferred_miui">Предпочтительно 3G</string>
+	<!-- Original string: Automatic -->
 	<string name="preferred_network_type_pref_entries_auto_miui">Автоматически</string>
+	<!-- Original string: Global -->
 	<string name="preferred_network_type_pref_entries_global_miui">Глобально</string>
+	<!-- Original string: Only 2G (power-saving) -->
 	<string name="preferred_network_type_pref_entries_only_2g_miui">Только 2G</string>
+	<!-- Original string: Only 3G -->
 	<string name="preferred_network_type_pref_entries_only_3g_miui">Только 3G</string>
+	<!-- Original string: Network type selection -->
 	<string name="preferred_network_type_title_miui">Тип сети</string>
+	<!-- Original string: Primary account. %s -->
 	<string name="primary_account_summary_with">Основной аккаунт. %s</string>
+	<!-- Original string: Private number -->
 	<string name="private_num">Скрытый номер</string>
+	<!-- Original string: Exiting Emergency Callback mode -->
 	<string name="progress_dialog_exiting_ecm">Выход из режима экстренных обратных вызовов</string>
+	<!-- Original string: ProxyAddress -->
 	<string name="proxy_address">ProxyAddress</string>
+	<!-- Original string: Outbound proxy address -->
 	<string name="proxy_address_title">Адрес прокси-сервера</string>
+	<!-- Original string: Cell phone call -->
 	<string name="pstn_phone">Вызов по сотовой сети</string>
+	<!-- Original string: Password incorrect, SIM is locked. PUK2 requested. -->
 	<string name="puk2_requested">Неверный пароль, SIM-карта заблокирована! Введите код PUK2</string>
+	<!-- Original string: \nPlease notice that SIM card will be trashed if failed again! -->
 	<string name="puk_lock_warning_miui">\nSIM-карта будет заблокирована навсегда при неудачной попытке!</string>
+	<!-- Original string: Password incorrect, SIM is locked! PUK2 requested. -->
 	<string name="puk_requested">Неверный пароль, SIM-карта заблокирована! Введите код PUK2</string>
+	<!-- Original string: Your SIM card has been unblocked. Your phone is unlocking… -->
 	<string name="puk_unlocked">SIM-карта разблокирована. Осуществляется разблокировка телефона...</string>
+	<!-- Original string: Turn on the radio before viewing these settings. -->
 	<string name="radio_off_error">Чтобы увидеть эти настройки, нужно включить радио</string>
+	<!-- Original string: RUIM Corporate unlock request unsuccessful. -->
 	<string name="rc_unlock_failed">RUIM Corporate unlock request unsuccessful.</string>
+	<!-- Original string: Reading SIM card information (may take a minute)… -->
 	<string name="readingSimContacts">SIM card information is being read. This operation may take a minute, please be patient.</string>
+	<!-- Original string: Reading settings… -->
 	<string name="reading_settings">Чтение настроек…</string>
+	<!-- Original string: Regional news disabled -->
 	<string name="regional_disable">Региональные новости отключены</string>
+	<!-- Original string: Regional news enabled -->
 	<string name="regional_enable">Региональные новости включены</string>
+	<!-- Original string: Automatic registration… -->
 	<string name="register_automatically">Автоматическая регистрация...</string>
+	<!-- Original string: "Can't register to the network you selected, would you like to select preferred network automatically?" -->
 	<string name="register_network_failed_message_miui">Невозможно зарегистрироваться в выбранной сети, вы хотите выбирать предпочитаемую сеть автоматически?</string>
+	<!-- Original string: Service not available -->
 	<string name="register_network_failed_title_miui">Служба недоступна</string>
+	<!-- Original string: Registering on %s… -->
 	<string name="register_on_network">Регистрация в сети %s…</string>
+	<!-- Original string: Registered on network. -->
 	<string name="registration_done">Регистрация в сети завершена</string>
+	<!-- Original string: Checking status... -->
 	<string name="registration_status_checking_status">Проверка состояния...</string>
+	<!-- Original string: Receiving calls. -->
 	<string name="registration_status_done">Вызовы принимаются</string>
+	<!-- Original string: Account registration unsuccessful: (%s); will try later -->
 	<string name="registration_status_failed_try_later">Не удалось зарегистрировать аккаунт (%s). Новая попытка будет предпринята позже</string>
+	<!-- Original string: Account registration unsuccessful: Incorrect username or password. -->
 	<string name="registration_status_invalid_credentials">Не удалось зарегистрировать аккаунт. Неверное имя пользователя или пароль</string>
+	<!-- Original string: Account registration stopped because there is no Internet connection. -->
 	<string name="registration_status_no_data">Регистрация аккаунта прервана – отсутствует подключение к Интернету</string>
+	<!-- Original string: Account registration stopped because there is no Wi-Fi connection. -->
 	<string name="registration_status_no_wifi_data">Регистрация прервана – отсутствует подключение Wi-Fi</string>
+	<!-- Original string: Not receiving calls. -->
 	<string name="registration_status_not_receiving">Вызовы не принимаются</string>
+	<!-- Original string: Account registration unsuccessful. -->
 	<string name="registration_status_not_running">Не удалось зарегистрировать аккаунт</string>
+	<!-- Original string: Registering… -->
 	<string name="registration_status_registering">Регистрация...</string>
+	<!-- Original string: Account registration unsuccessful: Check the server name. -->
 	<string name="registration_status_server_unreachable">Не удалось зарегистрировать аккаунт. Неверное имя сервера</string>
+	<!-- Original string: Still trying… -->
 	<string name="registration_status_still_trying">Пожалуйста, подождите...</string>
+	<!-- Original string: Reject via sms -->
 	<string name="reject_via_sms_miui">Отклонить с сообщением</string>
+	<!-- Original string: Set the SMS sent to the caller when you reject -->
 	<string name="reject_via_sms_summary_miui">Редактирование сообщений быстрого ответа</string>
+	<!-- Original string: Reject via SMS setting -->
 	<string name="reject_via_sms_title_miui">Отклонить с сообщением</string>
+	<!-- Original string: Always use to place Internet calls -->
 	<string name="remember_my_choice">Использовать для всех интернет-вызовов</string>
+	<!-- Original string: Delete -->
 	<string name="remove_miui">Удалить</string>
+	<!-- Original string: Remove account -->
 	<string name="remove_sip_account">Удалить аккаунт</string>
+	<!-- Original string: Removing the account… -->
 	<string name="removing_account">Удаление аккаунта...</string>
+	<!-- Original string: Requesting UIM corporate unlock… -->
 	<string name="requesting_rc_unlock">Requesting RUIM corporate unlock...</string>
+	<!-- Original string: Requesting UIM hrpd unlock… -->
 	<string name="requesting_rhrpd_unlock">Requesting RUIM hrpd unlock...</string>
+	<!-- Original string: Requesting UIM network1 unlock… -->
 	<string name="requesting_rnw1_unlock">Requesting RUIM network1 unlock...</string>
+	<!-- Original string: Requesting UIM network2 unlock… -->
 	<string name="requesting_rnw2_unlock">Requesting RUIM network2 unlock...</string>
+	<!-- Original string: Requesting UIM service provider unlock… -->
 	<string name="requesting_rsp_unlock">Requesting RUIM service provider unlock...</string>
+	<!-- Original string: Requesting UIM UIM unlock… -->
 	<string name="requesting_ruim_unlock">Requesting RUIM RUIM unlock...</string>
+	<!-- Original string: Requesting network unlock… -->
 	<string name="requesting_unlock">Запрос разблокировки сети...</string>
+	<!-- Original string: You can change which Internet calling account to use by default from the Phone > Settings > Internet call settings > Accounts screen. -->
 	<string name="reset_my_choice_hint">В настройках вызовов можно изменить аккаунт интернет-телефонии, который используется по умолчанию при выполнении вызовов. Для этого выберите другой аккаунт в настройках интернет-вызовов</string>
+	<!-- Original string: "Can't talk now. What's up?" -->
 	<string name="respond_via_sms_canned_response_1">Не могу говорить. Что случилось?</string>
+	<!-- Original string: "I'm sorry I can't answer the phone right now. I'll get back to you later." -->
 	<string name="respond_via_sms_canned_response_1_miui">Извините, сейчас я не могу ответить на звонок. Я перезвоню Вам позже.</string>
+	<!-- Original string: "I'll call you right back." -->
 	<string name="respond_via_sms_canned_response_2">Я сейчас Вам перезвоню.</string>
+	<!-- Original string: "I'm sorry I can't answer the phone right now. Please leave a message." -->
 	<string name="respond_via_sms_canned_response_2_miui">Извините, сейчас я не могу ответить на звонок. Что я могу сделать для Вас?</string>
+	<!-- Original string: "I'll call you later." -->
 	<string name="respond_via_sms_canned_response_3">Я перезвоню Вам позже.</string>
+	<!-- Original string: "I'm busy right now. Call you later." -->
 	<string name="respond_via_sms_canned_response_3_miui">Я сейчас очень занят. Перезвоню позже.</string>
+	<!-- Original string: "Can't talk now. Call me later?" -->
 	<string name="respond_via_sms_canned_response_4">Не могу говорить. Позвоните позже</string>
+	<!-- Original string: "Can't talk over the phone right now. What's up?" -->
 	<string name="respond_via_sms_canned_response_4_miui">Не могу сейчас говорить. Что случилось?</string>
+	<!-- Original string: Message sent to %s. -->
 	<string name="respond_via_sms_confirmation_format">Сообщение отправлено на номер %s</string>
+	<!-- Original string: Custom message -->
 	<string name="respond_via_sms_custom_message">Собственное сообщение...</string>
+	<!-- Original string: Quick response -->
 	<string name="respond_via_sms_edittext_dialog_title">Быстрый ответ</string>
+	<!-- Original string: null -->
 	<string name="respond_via_sms_setting_summary" />
+	<!-- Original string: Quick responses -->
 	<string name="respond_via_sms_setting_title">Быстрые ответы</string>
+	<!-- Original string: Edit quick responses -->
 	<string name="respond_via_sms_setting_title_2">Быстрые ответы</string>
+	<!-- Original string: Unexpected response from network. -->
 	<string name="response_error">Неожиданный отклик сети</string>
+	<!-- Original string: Restaurants disabled -->
 	<string name="restaurants_disable">Рестораны отключены</string>
+	<!-- Original string: Restaurants enabled -->
 	<string name="restaurants_enable">Рестораны включены</string>
+	<!-- Original string: Retail Directory disabled -->
 	<string name="retail_directory_disable">Торговый каталог отключен</string>
+	<!-- Original string: Retail Directory enabled -->
 	<string name="retail_directory_enable">Торговый каталог включен</string>
+	<!-- Original string: Reverting settings… -->
 	<string name="reverting_settings">Возврат к предыдущим настройкам…</string>
+	<!-- Original string: UIM Hrpd unlock request unsuccessful. -->
 	<string name="rhrpd_unlock_failed">RUIM Hrpd unlock request unsuccessful</string>
+	<!-- Original string: Phone ringtone -->
 	<string name="ringtone_title">Мелодия телефона</string>
+	<!-- Original string: UIM Network1 unlock request unsuccessful. -->
 	<string name="rnw1_unlock_failed">RUIM Network1 unlock request unsuccessful</string>
+	<!-- Original string: UIM Network2 unlock request unsuccessful. -->
 	<string name="rnw2_unlock_failed">RUIM Network2 unlock request unsuccessful</string>
+	<!-- Original string: Data roaming -->
 	<string name="roaming">Интернет-роуминг</string>
+	<!-- Original string: Connect to data services when roaming -->
 	<string name="roaming_disable">Подключаться к службам передачи данных в роуминге</string>
+	<!-- Original string: Connect to data services when roaming -->
 	<string name="roaming_enable">Подключаться к службам передачи данных в роуминге</string>
+	<!-- Original string: "You've lost data connectivity because you left your home network with data roaming turned off." -->
 	<string name="roaming_reenable_message">Передача данных прекращена, потому что телефон находится за пределами домашней сети, а интернет-роуминг выключен</string>
+	<!-- Original string: Allow data roaming? You may incur significant roaming charges! -->
 	<string name="roaming_warning">Разрешить интернет-роуминг? Возможны высокие расходы за использование роуминга</string>
+	<!-- Original string: UIM Service Provider unlock request unsuccessful. -->
 	<string name="rsp_unlock_failed">RUIM Service Provider unlock request unsuccessful</string>
+	<!-- Original string: UIM UIM unlock request unsuccessful. -->
 	<string name="ruim_unlock_failed">RUIM RUIM unlock request unsuccessful</string>
+	<!-- Original string: Save -->
 	<string name="save">Сохранить</string>
+	<!-- Original string: Saving the account… -->
 	<string name="saving_account">Сохранение аккаунта...</string>
+	<!-- Original string: Search networks -->
 	<string name="search_networks">Поиск сетей</string>
+	<!-- Original string: select contact -->
 	<string name="selectContact">выбрать контакт</string>
+	<!-- Original string: Choose automatically -->
 	<string name="select_automatically">Автовыбор сети</string>
+	<!-- Original string: Send -->
 	<string name="send_button">Позвонить</string>
+	<!-- Original string: Send keep-alive -->
 	<string name="send_keepalive_title">Отправлять keep-alive</string>
+	<!-- Original string: Single call -->
 	<string name="separate_from_conference_miui">Индивидуальный вызов</string>
+	<!-- Original string: Preferred network type only available when data is disabled -->
 	<string name="set_preferred_network_type_when_data_enabled_miui">Предпочтительный режим сети доступен при выключенной передаче данных</string>
+	<!-- Original string: SetPrimary -->
 	<string name="set_primary">SetPrimary</string>
+	<!-- Original string: Used for outbound calls -->
 	<string name="set_primary_summary">Использовать этот аккаунт по умолчанию для исходящих вызовов</string>
+	<!-- Original string: Set as primary account -->
 	<string name="set_primary_title">Основной аккаунт</string>
+	<!-- Original string: Failed to set the SMS center number, please try again later. -->
 	<string name="set_smsc_address_error_miui">Не удалось установить номер SMS-центра</string>
+	<!-- Original string: Timed out when set SMS center number, please try again later. -->
 	<string name="set_smsc_address_timeout_miui">Не удалось установить номер SMS-центра</string>
+	<!-- Original string: Set SMS center number -->
 	<string name="set_smsc_address_title_miui">Номер SMS-центра</string>
+	<!-- Original string: Network settings -->
 	<string name="settings_label">Настройки сети</string>
+	<!-- Original string: To import contacts from the SIM card, first turn off Airplane mode. -->
 	<string name="simContacts_airplaneMode">Чтобы импортировать контакты с SIM-карты, отключите режим полета</string>
+	<!-- Original string: No contacts on your SIM card. -->
 	<string name="simContacts_empty">На SIM-карте нет контактов</string>
+	<!-- Original string: Reading from SIM card… -->
 	<string name="simContacts_emptyLoading">Считывание с SIM-карты…</string>
+	<!-- Original string: Select contacts to import -->
 	<string name="simContacts_title">Выберите контакты для импорта</string>
+	<!-- Original string: Deselect all -->
 	<string name="sim_contact_dropdown_menu_deselect_all_miui">Снять все</string>
+	<!-- Original string: Select all -->
 	<string name="sim_contact_dropdown_menu_select_all_miui">Выбрать все</string>
+	<!-- Original string: Name -->
 	<string name="sim_contact_name_miui">Имя</string>
+	<!-- Original string: Number -->
 	<string name="sim_contact_number_miui">Номер</string>
+	<!-- Original string: Contacts on SIM card -->
 	<string name="sim_contacts_title_miui">Контакты на SIM-карте</string>
+	<!-- Original string: Require PIN to use phone -->
 	<string name="sim_lock_off_miui">Запрашивать PIN, чтобы использовать телефон</string>
+	<!-- Original string: Require PIN to use phone -->
 	<string name="sim_lock_on_miui">Запрашивать PIN, чтобы использовать телефон</string>
+	<!-- Original string: SIM lock settings -->
 	<string name="sim_lock_title_miui">Блокировка SIM-карты</string>
+	<!-- Original string: Dismiss -->
 	<string name="sim_ndp_dismiss_text">Закрыть</string>
+	<!-- Original string: Unlock -->
 	<string name="sim_ndp_unlock_text">Разблокировать</string>
+	<!-- Original string: Change SIM PIN -->
 	<string name="sim_pin_change_miui">Изменение PIN-кода SIM</string>
+	<!-- Original string: Lock SIM card -->
 	<string name="sim_pin_toggle_miui">Блокировка SIM-карты</string>
+	<!-- Original string: SIP accounts -->
 	<string name="sip_account_list">SIP-аккаунты</string>
+	<!-- Original string: Internet calling (SIP) accounts -->
 	<string name="sip_accounts">Аккаунты SIP</string>
+	<!-- Original string: Accounts -->
 	<string name="sip_accounts_title">Аккаунты</string>
+	<!-- Original string: Please add a SIP account to use the Internet call -->
 	<string name="sip_add_account_tip_text">Пожалуйста, добавьте аккаунт для интернет-телефонии</string>
+	<!-- Original string: Always send -->
 	<string name="sip_always_send_keepalive">Отправлять всегда</string>
+	<!-- Original string: For all calls when data network is available -->
 	<string name="sip_call_options_entry_1">Для всех вызовов при возможности передачи данных</string>
+	<!-- Original string: Only for Internet calls -->
 	<string name="sip_call_options_entry_2">Только для интернет-вызовов</string>
+	<!-- Original string: Ask for each call -->
 	<string name="sip_call_options_entry_3">Спрашивать для каждого вызова</string>
+	<!-- Original string: Use Internet calling -->
 	<string name="sip_call_options_title">Использовать Интернет</string>
+	<!-- Original string: For all calls -->
 	<string name="sip_call_options_wifi_only_entry_1">Для всех вызовов</string>
+	<!-- Original string: Use Internet calling (Wi-Fi only) -->
 	<string name="sip_call_options_wifi_only_title">Использовать интернет-соединение (Wi-Fi)</string>
+	<!-- Original string: SIP account details -->
 	<string name="sip_edit_new_title">Настройки SIP-аккаунта</string>
+	<!-- Original string: SIP account details -->
 	<string name="sip_edit_title">Настройки SIP-аккаунта</string>
+	<!-- Original string: Add -->
 	<string name="sip_menu_add">Добавить</string>
+	<!-- Original string: Discard -->
 	<string name="sip_menu_discard">Отменить</string>
+	<!-- Original string: Save -->
 	<string name="sip_menu_save">Сохранить</string>
+	<!-- Original string: Receive incoming calls -->
 	<string name="sip_receive_calls">Принимать входящие</string>
+	<!-- Original string: Reduces battery life -->
 	<string name="sip_receive_calls_summary">Повышает расход заряда батареи</string>
+	<!-- Original string: Internet call settings -->
 	<string name="sip_settings">Интернет-телефония</string>
+	<!-- Original string: Internet call -->
 	<string name="sip_settings_miui">Интернет-телефония</string>
+	<!-- Original string: Automatic -->
 	<string name="sip_system_decide">Автоматически</string>
+	<!-- Original string: Slide down to answer -->
 	<string name="sliding_down_hint_miui"><font size='20'>Сдвиньте вниз для ответа</font></string>
+	<!-- Original string: Slide target -->
 	<string name="sliding_target_hint_miui">Сдвиньте вверх, чтобы отклонить/отправить сообщение</string>
+	<!-- Original string: Slide up to reject -->
 	<string name="sliding_up_hint_miui">Сдвиньте вверх, чтобы отклонить</string>
+	<!-- Original string: The content is -->
 	<string name="sms_content">Содержание сообщения</string>
+	<!-- Original string: From -->
 	<string name="sms_sender">От</string>
+	<!-- Original string: Sports News -->
 	<string name="sports_news_settings">Новости спорта</string>
+	<!-- Original string: Stock Quotes disabled -->
 	<string name="stock_quotes_disable">Котировки ценных бумаг отключены</string>
+	<!-- Original string: Stock Quotes enabled -->
 	<string name="stock_quotes_enable">Котировки ценных бумаг включены</string>
+	<!-- Original string: Choose a network operator -->
 	<string name="sum_carrier_select">Выбор оператора</string>
+	<!-- Original string: Additional CDMA only call settings -->
 	<string name="sum_cdma_call_settings">Дополнительные настройки (только CDMA-звонков)</string>
+	<!-- Original string: Disabled -->
 	<string name="sum_cfb_disabled">Отключено</string>
+	<!-- Original string: Forwarding to {0} -->
 	<string name="sum_cfb_enabled">Переадресация на номер {0}</string>
+	<!-- Original string: Disabled -->
 	<string name="sum_cfnrc_disabled">Отключено</string>
+	<!-- Original string: Forwarding to {0} -->
 	<string name="sum_cfnrc_enabled">Переадресация на номер {0}</string>
+	<!-- Original string: Disabled -->
 	<string name="sum_cfnry_disabled">Отключено</string>
+	<!-- Original string: Forwarding to {0} -->
 	<string name="sum_cfnry_enabled">Переадресация на номер {0}</string>
+	<!-- Original string: Disabled -->
 	<string name="sum_cfu_disabled">Отключено</string>
+	<!-- Original string: Forwarding all calls to {0} -->
 	<string name="sum_cfu_enabled">Переадресация всех вызовов на номер {0}</string>
+	<!-- Original string: Forwarding all calls -->
 	<string name="sum_cfu_enabled_indicator">Переадресация всех вызовов</string>
+	<!-- Original string: Number is unavailable -->
 	<string name="sum_cfu_enabled_no_number">Номер не указан</string>
+	<!-- Original string: During a call, notify me of incoming calls -->
 	<string name="sum_cw_disabled">Уведомление о входящих вызовах во время разговора</string>
+	<!-- Original string: During a call, notify me of incoming calls -->
 	<string name="sum_cw_enabled">Уведомление о входящих вызовах во время разговора</string>
+	<!-- Original string: Use default operator settings to display my number in outgoing calls -->
 	<string name="sum_default_caller_id">Использовать настройки оператора сети для отображения моего номера в исходящих вызовах</string>
+	<!-- Original string: Manage Fixed Dialing Numbers -->
 	<string name="sum_fdn">Управление списком разрешенных номеров</string>
+	<!-- Original string: Change PIN for FDN access -->
 	<string name="sum_fdn_change_pin">Изменить PIN для доступа к списку разрешенных номеров</string>
+	<!-- Original string: Manage phone number list -->
 	<string name="sum_fdn_manage_list">Управление списком разрешенных номеров</string>
+	<!-- Original string: Additional GSM only call settings -->
 	<string name="sum_gsm_call_settings">Дополнительные настройки только для вызовов GSM</string>
+	<!-- Original string: Number hidden in outgoing calls -->
 	<string name="sum_hide_caller_id">Количество скрытых в исходящих звонках</string>
+	<!-- Original string: Loading settings… -->
 	<string name="sum_loading_settings">Загрузка настроек…</string>
+	<!-- Original string: Search for all available networks -->
 	<string name="sum_search_networks">Поиск всех доступных сетей</string>
+	<!-- Original string: Automatically choose preferred network -->
 	<string name="sum_select_automatically">Автоматически выбирать предпочтительную сеть</string>
+	<!-- Original string: Automatically select preferred network, %s -->
 	<string name="sum_select_automatically_option_miui">Автовыбор предпочтительной сети, %s</string>
+	<!-- Original string: Number displayed in outgoing calls -->
 	<string name="sum_show_caller_id">Количество отображаемых в исходящих звонках</string>
+	<!-- Original string: Choose voicemail service -->
 	<string name="sum_voicemail_choose_provider">Выберите службу голосовой почты</string>
+	<!-- Original string: PinYin -->
 	<string name="t9_indexing_method_pinyin">Алфавитный</string>
+	<!-- Original string: T9 search setting -->
 	<string name="t9_indexing_method_title_miui">Поиск T9</string>
+	<!-- Original string: ZhuYin -->
 	<string name="t9_indexing_method_zhuyin">Китайский</string>
+	<!-- Original string: Rebuilding T9 Indexes… -->
 	<string name="t9_indexing_rebuilding_message">Обновление базы данных T9, пожалуйста, подождите...</string>
+	<!-- Original string: Technology News disabled -->
 	<string name="technology_news_disable">Новости технологий отключены</string>
+	<!-- Original string: Technology News enabled -->
 	<string name="technology_news_enable">Новости технологий включены</string>
+	<!-- Original string: Location setting -->
 	<string name="telocation_setting_miui">Местоположение</string>
+	<!-- Original string: Do not auto-add the country code -->
 	<string name="telocation_setting_summary_countrycode_off">не добавлять код страны</string>
+	<!-- Original string: Auto-add the country code -->
 	<string name="telocation_setting_summary_countrycode_on">добавлять код страны</string>
+	<!-- Original string: Hide location -->
 	<string name="telocation_setting_summary_teloc_off">Скрывать местоположение</string>
+	<!-- Original string: Show location -->
 	<string name="telocation_setting_summary_teloc_on">Показывать местоположение</string>
+	<!-- Original string: Display settings -->
 	<string name="telocation_show_settings_miui">Настройки отображения</string>
+	<!-- Original string: This account is currently in use by the %s app. -->
 	<string name="third_party_account_summary">Этим аккаунтом сейчас пользуется приложение %s</string>
+	<!-- Original string: Data used in current period -->
 	<string name="throttle_current_usage">Передача данных в текущем периоде</string>
+	<!-- Original string: %1$s maximum exceeded\nData rate reduced to %2$d Kb/s -->
 	<string name="throttle_data_rate_reduced_subtext">Превышен лимит в %1$s.\nСкорость передачи данных снижена до %2$d кбит/с.</string>
+	<!-- Original string: Data usage -->
 	<string name="throttle_data_usage">Передача данных</string>
+	<!-- Original string: %1$s (%2$d٪) of %3$s period maximum -->
 	<string name="throttle_data_usage_subtext">%1$s (%2$d٪) из %3$s (максимум)</string>
+	<!-- Original string: Learn more -->
 	<string name="throttle_help">Подробнее</string>
+	<!-- Original string: "More information about your carrier's mobile network data use policy" -->
 	<string name="throttle_help_subtext">Подробнее о политике передачи данных вашего оператора мобильной связи...</string>
+	<!-- Original string: Data rate policy -->
 	<string name="throttle_rate">Скорость передачи данных</string>
+	<!-- Original string: Data rate reduced to %1$d Kb/s if data use limit is exceeded -->
 	<string name="throttle_rate_subtext">Превышение лимита снижает скорость передачи данных до %1$d кбит/с</string>
+	<!-- Original string: %1$s (%2$d٪) of %3$s period maximum\nNext period starts in %4$d days (%5$s) -->
 	<string name="throttle_status_subtext">%1$s (%2$d٪) из %3$s (максимум)\nСледующий период начнется в течение %4$d дн. (%5$s)</string>
+	<!-- Original string: Data use period -->
 	<string name="throttle_time_frame">Время передачи данных</string>
+	<!-- Original string: %1$d٪ of cycle elapsed\nNext period starts in %2$d days (%3$s) -->
 	<string name="throttle_time_frame_subtext">%1$s превышен максимум.\nЧастота данных уменьшена до %2$d кБ/с</string>
+	<!-- Original string: Protocol -->
 	<string name="transport">Protocol</string>
+	<!-- Original string: Transport type -->
 	<string name="transport_title">Протокол</string>
+	<!-- Original string: TTY Full -->
 	<string name="tty_mode_entries_full_miui">Полнофункциональный</string>
+	<!-- Original string: TTY HCO -->
 	<string name="tty_mode_entries_hco_miui">С возможностью слышать собеседника</string>
+	<!-- Original string: TTY Off -->
 	<string name="tty_mode_entries_off_miui">Выключен</string>
+	<!-- Original string: TTY VCO -->
 	<string name="tty_mode_entries_vco_miui">С возможностью передачи голоса</string>
+	<!-- Original string: Set TTY mode -->
 	<string name="tty_mode_option_summary">Установить режим телетайпа</string>
+	<!-- Original string: Set TTY mode -->
 	<string name="tty_mode_option_summary_miui">Установить режим телетайпа</string>
+	<!-- Original string: TTY mode -->
 	<string name="tty_mode_option_title">Режим телетайпа</string>
+	<!-- Original string: TTY mode -->
 	<string name="tty_mode_option_title_miui">Режим телетайпа</string>
+	<!-- Original string: The signal and network maybe unavailable. Are you sure you want to turn off this option? -->
 	<string name="turn_off_auto_select_confirm_message_miui">Сигнал и сеть могут быть недоступны. Вы уверены, что хотите отключить эту опцию?</string>
+	<!-- Original string: Turn off network auto selection -->
 	<string name="turn_off_auto_select_title_miui">Отключение автомат. выбора сети</string>
+	<!-- Original string: After turning off this option, it will use the network you selected manually and will not register to other network -->
 	<string name="turn_off_auto_select_warning_message_miui">После отключения этой опции, будет использоваться сеть выбранная вручную, без регистрации в других сетях</string>
+	<!-- Original string: Turn-off -->
 	<string name="turn_off_miui">отключено</string>
+	<!-- Original string: Flip to silence while the is phone placed horizontally -->
 	<string name="turnover_mute_summary_miui">Переверните телефон для выключения звука, когда телефон лежит горизонтально</string>
+	<!-- Original string: Flip to silence -->
 	<string name="turnover_mute_title_miui">Переворот - тишина</string>
+	<!-- Original string: Undefined -->
 	<string name="undefined_miui">Не незначено</string>
+	<!-- Original string: Unknown -->
 	<string name="unknown">Неизвестный абонент</string>
+	<!-- Original string: Unknown number -->
 	<string name="unknown_num">Неизвестный номер</string>
+	<!-- Original string: Network unlock request unsuccessful. -->
 	<string name="unlock_failed">Запрос на разблокировку сети не выполнен</string>
+	<!-- Original string: Network unlock successful. -->
 	<string name="unlock_success">Разблокировка сети успешно завершена</string>
+	<!-- Original string: Updating fixed dialing number… -->
 	<string name="updating_fdn_contact">Выполняется обновление номера ограниченного набора...</string>
+	<!-- Original string: Updating settings… -->
 	<string name="updating_settings">Обновление настроек…</string>
+	<!-- Original string: Call settings -->
 	<string name="updating_title">Настройки вызовов</string>
+	<!-- Original string: UserName -->
 	<string name="username">UserName</string>
+	<!-- Original string: Username -->
 	<string name="username_title">Имя пользователя</string>
+	<!-- Original string: USSD code running… -->
 	<string name="ussdRunning">Выполняется запрос USSD…</string>
+	<!-- Original string: Vibrate when ringing -->
 	<string name="vibrate_on_ring_title">Вибрация при звонке</string>
+	<!-- Original string: "Couldn't change the voicemail number.\nContact your carrier if this problem persists." -->
 	<string name="vm_change_failed">Не удалось изменить номер голосовой почты.\nЕсли проблема не будет решена, свяжитесь со своим оператором</string>
+	<!-- Original string: Voicemail number changed. -->
 	<string name="vm_changed">Номер голосовой почты изменен</string>
+	<!-- Original string: Voice privacy -->
 	<string name="voice_privacy">Конфиденциальность разговоров</string>
+	<!-- Original string: Voice privacy -->
 	<string name="voice_privacy_miui">Конфиденциальность</string>
+	<!-- Original string: Enable enhanced privacy mode -->
 	<string name="voice_privacy_summary">Включить усиленный режим конфиденциальности</string>
+	<!-- Original string: Enable enhanced privacy mode -->
 	<string name="voice_privacy_summary_miui">Включить конфиденциальность</string>
+	<!-- Original string: Bright -->
 	<string name="voice_quality_ui_values_bright_miui">Яркий</string>
+	<!-- Original string: Clear -->
 	<string name="voice_quality_ui_values_clear_miui">Чистый</string>
+	<!-- Original string: Crisp -->
 	<string name="voice_quality_ui_values_crisp_miui">Скрип</string>
+	<!-- Original string: Normal -->
 	<string name="voice_quality_ui_values_normal_miui">Нормальный</string>
+	<!-- Original string: Voicemail -->
 	<string name="voicemail">Голосовая почта</string>
+	<!-- Original string: VM: -->
 	<string name="voicemail_abbreviated">ГП:</string>
+	<!-- Original string: My carrier -->
 	<string name="voicemail_default">Мой оператор</string>
+	<!-- Original string: Voicemail -->
 	<string name="voicemail_miui">Голосовая почта</string>
+	<!-- Original string: Ringtone -->
 	<string name="voicemail_notification_ringtone_title">Звонок</string>
+	<!-- Original string: Vibrate -->
 	<string name="voicemail_notification_vibarte_when_dialog_title">Вибрация</string>
+	<!-- Original string: never -->
 	<string name="voicemail_notification_vibrate_when_default">never</string>
+	<!-- Original string: Vibrate -->
 	<string name="voicemail_notification_vibrate_when_title">Вибрация при голосовой почте</string>
+	<!-- Original string: &lt;Not set> -->
 	<string name="voicemail_number_not_set">&lt;не задано></string>
+	<!-- Original string: Service -->
 	<string name="voicemail_provider">Служба голосовой почты</string>
+	<!-- Original string: Voicemail service -->
 	<string name="voicemail_provider_miui">Сервис голосовой почты</string>
+	<!-- Original string: Choose voicemail service -->
 	<string name="voicemail_provider_sum_miui">Сервис голосовой почты</string>
+	<!-- Original string: Setup -->
 	<string name="voicemail_settings">Настройки голосовой почты</string>
+	<!-- Original string: Settings for %s -->
 	<string name="voicemail_settings_for">Настройки для %s</string>
+	<!-- Original string: Voicemail settings -->
 	<string name="voicemail_settings_miui">Голосовая почта</string>
+	<!-- Original string: Enter voice mailbox number -->
 	<string name="voicemail_settings_number_hint_miui">Введите номер голосовой почты</string>
+	<!-- Original string: Voicemail number -->
 	<string name="voicemail_settings_number_label">Номер голосовой почты</string>
+	<!-- Original string: Voicemail number -->
 	<string name="voicemail_settings_number_title_miui">Номер голосовой почты</string>
+	<!-- Original string: Send the following tones?\n -->
 	<string name="wait_prompt_str">Отправить следующие тоны?\n</string>
+	<!-- Original string: Replace wild character with -->
 	<string name="wild_prompt_str">Заменить универсальный символ на</string>
 </resources>

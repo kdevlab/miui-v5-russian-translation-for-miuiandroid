@@ -1,23 +1,42 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--Merged and sorted with KDG BigBlackBox-->
 <resources>
+	<!-- Original string: Back up my data -->
 	<string name="allow_backup_button_label">Создать резервную копию данных</string>
+	<!-- Original string: Restore my data -->
 	<string name="allow_restore_button_label">Восстановить данные</string>
+	<!-- Original string: A full backup of all data to a connected desktop computer has been requested. Do you want to allow this to happen?\n\nIf you did not request the backup yourself, do not allow the operation to proceed. -->
 	<string name="backup_confirm_text">Запрошено резервное копирование всех данных на подключенном компьютере. Разрешить?\n\u0009\nЕсли вы не запрашивали этого, не разрешайте выполнение операции.</string>
+	<!-- Original string: Full backup -->
 	<string name="backup_confirm_title">Полное резервное копирование</string>
+	<!-- Original string: If you wish to encrypt the full backup data, enter a password below: -->
 	<string name="backup_enc_password_optional">Чтобы зашифровать все резервные данные, введите пароль:</string>
+	<!-- Original string: Please enter a password to use for encrypting the full backup data. If this is left blank, your current backup password will be used: -->
 	<string name="backup_enc_password_text">Введите пароль для шифрования всех резервных данных. Если поле останется пустым, будет использован текущий пароль:</string>
+	<!-- Original string: Please enter your current backup password below: -->
 	<string name="current_password_text">Введите пароль для резервного копирования:</string>
+	<!-- Original string: Do not back up -->
 	<string name="deny_backup_button_label">Не создавать резервную копию</string>
+	<!-- Original string: Do not restore -->
 	<string name="deny_restore_button_label">Не восстанавливать</string>
+	<!-- Original string: Please enter your device encryption password below. This will also be used to encrypt the backup archive. -->
 	<string name="device_encryption_backup_text">Введите пароль для шифрования устройства и архива резервных копий.</string>
+	<!-- Original string: Please enter your device encryption password below. -->
 	<string name="device_encryption_restore_text">Введите пароль для шифрования устройства.</string>
+	<!-- Original string: A full restore of all data from a connected desktop computer has been requested. Do you want to allow this to happen?\n\nIf you did not request the restore yourself, do not allow the operation to proceed. This will replace any data currently on the device! -->
 	<string name="restore_confirm_text">Подключенный компьютер запрашивает восстановление всех данных. Разрешить?\n\u0009\nЕсли вы не запрашивали этого, не разрешайте выполнение операции, т. к. она заменит все данные на этом устройстве.</string>
+	<!-- Original string: Full restore -->
 	<string name="restore_confirm_title">Полное восстановление</string>
+	<!-- Original string: If the restore data is encrypted, please enter the password below: -->
 	<string name="restore_enc_password_text">Если восстановленные данные зашифрованы, введите пароль:</string>
+	<!-- Original string: Backup finished -->
 	<string name="toast_backup_ended">Резервное копирование завершено</string>
+	<!-- Original string: Backup starting... -->
 	<string name="toast_backup_started">Резервное копирование...</string>
+	<!-- Original string: Restore ended -->
 	<string name="toast_restore_ended">Восстановление завершено</string>
+	<!-- Original string: Restore starting... -->
 	<string name="toast_restore_started">Восстановление...</string>
+	<!-- Original string: Operation timed out -->
 	<string name="toast_timeout">Время ожидания истекло</string>
 </resources>

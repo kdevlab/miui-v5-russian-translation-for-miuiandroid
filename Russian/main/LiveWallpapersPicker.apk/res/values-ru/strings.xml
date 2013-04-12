@@ -1,15 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--Merged and sorted with KDG BigBlackBox-->
 <resources>
+	<!-- Original string: Live Wallpaper Picker -->
 	<string name="application_name">Каталог живых обоев</string>
+	<!-- Original string: Settings… -->
 	<string name="configure_wallpaper">Настройки…</string>
+	<!-- Original string: No live wallpapers. -->
 	<string name="live_wallpaper_empty">Живые обои отсутствуют.</string>
+	<!-- Original string: Loading live wallpaper… -->
 	<string name="live_wallpaper_loading">Загрузка живых обоев…</string>
+	<!-- Original string: Live Wallpapers -->
 	<string name="live_wallpaper_picker_label">Живые обои</string>
+	<!-- Original string: Select live wallpaper -->
 	<string name="live_wallpaper_picker_title">Выберите Живые обои</string>
+	<!-- Original string: Live wallpaper preview -->
 	<string name="live_wallpaper_preview_title">Предпросмотр живых обоев</string>
+	<!-- Original string: Set wallpaper -->
 	<string name="set_live_wallpaper">Установить фоновый рисунок</string>
+	<!-- Original string: Cancel -->
 	<string name="wallpaper_cancel">Отмена</string>
+	<!-- Original string: Set wallpaper -->
 	<string name="wallpaper_instructions">Установить обои</string>
+	<!-- Original string: %1$s by %2$s -->
 	<string name="wallpaper_title_and_author">%1$s, автор: %2$s</string>
 </resources>

@@ -1,17 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--Merged and sorted with KDG BigBlackBox-->
 <resources>
+	<!-- Original string: OK -->
 	<string name="PSButton">OK</string>
+	<!-- Original string: Unable to connect to PC -->
 	<string name="PSFail">Не возможно подключиться к PC</string>
+	<!-- Original string: If you are unable to connect to the Internet via Internet pass-through, please ensure that your PC firewall settings allow this type of connection. Internet pass-through only supports TCP connections if your PC connects to the Internet via PPP (e.g. dial up, xDSL, or VPN). -->
 	<string name="PSMsg">Если вы не можете подключиться к Интернету через сквозной интернет, пожалуйста, убедитесь, что ваши настройки вашего брандмауэра позволяют этот тип подключения. Сквозной интернет поддерживает только TCP соединения, если ваш компьютер подключается к Интернету через PPP (например, Dial Up, XDSL, или VPN)</string>
+	<!-- Original string: Internet pass-through connected -->
 	<string name="PSPass">Сквозной интернет</string>
+	<!-- Original string: Internet pass-through Notice -->
 	<string name="PSTitle">Уведомление</string>
+	<!-- Original string: "Don't show next time" -->
 	<string name="do_not_show_psmsg">"Не показывать в следующий раз"</string>
+	<!-- Original string: Not recommended with some Market apps -->
 	<string name="htc_fastboot_summary">Не рекомендуется для некоторых приложений из Market</string>
+	<!-- Original string: Fast boot -->
 	<string name="htc_fastboot_title">Быстрая загрузка</string>
+	<!-- Original string: Enable 3-finger output gestures and ignore gestures with more fingers -->
 	<string name="htc_gestures_summary">Включить трехпальцевые жесты от HTC и выключить жесты с большим количеством пальцев</string>
+	<!-- Original string: Htc gestures -->
 	<string name="htc_gestures_title">Жесты HTC</string>
+	<!-- Original string: Connect to the Internet via PC. Please plug in USB cable. -->
 	<string name="htc_internet_pt_summary">Подключение к интернету через PC. Пожалуйста вставьте USB кабель.</string>
+	<!-- Original string: Internet pass-through -->
 	<string name="htc_internet_pt_title">Сквозной интернет</string>
+	<!-- Original string: Stock Settings -->
 	<string name="stock_settings">Настройки устройства</string>
 </resources>

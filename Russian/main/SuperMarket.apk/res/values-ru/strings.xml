@@ -1,182 +1,360 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--Merged and sorted with KDG BigBlackBox-->
 <resources>
+	<!-- Original string: All -->
 	<string name="all_comments">Все</string>
+	<!-- Original string: The end -->
 	<string name="already_bottom">Конец</string>
+	<!-- Original string: App comments -->
 	<string name="app_comments">Комментарии</string>
+	<!-- Original string: Comments: %1$s -->
 	<string name="app_comments_title">Комменатрии к: %1$s</string>
+	<!-- Original string: Market -->
 	<string name="app_name">MiStore</string>
+	<!-- Original string: Negative -->
 	<string name="bad_comments">Плохие</string>
+	<!-- Original string: Refresh -->
 	<string name="button_refresh">Обновить</string>
+	<!-- Original string: Search -->
 	<string name="button_search">Поиск</string>
+	<!-- Original string: %1$s/%2$s -->
 	<string name="bytes">%1$s/%2$s</string>
+	<!-- Original string: %1$sB -->
 	<string name="bytes_unit">%1$sБайт</string>
+	<!-- Original string: Cancel -->
 	<string name="cancel">Отмена</string>
+	<!-- Original string: Featured -->
 	<string name="category_recommend_tag">Реком.</string>
+	<!-- Original string: Category -->
 	<string name="category_tag">Категории</string>
+	<!-- Original string: Do you want to clear search history? -->
 	<string name="clear_search_record_message">Очистить историю поиска?</string>
+	<!-- Original string: %1$s scores %2$s comments in total -->
 	<string name="comment_count">Всего %1$s комментариев</string>
+	<!-- Original string: %1$s comment on %2$s:%3$s:%4$s -->
 	<string name="comment_description">%1$s%2$1s</string>
+	<!-- Original string: Please touch the stars to give a score -->
 	<string name="comment_invalid">Прикоснитесь к звездам, чтобы оценить</string>
+	<!-- Original string: User %1$s -->
 	<string name="comment_name_default">Пользователь %1$s</string>
+	<!-- Original string: Submit -->
 	<string name="comment_publish">Отправить</string>
+	<!-- Original string: Sending comment... -->
 	<string name="comment_sending">Отправка...</string>
+	<!-- Original string: Your account is not activated, set to active it now ? -->
 	<string name="comment_upload_account_need_activitied">Ваш аккаунт не активирован, включить его сейчас?</string>
+	<!-- Original string: Your account is not activated, please activate it and try again -->
 	<string name="comment_upload_account_not_activitied">Ваш аккаунт не активирован, пожалуйста, активируйте и попробуйте еще раз</string>
+	<!-- Original string: Sorry, the comment is invalid -->
 	<string name="comment_upload_data_invalid">Извините, комментирование является недействительным</string>
+	<!-- Original string: Comment send failed -->
 	<string name="comment_upload_failed">Ошибка отправки</string>
+	<!-- Original string: Your comment will be displayed after the audit -->
 	<string name="comment_upload_hint">Ваш комментарий появится после проверки</string>
+	<!-- Original string: Cancel -->
 	<string name="comment_upload_login_cancel">Отмена</string>
+	<!-- Original string: OK -->
 	<string name="comment_upload_login_ok">OK</string>
+	<!-- Original string: Do you want to login now to add a comment ? -->
 	<string name="comment_upload_need_login">Вы хотите войти в аккаунт, чтобы оставить комментарий?</string>
+	<!-- Original string: Please login first -->
 	<string name="comment_upload_not_logined">Пожалуйста, сначала войдите в аккаунт</string>
+	<!-- Original string: Comment sent! It will be displayed after the audit -->
 	<string name="comment_upload_success">Комментарий отправлен!</string>
+	<!-- Original string: (%1$s version) -->
 	<string name="comment_version_name">(версия %1$s)</string>
+	<!-- Original string: Download incomplete. Please check network connection. -->
 	<string name="connect_fail">Ошибка установки %1$s: ошибка соединения, проверьте подключение к сети</string>
+	<!-- Original string: Download incomplete. No installation package for your phone. -->
 	<string name="connect_no_fit_fail">Ошибка установки %1$s: установочный пакет не подходит для вашего телефона</string>
+	<!-- Original string: Connecting -->
 	<string name="connecting">Подключение...</string>
+	<!-- Original string: Delta update %1$s -->
 	<string name="delta_update">Обновление %1$s</string>
+	<!-- Original string: Description -->
 	<string name="description_info">Описание</string>
+	<!-- Original string: Download incomplete. Download error. -->
 	<string name="download_fail">%1$s установка не выполнена: ошибка загрузки</string>
+	<!-- Original string: Downloads -->
 	<string name="download_manager_tag">Менеджер загрузок</string>
+	<!-- Original string: Downloads(%1$s/%2$s) -->
 	<string name="download_manager_tag_with_nonzero_downloads">Загрузок(%1$s/%2$s)</string>
+	<!-- Original string: Download incomplete. Failed to create download task. -->
 	<string name="download_start_fail">Ошибка установки %1$s: не удается выполнить загрузку</string>
+	<!-- Original string: Add comments -->
 	<string name="edit_comment">Комментарий</string>
+	<!-- Original string: Edit comment: %1$s -->
 	<string name="edit_comment_title">Отправить отзыв %1$s</string>
+	<!-- Original string: Write a comment -->
 	<string name="edit_text_default">Пожалуйста, напишите комментарий</string>
+	<!-- Original string: %1$s updates available -->
 	<string name="enable_updata_local_app">Обновлений: %1$s</string>
+	<!-- Original string: Expand -->
 	<string name="expand_full_text">Развернуть весь текст▼</string>
+	<!-- Original string: Expand all text▼ -->
 	<string name="expand_full_text_comment">Развернуть весь текст▼</string>
+	<!-- Original string: Positive -->
 	<string name="good_comments">Хорошие</string>
+	<!-- Original string: Downloading tasks -->
 	<string name="header_processing">Идет скачивание...</string>
+	<!-- Original string: Pending tasks -->
 	<string name="header_waiting">Ожидание скачивания...</string>
+	<!-- Original string: Hot -->
 	<string name="hot_rank_tag">Топ рейтинга</string>
+	<!-- Original string: Install -->
 	<string name="install">Скачать</string>
+	<!-- Original string: Install %1$s and %2$s apps now? -->
 	<string name="install_all_description">Установить приложения %1$s и %2$s сейчас？</string>
+	<!-- Original string: Cancel -->
 	<string name="install_btn_cancel">Отмена</string>
+	<!-- Original string: Continue -->
 	<string name="install_btn_continue">Далее</string>
+	<!-- Original string: Download manager -->
 	<string name="install_btn_download_manager">Менеджер загрузок</string>
+	<!-- Original string: OK -->
 	<string name="install_btn_ok">ОК</string>
+	<!-- Original string: Installation error. Please try again. -->
 	<string name="install_fail">%1$s - ошибка установки</string>
+	<!-- Original string: Install now -->
 	<string name="install_google_base_button">Установить все</string>
+	<!-- Original string: “%1$s” requires Google Service Framework to work -->
 	<string name="install_google_base_message">“%1$s” требует Google Service Framework для работы</string>
+	<!-- Original string: Install Google Service Framework -->
 	<string name="install_google_base_title">Установка Google Service Framework</string>
+	<!-- Original string: Installation package check failed. Please re-download. -->
 	<string name="install_hash_fail">%1$s - ошибка установки</string>
+	<!-- Original string: Signature inconsistent. Please uninstall and try again. -->
 	<string name="install_inconsistent_fail">%1$s - ошибка установки</string>
+	<!-- Original string: System missing required components. -->
 	<string name="install_missing_shared_library">В системе отсутствуют необходимые компоненты</string>
+	<!-- Original string: Network unavailable, please try later -->
 	<string name="install_no_network_description">Нет сетевого подключения, подключитесь и попробуйте еще раз</string>
+	<!-- Original string: Downloading without Wi-Fi may cost data charges, continue to install %1$s and %2$s apps? -->
 	<string name="install_on_data_description">Downloading without WLAN may cost data charges, continue to install %1$s and %2$s apps?</string>
+	<!-- Original string: You have selected Only use Wi-Fi in your settings, so the download is unable to proceed. To continue with the download, please turn this option off. -->
 	<string name="install_only_on_wifi_description">You have selected Only use WLAN in your settings, so the download is unable to proceed. To continue with the download, please turn this option off.</string>
+	<!-- Original string: Installation resolution failed. Please re-download. -->
 	<string name="install_parse_fail">Установка не удалась. Пожалуйста загрузите повторно.</string>
+	<!-- Original string: Delta upgrad failed. Please re-download complete package. -->
 	<string name="install_patch_fail">Обновление не удалось. Загрузите повторно пакет.</string>
+	<!-- Original string: Installation incomplete. SD card unavailable. -->
 	<string name="install_sdcard_not_available">Установка не завершена. SD-карта недоступна.</string>
+	<!-- Original string: Uninstall and update -->
 	<string name="install_sign_not_same_btn_remove">Удалить и обновить</string>
+	<!-- Original string: %1$s update does not match local application signature. You must uninstall the local version to install this update. Continue? -->
 	<string name="install_sign_not_same_message">%1$s update does not match local application signature. You must uninstall the local version to install this update. Continue?</string>
+	<!-- Original string: Inconsistent signature -->
 	<string name="install_sign_not_same_title">Несоответствие подписи</string>
+	<!-- Original string: Installation incomplete. Insufficient storage space. -->
 	<string name="install_storage_not_enough">Установка не завершена. Недостаточно памяти.</string>
+	<!-- Original string: Install -->
 	<string name="install_title">Установка приложения</string>
+	<!-- Original string: Installation incomplete. Failed validation process. -->
 	<string name="install_verification_fail">Установка не завершена. Не удался процессе проверки.</string>
+	<!-- Original string: Installed -->
 	<string name="installed">устан.</string>
+	<!-- Original string: Installing -->
 	<string name="installing">Установка</string>
+	<!-- Original string: %1$sKB -->
 	<string name="kilobytes_unit">%1$sKB</string>
+	<!-- Original string: Launch -->
 	<string name="launch">Запустить</string>
+	<!-- Original string: Failed to launch %1$s -->
 	<string name="launch_failed_text">Ошибка запуска %1$s</string>
+	<!-- Original string: Loading app detail... -->
 	<string name="loading_app_detail">Загрузка сведений о приложении...</string>
+	<!-- Original string: Loading app list... -->
 	<string name="loading_app_list">Загрузка списка приложений...</string>
+	<!-- Original string: Loading category list... -->
 	<string name="loading_category_list">Загрузка категорий...</string>
+	<!-- Original string: Loading collection list... -->
 	<string name="loading_collection_list">Загрузка списка коллекций...</string>
+	<!-- Original string: Loading installed list... -->
 	<string name="loading_installed_list">Загрузка установленных приложений...</string>
+	<!-- Original string: Loading search result... -->
 	<string name="loading_search_result">Загрузка результатов поиска...</string>
+	<!-- Original string: Loading update list... -->
 	<string name="loading_update_list">Загрузка списка обновлений...</string>
+	<!-- Original string: Active -->
 	<string name="login_active">Активировать</string>
+	<!-- Original string: Your account is not activated, set to active it now ? -->
 	<string name="login_active_title">Ваш аккаунт не активирован. Хотите активировтаь его сейчас?</string>
+	<!-- Original string: Log in Xiaomi Account -->
 	<string name="login_download_title">Вход в аккаунт Xiaomi</string>
+	<!-- Original string: Log in Xiaomi Account -->
 	<string name="login_first_install_title">Вход в аккаунт Xiaomi</string>
+	<!-- Original string: Login -->
 	<string name="login_ok">Войти</string>
+	<!-- Original string: Skip -->
 	<string name="login_skip">Далее</string>
+	<!-- Original string: More -->
 	<string name="management_tag">Файлы</string>
+	<!-- Original string: %1$sMB -->
 	<string name="megabytes_unit">%1$sМБ</string>
+	<!-- Original string: My account -->
 	<string name="menu_account">Аккаунт</string>
+	<!-- Original string: Clear search history -->
 	<string name="menu_clear_search_history">Очистить историю поиска</string>
+	<!-- Original string: View app details -->
 	<string name="menu_detail">Подробнее</string>
+	<!-- Original string: Downloads -->
 	<string name="menu_download_manager">Менеджер загрузок</string>
+	<!-- Original string: Ignore -->
 	<string name="menu_ignore">Позже</string>
+	<!-- Original string: Install all -->
 	<string name="menu_install_all">Установить все</string>
+	<!-- Original string: Login -->
 	<string name="menu_login">Вход</string>
+	<!-- Original string: Settings -->
 	<string name="menu_preferences">Настройки</string>
+	<!-- Original string: Refresh -->
 	<string name="menu_refresh">Обновить</string>
+	<!-- Original string: Update -->
 	<string name="menu_update">Обновить</string>
+	<!-- Original string: "What's hot" -->
 	<string name="more_app">Еще</string>
+	<!-- Original string: Collections -->
 	<string name="more_subject">Коллекции</string>
+	<!-- Original string: New -->
 	<string name="new_app_tag">Новые</string>
+	<!-- Original string: No average score -->
 	<string name="no_average_score">Нет средней оценки</string>
+	<!-- Original string: No update details -->
 	<string name="no_change_log">Журнал пуст</string>
+	<!-- Original string: No comment -->
 	<string name="no_comment">Нет комментариев</string>
+	<!-- Original string: Request failed, please try to refresh later :) -->
 	<string name="no_data">Нет данных, проверьте сеть</string>
+	<!-- Original string: No details -->
 	<string name="no_description">Нет приложений</string>
+	<!-- Original string: No apps are being downloaded -->
 	<string name="no_download_task">Нет загрузок</string>
+	<!-- Original string: Oops! No fit apps, try to search :) -->
 	<string name="no_fitness">Упс! Нет подходящих программ, попробуйте поискать :)</string>
+	<!-- Original string: No apps have been installed -->
 	<string name="no_local_apps">Нет установленных приложений</string>
+	<!-- Original string: No internet access, please check and try to refresh :) -->
 	<string name="no_network">Нет доступа в Интернет. Пожалуйста, проверьте настройки и попробуйте обновить :)</string>
+	<!-- Original string: App could not be found -->
 	<string name="no_search">Приложений не найдено</string>
+	<!-- Original string: All applications are the latest -->
 	<string name="no_update">Обновлений нет</string>
+	<!-- Original string: Delta updated，saving %1$s，click to launch -->
 	<string name="notif_delta_update_successful">Успешно обновлено. Для Вас сохранено %1$s, нажмите кнопку, чтобы запустить сейчас.</string>
+	<!-- Original string: %1$s installation failed -->
 	<string name="notif_install_failed">Сбой установки %1$s</string>
+	<!-- Original string: %1$s installed, click to launch -->
 	<string name="notif_install_successful">%1$s успешно установлено</string>
+	<!-- Original string: %1$s installed -->
 	<string name="notif_install_successful_default">%1$s установлено</string>
+	<!-- Original string: Installing “%1$s”… -->
 	<string name="notif_installing">Установка “%1$s”…</string>
+	<!-- Original string: %1$s updates -->
 	<string name="notif_title_update">Доступно обновление для %1$s!</string>
+	<!-- Original string: Paused -->
 	<string name="paused">Пауза</string>
+	<!-- Original string: Pending -->
 	<string name="pending">Ожидание...</string>
+	<!-- Original string: Permissions(%1$s) -->
 	<string name="permission_button">Необходимые разрешения (%1$s)</string>
+	<!-- Original string: Other access -->
 	<string name="permission_extra">Другие разрешения</string>
+	<!-- Original string: Not for free -->
 	<string name="permission_risky_money">Отправка SMS</string>
+	<!-- Original string: Privacy related -->
 	<string name="permission_risky_privacy">Конфиденциальность</string>
+	<!-- Original string: Security related -->
 	<string name="permission_risky_security">Безопасность</string>
+	<!-- Original string: Other permissions -->
 	<string name="permissions_expand_title">Другие разрешения</string>
+	<!-- Original string: %1$s permissions details -->
 	<string name="permissions_title">Разрешения для %1$s</string>
+	<!-- Original string: Always enable -->
 	<string name="pref_list_always_enable">Всегда скрывать</string>
+	<!-- Original string: Auto-update -->
 	<string name="pref_list_auto_update">Автообновление</string>
+	<!-- Original string: Data only -->
 	<string name="pref_list_data_network">Скрывать при 3G/GPRS</string>
+	<!-- Original string: Disable -->
 	<string name="pref_list_disable">Всегда показывать</string>
+	<!-- Original string: Daily -->
 	<string name="pref_list_per_day">Ежедневно</string>
+	<!-- Original string: Weekly -->
 	<string name="pref_list_per_week">Еженедельно</string>
+	<!-- Original string: Notify me after download completes -->
 	<string name="pref_list_remind_me_after_download">Напомнить после загрузки</string>
+	<!-- Original string: Auto-update settings -->
 	<string name="pref_title_auto_update_setting">Параметры автообновления</string>
+	<!-- Original string: Clear search history -->
 	<string name="pref_title_clear_search_record">Очистить историю поиска</string>
+	<!-- Original string: Data saving mode -->
 	<string name="pref_title_data_save_mode">Регулирование трафика</string>
+	<!-- Original string: Silent install -->
 	<string name="pref_title_silent_install">Тихая установка</string>
+	<!-- Original string: Notify updates -->
 	<string name="pref_title_update_notify_mode">Уведомления обновлений</string>
+	<!-- Original string: Update via Wi-Fi only -->
 	<string name="pref_title_update_onlyby_wifi">Автообновление только по Wi-Fi</string>
+	<!-- Original string: Use staging server -->
 	<string name="pref_title_use_staging">Для использования промежуточного сервера</string>
+	<!-- Original string: ￥%1$s -->
 	<string name="price">￥%1$s</string>
+	<!-- Original string: %1$s%% -->
 	<string name="progress">%1$s%%</string>
+	<!-- Original string: %1$s-%2$s published %3$s version -->
 	<string name="publish_info">%1$s %2$s %3$s</string>
+	<!-- Original string: Search market for apps -->
 	<string name="quicksearchbox_description">Поиск маркета для приложений</string>
+	<!-- Original string: %1$s. %2$s -->
 	<string name="rank_app_name">%1$s. %2$s</string>
+	<!-- Original string: Ranking -->
 	<string name="rank_tag">Топ</string>
+	<!-- Original string: %1$s scores -->
 	<string name="rating_button">Голосов: %1$s</string>
+	<!-- Original string: Featured -->
 	<string name="recommendation_tag">Все</string>
+	<!-- Original string: Installation incomplete. Please manually uninstall and try again. -->
 	<string name="remove_package_timeout_fail">Ошибка установки %1$s: удаление старой версии не удалось, удалите вручную</string>
+	<!-- Original string: Results provided by the Baidu App Center -->
 	<string name="result_notice">Результаты предоставленны сервисом приложений Baidu</string>
+	<!-- Original string: Search history has been cleared -->
 	<string name="result_of_clear_history">История поиска успешно очищена</string>
+	<!-- Original string: Search apps in %1$d installed -->
 	<string name="search_local_app_text_hint">Search apps in %1$d installed</string>
+	<!-- Original string: \"%1$s\" not found -->
 	<string name="search_not_found">\"%1$s\" не найдено</string>
+	<!-- Original string: Search other markets -->
 	<string name="search_other_market">Поиск другого маркета</string>
+	<!-- Original string: Share -->
 	<string name="share_button">Поделиться</string>
+	<!-- Original string: Share app: %1$s -->
 	<string name="share_subject">Отправить： %1$s</string>
+	<!-- Original string: Here is an app I thought you might like: %1$s, check it out! Link: %2$s -->
 	<string name="share_text">Вот приложение, которое я думаю, тебе может понравиться: %1$s，вот ссылка ：%2$s</string>
+	<!-- Original string: Show all installed -->
 	<string name="show_all_local_app">Показать все</string>
+	<!-- Original string: Show all installed(%1$d) -->
 	<string name="show_all_local_app_with_count">Все приложения (%1$d)</string>
+	<!-- Original string: (%1$s) -->
 	<string name="size">(%1$s)</string>
+	<!-- Original string: Downloading: %1$s%% -->
 	<string name="status_downloading">Скачивание： %1$s%%</string>
+	<!-- Original string: System app signature inconsistent. Unable to upgrade. -->
 	<string name="system_app_sign_not_match_fail">Ошибка установки %1$s: несовместимая подпись приложения</string>
+	<!-- Original string: Update -->
 	<string name="update">Обновить</string>
+	<!-- Original string: Update all -->
 	<string name="update_all">Обновить все</string>
+	<!-- Original string: %1$s-%2$s-%3$s -->
 	<string name="update_date">%3$s, %2$s, %1$s</string>
+	<!-- Original string: Update: -->
 	<string name="update_date_label">Загружен：</string>
+	<!-- Original string: Updates -->
 	<string name="update_info">Изменения</string>
+	<!-- Original string: Verifying -->
 	<string name="verifying">Проверка на вирусы...</string>
+	<!-- Original string: Version: -->
 	<string name="version_label">Версия：</string>
+	<!-- Original string: %1$s version -->
 	<string name="version_name">Версия: %1$s</string>
 </resources>

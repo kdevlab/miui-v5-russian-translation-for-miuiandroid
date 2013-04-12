@@ -1,185 +1,366 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--Merged and sorted with KDG BigBlackBox-->
 <resources>
+	<!-- Original string: Data (Xiaomi account, Gmail and Email account. Will store accounts and contacts together.) -->
 	<string name="account_contact_backup_info">Данные аккаунтов и контакты</string>
+	<!-- Original string: Login -->
 	<string name="account_login">Войти в систему</string>
+	<!-- Original string: Backup Gmail, Email and Xiaomi accounts -->
 	<string name="account_summary">- Настройки аккаунта</string>
+	<!-- Original string: Encryption enabled -->
 	<string name="already_enable_encrypt">Включить шифрование</string>
+	<!-- Original string: Backup -->
 	<string name="app_name">Бэкап</string>
+	<!-- Original string: Automatic Backup -->
 	<string name="auto_backup">Автоматически</string>
+	<!-- Original string: All applications -->
 	<string name="auto_backup_all_user_apps">Все приложения</string>
+	<!-- Original string: Backup items -->
 	<string name="auto_backup_choose">Выбранные элементы</string>
+	<!-- Original string: No backups -->
 	<string name="auto_backup_choose_empty">Нет резервных копий</string>
+	<!-- Original string: Choose backup items -->
 	<string name="auto_backup_choose_title">Настройка автоматического резервного копирования</string>
+	<!-- Original string: Backup frequency (in days) -->
 	<string name="auto_backup_date">Частота копирования</string>
+	<!-- Original string: Automatically backup only when Wi-Fi is connected -->
 	<string name="auto_backup_only_wifi">Только через Wi-Fi</string>
+	<!-- Original string: Enable automatic backup -->
 	<string name="auto_backup_open">Автокопирование</string>
+	<!-- Original string: Performing automatic backup, please wait... -->
 	<string name="auto_backup_progress">Создание авто-бэкапа, пожалуйста подождите...</string>
+	<!-- Original string: Select applications -->
 	<string name="auto_backup_select_user_apps">Выбор приложений</string>
+	<!-- Original string: Selected applications -->
 	<string name="auto_backup_selected_user_apps">Выбранные приложения</string>
+	<!-- Original string: Automatic backup settings -->
 	<string name="auto_backup_setting">Настройка бэкапа по расписанию</string>
+	<!-- Original string: System -->
 	<string name="auto_backup_system_data">Система</string>
+	<!-- Original string: Schedule backup -->
 	<string name="auto_backup_time">Запланировать копирование</string>
+	<!-- Original string: Applications -->
 	<string name="auto_backup_user_data">Приложения</string>
+	<!-- Original string: Backup -->
 	<string name="backup">Бэкап</string>
+	<!-- Original string: Backup data -->
 	<string name="backup_data">Данные бэкапа</string>
+	<!-- Original string: Delete: -->
 	<string name="backup_delete">Удалить</string>
+	<!-- Original string: No backup files found -->
 	<string name="backup_empty">Резервные копии не найдены</string>
+	<!-- Original string: Backup your data, settings and applications -->
 	<string name="backup_empty_info">Резервное копирование данных, настроек и приложений</string>
+	<!-- Original string: Backup error -->
 	<string name="backup_error">Ошибка</string>
+	<!-- Original string: Backup failed. -->
 	<string name="backup_failed">Резервное копирование не удалось, попробуйте еще раз</string>
+	<!-- Original string: There was a problem with the backup, the operation was not valid. -->
 	<string name="backup_file_error">Файлы резерной копии повреждены, операция не завершена</string>
+	<!-- Original string: Backup completed -->
 	<string name="backup_finished">Создание резервой копии успешно завершено</string>
+	<!-- Original string: Please do not restart or shut down the phone to avoid data corruption. -->
 	<string name="backup_hint">Не отключайте телефон</string>
+	<!-- Original string: " App data files" -->
 	<string name="backup_items_app_tailer">" - данные приложений "</string>
+	<!-- Original string: " System data files" -->
 	<string name="backup_items_sysdata_tailer">" - системные данные, "</string>
+	<!-- Original string: New: -->
 	<string name="backup_new">Новый</string>
+	<!-- Original string: Backing up... -->
 	<string name="backup_progress">Выполняется резервная копия...</string>
+	<!-- Original string: " (Latest)" -->
 	<string name="backup_recently">(Последний)</string>
+	<!-- Original string: Backup report -->
 	<string name="backup_report">Отчет</string>
+	<!-- Original string: Update -->
 	<string name="backup_update">Обновить</string>
+	<!-- Original string: Are you sure you wish to delete the selected? %dbackup? -->
 	<string name="batch_delete_backup_confirm">Резервные копии будут удалены</string>
+	<!-- Original string: Backup -->
 	<string name="button_backup">Создать резервную копию</string>
+	<!-- Original string: Cancel -->
 	<string name="button_cancel">Отмена</string>
+	<!-- Original string: Finish -->
 	<string name="button_finish">Закрыть</string>
+	<!-- Original string: Next -->
 	<string name="button_next">Вперед</string>
+	<!-- Original string: OK -->
 	<string name="button_ok">OК</string>
+	<!-- Original string: Back -->
 	<string name="button_return">Назад</string>
+	<!-- Original string: Call logs -->
 	<string name="call_title">Звонки</string>
+	<!-- Original string: Cancel -->
 	<string name="cancel">Отмена</string>
+	<!-- Original string: Cancel Backup -->
 	<string name="cancel_backup">Отмена</string>
+	<!-- Original string: Cancel Restore -->
 	<string name="cancel_restore">Отменить</string>
+	<!-- Original string: Cloud Backup -->
 	<string name="cloud_app_name">Облако</string>
+	<!-- Original string: Login to securely store and restore your backups -->
 	<string name="cloud_backup_hint">Вы должны войти в систему для онлайн резервного копирования</string>
+	<!-- Original string: Login using your Xiaomi account -->
 	<string name="cloud_backup_login">Войти в MIUI</string>
+	<!-- Original string: Cloud backup -->
 	<string name="cloud_backup_window_title">Облако</string>
+	<!-- Original string: Cloud -->
 	<string name="cloud_home_title">Онлайн</string>
+	<!-- Original string: " (Local : %1$s | Cloud : %2$s)" -->
 	<string name="cloud_item_info_summary">(Локально: %1$s|Онлайн: %2$s)</string>
+	<!-- Original string: Last Backup: -->
 	<string name="cloud_last_backup">Последняя:</string>
+	<!-- Original string: No cloud backup(s) -->
 	<string name="cloud_no_backup">Нет резервных копий</string>
+	<!-- Original string: Click Start Restoring to restore data\n You may also restore %s in Backup -->
 	<string name="cloud_restore_guide">Нажмите кнопку \"Начать\" для восстановления данных\nВы можете восстановить %s в бэкап.</string>
+	<!-- Original string: Restore backup data -->
 	<string name="cloud_restore_title">Восстановление</string>
+	<!-- Original string: Cloud recovery -->
 	<string name="cloud_restore_window_title">Восстановление из облака</string>
+	<!-- Original string: Searching Cloud... -->
 	<string name="cloud_search">Поиск...</string>
+	<!-- Original string: Retrieving backup info -->
 	<string name="compute_backup_info">Получение информации резервного копирования</string>
+	<!-- Original string: Searching for contacts to delete... -->
 	<string name="compute_delete_contact_info">Удаление информации контактов</string>
+	<!-- Original string: Contacts -->
 	<string name="contact_title">Контакты</string>
+	<!-- Original string: Logged in as: %s -->
 	<string name="current_account">Аккаунт %s</string>
+	<!-- Original string: Current SIM Card -->
 	<string name="current_sim">Текущая SIM-карта</string>
+	<!-- Original string: Not enough free internal storage space -->
 	<string name="data_no_enough_space">Не хватает памяти</string>
+	<!-- Original string: Restore may fail, please free some space and try again -->
 	<string name="data_no_enough_space_message">Резервное копирование может завершиться с ошибкой, пожалуйста освободите место на внутренней памяти</string>
+	<!-- Original string: Delete -->
 	<string name="delete">Удалить</string>
+	<!-- Original string: Deleting backup(s), please wait... -->
 	<string name="delete_backup_process">Выполняется удаление, пожалуйста, подождите...</string>
+	<!-- Original string: The backup file has errors, cannot be used for restoration -->
 	<string name="delete_failed_backup_confirm">Резервная копия имеет ошибки. Не возможно восстановить.</string>
+	<!-- Original string: Encryption disabled -->
 	<string name="disable_encrypt_title">Отключить шифрование</string>
+	<!-- Original string: Enable now -->
 	<string name="enable_encrypt">Включить сейчас</string>
+	<!-- Original string: Encryption enabled failed -->
 	<string name="enable_encrypt_fail">Включение шифрования не удалось</string>
+	<!-- Original string: Backup is not encrypted, click to enable. -->
 	<string name="enable_encrypt_indicator">Резервные копии не зашифрованы. Нажмите здесь, чтобы включить шифрование.</string>
+	<!-- Original string: OK -->
 	<string name="enable_encrypt_ok">OK</string>
+	<!-- Original string: System will encrypt your local backup based on Xiaomi account \n You need to log in Xiaomi account when factory reset or using other phone to restore the backup. -->
 	<string name="enable_encrypt_summery1">Система зашифрует Ваш локальный бэкап на основе аккаунта Xiaomi. Вам нужно будет войти в свою учетную запись Xiaomi - для удаления данных или использования с других устройств для восстановления резервной копии.</string>
+	<!-- Original string: The new backup will be automatically be encrypted \n Log in to your Xiaomi account for factory reset or use another phone to restore the backup. -->
 	<string name="enable_encrypt_summery2">Новый бэкап будет автоматически шифроваться. Вы должны войти в свой аккаунт Xiaomi - для удаления данных или использования с других устройств для восстановления резервной копии.</string>
+	<!-- Original string: Encryption enabled -->
 	<string name="enable_encrypt_title">Включить шифрование</string>
+	<!-- Original string: This backup was created by %1$s, please delete the current account, and log in %2$s to restore the data. -->
 	<string name="enable_encrypt_xiaomi_account">Эта резервная копия была создана %1$s. Пожалуйста, удалите текущий аккаунт, и войдите в %2$s для восстановления данных.</string>
+	<!-- Original string: Exchange account -->
 	<string name="exchange_account">Сменить аккаунт</string>
+	<!-- Original string: Failed -->
 	<string name="fail">Ошибка</string>
+	<!-- Original string: Recover deleted contacts -->
 	<string name="findlost_contact">Найти удаленые контакты</string>
+	<!-- Original string: Restore deleted contacts from cloud -->
 	<string name="findlost_contact_online">Онлайн восстановление контактов</string>
+	<!-- Original string: Cannot backup/restore in guarded mode -->
 	<string name="guarded_mode_dialog_message">Не могу работать в режиме защиты</string>
+	<!-- Original string: Guarded mode -->
 	<string name="guarded_mode_dialog_title">Режим защиты</string>
+	<!-- Original string: 1.\u0009Start a phone with contacts\n\n2.\u0009Install MiTalk and log in.\n\u0009http://www.miliao.com\n\n3.\u0009Enter MiTalk settings and choose ”Back up contacts to Xiaomi account” -->
 	<string name="import_from_xiaomi_account_hint1">1. Включите телефон с контактами\n2. Установите MiTalk и войдите в него\n http://www.miliao.com\n3. Зайдите в настройки MiTalk и выберите Создать резервную копию контактов в аккаунт Xiaomi</string>
+	<!-- Original string: Note: Go to next step if backup already exists -->
 	<string name="import_from_xiaomi_account_hint2">Примечание: Перейдите к следующему шагу, если резервная копия уже существует</string>
+	<!-- Original string: Use MiTalk to back up contacts on other devices, not MI-ONE -->
 	<string name="import_from_xiaomi_account_hint_title">Используйте MiTalk для резервного копирования контактов на других устройствах</string>
+	<!-- Original string: Backup -->
 	<string name="local_app_name">Резервное копирование</string>
+	<!-- Original string: Local backup data -->
 	<string name="local_backup_window_title">Локальное</string>
+	<!-- Original string: Local backup -->
 	<string name="local_home_title">Локальное</string>
+	<!-- Original string: No local backup(s) -->
 	<string name="local_no_backup">Нет резервных копий</string>
+	<!-- Original string: Local recovery -->
 	<string name="local_restore_window_title">Локальное восстановление</string>
+	<!-- Original string: Accounts &amp; contact -->
 	<string name="local_select_account_contact">Аккауты и контакты</string>
+	<!-- Original string: System -->
 	<string name="local_select_sysdata">Настройки системы</string>
+	<!-- Original string: Applications -->
 	<string name="local_select_userapp">Приложения + данные</string>
+	<!-- Original string: Delete backup(s) -->
 	<string name="menu_patch_delete">Удаление резервных копий</string>
+	<!-- Original string: MiTalk upgraded to Xiaomi account\n Enjoy all Xiaomi online services -->
 	<string name="miliao_account_guide">MiTalk повышен до аккаунта Xiaomi\nНаслаждайтесь всеми сервисами Xiaomi</string>
+	<!-- Original string: Login MiTalk -->
 	<string name="miliao_account_login">Войти в MiTalk</string>
+	<!-- Original string: Multimedia messaging -->
 	<string name="mms_title">Сообщения MMS</string>
+	<!-- Original string: Selected %1$s item(s) -->
 	<string name="multi_select_title">Выбрано: %1$s</string>
+	<!-- Original string: No encrypted password -->
 	<string name="no_encrypt_password">Нет шифрования пароля</string>
+	<!-- Original string: Network error\n Please check network connection and try again -->
 	<string name="no_network">Нет сетевого соединения Пожалуйста, проверьте ваше соединение и попробуйте еще раз</string>
+	<!-- Original string: Notes -->
 	<string name="note_title">Заметки</string>
+	<!-- Original string: No search results found -->
 	<string name="nothing_searched">Ничего не найдено</string>
+	<!-- Original string: Backing up... -->
 	<string name="progress_backup_hint">Резервное копирование...</string>
+	<!-- Original string: Restoring... -->
 	<string name="progress_restore_hint">Восстановление данных...</string>
+	<!-- Original string: Reading... -->
 	<string name="prompt_reading">Чтение...</string>
+	<!-- Original string: Uploading... -->
 	<string name="prompt_sending">Отправка...</string>
+	<!-- Original string: Saving... -->
 	<string name="prompt_writing">Запись...</string>
+	<!-- Original string: Encryption read failed -->
 	<string name="read_encrypt_fail">Не удалось расшифровать</string>
+	<!-- Original string: Refresh -->
 	<string name="refresh">Обновление</string>
+	<!-- Original string: Restore -->
 	<string name="restore">Восстановление</string>
+	<!-- Original string: Restore Contacts -->
 	<string name="restore_contact">Восстановление контактов</string>
+	<!-- Original string: Restoring contacts may result in duplicates, are you sure you want to do this?.\n Note: You can merge duplicate contacts in contact list settings -->
 	<string name="restore_contact_content">При восстановлении адресной книги может произойти дублирование контактов, продолжить?</string>
+	<!-- Original string: (Note: You need to manually establish the original account before restoring Contacts) -->
 	<string name="restore_contacts_hit">Примечание: для восстановления контактов необходимо вручную создать оригинальный аккаунт</string>
+	<!-- Original string: Recovery: -->
 	<string name="restore_counts">Восстановление:</string>
+	<!-- Original string: Restore data -->
 	<string name="restore_data">Восстановить</string>
+	<!-- Original string: Restore failed. -->
 	<string name="restore_failed">Ошибка восстановления</string>
+	<!-- Original string: Restore completed -->
 	<string name="restore_finished">Восстановление выполнено</string>
+	<!-- Original string: (Note: Restore launcher layout) -->
 	<string name="restore_launcher_layout_hit">- Заменит расположение значков</string>
+	<!-- Original string: Restoring... -->
 	<string name="restore_progress">Идет восстановление данных...</string>
+	<!-- Original string: Restore report -->
 	<string name="restore_report">Журнал восстановления</string>
+	<!-- Original string: (Note: The recovery process will restart Phone application) -->
 	<string name="restore_telephony_hit">Примечание: Процесс восстановления перезагрузит приложение</string>
+	<!-- Original string: Retry -->
 	<string name="retry">Повторить</string>
+	<!-- Original string: Clear All -->
 	<string name="reverse_all">Снять все</string>
+	<!-- Original string: Bad request -->
 	<string name="sc_bad_request">Ошибочный запрос</string>
+	<!-- Original string: Internal server error -->
 	<string name="sc_internal_server_error">Внутренняя ошибка сервера</string>
+	<!-- Original string: Network connection error -->
 	<string name="sc_network_unavailable">Сеть не доступна</string>
+	<!-- Original string: Program exception -->
 	<string name="sc_others">Исключение программы</string>
+	<!-- Original string: Your Xiaomi account has not been allocated with any email address -->
 	<string name="sc_precondition_failed">Ваш акккаунт Xiaomi не связан с любым адресом электронной почты</string>
+	<!-- Original string: Request timed out -->
 	<string name="sc_request_timeout">Тайм-аут запроса</string>
+	<!-- Original string: Cloud service unavailable -->
 	<string name="sc_service_unavailable">Возможно сервис недоступен</string>
+	<!-- Original string: "Don't store Wi-Fi password details" -->
 	<string name="sc_unaccess_password_file">Не хранить пароли сетей Wi-Fi</string>
+	<!-- Original string: Invalid verification. Please re-login -->
 	<string name="sc_unauthorized">Сертификация не действительна</string>
+	<!-- Original string: Not enough free space on SD card -->
 	<string name="sdcard_no_enough_space">Не хватает памяти на SD-карте</string>
+	<!-- Original string: Backup may fail, please free some space and try again -->
 	<string name="sdcard_no_enough_space_message">Резервное копирование может завершиться с ошибкой, пожалуйста освободите место на SD-карте</string>
+	<!-- Original string: SD card unmounted or not found! -->
 	<string name="sdcard_unmounted">SD-карта не найдена или отключена</string>
+	<!-- Original string: Select All -->
 	<string name="select_all">Все</string>
+	<!-- Original string: Select backup item -->
 	<string name="select_backup_item">Выбор бэкапа</string>
+	<!-- Original string: Service stopped -->
 	<string name="service_stoped">Служба остановилась</string>
+	<!-- Original string: Backup phone and messaging settings -->
 	<string name="settings_summary">- Настройки телефона и сообщений</string>
+	<!-- Original string: Messaging -->
 	<string name="sms_title">Сообщения</string>
+	<!-- Original string: Backup program and program data -->
 	<string name="software_backup_info">Пользовательские приложения с данными</string>
+	<!-- Original string: Start backup -->
 	<string name="start_backup">Начать</string>
+	<!-- Original string: Restore -->
 	<string name="start_restore">Начать восстановление</string>
+	<!-- Original string: Completed -->
 	<string name="succeed">Успешно завершено</string>
+	<!-- Original string: Backup -->
 	<string name="system_backup">Бэкап</string>
+	<!-- Original string: System settings and desktop layout etc. -->
 	<string name="system_backup_info">Настройки всех системных приложений</string>
+	<!-- Original string: Cancelling backup... -->
 	<string name="task_backup_cancel_progress">Остановка процесса...</string>
+	<!-- Original string: Backup completed -->
 	<string name="task_backup_finished_local">Резервное копирование выполнено успешно!</string>
+	<!-- Original string: Cancelled -->
 	<string name="task_canceled">Отменено</string>
+	<!-- Original string: Cancel Task -->
 	<string name="task_canceled_all_local">Все задачи отменены</string>
+	<!-- Original string: The following %s task(s) were cancelled -->
 	<string name="task_canceled_local">Задач отменено: %1$s</string>
+	<!-- Original string: Backup not yet completed\nClick OK to cancel this task -->
 	<string name="task_cloud_backup_cancel_dialog">Резервное копирование не было завершено.\nНажмите кнопку OK, чтобы отменить незавершенную задачу</string>
+	<!-- Original string: Failed -->
 	<string name="task_failed">Не удалось</string>
+	<!-- Original string: Task failed -->
 	<string name="task_failed_all_local">Ошибки во всех задачах</string>
+	<!-- Original string: The task %s has failed to complete -->
 	<string name="task_failed_local">Ошибка в задачах (%1$s)</string>
+	<!-- Original string: Finished -->
 	<string name="task_finished">Завершено</string>
+	<!-- Original string: Backup not yet completed\nClick OK to cancel this task -->
 	<string name="task_local_backup_cancel_dialog">Резервное копирование не было завершено.\nНажмите кнопку OK, чтобы удалить эту резервную копию</string>
+	<!-- Original string: Pending -->
 	<string name="task_pending">В ожидании</string>
+	<!-- Original string: Post-processing -->
 	<string name="task_post_running">Пост-обработка...</string>
+	<!-- Original string: Preparing -->
 	<string name="task_pre_running">Подготовка</string>
+	<!-- Original string: Progress -->
 	<string name="task_progress">Прогресс</string>
+	<!-- Original string: Restore not completed\ncancelling restore may cause data corruption to occur -->
 	<string name="task_restore_cancel_dialog">Вы собираетесь отменить операцию.\nЭто может привести к потере данных!</string>
+	<!-- Original string: Cancelling... -->
 	<string name="task_restore_cancel_progress">Остановка процесса...</string>
+	<!-- Original string: Restore completed -->
 	<string name="task_restore_finished_local">Восстановление завершено</string>
+	<!-- Original string: No need to restore -->
 	<string name="task_restore_none">Не нуждается в восстановлении</string>
+	<!-- Original string: Background backup is in progress, press OK to view. -->
 	<string name="task_running_backup_dialog">Резервное копирование в процессе, нажмите кнопку OK для просмотра.</string>
+	<!-- Original string: Service is running in the background, please try again to backup! -->
 	<string name="task_running_backup_hint">Сервис запущен в фоне, попробуйте снова сделать резервное копирование!</string>
+	<!-- Original string: Background backup and recovery is in progress, press OK to view. -->
 	<string name="task_running_dialog">Фоновый прогресс резервного копирования и восстановления, чтобы увидеть его, нажмите ОК</string>
+	<!-- Original string: Service is running in the background, please try again to restore this backup! -->
 	<string name="task_running_hint">Служба работает в фоновом режиме, пожалуйста, попробуйте еще раз, чтобы восстановить эту резервную копию!</string>
+	<!-- Original string: Background Restore is in progress, press OK to view. -->
 	<string name="task_running_restore_dialog">Восстановление в процессе, нажмите кнопку OK для просмотра.</string>
+	<!-- Original string: Service is running in the background, please try again to restore! -->
 	<string name="task_running_restore_hint">Сервис запущен в фоне, попробуйте снова сделать восстановление!</string>
+	<!-- Original string: Service is not started, please wait! -->
 	<string name="task_service_not_launched">Сервис не запустился, ждите!</string>
+	<!-- Original string: Task aborted -->
 	<string name="task_stopped_exception">Прервано</string>
+	<!-- Original string: %d record(s) in total -->
 	<string name="total_num">%d всего записей</string>
+	<!-- Original string: " Bytes" -->
 	<string name="unit_byte">б</string>
+	<!-- Original string: " Item(s)" -->
 	<string name="unit_piece">" записей"</string>
+	<!-- Original string: Unknown -->
 	<string name="unknown_hint">Неизвестно</string>
+	<!-- Original string: Wi-Fi settings -->
 	<string name="wifi_title">Настройки Wi-Fi</string>
 </resources>

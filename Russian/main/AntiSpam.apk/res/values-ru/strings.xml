@@ -1,134 +1,264 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--Merged and sorted with KDG BigBlackBox-->
 <resources>
+	<!-- Original string: Accept -->
 	<string name="act_action_accept_accept">Принимать всё</string>
+	<!-- Original string: Mute messages -->
 	<string name="act_action_accept_mute">Сообщения без звука</string>
+	<!-- Original string: Block messages -->
 	<string name="act_action_accept_reject">Блокировать сообщения</string>
+	<!-- Original string: Mute calls -->
 	<string name="act_action_mute_accept">Вызов без звука</string>
+	<!-- Original string: Mute calls and messages -->
 	<string name="act_action_mute_mute">Сообщения и вызовы без звука</string>
+	<!-- Original string: Mute calls and monitor messages -->
 	<string name="act_action_mute_reject">Блокировать сообщения, вызовы без звука</string>
+	<!-- Original string: Monitor calls -->
 	<string name="act_action_reject_accept">Отклонять сообщения</string>
+	<!-- Original string: Monitor calls and mute messages -->
 	<string name="act_action_reject_mute">Отклонять сообщения, звонки без звука</string>
+	<!-- Original string: Monitor incoming calls and messages -->
 	<string name="act_action_reject_reject">Отклонять сообщения и звонки</string>
+	<!-- Original string: Log calls -->
 	<string name="act_call">Вызовы</string>
+	<!-- Original string: "Don't display" -->
 	<string name="act_del_ms">Не отображать на экране</string>
+	<!-- Original string: Rejected messages will not be displayed -->
 	<string name="act_del_ms_summary">Отклоненные сообщения не будут отображаться</string>
+	<!-- Original string: Hang up immediately -->
 	<string name="act_hangup_call">Сразу сбросить</string>
+	<!-- Original string: Rejected calls will not be displayed in the call log -->
 	<string name="act_hangup_call_summary">Отклоненные номера не будут отображаться в журнале вызовов</string>
+	<!-- Original string: "Don't log calls" -->
 	<string name="act_ignore_call">Не перехватывать звонки</string>
+	<!-- Original string: Ignore notifications -->
 	<string name="act_ignore_ms">Игнорировать уведомления</string>
+	<!-- Original string: Log messages -->
 	<string name="act_ms">Сообщения</string>
+	<!-- Original string: Mute calls -->
 	<string name="act_mute_call">Звонки без звука</string>
+	<!-- Original string: Calls will not display notifications but will still be logged to the call log -->
 	<string name="act_mute_call_summary">Уведомления о звонках будут отключены (звонки будут сохранены в журнале вызовов)</string>
+	<!-- Original string: Mute notifications -->
 	<string name="act_mute_ms">Сообщения без звука</string>
+	<!-- Original string: Notifications are disabled but messages will still be viewable -->
 	<string name="act_mute_ms_summary">Уведомления о сообщениях будут отключены (сообщения будут доступны для просмотра)</string>
+	<!-- Original string: Add to blacklist -->
 	<string name="add_blacklist">Добавить в черный список</string>
+	<!-- Original string: Add -->
 	<string name="add_button">Добавить шаблон</string>
+	<!-- Original string: Add to whitelist -->
 	<string name="add_whitelist">Добавить в белый список</string>
+	<!-- Original string: Intercept and block private or withheld numbers and log them -->
 	<string name="anti_private_summary">Перехват звонков со скрытым номером</string>
+	<!-- Original string: Block private numbers -->
 	<string name="anti_private_title">Скрытые номера</string>
+	<!-- Original string: Contacts not in address book are filtered -->
 	<string name="anti_stranger_summary">Отклонять неизвестные номера</string>
+	<!-- Original string: Anti-stranger mode -->
 	<string name="anti_stranger_title">Режим \"Свои\"</string>
+	<!-- Original string: Anti-Spam -->
 	<string name="app_name">Антиспам</string>
+	<!-- Original string: Filters -->
 	<string name="black_white_list_tab_title">Списки</string>
+	<!-- Original string: Black list -->
 	<string name="blacklist_tab_title">Черный список</string>
+	<!-- Original string: Call log -->
 	<string name="call_log_tab_title">Звонки</string>
+	<!-- Original string: Call log -->
 	<string name="calllog">Журнал вызовов</string>
+	<!-- Original string: Cancel -->
 	<string name="cancel_button">Отмена</string>
+	<!-- Original string: Select all -->
 	<string name="check_all">Выбрать все</string>
+	<!-- Original string: Deselect all -->
 	<string name="check_nothing">Снять выделение</string>
+	<!-- Original string: Clear call log -->
 	<string name="clear_all_calllog">Очистить</string>
+	<!-- Original string: Clear message log -->
 	<string name="clear_all_mslog">Очистить</string>
+	<!-- Original string: Disable firewall rules -->
 	<string name="close_rule">Принимать все</string>
+	<!-- Original string: OK -->
 	<string name="confirm">OK</string>
+	<!-- Original string: Are you sure to clear the blacklist? -->
 	<string name="confirm_clear_blacklist">Вы уверены, что хотите очистить черный список?</string>
+	<!-- Original string: Are you sure to clear the whitelist? -->
 	<string name="confirm_clear_whitelist">Вы уверены, что хотите очистить белый список?</string>
+	<!-- Original string: Add to existing contact -->
 	<string name="context_add_contact">Добавить в существующий контакт</string>
+	<!-- Original string: Call -->
 	<string name="context_call">Вызвать</string>
+	<!-- Original string: Send SMS -->
 	<string name="context_ms">Отправить сообщение</string>
+	<!-- Original string: New contact -->
 	<string name="context_new_contact">Новый контакт</string>
+	<!-- Original string: Edit note -->
 	<string name="edit_blacklist">Редактировать</string>
+	<!-- Original string: Edit note -->
 	<string name="edit_whitelist">Редактировать</string>
+	<!-- Original string: All blocked calls will be logged here. -->
 	<string name="emptylist_fwlog_call">Все заблокированные звонки будут храниться в этом журнале</string>
+	<!-- Original string: All blocked SMS and MMS messages will be logged here. -->
 	<string name="emptylist_fwlog_ms">Все заблокированные сообщения будут храниться в этом журнале</string>
+	<!-- Original string: Enable firewall -->
 	<string name="enable_firewall">Включить фильтрацию</string>
+	<!-- Original string: Blocking operation -->
 	<string name="firewall_action">Действия брандмаузера</string>
+	<!-- Original string: Firewall log -->
 	<string name="firewall_log">Записи фильтра</string>
+	<!-- Original string: DND settings -->
 	<string name="firewall_settings">Настройки фильтрации</string>
+	<!-- Original string: Rules -->
 	<string name="firewall_settings_tab_title">Антиспам</string>
+	<!-- Original string: Firewall settings -->
 	<string name="fw_action_settings">Настройки фильтрации</string>
+	<!-- Original string: Add keyword -->
 	<string name="fw_add_keyword">Введите шаблон</string>
+	<!-- Original string: Keyword: %s already defined -->
 	<string name="fw_add_keyword_existing">Шаблон %s уже добавлен</string>
+	<!-- Original string: Input phone number -->
 	<string name="fw_add_list_title">Введите телефонный номер</string>
+	<!-- Original string: Advanced settings -->
 	<string name="fw_advanced_settings">Расширенные настройки</string>
+	<!-- Original string: Daily -->
 	<string name="fw_all_day">Круглосуточно</string>
+	<!-- Original string: Blacklist -->
 	<string name="fw_blacklist">Черный список</string>
+	<!-- Original string: Calls and messages will be blocked by default -->
 	<string name="fw_blacklist_hint">Все звонки и сообщения от контактов из этого списка будут заблокированы</string>
+	<!-- Original string: Blocked stats -->
 	<string name="fw_blocked">Антиспам</string>
+	<!-- Original string: Intercepted:%dCalls and %dMessages -->
 	<string name="fw_blocked_count" formatted="false">Звонки: %d, SMS: %d</string>
+	<!-- Original string: Call time: %s (%d) -->
 	<string name="fw_call" formatted="false">Перехват вызовов: %s (%d)</string>
+	<!-- Original string: Import Calllog -->
 	<string name="fw_call_imported">Импортировать журнал</string>
+	<!-- Original string: Calls Muted -->
 	<string name="fw_call_muted">Вызов без звука</string>
+	<!-- Original string: Calls Rejected -->
 	<string name="fw_call_rejected">Вызов заблокирован</string>
+	<!-- Original string: Clear all keywords -->
 	<string name="fw_clear_all_keyword">Очистить все шаблоны</string>
+	<!-- Original string: Clear blacklist -->
 	<string name="fw_clear_blacklist">Очистить черный список</string>
+	<!-- Original string: Clear whitelist -->
 	<string name="fw_clear_whitelist">Очистить белый список</string>
+	<!-- Original string: Edit keyword -->
 	<string name="fw_edit_keyword">Редактировать шаблон</string>
+	<!-- Original string: End time -->
 	<string name="fw_end_time">Время окончания</string>
+	<!-- Original string: Import blacklist -->
 	<string name="fw_import_blacklist">Добавить в черный список</string>
+	<!-- Original string: %d numbers are selected, are you sure to import into blacklist? -->
 	<string name="fw_import_blacklist_confirm">Импортировать номера (%d) в черный список?</string>
+	<!-- Original string: Import all Call log and Messages -->
 	<string name="fw_import_ms">Импорт контактов и SMS</string>
+	<!-- Original string: Import whitelist -->
 	<string name="fw_import_whitelist">Добавить в белый список</string>
+	<!-- Original string: %d numbers are selected, are you sure to import into whitelist? -->
 	<string name="fw_import_whitelist_confirm">Импортировать номера (%d) в белый список?</string>
+	<!-- Original string: Number: %s is already in the blacklist -->
 	<string name="fw_in_blacklist">Номер %s уже существует в черном списке</string>
+	<!-- Original string: Number: %s is already in the whitelist -->
 	<string name="fw_in_whitelist">Номер %s уже существует в белом списке</string>
+	<!-- Original string: Spam keyword filter -->
 	<string name="fw_keyword_filter">Фильтр по шаблону</string>
+	<!-- Original string: Filter messages which match selected keywords -->
 	<string name="fw_keyword_filter_summary">Фильтрация сообщений на основе шаблонов</string>
+	<!-- Original string: Keyword list -->
 	<string name="fw_keyword_list">Список шаблонов</string>
+	<!-- Original string: Keywords entered here will be used to block incoming messages -->
 	<string name="fw_keyword_list_hint">Список шаблонов для фильрации сообщений</string>
+	<!-- Original string: Log -->
 	<string name="fw_log_inf">Журнал</string>
+	<!-- Original string: Add to blacklist -->
 	<string name="fw_menu_new_blacklist_title">Добавить в черный список</string>
+	<!-- Original string: Enter number manually -->
 	<string name="fw_menu_new_manual">Добавить номер вручную</string>
+	<!-- Original string: Add to whitelist -->
 	<string name="fw_menu_new_whitelist_title">Добавить в белый список</string>
+	<!-- Original string: Select from contacts -->
 	<string name="fw_menu_pick_from_contact">Выбрать из списка контактов</string>
+	<!-- Original string: Delete -->
 	<string name="fw_menu_remove">Удалить</string>
+	<!-- Original string: Message time: %s (%d) -->
 	<string name="fw_ms" formatted="false">Перехвачено сообщений: %s (%d)</string>
+	<!-- Original string: Messages Filtered -->
 	<string name="fw_ms_filtered">Сообщение отфильтровано</string>
+	<!-- Original string: Import Messages -->
 	<string name="fw_ms_imported">Сообщение импортировано</string>
+	<!-- Original string: Messages Muted -->
 	<string name="fw_ms_muted">Сообщение без звука</string>
+	<!-- Original string: Messages Rejected -->
 	<string name="fw_ms_rejected">Сообщение заблокировано</string>
+	<!-- Original string: Guard Mode is not enabled. Do you want to enable it? -->
 	<string name="fw_no_effect">Режим защиты не включен</string>
+	<!-- Original string: Note (optional) -->
 	<string name="fw_notes_hint">Примечание (необязательно)</string>
+	<!-- Original string: Notification settings -->
 	<string name="fw_notification_settings">Уведомления</string>
+	<!-- Original string: DND enabled -->
 	<string name="fw_on">Фильтрация включена</string>
+	<!-- Original string: Define blocking duration -->
 	<string name="fw_period">Период</string>
+	<!-- Original string: Restore messages -->
 	<string name="fw_restore_ms">Вернуться к Сообщениям</string>
+	<!-- Original string: Configure keyword filter -->
 	<string name="fw_set_keyword">Список шаблонов</string>
+	<!-- Original string: Start time -->
 	<string name="fw_start_time">Время начала</string>
+	<!-- Original string: Blocking schedule -->
 	<string name="fw_time_settings">Блокировка по расписанию</string>
+	<!-- Original string: Whitelist -->
 	<string name="fw_whitelist">Белый список</string>
+	<!-- Original string: Calls and messages will not be blocked by default -->
 	<string name="fw_whitelist_hint">Все звонки и сообщения от контактов из этого списка будут доступны</string>
+	<!-- Original string: Blocked: Number%d, details%d -->
 	<string name="member_firewall_log" formatted="false">Заблокировано звонков: %d, SMS: %d</string>
+	<!-- Original string: Edit -->
 	<string name="menu_edit">Изменить</string>
+	<!-- Original string: Message log -->
 	<string name="mms_log_tab_title">Сообщения</string>
+	<!-- Original string: Add contacts -->
 	<string name="new_bw_list_button">Добавить номер</string>
+	<!-- Original string: Cancel -->
 	<string name="no">Отмена</string>
+	<!-- Original string: Input number to add to blacklist -->
 	<string name="number_add_hint">Введите номер</string>
+	<!-- Original string: Accept from whitelist -->
 	<string name="opt_accept_whitelist">Принимать из белого списка</string>
+	<!-- Original string: Reject all -->
 	<string name="opt_reject_all">Отклонять все</string>
+	<!-- Original string: Reject from blacklist -->
 	<string name="opt_reject_blacklist">Отклонять из черного списка</string>
+	<!-- Original string: Reject unknown calls -->
 	<string name="opt_reject_blacklist_stranger">Отклонять неизвестные</string>
+	<!-- Original string: Calls will be rejected from blacklist but allowed from whitelist -->
 	<string name="opt_reject_blacklist_stranger_summary">Не принимать звонки и сообщения с неизвестных номеров и от контактов из черного списка</string>
+	<!-- Original string: Delete -->
 	<string name="remove">Удалить</string>
+	<!-- Original string: Are you sure you want to delete all keywords? -->
 	<string name="remove_all_keywords">Вы уверены, что хотите удалить все шаблоны?</string>
+	<!-- Original string: Are you sure you want to delete all call logs? -->
 	<string name="remove_call_log">Удалить все вызовы?</string>
+	<!-- Original string: Are you sure you want to delete this contact? -->
 	<string name="remove_contact">Удалить выбранный контакт?</string>
+	<!-- Original string: Delete -->
 	<string name="remove_delete">Удалить</string>
+	<!-- Original string: Are you sure you want to delete this record? -->
 	<string name="remove_inf">Удалить выбранную информацию?</string>
+	<!-- Original string: Are you sure you want to delete this keyword? -->
 	<string name="remove_keyword">Вы уверены, что хотите удалить выбранный шаблон?</string>
+	<!-- Original string: Are you sure you want to delete all sms logs? -->
 	<string name="remove_sms">Удалить все сообщение?</string>
+	<!-- Original string: Save -->
 	<string name="save_button">Сохранить</string>
+	<!-- Original string: Show firewall notifications -->
 	<string name="show_firewall_notification">Иконка</string>
+	<!-- Original string: Show notifications -->
 	<string name="show_notification">Уведомления</string>
+	<!-- Original string: White list -->
 	<string name="whitelist_tab_title">Белый список</string>
 </resources>

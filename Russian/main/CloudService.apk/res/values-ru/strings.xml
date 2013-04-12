@@ -1,14 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--Merged and sorted with KDG BigBlackBox-->
 <resources>
+	<!-- Original string: Xiaomi sync -->
 	<string name="app_name">Менеджер аккаунтов Xiaomi</string>
+	<!-- Original string: Find device -->
 	<string name="find_device">Найти устройство</string>
+	<!-- Original string: Click \"OK\" to stop sound -->
 	<string name="find_device_stop_noise">Нажмите \"OK\", чтобы остановить сигнал</string>
+	<!-- Original string: Recommended to enable, otherwise it will consume the network traffic -->
 	<string name="pref_summary_sync_display_photo_on_wifi_only">Рекомендуется включить, иначе возможно чрезмерное потребление трафика</string>
+	<!-- Original string: Sync contacts -->
 	<string name="pref_title_sync_contacts_title">Синхронизация контактов</string>
+	<!-- Original string: Display photos: Wi-Fi only -->
 	<string name="pref_title_sync_display_photo_on_wifi_only">Только по Wi-Fi: фото</string>
+	<!-- Original string: Recommend to enable, otherwise it will increase data charges. -->
 	<string name="sub_sync_item_sms_summary">Рекомендуется включить, иначе возможно чрезмерное потребление трафика</string>
+	<!-- Original string: Synchronize MMS: Wi-Fi only -->
 	<string name="sub_sync_item_sms_title_wifi_only">Только по Wi-Fi: MMS</string>
+	<!-- Original string: Turn on after text messages have been sychronized. -->
 	<string name="sync_item_sms_summary">Прочитанные SMS сообщения будут автоматически синхронизированы</string>
+	<!-- Original string: Sync SMS -->
 	<string name="sync_item_sms_title">Синхронизация SMS</string>
 </resources>

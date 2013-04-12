@@ -1,8 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--Merged and sorted with KDG BigBlackBox-->
 <resources>
+	<!-- Original string: Search Applications Provider -->
 	<string name="app_label">Приложения</string>
+	<!-- Original string: Application -->
 	<string name="application_desc">Приложение</string>
+	<!-- Original string: Apps -->
 	<string name="search_label">Приложения</string>
+	<!-- Original string: Names of installed applications -->
 	<string name="settings_description">Поиск программ</string>
 </resources>

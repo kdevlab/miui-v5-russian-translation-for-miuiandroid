@@ -1,455 +1,906 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--Merged and sorted with KDG BigBlackBox-->
 <resources>
+	<!-- Original string: Start page -->
 	<string name="MIUI_startpage">Стартовая страница</string>
+	<!-- Original string: Bookmark page -->
 	<string name="accessibility_button_addbookmark">Добавить страницу в закладки</string>
+	<!-- Original string: Go back -->
 	<string name="accessibility_button_back">Назад</string>
+	<!-- Original string: Bookmark -->
 	<string name="accessibility_button_bookmark">Закладки</string>
+	<!-- Original string: Bookmarks -->
 	<string name="accessibility_button_bookmarks">Закладки</string>
+	<!-- Original string: Clear input -->
 	<string name="accessibility_button_clear">Очистить ввод</string>
+	<!-- Original string: Close window -->
 	<string name="accessibility_button_closetab">Закрыть вкладку</string>
+	<!-- Original string: Go forward -->
 	<string name="accessibility_button_forward">Вперед</string>
+	<!-- Original string: Go -->
 	<string name="accessibility_button_go">Перейти</string>
+	<!-- Original string: Go -->
 	<string name="accessibility_button_goto">Перейти</string>
+	<!-- Original string: Larger -->
 	<string name="accessibility_button_larger">Больше</string>
+	<!-- Original string: More options -->
 	<string name="accessibility_button_more">Другие варианты</string>
+	<!-- Original string: Page manager -->
 	<string name="accessibility_button_navscreen">Менеджер страниц</string>
+	<!-- Original string: Open new incognito tab -->
 	<string name="accessibility_button_newincognitotab">Открыть новую вкладку в режиме инкогнито</string>
+	<!-- Original string: New page -->
 	<string name="accessibility_button_newtab">Новая вкладка</string>
+	<!-- Original string: Refresh page -->
 	<string name="accessibility_button_refresh">Обновить страницу</string>
+	<!-- Original string: Search -->
 	<string name="accessibility_button_search">Поиск</string>
+	<!-- Original string: Smaller -->
 	<string name="accessibility_button_smaller">Меньше</string>
+	<!-- Original string: Stop page load -->
 	<string name="accessibility_button_stop">Остановить загрузку страницы</string>
+	<!-- Original string: Pages -->
 	<string name="accessibility_button_tabs">Вкладки</string>
+	<!-- Original string: Switch user agent -->
 	<string name="accessibility_button_uaswitch">Переключить клиентское приложение</string>
+	<!-- Original string: Start voice search -->
 	<string name="accessibility_button_voice">Начать голосовой поиск</string>
+	<!-- Original string: Saved page -->
 	<string name="accessibility_state_frozen">Сохраненная страница</string>
+	<!-- Original string: Incognito page -->
 	<string name="accessibility_state_incognito">Страница в режиме инкогнито</string>
+	<!-- Original string: Window management -->
 	<string name="accessibility_transition_navscreen">Управление вкладками</string>
+	<!-- Original string: Account -->
 	<string name="account">Аккаунт</string>
+	<!-- Original string: Choose account -->
 	<string name="account_chooser_dialog_title">Выберите аккаунт</string>
+	<!-- Original string: Sign in -->
 	<string name="action">Вход</string>
+	<!-- Original string: New bookmark -->
 	<string name="add_bookmark">Добавить закладку</string>
+	<!-- Original string: Add -->
 	<string name="add_bookmark_short">Добавить</string>
+	<!-- Original string: Add folder -->
 	<string name="add_folder">Новая папка</string>
+	<!-- Original string: Add bookmark -->
 	<string name="add_new_bookmark">Добавить закладку</string>
+	<!-- Original string: Bookmarks -->
 	<string name="add_to_bookmarks_menu_option">Закладки</string>
+	<!-- Original string: Home screen -->
 	<string name="add_to_homescreen_menu_option">Главный экран</string>
+	<!-- Original string: Other folder -->
 	<string name="add_to_other_folder_menu_option">Другая папка</string>
+	<!-- Original string: Please login Xiaomi account first -->
 	<string name="add_xiaomi_account_warning">Пожалуйста, войдите в аккаунт Xiaomi</string>
+	<!-- Original string: Added to bookmarks. -->
 	<string name="added_to_bookmarks">Добавлено в закладки</string>
+	<!-- Original string: Allow -->
 	<string name="allow">Разрешить</string>
+	<!-- Original string: Browser -->
 	<string name="application_name">Браузер</string>
+	<!-- Original string: Address line 1 -->
 	<string name="autofill_profile_editor_address_line_1">Адресная строка 1:</string>
+	<!-- Original string: Street address, P.O. box, c/o -->
 	<string name="autofill_profile_editor_address_line_1_hint">Адрес, почтовый ящик, адрес до востребования</string>
+	<!-- Original string: Address line 2 -->
 	<string name="autofill_profile_editor_address_line_2">Адресная строка 2:</string>
+	<!-- Original string: Apartment, suite, unit, building, floor, etc. -->
 	<string name="autofill_profile_editor_address_line_2_hint">Квартира, офис, здание, этаж и т. д.</string>
+	<!-- Original string: City/Town -->
 	<string name="autofill_profile_editor_city">Город:</string>
+	<!-- Original string: Company name -->
 	<string name="autofill_profile_editor_company_name">Название компании:</string>
+	<!-- Original string: Country -->
 	<string name="autofill_profile_editor_country">Страна:</string>
+	<!-- Original string: Delete -->
 	<string name="autofill_profile_editor_delete_profile">Удалить</string>
+	<!-- Original string: Email -->
 	<string name="autofill_profile_editor_email_address">Эл. почта:</string>
+	<!-- Original string: Type the text you want to auto-fill in web forms -->
 	<string name="autofill_profile_editor_heading">Введите текст для автозаполнения</string>
+	<!-- Original string: Full name -->
 	<string name="autofill_profile_editor_name">Полное имя:</string>
+	<!-- Original string: Phone -->
 	<string name="autofill_profile_editor_phone_number">Номер телефона:</string>
+	<!-- Original string: Invalid phone number. -->
 	<string name="autofill_profile_editor_phone_number_invalid">Неправильный номер телефона</string>
+	<!-- Original string: Save -->
 	<string name="autofill_profile_editor_save_profile">Сохранить</string>
+	<!-- Original string: State/Province/Region -->
 	<string name="autofill_profile_editor_state">Регион:</string>
+	<!-- Original string: Zip code -->
 	<string name="autofill_profile_editor_zip_code">Почтовый индекс:</string>
+	<!-- Original string: Auto-fill text deleted. -->
 	<string name="autofill_profile_successful_delete">Текст автозаполнения удален</string>
+	<!-- Original string: Auto-fill text saved. -->
 	<string name="autofill_profile_successful_save">Текст автозаполнения сохранен</string>
+	<!-- Original string: The browser can automatically complete web forms like this one. Do you want to set up your auto-fill text? -->
 	<string name="autofill_setup_dialog_message">Браузер может автоматически заполнять такие веб-формы. Включить автозаполнение?</string>
+	<!-- Original string: You can always set up your auto-fill text from the Browser > Settings > General screen. -->
 	<string name="autofill_setup_dialog_negative_toast">Автозаполнение можно настроить в общих настройках браузера</string>
+	<!-- Original string: "Couldn't sign in." -->
 	<string name="autologin_bar_error">Не удалось войти</string>
+	<!-- Original string: Hide -->
 	<string name="autologin_bar_hide_text">Скрыть</string>
+	<!-- Original string: Sign in -->
 	<string name="autologin_bar_login_text">Войти</string>
+	<!-- Original string: Sign in as -->
 	<string name="autologin_bar_text">Войти как</string>
+	<!-- Original string: Back -->
 	<string name="back">Назад</string>
+	<!-- Original string: Block -->
 	<string name="block">Заблокировать</string>
+	<!-- Original string: Add to -->
 	<string name="bookmark_add_to">Добавить в</string>
+	<!-- Original string: "This URL can't be bookmarked." -->
 	<string name="bookmark_cannot_save_url">Невозможно добавить в закладки эту страницу</string>
+	<!-- Original string: List -->
 	<string name="bookmark_list_view">Список</string>
+	<!-- Original string: Bookmark must have a name. -->
 	<string name="bookmark_needs_title">Необходимо указать имя закладки</string>
+	<!-- Original string: Bookmark must have a location. -->
 	<string name="bookmark_needs_url">Необходимо указать место закладки</string>
+	<!-- Original string: "Couldn't save bookmark." -->
 	<string name="bookmark_not_saved">Не удалось сохранить закладку</string>
+	<!-- Original string: Bookmark last-viewed page -->
 	<string name="bookmark_page">Добавить в закладки последнюю просмотренную страницу</string>
+	<!-- Original string: Saved to bookmarks. -->
 	<string name="bookmark_saved">Сохранено в закладках</string>
+	<!-- Original string: Bookmark this page -->
 	<string name="bookmark_this_page">Закладка для этой страницы</string>
+	<!-- Original string: Add this page to reading list bookmark -->
 	<string name="bookmark_this_page_to_readmodelist">Добавить страницу с список чтения</string>
+	<!-- Original string: Thumbnails -->
 	<string name="bookmark_thumbnail_view">Изображения</string>
+	<!-- Original string: Label -->
 	<string name="bookmark_title">Имя</string>
+	<!-- Original string: "Couldn't save reading list bookmark." -->
 	<string name="bookmark_to_readmodelist_not_saved">Невозможно сохранить в список чтения</string>
+	<!-- Original string: Saved to reading list bookmark and covered original bookmark. -->
 	<string name="bookmark_to_readmodelist_saved">Сохранено в список чтения</string>
+	<!-- Original string: Url http:// -->
 	<string name="bookmark_url">Адрес</string>
+	<!-- Original string: "This URL isn't valid." -->
 	<string name="bookmark_url_not_valid">Неправильный URL</string>
+	<!-- Original string: Bookmarks -->
 	<string name="bookmarks">Закладки</string>
+	<!-- Original string: Bookmarks -->
 	<string name="bookmarks_management">Закладки</string>
+	<!-- Original string: Root Folder -->
 	<string name="bookmarks_root_folder">Корневая папка</string>
+	<!-- Original string: Browser -->
 	<string name="bookmarks_search">Браузер</string>
+	<!-- Original string: File problem -->
 	<string name="browserFrameFileErrorLabel">Проблема с файлом</string>
+	<!-- Original string: "The page you're trying to view contains data that has already been submitted (\"POSTDATA\"). If you resend the data, any action the form on the page carried out (such as a search or online purchase) will be repeated." -->
 	<string name="browserFrameFormResubmitMessage">Страница, которую Вы пытаетесь открыть, содержит уже отправленные данные (POSTDATA). В случае их повторной отправки повторятся все действия, выполненные на странице после заполнения формы (например, поиск или покупка)</string>
+	<!-- Original string: Connection problem -->
 	<string name="browserFrameNetworkErrorLabel">Ошибка подключения</string>
+	<!-- Original string: Bookmarks -->
 	<string name="browser_bookmarks_page_bookmarks_text">Закладки</string>
+	<!-- Original string: Recently-visited pages -->
 	<string name="browser_history">Недавно посещенные страницы</string>
+	<!-- Original string: Cancel -->
 	<string name="cancel">Отмена</string>
+	<!-- Original string: Can only download \"http\" or \"https\" URLs. -->
 	<string name="cannot_download">Загрузка возможна только с URL, начинающихся с \"http\" или \"https\"</string>
+	<!-- Original string: Choose file for upload -->
 	<string name="choose_upload">Выберите файл для загрузки</string>
+	<!-- Original string: Share via -->
 	<string name="choosertitle_sharevia">Способ отправки</string>
+	<!-- Original string: Clear -->
 	<string name="clear">Очистить</string>
+	<!-- Original string: Clear history -->
 	<string name="clear_history">Очистить историю</string>
+	<!-- Original string: Add to -->
 	<string name="containing_folder">Добавить в</string>
+	<!-- Original string: %d bookmarks -->
 	<string name="contextheader_folder_bookmarkcount">Закладок: %d</string>
+	<!-- Original string: Empty folder -->
 	<string name="contextheader_folder_empty">Папка пуста</string>
+	<!-- Original string: Add contact -->
 	<string name="contextmenu_add_contact">Добавить контакт</string>
+	<!-- Original string: Copy -->
 	<string name="contextmenu_copy">Копировать</string>
+	<!-- Original string: Copy link URL -->
 	<string name="contextmenu_copylink">Копировать URL ссылки</string>
+	<!-- Original string: Dial… -->
 	<string name="contextmenu_dial_dot">Набор номера...</string>
+	<!-- Original string: Save image -->
 	<string name="contextmenu_download_image">Сохранить изображение</string>
+	<!-- Original string: Save image as -->
 	<string name="contextmenu_download_image_as">Сохранить изображение как...</string>
+	<!-- Original string: Map -->
 	<string name="contextmenu_map">Карта</string>
+	<!-- Original string: Open -->
 	<string name="contextmenu_openlink">Открыть</string>
+	<!-- Original string: Open in new window -->
 	<string name="contextmenu_openlink_newwindow">Открыть в новой вкладке</string>
+	<!-- Original string: Open in new background window -->
 	<string name="contextmenu_openlink_newwindow_background">Открыть в фоновой вкладке</string>
+	<!-- Original string: Save link -->
 	<string name="contextmenu_savelink">Сохранить ссылку</string>
+	<!-- Original string: Send email -->
 	<string name="contextmenu_send_mail">Отправить сообщение по электронной почте</string>
+	<!-- Original string: Set as wallpaper -->
 	<string name="contextmenu_set_wallpaper">Установить как фоновый рисунок</string>
+	<!-- Original string: Share link -->
 	<string name="contextmenu_sharelink">Отправить ссылку</string>
+	<!-- Original string: View image -->
 	<string name="contextmenu_view_image">Просмотр изображения</string>
+	<!-- Original string: Copy page URL -->
 	<string name="copy_page_url">Скопировать URL страницы</string>
+	<!-- Original string: Browser quited unexpectedly last time. Do you want to reopen last session? -->
 	<string name="crash_recovcery_message">Браузер был завершен с ошибкой. Вы хотите восстановить последнюю сессию?</string>
+	<!-- Original string: Add shortcut to home -->
 	<string name="create_shortcut_bookmark">Добавить ярлык на главную</string>
+	<!-- Original string: "from " -->
 	<string name="current_page">"на "</string>
+	<!-- Original string: Bookmarks -->
 	<string name="defaultBookmarksUpButton">Закладки</string>
+	<!-- Original string: Delete -->
 	<string name="delete">Удалить</string>
+	<!-- Original string: Delete bookmark \"%s\"? -->
 	<string name="delete_bookmark_warning">Удалить закладку \"%s\"?</string>
+	<!-- Original string: Delete folder -->
 	<string name="delete_folder">Удалить папку</string>
+	<!-- Original string: Are you sure you want to delete these %1$s items? -->
 	<string name="delete_multi_bookmarks_alert_title">Вы уверены, что хотите удалить эти закладки (%1$s)?</string>
+	<!-- Original string: Disable auto-fill -->
 	<string name="disable_autofill">Отключить автозаполнение</string>
+	<!-- Original string: Cancel -->
 	<string name="do_not_save">Отмена</string>
+	<!-- Original string: USB storage is required to download %s. -->
 	<string name="download_no_sdcard_dlg_msg">Для загрузки файла %s требуется USB-накопитель.</string>
+	<!-- Original string: USB storage unavailable -->
 	<string name="download_no_sdcard_dlg_title">USB-накопитель недоступен</string>
+	<!-- Original string: Starting download… -->
 	<string name="download_pending">Начинается загрузка…</string>
+	<!-- Original string: The USB storage is busy. To allow downloads, touch Turn Off USB Storage in the notification. -->
 	<string name="download_sdcard_busy_dlg_msg">USB-накопитель занят. Чтобы разрешить загрузки, выберите \"Отключить USB-накопитель\" в уведомлении.</string>
+	<!-- Original string: USB storage unavailable -->
 	<string name="download_sdcard_busy_dlg_title">USB-накопитель недоступен</string>
+	<!-- Original string: Dump V8 counters -->
 	<string name="dump_counters">Сбросить счетчики V8</string>
+	<!-- Original string: Dump display tree to file -->
 	<string name="dump_display_tree">Дамп дерева отображения в файл</string>
+	<!-- Original string: Dump DOM tree to file -->
 	<string name="dump_dom_tree">Дамп DOM в файл</string>
+	<!-- Original string: Dump navigation cache -->
 	<string name="dump_nav">Сбросить кэш навигации</string>
+	<!-- Original string: Dump render tree to file -->
 	<string name="dump_render_tree">Дамп дерева рендеринга в файл</string>
+	<!-- Original string: Edit -->
 	<string name="edit">Изменить</string>
+	<!-- Original string: Edit bookmark -->
 	<string name="edit_bookmark">Изменить закладку</string>
+	<!-- Original string: Edit folder -->
 	<string name="edit_folder">Изменить папку</string>
+	<!-- Original string: No bookmarks. -->
 	<string name="empty_bookmarks_folder">Нет закладок</string>
+	<!-- Original string: No browser history -->
 	<string name="empty_history">Нет данных</string>
+	<!-- Original string: No saved pages. -->
 	<string name="empty_snapshots_folder">Нет сохраненных страниц</string>
+	<!-- Original string: Evaluate -->
 	<string name="error_console_eval_button_text">Оценить</string>
+	<!-- Original string: Evaluate JavaScript -->
 	<string name="error_console_eval_text_hint">Оценить JavaScript</string>
+	<!-- Original string: JavaScript console -->
 	<string name="error_console_header_text_maximized">Консоль JavaScript</string>
+	<!-- Original string: Show JavaScript console -->
 	<string name="error_console_header_text_minimized">Показать консоль JavaScript</string>
+	<!-- Original string: Exit browser ? -->
 	<string name="exit_browser_warning">Выйти из браузера?</string>
+	<!-- Original string: Export bookmarks -->
 	<string name="export_bookmark">Экспорт закладок</string>
+	<!-- Original string: Failed to export bookmarks to SD card! -->
 	<string name="export_bookmark_failure">Не удалось экспортировать закладки на SD-карту!</string>
+	<!-- Original string: Successfully exported bookmarks to SD card! -->
 	<string name="export_bookmark_sucess">Экспорт закладок на SD-карту завершён!</string>
+	<!-- Original string: My favorites -->
 	<string name="exported_bookmark_file_name">Избранное</string>
+	<!-- Original string: New folder -->
 	<string name="file_picker_new_folder">Новая папка</string>
+	<!-- Original string: SD card not detected. Please check if the device is currently mounted or in use -->
 	<string name="file_picker_sdcard_not_found">SD-карта не обнаружена, пожалуйста проверьте устройство</string>
+	<!-- Original string: Find on page -->
 	<string name="find_on_page">Найти на странице</string>
+	<!-- Original string: Folder name -->
 	<string name="folder_name">Имя папки</string>
+	<!-- Original string: Forward -->
 	<string name="forward">Вперед</string>
+	<!-- Original string: Decline -->
 	<string name="geolocation_permissions_prompt_dont_share">Отклонить</string>
+	<!-- Original string: %s wants to know your location -->
 	<string name="geolocation_permissions_prompt_message">%s запрашивает данные о Вашем местоположении</string>
+	<!-- Original string: Remember preference -->
 	<string name="geolocation_permissions_prompt_remember">Запомнить настройки</string>
+	<!-- Original string: Share location -->
 	<string name="geolocation_permissions_prompt_share">Разрешить</string>
+	<!-- Original string: This site can access your location. Change this on the Settings > Advanced > Website screen. -->
 	<string name="geolocation_permissions_prompt_toast_allowed">У этого сайта есть доступ к данным о Вашем местоположении. Чтобы запретить его, выберите \"Настройки -> Расширенные -> Настройки веб-сайтов\"</string>
+	<!-- Original string: This site cannot access your location. Change this on the Settings > Advanced > Website screen. -->
 	<string name="geolocation_permissions_prompt_toast_disallowed">У этого сайта нет доступа к данным о Вашем местоположении. Чтобы предоставить его, выберите \"Настройки -> Расширенные -> Настройки веб-сайтов\"</string>
+	<!-- Original string: Cancel -->
 	<string name="geolocation_settings_page_dialog_cancel_button">Отмена</string>
+	<!-- Original string: Clear location access for this website? -->
 	<string name="geolocation_settings_page_dialog_message">Закрыть этому сайту доступ к данным о Вашем местоположении?</string>
+	<!-- Original string: OK -->
 	<string name="geolocation_settings_page_dialog_ok_button">ОК</string>
+	<!-- Original string: This site can currently access your location -->
 	<string name="geolocation_settings_page_summary_allowed">Этот сайт сейчас имеет доступ к Вашему местоположению</string>
+	<!-- Original string: "This site can't currently access your location" -->
 	<string name="geolocation_settings_page_summary_not_allowed">У этого сайта сейчас нет доступа к данным о Вашем местоположении</string>
+	<!-- Original string: Clear location access -->
 	<string name="geolocation_settings_page_title">Закрыть геоданные</string>
+	<!-- Original string: Homepage -->
 	<string name="go_home">Домашняя страница</string>
+	<!-- Original string: "Google: " -->
 	<string name="google_bookmarks">"Google: "</string>
+	<!-- Original string: Go -->
 	<string name="goto_dot">Поиск</string>
+	<!-- Original string: Has sent to home screen -->
 	<string name="have_sent_bookmark_to_home_screen">Отправлено на рабочий стол</string>
+	<!-- Original string: History -->
 	<string name="history">История</string>
+	<!-- Original string: Homepage set. -->
 	<string name="homepage_set">Главная страница установлена</string>
+	<!-- Original string: Import bookmarks -->
 	<string name="import_bookmark">Импорт закладок</string>
+	<!-- Original string: Bookmarks failed to import! -->
 	<string name="import_bookmark_failure">Ошибка импорта Закладок!</string>
+	<!-- Original string: Bookmarks imported successfully -->
 	<string name="import_bookmark_sucess">Закладки успешно импортированы!</string>
+	<!-- Original string: Add bookmarks to Google account -->
 	<string name="import_bookmarks_dialog_add">Добавить закладки в аккаунт Google</string>
+	<!-- Original string: Add bookmarks currently on this device and begin syncing bookmarks with %s? -->
 	<string name="import_bookmarks_dialog_confirm_add">Добавить закладки, имеющиеся на этом устройстве, и начать синхронизацию с аккаунтом %s?</string>
+	<!-- Original string: Delete bookmarks currently on this device and begin syncing bookmarks with %s? -->
 	<string name="import_bookmarks_dialog_confirm_delete">Удалить закладки с устройства и начать синхронизацию с аккаунтом %s?</string>
+	<!-- Original string: Delete bookmarks currently on this device and begin syncing with Google account -->
 	<string name="import_bookmarks_dialog_delete_select_account">Удалить закладки с устройства и начать синхронизацию с аккаунтом Google</string>
+	<!-- Original string: "Bookmarks on this device are not yet associated with a Google account. Save these bookmarks by adding them to an account. Delete these bookmarks if you don't want to sync them." -->
 	<string name="import_bookmarks_dialog_description">Закладки на устройстве пока не связаны с аккаунтом Google. Чтобы сохранить и синхронизировать закладки, добавьте их в аккаунт. В противном случае просто удалите их</string>
+	<!-- Original string: Add your Android bookmarks to bookmarks for %s -->
 	<string name="import_bookmarks_dialog_import">Добавить закладки Android в аккаунт %s</string>
+	<!-- Original string: Delete bookmarks -->
 	<string name="import_bookmarks_dialog_remove">Удалить закладки</string>
+	<!-- Original string: Add bookmarks currently on this device and begin syncing with Google account -->
 	<string name="import_bookmarks_dialog_select_add_account">Добавить закладки, имеющиеся на этом устройстве, и начать синхронизацию с аккаунтом Google</string>
+	<!-- Original string: Sync with Google account -->
 	<string name="import_bookmarks_dialog_title">Синхронизация с аккаунтом Google</string>
+	<!-- Original string: Cancel -->
 	<string name="import_bookmarks_wizard_cancel">Отмена</string>
+	<!-- Original string: Done -->
 	<string name="import_bookmarks_wizard_done">Готово</string>
+	<!-- Original string: Next -->
 	<string name="import_bookmarks_wizard_next">Далее</string>
+	<!-- Original string: Previous -->
 	<string name="import_bookmarks_wizard_previous">Назад</string>
+	<!-- Original string: Importing data ... -->
 	<string name="importing_favorite_files">Импорт данных...</string>
+	<!-- Original string: Has gone incognito and no browser history will be left. -->
 	<string name="in_incognito">В режиме Инкогнито история браузера не сохраняется.</string>
+	<!-- Original string: Google with Instant (Labs) -->
 	<string name="instant_search_label">Google с Живым поиском (Лаборатория Google)</string>
+	<!-- Original string: Is the first history item already -->
 	<string name="is_first_history_item">Первая страница</string>
+	<!-- Original string: Is the first window already -->
 	<string name="is_first_tab">На первой вкладке</string>
+	<!-- Original string: Is the last history item already -->
 	<string name="is_last_history_item">Последняя страница</string>
+	<!-- Original string: Is the last window already -->
 	<string name="is_last_tab">На последней вкладке</string>
+	<!-- Original string: At the bottom of the page already -->
 	<string name="is_page_bottom">Достигнут низ страницы</string>
+	<!-- Original string: At the top of the page already -->
 	<string name="is_page_top">Достигнут верх страницы</string>
+	<!-- Original string: Set JS flags -->
 	<string name="js_engine_flags">Установить флаги JS</string>
+	<!-- Original string: "The browser can't load this page because there's no Internet connection." -->
 	<string name="loadSuspended">Не удалось загрузить страницу: нет интернет-подключения</string>
+	<!-- Original string: No connection -->
 	<string name="loadSuspendedTitle">Нет подключения</string>
+	<!-- Original string: Loading video… -->
 	<string name="loading_video">Загрузка видео…</string>
+	<!-- Original string: Xiaomi -->
 	<string name="local_bookmarks">Локальные</string>
+	<!-- Original string: Address -->
 	<string name="location">Адрес</string>
+	<!-- Original string: No more windows available -->
 	<string name="max_tabs_warning">Достигнут предел количества вкладок</string>
+	<!-- Original string: Disable night mode -->
 	<string name="menu_disable_night_mode">Выключить ночной режим</string>
+	<!-- Original string: Enable night mode -->
 	<string name="menu_enable_night_mode">Включить ночной режим</string>
+	<!-- Original string: Exit -->
 	<string name="menu_exit">Выход</string>
+	<!-- Original string: Settings -->
 	<string name="menu_preferences">Настройки</string>
+	<!-- Original string: Save for offline reading -->
 	<string name="menu_save_snapshot">Сохранить страницу</string>
+	<!-- Original string: Share -->
 	<string name="menu_share_url">Отправить</string>
+	<!-- Original string: Downloads -->
 	<string name="menu_view_download">Загрузки</string>
+	<!-- Original string: Go back one folder -->
 	<string name="move_to_up_folder">на уровень выше</string>
+	<!-- Original string: Selected %1$s item(s) -->
 	<string name="multi_select_title">Выбрано %1$s закладок</string>
+	<!-- Original string: Label -->
 	<string name="name">Ярлык</string>
+	<!-- Original string: New folder -->
 	<string name="new_folder">Новая папка</string>
+	<!-- Original string: New incognito window -->
 	<string name="new_incognito_tab">Новая вкладка (инкогнито)</string>
+	<!-- Original string: New window -->
 	<string name="new_tab">Новая вкладка</string>
+	<!-- Original string: No subfolders. -->
 	<string name="no_subfolders">Нет подпапок</string>
+	<!-- Original string: Do not remind me any more -->
 	<string name="not_remind_again">Больше не напоминать</string>
+	<!-- Original string: Download has been completed. -->
 	<string name="notif_install_successful">Загрузка была завершена.</string>
+	<!-- Original string: OK -->
 	<string name="ok">ОК</string>
+	<!-- Original string: Open all -->
 	<string name="open_all_bookmarks">Открыть все</string>
+	<!-- Original string: Open all in new windows -->
 	<string name="open_all_in_new_window">Открыть все в новых вкладках</string>
+	<!-- Original string: Open -->
 	<string name="open_bookmark">Открыть</string>
+	<!-- Original string: Other Bookmarks -->
 	<string name="other_bookmarks">Другие закладки</string>
+	<!-- Original string: Page info -->
 	<string name="page_info">Информация о странице</string>
+	<!-- Original string: Address: -->
 	<string name="page_info_address">Адрес:</string>
+	<!-- Original string: View page info -->
 	<string name="page_info_view">Информация о странице</string>
+	<!-- Original string: Password -->
 	<string name="password">Пароль</string>
+	<!-- Original string: Preload results -->
 	<string name="permission_preload_label">Загрузить результаты</string>
+	<!-- Original string: Picasa -->
 	<string name="picasa">Picasa</string>
+	<!-- Original string: Please select the data file -->
 	<string name="please_select_a_file_to_import">Пожалуйста, выберите файл с данными</string>
+	<!-- Original string: Allow this site to open a pop-up window? -->
 	<string name="popup_window_attempt">Открыть всплывающее окно с этого сайта?</string>
+	<!-- Original string: Accessibility -->
 	<string name="pref_accessibility_title">Спец. возможности</string>
+	<!-- Original string: Allow multiple tabs per app -->
 	<string name="pref_allow_apptabs">Разрешить несколько вкладок в приложении</string>
+	<!-- Original string: Form auto-fill -->
 	<string name="pref_autofill_enabled">Автозаполнение форм</string>
+	<!-- Original string: Fill out web forms with a single touch -->
 	<string name="pref_autofill_enabled_summary">Быстрое заполнение веб-форм</string>
+	<!-- Original string: Auto-fill text -->
 	<string name="pref_autofill_profile_editor">Текст автозаполнения</string>
+	<!-- Original string: Set up text to auto-fill in web forms -->
 	<string name="pref_autofill_profile_editor_summary">Настроить текст для автозаполнения веб-форм</string>
+	<!-- Original string: Signing into Google sites using %s -->
 	<string name="pref_autologin_progress">Вход в Сайты Google с помощью аккаунта %s</string>
+	<!-- Original string: Automatic Google signin -->
 	<string name="pref_autologin_title">Автоматический вход в систему</string>
+	<!-- Original string: Clear cache upon exit -->
 	<string name="pref_clear_cache_for_exit">Очищать кэш</string>
+	<!-- Original string: Clear history upon exit -->
 	<string name="pref_clear_history_for_exit">Очищать историю</string>
+	<!-- Original string: Confirm for exit -->
 	<string name="pref_confirm_for_exit">Подтверждать выход</string>
+	<!-- Original string: Auto-fit pages -->
 	<string name="pref_content_autofit">Мобильный вид</string>
+	<!-- Original string: Format webpages to fit the screen -->
 	<string name="pref_content_autofit_summary">Подгонять веб-страницы под размер экрана</string>
+	<!-- Original string: Block pop-ups -->
 	<string name="pref_content_block_popups">Блокировать всплывающие окна</string>
+	<!-- Original string: Set homepage -->
 	<string name="pref_content_homepage">Стартовая страница</string>
+	<!-- Original string: Enable JavaScript -->
 	<string name="pref_content_javascript">Разрешить JavaScript</string>
+	<!-- Original string: Load images -->
 	<string name="pref_content_load_images">Загрузка графики</string>
+	<!-- Original string: Display images on web pages -->
 	<string name="pref_content_load_images_summary">Показывать изображения на веб-страницах</string>
+	<!-- Original string: Open pages in overview -->
 	<string name="pref_content_load_page">Обзор страниц</string>
+	<!-- Original string: Show overview of newly-opened pages -->
 	<string name="pref_content_load_page_summary">Открывать новые страницы в окне предпросмотра</string>
+	<!-- Original string: Enable night mode -->
 	<string name="pref_content_night_read_mode">Ночной режим</string>
+	<!-- Original string: Open in background -->
 	<string name="pref_content_open_in_background">Фоновый режим</string>
+	<!-- Original string: Open new windows behind the current window -->
 	<string name="pref_content_open_in_background_summary">Открывать новые вкладки перед текущей</string>
+	<!-- Original string: Enable plug-ins -->
 	<string name="pref_content_plugins">Разрешить плагины</string>
+	<!-- Original string: Set search engine -->
 	<string name="pref_content_search_engine">Поисковая система</string>
+	<!-- Original string: Choose a search engine -->
 	<string name="pref_content_search_engine_summary">Выберите поисковую систему</string>
+	<!-- Original string: Page content -->
 	<string name="pref_content_title">Содержание страницы</string>
+	<!-- Original string: Search result preloading -->
 	<string name="pref_data_preload_dialogtitle">Загрузка результатов поиска</string>
+	<!-- Original string: " Allow browser to preload high confidence search results in the background" -->
 	<string name="pref_data_preload_summary">\nРазрешить браузеру предварительно загружать результаты поиска в фоновом режиме</string>
+	<!-- Original string: Search result preloading -->
 	<string name="pref_data_preload_title">Загрузка результатов поиска</string>
+	<!-- Original string: Bandwidth management -->
 	<string name="pref_data_title">Настройки контента</string>
+	<!-- Original string: Text encoding -->
 	<string name="pref_default_text_encoding">Кодировка текста</string>
+	<!-- Original string: Text encoding -->
 	<string name="pref_default_text_encoding_dialogtitle">Кодировка текста</string>
+	<!-- Original string: Default zoom -->
 	<string name="pref_default_zoom">Масштаб по умолчанию</string>
+	<!-- Original string: Default zoom -->
 	<string name="pref_default_zoom_dialogtitle">Масштаб по умолчанию</string>
+	<!-- Original string: Developer options -->
 	<string name="pref_developer_options">Для разработчиков</string>
+	<!-- Original string: Options for debugging or reporting bug -->
 	<string name="pref_developer_options_summary">Для отладки или отсылки отладочной информации</string>
+	<!-- Original string: Enable Cpu Upload Path -->
 	<string name="pref_development_cpu_upload_path">Включить путь загрузки ЦП</string>
+	<!-- Original string: Show JavaScript Console -->
 	<string name="pref_development_error_console">Показать консоль JavaScript</string>
+	<!-- Original string: Enable OpenGL Rendering -->
 	<string name="pref_development_hardware_accel">Включить рендеринг OpenGL</string>
+	<!-- Original string: Enable HW Accelerated Skia -->
 	<string name="pref_development_hardware_accel_skia">Включить аппаратное ускорение Skia</string>
+	<!-- Original string: Enable nav cache dump -->
 	<string name="pref_development_nav_dump">Включить кэш дамп nav</string>
+	<!-- Original string: Normal rendering -->
 	<string name="pref_development_normal_rendering">Нормальный рендеринг</string>
+	<!-- Original string: Reset prelogin -->
 	<string name="pref_development_reset_prelogin">Сброс предлогин</string>
+	<!-- Original string: Single column rendering -->
 	<string name="pref_development_single_column_rendering">Рендерить в один столбец</string>
+	<!-- Original string: Debug -->
 	<string name="pref_development_title">Выполнить отладку</string>
+	<!-- Original string: Enable tracing -->
 	<string name="pref_development_trace">Включить трассировку</string>
+	<!-- Original string: Use wide viewport -->
 	<string name="pref_development_viewport">Широкий экран</string>
+	<!-- Original string: Enable Visual Indicator -->
 	<string name="pref_development_visual_indicator">Включить визуальный индикатор</string>
+	<!-- Original string: Exit browser when closing last window in navigation screen. Uncheck to show browser homepage -->
 	<string name="pref_exit_on_closing_last_tab_enabled_summary">Закрывать вкладки при выходе из браузера. Снимите галочку, чтобы начинать с домашней страницы</string>
+	<!-- Original string: Exit on closing last window -->
 	<string name="pref_exit_on_closing_last_tab_enabled_title">Закрытие вкладок</string>
+	<!-- Original string: Reset to default -->
 	<string name="pref_extras_reset_default">Сброс настроек</string>
+	<!-- Original string: Revert settings to default values? -->
 	<string name="pref_extras_reset_default_dlg">Восстановить настройки по умолчанию?</string>
+	<!-- Original string: Restore default settings -->
 	<string name="pref_extras_reset_default_summary">Восстановить значения по умолчанию</string>
+	<!-- Original string: Reset defaults -->
 	<string name="pref_extras_reset_default_title">Сброс настроек</string>
+	<!-- Original string: Advanced -->
 	<string name="pref_extras_title">Расширенные</string>
+	<!-- Original string: Website data -->
 	<string name="pref_extras_website_settings">Настройки веб-сайтов</string>
+	<!-- Original string: Advanced settings for individual websites -->
 	<string name="pref_extras_website_settings_summary">Дополнительные настройки для отдельных сайтов</string>
+	<!-- Original string: Fling on border -->
 	<string name="pref_fling_on_border_enabled">Слайд по границе</string>
+	<!-- Original string: Operation for fling on border -->
 	<string name="pref_fling_on_border_operation">Функция при слайде</string>
+	<!-- Original string: Text size -->
 	<string name="pref_font_size_category">Размер текста</string>
+	<!-- Original string: Force enable zoom -->
 	<string name="pref_force_userscalable">Масштабирование</string>
+	<!-- Original string: "Override a website's request to control zoom behavior" -->
 	<string name="pref_force_userscalable_summary">Использовать заданное масштабирование</string>
+	<!-- Original string: Auto-fill -->
 	<string name="pref_general_autofill_title">Автозаполнение</string>
+	<!-- Original string: Exit settings -->
 	<string name="pref_general_exit_setting_title">Настройки выхода</string>
+	<!-- Original string: Setting -->
 	<string name="pref_general_setting_title">Настройки</string>
+	<!-- Original string: Sync -->
 	<string name="pref_general_sync_title">Синхронизация</string>
+	<!-- Original string: General -->
 	<string name="pref_general_title">Общие</string>
+	<!-- Original string: Gesture -->
 	<string name="pref_gesture_title">Жесты</string>
+	<!-- Original string: Inverted rendering -->
 	<string name="pref_inverted">Инверсия</string>
+	<!-- Original string: Inverted screen rendering -->
 	<string name="pref_inverted_category">Режим инверсии</string>
+	<!-- Original string: Contrast -->
 	<string name="pref_inverted_contrast">Контраст</string>
+	<!-- Original string: Black becomes white and vice versa -->
 	<string name="pref_inverted_summary">Инвертировать цвета на веб-страницах</string>
+	<!-- Original string: Keys and Gesture -->
 	<string name="pref_key_gesture_title">Кнопки и жесты</string>
+	<!-- Original string: Key settings -->
 	<string name="pref_key_title">Настройки кнопок</string>
+	<!-- Original string: Fullscreen -->
 	<string name="pref_lab_fullscreen">Во весь экран</string>
+	<!-- Original string: Use fullscreen mode to hide the status bar -->
 	<string name="pref_lab_fullscreen_summary">Чтобы скрыть строку состояния, используйте полноэкранный режим</string>
+	<!-- Original string: Quick controls -->
 	<string name="pref_lab_quick_controls">Панель инструментов</string>
+	<!-- Original string: Slide thumb from the left or right edge to open quick controls and hide app and URL bars -->
 	<string name="pref_lab_quick_controls_summary">Чтобы открыть панель инструментов, начните перелистывать страницу справа или слева</string>
+	<!-- Original string: Labs -->
 	<string name="pref_lab_title">Лаборатория Google</string>
+	<!-- Original string: Web page preloading -->
 	<string name="pref_link_prefetch_dialogtitle">Загрузка веб-страниц</string>
+	<!-- Original string: " Allow browser to preload linked web pages in the background" -->
 	<string name="pref_link_prefetch_summary">\nРазрешить браузеру предварительно загружать связанные веб-страницы в фоновом режиме</string>
+	<!-- Original string: Web page preloading -->
 	<string name="pref_link_prefetch_title">Загрузка веб-страниц</string>
+	<!-- Original string: Minimum font size -->
 	<string name="pref_min_font_size">Минимальный размер шрифта</string>
+	<!-- Original string: %dpt -->
 	<string name="pref_min_font_size_value">%d pt</string>
+	<!-- Original string: Clear cache -->
 	<string name="pref_privacy_clear_cache">Очистить кэш</string>
+	<!-- Original string: Delete locally cached content and databases? -->
 	<string name="pref_privacy_clear_cache_dlg">Удалить контент и базы данных, сохраненные локально?</string>
+	<!-- Original string: Clear locally cached content and databases -->
 	<string name="pref_privacy_clear_cache_summary">Удалить контент и данные, сохраненные браузером</string>
+	<!-- Original string: Clear all cookie data -->
 	<string name="pref_privacy_clear_cookies">Удалить cookie</string>
+	<!-- Original string: Delete all cookies? -->
 	<string name="pref_privacy_clear_cookies_dlg">Удалить все файлы cookie?</string>
+	<!-- Original string: Clear all browser cookies -->
 	<string name="pref_privacy_clear_cookies_summary">Удалить все файлы cookie браузера</string>
+	<!-- Original string: Clear form data -->
 	<string name="pref_privacy_clear_form_data">Очистить данные формы</string>
+	<!-- Original string: Delete all saved form data? -->
 	<string name="pref_privacy_clear_form_data_dlg">Удалить все сохраненные данные форм?</string>
+	<!-- Original string: Clear all saved form data -->
 	<string name="pref_privacy_clear_form_data_summary">Удалить все сохраненные данные форм</string>
+	<!-- Original string: Clear location access -->
 	<string name="pref_privacy_clear_geolocation_access">Закрыть геоданные</string>
+	<!-- Original string: Clear website location access? -->
 	<string name="pref_privacy_clear_geolocation_access_dlg">Закрыть геоданные?</string>
+	<!-- Original string: Clear location access for all websites -->
 	<string name="pref_privacy_clear_geolocation_access_summary">Очистить список сайтов, имеющих доступ к данным о Вашем местоположении</string>
+	<!-- Original string: Clear history -->
 	<string name="pref_privacy_clear_history">Очистить историю</string>
+	<!-- Original string: Delete the browser navigation history? -->
 	<string name="pref_privacy_clear_history_dlg">Удалить историю браузера?</string>
+	<!-- Original string: Clear the browser navigation history -->
 	<string name="pref_privacy_clear_history_summary">Очистить список посещенных в Интернете страниц</string>
+	<!-- Original string: Clear passwords -->
 	<string name="pref_privacy_clear_passwords">Очистить пароли</string>
+	<!-- Original string: Delete all saved passwords? -->
 	<string name="pref_privacy_clear_passwords_dlg">Удалить все сохраненные пароли?</string>
+	<!-- Original string: Clear all saved passwords -->
 	<string name="pref_privacy_clear_passwords_summary">Удалить все сохраненные пароли</string>
+	<!-- Original string: Cookies -->
 	<string name="pref_privacy_cookies_title">Файлы cookie</string>
+	<!-- Original string: Enable location -->
 	<string name="pref_privacy_enable_geolocation">Доступ к геоданным</string>
+	<!-- Original string: Allow sites to request access to your location -->
 	<string name="pref_privacy_enable_geolocation_summary">Разрешить сайтам запрашивать доступ к данным о Вашем местоположении</string>
+	<!-- Original string: Form data -->
 	<string name="pref_privacy_formdata_title">Данные форм</string>
+	<!-- Original string: Location -->
 	<string name="pref_privacy_location_title">Местоположение</string>
+	<!-- Original string: Privacy &amp; security -->
 	<string name="pref_privacy_security_title">Личные данные</string>
+	<!-- Original string: Reading mode -->
 	<string name="pref_reading_mode_enabled_title">Режим чтения</string>
+	<!-- Original string: JavaScript needs to be enabled -->
 	<string name="pref_reading_mode_enabled_title_summary">Необходим JavaScript</string>
+	<!-- Original string: Accept cookies -->
 	<string name="pref_security_accept_cookies">Разрешить cookie</string>
+	<!-- Original string: Allow sites to save and read cookie data -->
 	<string name="pref_security_accept_cookies_summary">Разрешить сайтам сохранять и читать файлы cookie</string>
+	<!-- Original string: Passwords -->
 	<string name="pref_security_passwords_title">Пароли</string>
+	<!-- Original string: Remember passwords -->
 	<string name="pref_security_remember_passwords">Сохранять пароли</string>
+	<!-- Original string: Save usernames and passwords for websites -->
 	<string name="pref_security_remember_passwords_summary">Сохранять имена пользователей и пароли веб-сайтов</string>
+	<!-- Original string: Remember form data -->
 	<string name="pref_security_save_form_data">Сохранять данные форм</string>
+	<!-- Original string: Remember data I type in forms for later use -->
 	<string name="pref_security_save_form_data_summary">Запоминать введенные в формы данные для дальнейшего использования</string>
+	<!-- Original string: Show security warnings -->
 	<string name="pref_security_show_security_warning">Сообщать об опасности</string>
+	<!-- Original string: "Show warning if there's a problem with a site's security" -->
 	<string name="pref_security_show_security_warning_summary">Сообщать о проблемах с безопасностью сайтов</string>
+	<!-- Original string: Set to -->
 	<string name="pref_set_homepage_to">Сохранить</string>
+	<!-- Original string: Page setting -->
 	<string name="pref_setting_title">Настройки страницы</string>
+	<!-- Original string: Text scaling -->
 	<string name="pref_text_zoom">Масштабирование текста</string>
+	<!-- Original string: User agent string -->
 	<string name="pref_ua_string">Агент пользователя</string>
+	<!-- Original string: User agent management -->
 	<string name="pref_ua_title">Настройки UserAgent</string>
+	<!-- Original string: Google Instant -->
 	<string name="pref_use_instant_search">Google Живой поиск</string>
+	<!-- Original string: Use Google Instant when you use Google Search, to show results as you type (this can increase data use). -->
 	<string name="pref_use_instant_search_summary">В Живом поиске результаты появляются прямо при вводе текста (возможно увеличение объема передаваемых данных)</string>
+	<!-- Original string: " Allow browser to preload video when server allows" -->
 	<string name="pref_video_preload_summary">\nРазрешить браузеру предварительно загружать видео файлы, если это возможно</string>
+	<!-- Original string: Volume keys -->
 	<string name="pref_volume_key_enabled">Клавиши громкости</string>
+	<!-- Original string: Operation for volume keys -->
 	<string name="pref_volume_key_operation">Функция клавиш громкости</string>
+	<!-- Original string: Zoom on double-tap -->
 	<string name="pref_zoom_on_double_tap">Увеличение двойным нажатием</string>
+	<!-- Original string: Preview -->
 	<string name="preview">Предварительный просмотр</string>
+	<!-- Original string: Setting wallpaper… -->
 	<string name="progress_dialog_setting_wallpaper">Установка обоев...</string>
+	<!-- Original string: Has reached the last page -->
 	<string name="readmode_reach_last_page">Достигнута последняя страница</string>
+	<!-- Original string: Reading List -->
 	<string name="readmodelist_bookmarks_to_show">Список чтения</string>
+	<!-- Original string: Recover -->
 	<string name="recover">Восстановить</string>
+	<!-- Original string: Reopen last session -->
 	<string name="recover_from_crash">Восстановить последнюю сессию</string>
+	<!-- Original string: Refresh -->
 	<string name="reload">Обновить</string>
+	<!-- Original string: Remove -->
 	<string name="remove">Удалить</string>
+	<!-- Original string: Delete bookmark -->
 	<string name="remove_bookmark">Удалить закладку</string>
+	<!-- Original string: Remove from bookmarks -->
 	<string name="remove_from_bookmarks">Удалить из закладок</string>
+	<!-- Original string: Remove from history -->
 	<string name="remove_history_item">Удалить из истории</string>
+	<!-- Original string: Delete saved page -->
 	<string name="remove_snapshot">Удалить сохраненную страницу</string>
+	<!-- Original string: Removed from bookmarks. -->
 	<string name="removed_from_bookmarks">Удалено из закладок</string>
+	<!-- Original string: Replace -->
 	<string name="replace">Заменить</string>
+	<!-- Original string: Report reading mode issue to MIUI -->
 	<string name="report_reading_mode_issue">Отправить ошибку режима чтения в MIUI</string>
+	<!-- Original string: Go back to homepage -->
 	<string name="return_to_homepage">Домашняя страница</string>
+	<!-- Original string: OK -->
 	<string name="save">ОК</string>
+	<!-- Original string: Save to bookmarks -->
 	<string name="save_to_bookmarks">Добавить закладку</string>
+	<!-- Original string: Saving… -->
 	<string name="saving_snapshot">Сохраняется...</string>
+	<!-- Original string: Baidu -->
 	<string name="search_baidu">Baidu</string>
+	<!-- Original string: Bing -->
 	<string name="search_bing">Bing</string>
+	<!-- Original string: Go -->
 	<string name="search_button_text">Поиск</string>
+	<!-- Original string: Cancel -->
 	<string name="search_cancel">Отмена</string>
+	<!-- Original string: Google -->
 	<string name="search_google">Google</string>
+	<!-- Original string: Search -->
 	<string name="search_hint">Поиск</string>
+	<!-- Original string: Browser -->
 	<string name="search_label">Браузер</string>
+	<!-- Original string: Bookmarks and web history -->
 	<string name="search_settings_description">Закладки и история поиска</string>
+	<!-- Original string: Sogou -->
 	<string name="search_sogou">Segou</string>
+	<!-- Original string: Search the web -->
 	<string name="search_the_web">Поиск в Интернете</string>
+	<!-- Original string: Yahoo! -->
 	<string name="search_yahoo">Yahoo</string>
+	<!-- Original string: Security warning -->
 	<string name="security_warning">Угроза безопасности</string>
+	<!-- Original string: Select text -->
 	<string name="select_dot">Выбрать текст</string>
+	<!-- Original string: Select all -->
 	<string name="selection_all">Выбрать все</string>
+	<!-- Original string: Send to home screen -->
 	<string name="send_bookmark_to_home_screen">Создать ярлык на рабочем столе</string>
+	<!-- Original string: Set as homepage -->
 	<string name="set_as_homepage">Сделать главной страницей</string>
+	<!-- Original string: Share link -->
 	<string name="share_link">Поделиться</string>
+	<!-- Original string: Share page -->
 	<string name="share_page">Отправить страницу</string>
+	<!-- Original string: Bookmark -->
 	<string name="shortcut_bookmark">Закладка</string>
+	<!-- Original string: Choose a bookmark -->
 	<string name="shortcut_bookmark_title">Выберите закладку</string>
+	<!-- Original string: Sign in to %s1 \"%s2\" -->
 	<string name="sign_in_to" formatted="false">Войти в %s1 \"%s2\"</string>
+	<!-- Original string: "Couldn't save for offline reading." -->
 	<string name="snapshot_failed">Не удалось сохранить страницу</string>
+	<!-- Original string: Go live -->
 	<string name="snapshot_go_live">Интерактивная версия</string>
+	<!-- Original string: Continue -->
 	<string name="ssl_continue">Продолжить</string>
+	<!-- Original string: This certificate has an invalid date. -->
 	<string name="ssl_date_invalid">Дата этого сертификата недействительна</string>
+	<!-- Original string: This certificate has expired. -->
 	<string name="ssl_expired">Срок действия сертификата истек</string>
+	<!-- Original string: Go back -->
 	<string name="ssl_go_back">Назад</string>
+	<!-- Original string: This certificate is invalid. -->
 	<string name="ssl_invalid">Этот сертификат недействителен</string>
+	<!-- Original string: "The name of the site doesn't match the name on the certificate." -->
 	<string name="ssl_mismatch">Название сайта не соответствует названию в сертификате</string>
+	<!-- Original string: "This certificate isn't valid yet." -->
 	<string name="ssl_not_yet_valid">Сертификат еще не действителен</string>
+	<!-- Original string: Unknown certificate error. -->
 	<string name="ssl_unknown">Неизвестная ошибка сертификата</string>
+	<!-- Original string: "This certificate isn't from a trusted authority." -->
 	<string name="ssl_untrusted">Этот сертификат получен из ненадежных источников</string>
+	<!-- Original string: There are problems with the security certificate for this site. -->
 	<string name="ssl_warnings_header">У этого сайта проблемы с сертификатом безопасности</string>
+	<!-- Original string: Stop -->
 	<string name="stop">Стоп</string>
+	<!-- Original string: Stopping… -->
 	<string name="stopping">Остановка...</string>
+	<!-- Original string: Bookmarks -->
 	<string name="tab_bookmarks">Закладки</string>
+	<!-- Original string: Window closed. -->
 	<string name="tab_closed">Вкладка закрыта</string>
+	<!-- Original string: History -->
 	<string name="tab_history">История</string>
+	<!-- Original string: Most visited -->
 	<string name="tab_most_visited">Часто посещаемые</string>
+	<!-- Original string: Window opened in background. -->
 	<string name="tab_opened_background">Вкладка открыта в фоне</string>
+	<!-- Original string: Has opened in new incognito window -->
 	<string name="tab_opened_background_in_incognito">Открыта вкладка в режиме Инкогнито</string>
+	<!-- Original string: Quick links -->
 	<string name="tab_quicklinks">Быстрые закладки</string>
+	<!-- Original string: Saved pages -->
 	<string name="tab_snapshots">Сохраненные страницы</string>
+	<!-- Original string: Yellow pages -->
 	<string name="tab_yellowpage">Категории</string>
+	<!-- Original string: Loading… -->
 	<string name="title_bar_loading">Загрузка…</string>
+	<!-- Original string: Only one pop-up can be open at a time. -->
 	<string name="too_many_subwindows_dialog_message">Можно открыть только одно всплывающее окно</string>
+	<!-- Original string: Pop-up already open -->
 	<string name="too_many_subwindows_dialog_title">Всплывающее окно уже открыто</string>
+	<!-- Original string: "Can't open a new window until you close one" -->
 	<string name="too_many_windows_dialog_message">Невозможно открыть новую вкладку: закройте хотя бы одну</string>
+	<!-- Original string: Window limit reached -->
 	<string name="too_many_windows_dialog_title">Открыто макс. число вкладок</string>
+	<!-- Original string: Request desktop site -->
 	<string name="ua_switcher_desktop">Полная версия</string>
+	<!-- Original string: File uploads are disabled. -->
 	<string name="uploads_disabled">Добавление файлов отключено</string>
+	<!-- Original string: Url copied -->
 	<string name="url_copy_done">URL скопирован</string>
+	<!-- Original string: Search or type URL -->
 	<string name="url_hint">Введите адрес</string>
+	<!-- Original string: Name -->
 	<string name="username">Имя</string>
+	<!-- Original string: View certificate -->
 	<string name="view_certificate">Просмотреть сертификат</string>
+	<!-- Original string: Warning -->
 	<string name="warning">Внимание</string>
+	<!-- Original string: Clear all -->
 	<string name="website_settings_clear_all">Удалить все</string>
+	<!-- Original string: Cancel -->
 	<string name="website_settings_clear_all_dialog_cancel_button">Отмена</string>
+	<!-- Original string: Delete all website data and location permissions? -->
 	<string name="website_settings_clear_all_dialog_message">Удалить все данные веб-сайта и разрешения на доступ к сведениям о Вашем местоположении?</string>
+	<!-- Original string: OK -->
 	<string name="website_settings_clear_all_dialog_ok_button">ОК</string>
+	<!-- Original string: Cancel -->
 	<string name="webstorage_clear_data_dialog_cancel_button">Отмена</string>
+	<!-- Original string: Delete all data stored by this website? -->
 	<string name="webstorage_clear_data_dialog_message">Удалить все данные, сохраненные этим веб-сайтом?</string>
+	<!-- Original string: OK -->
 	<string name="webstorage_clear_data_dialog_ok_button">ОК</string>
+	<!-- Original string: Clear stored data -->
 	<string name="webstorage_clear_data_title">Удалить сохраненные данные</string>
+	<!-- Original string: MB stored on your phone -->
 	<string name="webstorage_origin_summary_mb_stored">Объем занятой памяти телефона (МБ)</string>
+	<!-- Original string: Touch to free up space. -->
 	<string name="webstorage_outofspace_notification_text">Нажмите, чтобы освободить место</string>
+	<!-- Original string: Browser storage full -->
 	<string name="webstorage_outofspace_notification_title">Память браузера переполнена</string>
 </resources>

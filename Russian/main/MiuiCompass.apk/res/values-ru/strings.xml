@@ -1,28 +1,52 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--Merged and sorted with KDG BigBlackBox-->
 <resources>
+	<!-- Original string: Altitude -->
 	<string name="altitude_title">Высота</string>
+	<!-- Original string: m -->
 	<string name="altitude_unit">м</string>
+	<!-- Original string: Compass -->
 	<string name="app_label">Компас</string>
+	<!-- Original string: Calibration failed: Unable to get the current latitude and longitude -->
 	<string name="calibrate_failed_no_location">Ошибка калибрации: невозможно получить данные</string>
+	<!-- Original string: Calibration failed: server connection timeout -->
 	<string name="calibrate_failed_timeout">Ошибка калибрации: Сервер не отвечает</string>
+	<!-- Original string: Calibration complete -->
 	<string name="calibrate_success">Калибровка успешно выполнена</string>
+	<!-- Original string: -- -->
 	<string name="cannot_get_location">Не удалось получить координаты</string>
+	<!-- Original string: Calibrating the altitude through the internet. -->
 	<string name="dialog_calibrat_altitude">Калибрация через интеренет подключение</string>
+	<!-- Original string: Please open Wi-Fi or data traffic. -->
 	<string name="dialog_title_no_network">Сетей не найдено, подключитесь через Wi-Fi или включите мобильный интернет</string>
+	<!-- Original string: E -->
 	<string name="direction_east">В</string>
+	<!-- Original string: N -->
 	<string name="direction_north">С</string>
+	<!-- Original string: S -->
 	<string name="direction_south">Ю</string>
+	<!-- Original string: W -->
 	<string name="direction_west">З</string>
+	<!-- Original string: Getting location... -->
 	<string name="getting_location">Получение координат...</string>
+	<!-- Original string: LAT -->
 	<string name="latitude">Широта</string>
+	<!-- Original string: EL -->
 	<string name="location_east">В.Д.</string>
+	<!-- Original string: NL -->
 	<string name="location_north">С.Ш.</string>
+	<!-- Original string: SL -->
 	<string name="location_south">Ю.Ш.</string>
+	<!-- Original string: WL -->
 	<string name="location_west">З.Д.</string>
+	<!-- Original string: LON -->
 	<string name="longitude">Долгота</string>
+	<!-- Original string: Calibrate compass -->
 	<string name="menu_calibrate">Калибровать</string>
+	<!-- Original string: Calibrate altitude with internet -->
 	<string name="menu_calibrate_altitude">Калибрация высоты</string>
+	<!-- Original string: Pressure -->
 	<string name="pressure_title">Давление</string>
+	<!-- Original string: hPa -->
 	<string name="pressure_unit">гПа</string>
 </resources>

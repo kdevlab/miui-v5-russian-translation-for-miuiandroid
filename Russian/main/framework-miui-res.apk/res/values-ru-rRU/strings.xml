@@ -1,473 +1,942 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--Merged and sorted with KDG BigBlackBox-->
 <resources>
+	<!-- Original string: Activate -->
 	<string name="activate">Включить</string>
+	<!-- Original string: Reactivate Xiaomi sync service -->
 	<string name="activate_fail_notification_title">Пожалуйста, активируйте повторно услугу Xiaomi синхронизации</string>
+	<!-- Original string: Activating... -->
 	<string name="activating">Активация...</string>
+	<!-- Original string: h:mm aa -->
 	<string name="alarm_message_12_hour_formate">h:mm aa</string>
+	<!-- Original string: Set as default (no prompt for next time) -->
 	<string name="alwaysUsePrompt">Исполь. по умолчанию</string>
+	<!-- Original string: To unlock, sign in with your account -->
 	<string name="android_lockscreen_glogin_instructions">Чтобы разблокировать, войдите в свой аккаунт</string>
+	<!-- Original string: 植树节 -->
 	<string name="arbor_day" />
+	<!-- Original string: 立秋 -->
 	<string name="autumn_begins" />
+	<!-- Original string: 秋分 -->
 	<string name="autumn_equinox" />
+	<!-- Original string: Ring %s times -->
 	<string name="callNoAnswerTimeFormat">%s гудков</string>
+	<!-- Original string: or -->
 	<string name="call_record_or">или</string>
+	<!-- Original string: Callrecording -->
 	<string name="call_record_sample_prefix_miui">Callrecording</string>
+	<!-- Original string: Or -->
 	<string name="caller_info_name_delimiter">или</string>
+	<!-- Original string: Failed to enable sync service -->
 	<string name="check_phone_error_title">Не удалось открыть Синхронизацию</string>
+	<!-- Original string: Network error -->
 	<string name="check_phone_io_error">Ошибка сети</string>
+	<!-- Original string: 儿童节 -->
 	<string name="childrens_day" />
+	<!-- Original string: 青年节 -->
 	<string name="chinese_youth_day" />
+	<!-- Original string: 圣诞节 -->
 	<string name="christmas_day">Рождество</string>
+	<!-- Original string: 清明 -->
 	<string name="clear_and_bright" />
+	<!-- Original string: 寒露 -->
 	<string name="cold_dews" />
+	<!-- Original string: Please contact carrier if any questions -->
 	<string name="contact_carrier_message">Пожалуйста, свяжитесь с оператором по любому вопросу</string>
+	<!-- Original string: AC -->
 	<string name="country_name_ac">Вознесение</string>
+	<!-- Original string: AD -->
 	<string name="country_name_ad">Андорра</string>
+	<!-- Original string: AE -->
 	<string name="country_name_ae">Объединенные Арабские Эмираты</string>
+	<!-- Original string: AF -->
 	<string name="country_name_af">Афганистан</string>
+	<!-- Original string: AG -->
 	<string name="country_name_ag">Антигуа и Барбуда</string>
+	<!-- Original string: AI -->
 	<string name="country_name_ai">Ангилья</string>
+	<!-- Original string: AL -->
 	<string name="country_name_al">Албания</string>
+	<!-- Original string: AM -->
 	<string name="country_name_am">Армения</string>
+	<!-- Original string: AN -->
 	<string name="country_name_an">Нидерландские Антильские острова</string>
+	<!-- Original string: AO -->
 	<string name="country_name_ao">Ангола</string>
+	<!-- Original string: AR -->
 	<string name="country_name_ar">Аргентина</string>
+	<!-- Original string: AS -->
 	<string name="country_name_as">Американские Самоа</string>
+	<!-- Original string: AT -->
 	<string name="country_name_at">Австрия</string>
+	<!-- Original string: AU -->
 	<string name="country_name_au">Австралия</string>
+	<!-- Original string: AW -->
 	<string name="country_name_aw">Аруба</string>
+	<!-- Original string: AZ -->
 	<string name="country_name_az">Азербайджан</string>
+	<!-- Original string: BA -->
 	<string name="country_name_ba">Босния и Герцеговина</string>
+	<!-- Original string: BB -->
 	<string name="country_name_bb">Барбадос</string>
+	<!-- Original string: BD -->
 	<string name="country_name_bd">Бангладеш</string>
+	<!-- Original string: BE -->
 	<string name="country_name_be">Бельгия</string>
+	<!-- Original string: BF -->
 	<string name="country_name_bf">Буркина-Фасо</string>
+	<!-- Original string: BG -->
 	<string name="country_name_bg">Болгария</string>
+	<!-- Original string: BH -->
 	<string name="country_name_bh">Бахрейн</string>
+	<!-- Original string: BI -->
 	<string name="country_name_bi">Бурунди</string>
+	<!-- Original string: BJ -->
 	<string name="country_name_bj">Бенин</string>
+	<!-- Original string: BM -->
 	<string name="country_name_bm">Бермудские острова</string>
+	<!-- Original string: BN -->
 	<string name="country_name_bn">Бруней</string>
+	<!-- Original string: BO -->
 	<string name="country_name_bo">Боливия</string>
+	<!-- Original string: BR -->
 	<string name="country_name_br">Бразилия</string>
+	<!-- Original string: BS -->
 	<string name="country_name_bs">Багамские острова</string>
+	<!-- Original string: BT -->
 	<string name="country_name_bt">Бутан</string>
+	<!-- Original string: BW -->
 	<string name="country_name_bw">Ботсвана</string>
+	<!-- Original string: BY -->
 	<string name="country_name_by">Беларусь</string>
+	<!-- Original string: BZ -->
 	<string name="country_name_bz">Белиз</string>
+	<!-- Original string: CD -->
 	<string name="country_name_cd">Демократическая Республика Конго</string>
+	<!-- Original string: CF -->
 	<string name="country_name_cf">Центрально-Африканская Республика</string>
+	<!-- Original string: CG -->
 	<string name="country_name_cg">Конго</string>
+	<!-- Original string: CH -->
 	<string name="country_name_ch">Швейцария</string>
+	<!-- Original string: CI -->
 	<string name="country_name_ci">Кот-д’Ивуар</string>
+	<!-- Original string: CK -->
 	<string name="country_name_ck">Острова Кука</string>
+	<!-- Original string: CL -->
 	<string name="country_name_cl">Чили</string>
+	<!-- Original string: CM -->
 	<string name="country_name_cm">Камерун</string>
+	<!-- Original string: CN -->
 	<string name="country_name_cn">Китай</string>
+	<!-- Original string: CO -->
 	<string name="country_name_co">Колумбия</string>
+	<!-- Original string: CR -->
 	<string name="country_name_cr">Коста-Рика</string>
+	<!-- Original string: CU -->
 	<string name="country_name_cu">Куба</string>
+	<!-- Original string: CV -->
 	<string name="country_name_cv">Кабо-Верде</string>
+	<!-- Original string: CY -->
 	<string name="country_name_cy">Кипр</string>
+	<!-- Original string: CZ -->
 	<string name="country_name_cz">Чешская Республика</string>
+	<!-- Original string: DE -->
 	<string name="country_name_de">Германия</string>
+	<!-- Original string: DJ -->
 	<string name="country_name_dj">Джибути</string>
+	<!-- Original string: DK -->
 	<string name="country_name_dk">Дания</string>
+	<!-- Original string: DM -->
 	<string name="country_name_dm">Доминиканская республика</string>
+	<!-- Original string: DO -->
 	<string name="country_name_do">Доминиканская Республика</string>
+	<!-- Original string: DZ -->
 	<string name="country_name_dz">Алжир</string>
+	<!-- Original string: EC -->
 	<string name="country_name_ec">Эквадор</string>
+	<!-- Original string: EE -->
 	<string name="country_name_ee">Эстония</string>
+	<!-- Original string: EG -->
 	<string name="country_name_eg">Египет</string>
+	<!-- Original string: ER -->
 	<string name="country_name_er">Эритрея</string>
+	<!-- Original string: ES -->
 	<string name="country_name_es">Испания</string>
+	<!-- Original string: ET -->
 	<string name="country_name_et">Эфиопия</string>
+	<!-- Original string: FI -->
 	<string name="country_name_fi">Финляндия</string>
+	<!-- Original string: FJ -->
 	<string name="country_name_fj">Фиджи</string>
+	<!-- Original string: FK -->
 	<string name="country_name_fk">Фолклендских островов</string>
+	<!-- Original string: FM -->
 	<string name="country_name_fm">Федеративные Штаты Микронезии</string>
+	<!-- Original string: FO -->
 	<string name="country_name_fo">Фарерские острова</string>
+	<!-- Original string: FR -->
 	<string name="country_name_fr">Франция</string>
+	<!-- Original string: GA -->
 	<string name="country_name_ga">Габон</string>
+	<!-- Original string: GD -->
 	<string name="country_name_gd">Гренада</string>
+	<!-- Original string: GE -->
 	<string name="country_name_ge">Грузия</string>
+	<!-- Original string: GF -->
 	<string name="country_name_gf">Французская Гвиана</string>
+	<!-- Original string: GG -->
 	<string name="country_name_gg">Гернси</string>
+	<!-- Original string: GH -->
 	<string name="country_name_gh">Гана</string>
+	<!-- Original string: GI -->
 	<string name="country_name_gi">Гибралтар</string>
+	<!-- Original string: GL -->
 	<string name="country_name_gl">Гренландия</string>
+	<!-- Original string: GM -->
 	<string name="country_name_gm">Гамбия</string>
+	<!-- Original string: GN -->
 	<string name="country_name_gn">Гвинея</string>
+	<!-- Original string: GP/BL/MF -->
 	<string name="country_name_gp_bl_mf">Гваделупа / Сен-Бартельми / Санкт-Мартин</string>
+	<!-- Original string: GQ -->
 	<string name="country_name_gq">Экваториальная Гвинея</string>
+	<!-- Original string: GR -->
 	<string name="country_name_gr">Греция</string>
+	<!-- Original string: GT -->
 	<string name="country_name_gt">Гватемала</string>
+	<!-- Original string: GU -->
 	<string name="country_name_gu">Гуам</string>
+	<!-- Original string: GW -->
 	<string name="country_name_gw">Гвинея-Бисау</string>
+	<!-- Original string: GY -->
 	<string name="country_name_gy">Гайана</string>
+	<!-- Original string: HK -->
 	<string name="country_name_hk">Гонконг, Китай</string>
+	<!-- Original string: HN -->
 	<string name="country_name_hn">Гондурас</string>
+	<!-- Original string: HR -->
 	<string name="country_name_hr">Хорватии</string>
+	<!-- Original string: HT -->
 	<string name="country_name_ht">Гаити</string>
+	<!-- Original string: HU -->
 	<string name="country_name_hu">Венгрия</string>
+	<!-- Original string: ID -->
 	<string name="country_name_id">Индонезия</string>
+	<!-- Original string: IE -->
 	<string name="country_name_ie">Ирландия</string>
+	<!-- Original string: IL -->
 	<string name="country_name_il">Израиль</string>
+	<!-- Original string: IM -->
 	<string name="country_name_im">Остров Мэн</string>
+	<!-- Original string: IN -->
 	<string name="country_name_in">Индия</string>
+	<!-- Original string: IO -->
 	<string name="country_name_io">Диего-Гарсия</string>
+	<!-- Original string: IQ -->
 	<string name="country_name_iq">Ирак</string>
+	<!-- Original string: IR -->
 	<string name="country_name_ir">Иран</string>
+	<!-- Original string: IS -->
 	<string name="country_name_is">Исландия</string>
+	<!-- Original string: IT -->
 	<string name="country_name_it">Италия</string>
+	<!-- Original string: JE -->
 	<string name="country_name_je">Джерси</string>
+	<!-- Original string: JM -->
 	<string name="country_name_jm">Ямайка</string>
+	<!-- Original string: JO -->
 	<string name="country_name_jo">Иордания</string>
+	<!-- Original string: JP -->
 	<string name="country_name_jp">Япония</string>
+	<!-- Original string: KE -->
 	<string name="country_name_ke">Кения</string>
+	<!-- Original string: KG -->
 	<string name="country_name_kg">Кыргызстан</string>
+	<!-- Original string: KH -->
 	<string name="country_name_kh">Камбоджа</string>
+	<!-- Original string: KI -->
 	<string name="country_name_ki">Кирибати</string>
+	<!-- Original string: KM -->
 	<string name="country_name_km">Коморские острова</string>
+	<!-- Original string: KN -->
 	<string name="country_name_kn">Сент-Китс и Невис</string>
+	<!-- Original string: KP -->
 	<string name="country_name_kp">КНДР</string>
+	<!-- Original string: KR -->
 	<string name="country_name_kr">Южная Корея</string>
+	<!-- Original string: KW -->
 	<string name="country_name_kw">Кувейт</string>
+	<!-- Original string: KY -->
 	<string name="country_name_ky">Каймановы острова</string>
+	<!-- Original string: LA -->
 	<string name="country_name_la">Лаос</string>
+	<!-- Original string: LB -->
 	<string name="country_name_lb">Ливан</string>
+	<!-- Original string: LC -->
 	<string name="country_name_lc">Сент-Люсия</string>
+	<!-- Original string: LI -->
 	<string name="country_name_li">Лихтенштейн</string>
+	<!-- Original string: LK -->
 	<string name="country_name_lk">Шри-Ланка</string>
+	<!-- Original string: LR -->
 	<string name="country_name_lr">Либерии</string>
+	<!-- Original string: LS -->
 	<string name="country_name_ls">Лесото</string>
+	<!-- Original string: LT -->
 	<string name="country_name_lt">Литва</string>
+	<!-- Original string: LU -->
 	<string name="country_name_lu">Люксембург</string>
+	<!-- Original string: LV -->
 	<string name="country_name_lv">Латвия</string>
+	<!-- Original string: LY -->
 	<string name="country_name_ly">Ливия</string>
+	<!-- Original string: MA -->
 	<string name="country_name_ma">Марокко</string>
+	<!-- Original string: MC -->
 	<string name="country_name_mc">Монако</string>
+	<!-- Original string: MD -->
 	<string name="country_name_md">Молдова</string>
+	<!-- Original string: ME -->
 	<string name="country_name_me">Черногории</string>
+	<!-- Original string: MG -->
 	<string name="country_name_mg">Мадагаскар</string>
+	<!-- Original string: MH -->
 	<string name="country_name_mh">Маршалловы Острова</string>
+	<!-- Original string: MK -->
 	<string name="country_name_mk">Республика Македония</string>
+	<!-- Original string: ML -->
 	<string name="country_name_ml">Мали</string>
+	<!-- Original string: MM -->
 	<string name="country_name_mm">Мьянма</string>
+	<!-- Original string: MN -->
 	<string name="country_name_mn">Монголия</string>
+	<!-- Original string: MO -->
 	<string name="country_name_mo">Макао, Китай</string>
+	<!-- Original string: MP -->
 	<string name="country_name_mp">Северные Марианские острова</string>
+	<!-- Original string: MQ -->
 	<string name="country_name_mq">Мартиника</string>
+	<!-- Original string: MR -->
 	<string name="country_name_mr">Мавритания</string>
+	<!-- Original string: MS -->
 	<string name="country_name_ms">Монтсеррат</string>
+	<!-- Original string: MT -->
 	<string name="country_name_mt">Мальта</string>
+	<!-- Original string: MU -->
 	<string name="country_name_mu">Маврикий</string>
+	<!-- Original string: MV -->
 	<string name="country_name_mv">Мальдивские Острова</string>
+	<!-- Original string: MW -->
 	<string name="country_name_mw">Малави</string>
+	<!-- Original string: MX -->
 	<string name="country_name_mx">Мексика</string>
+	<!-- Original string: MY -->
 	<string name="country_name_my">Малайзия</string>
+	<!-- Original string: MZ -->
 	<string name="country_name_mz">Мозамбик</string>
+	<!-- Original string: NA -->
 	<string name="country_name_na">Намибия</string>
+	<!-- Original string: NC -->
 	<string name="country_name_nc">Новая Каледония</string>
+	<!-- Original string: NE -->
 	<string name="country_name_ne">Нигер</string>
+	<!-- Original string: NG -->
 	<string name="country_name_ng">Нигерия</string>
+	<!-- Original string: NI -->
 	<string name="country_name_ni">Никарагуа</string>
+	<!-- Original string: NL -->
 	<string name="country_name_nl">Нидерланды</string>
+	<!-- Original string: NO -->
 	<string name="country_name_no">Норвегия</string>
+	<!-- Original string: NP -->
 	<string name="country_name_np">Непал</string>
+	<!-- Original string: NR -->
 	<string name="country_name_nr">Науру</string>
+	<!-- Original string: NU -->
 	<string name="country_name_nu">Ниуэ</string>
+	<!-- Original string: NZ -->
 	<string name="country_name_nz">Новая Зеландия</string>
+	<!-- Original string: OM -->
 	<string name="country_name_om">Оман</string>
+	<!-- Original string: PA -->
 	<string name="country_name_pa">Панама</string>
+	<!-- Original string: PE -->
 	<string name="country_name_pe">Перу</string>
+	<!-- Original string: PF -->
 	<string name="country_name_pf">Французская Полинезия</string>
+	<!-- Original string: PG -->
 	<string name="country_name_pg">Папуа-Новая Гвинея</string>
+	<!-- Original string: PH -->
 	<string name="country_name_ph">Филиппины</string>
+	<!-- Original string: PK -->
 	<string name="country_name_pk">Пакистан</string>
+	<!-- Original string: PL -->
 	<string name="country_name_pl">Польша</string>
+	<!-- Original string: PM -->
 	<string name="country_name_pm">Сен-Пьер и Микелон</string>
+	<!-- Original string: PR -->
 	<string name="country_name_pr">Пуэрто-Рико</string>
+	<!-- Original string: PS -->
 	<string name="country_name_ps">Палестина</string>
+	<!-- Original string: PT -->
 	<string name="country_name_pt">Португалия</string>
+	<!-- Original string: PW -->
 	<string name="country_name_pw">Палау</string>
+	<!-- Original string: PY -->
 	<string name="country_name_py">Парагвай</string>
+	<!-- Original string: QA -->
 	<string name="country_name_qa">Катар</string>
+	<!-- Original string: RE/YT -->
 	<string name="country_name_re_yt">Реюньон / Майотта</string>
+	<!-- Original string: RO -->
 	<string name="country_name_ro">Румыния</string>
+	<!-- Original string: RS -->
 	<string name="country_name_rs">Сербия</string>
+	<!-- Original string: RU/KZ -->
 	<string name="country_name_ru_kz">Россия</string>
+	<!-- Original string: RW -->
 	<string name="country_name_rw">Руанда</string>
+	<!-- Original string: SA -->
 	<string name="country_name_sa">Саудовская Аравия</string>
+	<!-- Original string: SB -->
 	<string name="country_name_sb">Соломоновы Острова</string>
+	<!-- Original string: SC -->
 	<string name="country_name_sc">Сейшельские острова</string>
+	<!-- Original string: SD -->
 	<string name="country_name_sd">Судан</string>
+	<!-- Original string: SE -->
 	<string name="country_name_se">Швеция</string>
+	<!-- Original string: SG -->
 	<string name="country_name_sg">Сингапур</string>
+	<!-- Original string: SH -->
 	<string name="country_name_sh">Св. Елены</string>
+	<!-- Original string: SI -->
 	<string name="country_name_si">Словения</string>
+	<!-- Original string: SK -->
 	<string name="country_name_sk">Словакия</string>
+	<!-- Original string: SI -->
 	<string name="country_name_sl">Сьерра-Леоне</string>
+	<!-- Original string: SM -->
 	<string name="country_name_sm">Сан - Марино</string>
+	<!-- Original string: SN -->
 	<string name="country_name_sn">Сенегал</string>
+	<!-- Original string: SO -->
 	<string name="country_name_so">Сомали</string>
+	<!-- Original string: SR -->
 	<string name="country_name_sr">Суринам</string>
+	<!-- Original string: ST -->
 	<string name="country_name_st">Сан-Томе и Принсипи</string>
+	<!-- Original string: SV -->
 	<string name="country_name_sv">Сальвадор</string>
+	<!-- Original string: SX -->
 	<string name="country_name_sx">Остров Святого Мартина</string>
+	<!-- Original string: SY -->
 	<string name="country_name_sy">Сирия</string>
+	<!-- Original string: SZ -->
 	<string name="country_name_sz">Свазиленд</string>
+	<!-- Original string: TC -->
 	<string name="country_name_tc">Острова Теркс и Кайкос</string>
+	<!-- Original string: TD -->
 	<string name="country_name_td">Чад</string>
+	<!-- Original string: TG -->
 	<string name="country_name_tg">Того</string>
+	<!-- Original string: TH -->
 	<string name="country_name_th">Таиланд</string>
+	<!-- Original string: TJ -->
 	<string name="country_name_tj">Таджикистан</string>
+	<!-- Original string: TK -->
 	<string name="country_name_tk">Токелау</string>
+	<!-- Original string: TL -->
 	<string name="country_name_tl">Тимор-Лешти</string>
+	<!-- Original string: TM -->
 	<string name="country_name_tm">Туркменистан</string>
+	<!-- Original string: TN -->
 	<string name="country_name_tn">Тунис</string>
+	<!-- Original string: TO -->
 	<string name="country_name_to">Тонга</string>
+	<!-- Original string: TR -->
 	<string name="country_name_tr">Турция</string>
+	<!-- Original string: TT -->
 	<string name="country_name_tt">Тринидад и Тобаго</string>
+	<!-- Original string: TV -->
 	<string name="country_name_tv">Тувалу</string>
+	<!-- Original string: TW -->
 	<string name="country_name_tw">Тайвань</string>
+	<!-- Original string: TZ -->
 	<string name="country_name_tz">Танзания</string>
+	<!-- Original string: UA -->
 	<string name="country_name_ua">Украина</string>
+	<!-- Original string: UG -->
 	<string name="country_name_ug">Уганда</string>
+	<!-- Original string: UK -->
 	<string name="country_name_uk">Англия</string>
+	<!-- Original string: US -->
 	<string name="country_name_us_ca">США/Канада</string>
+	<!-- Original string: UY -->
 	<string name="country_name_uy">Уругвай</string>
+	<!-- Original string: UZ -->
 	<string name="country_name_uz">Узбекистан</string>
+	<!-- Original string: VA -->
 	<string name="country_name_va">Ватикан</string>
+	<!-- Original string: VC -->
 	<string name="country_name_vc">Сент-Винсент</string>
+	<!-- Original string: VE -->
 	<string name="country_name_ve">Венесуэла</string>
+	<!-- Original string: VG -->
 	<string name="country_name_vg">Британские Виргинские острова</string>
+	<!-- Original string: VI -->
 	<string name="country_name_vi">Виргинские острова</string>
+	<!-- Original string: VN -->
 	<string name="country_name_vn">Вьетнам</string>
+	<!-- Original string: VU -->
 	<string name="country_name_vu">Вануату</string>
+	<!-- Original string: WF -->
 	<string name="country_name_wf">Уоллис и Футуна</string>
+	<!-- Original string: WS -->
 	<string name="country_name_ws">Западное Самоа</string>
+	<!-- Original string: YE -->
 	<string name="country_name_ye">Йемен</string>
+	<!-- Original string: ZA -->
 	<string name="country_name_za">ЮАР</string>
+	<!-- Original string: ZM -->
 	<string name="country_name_zm">Замбия</string>
+	<!-- Original string: ZW -->
 	<string name="country_name_zw">Зимбабве</string>
+	<!-- Original string: " %d" -->
 	<string name="day_of_month">" %d"</string>
+	<!-- Original string: Delete -->
 	<string name="delete">Удалить</string>
+	<!-- Original string: Xiaomi phone -->
 	<string name="device_xiaomi">Xiaomi Phone</string>
+	<!-- Original string: 七夕 -->
 	<string name="double_seventh_day" />
+	<!-- Original string: Emergency -->
 	<string name="emergency_call_string">Экстренные</string>
+	<!-- Original string: You account met problems. Sync disabled. -->
 	<string name="error_forbidden">Ошибки в аккаунте. Синхронизация отключена.</string>
+	<!-- Original string: Server malfunctional. Sync disabled. -->
 	<string name="error_not_acceptable">Ошибки на сервере. Синхронизация отключена.</string>
+	<!-- Original string: Sync error for %s -->
 	<string name="error_title">Ошибка синхронизации для %s</string>
+	<!-- Original string: Too many failures on authenticaion. Sync disabled. -->
 	<string name="error_unauthorized">Слишком много попыток авторизации. Синхронизация отключена.</string>
+	<!-- Original string: Every day -->
 	<string name="every_day">Каждый день</string>
+	<!-- Original string: Validate -->
 	<string name="experimental_validate">Проверить</string>
+	<!-- Original string: Validate failed, please try again -->
 	<string name="experimental_validate_fail">Проверка не удалась, попробуйте еще раз</string>
+	<!-- Original string: Password -->
 	<string name="experimental_validate_password">Пароль</string>
+	<!-- Original string: Validating... -->
 	<string name="experimental_validate_progress">Проверка. Пожалуйста, подождтите...</string>
+	<!-- Original string: Thank you! -->
 	<string name="experimental_validate_thanks">Спасибо!</string>
+	<!-- Original string: Xiaomi ID -->
 	<string name="experimental_validate_username">Логин Xiaomi</string>
+	<!-- Original string: Your every exploration helps MIUI become better! -->
 	<string name="experimental_validate_warning">Каждое Ваше исследование помогает стать MIUI лучше!</string>
+	<!-- Original string: Sim checking... -->
 	<string name="find_device_check_sim">Проверка SIM…</string>
+	<!-- Original string: Your device has been locked\nPlease insert the SIM card , or input your Xiaomi account password -->
 	<string name="find_device_sim_change_instructions">Ваше устройство заблокировано. Вставьте SIM-карту или введите Ваш пароль для аккаунта Xiaomi.</string>
+	<!-- Original string: Your device has been locked\nPlease insert the SIM card -->
 	<string name="find_device_sim_change_instructions_no_network">Ваше устройство заблокировано. Пожалуйста, вставьте оригинальную SIM-карту.</string>
+	<!-- Original string: Turn off airplane mode -->
 	<string name="find_device_turn_off_flight_mode">Отключите режим полета</string>
+	<!-- Original string: Your device has been locked\nPlease turn off airplane mode -->
 	<string name="find_device_turn_off_flight_mode_instructions">Ваше устройство заблокировано. Пожалуйста, отключите режим полета.</string>
+	<!-- Original string: Firewall -->
 	<string name="firewall_setting">Черный список</string>
+	<!-- Original string: Do you want to enable the function of long-pressing the back key to kill the current process and its background services? \n\nEnable via Settings > System > Button Settings -->
 	<string name="first_back_long_press_message">Вы хотите, чтобы функция долгого нажатия клавишуи возврата, закрывало приложение и его сервисы? \n\nВключите через Настройки > Система > Настройки кнопок</string>
+	<!-- Original string: 愚人节 -->
 	<string name="fools_day" />
+	<!-- Original string: Successfully closed \"%1$s\" -->
 	<string name="force_exit_message">Приложение \"%1$s\" было закрыто</string>
+	<!-- Original string: Forget Password -->
 	<string name="forget_password_string">Забыть пароль</string>
+	<!-- Original string: %1$s %2$s -->
 	<string name="format_time_in_12_hours">%1$s %2$s</string>
+	<!-- Original string: In guarded mode, calls,notes,gallery data and text messages will be hidden and launcher will not be able to enter editing mode. You can set password to protect guarded mode in Access Control setting -->
 	<string name="global_action_privacy_mode_dialog_message">В режиме гостя сообщения, журналы вызовов и заметки будут скрыты, а также Вы не сможете редактировать рабочий стол</string>
+	<!-- Original string: Guard -->
 	<string name="global_action_toggle_privacy_mode">Гость</string>
+	<!-- Original string: 小满 -->
 	<string name="grain_buds" />
+	<!-- Original string: 芒种 -->
 	<string name="grain_in_ear" />
+	<!-- Original string: 谷雨 -->
 	<string name="grain_rain" />
+	<!-- Original string: 大寒 -->
 	<string name="great_cold" />
+	<!-- Original string: 大暑 -->
 	<string name="great_heat" />
+	<!-- Original string: Contacts -->
 	<string name="group_name_contacts">Контакты</string>
+	<!-- Original string: Colleagues -->
 	<string name="group_name_coworkers">Коллеги</string>
+	<!-- Original string: Family -->
 	<string name="group_name_family">Семья</string>
+	<!-- Original string: Friends -->
 	<string name="group_name_friends">Друзья</string>
+	<!-- Original string: 大雪 -->
 	<string name="heavy_snow" />
+	<!-- Original string: 霜降 -->
 	<string name="hoar_frost_falls" />
+	<!-- Original string: Incorrect PIN code -->
 	<string name="incorrect_pincode">Неверный PIN-код</string>
+	<!-- Original string: Incorrect PIN code, attempts remaining %d -->
 	<string name="incorrect_pincode_remaining_attempts">Неверный PIN-код. Осталось попыток: %d.</string>
+	<!-- Original string: Incorrect PUK code -->
 	<string name="incorrect_pukcode">Неверный PUK-код</string>
+	<!-- Original string: Incorrect PUK code, attempts remaining %d -->
 	<string name="incorrect_pukcode_remaining_attempts">Неверный PUK-код. Осталось попыток: %d.</string>
+	<!-- Original string: Input PIN code -->
 	<string name="input_pin_code">Введите PIN</string>
+	<!-- Original string: Input PIN code to unlock device -->
 	<string name="input_pin_code_to_unlock">Введите PIN-код для разблокировки</string>
+	<!-- Original string: Input PUK code -->
 	<string name="input_puk_code">Введите PUK</string>
+	<!-- Original string: Input PUK code to unlock device -->
 	<string name="input_puk_code_to_unlock">Введите PUK-код для разблокировки устройства</string>
+	<!-- Original string: 惊蛰 -->
 	<string name="insects_awaken" />
+	<!-- Original string: 妇女节 -->
 	<string name="international_womens_day">Международный Женский день</string>
+	<!-- Original string: 劳动节 -->
 	<string name="labour_day" />
+	<!-- Original string: 元宵节 -->
 	<string name="lantern_festival" />
+	<!-- Original string: 小雪 -->
 	<string name="light_snow" />
+	<!-- Original string: yyyy/MM/dd \n EEEE -->
 	<string name="lock_screen_date">EEEE, d MMMM</string>
+	<!-- Original string: Cell added -->
 	<string name="lockscreen_access_pattern_cell_added">Сотовая добавлена</string>
+	<!-- Original string: Pattern cleared -->
 	<string name="lockscreen_access_pattern_cleared">Шаблон очищен</string>
+	<!-- Original string: Pattern completed -->
 	<string name="lockscreen_access_pattern_detected">Шаблон завершен</string>
+	<!-- Original string: Pattern started -->
 	<string name="lockscreen_access_pattern_start">Шаблон начат</string>
+	<!-- Original string: Emergency call -->
 	<string name="lockscreen_emergency_call">Только экстренные</string>
+	<!-- Original string: Forgot pattern? -->
 	<string name="lockscreen_forgot_pattern_button_text">Забыть шаблон?</string>
+	<!-- Original string: Draw pattern to unlock -->
 	<string name="lockscreen_pattern_instructions">Нарисуйте шаблон, чтобы разблокировать</string>
+	<!-- Original string: Try again -->
 	<string name="lockscreen_pattern_wrong">Попробовать снова</string>
+	<!-- Original string: Try again in %d seconds. -->
 	<string name="lockscreen_too_many_failed_attempts_countdown">Попробуйте снова через %d сек.</string>
+	<!-- Original string: Next track button -->
 	<string name="lockscreen_transport_next_description">Кнопка следующий трек</string>
+	<!-- Original string: Play button -->
 	<string name="lockscreen_transport_play_description">Кнопка Играть</string>
+	<!-- Original string: Previous track button -->
 	<string name="lockscreen_transport_prev_description">Previous track button</string>
+	<!-- Original string: Enter PUK code to unlock SIM card -->
 	<string name="lockscreen_unlock_sim_via_puk">Используйте PUK-код, чтобы разблокировать SIM-карту</string>
+	<!-- Original string: 八 -->
 	<string name="lunar_ba" />
+	<!-- Original string: 农历 -->
 	<string name="lunar_calendar">Лунный календарь</string>
+	<!-- Original string: 初 -->
 	<string name="lunar_chu" />
+	<!-- Original string: 初十 -->
 	<string name="lunar_chu_shi" />
+	<!-- Original string: 二 -->
 	<string name="lunar_er" />
+	<!-- Original string: 二十 -->
 	<string name="lunar_er_shi" />
+	<!-- Original string: 九 -->
 	<string name="lunar_jiu" />
+	<!-- Original string: 闰 -->
 	<string name="lunar_leap" />
+	<!-- Original string: O -->
 	<string name="lunar_ling" />
+	<!-- Original string: 六 -->
 	<string name="lunar_liu" />
+	<!-- Original string: 廿 -->
 	<string name="lunar_nian" />
+	<!-- Original string: 七 -->
 	<string name="lunar_qi" />
+	<!-- Original string: 三 -->
 	<string name="lunar_san" />
+	<!-- Original string: 三十 -->
 	<string name="lunar_san_shi" />
+	<!-- Original string: 十 -->
 	<string name="lunar_shi" />
+	<!-- Original string: 腊 -->
 	<string name="lunar_shi_er" />
+	<!-- Original string: 冬 -->
 	<string name="lunar_shi_yi" />
+	<!-- Original string: 四 -->
 	<string name="lunar_si" />
+	<!-- Original string: 五 -->
 	<string name="lunar_wu" />
+	<!-- Original string: 年 -->
 	<string name="lunar_year">Годы</string>
+	<!-- Original string: 一 -->
 	<string name="lunar_yi" />
+	<!-- Original string: 月 -->
 	<string name="lunar_yue" />
+	<!-- Original string: 正 -->
 	<string name="lunar_zheng" />
+	<!-- Original string: No freeable memory currently -->
 	<string name="memory_clear_nothing_result">Нет памяти для очистки</string>
+	<!-- Original string: Successfully freed %1$s memory,\nCurrent available memory is %2$s -->
 	<string name="memory_clear_result">Очищено: %1$s\nДоступно: %2$s</string>
+	<!-- Original string: Copyright -->
 	<string name="miui_copyright_title">Авторское право</string>
+	<!-- Original string: Android -->
 	<string name="miui_device_name">MIUI</string>
+	<!-- Original string: Mi Credit user agreement -->
 	<string name="miui_mibi_license_title">Лицензионное соглашение MiCredit</string>
+	<!-- Original string: Privacy policy -->
 	<string name="miui_privacy_policy_title">Политика конфиденциальности</string>
+	<!-- Original string: Try again -->
 	<string name="miui_unlockscreen_password_wrong">Повторить попытку</string>
+	<!-- Original string: User agreement -->
 	<string name="miui_user_agreement_title">Пользовательское соглашение</string>
+	<!-- Original string: User manual -->
 	<string name="miui_user_manual_title">Инструкция</string>
+	<!-- Original string: Apr -->
 	<string name="month_of_april">Апр</string>
+	<!-- Original string: Aug -->
 	<string name="month_of_august">Авг</string>
+	<!-- Original string: Dec -->
 	<string name="month_of_december">Дек</string>
+	<!-- Original string: Feb -->
 	<string name="month_of_february">Фев</string>
+	<!-- Original string: Jan -->
 	<string name="month_of_january">Янв</string>
+	<!-- Original string: Jul -->
 	<string name="month_of_july">Июл</string>
+	<!-- Original string: Jun -->
 	<string name="month_of_june">Июн</string>
+	<!-- Original string: Mar -->
 	<string name="month_of_march">Мар</string>
+	<!-- Original string: May -->
 	<string name="month_of_may">Май</string>
+	<!-- Original string: Nov -->
 	<string name="month_of_november">Ноя</string>
+	<!-- Original string: Oct -->
 	<string name="month_of_october">Окт</string>
+	<!-- Original string: Sep -->
 	<string name="month_of_september">Сен</string>
+	<!-- Original string: Selected %1$s item(s) -->
 	<string name="multi_select_title">Выбрано: %1$s</string>
+	<!-- Original string: 国庆节 -->
 	<string name="national_day" />
+	<!-- Original string: 國父誕辰 -->
 	<string name="national_father_day" />
+	<!-- Original string: Never -->
 	<string name="never">Никогда</string>
+	<!-- Original string: 元旦 -->
 	<string name="new_years_day">Новый год</string>
+	<!-- Original string: No sim, service is unavailable -->
 	<string name="no_sim">Нет SIM-карты</string>
+	<!-- Original string: Open network connection -->
 	<string name="open_wifi_settings">Открытое подключение к сети</string>
+	<!-- Original string: 建党节 -->
 	<string name="partys_day" />
+	<!-- Original string: Payphone -->
 	<string name="payphone">Телефоный автомат</string>
+	<!-- Original string: 和平紀念 -->
 	<string name="peace_day" />
+	<!-- Original string: Auto backup -->
 	<string name="perm_auto_backup">Автоматическое резервное копирование</string>
+	<!-- Original string: Allow to send data update water mark -->
 	<string name="perm_data_update_dspt">Разрешить обновления данных</string>
+	<!-- Original string: Data update -->
 	<string name="perm_data_update_lab">Обновление данных</string>
+	<!-- Original string: Allow app to pay through Xiaomi payment service -->
 	<string name="perm_payment_dspt">Разрешить приложению платить через сервисы Xiaomi</string>
+	<!-- Original string: Xiaomi payment service -->
 	<string name="perm_payment_lab">Сервис оплаты Xiaomi</string>
+	<!-- Original string: Allow to send Xiaomi push message -->
 	<string name="perm_send_push_dspt">Разрешить отправлять push-сообщения в Xiaomi</string>
+	<!-- Original string: Send push message -->
 	<string name="perm_send_push_lab">Отправка push-сообщений</string>
+	<!-- Original string: Allow Apps to trigger toggles provided by status bar -->
 	<string name="perm_tigger_toggle_dspt">Разрешить программам переключать функции в строке состояния</string>
+	<!-- Original string: Tigger toggles from status bar -->
 	<string name="perm_tigger_toggle_lab">Пререключатели из статусбара</string>
+	<!-- Original string: Find device -->
 	<string name="perm_use_find_device">Обнаружение устройства</string>
+	<!-- Original string: Allows the app to read and modify your notes stored on your phone. Malicious applications can use this to send your notes to other people or erase all your notes. -->
 	<string name="permdesc_accessNote">Приложение сможет считывать и изменять заметки, которые хранятся на вашем телефоне. Вредоносные программы могут использовать эту возможность для передачи заметок другим людям или удаления всех заметок.</string>
+	<!-- Original string: Access your notes -->
 	<string name="permlab_accessNote">Доступ к заметкам</string>
+	<!-- Original string: PIN operation failed. -->
 	<string name="pin_operation_failed">PIN - операция не удалась.</string>
+	<!-- Original string: PIN code is set to 1234, please reset PIN here. -->
 	<string name="pincode_set_to_default_msg">PIN-код установлен в 1234. Пожалуйста, сбросьте PIN-код здесь.</string>
+	<!-- Original string: Private number -->
 	<string name="private_num">Приватный номер</string>
+	<!-- Original string: 号码信息由114号码百事通提供 -->
 	<string name="provider_114">号码信息由114号码百事通提供</string>
+	<!-- Original string: 由搜狗号码通用户标注 -->
 	<string name="provider_sougou">由搜狗号码通用户标注</string>
+	<!-- Original string: PUK operation failed. -->
 	<string name="puk_operation_failed">PUK - операция не удалась.</string>
+	<!-- Original string: Phone will be restarted -->
 	<string name="reboot_confirm">Телефон будет перезагружен</string>
+	<!-- Original string: Restarting... -->
 	<string name="reboot_progress">Перезагрузка...</string>
+	<!-- Original string: Please return if I a lost -->
 	<string name="return_to_me_message">Пожалуйста, верните, если я потерял</string>
+	<!-- Original string: Clear all -->
 	<string name="reverse_all">Очистить выделение</string>
+	<!-- Original string: Your phone is not connected to a data service. To view this information now, go to %s from any computer connected to the Internet. -->
 	<string name="safetylegal_activity_unreachable">Ваш телефон не подключен к сети. Для просмотра этой информации в настоящее время, перейдите к %s с любого компьютера.</string>
+	<!-- Original string: "Pressing 'Home'+'Power' to enable" -->
 	<string name="screen_button_notification_text">"Нажмите 'Home'+'Power' для включения"</string>
+	<!-- Original string: Screen buttons are disabled -->
 	<string name="screen_button_notification_title">Кнопки на дисплее отключены</string>
+	<!-- Original string: "Force to quit: pressing 'Back'+'Volume Up' key" -->
 	<string name="screen_on_proximity_sensor_hint">"Принудительный выход: нажмите кнопки 'НАЗАД'+'Громкость +'"</string>
+	<!-- Original string: "Don't cover the top of screen" -->
 	<string name="screen_on_proximity_sensor_summary">Не закрывайте верхнюю половину экрана</string>
+	<!-- Original string: Misoperation prevent mode -->
 	<string name="screen_on_proximity_sensor_title">Режим предотвращения ошибок</string>
+	<!-- Original string: SD card unmounted or unavailable -->
 	<string name="sd_not_available">SD-карта не доступна. Вставьте или подключите ее.</string>
+	<!-- Original string: SD card unmounted or unvailable, internal storage is low on space -->
 	<string name="sd_not_available_low_internal_storage">SD-карта не доступна и отсутствует внутреннее устройство хранения</string>
+	<!-- Original string: Saved to internal storage -->
 	<string name="sd_not_available_saved_to_internal_storage">Файл сохранен во внутреннюю память</string>
+	<!-- Original string: SD card unavailable, saved to internal storage -->
 	<string name="sd_not_available_use_internal_storage">SD-карта не доступна, будет использована внутренняя память</string>
+	<!-- Original string: Select -->
 	<string name="select">Выбрать</string>
+	<!-- Original string: Select all -->
 	<string name="select_all">Выбрать все</string>
+	<!-- Original string: Send -->
 	<string name="send">Отправить</string>
+	<!-- Original string: An activate SMS need to be sent, continue? -->
 	<string name="send_sms_for_sync_notice">Будет отправлено SMS сообщение для активации, продолжить?</string>
+	<!-- Original string: Sync service not activated -->
 	<string name="send_sms_for_sync_title">Отправка SMS для активации синхронизации</string>
+	<!-- Original string: Share -->
 	<string name="share">Отправить</string>
+	<!-- Original string: Please input 4–8 digits -->
 	<string name="short_pincode_error_msg">Пожалуйста, введите 4-8 цифр</string>
+	<!-- Original string: Please input at least 8 digits -->
 	<string name="short_pukcode_error_msg">Пожалуйста, введите по меньшей мере 8 цифр</string>
+	<!-- Original string: SIM -->
 	<string name="sim_account_name">SIM</string>
+	<!-- Original string: Current SIM is unactivated. A common sms is required to activate the service, activate now? -->
 	<string name="sim_changed_reactivate_notice">Текущая SIM-карта не активирована. Необходима отправка SMS для активации услуги Xiaomi синхронизации. Активировать сейчас?</string>
+	<!-- Original string: 小寒 -->
 	<string name="slight_cold" />
+	<!-- Original string: 小暑 -->
 	<string name="slight_heat" />
+	<!-- Original string: 公历 -->
 	<string name="solar_calendar" />
+	<!-- Original string: Speaker -->
 	<string name="speaker">Динамик</string>
+	<!-- Original string: 立春 -->
 	<string name="spring_begins" />
+	<!-- Original string: 处暑 -->
 	<string name="stopping_the_heat" />
+	<!-- Original string: 立夏 -->
 	<string name="summer_begins" />
+	<!-- Original string: 夏至 -->
 	<string name="summer_solstice" />
+	<!-- Original string: Touch to sync（ %1$s ) -->
 	<string name="sync_one_time_sync">Нажмите для синхронизации (%1$s)</string>
+	<!-- Original string: 教师节 -->
 	<string name="teachers_day" />
+	<!-- Original string: Clipboard -->
 	<string name="text_pastelist">Буфер обмена</string>
+	<!-- Original string: 建军节 -->
 	<string name="the_armys_day" />
+	<!-- Original string: 重阳节 -->
 	<string name="the_double_ninth_festival" />
+	<!-- Original string: 端午节 -->
 	<string name="the_dragon_boat_festival" />
+	<!-- Original string: 腊八 -->
 	<string name="the_laba_rice_porridge_festival" />
+	<!-- Original string: 中秋节 -->
 	<string name="the_mid_autumn_festival" />
+	<!-- Original string: 雨水 -->
 	<string name="the_rains" />
+	<!-- Original string: 春节 -->
 	<string name="the_spring_festival" />
+	<!-- Original string: Today -->
 	<string name="today">"Сегодня "</string>
+	<!-- Original string: Tomorrow -->
 	<string name="tomorrow">"Завтра "</string>
+	<!-- Original string: Unknown number -->
 	<string name="unknown">Неизвестный номер</string>
+	<!-- Original string: Unknown caller -->
 	<string name="unknown_caller">Неизвестный абонент</string>
+	<!-- Original string: OK -->
 	<string name="unlock_string">OK</string>
+	<!-- Original string: Unlocking SIM card -->
 	<string name="unlocking_sim_card">Разблокировка SIM-карты</string>
+	<!-- Original string: Connect your charger -->
 	<string name="unlockscreen_low_battery">Подключите зарядное устройство</string>
+	<!-- Original string: Recharge completed -->
 	<string name="unlockscreen_recharge_completed">Зарядка завершена</string>
+	<!-- Original string: Recharging %d%% -->
 	<string name="unlockscreen_recharging_message">Идет зарядка - %d%%</string>
+	<!-- Original string: You will use the system and online services provided by Xiaomi, please read -->
 	<string name="user_agreement1">Вы будете использовать системы и интернет-услуги, предоставляемые Xiaomi, пожалуйста, прочитайте</string>
+	<!-- Original string: " User agreement" -->
 	<string name="user_agreement2">Пользовательское соглашение</string>
+	<!-- Original string: " and " -->
 	<string name="user_agreement3">" и "</string>
+	<!-- Original string: Privacy policy -->
 	<string name="user_agreement4">Политику конфиденциальности</string>
+	<!-- Original string: ，Click OK shows that you agree to and are willing to comply with the above content, click Cancel to exit. -->
 	<string name="user_agreement5">, Нажимая ОК, Вы соглашаетесь с вышеуказанным. Нажмите Отмена для выхода.</string>
+	<!-- Original string: null -->
 	<string name="v5_date_picker_label_day" />
+	<!-- Original string: null -->
 	<string name="v5_date_picker_label_month" />
+	<!-- Original string: null -->
 	<string name="v5_date_picker_label_year" />
+	<!-- Original string: Uncheck All -->
 	<string name="v5_deselect_all">Отменить все</string>
+	<!-- Original string: Check Items -->
 	<string name="v5_edit_mode_title_empty">Выберите позиции</string>
+	<!-- Original string: More -->
 	<string name="v5_icon_menu_bar_more_item_label">Еще</string>
+	<!-- Original string: Check All -->
 	<string name="v5_select_all">Выбрать все</string>
+	<!-- Original string: null -->
 	<string name="v5_time_picker_label_hour" />
+	<!-- Original string: null -->
 	<string name="v5_time_picker_label_minute" />
+	<!-- Original string: 情人节 -->
 	<string name="valentines_day">День Святого Валентина</string>
+	<!-- Original string: 春分 -->
 	<string name="vernal_equinox" />
+	<!-- Original string: Alarm -->
 	<string name="volume_alarm">Будильник</string>
+	<!-- Original string: Bluetooth -->
 	<string name="volume_icon_description_bluetooth">Bluetooth</string>
+	<!-- Original string: Call -->
 	<string name="volume_icon_description_incall">Вызов</string>
+	<!-- Original string: Media -->
 	<string name="volume_icon_description_media">Медиа</string>
+	<!-- Original string: Notification -->
 	<string name="volume_icon_description_notification">Уведомления</string>
+	<!-- Original string: Ringtone -->
 	<string name="volume_icon_description_ringer">Рингтон</string>
+	<!-- Original string: Shutdown alarm still rings at %s -->
 	<string name="wake_alarm_message">Будильник зазвонит\n%s</string>
+	<!-- Original string: 白露 -->
 	<string name="white_dews" />
+	<!-- Original string: 立冬 -->
 	<string name="winter_begins">Зима</string>
+	<!-- Original string: 冬至 -->
 	<string name="winter_solstice" />
+	<!-- Original string: Yesterday -->
 	<string name="yesterday">"Вчера "</string>
 </resources>

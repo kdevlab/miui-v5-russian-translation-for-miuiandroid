@@ -1,9 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--Merged and sorted with KDG BigBlackBox-->
 <resources>
+	<!-- Original string: Agree -->
 	<string name="agree">Принимаю</string>
+	<!-- Original string: Network Location -->
 	<string name="app_label">Местоположение сети</string>
+	<!-- Original string: Disagree -->
 	<string name="disagree">Не принимаю</string>
+	<!-- Original string: "Allow Google's location service to collect anonymous location data. Some data may be stored on your device. Collection may occur even when no apps are running." -->
 	<string name="location_warning_message">Разрешить службе геопозиционирования Google собирать анонимные данные о местоположении. Некоторые из них могут храниться на устройстве. Сбор сведений может проходить даже тогда, когда ни одно из приложений не запущено.</string>
+	<!-- Original string: Location consent -->
 	<string name="location_warning_title">Разрешить отслеживание?</string>
 </resources>

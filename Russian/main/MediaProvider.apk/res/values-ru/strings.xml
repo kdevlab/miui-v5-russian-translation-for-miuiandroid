@@ -1,8 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--Merged and sorted with KDG BigBlackBox-->
 <resources>
+	<!-- Original string: Media Storage -->
 	<string name="app_label">Хранилище мультимедиа</string>
+	<!-- Original string: Artist -->
 	<string name="artist_label">Исполнитель</string>
+	<!-- Original string: Media -->
 	<string name="uid_label">Мультимедиа</string>
+	<!-- Original string: Upgrading Media database. -->
 	<string name="upgrade_msg">Обновление базы данных мультимедиа...</string>
 </resources>
