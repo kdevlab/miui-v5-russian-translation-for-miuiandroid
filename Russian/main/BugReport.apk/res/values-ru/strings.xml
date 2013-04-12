@@ -1,90 +1,47 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--Merged and sorted with KDG BigBlackBox-->
 <resources>
-	<!-- Original string: Submit -->
 	<string name="action_submit">Отправить</string>
-	<!-- Original string: User Feedback -->
 	<string name="app_label">Отзывы</string>
-	<!-- Original string: Send -->
 	<string name="btn_send">Отправить</string>
-	<!-- Original string: Description (required) -->
 	<string name="description">Описание (обязательно)</string>
-	<!-- Original string: Cancel -->
 	<string name="discard_draft_dialog_button_cancel">Отмена</string>
-	<!-- Original string: OK -->
 	<string name="discard_draft_dialog_button_discard">OK</string>
-	<!-- Original string: The report has been modified, click OK button to discard the draft. -->
 	<string name="discard_draft_dialog_content">Отчет изменен, нажмите OK для удаления черновика.</string>
-	<!-- Original string: Discard draft -->
 	<string name="discard_draft_dialog_title">Удалить черновик</string>
-	<!-- Original string: Feedback type -->
 	<string name="err_type">Тип отчета</string>
-	<!-- Original string: Call issues -->
 	<string name="err_type_call">Вызовы</string>
-	<!-- Original string: Data lost -->
 	<string name="err_type_data_lost">Потеря данных</string>
-	<!-- Original string: Force close -->
 	<string name="err_type_force_close">Принудительное закрытие</string>
-	<!-- Original string: Network issues -->
 	<string name="err_type_network">Сеть</string>
-	<!-- Original string: Others -->
 	<string name="err_type_others">Другие</string>
-	<!-- Original string: Power consumption -->
 	<string name="err_type_power_consuming">Потребление</string>
-	<!-- Original string: System reboots -->
 	<string name="err_type_reboot">Перезагрузка</string>
-	<!-- Original string: Suggestions -->
 	<string name="err_type_suggestion">Предположение</string>
-	<!-- Original string: Attach screenshot -->
 	<string name="menu_attach_screenshot">Присоединить скриншот</string>
-	<!-- Original string: Copy -->
 	<string name="menu_copy">Копировать</string>
-	<!-- Original string: Discard -->
 	<string name="menu_discard">Отменить</string>
-	<!-- Original string: Send report -->
 	<string name="menu_send">Отправить отчет</string>
-	<!-- Original string: OK -->
 	<string name="network_unavailable_dialog_button_ok">OK</string>
-	<!-- Original string: Your feedback will be sent once network is ready -->
 	<string name="network_unavailable_dialog_content">Ваш отчет будет отправлен, как только сеть будет доступна</string>
-	<!-- Original string: Network unavailable -->
 	<string name="network_unavailable_dialog_title">Сеть недоступна</string>
-	<!-- Original string: Generating the report, please wait a moment… -->
 	<string name="packaging_dialog_content">Генерация отчета, пожалуйста, подождите…</string>
-	<!-- Original string: Report to MIUI -->
 	<string name="report_miui">Отчет MIUI</string>
-	<!-- Original string: Description -->
 	<string name="section_description">Описание</string>
-	<!-- Original string: Feedback type -->
 	<string name="section_err_type">Тип отчета</string>
-	<!-- Original string: Screenshot -->
 	<string name="section_screenshot">Скриншот</string>
-	<!-- Original string: Collecting logs -->
 	<string name="status_msg_collecting_log">Сбор логов</string>
-	<!-- Original string: %d feedbacks are uploading… -->
 	<string name="status_msg_pending_upload">%d отчетов загружаются…</string>
-	<!-- Original string: The description is required -->
 	<string name="toast_description_required">Отзыв пользователя не может быть пустым</string>
-	<!-- Original string: Your feedback will be sent when Wi-Fi is ready -->
 	<string name="toast_feedback_pending_wlan">Ваш отчет будет отправлен, когда сеть WLAN будет готова</string>
-	<!-- Original string: Your feedback has been submitted successfully -->
 	<string name="toast_feedback_submitted">Ваш отчет успешно отправлен</string>
-	<!-- Original string: Collecting logs, please wait a moment -->
 	<string name="toast_pending_log_collection">Сбор логов, пожалуйста, подождите</string>
-	<!-- Original string: Report copied to clipboard -->
 	<string name="toast_report_copied_to_clipboard">Отчет скопирован в буфер обмена</string>
-	<!-- Original string: Failed to send the report -->
 	<string name="toast_report_sent_failed">Ошибка отправки отчета</string>
-	<!-- Original string: The report has been sent -->
 	<string name="toast_report_sent_succeed">Отчет был успешно отправлен</string>
-	<!-- Original string: User Feedback -->
 	<string name="user_feedback">Отзывы</string>
-	<!-- Original string: OK -->
 	<string name="wlan_unavailable_dialog_button_ok">OK</string>
-	<!-- Original string: Send imediately -->
 	<string name="wlan_unavailable_dialog_button_sent">Отправить сейсас</string>
-	<!-- Original string: %s is required for 2G/3G data, click OK to send only under Wi-Fi network -->
 	<string name="wlan_unavailable_dialog_content">%s требуется (2G/3G), нажмите OK для отправки только с помощью WLAN сетей</string>
-	<!-- Original string: Wi-Fi unavailable -->
 	<string name="wlan_unavailable_dialog_title">WLAN подключение отсутствует</string>
 </resources>

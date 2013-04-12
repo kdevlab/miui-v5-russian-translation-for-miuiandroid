@@ -1,34 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--Merged and sorted with KDG BigBlackBox-->
 <resources>
-	<!-- Original string: Advanced panel -->
 	<string name="advanced">Дополнительная панель</string>
-	<!-- Original string: Calculator -->
 	<string name="app_name">Калькулятор</string>
-	<!-- Original string: Basic panel -->
 	<string name="basic">Основная панель</string>
-	<!-- Original string: Clear history -->
 	<string name="clear_history">Очистить историю</string>
-	<!-- Original string: "Euler's number" -->
 	<string name="eDesc">Число Эйлера</string>
-	<!-- Original string: Error -->
 	<string name="error">Ошибка</string>
-	<!-- Original string: factorial -->
 	<string name="factorialDesc">Факториал</string>
-	<!-- Original string: left parenthesis -->
 	<string name="leftParenDesc">Левая скобка</string>
-	<!-- Original string: logarithm -->
 	<string name="lgDesc">Логарифм</string>
-	<!-- Original string: natural logarithm -->
 	<string name="lnDesc">Натуральный логарифм</string>
-	<!-- Original string: minus -->
 	<string name="minusDesc">Минус</string>
-	<!-- Original string: right parenthesis -->
 	<string name="rightParenDesc">Правая скобка</string>
-	<!-- Original string: scientific -->
 	<string name="scientific">Научный</string>
-	<!-- Original string: square root -->
 	<string name="sqrtDesc">Квадратный корень</string>
-	<!-- Original string: Text copied. -->
 	<string name="text_copied_toast">Текст скопирован</string>
 </resources>

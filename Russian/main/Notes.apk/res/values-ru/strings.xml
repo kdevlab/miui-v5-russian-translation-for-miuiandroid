@@ -1,154 +1,79 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--Merged and sorted with KDG BigBlackBox-->
 <resources>
-	<!-- Original string: Notes can be synced to your Xiaomi account. Login and sync now? -->
 	<string name="add_account_desc">Заметки можно синхронизировать с вашим Xiaomi аккаунтом. Войти в аккаунт и начать синхронизацию?</string>
-	<!-- Original string: Remove -->
 	<string name="alert_edit_action_delete">Удалить</string>
-	<!-- Original string: Modify -->
 	<string name="alert_edit_action_update">Изменить</string>
-	<!-- Original string: Confirm to delete the selected %1$s folders? -->
 	<string name="alert_message_delete_folders">Вы уверены, что хотите удалить выбранные папки (%1$s)?</string>
-	<!-- Original string: Confirm to delete the selected %1$s folders and %2$s notes? -->
 	<string name="alert_message_delete_folders_notes">Вы уверены, что хотите удалить выбранные папки (%1$s) и заметки (%2$s)?</string>
-	<!-- Original string: Confirm to delete this note? -->
 	<string name="alert_message_delete_note">Вы уверены, что хотите удалить эту заметку?</string>
-	<!-- Original string: Confirm to delete the selected %1$s notes? -->
 	<string name="alert_message_delete_notes">Вы уверены, что хотите удалить выбранные заметки (%1$s)?</string>
-	<!-- Original string: Confirm to discard all changes? -->
 	<string name="alert_message_discard_changes">Отменить все действия?</string>
-	<!-- Original string: Delete -->
 	<string name="alert_title_delete">Удаление заметок</string>
-	<!-- Original string: Discard -->
 	<string name="alert_title_discard">Отмена</string>
-	<!-- Original string: Notes -->
 	<string name="app_name">Заметки</string>
-	<!-- Original string: Notes -->
 	<string name="app_widget">Заметки</string>
-	<!-- Original string: Camera -->
 	<string name="attachment_camera">Камера</string>
-	<!-- Original string: Contact -->
 	<string name="attachment_contact">Контакт</string>
-	<!-- Original string: Gallery -->
 	<string name="attachment_gallery">Галерея</string>
-	<!-- Original string: New note -->
 	<string name="button_new_note">Новая заметка</string>
-	<!-- Original string: Call notes -->
 	<string name="call_record_folder_name">Вызов заметки</string>
-	<!-- Original string: Close -->
 	<string name="close">Закрыть</string>
-	<!-- Original string: notes -->
 	<string name="default_folder_name">Заметки</string>
-	<!-- Original string: Sync -->
 	<string name="enable_sync">Синхронизация</string>
-	<!-- Original string: Notes can be synced with your Xiaomi account %1$s, sync now? -->
 	<string name="enable_sync_desc">Заметки можно синхронизировать с вашим Xiaomi аккаунтом %1$s. Синхронизировать прямо сейчас?</string>
-	<!-- Original string: Sorry, cannot set a time on empty note -->
 	<string name="error_note_empty_for_clock">К сожалению, невозможно установить время для пустой заметки</string>
-	<!-- Original string: Sorry, cannot send an empty note to home -->
 	<string name="error_note_empty_for_send_to_desktop">Пустые заметки нельзя отправить на рабочий стол</string>
-	<!-- Original string: The note does not exist -->
 	<string name="error_note_not_exist">Заметка отсутствует</string>
-	<!-- Original string: Export failed. Please check SD card -->
 	<string name="error_sdcard_export">Экспорт не удался, проверьте SD-карту!</string>
-	<!-- Original string: SD card busy, not available now -->
 	<string name="error_sdcard_unmounted">Экспорт не удался, т.к. SD-карта недоступна!</string>
-	<!-- Original string: This note already exists on desktop -->
 	<string name="error_widget_exist_for_send_to_desktop">Эта заметка уже есть на рабочем столе</string>
-	<!-- Original string: Export failed -->
 	<string name="failed_sdcard_export">Экспорт прерван!</string>
-	<!-- Original string: The folder already %1$s exist. Please rename. -->
 	<string name="folder_exist">Папка %1$s уже существует, введите другое имя</string>
-	<!-- Original string: Export text file (%1$s) to SD (%2$s) directory -->
 	<string name="format_exported_file_location">Заметки экспортированы в файл /%1$s/ в папке %2$s на SD-карте</string>
-	<!-- Original string: Successfully moved selected %1$d notes to %2$s folder -->
 	<string name="format_move_notes_to_folder">Заметки %1$d перемещены в %2$s</string>
-	<!-- Original string: Input name -->
 	<string name="hint_foler_name">Введите имя</string>
-	<!-- Original string: Note added to home -->
 	<string name="info_note_enter_desktop">Заметка добавлена на рабочий стол</string>
-	<!-- Original string: Login &amp; sync -->
 	<string name="login_sync">Вход и синхронизация</string>
-	<!-- Original string: New folder -->
 	<string name="menu_create_folder">Новая папка</string>
-	<!-- Original string: Delete -->
 	<string name="menu_delete">Удалить</string>
-	<!-- Original string: Discard -->
 	<string name="menu_discard">Отменить все действия</string>
-	<!-- Original string: Change folder name -->
 	<string name="menu_folder_change_name">Переименовать</string>
-	<!-- Original string: Font size -->
 	<string name="menu_font_size">Размер шрифта</string>
-	<!-- Original string: Move -->
 	<string name="menu_move">Переместить</string>
-	<!-- Original string: Parent folder -->
 	<string name="menu_move_parent_folder">Назад</string>
-	<!-- Original string: Change name -->
 	<string name="menu_rename_folder">Переименовать папку</string>
-	<!-- Original string: Send to home -->
 	<string name="menu_send_to_desktop">Ярлык на рабочий стол</string>
-	<!-- Original string: Settings -->
 	<string name="menu_setting">Настройки</string>
-	<!-- Original string: Pin -->
 	<string name="menu_stick">Прикрепить</string>
-	<!-- Original string: Select folder -->
 	<string name="menu_title_select_folder">Выберите папку</string>
-	<!-- Original string: Unpin -->
 	<string name="menu_unstick">Открепить</string>
-	<!-- Original string: Not now -->
 	<string name="not_now">Не сейчас</string>
-	<!-- Original string: Expired -->
 	<string name="note_alert_expired">Просрочено</string>
-	<!-- Original string: Send email -->
 	<string name="note_link_email">Отправить E-mail</string>
-	<!-- Original string: Open map -->
 	<string name="note_link_other">Посмотреть на карте</string>
-	<!-- Original string: Select text -->
 	<string name="note_link_select">Выделить текст</string>
-	<!-- Original string: Call -->
 	<string name="note_link_tel">Позвонить</string>
-	<!-- Original string: Browse web -->
 	<string name="note_link_web">Открыть браузер</string>
-	<!-- Original string: Take a look -->
 	<string name="notealert_enter">Посмотреть</string>
-	<!-- Original string: Got it -->
 	<string name="notealert_ok">Готово</string>
-	<!-- Original string: Add note -->
 	<string name="notelist_menu_new">Новая заметка</string>
-	<!-- Original string: Grid -->
 	<string name="pref_desc_mode_grid">Сетка</string>
-	<!-- Original string: List -->
 	<string name="pref_desc_mode_list">Список</string>
-	<!-- Original string: Data export -->
 	<string name="pref_title_data_export">Экспорт заметок</string>
-	<!-- Original string: Export note to SD card -->
 	<string name="pref_title_data_export_to_sdcard">Экспортировать на SD-карту</string>
-	<!-- Original string: Note style -->
 	<string name="pref_title_note_style">Стиль заметок</string>
-	<!-- Original string: Randomize new note color -->
 	<string name="preferences_bg_random_appear_title">Случайный цвет</string>
-	<!-- Original string: Settings -->
 	<string name="preferences_title">Настройки</string>
-	<!-- Original string: Notes -->
 	<string name="search">Заметки</string>
-	<!-- Original string: Search notes -->
 	<string name="search_hint">Найти заметки</string>
-	<!-- Original string: Searching notes -->
 	<string name="search_label">Поиск заметок</string>
-	<!-- Original string: Text in your notes -->
 	<string name="search_setting_description">Текст в заметках</string>
-	<!-- Original string: Enable note synchronization -->
 	<string name="select_account_prompt">Синхронизация заметок</string>
-	<!-- Original string: [Image] -->
 	<string name="snippet_image_stub">[Картинка]</string>
-	<!-- Original string: Export successful -->
 	<string name="success_sdcard_export">Экспорт завершен</string>
-	<!-- Original string: Set reminder time -->
 	<string name="time_picker_dialog_title">Установка времени напоминания</string>
-	<!-- Original string: Fail to insert image! -->
 	<string name="toast_message_add_image_fail">Не удалось вставить изображение!</string>
-	<!-- Original string: No associated note found. Click to create associated note. Resize by long click and drag to edge. -->
 	<string name="widget_havenot_content">Нет заметок, нажмите сюда, чтобы создать заметку</string>
-	<!-- Original string: Privacy mode. Cannot see note content -->
 	<string name="widget_under_visit_mode">Не возможно просмотреть заметки, потому что включен гостевой режим</string>
 </resources>

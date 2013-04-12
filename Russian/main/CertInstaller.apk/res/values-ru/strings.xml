@@ -1,70 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--Merged and sorted with KDG BigBlackBox-->
 <resources>
-	<!-- Original string: Certificate Installer -->
 	<string name="app_name">Программа установки сертификата</string>
-	<!-- Original string: %s is installed. -->
 	<string name="cert_is_added">%s установлен.</string>
-	<!-- Original string: "Couldn't install because the certificate file couldn't be located." -->
 	<string name="cert_missing_error">Установка завершилась со сбоем. Не удается найти файл сертификата.</string>
-	<!-- Original string: The certificate is not installed. -->
 	<string name="cert_not_saved">Сертификат не установлен.</string>
-	<!-- Original string: "Couldn't install because the certificate file couldn't be read." -->
 	<string name="cert_read_error">Установка завершилась со сбоем. Не удается прочитать файл сертификата.</string>
-	<!-- Original string: "Couldn't install because the certificate size is too large." -->
 	<string name="cert_too_large_error">Установка не удалась. Размер сертификата слишком велик.</string>
-	<!-- Original string: The package contains: -->
 	<string name="credential_info">Пакет содержит:</string>
-	<!-- Original string: Certificate name: -->
 	<string name="credential_name">Название сертификата:</string>
-	<!-- Original string: Type the password to extract the certificates. -->
 	<string name="credential_password">Введите пароль для извлечения сертификатов.</string>
-	<!-- Original string: Extracting… -->
 	<string name="extracting_pkcs12">Извлечение...</string>
-	<!-- Original string: No certificate file found in the storage. -->
 	<string name="generic_no_cert_file_found">No certificate file found in the storage.</string>
-	<!-- Original string: Storage is not present. -->
 	<string name="generic_sdcard_not_present">Storage is not present.</string>
-	<!-- Original string: The certificate is invalid. -->
 	<string name="invalid_cert">Сертификат недействителен.</string>
-	<!-- Original string: %d CA certificates -->
 	<string name="n_cacrts">Сертификатов центра сертификации: %d</string>
-	<!-- Original string: Type a name that contains only letters and numbers. -->
 	<string name="name_char_error">Имя должно состоять из букв и цифр.</string>
-	<!-- Original string: Name the certificate -->
 	<string name="name_credential_dialog_title">Укажите название сертификата</string>
-	<!-- Original string: Type a name. -->
 	<string name="name_empty_error">Введите название.</string>
-	<!-- Original string: No certificate file found in the SD card. -->
 	<string name="no_cert_file_found">На SD-карте отсутствует файл сертификата.</string>
-	<!-- Original string: No certificate to install. -->
 	<string name="no_cert_to_saved">Отсутствует сертификат для установки.</string>
-	<!-- Original string: one CA certificate -->
 	<string name="one_cacrt">один сертификат центра сертификации</string>
-	<!-- Original string: one user certificate -->
 	<string name="one_usercrt">один пользовательский сертификат</string>
-	<!-- Original string: one user key -->
 	<string name="one_userkey">один ключ пользователя</string>
-	<!-- Original string: one WAPI AS certificate -->
 	<string name="one_wapi_ascrt">one WAPI AS certificate</string>
-	<!-- Original string: one WAPI user certificate -->
 	<string name="one_wapi_usercrt">one WAPI user certificate</string>
-	<!-- Original string: Certificates in PKCS12 keystore. -->
 	<string name="p12_description">Сертификат находится в хранилище ключей PKCS12.</string>
-	<!-- Original string: Type the password. -->
 	<string name="password_empty_error">Введите пароль.</string>
-	<!-- Original string: Type the correct password. -->
 	<string name="password_error">Введите правильный пароль.</string>
-	<!-- Original string: Choose a certificate -->
 	<string name="pick_file_title">Выберите сертификат</string>
-	<!-- Original string: Extract from %s -->
 	<string name="pkcs12_file_password_dialog_title">Извлечение из %s</string>
-	<!-- Original string: Extract certificate -->
 	<string name="pkcs12_password_dialog_title">Извлечение сертификата</string>
-	<!-- Original string: "SD card isn't present." -->
 	<string name="sdcard_not_present">SD-карта отсутствует.</string>
-	<!-- Original string: "Couldn't save the certificate. Touch OK to retry." -->
 	<string name="storage_error">Не удается сохранить сертификат. Нажмите ОК и повторите попытку.</string>
-	<!-- Original string: "Couldn't save the certificate. The credential storage isn't enabled or properly initialized." -->
 	<string name="unable_to_save_cert">Не удается сохранить сертификат. Хранилище регистрационных данных не включено или некорректно инициализировано.</string>
 </resources>

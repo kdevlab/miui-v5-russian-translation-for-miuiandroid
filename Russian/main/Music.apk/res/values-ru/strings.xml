@@ -1,466 +1,235 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--Merged and sorted with KDG BigBlackBox-->
 <resources>
-	<!-- Original string: Add -->
 	<string name="add">Добавить</string>
-	<!-- Original string: Add to -->
 	<string name="add_to">Добавить в</string>
-	<!-- Original string: Add to Favorites -->
 	<string name="add_to_favorite">В избранное</string>
-	<!-- Original string: Add to Playlist -->
 	<string name="add_to_playlist">В плейлист</string>
-	<!-- Original string: Add Songs -->
 	<string name="add_tracks">Добавить треки</string>
-	<!-- Original string: Display Album Art -->
 	<string name="album_display_settings">Показывать обложки</string>
-	<!-- Original string: Display album cover in the player interface. Recommended turn it on. -->
 	<string name="album_display_summary">Показывать обложки альбомов в интерфейсе проигрывателя. Рекомендуется включить</string>
-	<!-- Original string: Download Album Art by Internet -->
 	<string name="album_download">Загрузка обложки...</string>
-	<!-- Original string: Album -->
 	<string name="album_edit">Альбом</string>
-	<!-- Original string: Gallery not found on the device -->
 	<string name="album_picker_not_found">Галерея не найдена на устройстве</string>
-	<!-- Original string: Album Art not found! -->
 	<string name="album_search_failed">Обложки альбома не найдены!</string>
-	<!-- Original string: Local | %1$d x %2$d -->
 	<string name="album_search_local_descript">Телефон | %1$d x %2$d</string>
-	<!-- Original string: Online | %1$d x %2$d -->
 	<string name="album_search_online_descript">Онлайн | %1$d x %2$d</string>
-	<!-- Original string: Please select a album art -->
 	<string name="album_select">Выберите обложку альбома</string>
-	<!-- Original string: Albums -->
 	<string name="albums_title">"Альбомы "</string>
-	<!-- Original string: All Songs -->
 	<string name="all_tracks">Все треки</string>
-	<!-- Original string: Use Embedded Album Art -->
 	<string name="android_album_settings">Встроенная обложка</string>
-	<!-- Original string: Associated according to the file name. May cause error. Recommend to turn it off. -->
 	<string name="android_album_summary">Присваивается в зависимости от имени файла. Может вызвать ошибку. Рекомендуется отключить</string>
-	<!-- Original string: All Albums -->
 	<string name="artist_albums">Все альбомы</string>
-	<!-- Original string: %1$s, %2$s -->
 	<string name="artist_details_format">%1$s, %2$s</string>
-	<!-- Original string: Artist -->
 	<string name="artist_edit">Артист</string>
-	<!-- Original string: Hot Audios -->
 	<string name="artist_hot_audios">Горячие хиты</string>
-	<!-- Original string: Artists -->
 	<string name="artists_title">"Исполнители "</string>
-	<!-- Original string: Auto correct ID3 -->
 	<string name="auto_correct_id3_settings">Автокорректировка ID3</string>
-	<!-- Original string: Using Baidu audio fingerprint algorithm, correct ID3 when playing. -->
 	<string name="auto_correct_id3_summary">Алгоритм поиска корректных ID3 тегов при проигрывании</string>
-	<!-- Original string: Correct a batch of ID3 completed. -->
 	<string name="batch_correct_id3_completed">Групповая коррекция ID3 завершена!</string>
-	<!-- Original string: Billboard -->
 	<string name="billboard">Анонсы</string>
-	<!-- Original string: Buffering... -->
 	<string name="buffering">Кэширование...</string>
-	<!-- Original string: Cancel -->
 	<string name="cancel">Отмена</string>
-	<!-- Original string: Exit Sleep Mode -->
 	<string name="cancel_sleep_mode">Отключить спящий режим</string>
-	<!-- Original string: Has Canceled Sleep Mode -->
 	<string name="cancle_warining">Спящий режим отключен</string>
-	<!-- Original string: FM -->
 	<string name="channel">FM</string>
-	<!-- Original string: "%s  %s MHZ" -->
 	<string name="channel_format" formatted="false">%s %s МГЦ</string>
-	<!-- Original string: MHZ -->
 	<string name="channel_postfix">МГЦ</string>
-	<!-- Original string: Click to shuffle all -->
 	<string name="click_to_shuffle">Коснитесь для перемешивания всех треков</string>
-	<!-- Original string: Complete -->
 	<string name="complete">Готово</string>
-	<!-- Original string: Confirm -->
 	<string name="confirm">ОК</string>
-	<!-- Original string: Auto connect to correct song tags(ID3) -->
 	<string name="correct_id3_by_internet">Автокорректировка ID3 через интернет</string>
-	<!-- Original string: Correct song tags(ID3) failed. -->
 	<string name="correct_id3_failed">Ошибка корректировки ID3!</string>
-	<!-- Original string: Do not suppoet to correct ID3 in this file type. -->
 	<string name="correct_id3_not_support">Коррекция ID3 не поддерживает этот тип файла</string>
-	<!-- Original string: Please enable carrier data network to correct song tags(ID3). -->
 	<string name="correct_id3_open_other_connect">Пожалуйста, включите корректировку ID3 с использованием мобильного интернета</string>
-	<!-- Original string: Correct ID3 -->
 	<string name="correct_id3_settings">Корректировка ID3</string>
-	<!-- Original string: Correct song tags(ID3) by internet start. -->
 	<string name="correct_id3_start">Начать корректировку ID3</string>
-	<!-- Original string: Correct song tags(ID3) succeed. -->
 	<string name="correct_id3_success">Коррекция ID3 завершена</string>
-	<!-- Original string: May increase your data charges. Recommend to turn it off. -->
 	<string name="correct_id3_summary">Метод коррекции может привести к сильному потреблению трафика. Рекомендуется отключить</string>
-	<!-- Original string: Confirm -->
 	<string name="create_confirm">ОК</string>
-	<!-- Original string: Equalizer effect name -->
 	<string name="create_equalzier_create_text_prompt">Название профиля</string>
-	<!-- Original string: Playlist Name -->
 	<string name="create_playlist_create_text_prompt">Название плейлиста</string>
-	<!-- Original string: Customize -->
 	<string name="custom">Настроить</string>
-	<!-- Original string: Also delete file from SD card -->
 	<string name="delete_file_from_sdcard">Удалить файлы с SD-карты</string>
-	<!-- Original string: Delete -->
 	<string name="delete_item">Удалить</string>
-	<!-- Original string: Delete -->
 	<string name="delete_playlist_menu">Удалить</string>
-	<!-- Original string: Are you sure you want to delete %s ? -->
 	<string name="delete_song_desc">Вы уверены что хотите удалить файл %s с SD-карты?</string>
-	<!-- Original string: Reject all -->
 	<string name="deselect_all">Отмена</string>
-	<!-- Original string: Dirac is disabled -->
 	<string name="dirac_disabled">Dirac включен</string>
-	<!-- Original string: Dirac is enabled -->
 	<string name="dirac_enabled">Dirac выключен</string>
-	<!-- Original string: Download -->
 	<string name="download">Загрузить</string>
-	<!-- Original string: Download Images -->
 	<string name="download_album_settings">Загрузка обложек</string>
-	<!-- Original string: May increase your data charges. Recommend to turn it off. -->
 	<string name="download_album_summary">Может требовать большой расход трафика. Рекомендуется отключить</string>
-	<!-- Original string: Download Album Art(s) -->
 	<string name="download_all_album">Загрузить все обложки</string>
-	<!-- Original string: Download Atist Avatar(s) -->
 	<string name="download_all_avatar">Скачать аватары исполнителей</string>
-	<!-- Original string: Download All Tracks -->
 	<string name="download_all_track">Скачать все треки</string>
-	<!-- Original string: Start downloading all -->
 	<string name="download_batch_start">Начать загрузку всех</string>
-	<!-- Original string: Download Lyrics -->
 	<string name="download_lyric_settings">Загрузка текстов</string>
-	<!-- Original string: Will not take up too much traffic. Recommend to turn it on. -->
 	<string name="download_lyric_summary">Загрузка текстов требует небольшой расход трафика. Рекомендуется включить.</string>
-	<!-- Original string: Downloading -->
 	<string name="download_processing">Загрузка</string>
-	<!-- Original string: Edit -->
 	<string name="edit_playlist_menu">Редактировать</string>
-	<!-- Original string: Song information unavailable -->
 	<string name="empty_edit_hint">Информация о треке недоступна</string>
-	<!-- Original string: Selected playlist is empty. -->
 	<string name="emptyplaylist">Плейлист пуст</string>
-	<!-- Original string: Enter Sleep Mode -->
 	<string name="enter_sleep_mode">Спящий режим</string>
-	<!-- Original string: Equalizer -->
 	<string name="equalizer">Эквалайзер</string>
-	<!-- Original string: Delete -->
 	<string name="equalizer_delete">Сбросить</string>
-	<!-- Original string: Equalizer profile removed -->
 	<string name="equalizer_delete_success">Профиль удален</string>
-	<!-- Original string: Equalizer profile saved -->
 	<string name="equalizer_save_success">Профиль сохранен</string>
-	<!-- Original string: Song Switch Gradient Effect -->
 	<string name="fade_effect_settings">Эффект затухания</string>
-	<!-- Original string: Volume smoothly transition during song switch. Recommend to turn it on. -->
 	<string name="fade_effect_summary">Плавное изменение громкости при переключении между треками. Рекомендуется включить.</string>
-	<!-- Original string: " ABCDEFGHIJKLMNOPQRSTUVWXYZ" -->
 	<string name="fast_scroll_alphabet">" ABCDEFGHIJKLMNOPQRSTUVWXYZ"</string>
-	<!-- Original string: File does not exist -->
 	<string name="file_not_found">Файл не найден</string>
-	<!-- Original string: Filter by Duration -->
 	<string name="filter_by_duration">Фильтр по длительности</string>
-	<!-- Original string: %2$dmin%5$2dsec -->
 	<string name="filter_by_duration_format">%2$d мин %5$2d сек</string>
-	<!-- Original string: 5 min -->
 	<string name="filter_by_duration_max">5 мин</string>
-	<!-- Original string: 0 sec -->
 	<string name="filter_by_duration_min">0 сек</string>
-	<!-- Original string: "Minimum Duration: " -->
 	<string name="filter_by_duration_prefix">"Минимальная длительность: "</string>
-	<!-- Original string: Be able to filter out some short audio files. -->
 	<string name="filter_by_duration_summary">Фильтрация коротких аудио файлов.</string>
-	<!-- Original string: Filter by Folder -->
 	<string name="filter_by_folder">Фильтр по папкам</string>
-	<!-- Original string: Disabled: Click to set folder filter list. -->
 	<string name="filter_by_folder_summary_off">Включен, нажмите для изменения фильтра.</string>
-	<!-- Original string: Enabled: Click to edit file filter list. -->
 	<string name="filter_by_folder_summary_on">Выключен, нажмите для изменения фильтра.</string>
-	<!-- Original string: Filter by Size -->
 	<string name="filter_by_size">Фильтр по размеру</string>
-	<!-- Original string: 2MB -->
 	<string name="filter_by_size_max">2MБ</string>
-	<!-- Original string: 0KB -->
 	<string name="filter_by_size_min">0KБ</string>
-	<!-- Original string: "Minimum size: " -->
 	<string name="filter_by_size_prefix">"Минимальный размер: "</string>
-	<!-- Original string: Be able to filter out some small audio files. -->
 	<string name="filter_by_size_summary">Фильтрация файлов слишком маленького размера.</string>
-	<!-- Original string: Filter has been filtered, you can change these settings in the filter settings. -->
 	<string name="filter_notification">Был применен фильтр по размеру, вы можете изменить его размер в настройках</string>
-	<!-- Original string: Folders -->
 	<string name="folders_title">"Папки "</string>
-	<!-- Original string: Frequently Played -->
 	<string name="frequentlyplayed_title">Часто проигрываемые</string>
-	<!-- Original string: Hot Artists -->
 	<string name="hot_artists">Популярные исполнители</string>
-	<!-- Original string: Manually edit Song Information(ID3) -->
 	<string name="id3_edit">Изменить ID3 информацию</string>
-	<!-- Original string: Failed to edit ID3 information -->
 	<string name="id3_edit_failed">Не удалось отредактировать ID3</string>
-	<!-- Original string: Confirm ID3 changes? -->
 	<string name="id3_modify_confirm_check">Сохранить изменения ID3?</string>
-	<!-- Original string: Save -->
 	<string name="id3_modify_confirm_text">Сохранить</string>
-	<!-- Original string: The online music you are about to use is from Baidu Online Music Service. Click \"Confirm\" to accept the <a href="http://music.baidu.com/doc/agreement">terms of use</a> and continue. -->
 	<string name="impunity_declaration">Онлайн музыка, которую вы собираетесь использовать, предоставляется сервисом Baidu Online Music. Нажмите \"OK\", чтобы продолжить, нажмите кнопку \"Отмена\" для выхода</string>
-	<!-- Original string: Declaration -->
 	<string name="impunity_declaration_title">Примечание</string>
-	<!-- Original string: Store Last Position -->
 	<string name="keep_quit_position_settings">Запомнить позицию</string>
-	<!-- Original string: Go to the last exit position by default. Recommend to turn it on. -->
 	<string name="keep_quit_position_summary">Возвращаться к состоянию на момент выхода. Рекомендуется включить.</string>
-	<!-- Original string: Listen to Online Music -->
 	<string name="listen_to_music_online_settings">Онлайн музыка</string>
-	<!-- Original string: May increase your data charges. Recommend to turn it off. -->
 	<string name="listen_to_online_summary">Может отразится на стоимости услуг за мобильную связь. Рекомендуется отключить</string>
-	<!-- Original string: Failed to load album and artist List. Please try again. -->
 	<string name="load_album_artist_failed">Не удалось загрузить альбом и список исполнителей. Пожалуйста, попробуйте еще раз.</string>
-	<!-- Original string: Loading album and artist list... -->
 	<string name="load_album_artist_in_process">Загрузка альбома и списка исполнителей...</string>
-	<!-- Original string: Failed to load Album List. Please try again. -->
 	<string name="load_album_failed">Ошибка загрузки, попробуйте еще раз</string>
-	<!-- Original string: Load album list... -->
 	<string name="load_album_in_process">Загрузка списка альбомов</string>
-	<!-- Original string: Failed to load Artist List. Please try again. -->
 	<string name="load_artist_failed">Ошибка загрузки, попробуйте еще раз</string>
-	<!-- Original string: Load Artist List... -->
 	<string name="load_artist_in_process">Загрузка списка исполнителей</string>
-	<!-- Original string: Failed to load Audio List. Please try again. -->
 	<string name="load_audio_failed">Ошибка загрузки, попробуйте еще раз</string>
-	<!-- Original string: Load Audio List... -->
 	<string name="load_audio_in_process">Загрузка списка треков</string>
-	<!-- Original string: Failed to load Billboard List. Please try again. -->
 	<string name="load_bill_failed">Ошибка загрузки, попробуйте еще раз</string>
-	<!-- Original string: Load billboard list... -->
 	<string name="load_bill_in_process">Загрузка анонсов</string>
-	<!-- Original string: Failed to load Channel List. Please try again. -->
 	<string name="load_channel_failed">Ошибка загрузки, попробуйте еще раз</string>
-	<!-- Original string: Load channel list... -->
 	<string name="load_channel_in_process">Загрузка списка каналов</string>
-	<!-- Original string: Loading -->
 	<string name="loading">Загрузка</string>
-	<!-- Original string: Adjust lyrics progress -->
 	<string name="lrc_progress_modify">Настройка скорости прокрутки текста</string>
-	<!-- Original string: Adjust the lyrics progress by drag up and down -->
 	<string name="lrc_progress_modify_helper">Регулировка скорости прокрутки текста путем перетаскивания вверх или вниз</string>
-	<!-- Original string: Lyrics not found! -->
 	<string name="lrc_search_failed">Текст песни не найден!</string>
-	<!-- Original string: Searching for lyrics... -->
 	<string name="lrc_searching">Поиск текста песни...</string>
-	<!-- Original string: Select Lyrics -->
 	<string name="lrc_select">Выберите текст</string>
-	<!-- Original string: LYRICS AND ALBUM -->
 	<string name="lyric_and_album">Текст и обложка</string>
-	<!-- Original string: Display Lyrics -->
 	<string name="lyric_display_settings">Показывать тексты</string>
-	<!-- Original string: Display lyrics in the player interface. Recommend to turn it on. -->
 	<string name="lyric_display_summary">Показывать тексты песен в интерфейсе проигрывателя. Рекомендуется включить</string>
-	<!-- Original string: Download Lyrics by Internet -->
 	<string name="lyric_download">Загрузить текст песни</string>
-	<!-- Original string: Download lyrics using mobile internet connection -->
 	<string name="lyric_open_other_connect">Загрузка текста песен, с помощью мобильного подключения к Интернету</string>
-	<!-- Original string: File Manager not found on the device -->
 	<string name="lyric_picker_not_found">Файловый менеджер, не найден на устройстве</string>
-	<!-- Original string: Music -->
 	<string name="mediaplaybacklabel">Музыка</string>
-	<!-- Original string: Mobile Network -->
 	<string name="mobile_connect_settings">Мобильная сеть</string>
-	<!-- Original string: The songs of current list ID3 information will be edited -->
 	<string name="modify_id3_for_list">Будет отредактирована информация ID3 треков из текущего списка</string>
-	<!-- Original string: The selected songs ID3 information will be edited -->
 	<string name="modify_id3_for_selected">Будет отредактирована информация ID3 выбранных треков</string>
-	<!-- Original string: Edit Song Information -->
 	<string name="modify_meta">Изменить</string>
-	<!-- Original string: Modify selected songs ID3 information in background -->
 	<string name="modify_tracks_id3_background">Изменить ID3 выбранного трека в фоновом режиме</string>
-	<!-- Original string: More -->
 	<string name="more">Еще</string>
-	<!-- Original string: Music -->
 	<string name="music_browser_label">Музыка</string>
-	<!-- Original string: Filter Files -->
 	<string name="music_filter">Фильтрация музыкальных файлов</string>
-	<!-- Original string: A size filter of 800K has been applied to hide these files from being displayed. The threshold can be adjusted in Settings / File filter. -->
 	<string name="music_filter_helper">Чтобы скрывать файлы, которые не связаны с музыкой, применяется размер фильтра 800 КБ. Порог можно настроить в меню Настройки/Файловый фильтр</string>
-	<!-- Original string: Download music using mobile internet connection -->
 	<string name="music_open_other_connect">Скачать музыку с помощью мобильного подключения к Интернету</string>
-	<!-- Original string: Select Music Track -->
 	<string name="music_picker_title">Выберите трек</string>
-	<!-- Original string: Settings -->
 	<string name="music_settings">Настройки</string>
-	<!-- Original string: No network connection. Please check your network settings. -->
 	<string name="network_error">Нет подключения к сети, пожалуйста, проверьте сетевые настройки</string>
-	<!-- Original string: New Albums -->
 	<string name="new_albums">Новые альбомы</string>
-	<!-- Original string: New EQ profile %d -->
 	<string name="new_equalizer_name_template">Профиль %d</string>
-	<!-- Original string: New -->
 	<string name="new_playlist">Новый плейлист</string>
-	<!-- Original string: New Playlist %d -->
 	<string name="new_playlist_name_template">Новый плейлист %d</string>
-	<!-- Original string: No Effect -->
 	<string name="no_effect">Отключен</string>
-	<!-- Original string: No song can be downloaded. -->
 	<string name="no_song_downloaded">Нет треков для загрузки</string>
-	<!-- Original string: Please select a song -->
 	<string name="not_selected">Пожалуйста, выберите трек</string>
-	<!-- Original string: Online Music -->
 	<string name="online_music">Онлайн музыка</string>
-	<!-- Original string: Search for online music -->
 	<string name="online_search_hint">Поиск музыки онлайн</string>
-	<!-- Original string: Others -->
 	<string name="other_settings">Другие</string>
-	<!-- Original string: Overwrite -->
 	<string name="overwrite_confirm">Перезаписать</string>
-	<!-- Original string: Play All -->
 	<string name="play_all">Воспроизвести все</string>
-	<!-- Original string: Listen and Download -->
 	<string name="play_and_download">Прослушать и скачать</string>
-	<!-- Original string: Auto download songs you have listened online. Recommend to turn it on. -->
 	<string name="play_and_download_summary">Автоматически загружать треки, прослушанные онлайн. Рекомендуется включить</string>
-	<!-- Original string: Play -->
 	<string name="play_selection">Слушать</string>
-	<!-- Original string: Sorry, the player does not support this type of audio file. -->
 	<string name="playback_failed">К сожалению, проигрыватель не поддерживает этот тип аудио файлов</string>
-	<!-- Original string: %s cannot be played. Format is not supported or file does not exist. -->
 	<string name="playback_failed_by_bad_file">"Невозможно проиграть трэк '%s', не поддерживается формат файла"</string>
-	<!-- Original string: %s cannot be played. Check network connection settings. -->
 	<string name="playback_failed_by_network">"'%s'Невозможно проиграть трэк, проверьте сетевое подключение"</string>
-	<!-- Original string: Song cannot be played. Format is not supported or file does not exist. -->
 	<string name="playback_failed_no_title_by_bad_file">Невозможно проиграть трэк, не поддерживается формат файла</string>
-	<!-- Original string: Song cannot be played. Check network connection settings. -->
 	<string name="playback_failed_no_title_by_network">Невозможно проиграть трэк, проверьте сетевое подключение</string>
-	<!-- Original string: PLAYER DISPLAY -->
 	<string name="player_display_settings">Проигрыватель</string>
-	<!-- Original string: Playlist deleted. -->
 	<string name="playlist_deleted_message">Плейлист удален</string>
-	<!-- Original string: Favorites -->
 	<string name="playlist_favorite">Избранное</string>
-	<!-- Original string: Frequently Played -->
 	<string name="playlist_frequently_played">Часто проигранные</string>
-	<!-- Original string: Create New Playlist -->
 	<string name="playlist_new">Создать новый плейлист</string>
-	<!-- Original string: Recently Added -->
 	<string name="playlist_recently_added">Недавно добавленные</string>
-	<!-- Original string: Recently Played -->
 	<string name="playlist_recently_played">Недавно проигранные</string>
-	<!-- Original string: Playlist renamed. -->
 	<string name="playlist_renamed_message">Плейлист переименован</string>
-	<!-- Original string: Playlists -->
 	<string name="playlists_title">"Плейлисты "</string>
-	<!-- Original string: Current Playlist -->
 	<string name="queue">В очередь</string>
-	<!-- Original string: Exit -->
 	<string name="quit_player">Выход</string>
-	<!-- Original string: Player will stop playing after %d minute(s) -->
 	<string name="quit_warining">Автоотключение через %d мин.</string>
-	<!-- Original string: Recently Added -->
 	<string name="recentlyadded_title">Недавно добавленные</string>
-	<!-- Original string: Recently Played -->
 	<string name="recentlyplayed_title">Недавно проигранные</string>
-	<!-- Original string: Recommend -->
 	<string name="recommend">Рекомендуемые</string>
-	<!-- Original string: Refreshing completed -->
 	<string name="refresh_finish">Обновление завершено</string>
-	<!-- Original string: Refreshing -->
 	<string name="refresh_in_processing">Обновление...</string>
-	<!-- Original string: Refresh -->
 	<string name="refresh_media_db">Обновить</string>
-	<!-- Original string: Refreshing started -->
 	<string name="refresh_start">Началось обновление, пожалуйста, подождите...</string>
-	<!-- Original string: Remove from Favorites -->
 	<string name="remove_from_favorite">Убрать из избранного</string>
-	<!-- Original string: Remove -->
 	<string name="remove_item">Удалить</string>
-	<!-- Original string: Rename Album Batch -->
 	<string name="rename_album_menu">Переименовать альбом</string>
-	<!-- Original string: Rename Artist Batch -->
 	<string name="rename_artist_menu">Переименовать исполнителя</string>
-	<!-- Original string: Rename -->
 	<string name="rename_playlist_menu">Переименовать</string>
-	<!-- Original string: Use as Phone Ringtone -->
 	<string name="ringtone_menu">Как рингтон</string>
-	<!-- Original string: \"%s\" set as phone ringtone. -->
 	<string name="ringtone_set">Трек \"%s\" установлен как рингтон</string>
-	<!-- Original string: Save -->
 	<string name="save">Добавить</string>
-	<!-- Original string: Scanning SD card… -->
 	<string name="scanning">Сканирование SD-карты…</string>
-	<!-- Original string: Scanning USB storage… -->
 	<string name="scanning_nosdcard">Сканированиение (Нет SD-карты)…</string>
-	<!-- Original string: Screen Stays Awake -->
 	<string name="screen_bright_wake">Не гасить экран</string>
-	<!-- Original string: Keep screen backlight on in the current playing page. Recommend to turn it on. -->
 	<string name="screen_bright_wake_summary">Не выключать подсветку экрана при воспроизведении музыки. Рекомендуется включить.</string>
-	<!-- Original string: Sorry, your SD card is busy.\n Please check SD card state. -->
 	<string name="sdcard_busy_message">SD-карта занята</string>
-	<!-- Original string: Sorry, your USB storage is busy. -->
 	<string name="sdcard_busy_message_nosdcard">SD-карта используется</string>
-	<!-- Original string: An error was encountered on your SD card. -->
 	<string name="sdcard_error_message">Ошибка на вашей SD-карте</string>
-	<!-- Original string: An error was encountered on your USB storage. -->
 	<string name="sdcard_error_message_nosdcard">Нет SD-карты</string>
-	<!-- Original string: Your phone does not have an SD card inserted. -->
 	<string name="sdcard_missing_message">SD-карта не вставлена в телефон</string>
-	<!-- Original string: Your phone does not have USB storage. -->
 	<string name="sdcard_missing_message_nosdcard">SD-карта не вставлена в устройство</string>
-	<!-- Original string: Search Music -->
 	<string name="search_hint">Поиск музыки</string>
-	<!-- Original string: Artists, Albums, and Tracks -->
 	<string name="search_settings_description">Исполнитель, альбом и трек</string>
-	<!-- Original string: Search Suggestions: -->
 	<string name="search_suggestion">Поиск:</string>
-	<!-- Original string: Search -->
 	<string name="search_title">Поиск</string>
-	<!-- Original string: Select all -->
 	<string name="select_all">Все</string>
-	<!-- Original string: Select folder -->
 	<string name="select_folder">Выберите папку</string>
-	<!-- Original string: Set timer to stop the player (in mins) -->
 	<string name="select_quit_time">Время до отключения (в минутах)</string>
-	<!-- Original string: Send To -->
 	<string name="send_to">Отправить</string>
-	<!-- Original string: Send to other application -->
 	<string name="send_to_application">Отправить в другое приложение</string>
-	<!-- Original string: Shake to Skip -->
 	<string name="shake_and_skip">Встряхивание</string>
-	<!-- Original string: Shake Sensitivity -->
 	<string name="shake_degree_desc">Чувствительность</string>
-	<!-- Original string: High -->
 	<string name="shake_degree_high">Высокая</string>
-	<!-- Original string: Low -->
 	<string name="shake_degree_low">Низкая</string>
-	<!-- Original string: Shake to Skip -->
 	<string name="shake_settings">Встряхивание</string>
-	<!-- Original string: Shake the cell phone to skip to the next track when playing. -->
 	<string name="shake_summary">Встряхните устройство для перехода к следующему треку</string>
-	<!-- Original string: Only Skip When Screen is On -->
 	<string name="shake_while_screen_on_title">Переключать при активном экране</string>
-	<!-- Original string: Shake to skip when screen is active. Avoid shake skipping when walking etc. -->
 	<string name="shake_while_screen_on_title_summary">Переключение возможно только при включенном экране</string>
-	<!-- Original string: Shuffle All -->
 	<string name="shuffle_all">Перемешать все</string>
-	<!-- Original string: Albums -->
 	<string name="sort_by_album">Сортировать по альбомам</string>
-	<!-- Original string: Artists -->
 	<string name="sort_by_artist">Исполнители</string>
-	<!-- Original string: Tracks -->
 	<string name="sort_by_track">Сортировать по трекам</string>
-	<!-- Original string: Downloading album art for your song(s) library -->
 	<string name="start_to_download_album">Загрузка обложек для библиотеки треков</string>
-	<!-- Original string: Downloading artist avatar for your song(s) library -->
 	<string name="start_to_download_avatar">Загрузка аватара исполнителя для Вашей музыкальной библиотеки</string>
-	<!-- Original string: Connecting to %s -->
 	<string name="streamloadingtext">Подключение к %s</string>
-	<!-- Original string: Song -->
 	<string name="track_edit">Трек</string>
-	<!-- Original string: All Songs -->
 	<string name="tracks_title">"Все треки "</string>
-	<!-- Original string: Unknown Album -->
 	<string name="unknown_album_name">Неизвестный альбом</string>
-	<!-- Original string: Unknown Artist -->
 	<string name="unknown_artist_name">Неизвестный исполнитель</string>
-	<!-- Original string: Select local picture as Album Art -->
 	<string name="use_local_album">Установить обложку альбома</string>
-	<!-- Original string: Select local lyrics -->
 	<string name="use_local_lyric">Присвоить текст песни</string>
 </resources>

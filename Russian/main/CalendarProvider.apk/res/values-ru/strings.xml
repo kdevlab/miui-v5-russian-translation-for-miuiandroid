@@ -1,34 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--Merged and sorted with KDG BigBlackBox-->
 <resources>
-	<!-- Original string: Default -->
 	<string name="calendar_default_name">По умолчанию</string>
-	<!-- Original string: Calendar info -->
 	<string name="calendar_info">Сведения о календаре</string>
-	<!-- Original string: Error -->
 	<string name="calendar_info_error">Ошибка</string>
-	<!-- Original string: Events: %1$d -->
 	<string name="calendar_info_events">Мероприятий: %1$d</string>
-	<!-- Original string: Events: %1$d, Unsaved: %2$d -->
 	<string name="calendar_info_events_dirty">Мероприятий: %1$d; не сохранено: %2$d</string>
-	<!-- Original string: No calendars -->
 	<string name="calendar_info_no_calendars">Нет календарей</string>
-	<!-- Original string: Calendar Storage -->
 	<string name="calendar_storage">Память календаря</string>
-	<!-- Original string: Delete now -->
 	<string name="debug_tool_delete_button">Удалить сейчас</string>
-	<!-- Original string: Attached is my Calendar database with all my appointments and personal information. Handle with care. -->
 	<string name="debug_tool_email_body">К сообщению приложена база данных календаря со всеми встречами и личной информацией. Пожалуйста, обращайтесь с ней осторожно.</string>
-	<!-- Original string: Choose a program to send your file -->
 	<string name="debug_tool_email_sender_picker">Выберите приложение, чтобы отправить файл</string>
-	<!-- Original string: Calendar Db attached -->
 	<string name="debug_tool_email_subject">БД Календаря прилагается</string>
-	<!-- Original string: You are about to 1) make a copy of your calendar database to the SD card/USB storage, which is readable by any app, and 2) email it. Remember to delete the copy as soon as you have successfully copied it off the device or the email is received. -->
 	<string name="debug_tool_message">Вы собираетесь 1) создать копию базы данных календаря на SD-карте/USB-накопителе, которые доступны для чтения всем приложениям, и 2) отправить ее по электронной почте. Не забудьте удалить базу данных после того, как она будет скопирована с устройства или получена по электронной почте.</string>
-	<!-- Original string: Start -->
 	<string name="debug_tool_start_button">Начать</string>
-	<!-- Original string: Calendar -->
 	<string name="provider_label">Календарь</string>
-	<!-- Original string: Upgrading Calendar database. -->
 	<string name="upgrade_msg">Обновление базы данных календаря...</string>
 </resources>

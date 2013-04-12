@@ -1,300 +1,152 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--Merged and sorted with KDG BigBlackBox-->
 <resources>
-	<!-- Original string: About Phone -->
 	<string name="about_device">Сведения о системе</string>
-	<!-- Original string: Active -->
 	<string name="active_xiaomi_account">Активировать</string>
-	<!-- Original string: Please go to MIUI forum to activate xiaomi account:\n -->
 	<string name="active_xiaomi_account_msg">Пожалуйста, перейдите на форум MIUI для активации аккаунта Xiaomi:\n</string>
-	<!-- Original string: Active xiaomi account -->
 	<string name="active_xiaomi_account_title">Активация аккаунта</string>
-	<!-- Original string: Updater -->
 	<string name="app_name">Обновление</string>
-	<!-- Original string: Clicking Update Now, the phone will begin updating -->
 	<string name="apply_buddy_update_info_message">Нажмите «Обновить»</string>
-	<!-- Original string: MD5 signature does not match -->
 	<string name="apply_existing_update_md5error_title">Ошибка проверки целостности</string>
-	<!-- Original string: Apply later -->
 	<string name="apply_later_button_text">Обновить позже</string>
-	<!-- Original string: Update now -->
 	<string name="apply_now_button_text">Обновить</string>
-	<!-- Original string: Unable to reboot to enter recovery -->
 	<string name="apply_unable_to_reboot_toast">Невозможно перезагрузить</string>
-	<!-- Original string: Cancel -->
 	<string name="apply_update_dialog_cancel_button">Отмена</string>
-	<!-- Original string: Update -->
 	<string name="apply_update_dialog_update_button">Обновление</string>
-	<!-- Original string: System update failed -->
 	<string name="apply_update_fail">Ошибка обновления</string>
-	<!-- Original string: Update completed，device will reboot %d seconds later -->
 	<string name="apply_update_timer">Обновление завершено, устройство перезагрузится через %d сек.</string>
-	<!-- Original string: Clicking Update Now will automatically restart the phone to apply the updated version -->
 	<string name="apply_upload_info_message">Нажмите «Обновить», телефон будет автоматически перезагружен для применения обновлений</string>
-	<!-- Original string: "After rebooting, you can manually enter 'Recovery' to apply the update %s in to the SD Card. If you want to backup, you may perform it and then return to 'System Update'." -->
 	<string name="apply_upload_info_message_manually">Вы можете сами установить обновление с SD-карты (%s)</string>
-	<!-- Original string: Applying update -->
 	<string name="applying_rom_message">Применение обновления</string>
-	<!-- Original string: Updating...%s -->
 	<string name="applying_update">Применение обновления...%s</string>
-	<!-- Original string: Best update -->
 	<string name="best_update">2. Лучшее обновление</string>
-	<!-- Original string: Reboot to recovery mode -->
 	<string name="boot_recovery">Перезагрузка в Recovery</string>
-	<!-- Original string: Cancel -->
 	<string name="cancel_download_buton_text">Отмена</string>
-	<!-- Original string: Check update -->
 	<string name="check_update">Проверить обновление</string>
-	<!-- Original string: Check update settings -->
 	<string name="check_update_policy">Параметры обновления</string>
-	<!-- Original string: Check for updates only using Wi-Fi -->
 	<string name="check_update_when_wifi_available">Обновления только через Wi-Fi</string>
-	<!-- Original string: Checking for updates... -->
 	<string name="checking_for_updates">Проверка обновлений</string>
-	<!-- Original string: Please choose whether or not to recommend -->
 	<string name="choose_recommend">Пожалуйста, выберите рекомендуете или нет</string>
-	<!-- Original string: Are you sure you want to cancel the current download? -->
 	<string name="confirm_download_cancelation_dialog_message">Вы уверены, что хотите отменить загрузку обновления?</string>
-	<!-- Original string: Copy to clipboard -->
 	<string name="copy_install_log">Копировать в буфер</string>
-	<!-- Original string: Current Version -->
 	<string name="current_version_text">"Текущая версия "</string>
-	<!-- Original string: Curr Ver.(update to monthly build) -->
 	<string name="current_version_update_monthly_build">"Текущая версия "</string>
-	<!-- Original string: Daily Build -->
 	<string name="daily_build">ежедневная</string>
-	<!-- Original string: No -->
 	<string name="dialog_no">Нет</string>
-	<!-- Original string: OK -->
 	<string name="dialog_ok">ОК</string>
-	<!-- Original string: Yes -->
 	<string name="dialog_yes">Да</string>
-	<!-- Original string: Download latest full ROM -->
 	<string name="download_current_rom">Загрузить прошивку</string>
-	<!-- Original string: Update (%s) -->
 	<string name="download_ota_rom">Обновление (%s)</string>
-	<!-- Original string: Update (%s) -->
 	<string name="download_whole_rom">Полный пакет (%s)</string>
-	<!-- Original string: Downloading... -->
 	<string name="downloading_description">Загрузка...</string>
-	<!-- Original string: Build: -->
 	<string name="emegency_build">Сборка:</string>
-	<!-- Original string: Error occured while downloading updated version -->
 	<string name="exception_while_downloading">Произошла ошибка при загрузке обновления</string>
-	<!-- Original string: 4.Expectations -->
 	<string name="expect">4. Ожидания</string>
-	<!-- Original string: Experimental Build -->
 	<string name="experimental_build">Экспериментальная сборка</string>
-	<!-- Original string: Requested file not found on server -->
 	<string name="file_not_found_error_message">Файл не существует или к нему нет доступа, попробуйте еще раз</string>
-	<!-- Original string: Finish -->
 	<string name="finish">Готово</string>
-	<!-- Original string: Download completed -->
 	<string name="finish_download">Загрузка завершена</string>
-	<!-- Original string: Fail to get update information -->
 	<string name="get_update_error">Ошибка получения информации</string>
-	<!-- Original string: Install E-mail software -->
 	<string name="install_email">Пожалуйста, установите программное обеспечение для электронной почты</string>
-	<!-- Original string: Please install file explorer -->
 	<string name="install_file_explorer">Пожалуйста, установите файловый мнеджер</string>
-	<!-- Original string: Install Tencent Weibo -->
 	<string name="install_qq">Установить Tencent weibo</string>
-	<!-- Original string: Select installation pack -->
 	<string name="install_rom_from_sd">Выбрать прошивку с SD-карты</string>
-	<!-- Original string: Install Sina Weibo -->
 	<string name="install_sina">Установить Sina weibo</string>
-	<!-- Original string: Download full ROM package is recommended -->
 	<string name="install_whole_rom">Рекомендуется скачать полную прошивку</string>
-	<!-- Original string: Internal Build -->
 	<string name="internal_build">внутренняя сборка</string>
-	<!-- Original string: null -->
 	<string name="kernel_upgrade_link" />
-	<!-- Original string: null -->
 	<string name="kernel_upgrade_version" />
-	<!-- Original string: Requesting -->
 	<string name="loading">Загрузка MIUI</string>
-	<!-- Original string: MD5 check cancelled -->
 	<string name="md5_check_cancelled">Проверка MD5 отменена</string>
-	<!-- Original string: Please update again -->
 	<string name="mione_update_fail_description">Пожалуйста, обновите снова</string>
-	<!-- Original string: Update failed -->
 	<string name="mione_update_fail_title">Не удалось обновить</string>
-	<!-- Original string: Update completed -->
 	<string name="mione_update_success_title">Обновление завершено</string>
-	<!-- Original string: Monthly Build -->
 	<string name="monthly_build">ежемесячная</string>
-	<!-- Original string: Not enough space on SD card to move the selected %dMB of data -->
 	<string name="move_data_to_sdcard_not_enough_space_message">Не хватает места %dМб для копирования файлов на SD-карту</string>
-	<!-- Original string: Move Data to SD Card -->
 	<string name="move_data_to_sdcard_title">Копирование файлов на SD-карту</string>
-	<!-- Original string: "Data is being transferred to the SD card, please don't turn on USB mode or remove SD card." -->
 	<string name="moving_data_to_sdcard_message">Выполняется перенос данных. Пожалуйста, не включайте режим USB и не извлекайте SD-карту.</string>
-	<!-- Original string: Transferred %1$ddKb of %2$dKb -->
 	<string name="moving_data_to_sdcard_progress_format">Завершено %1$dKб из %2$dKб</string>
-	<!-- Original string: Best update I chose -->
 	<string name="my_best_update">Это лучшее обновление</string>
-	<!-- Original string: Expectations I chose -->
 	<string name="my_expect_update">Это то, чего я ожидал</string>
-	<!-- Original string: Update ranking: -->
 	<string name="my_rank">Рейтинг:</string>
-	<!-- Original string: My feedback -->
 	<string name="my_update_feel">Мои ощущения</string>
-	<!-- Original string: Worst update I chose -->
 	<string name="my_worst_update">Это худшее обновление</string>
-	<!-- Original string: Network connection error has occurred, please try again -->
 	<string name="network_error">Не удается подключиться, возможно, из-за проблем с сетью или сервер занят</string>
-	<!-- Original string: New version found -->
 	<string name="new_update_content_title">Есть новая версия!</string>
-	<!-- Original string: New version updatable:%s -->
 	<string name="new_update_download_complete_body">Готово к установке: %s</string>
-	<!-- Original string: Downloading new version:%s -->
 	<string name="new_update_downloading_body">Загружается: %s</string>
-	<!-- Original string: System update has been detected -->
 	<string name="new_updates_found_notification_title">Новое обновление системы!</string>
-	<!-- Original string: Updates available -->
 	<string name="new_updates_found_title">Поиск обновлений</string>
-	<!-- Original string: Next -->
 	<string name="next">Далее</string>
-	<!-- Original string: No updates were found for the currently installed version -->
 	<string name="no_proper_updates">Для текущей версии обновления не найдены</string>
-	<!-- Original string: Update check not performed -->
 	<string name="no_updatecheck_executed">Не выполнять проверку обновлений</string>
-	<!-- Original string: You already have the latest version installed -->
 	<string name="no_updates_found">Обновление не найдено</string>
-	<!-- Original string: No updates were found for your phone -->
 	<string name="no_updates_warning">Нет обновлений</string>
-	<!-- Original string: The application will notify you of any future updates -->
 	<string name="no_updates_warning2">Нет новых версий</string>
-	<!-- Original string: "Don't recommend" -->
 	<string name="not_recommend">Не рекомендую</string>
-	<!-- Original string: Waiting for network connection -->
 	<string name="paused_queued_for_network">Ожидание подключения</string>
-	<!-- Original string: Waiting for Wi-Fi connection -->
 	<string name="paused_queued_for_wifi">Ожидание подключения Wi-Fi</string>
-	<!-- Original string: Previous -->
 	<string name="previous">Назад</string>
-	<!-- Original string: Reboot later -->
 	<string name="reboot_later">Позже</string>
-	<!-- Original string: Reboot now -->
 	<string name="reboot_now">Сейчас</string>
-	<!-- Original string: Reboot to new version -->
 	<string name="reboot_to_new_system">Перезагрузка в новую систему</string>
-	<!-- Original string: Recommend -->
 	<string name="recommend">Рекомендую</string>
-	<!-- Original string: Reason(s) (optional) -->
 	<string name="recommend_comment_hint">Причина</string>
-	<!-- Original string: MIUI Beta Team Poll -->
 	<string name="recommend_vote_title">Опрос MIUI Beta Team</string>
-	<!-- Original string: Please fill in your reason(s) -->
 	<string name="refuse_recommend_reason">Пожалуйста, введите причину</string>
-	<!-- Original string: SD card has insufficient space. More space is required for this operation -->
 	<string name="sdcard_has_no_space_dialog_body">Нет места на SD-карте, пожалуйста очистите</string>
-	<!-- Original string: SD card low memory -->
 	<string name="sdcard_has_no_space_dialog_title">Нет места на SD-карте</string>
-	<!-- Original string: SD card was not mounted or unreadable, please try again. -->
 	<string name="sdcard_is_not_present_dialog_body">Вам нужна SD-карта для загрузки обновления</string>
-	<!-- Original string: SD card not found -->
 	<string name="sdcard_is_not_present_dialog_title">Нет SD-карты</string>
-	<!-- Original string: Send error log -->
 	<string name="send_install_log">Отправить журнал</string>
-	<!-- Original string: Failed to send error log -->
 	<string name="send_install_log_error">Не удалось отправить журнал ошибок</string>
-	<!-- Original string: Share -->
 	<string name="share">Поделиться</string>
-	<!-- Original string: Post it via Tencent Weibo -->
 	<string name="share_qq">Поделиться через Tencent Weibo</string>
-	<!-- Original string: Post it via Sina Weibo -->
 	<string name="share_sina">Поделиться через Sina Weibo</string>
-	<!-- Original string: Share your system update info -->
 	<string name="share_update">Поделиться информацией об обновлении системы</string>
-	<!-- Original string: I’ve updated MIUI to %1$s! My update user rank is %2$s. For detailed changelog, please visit %3$s -->
 	<string name="share_update_content_sign">Я обновил MIUI до %1$s! Ранг обновления %2$s. Для получения подробных изменений, пожалуйста, посетите %3$s.</string>
-	<!-- Original string: I’ve updated MIUI to %1$s! For detailed changelog, please visit %2$s -->
 	<string name="share_update_content_unsign">Я обновил MIUI до %1$s! Для получения подробных изменений, пожалуйста, посетите %2$s.</string>
-	<!-- Original string: Please activate Xiaomi account -->
 	<string name="sign_in_add_account">Активируйте аккаунт Xiaomi</string>
-	<!-- Original string: Receive user points after create Xiaomi account -->
 	<string name="sign_in_add_account_helper">В вашем телефоне нет аккаунта MIUI, пожалуйста добавьте его</string>
-	<!-- Original string: Your update ranking is %1$s\n%2$s users have signed in for MIUI %3$s -->
 	<string name="sign_in_info">Рейтинг обновления: %1$s%%\n%2$s\nВерсия: %3$s</string>
-	<!-- Original string: Your update ranking is after %1$s\nOver %2$s users have signed in for MIUI %3$s -->
 	<string name="sign_in_info_rank_more">Your update ranking is after %1$s\nOver %2$s users have signed in for MIUI %3$s</string>
-	<!-- Original string: Your update ranking is %1$s\nOver %2$s users have signed in for MIUI %3$s -->
 	<string name="sign_in_info_total_more">Your update ranking is %1$s\nOver %2$s users have signed in for MIUI %3$s</string>
-	<!-- Original string: Stable Build -->
 	<string name="stable_build">стабильная</string>
-	<!-- Original string: Begin update -->
 	<string name="start_update">Начать обновление</string>
-	<!-- Original string: Submit -->
 	<string name="submit">Отправить</string>
-	<!-- Original string: Failed to submit -->
 	<string name="submit_fail">Ошибка отправки</string>
-	<!-- Original string: Submitting... -->
 	<string name="submit_progress">Отправка...</string>
-	<!-- Original string: Submitted. Thank you! -->
 	<string name="submit_success">Отправлено!</string>
-	<!-- Original string: Device will automatically reboot to update after apply. -->
 	<string name="system_backup_apply_helper">Устройство автоматически перезагрузится после применения обновления. </string>
-	<!-- Original string: Ask me again -->
 	<string name="system_backup_ask">Спрашивать снова</string>
-	<!-- Original string: Perform a system backup before updating -->
 	<string name="system_backup_button_text">Резервное копирование системы</string>
-	<!-- Original string: Reboot to update -->
 	<string name="system_backup_cancel_text">Обновить</string>
-	<!-- Original string: Device will automatically reboot to update after download and apply. -->
 	<string name="system_backup_download_helper">Устройство автоматически перезагрузится после обновления. </string>
-	<!-- Original string: MIUI backup was not found, please backup manually -->
 	<string name="system_backup_error_message">Ошибка резервного копирования системы</string>
-	<!-- Original string: System update will not wipe user data. However,it is recommended to make a backup of your data before updating -->
 	<string name="system_backup_helper">Обновление не будет очищать ваши данные, но рекомендуется сделать резервную копию до обновления</string>
-	<!-- Original string: Backup -->
 	<string name="system_backup_ok_text">Создать копию</string>
-	<!-- Original string: Top-secret Build -->
 	<string name="top_secret_build">Секретная сборка</string>
-	<!-- Original string: (optional) -->
 	<string name="update_comment_hint">(опционально)</string>
-	<!-- Original string: I have something to say -->
 	<string name="update_comment_title">У меня есть что сказать</string>
-	<!-- Original string: Four-grid Update Feedback -->
 	<string name="update_feedback">Отзывы о прошивке</string>
-	<!-- Original string: "It's a pity that you miss Four-grid Update Feedback!\nPlease take a poll next Tuesday" -->
 	<string name="update_feedback_expired">Жаль, что вы пропустили возможность участия в отзывах о прошивке!\nПожалуйста, попробуйте опрос в следующий вторник</string>
-	<!-- Original string: What do you think? -->
 	<string name="update_feel">1. Что вы ощущаете?</string>
-	<!-- Original string: So-so -->
 	<string name="update_general">Более-менее</string>
-	<!-- Original string: Happy -->
 	<string name="update_happy">Счастливый</string>
-	<!-- Original string: Update to monthly build only -->
 	<string name="update_monthly_build_only">Только ежемесячные обновления</string>
-	<!-- Original string: Sad -->
 	<string name="update_sad">Грустный</string>
-	<!-- Original string: Congratulations, update applied! -->
 	<string name="update_success">Обновление успешно завершено!</string>
-	<!-- Original string: System has been updated to %s -->
 	<string name="update_success_body">Поздравляем, система успешно обновлена</string>
-	<!-- Original string: Update is complete! -->
 	<string name="update_success_title">Обновление</string>
-	<!-- Original string: Close -->
 	<string name="upgrade_close">Закрыть</string>
-	<!-- Original string: Current kernel version need upgrade -->
 	<string name="upgrade_kernel">Обновления ядра</string>
-	<!-- Original string: "Current kernel version doesn't match the MIUI ROM. You need upgrade the kernel manually. Please refer to upgrade tutorial:\n" -->
 	<string name="upgrade_kernel_msg">Ваше ядро несовместимо с прошивкой MIUI. Вы должны обновить его вручную. Зайтите на сайт, чтобы узнать как обновить ядро:\n</string>
-	<!-- Original string: Verifying MD5 checksum... -->
 	<string name="verify_and_apply_dialog_message">Проверка контрольной суммы</string>
-	<!-- Original string: Check file integrity -->
 	<string name="verify_and_apply_dialog_title">Проверка целостности файла</string>
-	<!-- Original string: View error log -->
 	<string name="view_install_log">Просмотр журнала</string>
-	<!-- Original string: View tutorial -->
 	<string name="view_upgrade_tutorial">Показать справку</string>
-	<!-- Original string: Weekly Build -->
 	<string name="weekly_build">еженедельная</string>
-	<!-- Original string: It is recommended to use Wi-Fi to download updates as file sizes can be large. You are not currently using Wi-Fi, are you sure you want to continue? -->
 	<string name="wifi_not_available_body">Файл прошивки слишком большой, рекомендуется скачать его через Wi-Fi. Ваш Wi-Fi в настоящее время отключен, вы хотите продолжить загрузку через мобильную сеть?</string>
-	<!-- Original string: Wi-Fi not connected -->
 	<string name="wifi_not_available_title">Wi-Fi не подключен</string>
-	<!-- Original string: Worst update -->
 	<string name="worst_update">3. Худшее обновление</string>
 </resources>

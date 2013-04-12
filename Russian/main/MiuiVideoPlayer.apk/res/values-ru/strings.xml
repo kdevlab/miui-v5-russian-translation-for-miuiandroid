@@ -1,108 +1,52 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--Merged and sorted with KDG BigBlackBox-->
 <resources>
-	<!-- Original string: 视频播放器 -->
 	<string name="about_app_name">MiPlayer</string>
-	<!-- Original string: 开发 -->
-	<string name="about_developer_label">开发</string>
-	<!-- Original string: 小米数码 -->
-	<string name="about_developer_name">小米数码</string>
-	<!-- Original string: 关于 -->
 	<string name="about_title">О программе</string>
-	<!-- Original string: 1.0.1 -->
-	<string name="about_version">1.0.1</string>
-	<!-- Original string: 版本号 -->
-	<string name="about_version_label">版本号</string>
-	<!-- Original string: 下一个 -->
 	<string name="adjust_position_next_media_notice">Следующий</string>
-	<!-- Original string: 上一个 -->
 	<string name="adjust_position_prev_media_notice">Предыдущий</string>
-	<!-- Original string: 您可以通过底部的按钮控制视频的播放 -->
 	<string name="airkan_control_device_des">Вы можете управлять воспроизведением видео с помощью кнопки в нижней части</string>
-	<!-- Original string: 小米手机 -->
 	<string name="airkan_device_xiaomi_phone">Xiaomi</string>
-	<!-- Original string: 播放 -->
 	<string name="airkan_video_playing">Трансляция</string>
-	<!-- Original string: 视频正在 -->
 	<string name="airkan_video_playing_in">Видео проигрывается...</string>
-	<!-- Original string: 视频播放器 -->
 	<string name="app_name">Видео</string>
-	<!-- Original string: 缓冲中... -->
 	<string name="buffering">Буферизация...</string>
-	<!-- Original string: 正在缓冲视频 -->
 	<string name="buffering_video_netplay_label_v5">Буферизация...</string>
-	<!-- Original string: 正在载入视频, 请稍候... -->
 	<string name="loading_video_netplay_label">Загрузка, пожалуйста подождите...</string>
-	<!-- Original string: 正在载入视频, 请稍候... -->
 	<string name="loading_video_netplay_label_v5">Загрузка, пожалуйста подождите...</string>
-	<!-- Original string: 关于 -->
 	<string name="menu_item_about_label">О программе</string>
-	<!-- Original string: 隐藏影片信息 -->
 	<string name="menu_item_hide_media_info_label">Скрыть информацию</string>
-	<!-- Original string: 显示影片信息 -->
 	<string name="menu_item_media_info_label">Показать информацию</string>
-	<!-- Original string: 开启自动旋转 -->
 	<string name="menu_item_orientation_auto_sensor_action">Включить поворот</string>
-	<!-- Original string: 关闭自动旋转 -->
 	<string name="menu_item_orientation_fixed_by_videosize_action">Отключить поворот</string>
-	<!-- Original string: 截屏 -->
 	<string name="menu_item_screen_shot">Скриншот</string>
-	<!-- Original string: 字幕 -->
 	<string name="menu_item_sub_title">Субтитры</string>
-	<!-- Original string: 屏幕缩放 -->
 	<string name="menu_item_switch_width_height_label">Соотношение сторон</string>
-	<!-- Original string: 适应高度 -->
 	<string name="menu_wh_item_adapt_height_label">По высоте</string>
-	<!-- Original string: 适应宽度 -->
 	<string name="menu_wh_item_adapt_width_label">По ширине</string>
-	<!-- Original string: 自动选择 -->
 	<string name="menu_wh_item_auto_select_label">Автоматически</string>
-	<!-- Original string: 全屏播放 -->
 	<string name="menu_wh_item_full_screen_label">На весь экран</string>
-	<!-- Original string: 强制使用16:9 -->
 	<string name="menu_wh_item_using_16_9_label">Формат 16:9</string>
-	<!-- Original string: 强制使用4:3 -->
 	<string name="menu_wh_item_using_4_3_label">Формат 4:3</string>
-	<!-- Original string: Show Play history -->
 	<string name="temp_play_history_button_label">История плеера</string>
-	<!-- Original string: 即将播放 -->
 	<string name="to_be_play_label_v5">Воспроизведение</string>
-	<!-- Original string: 再次按下返回键退出 -->
 	<string name="toast_back_key_pressed_notice">Нажмите \"Назад\" еще раз для выхода</string>
-	<!-- Original string: 从 -->
 	<string name="toast_message_continue_play_from">"Продолжение с "</string>
-	<!-- Original string: 时 -->
 	<string name="toast_message_continue_play_hour">ч.</string>
-	<!-- Original string: 分 -->
 	<string name="toast_message_continue_play_minute">мин.</string>
-	<!-- Original string: 秒处继续播放 -->
 	<string name="toast_message_continue_play_second_and_play">сек.</string>
-	<!-- Original string: 本地 -->
 	<string name="top_status_local_media">Локально</string>
-	<!-- Original string: 在线 -->
 	<string name="top_status_online_media">Онлайн</string>
-	<!-- Original string: 音频码率: -->
 	<string name="video_info_audio_bitrate_label">Битрейт аудио:</string>
-	<!-- Original string: 音频编码格式: -->
 	<string name="video_info_audio_coding_label">Аудио кодек:</string>
-	<!-- Original string: 无 -->
 	<string name="video_info_audio_null">Нет</string>
-	<!-- Original string: 帧频: -->
 	<string name="video_info_frame_rate_label">Частота кадров:</string>
-	<!-- Original string: 时长: -->
 	<string name="video_info_length_label">Длительность:</string>
-	<!-- Original string: 视频分辨率: -->
 	<string name="video_info_resolution_label">Разрешение:</string>
-	<!-- Original string: 视频编码格式: -->
 	<string name="video_info_video_coding_label">Видео кодек:</string>
-	<!-- Original string: 确定 -->
 	<string name="vp_VideoView_error_button">OK</string>
-	<!-- Original string: 未连接网络 -->
 	<string name="vp_VideoView_error_network_not_available">Сеть не доступна</string>
-	<!-- Original string: 抱歉，该视频不适合在此设备上播放 -->
 	<string name="vp_VideoView_error_text_invalid_progressive_playback">Невозможно воспроизвести видео</string>
-	<!-- Original string: 很抱歉，无法播放此视频 -->
 	<string name="vp_VideoView_error_text_unknown">Формат видео не поддерживается</string>
-	<!-- Original string: 无法播放视频 -->
 	<string name="vp_VideoView_error_title">Ошибка воспроизведения!</string>
 </resources>

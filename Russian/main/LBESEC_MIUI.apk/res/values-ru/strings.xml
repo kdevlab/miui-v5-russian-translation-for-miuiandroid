@@ -1,374 +1,189 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--Merged and sorted with KDG BigBlackBox-->
 <resources>
-	<!-- Original string: Apps -->
 	<string name="Dashboard_App">Приложения</string>
-	<!-- Original string: Disabling it will make MIUI stop monitoring application requests and no longer protecting your security and privacy.\nAre you sure to disable it? -->
 	<string name="Dashboard_HIPS_Disable_Content">Отключение оставит Вашу систему без управления приложениями, без защиты безопасности и конфиденциальности.\nВы действительно хотите ее отключить?</string>
-	<!-- Original string: Permission Monitor -->
 	<string name="Dashboard_HIPS_Disable_Title">Монитор доступа</string>
-	<!-- Original string: Logs -->
 	<string name="Dashboard_Log">Логи</string>
-	<!-- Original string: All logs will be erased. Are you sure to enable it? -->
 	<string name="Dashboard_Log_Clear_Content">Все логи будут удалены. Вы уверены что хотите этого?</string>
-	<!-- Original string: Clear Logs -->
 	<string name="Dashboard_Log_Clear_Title">Очистить логи</string>
-	<!-- Original string: Permissions -->
 	<string name="Dashboard_Perm">Разрешения</string>
-	<!-- Original string: Manage App Autostart -->
 	<string name="Dashboard_Perm_AutoStart">Автозагрузка</string>
-	<!-- Original string: Enable or disable app autostart feature -->
 	<string name="Dashboard_Perm_AutoStart_Desc">Включение или выключение автозагрузки для приложений</string>
-	<!-- Original string: Autostart Manager -->
 	<string name="Dashboard_Perm_AutoStart_Switch">Управление автозагрузкой</string>
-	<!-- Original string: Manage App Permissions -->
 	<string name="Dashboard_Perm_HIPS">Управление доступом приложений</string>
-	<!-- Original string: Monitoring %1$d apps for security and privacy -->
 	<string name="Dashboard_Perm_HIPS_Desc">Управление %1$d приложениями на безопасность и конфиденциальность</string>
-	<!-- Original string: Monitoring %1$d apps for security and privacy -->
 	<string name="Dashboard_Perm_HIPS_Desc2">Управление %1$d приложениями на безопасность и конфиденциальность</string>
-	<!-- Original string: Permission Monitor is disabled -->
 	<string name="Dashboard_Perm_HIPS_Disabled">Управление разрешениями отключено</string>
-	<!-- Original string: Risky Permissions (%1$d) -->
 	<string name="Dashboard_Perm_HIPS_Risky">Разрешения с риском (%1$d)</string>
-	<!-- Original string: Normal Permissions (%1$d) -->
 	<string name="Dashboard_Perm_HIPS_Safe">Разрешения (%1$d)</string>
-	<!-- Original string: Permission Monitor -->
 	<string name="Dashboard_Perm_HIPS_Switch">Управление разрешениями</string>
-	<!-- Original string: Monitoring %1$d apps -->
 	<string name="Dashboard_Perm_Header">Управление %1$d приложениями</string>
-	<!-- Original string: Permission monitor is disabled -->
 	<string name="Dashboard_Perm_Header_Disabled">Управление доступом отключено</string>
-	<!-- Original string: Manage ROOT Permission -->
 	<string name="Dashboard_Perm_SU">Управление доступом суперпользователя</string>
-	<!-- Original string: Monitoring %1$d apps for ROOT Permission -->
 	<string name="Dashboard_Perm_SU_Desc">Управление %1$d доступом для приложений суперпользователя</string>
-	<!-- Original string: ROOT Permission is disabled -->
 	<string name="Dashboard_Perm_SU_Disabled">Права суперпользователя отключены</string>
-	<!-- Original string: ROOT is not available in MIUI Stable -->
 	<string name="Dashboard_Perm_SU_Disabled_In_Stable">Права суперпользователя недоступны</string>
-	<!-- Original string: Grant ROOT permission to 3rd-party apps may cause system instability, even loss of personal data, system or hardware damage.\n\nPlease switch to MIUI development version to enable ROOT permission. -->
 	<string name="Dashboard_Perm_SU_Disabled_In_Stable_Desc">"Разрешение прав суперпользователя может привести к нестабильности системы, к потере личных и системных данных, а также к повреждению оборудования. \n  \n  Пожалуйста, переключитесь на версию для разработчиков"</string>
-	<!-- Original string: Download MIUI -->
 	<string name="Dashboard_Perm_SU_Disabled_In_Stable_Download">Скачать MIUI</string>
-	<!-- Original string: http://www.miui.com/getrom.php -->
 	<string name="Dashboard_Perm_SU_Disabled_In_Stable_URL">http://romz.bz/pages/download_miui/</string>
-	<!-- Original string: ROOT Permission -->
 	<string name="Dashboard_Perm_SU_Switch">Разрешения суперпользователя</string>
-	<!-- Original string: Enabling it will allow apps to request ROOT permission.\nNote: Apps with the permission may cause system instability, even loss of personal data, system or hardware damage, please be cautions. Are you sure to enable it? -->
 	<string name="Dashboard_Su_Enable_Content">Включение позволит приложениям запрашивать доступ от суперпользователя. Примечание: приложения с разрешениями могут вызвать нестабильность системы, потерю персональных данных, повреждение системы или аппаратной части, будьте осторожны. Вы уверены, что хотите сделать это?</string>
-	<!-- Original string: ROOT Permission -->
 	<string name="Dashboard_Su_Enable_Title">Разрешения суперпользователя</string>
-	<!-- Original string: Cancelling... -->
 	<string name="Generic_Canceling">Отмена...</string>
-	<!-- Original string: Check -->
 	<string name="Generic_Check">Проверка</string>
-	<!-- Original string: Clean -->
 	<string name="Generic_Clean">Очистка</string>
-	<!-- Original string: Settings -->
 	<string name="Generic_Configuration">Параметры</string>
-	<!-- Original string: Powered by LBE Privacy Guard -->
 	<string name="Generic_Copyright">Разработчик: Team LBE</string>
-	<!-- Original string: Disable -->
 	<string name="Generic_Disable">Отключено</string>
-	<!-- Original string: Enable -->
 	<string name="Generic_Enable">Включено</string>
-	<!-- Original string: Good -->
 	<string name="Generic_Good">Хорошо</string>
-	<!-- Original string: Hide System Apps -->
 	<string name="Generic_HideSystemApp">Скрыть системные приложения</string>
-	<!-- Original string: Invalid input -->
 	<string name="Generic_InvalidInput">Неверный ввод</string>
-	<!-- Original string: Loading... -->
 	<string name="Generic_Loading">Загрузка...</string>
-	<!-- Original string: Monitored Apps (%1$d) -->
 	<string name="Generic_MonitoredApp">Управляемые приложения (%1$d)</string>
-	<!-- Original string: Operating... -->
 	<string name="Generic_Operating">В процессе...</string>
-	<!-- Original string: Optimize -->
 	<string name="Generic_Optimize">Оптимизировать</string>
-	<!-- Original string: Service is turned off -->
 	<string name="Generic_Service_Disabled">Сервис выключен</string>
-	<!-- Original string: Service is active -->
 	<string name="Generic_Service_Enabled">Сервис включен</string>
-	<!-- Original string: Contextual menu -->
 	<string name="Generic_Shortcut">Контекстное меню</string>
-	<!-- Original string: Show System Apps -->
 	<string name="Generic_ShowSystemApp">Показать системные приложения</string>
-	<!-- Original string: Off -->
 	<string name="Generic_Summary_Disabled">Выкл</string>
-	<!-- Original string: On -->
 	<string name="Generic_Summary_Enabled">Вкл</string>
-	<!-- Original string: System Apps (%d) -->
 	<string name="Generic_SystemApp">Системные приложения (%d)</string>
-	<!-- Original string: [System App] -->
 	<string name="Generic_SystemApp_Label">[Системные приложения]</string>
-	<!-- Original string: Trusted Apps (%1$d) -->
 	<string name="Generic_TrustedApp">Дооверенные приложения (%1$d)</string>
-	<!-- Original string: Software upgrade -->
 	<string name="Generic_Update">Обновление приложения</string>
-	<!-- Original string: Downloaded Apps (%d) -->
 	<string name="Generic_UserApp">Загруженные приложения (%d)</string>
-	<!-- Original string: Version: %1$s -->
 	<string name="Generic_Version">Версия: %1$s</string>
-	<!-- Original string: Allow -->
 	<string name="HIPS_Action_Accept">Разреш.</string>
-	<!-- Original string: &lt;font color=#478800&gt;Allow&lt;/font&gt; -->
 	<string name="HIPS_Action_Accept_Colored">&lt;font color=#478800>разрешено&lt;/font></string>
-	<!-- Original string: Allowed: %1$d -->
 	<string name="HIPS_Action_Accept_Count">Разрешенные: %1$d</string>
-	<!-- Original string: Ask -->
 	<string name="HIPS_Action_Prompt">Спросить</string>
-	<!-- Original string: &lt;font color=#FF8A00&gt;Ask&lt;/font&gt; -->
 	<string name="HIPS_Action_Prompt_Colored">&lt;font color=#FF8A00>запрос&lt;/font></string>
-	<!-- Original string: Deny -->
 	<string name="HIPS_Action_Reject">Запретить</string>
-	<!-- Original string: &lt;font color=#DF0000&gt;Deny&lt;/font&gt; -->
 	<string name="HIPS_Action_Reject_Colored">&lt;font color=#DF0000>запрещено&lt;/font></string>
-	<!-- Original string: Denied: %1$d -->
 	<string name="HIPS_Action_Reject_Count">Запрещенные: %1$d</string>
-	<!-- Original string: Privacy -->
 	<string name="HIPS_Group_DataPrivacy">Конфиденциальность</string>
-	<!-- Original string: Security -->
 	<string name="HIPS_Group_Expense">Безопасность</string>
-	<!-- Original string: Internet access -->
 	<string name="HIPS_Group_Internet">Доступ к Интернету</string>
-	<!-- Original string: Positioning -->
 	<string name="HIPS_Group_Location">Позиционирование</string>
-	<!-- Original string: Personal information -->
 	<string name="HIPS_Group_PIM">Персональная информация</string>
-	<!-- Original string: Phone Identification -->
 	<string name="HIPS_Group_PhoneID">Идентификация телефона</string>
-	<!-- Original string: ROOT -->
 	<string name="HIPS_Group_ROOT">Суперпользователь</string>
-	<!-- Original string: adjust ringer volume -->
 	<string name="HIPS_Perm_AdjustRingerVolume">Регулировка громкости звонка</string>
-	<!-- Original string: adjust volume in call -->
 	<string name="HIPS_Perm_AdjustVolumeInCall">Регулировка громкости при вызове</string>
-	<!-- Original string: Allow all -->
 	<string name="HIPS_Perm_AllowAll">Разрешить все</string>
-	<!-- Original string: answer current ringing call -->
 	<string name="HIPS_Perm_AnswerCall">Ответ на поступивший вызов</string>
-	<!-- Original string: Phone Call -->
 	<string name="HIPS_Perm_Call">Телефонные звонки</string>
-	<!-- Original string: Call Logs -->
 	<string name="HIPS_Perm_CallLog">Логи вызовов</string>
-	<!-- Original string: read your call logs -->
 	<string name="HIPS_Perm_CallLog_Access">Читать логи вызовов</string>
-	<!-- Original string: Access your call logs -->
 	<string name="HIPS_Perm_CallLog_Desc">Доступ к вашим логам вызовов</string>
-	<!-- Original string: %1$s apps are allowed to access your call logs -->
 	<string name="HIPS_Perm_CallLog_Hint">%1$s приложения, имеющие доступ к вашим логам вызовов</string>
-	<!-- Original string: Call Monitoring -->
 	<string name="HIPS_Perm_CallMonitor">Управление вызовами</string>
-	<!-- Original string: Monitor incoming and outgoing calls, control volume, etc -->
 	<string name="HIPS_Perm_CallMonitor_Desc">Управление входящими и исходящими вызовами, контроль громкости, и.т.д</string>
-	<!-- Original string: %1$s apps are allowed to monitor incoming, outgoing calls and control ringer volume. -->
 	<string name="HIPS_Perm_CallMonitor_Hint">%1$s приложения имеющие доступ к управлению вашими входящими и исходящими вызовами, контролю громкости</string>
-	<!-- Original string: Phone State -->
 	<string name="HIPS_Perm_CallState">Состояние телефона</string>
-	<!-- Original string: Get phone state -->
 	<string name="HIPS_Perm_CallState_Desc">Получить состояние телефона</string>
-	<!-- Original string: %1$s apps are allowed to get phone state -->
 	<string name="HIPS_Perm_CallState_Hint">%1$s приложения, имеющие доступ к состоянию телефона</string>
-	<!-- Original string: Directly make, answer or hang up phone calls -->
 	<string name="HIPS_Perm_Call_Desc">Позвонить, ответить или оклонить телефонные звонки</string>
-	<!-- Original string: %1$s apps are allowed to make, answer or hang up phone calls -->
 	<string name="HIPS_Perm_Call_Hint">%1$s Приложения, имеющие доступ чтобы позвонить, ответить на звонки или отклонить их</string>
-	<!-- Original string: call %1$s -->
 	<string name="HIPS_Perm_Call_Number">звонок %1$s</string>
-	<!-- Original string: clear missed calls notification -->
 	<string name="HIPS_Perm_CancelMissedCalls">очистка информации о непринятых звонках</string>
-	<!-- Original string: Contacts -->
 	<string name="HIPS_Perm_Contact">Контакты</string>
-	<!-- Original string: read your contact list -->
 	<string name="HIPS_Perm_Contact_Access">читать ваш список контактов</string>
-	<!-- Original string: Access your contact list -->
 	<string name="HIPS_Perm_Contact_Desc">Доступ к вашему списку контактов</string>
-	<!-- Original string: %1$s apps are allowed to access your contact list -->
 	<string name="HIPS_Perm_Contact_Hint">%1$s приложения, имеющие доступ к вашему списку контактов</string>
-	<!-- Original string: hang up current call -->
 	<string name="HIPS_Perm_EndCall">отклонить текущий звонок</string>
-	<!-- Original string: get current call status -->
 	<string name="HIPS_Perm_GetCallState">получить состояние текущего вызова</string>
-	<!-- Original string: monitor call status -->
 	<string name="HIPS_Perm_ListenCallState">мониторинг состояния вызова</string>
-	<!-- Original string: Positioning -->
 	<string name="HIPS_Perm_Location">Местоположение</string>
-	<!-- Original string: obtain your current position -->
 	<string name="HIPS_Perm_Location_Access">получить ваше текущее местоположение</string>
-	<!-- Original string: obtain cellular location -->
 	<string name="HIPS_Perm_Location_CellInfo">получать местоположение телефона</string>
-	<!-- Original string: obtain cellular location -->
 	<string name="HIPS_Perm_Location_CellLocation">получить местоположение телефона</string>
-	<!-- Original string: Locale your phone through network or GPS -->
 	<string name="HIPS_Perm_Location_Desc">Поиск вашего телефона посредством сети или GPS</string>
-	<!-- Original string: %1$s apps are allowed to locale your phone -->
 	<string name="HIPS_Perm_Location_Hint">%1$s Приложения, имеющие разрешения для ослеживания местоположения телефона</string>
-	<!-- Original string: track your position -->
 	<string name="HIPS_Perm_Location_Monitor">отслеживать ваше положение</string>
-	<!-- Original string: Source: Cellular Network -->
 	<string name="HIPS_Perm_Location_Source_Cellular">Источник: Сотовая сеть</string>
-	<!-- Original string: Source: GPS -->
 	<string name="HIPS_Perm_Location_Source_GPS">Источник: GPS</string>
-	<!-- Original string: Source: Network -->
 	<string name="HIPS_Perm_Location_Source_Network">Источник: Сеть</string>
-	<!-- Original string: Mobile Network -->
 	<string name="HIPS_Perm_MobileNetwork">Мобильная сеть</string>
-	<!-- Original string: Mobile Network -->
 	<string name="HIPS_Perm_MobileNetwork_Desc">Доступ к Интернет посредством мобильной сети</string>
-	<!-- Original string: %1$s apps are allowed to access Internet through mobile network -->
 	<string name="HIPS_Perm_MobileNetwork_Hint">%1$s приложения, имеющие доступ к сети Интернет</string>
-	<!-- Original string: accept connection from %1$s -->
 	<string name="HIPS_Perm_Network_Accept">принять соединение от %1$s</string>
-	<!-- Original string: connect to %1$s -->
 	<string name="HIPS_Perm_Network_Connect">подключения к %1$s</string>
-	<!-- Original string: listen on port %1$s -->
 	<string name="HIPS_Perm_Network_Listen">прослушка порта %1$s</string>
-	<!-- Original string: using Mobile network -->
 	<string name="HIPS_Perm_Network_MobileEvent">Мобильные сети</string>
-	<!-- Original string: receive data -->
 	<string name="HIPS_Perm_Network_Recv">получать данные</string>
-	<!-- Original string: send data -->
 	<string name="HIPS_Perm_Network_Send">отправлять данные</string>
-	<!-- Original string: Unknown address -->
 	<string name="HIPS_Perm_Network_UnknownAddr">Неизвестный адрес</string>
-	<!-- Original string: using WIFI netowrk -->
 	<string name="HIPS_Perm_Network_WIFIEvent">Wi-Fi</string>
-	<!-- Original string: Phone ID -->
 	<string name="HIPS_Perm_PhoneID">Идентификаторы телефона</string>
-	<!-- Original string: Get your phone ID, including IMEI, IMSI, etc -->
 	<string name="HIPS_Perm_PhoneID_Desc">Получить идентификаторы вашего телефона, включая IMEI, IMSI, и.т.д</string>
-	<!-- Original string: %1$s apps are allowed to get your phone ID -->
 	<string name="HIPS_Perm_PhoneID_Hint">%1$s приложения, имеющие доступ к идентификаторам вашего телефона</string>
-	<!-- Original string: obtain SIM Card SN -->
 	<string name="HIPS_Perm_PhoneID_ICCID">получить серийный номер SIM</string>
-	<!-- Original string: obtain IMEI number -->
 	<string name="HIPS_Perm_PhoneID_IMEI">получить номер IMEI</string>
-	<!-- Original string: obtain IMEI/SN -->
 	<string name="HIPS_Perm_PhoneID_IMEISN">получить IMEI/SN</string>
-	<!-- Original string: obtain IMSI number -->
 	<string name="HIPS_Perm_PhoneID_IMSI">получить номер IMSI</string>
-	<!-- Original string: obtain your phone number -->
 	<string name="HIPS_Perm_PhoneID_Number">получить ваш телефонный номер</string>
-	<!-- Original string: Prompt all -->
 	<string name="HIPS_Perm_PromptAll">Запрос всех</string>
-	<!-- Original string: ROOT -->
 	<string name="HIPS_Perm_ROOT">Суперпользователь</string>
-	<!-- Original string: Request ROOT Permission -->
 	<string name="HIPS_Perm_ROOT_Desc">Запрос на доступ от имени суперпользователя</string>
-	<!-- Original string: Unavailable in MIUI Stable -->
 	<string name="HIPS_Perm_ROOT_Desc_Stable">Не доступно в стабильной версии MIUI</string>
-	<!-- Original string: %1$s apps are allowed to get ROOT Permission -->
 	<string name="HIPS_Perm_ROOT_Hint">%1$s приложения с правами суперпользователя</string>
-	<!-- Original string: obtain ROOT Permission -->
 	<string name="HIPS_Perm_ROOT_Title">получить права суперпользователя</string>
-	<!-- Original string: Deny all -->
 	<string name="HIPS_Perm_RejectAll">Запретить все</string>
-	<!-- Original string: SMS -->
 	<string name="HIPS_Perm_SMS">SMS</string>
-	<!-- Original string: read your SMS inbox -->
 	<string name="HIPS_Perm_SMS_Access">Чтение входящих SMS</string>
-	<!-- Original string: Access your SMS inbox -->
 	<string name="HIPS_Perm_SMS_Desc">Доступ к входящим SMS</string>
-	<!-- Original string: %1$s apps are allowed to access your SMS inbox -->
 	<string name="HIPS_Perm_SMS_Hint">%1$s приложения, имеющие доступ к входящим SMS</string>
-	<!-- Original string: Send SMS -->
 	<string name="HIPS_Perm_SendSMS">Отправка SMS</string>
-	<!-- Original string: Content: -->
 	<string name="HIPS_Perm_SendSMS_Content">Содержание:</string>
-	<!-- Original string: send SMS to %1$s:%2$d -->
 	<string name="HIPS_Perm_SendSMS_Data">Отправить SMS на %1$s:%2$d</string>
-	<!-- Original string: Send SMS directly -->
 	<string name="HIPS_Perm_SendSMS_Desc">Отправить SMS напрямую</string>
-	<!-- Original string: %1$s apps are allowed to send SMS -->
 	<string name="HIPS_Perm_SendSMS_Hint">%1$s приложения, имеющие доступ для отправки SMS</string>
-	<!-- Original string: Dest Port: -->
 	<string name="HIPS_Perm_SendSMS_Port">Порт назначения:</string>
-	<!-- Original string: Recipient: -->
 	<string name="HIPS_Perm_SendSMS_Recipient">Получатель:</string>
-	<!-- Original string: SMS Center: -->
 	<string name="HIPS_Perm_SendSMS_SMSC">SMS-центр:</string>
-	<!-- Original string: Default SMS Center -->
 	<string name="HIPS_Perm_SendSMS_SMSC_Default">SMS-центр по умолчанию</string>
-	<!-- Original string: send SMS to %1$s -->
 	<string name="HIPS_Perm_SendSMS_Text">Отправить SMS на %1$s</string>
-	<!-- Original string: silence the ringer -->
 	<string name="HIPS_Perm_SilenceRinger">Звонок без звука</string>
-	<!-- Original string: WIFI Network -->
 	<string name="HIPS_Perm_WIFINetwork">Wi-Fi</string>
-	<!-- Original string: WIFI Network -->
 	<string name="HIPS_Perm_WIFINetwork_Desc">Доступ в Интернет по Wi-Fi</string>
-	<!-- Original string: %1$s apps are allowed to access Internet through WIFI network -->
 	<string name="HIPS_Perm_WIFINetwork_Hint">%1$s приложения имеющие доступ в Интернет</string>
-	<!-- Original string: Allow (%d) -->
 	<string name="HIPS_SecurityPrompt_Accept">Разрешено (%d)</string>
-	<!-- Original string: Allow -->
 	<string name="HIPS_SecurityPrompt_AcceptRoot">Да</string>
-	<!-- Original string: Security Warning -->
 	<string name="HIPS_SecurityPrompt_Caption">Предупреждение</string>
-	<!-- Original string: Next -->
 	<string name="HIPS_SecurityPrompt_Next">Далее</string>
-	<!-- Original string: Important Warning -->
 	<string name="HIPS_SecurityPrompt_ROOT_Caption">Внимание!</string>
-	<!-- Original string: Do you wish to allow %1$s to get ROOT permission? -->
 	<string name="HIPS_SecurityPrompt_ROOT_Step1">Разрешить %1$s получать права суперпользователя?</string>
-	<!-- Original string: ROOT permission may cause system instability -->
 	<string name="HIPS_SecurityPrompt_ROOT_Step2">Права суперпользователя могут привести к нестабильной работе системы</string>
-	<!-- Original string: Your privacy data such as accounts, password and messages might be compromised -->
 	<string name="HIPS_SecurityPrompt_ROOT_Step3">Ваши личные данные (аккаунты, пароли и сообщения) могут стать общедоступны</string>
-	<!-- Original string: Permanent hardware damage is also possible -->
 	<string name="HIPS_SecurityPrompt_ROOT_Step4">Возможно повреждение оборудования</string>
-	<!-- Original string: Use with caution! -->
 	<string name="HIPS_SecurityPrompt_ROOT_Step5">Используйте с осторожностью!</string>
-	<!-- Original string: Are your sure to allow %1$s to get ROOT permission? -->
 	<string name="HIPS_SecurityPrompt_ROOT_Step6">Разрешить %1$s получать права суперпользователя?</string>
-	<!-- Original string: Deny (%d) -->
 	<string name="HIPS_SecurityPrompt_Reject">Запр. (%d)</string>
-	<!-- Original string: Remember my choice -->
 	<string name="HIPS_SecurityPrompt_Remember">Запомнить мой выбор</string>
-	<!-- Original string: %1$s is trying to %2$s -->
 	<string name="HIPS_SecurityPrompt_Title">%1$s пытается %2$s</string>
-	<!-- Original string: %1$d permissions -->
 	<string name="Privacy_AppPerm_Count">%1$d разрешения</string>
-	<!-- Original string: %1$dpermissions - &lt;font color=#478800&gt;Trusted&lt;/font&gt; -->
 	<string name="Privacy_AppPerm_Count_Trust">%1$d разрешения - &lt;font color=#478800>доверенные&lt;/font></string>
-	<!-- Original string: Finish -->
 	<string name="Privacy_App_Finish">Закрыть</string>
-	<!-- Original string: Installation succeeded! -->
 	<string name="Privacy_App_Installed">Настройка доступа</string>
-	<!-- Original string: Launch -->
 	<string name="Privacy_App_Launch">Открыть</string>
-	<!-- Original string: Logs -->
 	<string name="Privacy_App_Log">Логи</string>
-	<!-- Original string: Details -->
 	<string name="Privacy_App_Manage">Подробности</string>
-	<!-- Original string: I trust this App -->
 	<string name="Privacy_App_Trust">Доверие</string>
-	<!-- Original string: MIUI will not ask your for confirmation of any security and privacy related operations from this App. -->
 	<string name="Privacy_App_TrustDialog_Content">MIUI не будет спрашивать Вашего подтверждения какой-либо безопасности и конфиденциальности операций, связанных с этим приложением</string>
-	<!-- Original string: Trust this App -->
 	<string name="Privacy_App_TrustDialog_Title">Доверять этому приложению</string>
-	<!-- Original string: MIUI will monitor this App -->
 	<string name="Privacy_App_Trust_Summary_Off">Контроль этого приложения</string>
-	<!-- Original string: MIUI will trust this App -->
 	<string name="Privacy_App_Trust_Summary_On">Доверие этому приложению</string>
-	<!-- Original string: Uninstall -->
 	<string name="Privacy_App_Uninstall">Удаление</string>
-	<!-- Original string: Allowed: %1$d Denied: %2$d -->
 	<string name="Privacy_Perm_Count">Разрешено: %1$d Запрещено: %2$d</string>
-	<!-- Original string: %1$s is trying to get system ROOT permission which is disabled by default to ensure system security. If you need to enable it, please go to settings in Permission Manager. -->
 	<string name="Su_Enable_Dialog">%1$s пытается получить права суперпользователя, что отключено по умолчанию для обеспечения безопасности системы. Если Вам нужно включить его, пожалуйста перейдите к настройкам в диспетчере разрешений.</string>
-	<!-- Original string: ROOT Permission is disabled in MIUI stable version. Please install MIUI development version to activate ROOT permission. -->
 	<string name="Su_Unavailable">Права администратора не доступны в стабильной версии MIUI. Пожалуйста, установите версию для разработчиков.</string>
-	<!-- Original string: Autostart permission -->
 	<string name="SysOpt_Boost_AutoStart">Разрешения автозагрузки</string>
-	<!-- Original string: Autostart -->
 	<string name="SysOpt_Boost_AutoStart_Group">Автозагрузка</string>
-	<!-- Original string: Boot -->
 	<string name="SysOpt_Boost_Boot">Загрузка</string>
-	<!-- Original string: Background -->
 	<string name="SysOpt_Boost_Receiver">Фоновые</string>
-	<!-- Original string: Permission Manager -->
 	<string name="app_name">Безопасность</string>
 </resources>

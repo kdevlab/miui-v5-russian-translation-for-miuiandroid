@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--Merged and sorted with KDG BigBlackBox-->
 <resources>
-	<!-- Original string: 腾讯手机管家模块 -->
 	<string name="app_name">Антивирус</string>
-	<!-- Original string: Hello world! -->
 	<string name="hello_world">Привет мир!</string>
-	<!-- Original string: Settings -->
 	<string name="menu_settings">Настройки</string>
 </resources>

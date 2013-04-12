@@ -1,232 +1,118 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--Merged and sorted with KDG BigBlackBox-->
 <resources>
-	<!-- Original string: Too many requests are being processed. Try again later. -->
 	<string name="ErrorTooManyRequests">Обрабатывается слишком много запросов. Повторите попытку позднее.</string>
-	<!-- Original string: Ack record -->
 	<string name="ack_record">Запись подтверждения</string>
-	<!-- Original string: "You can't use Bluetooth in Airplane mode." -->
 	<string name="airplane_error_msg">В режиме полета нельзя использовать Bluetooth</string>
-	<!-- Original string: Airplane mode -->
 	<string name="airplane_error_title">Режим полета</string>
-	<!-- Original string: Bluetooth Share -->
 	<string name="app_name">Передача по Bluetooth</string>
-	<!-- Original string: Type session key for %1$s -->
 	<string name="auth_notif_message">Введите ключ сеанса для %1$s</string>
-	<!-- Original string: Obex authentication request -->
 	<string name="auth_notif_ticker">Запрос на аутентификацию Obex</string>
-	<!-- Original string: Session Key -->
 	<string name="auth_notif_title">Ключ сеанса</string>
-	<!-- Original string: Cancel -->
 	<string name="bt_enable_cancel">Отмена</string>
-	<!-- Original string: To use Bluetooth services, you must first turn on Bluetooth. -->
 	<string name="bt_enable_line1">Чтобы использовать службы Bluetooth, включите адаптер Bluetooth</string>
-	<!-- Original string: Turn on Bluetooth now? -->
 	<string name="bt_enable_line2">Включить Bluetooth?</string>
-	<!-- Original string: Turn on -->
 	<string name="bt_enable_ok">Включить</string>
-	<!-- Original string: OK -->
 	<string name="bt_error_btn_ok">ОК</string>
-	<!-- Original string: Bluetooth -->
 	<string name="bt_share_picker_label">Bluetooth</string>
-	<!-- Original string: "There isn't enough space in USB storage to save the file from \"%1$s\"" -->
 	<string name="bt_sm_2_1">На USB-накопителе нет места, чтобы сохранить файл с устройства \"%1$s\"</string>
-	<!-- Original string: Space needed: %1$s -->
 	<string name="bt_sm_2_2">Необходимое свободное место: %1$s</string>
-	<!-- Original string: The file will be received. Check progress in the Notifications panel. -->
 	<string name="bt_toast_1">Этот файл будет получен. Ход выполнения отображается на панели уведомлений.</string>
-	<!-- Original string: "The file can't be received." -->
 	<string name="bt_toast_2">Невозможно получить файл.</string>
-	<!-- Original string: Stopped receiving file from \"%1$s\" -->
 	<string name="bt_toast_3">Получение файла от \"%1$s\" прервано</string>
-	<!-- Original string: Sending file to \"%1$s\" -->
 	<string name="bt_toast_4">Отправка файла на \"%1$s\"</string>
-	<!-- Original string: Sending %1$s files to \"%2$s\" -->
 	<string name="bt_toast_5">Отправка файлов (%1$s) на \"%2$s\"</string>
-	<!-- Original string: Stopped sending file to \"%1$s\" -->
 	<string name="bt_toast_6">Отправка файла на \"%1$s\" остановлена</string>
-	<!-- Original string: Bluetooth received -->
 	<string name="btopp_live_folder">Получено по Bluetooth</string>
-	<!-- Original string: Carkit -->
 	<string name="defaultname">Автомобильный комплект</string>
-	<!-- Original string: Delete all record -->
 	<string name="deleteAll_record">Удалить все записи</string>
-	<!-- Original string: Delete record -->
 	<string name="delete_record">Удалить запись</string>
-	<!-- Original string: Stop -->
 	<string name="download_cancel">Остановить</string>
-	<!-- Original string: File not received -->
 	<string name="download_fail_line1">Файл не получен</string>
-	<!-- Original string: File: %1$s -->
 	<string name="download_fail_line2">Файл: %1$s</string>
-	<!-- Original string: Reason: %1$s -->
 	<string name="download_fail_line3">Причина: %1$s</string>
-	<!-- Original string: OK -->
 	<string name="download_fail_ok">ОК</string>
-	<!-- Original string: From: \"%1$s\" -->
 	<string name="download_line1">От: \"%1$s\"</string>
-	<!-- Original string: File: %1$s -->
 	<string name="download_line2">Файл: %1$s</string>
-	<!-- Original string: File size: %1$s -->
 	<string name="download_line3">Размер файла: %1$s</string>
-	<!-- Original string: Receiving file… -->
 	<string name="download_line5">Получение файла...</string>
-	<!-- Original string: Hide -->
 	<string name="download_ok">Скрыть</string>
-	<!-- Original string: File received -->
 	<string name="download_succ_line5">Файл получен</string>
-	<!-- Original string: Open -->
 	<string name="download_succ_ok">Открыть</string>
-	<!-- Original string: %1$s Received complete. -->
 	<string name="download_success">Получено: %1$s</string>
-	<!-- Original string: File transfer -->
 	<string name="download_title">Передача файла</string>
-	<!-- Original string: Turning on Bluetooth… -->
 	<string name="enabling_progress_content">Включение Bluetooth...</string>
-	<!-- Original string: Please wait… -->
 	<string name="enabling_progress_title">Подождите...</string>
-	<!-- Original string: Hello World, TestActivity -->
 	<string name="hello">Hello, World! (проверка связи)</string>
-	<!-- Original string: Inbound transfers -->
 	<string name="inbound_history_title">Входящие передачи</string>
-	<!-- Original string: Bluetooth share: Received files -->
 	<string name="inbound_noti_title">Bluetooth: полученные файлы</string>
-	<!-- Original string: Do you want to receive this file? -->
 	<string name="incoming_file_confirm_Notification_caption">Принять файл?</string>
-	<!-- Original string: Bluetooth share: Incoming file -->
 	<string name="incoming_file_confirm_Notification_title">Bluetooth: входящий файл</string>
-	<!-- Original string: Decline -->
 	<string name="incoming_file_confirm_cancel">Отклонить</string>
-	<!-- Original string: \"%1$s\" wants to send you %2$s (%3$s). \n\n Accept the file? -->
 	<string name="incoming_file_confirm_content">\"%1$s\" отправляет вам файл %2$s (%3$s).\n\u0009\nПринять файл?</string>
-	<!-- Original string: Accept -->
 	<string name="incoming_file_confirm_ok">Принять</string>
-	<!-- Original string: There was a timeout while accepting an incoming file from \"%1$s\" -->
 	<string name="incoming_file_confirm_timeout_content">В процессе приема файла от \"%1$s\" произошел тайм-аут</string>
-	<!-- Original string: OK -->
 	<string name="incoming_file_confirm_timeout_ok">ОК</string>
-	<!-- Original string: File transfer -->
 	<string name="incoming_file_confirm_title">Передача файла</string>
-	<!-- Original string: Incoming file from another device. Confirm you want to receive this file. -->
 	<string name="incoming_file_toast_msg">Входящий файл с другого устройства. Подтвердите, что хотите загрузить его.</string>
-	<!-- Original string: Insert record -->
 	<string name="insert_record">Вставить запись</string>
-	<!-- Original string: My name -->
 	<string name="localPhoneName">Мое название</string>
-	<!-- Original string: Transfer history is empty. -->
 	<string name="no_transfers">Нет данных</string>
-	<!-- Original string: No file -->
 	<string name="not_exist_file">Нет файла</string>
-	<!-- Original string: "The file doesn't exist. \n" -->
 	<string name="not_exist_file_desc">Файл не существует</string>
-	<!-- Original string: %1$s successful, %2$s unsuccessful. -->
 	<string name="noti_caption">Удачно: %1$s, неудачно: %2$s</string>
-	<!-- Original string: Bluetooth share: Received %1$s -->
 	<string name="notification_received">Bluetooth: файл %1$s получен</string>
-	<!-- Original string: Bluetooth share: File %1$s not received -->
 	<string name="notification_received_fail">Bluetooth: файл %1$s не получен</string>
-	<!-- Original string: Bluetooth share: Receiving %1$s -->
 	<string name="notification_receiving">Bluetooth: получение файла %1$s</string>
-	<!-- Original string: Bluetooth share: Sending %1$s -->
 	<string name="notification_sending">Bluetooth: отправка файла %1$s</string>
-	<!-- Original string: Bluetooth share: Sent %1$s -->
 	<string name="notification_sent">Bluetooth: файл %1$s отправлен</string>
-	<!-- Original string: 100% complete -->
 	<string name="notification_sent_complete">100% завершено.</string>
-	<!-- Original string: Bluetooth share: File %1$s not sent -->
 	<string name="notification_sent_fail">Bluetooth: файл %1$s не отправлен</string>
-	<!-- Original string: Notify TCP server -->
 	<string name="notify_server">Уведомить TCP-сервер</string>
-	<!-- Original string: OK -->
 	<string name="ok_button">ОК</string>
-	<!-- Original string: Outbound transfers -->
 	<string name="outbound_history_title">Исходящие передачи</string>
-	<!-- Original string: Bluetooth share: Sent files -->
 	<string name="outbound_noti_title">Bluetooth: отправленные файлы</string>
-	<!-- Original string: There was time out to accept connection with %1$s -->
 	<string name="pbap_acceptance_timeout_message">Истекло время ожидания при установке подключения к %1$s</string>
-	<!-- Original string: There was time out to input session key with %1$s -->
 	<string name="pbap_authentication_timeout_message">Истекло время ожидания ввода ключа сеанса для связи с %1$s</string>
-	<!-- Original string: Bluetooth session key required -->
 	<string name="pbap_session_key_dialog_header">Необходим ключ сеанса Bluetooth</string>
-	<!-- Original string: Type session key for %1$s -->
 	<string name="pbap_session_key_dialog_title">Введите ключ сеанса для %1$s</string>
-	<!-- Original string: Allows the app to access the BluetoothShare manager and use it to transfer files. -->
 	<string name="permdesc_bluetoothShareManager">Приложение получит доступ к диспетчеру обмена файлами по Bluetooth и сможет использовать его для передачи файлов</string>
-	<!-- Original string: Allows the app to temporarily whitelist a Bluetooth device, allowing that device to send files to this device without user confirmation. -->
 	<string name="permdesc_bluetoothWhitelist">Разрешает приложениям временный дуступ к белому списоку Bluetooth устройства. Позволяет устройствам отправлять файлы без подтверждения пользователя.</string>
-	<!-- Original string: Allows receiving handover transfer status information from Bluetooth. -->
 	<string name="permdesc_handoverStatus">Позволяет получать информацию статуса передачи Bluetooth</string>
-	<!-- Original string: Access download manager. -->
 	<string name="permlab_bluetoothShareManager">Доступ к диспетчеру загрузки</string>
-	<!-- Original string: Whitelist bluetooth device access. -->
 	<string name="permlab_bluetoothWhitelist">Белый список доступа устройства Bluetooth</string>
-	<!-- Original string: Receive BT handover transfer broadcasts. -->
 	<string name="permlab_handoverStatus">Получать BT передачи вещания</string>
-	<!-- Original string: Start TCP server -->
 	<string name="start_server">Запустить TCP-сервер</string>
-	<!-- Original string: Transfer canceled by user. -->
 	<string name="status_canceled">Передача отменена.</string>
-	<!-- Original string: Connection unsuccessful. -->
 	<string name="status_connection_error">Не удалось установить соединение</string>
-	<!-- Original string: Storage issue. -->
 	<string name="status_file_error">Ошибка хранилища</string>
-	<!-- Original string: Transfer forbidden by target device. -->
 	<string name="status_forbidden">Передача запрещена на принимающем устройстве</string>
-	<!-- Original string: No USB storage. -->
 	<string name="status_no_sd_card">USB-накопитель не найден</string>
-	<!-- Original string: "Content isn't supported." -->
 	<string name="status_not_accept">Контент не поддерживается</string>
-	<!-- Original string: File transfer not started yet. -->
 	<string name="status_pending">Передача файла еще не удалась.</string>
-	<!-- Original string: "Request can't be handled correctly." -->
 	<string name="status_protocol_error">Невозможно правильно обработать запрос</string>
-	<!-- Original string: File transfer is ongoing. -->
 	<string name="status_running">Выполняется передача файла</string>
-	<!-- Original string: File transfer completed successfully. -->
 	<string name="status_success">Передача файла успешно завершена</string>
-	<!-- Original string: Unknown error. -->
 	<string name="status_unknown_error">Неизвестная ошибка</string>
-	<!-- Original string: All items will be cleared from the list. -->
 	<string name="transfer_clear_dlg_msg">Все элементы будут удалены из списка</string>
-	<!-- Original string: Clear -->
 	<string name="transfer_clear_dlg_title">Очистить</string>
-	<!-- Original string: Clear from list -->
 	<string name="transfer_menu_clear">Удалить из списка</string>
-	<!-- Original string: Clear list -->
 	<string name="transfer_menu_clear_all">Очистить список</string>
-	<!-- Original string: Open -->
 	<string name="transfer_menu_open">Открыть</string>
-	<!-- Original string: Unknown name -->
 	<string name="unknownName">Неизвестное имя</string>
-	<!-- Original string: Unknown -->
 	<string name="unknownNumber">Неизвестно</string>
-	<!-- Original string: Unknown device -->
 	<string name="unknown_device">Неизвестное устройство</string>
-	<!-- Original string: Unknown file -->
 	<string name="unknown_file">Неизвестный файл</string>
-	<!-- Original string: "There's no app to handle this type of file. \n" -->
 	<string name="unknown_file_desc">Нет приложений для работы с файлами этого типа</string>
-	<!-- Original string: Confirm record -->
 	<string name="update_record">Подтвердить запись</string>
-	<!-- Original string: Close -->
 	<string name="upload_fail_cancel">Закрыть</string>
-	<!-- Original string: "The file wasn't sent to \"%1$s\"." -->
 	<string name="upload_fail_line1">Файл не был отправлен на устройство \"%1$s\"</string>
-	<!-- Original string: File: %1$s -->
 	<string name="upload_fail_line1_2">Файл: %1$s</string>
-	<!-- Original string: Try again -->
 	<string name="upload_fail_ok">Повторить</string>
-	<!-- Original string: To: \"%1$s\" -->
 	<string name="upload_line1">Куда: \"%1$s\"</string>
-	<!-- Original string: File type: %1$s (%2$s) -->
 	<string name="upload_line3">Тип файла: %1$s (%2$s)</string>
-	<!-- Original string: Sending file… -->
 	<string name="upload_line5">Отправка файла...</string>
-	<!-- Original string: File sent -->
 	<string name="upload_succ_line5">Файл отправлен</string>
-	<!-- Original string: OK -->
 	<string name="upload_succ_ok">ОК</string>
-	<!-- Original string: %1$s Sent complete. -->
 	<string name="upload_success">Отправлено: %1$s</string>
 </resources>

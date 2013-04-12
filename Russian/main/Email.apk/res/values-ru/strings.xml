@@ -1,1110 +1,557 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--Merged and sorted with KDG BigBlackBox-->
 <resources>
-	<!-- Original string: Account -->
 	<string name="account">Аккаунт</string>
-	<!-- Original string: The account \"%s\" will be removed from Email. -->
 	<string name="account_delete_dlg_instructions_fmt">Аккаунт \"%s\" будет удален из почты</string>
-	<!-- Original string: Remove account -->
 	<string name="account_delete_dlg_title">Удалить аккаунт</string>
-	<!-- Original string: "You're already using this username for the account \"%s\"." -->
 	<string name="account_duplicate_dlg_message_fmt">Это имя уже используется в аккаунте \"%s\"</string>
-	<!-- Original string: Duplicate account -->
 	<string name="account_duplicate_dlg_title">Копировать аккаунт</string>
-	<!-- Original string: Failed to retrieve account information. -->
 	<string name="account_error">Не удалось получить данные аккаунта</string>
-	<!-- Original string: Drafts -->
 	<string name="account_folder_list_summary_drafts">Черновики</string>
-	<!-- Original string: Inbox -->
 	<string name="account_folder_list_summary_inbox">Входящие</string>
-	<!-- Original string: Outbox -->
 	<string name="account_folder_list_summary_outbox">Исходящие</string>
-	<!-- Original string: Starred -->
 	<string name="account_folder_list_summary_starred">Помеченные</string>
-	<!-- Original string: All accounts -->
 	<string name="account_name_display_all">Все аккаунты</string>
-	<!-- Original string: Account is out of disk quota -->
 	<string name="account_out_of_quota">Превышена дисковая квота для аккаунта</string>
-	<!-- Original string: "This password starts or ends with one or more space characters. Many servers don't support passwords with spaces." -->
 	<string name="account_password_spaces_error">Пароль начинается или заканчивается пробелом. Некоторые серверы не поддерживают пароли с пробелами</string>
-	<!-- Original string: %s requires that you update your security settings. -->
 	<string name="account_security_dialog_content_fmt">Для аккаунта %s требуется обновить настройки безопасности</string>
-	<!-- Original string: Security update -->
 	<string name="account_security_dialog_title">Обновления безопасности</string>
-	<!-- Original string: The server %s requires that you allow it to remotely control some security features of your Android device. -->
 	<string name="account_security_policy_explanation_fmt">Серверу %s требуется разрешение на удаленное управление некоторыми функциями безопасности устройства Android</string>
-	<!-- Original string: Device security -->
 	<string name="account_security_title">Безопасность устройства</string>
-	<!-- Original string: %s needs security settings information from server，please wait. -->
 	<string name="account_security_waiting_policy_key_message">%s необходима информация настройки безопасности с сервера. Пожалуйста, ждите...</string>
-	<!-- Original string: Account settings -->
 	<string name="account_settings_action">Настройки аккаунта</string>
-	<!-- Original string: Download attachments -->
 	<string name="account_settings_background_attachments_label">Автозагрузка файлов</string>
-	<!-- Original string: Auto-download attachments to recent messages via Wi-Fi -->
 	<string name="account_settings_background_attachments_summary">Автоматически загружать прикрепленные файлы при подключении по Wi-Fi</string>
-	<!-- Original string: Remove account -->
 	<string name="account_settings_category_delete_account">Удалить аккаунт</string>
-	<!-- Original string: Data usage -->
 	<string name="account_settings_data_usage">Использование данных</string>
-	<!-- Original string: Default account -->
 	<string name="account_settings_default_label">Аккаунт по умолчанию</string>
-	<!-- Original string: Send email from this account by default -->
 	<string name="account_settings_default_summary">Сделать аккаунтом электронной почты по умолчанию для отправки сообщений</string>
-	<!-- Original string: Remove account -->
 	<string name="account_settings_delete_account_label">Удалить аккаунт</string>
-	<!-- Original string: Account name -->
 	<string name="account_settings_description_label">Название аккаунта</string>
-	<!-- Original string: Quick responses -->
 	<string name="account_settings_edit_quick_responses_label">Быстрые ответы</string>
-	<!-- Original string: Edit text that you frequently insert when composing emails -->
 	<string name="account_settings_edit_quick_responses_summary">Редактирование сообщений быстрого ответа</string>
-	<!-- Original string: Discard unsaved changes? -->
 	<string name="account_settings_exit_server_settings">Отменить несохраненные изменения?</string>
-	<!-- Original string: Incoming settings -->
 	<string name="account_settings_incoming_label">Входящие сообщения</string>
-	<!-- Original string: Username, password, and other incoming server settings -->
 	<string name="account_settings_incoming_summary">Имя пользователя, пароль и другие настройки сервера входящей почты</string>
-	<!-- Original string: The username or password for %s is incorrect. Update them now? -->
 	<string name="account_settings_login_dialog_content_fmt">Неверное имя пользователя или пароль аккаунта %s. Обновить их сейчас?</string>
-	<!-- Original string: "Couldn't sign in" -->
 	<string name="account_settings_login_dialog_title">Не удалось войти в аккаунт</string>
-	<!-- Original string: Inbox check frequency -->
 	<string name="account_settings_mail_check_frequency_label">Частота проверки папки \"Входящие\"</string>
-	<!-- Original string: Your name -->
 	<string name="account_settings_name_label">Имя отправителя</string>
-	<!-- Original string: Notification settings -->
 	<string name="account_settings_notifications">Настройки уведомлений</string>
-	<!-- Original string: Email notifications -->
 	<string name="account_settings_notify_label">Уведомления</string>
-	<!-- Original string: Notify in System bar when email arrives -->
 	<string name="account_settings_notify_summary">При получении почты показывать оповещение в строке состояния</string>
-	<!-- Original string: Outgoing settings -->
 	<string name="account_settings_outgoing_label">Исходящие сообщения</string>
-	<!-- Original string: Username, password, and other outgoing server settings -->
 	<string name="account_settings_outgoing_summary">Имя пользователя, пароль и другие настройки сервера исходящей почты</string>
-	<!-- Original string: Choose ringtone -->
 	<string name="account_settings_ringtone">Мелодия</string>
-	<!-- Original string: Server settings -->
 	<string name="account_settings_servers">Настройки серверов</string>
-	<!-- Original string: Append text to messages you send -->
 	<string name="account_settings_signature_hint">Нажмите здесь, чтобы изменить подпись</string>
-	<!-- Original string: Signature -->
 	<string name="account_settings_signature_label">Текст подписи</string>
-	<!-- Original string: Sync frequency, notifications, etc. -->
 	<string name="account_settings_summary">Частота синхронизации, уведомления и другие настройки</string>
-	<!-- Original string: Sync Calendar -->
 	<string name="account_settings_sync_calendar_enable">Синхронизировать календарь</string>
-	<!-- Original string: Sync calendar for this account -->
 	<string name="account_settings_sync_calendar_summary">Синхронизировать календарь этого аккаунта</string>
-	<!-- Original string: Sync contacts -->
 	<string name="account_settings_sync_contacts_enable">Синхронизировать контакты</string>
-	<!-- Original string: Sync contacts for this account -->
 	<string name="account_settings_sync_contacts_summary">Синхронизировать контакты этого аккаунта</string>
-	<!-- Original string: Sync email -->
 	<string name="account_settings_sync_email_enable">Синхронизировать почту</string>
-	<!-- Original string: Sync email for this account -->
 	<string name="account_settings_sync_email_summary">Синхронизировать почту этого аккаунта</string>
-	<!-- Original string: Always -->
 	<string name="account_settings_vibrate_when_always">Всегда</string>
-	<!-- Original string: Vibrate -->
 	<string name="account_settings_vibrate_when_dlg_title">Вибрация</string>
-	<!-- Original string: Vibrate -->
 	<string name="account_settings_vibrate_when_label">Вибрация</string>
-	<!-- Original string: Never -->
 	<string name="account_settings_vibrate_when_never">Никогда</string>
-	<!-- Original string: Only when silent -->
 	<string name="account_settings_vibrate_when_silent">В режиме \"Без звука\"</string>
-	<!-- Original string: Also vibrate when email arrives -->
 	<string name="account_settings_vibrate_when_summary">Вибрировать при получении сообщения</string>
-	<!-- Original string: Exchange -->
 	<string name="account_setup_account_type_exchange_action">Exchange</string>
-	<!-- Original string: Microsoft Exchange ActiveSync -->
 	<string name="account_setup_account_type_exchange_action_alternate">Microsoft Exchange ActiveSync</string>
-	<!-- Original string: Account type -->
 	<string name="account_setup_account_type_headline">Тип аккаунта</string>
-	<!-- Original string: IMAP -->
 	<string name="account_setup_account_type_imap_action">IMAP</string>
-	<!-- Original string: What type of account is this? -->
 	<string name="account_setup_account_type_instructions">Выберите тип аккаунта</string>
-	<!-- Original string: POP3 -->
 	<string name="account_setup_account_type_pop_action">POP3</string>
-	<!-- Original string: Account setup -->
 	<string name="account_setup_account_type_title">Тип аккаунта</string>
-	<!-- Original string: Account name (optional) -->
 	<string name="account_setup_basic_description_label">Имя акаунта (опционально)</string>
-	<!-- Original string: Please fill in information for %s mailbox : -->
 	<string name="account_setup_basic_label">Пожалуйста, заполните информацию для %s почтового ящика :</string>
-	<!-- Original string: Your name (optional) -->
 	<string name="account_setup_basic_name_label">Ваше имя (опционально)</string>
-	<!-- Original string: Send email from this account by default. -->
 	<string name="account_setup_basics_default_label">Сделать аккаунтом электронной почты по умолчанию для отправки сообщений</string>
-	<!-- Original string: Email address -->
 	<string name="account_setup_basics_email_label">Адрес электронной почты</string>
-	<!-- Original string: Add an Exchange account -->
 	<string name="account_setup_basics_exchange_title">Добавление аккаунта Exchange</string>
-	<!-- Original string: Add an Exchange ActiveSync account -->
 	<string name="account_setup_basics_exchange_title_alternate">Добавление аккаунта Exchange ActiveSync</string>
-	<!-- Original string: Email account -->
 	<string name="account_setup_basics_headline">Настройки почты</string>
-	<!-- Original string: Manual setup -->
 	<string name="account_setup_basics_manual_setup_action">Вручную</string>
-	<!-- Original string: Password -->
 	<string name="account_setup_basics_password_label">Пароль</string>
-	<!-- Original string: Account setup -->
 	<string name="account_setup_basics_title">Добавление аккаунта</string>
-	<!-- Original string: Checking incoming server settings… -->
 	<string name="account_setup_check_settings_check_incoming_msg">Проверка настроек сервера входящих сообщений...</string>
-	<!-- Original string: Checking outgoing server settings… -->
 	<string name="account_setup_check_settings_check_outgoing_msg">Проверка настроек сервера исходящих сообщений...</string>
-	<!-- Original string: Retrieving account information… -->
 	<string name="account_setup_check_settings_retr_info_msg">Получение информации аккаунта...</string>
-	<!-- Original string: Client certificate -->
 	<string name="account_setup_exchange_certificate_title">Сертификат клиента</string>
-	<!-- Original string: Mobile Device ID -->
 	<string name="account_setup_exchange_device_id_label">Идентификатор мобильного устройства</string>
-	<!-- Original string: Server settings -->
 	<string name="account_setup_exchange_headline">Настройки сервера</string>
-	<!-- Original string: None -->
 	<string name="account_setup_exchange_no_certificate">Не используется</string>
-	<!-- Original string: Remove -->
 	<string name="account_setup_exchange_remove_certificate">Удалить</string>
-	<!-- Original string: Select -->
 	<string name="account_setup_exchange_select_certificate">Выбрать</string>
-	<!-- Original string: Server -->
 	<string name="account_setup_exchange_server_label">Сервер</string>
-	<!-- Original string: Use secure connection (SSL) -->
 	<string name="account_setup_exchange_ssl_label">Использовать защищенное соединение (SSL)</string>
-	<!-- Original string: Account setup -->
 	<string name="account_setup_exchange_title">Настройка аккаунта</string>
-	<!-- Original string: Accept all SSL certificates -->
 	<string name="account_setup_exchange_trust_certificates_label">Принимать все сертификаты SSL</string>
-	<!-- Original string: Use client certificate -->
 	<string name="account_setup_exchange_use_certificate">Использовать сертификат клиента</string>
-	<!-- Original string: Domain\\Username -->
 	<string name="account_setup_exchange_username_label">Домен\\Имя пользователя</string>
-	<!-- Original string: "You don't have permission to sync with this server. Contact your server's administrator for more information." -->
 	<string name="account_setup_failed_access_denied">У вас нет разрешений на синхронизацию с этим сервером. За дополнительной информацией обратитесь к администратору сервера</string>
-	<!-- Original string: "Authentication methods aren't supported by server." -->
 	<string name="account_setup_failed_auth_required">Методы аутентификации не поддерживаются сервером</string>
-	<!-- Original string: Certificate is invalid or inaccessible. -->
 	<string name="account_setup_failed_certificate_inaccessible">Сертификат недействителен или недоступен</string>
-	<!-- Original string: Client certificate is required. Connect to server with client certificate? -->
 	<string name="account_setup_failed_certificate_required">Необходим сертификат клиента. Подключиться к серверу?</string>
-	<!-- Original string: The server responded with an error. Check your username and password then try again. -->
 	<string name="account_setup_failed_check_credentials_message">Ошибка сервера. Проверьте имя пользователя и пароль и повторите попытку</string>
-	<!-- Original string: Username or password incorrect. -->
 	<string name="account_setup_failed_dlg_auth_message">Неверное имя пользователя или пароль</string>
-	<!-- Original string: Username or password incorrect.\n(%s) -->
 	<string name="account_setup_failed_dlg_auth_message_fmt">Неверное имя пользователя или пароль.\n%s</string>
-	<!-- Original string: "Can't safely connect to server." -->
 	<string name="account_setup_failed_dlg_certificate_message">Не удалось установить защищенное подключение к серверу</string>
-	<!-- Original string: "Can't safely connect to server.\n(%s)" -->
 	<string name="account_setup_failed_dlg_certificate_message_fmt">Не удалось установить защищенное подключение к серверу.\n%s</string>
-	<!-- Original string: Edit details -->
 	<string name="account_setup_failed_dlg_edit_details_action">Изменить сведения</string>
-	<!-- Original string: "Can't connect to server." -->
 	<string name="account_setup_failed_dlg_server_message">Не удалось подключиться к серверу</string>
-	<!-- Original string: "Can't connect to server.\n(%s)" -->
 	<string name="account_setup_failed_dlg_server_message_fmt">Не удалось подключиться к серверу.\n%s</string>
-	<!-- Original string: "Couldn't finish" -->
 	<string name="account_setup_failed_dlg_title">Настройка не закончена</string>
-	<!-- Original string: "Couldn't open connection to server." -->
 	<string name="account_setup_failed_ioerror">Не удалось подключиться к серверу</string>
-	<!-- Original string: "You typed an incorrect server address or the server requires a protocol version that Email doesn't support." -->
 	<string name="account_setup_failed_protocol_unsupported">Введен неправильный адрес сервера или сервер запрашивает версию протокола, которая не поддерживается в почте</string>
-	<!-- Original string: "Couldn't open connection to server due to security error." -->
 	<string name="account_setup_failed_security">Не удалось установить подключение к серверу из-за ошибки безопасности</string>
-	<!-- Original string: "This server requires security features that your Android device doesn't support, including: %s" -->
 	<string name="account_setup_failed_security_policies_unsupported">Ваше Android-устройство не поддерживает обязательные для сервера функции защиты: %s</string>
-	<!-- Original string: TLS required but not supported by server. -->
 	<string name="account_setup_failed_tls_required">TLS не поддерживается сервером</string>
-	<!-- Original string: When I delete from Inbox -->
 	<string name="account_setup_incoming_delete_policy_delete_label">При удалении из входящих</string>
-	<!-- Original string: Delete email from server -->
 	<string name="account_setup_incoming_delete_policy_label">Удалять сообщения с сервера</string>
-	<!-- Original string: Never -->
 	<string name="account_setup_incoming_delete_policy_never_label">Никогда</string>
-	<!-- Original string: Incoming server settings -->
 	<string name="account_setup_incoming_headline">Настройки сервера входящих сообщений</string>
-	<!-- Original string: Optional -->
 	<string name="account_setup_incoming_imap_path_prefix_hint">По желанию</string>
-	<!-- Original string: IMAP path prefix -->
 	<string name="account_setup_incoming_imap_path_prefix_label">Префикс пути IMAP</string>
-	<!-- Original string: IMAP server -->
 	<string name="account_setup_incoming_imap_server_label">Сервер IMAP</string>
-	<!-- Original string: Password -->
 	<string name="account_setup_incoming_password_label">Пароль</string>
-	<!-- Original string: POP3 server -->
 	<string name="account_setup_incoming_pop_server_label">Сервер POP3</string>
-	<!-- Original string: Port -->
 	<string name="account_setup_incoming_port_label">Порт</string>
-	<!-- Original string: Security type -->
 	<string name="account_setup_incoming_security_label">Тип безопасности</string>
-	<!-- Original string: None -->
 	<string name="account_setup_incoming_security_none_label">Нет</string>
-	<!-- Original string: SSL/TLS -->
 	<string name="account_setup_incoming_security_ssl_label">SSL/TLS</string>
-	<!-- Original string: SSL/TLS (Accept all certificates) -->
 	<string name="account_setup_incoming_security_ssl_trust_certificates_label">SSL/TLS (принимать все сертификаты)</string>
-	<!-- Original string: STARTTLS -->
 	<string name="account_setup_incoming_security_tls_label">STARTTLS</string>
-	<!-- Original string: STARTTLS (accept all certificates) -->
 	<string name="account_setup_incoming_security_tls_trust_certificates_label">STARTTLS (принимать все сертификаты)</string>
-	<!-- Original string: Account setup -->
 	<string name="account_setup_incoming_title">Настройки аккаунта</string>
-	<!-- Original string: Username -->
 	<string name="account_setup_incoming_username_label">Имя пользователя</string>
-	<!-- Original string: Please choose you need to add the email service providers: -->
 	<string name="account_setup_index_label">Пожалуйста, выберите и добавьте Вашего поставщика услуг эл. почты:</string>
-	<!-- Original string: Other mails -->
 	<string name="account_setup_index_other_mails">Другая эл. почта</string>
-	<!-- Original string: Mail Settings Guide -->
 	<string name="account_setup_index_title">Руководство настройки эл. почты</string>
-	<!-- Original string: Give this account a name (optional) -->
 	<string name="account_setup_names_account_name_label">Присвойте этому аккаунту название (по желанию)</string>
-	<!-- Original string: Your account is set up, and email is on its way! -->
 	<string name="account_setup_names_headline">Ваш аккаунт настроен, ждите сообщений!</string>
-	<!-- Original string: Account setup -->
 	<string name="account_setup_names_title">Настройки аккаунта</string>
-	<!-- Original string: "This field can't be blank." -->
 	<string name="account_setup_names_user_name_empty_error">Это поле должно быть заполнено</string>
-	<!-- Original string: Your name (displayed on outgoing messages) -->
 	<string name="account_setup_names_user_name_label">Имя отправителя (используется в исходящих сообщениях)</string>
-	<!-- Original string: Automatically download attachments when connected to Wi-Fi -->
 	<string name="account_setup_options_background_attachments_label">Загружать прикрепленные файлы при подключении по Wi-Fi</string>
-	<!-- Original string: Send email from this account by default. -->
 	<string name="account_setup_options_default_label">Сделать аккаунтом электронной почты по умолчанию для отправки сообщений</string>
-	<!-- Original string: Account options -->
 	<string name="account_setup_options_headline">Параметры аккаунта</string>
-	<!-- Original string: Every 10 minutes -->
 	<string name="account_setup_options_mail_check_frequency_10min">Каждые 10 минут</string>
-	<!-- Original string: Every 15 minutes -->
 	<string name="account_setup_options_mail_check_frequency_15min">Каждые 15 минут</string>
-	<!-- Original string: Every hour -->
 	<string name="account_setup_options_mail_check_frequency_1hour">Каждый час</string>
-	<!-- Original string: Every 30 minutes -->
 	<string name="account_setup_options_mail_check_frequency_30min">Каждые 30 минут</string>
-	<!-- Original string: Every 5 minutes -->
 	<string name="account_setup_options_mail_check_frequency_5min">Каждые 5 минут</string>
-	<!-- Original string: Inbox checking frequency -->
 	<string name="account_setup_options_mail_check_frequency_label">Частота проверки папки \"Входящие\"</string>
-	<!-- Original string: Never -->
 	<string name="account_setup_options_mail_check_frequency_never">Никогда</string>
-	<!-- Original string: Automatic (Push) -->
 	<string name="account_setup_options_mail_check_frequency_push">Автоматически (принудительно)</string>
-	<!-- Original string: One day -->
 	<string name="account_setup_options_mail_window_1day">Один день</string>
-	<!-- Original string: One month -->
 	<string name="account_setup_options_mail_window_1month">Один месяц</string>
-	<!-- Original string: One week -->
 	<string name="account_setup_options_mail_window_1week">Одна неделя</string>
-	<!-- Original string: Two weeks -->
 	<string name="account_setup_options_mail_window_2weeks">Две недели</string>
-	<!-- Original string: Three days -->
 	<string name="account_setup_options_mail_window_3days">Три дня</string>
-	<!-- Original string: All -->
 	<string name="account_setup_options_mail_window_all">Все</string>
-	<!-- Original string: Automatic -->
 	<string name="account_setup_options_mail_window_auto">Автоматически</string>
-	<!-- Original string: "Use account's default" -->
 	<string name="account_setup_options_mail_window_default">Параметры по умолчанию</string>
-	<!-- Original string: Days to sync -->
 	<string name="account_setup_options_mail_window_label">Период синхронизации</string>
-	<!-- Original string: Notify me when email arrives. -->
 	<string name="account_setup_options_notify_label">Уведомлять при получении сообщения по электронной почте</string>
-	<!-- Original string: Sync calendar from this account. -->
 	<string name="account_setup_options_sync_calendar_label">Синхронизировать календарь из этого аккаунта</string>
-	<!-- Original string: Sync contacts from this account. -->
 	<string name="account_setup_options_sync_contacts_label">Синхронизировать контакты из этого аккаунта</string>
-	<!-- Original string: Sync email from this account. -->
 	<string name="account_setup_options_sync_email_label">Синхронизировать почту из этого аккаунта</string>
-	<!-- Original string: Account settings -->
 	<string name="account_setup_options_title">Настройки аккаунта</string>
-	<!-- Original string: Outgoing server settings -->
 	<string name="account_setup_outgoing_headline">Настройки сервера исходящих сообщений</string>
-	<!-- Original string: Password -->
 	<string name="account_setup_outgoing_password_label">Пароль</string>
-	<!-- Original string: Port -->
 	<string name="account_setup_outgoing_port_label">Порт</string>
-	<!-- Original string: Require sign-in. -->
 	<string name="account_setup_outgoing_require_login_label">Требовать входа в аккаунт</string>
-	<!-- Original string: Security type -->
 	<string name="account_setup_outgoing_security_label">Тип безопасности</string>
-	<!-- Original string: SMTP server -->
 	<string name="account_setup_outgoing_smtp_server_label">Сервер SMTP</string>
-	<!-- Original string: Account setup -->
 	<string name="account_setup_outgoing_title">Настройки аккаунта</string>
-	<!-- Original string: Username -->
 	<string name="account_setup_outgoing_username_label">Имя пользователя</string>
-	<!-- Original string: The server %s requires that you allow it to remotely control some security features of your Android device. Do you want to finish setting up this account? -->
 	<string name="account_setup_security_policies_required_fmt">Серверу %s требуется разрешение на удаленное управление некоторыми функциями безопасности устройства Android. Завершить настройку этого аккаунта?</string>
-	<!-- Original string: Remote security administration -->
 	<string name="account_setup_security_required_title">Удаленное управление безопасностью</string>
-	<!-- Original string: Type a valid email address and password. -->
 	<string name="account_setup_username_password_toast">Введите действительный адрес электронной почты и пароль</string>
-	<!-- Original string: "You can't change an account's username. To add an account with a different username, touch Add Account." -->
 	<string name="account_setup_username_uneditable_error">Невозможно изменить имя пользователя. Если хотите использовать другое имя, нажмите \"Добавить аккаунт\" и создайте новый аккаунт</string>
-	<!-- Original string: Email account -->
 	<string name="account_shortcut_picker_name">Ярлык почты</string>
-	<!-- Original string: Choose an account -->
 	<string name="account_shortcut_picker_title">Выберите аккаунт</string>
-	<!-- Original string: You can set up email for most accounts in just a few steps. -->
 	<string name="accounts_welcome">Почта поддерживает большинство популярных почтовых служб</string>
-	<!-- Original string: You can set up an Exchange account in just a few steps. -->
 	<string name="accounts_welcome_exchange">Настроить аккаунт Exchange очень просто</string>
-	<!-- Original string: You can set up an Exchange ActiveSync account in just a few steps. -->
 	<string name="accounts_welcome_exchange_alternate">Настроить аккаунт Exchange ActiveSync очень просто</string>
-	<!-- Original string: Folders -->
 	<string name="action_bar_mailbox_list_title">Папки</string>
-	<!-- Original string: Add account -->
 	<string name="add_account_action">Добавить аккаунт</string>
-	<!-- Original string: Add Cc/Bcc -->
 	<string name="add_cc_bcc_menu">Копия/скрытая копия</string>
-	<!-- Original string: Attach file -->
 	<string name="add_file_attachment">Прикрепить файл</string>
-	<!-- Original string: Create new -->
 	<string name="add_quick_responses_action">Создать новый</string>
-	<!-- Original string: " has at least %d messages, do you sure select all？" -->
 	<string name="alert_selected_all_message">" имеется %d сообщений. Вы уверены в выборе всех？"</string>
-	<!-- Original string: Check all -->
 	<string name="alert_title_selected">Проверить все</string>
-	<!-- Original string: Email -->
 	<string name="app_name">Почта</string>
-	<!-- Original string: Instant Upload -->
 	<string name="application_name">Загрузка с телефона</string>
-	<!-- Original string: "Apps can't be installed directly from email. First save this app and then install it using the Downloads app." -->
 	<string name="attachment_info_apk_install_disabled">Приложения нельзя устанавливать непосредственно из электронной почты. Сохраните файл, перейдите в \"Загрузки\" и выполните установку</string>
-	<!-- Original string: App settings -->
 	<string name="attachment_info_application_settings">Настройки приложения</string>
-	<!-- Original string: Attachment info -->
 	<string name="attachment_info_dialog_default_title">О прикрепленном файле</string>
-	<!-- Original string: Wi-Fi connection required -->
 	<string name="attachment_info_dialog_wifi_title">Требуется Wi-Fi-соединение</string>
-	<!-- Original string: "You can't save or open this file because this type of attachment might contain malicious software." -->
 	<string name="attachment_info_malware">Через файлы такого типа часто распространяют вредоносное ПО, поэтому мы не даем открывать и сохранять их</string>
-	<!-- Original string: There is no installed app that can open this attachment. Try downloading an appropriate app from Android Market. -->
 	<string name="attachment_info_no_intent">Неподдерживаемый формат. Чтобы открыть файл, установите подходящее приложение из Google Play.</string>
-	<!-- Original string: "This attachment can't be saved or opened because of this account's security policies." -->
 	<string name="attachment_info_policy">Политика безопасности аккаунта не позволяет сохранять подобные файлы</string>
-	<!-- Original string: This attachment is an app. You must check Unknown Sources in Settings > Apps before you can install it. -->
 	<string name="attachment_info_sideload_disabled">Прикрепленный файл является приложением. Чтобы его можно было установить, в разделе \"Настройки > Приложения\" выберите \"Неизвестные источники\"</string>
-	<!-- Original string: "Can't open attachment." -->
 	<string name="attachment_info_unknown">Не удается открыть прикрепленный файл</string>
-	<!-- Original string: This attachment is too large to download over a mobile network. You can download it the next time you connect to a Wi-Fi network. -->
 	<string name="attachment_info_wifi_only">Файл слишком большой для загрузки через мобильную сеть. Чтобы сохранить его, нужно подключиться к сети Wi-Fi</string>
-	<!-- Original string: Wi-Fi settings -->
 	<string name="attachment_info_wifi_settings">Настройки Wi-Fi</string>
-	<!-- Original string: "Couldn't download the attachment." -->
 	<string name="attachment_not_found">Не удалось загрузить файл</string>
-	<!-- Original string: Bcc -->
 	<string name="bcc">Скрытая копия:</string>
-	<!-- Original string: Compose email -->
 	<string name="body_hint">Текст сообщения</string>
-	<!-- Original string: Cancel -->
 	<string name="cancel">Отмена</string>
-	<!-- Original string: Cancel -->
 	<string name="cancel_action">Отмена</string>
-	<!-- Original string: "Can't move because selection contains multiple accounts." -->
 	<string name="cannot_move_multiple_accounts_toast">Не удалось переместить сообщения, так как они находятся в разных аккаунтах</string>
-	<!-- Original string: "Move isn't supported on POP3 accounts." -->
 	<string name="cannot_move_protocol_not_supported_toast">Перемещение не поддерживается в аккаунтах POP3</string>
-	<!-- Original string: "Messages in Drafts, Outbox, and Sent can't be moved." -->
 	<string name="cannot_move_special_mailboxes_toast">Нельзя перемещать сообщения из папок \"Черновики\", \"Исходящие\" и \"Отправленные\"</string>
-	<!-- Original string: Application -->
 	<string name="category_general_preferences">Приложение</string>
-	<!-- Original string: Cc -->
 	<string name="cc">Копия:</string>
-	<!-- Original string: Choose attachment -->
 	<string name="choose_attachment_dialog_title">Выбрать приложение</string>
-	<!-- Original string: Share via -->
 	<string name="choosertitle_sharevia">Отправить через</string>
-	<!-- Original string: "Clear \"show pictures\", pictures in messages won't be shown automatically." -->
 	<string name="cleared_trusted_senders_message">Очистить \"Показать фотографии\", изображения в сообщениях не будут показаны автоматически.</string>
-	<!-- Original string: Close -->
 	<string name="close_action">Закрыть</string>
-	<!-- Original string: File not found -->
 	<string name="completed_no_file">Файл не найден</string>
-	<!-- Original string: Compose -->
 	<string name="compose_action">Новое сообщение</string>
-	<!-- Original string: Compose -->
 	<string name="compose_title">Новое сообщение</string>
-	<!-- Original string: Add contact -->
 	<string name="contextmenu_add_contact">Добавить контакт</string>
-	<!-- Original string: Copy -->
 	<string name="contextmenu_copy">Копировать</string>
-	<!-- Original string: Copy link URL -->
 	<string name="contextmenu_copylink">Скопируйте URL-адрес</string>
-	<!-- Original string: Dial… -->
 	<string name="contextmenu_dial_dot">Набрать…</string>
-	<!-- Original string: Send feedback -->
 	<string name="contextmenu_feedback">Отправить отзыв</string>
-	<!-- Original string: Help -->
 	<string name="contextmenu_help">Справка</string>
-	<!-- Original string: Map -->
 	<string name="contextmenu_map">Карты</string>
-	<!-- Original string: Open in Browser -->
 	<string name="contextmenu_openlink">Открыть в браузере</string>
-	<!-- Original string: Send email -->
 	<string name="contextmenu_send_mail">Отправить письмо</string>
-	<!-- Original string: Share link -->
 	<string name="contextmenu_sharelink">Отправить ссылку</string>
-	<!-- Original string: SMS… -->
 	<string name="contextmenu_sms_dot">Сообщение…</string>
-	<!-- Original string: Copy email address -->
 	<string name="copy_email">Скопировать адрес эл. почты</string>
-	<!-- Original string: Copy phone number -->
 	<string name="copy_number">Скопировать номер телефона</string>
-	<!-- Original string: Create new -->
 	<string name="create_action">Создать</string>
-	<!-- Original string: Clear WebView cache -->
 	<string name="debug_clear_webview_cache">Очистить кэш WebView</string>
-	<!-- Original string: Disable hardware graphics acceleration -->
 	<string name="debug_disable_graphics_acceleration_label">Отключить аппаратное ускорение графики</string>
-	<!-- Original string: Enable extra debug logging? -->
 	<string name="debug_enable_debug_logging_label">Включить журнал дополнительной отладки?</string>
-	<!-- Original string: Enable exchange sd card logging? -->
 	<string name="debug_enable_exchange_file_logging_label">Включить обмен sd карта журнала?</string>
-	<!-- Original string: Enable exchange parser logging? (extremely verbose) -->
 	<string name="debug_enable_exchange_logging_label">Включить протоколирование анализатора exchange?</string>
-	<!-- Original string: Enable strict mode (with logging) -->
 	<string name="debug_enable_strict_mode_label">Строгий режим (с регистрацией)</string>
-	<!-- Original string: Force 1-minute refresh for POP/IMAP -->
 	<string name="debug_force_one_minute_refresh_label">Обновление в 1-минуту усилино для POP/IMAP</string>
-	<!-- Original string: Debug -->
 	<string name="debug_title">Выполнить отладку</string>
-	<!-- Original string: Version: %s -->
 	<string name="debug_version_fmt">Версия: %s</string>
-	<!-- Original string: Sent from my MIPHONE -->
 	<string name="default_signature">Отправлено с MIUI Phone</string>
-	<!-- Original string: Delete -->
 	<string name="delete_action">Удалить</string>
-	<!-- Original string: Delete -->
 	<string name="delete_quick_response_action">Удалить</string>
-	<!-- Original string: %1$s \"%2$s\" -->
 	<string name="destination_format">%1$s \"%2$s\"</string>
-	<!-- Original string: Enables server-specified security policies -->
 	<string name="device_admin_description">Включение серверных политик безопасности</string>
-	<!-- Original string: Email -->
 	<string name="device_admin_label">Электронная почта</string>
-	<!-- Original string: Large files will be uploaded over a WiFi connection only. -->
 	<string name="dialog_first_wifi">Большие файлы будут загружаться только через соединение Wi-Fi</string>
-	<!-- Original string: Sync all canceled -->
 	<string name="dialog_sync_all_canceled">Команда \"Синхронизировать все\" отменена</string>
-	<!-- Original string: Sync All -->
 	<string name="dialog_sync_all_error_title">Синхронизировать все</string>
-	<!-- Original string: No additional photos/videos need to be uploaded. -->
 	<string name="dialog_sync_all_found_none">Дополнительных фотографий или видеороликов не найдено</string>
-	<!-- Original string: Preparing %1$d photos and %2$d videos for upload... -->
 	<string name="dialog_sync_all_preparing">Подготовка %1$d фото и %2$d видео к загрузке...</string>
-	<!-- Original string: Scanning for files... -->
 	<string name="dialog_sync_all_scanning">Поиск файлов...</string>
-	<!-- Original string: There was a problem communicating with the server. Please try again later. -->
 	<string name="dialog_sync_all_server_error">Не удалось связаться с сервером. Повторите попытку позже</string>
-	<!-- Original string: "WARNING: Deactivating the Email app's authority to administer your device will delete all email accounts that require it, along with their email, contacts, calendar events, and other data." -->
 	<string name="disable_admin_warning">ВНИМАНИЕ! Отключение прав на администрирование Вашего телефона для приложения почты приведет к удалению всех аккаунтов электронной почты, которые используют эти права. Кроме того, будут удалены все письма, контакты, календари и другие данные, связанные с этими аккаунтами</string>
-	<!-- Original string: Discard -->
 	<string name="discard_action">Отменить</string>
-	<!-- Original string: Return -->
 	<string name="done">Назад</string>
-	<!-- Original string: Done -->
 	<string name="done_action">Готово</string>
-	<!-- Original string: Edit quick response -->
 	<string name="edit_quick_response_dialog">Быстрый ответ</string>
-	<!-- Original string: Viewing %s -->
 	<string name="eml_view_title">Просмотр файла %s</string>
-	<!-- Original string: "Couldn't load the message text. The message may be too large to view." -->
 	<string name="error_loading_message_body">Не удалось загрузить сообщение. Возможно, оно слишком большое</string>
-	<!-- Original string: Corporate -->
 	<string name="exchange_name">Корпоративный</string>
-	<!-- Original string: Microsoft Exchange ActiveSync -->
 	<string name="exchange_name_alternate">Microsoft Exchange ActiveSync</string>
-	<!-- Original string: Service error -->
 	<string name="failed_bad_response">Ошибка службы</string>
-	<!-- Original string: Network error -->
 	<string name="failed_network_error">Ошибка сети</string>
-	<!-- Original string: Authentication failed -->
 	<string name="failed_server_auth">Не удалось выполнить аутентификацию</string>
-	<!-- Original string: Star -->
 	<string name="favorite_action">Пометить</string>
-	<!-- Original string: Finished items list is empty. -->
 	<string name="finished_empty">Список завершенных загрузок пуст</string>
-	<!-- Original string: Uploaded %s -->
 	<string name="format_date_uploaded">Загружено %s</string>
-	<!-- Original string: Forward -->
 	<string name="forward_action">Переслать</string>
-	<!-- Original string: "Couldn't forward one or more attachments." -->
 	<string name="forward_download_failed_ticker">Сбой при пересылке прикрепленных файлов</string>
-	<!-- Original string: Attachment not forwarded -->
 	<string name="forward_download_failed_title">Не удалось переслать вложение</string>
-	<!-- Original string: Searching %s… -->
 	<string name="gal_searching_fmt">Поиск %s…</string>
-	<!-- Original string: Auto advance to -->
 	<string name="general_preference_auto_advance_dialog_title">Переходить к</string>
-	<!-- Original string: Auto-advance -->
 	<string name="general_preference_auto_advance_label">Автопереход</string>
-	<!-- Original string: Message list -->
 	<string name="general_preference_auto_advance_message_list">Списку сообщений</string>
-	<!-- Original string: Newer message -->
 	<string name="general_preference_auto_advance_newer">Предыдущему сообщению</string>
-	<!-- Original string: Older message -->
 	<string name="general_preference_auto_advance_older">Следующему сообщению</string>
-	<!-- Original string: Choose which screen to show after you delete a message -->
 	<string name="general_preference_auto_advance_summary">Выберите экран для отображения после удаления цепочки писем</string>
-	<!-- Original string: Reply all -->
 	<string name="general_preference_reply_all_label">Ответить всем</string>
-	<!-- Original string: Make \"Reply all\" the default for message replies -->
 	<string name="general_preference_reply_all_summary">Всегда отвечать всем участникам переписки</string>
-	<!-- Original string: Message text size -->
 	<string name="general_preference_text_zoom_dialog_title">Размер шрифта</string>
-	<!-- Original string: Huge -->
 	<string name="general_preference_text_zoom_huge">Огромный</string>
-	<!-- Original string: Message text size -->
 	<string name="general_preference_text_zoom_label">Размер шрифта</string>
-	<!-- Original string: Large -->
 	<string name="general_preference_text_zoom_large">Крупный</string>
-	<!-- Original string: Default -->
 	<string name="general_preference_text_zoom_normal">Обычный</string>
-	<!-- Original string: Small -->
 	<string name="general_preference_text_zoom_small">Небольшой</string>
-	<!-- Original string: Tiny -->
 	<string name="general_preference_text_zoom_tiny">Мелкий</string>
-	<!-- Original string: "Pictures in messages won't be shown automatically" -->
 	<string name="general_preferences_clear_trusted_senders_summary">Очистка списка доверенных контактов для параметра \"Показать изображения\"</string>
-	<!-- Original string: Clear \"show pictures\" -->
 	<string name="general_preferences_clear_trusted_senders_title">Очистить список доверенных</string>
-	<!-- Original string: General -->
 	<string name="header_label_general_preferences">Общие</string>
-	<!-- Original string: %s signin failed. -->
 	<string name="login_failed_ticker">Ошибка авторизации %s</string>
-	<!-- Original string: "Couldn't sign in" -->
 	<string name="login_failed_title">Не удалось войти в аккаунт</string>
-	<!-- Original string: looooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooong -->
 	<string name="long_string">длинная строка</string>
-	<!-- Original string: Accounts -->
 	<string name="mailbox_list_account_selector_account_header">Аккаунты</string>
-	<!-- Original string: Combined view -->
 	<string name="mailbox_list_account_selector_combined_view">Комбинированный режим</string>
-	<!-- Original string: Recent folders (%s) -->
 	<string name="mailbox_list_account_selector_mailbox_header_fmt">Последние папки (%s)</string>
-	<!-- Original string: Show all folders -->
 	<string name="mailbox_list_account_selector_show_all_folders">Показать почтовые ящики</string>
-	<!-- Original string: Recent folders -->
 	<string name="mailbox_list_recent_mailboxes">Недавние папки</string>
-	<!-- Original string: All folders -->
 	<string name="mailbox_list_user_mailboxes">Все папки</string>
-	<!-- Original string: Drafts -->
 	<string name="mailbox_name_display_drafts">Черновики</string>
-	<!-- Original string: Inbox -->
 	<string name="mailbox_name_display_inbox">Входящие</string>
-	<!-- Original string: Junk -->
 	<string name="mailbox_name_display_junk">Спам</string>
-	<!-- Original string: Outbox -->
 	<string name="mailbox_name_display_outbox">Исходящие</string>
-	<!-- Original string: Sent -->
 	<string name="mailbox_name_display_sent">Отправленные</string>
-	<!-- Original string: Trash -->
 	<string name="mailbox_name_display_trash">Корзина</string>
-	<!-- Original string: Unread -->
 	<string name="mailbox_name_display_unread">Непрочитанные</string>
-	<!-- Original string: Sync settings -->
 	<string name="mailbox_preferences_header">Настройки синхронизации</string>
-	<!-- Original string: Sync options -->
 	<string name="mailbox_settings_action">Параметры синхронизации</string>
-	<!-- Original string: Sync options -->
 	<string name="mailbox_settings_activity_title">Параметры синхронизации</string>
-	<!-- Original string: Sync options (%s) -->
 	<string name="mailbox_settings_activity_title_with_mailbox">Параметры синхронизации (%s)</string>
-	<!-- Original string: Check frequency -->
 	<string name="mailbox_settings_mailbox_check_frequency_label">Частота проверки</string>
-	<!-- Original string: Days to sync -->
 	<string name="mailbox_settings_mailbox_sync_window_label">Период синхронизации</string>
-	<!-- Original string: Select a folder -->
 	<string name="mailbox_shortcut_picker_title">Выберите папку</string>
-	<!-- Original string: Last Sync:\n%1$s\n%2$s -->
 	<string name="manager_activity_last_sync_format">Последняя синхронизация: \n%1$s\n%2$s</string>
-	<!-- Original string: Do not upload -->
 	<string name="manager_do_not_upload">Не загружать</string>
-	<!-- Original string: Completed uploads [%d] -->
 	<string name="manager_list_switcher_completed_format">Завершенные загрузки [%d]</string>
-	<!-- Original string: Pending uploads [%d] -->
 	<string name="manager_list_switcher_pending_format">Незавершенные загрузки [%d]</string>
-	<!-- Original string: Pause uploads -->
 	<string name="manager_pause">Приостановить загрузки</string>
-	<!-- Original string: Resume uploads -->
 	<string name="manager_resume">Продолжить загрузку</string>
-	<!-- Original string: Retry -->
 	<string name="manager_retry">Повторить попытку</string>
-	<!-- Original string: Sync all -->
 	<string name="manager_sync_all">Синхронизировать все</string>
-	<!-- Original string: Upload canceled -->
 	<string name="manager_toast_canceled">Загрузка отменена</string>
-	<!-- Original string: Upload already finished -->
 	<string name="manager_toast_not_canceled">Загрузка уже завершена</string>
-	<!-- Original string: Upload later -->
 	<string name="manager_upload_later">Загрузить позже</string>
-	<!-- Original string: Upload now -->
 	<string name="manager_upload_now">Загрузить</string>
-	<!-- Original string: View Completed -->
 	<string name="manager_view_completed">Просмотреть завершенные</string>
-	<!-- Original string: View -->
 	<string name="manager_view_media">Просмотр</string>
-	<!-- Original string: View Pending -->
 	<string name="manager_view_pending">Просмотреть незавершенные</string>
-	<!-- Original string: Mark as unread -->
 	<string name="mark_as_unread_action">Не прочитано</string>
-	<!-- Original string: Hide Details -->
 	<string name="menu_hide_completed_items">Скрыть подробности</string>
-	<!-- Original string: Hide Pending Uploads -->
 	<string name="menu_hide_pending_items">Скрыть незавершенные загрузки</string>
-	<!-- Original string: Settings -->
 	<string name="menu_settings">Настройки</string>
-	<!-- Original string: Show Details -->
 	<string name="menu_show_completed_items">Показать подробности</string>
-	<!-- Original string: Show Pending Uploads -->
 	<string name="menu_show_pending_items">Показать незавершенные загрузки</string>
-	<!-- Original string: View Online -->
 	<string name="menu_view_online">Просмотреть в Интернете</string>
-	<!-- Original string: File too large to attach. -->
 	<string name="message_compose_attachment_size">Файл имеет слишком большой размер и не может быть приложен</string>
-	<!-- Original string: Bcc -->
 	<string name="message_compose_bcc_hint">Скрытая копия</string>
-	<!-- Original string: Cc -->
 	<string name="message_compose_cc_hint">Копия</string>
-	<!-- Original string: %1$s and %2$d others -->
 	<string name="message_compose_display_name">%1$s и ещё %2$d</string>
-	<!-- Original string: Some email addresses are invalid. -->
 	<string name="message_compose_error_invalid_email">Некоторые адреса электронной почты являются недопустимыми</string>
-	<!-- Original string: You must add at least one recipient. -->
 	<string name="message_compose_error_no_recipients">Добавьте хотя бы одного получателя</string>
-	<!-- Original string: From: -->
 	<string name="message_compose_from_label">От:</string>
-	<!-- Original string: \n\n-------- Original Message --------\nSubject: %1$s\nFrom: %2$s\nTo: %3$s\nCC: %4$s\n\n -->
 	<string name="message_compose_fwd_header_fmt">\n\n-------- Исходное сообщение --------\nТема: %1$s\nОт: %2$s\nКому: %3$s\nКопия: %4$s\n\n</string>
-	<!-- Original string: Include text -->
 	<string name="message_compose_include_quoted_text_checkbox_label">Включить исходный текст в ответ</string>
-	<!-- Original string: Insert quick response -->
 	<string name="message_compose_insert_quick_response_list_title">Вставка быстрого ответа</string>
-	<!-- Original string: Include quoted text -->
 	<string name="message_compose_quoted_text_label">Цитируемый текст</string>
-	<!-- Original string: \n\n%s wrote:\n\n -->
 	<string name="message_compose_reply_header_fmt">\n\n%s писал:\n\n</string>
-	<!-- Original string: Subject -->
 	<string name="message_compose_subject_hint">Тема</string>
-	<!-- Original string: To -->
 	<string name="message_compose_to_hint">Получатели</string>
-	<!-- Original string: There was an error while decoding the message. -->
 	<string name="message_decode_error">При расшифровке сообщения произошла ошибка</string>
-	<!-- Original string: Message discarded. -->
 	<string name="message_discarded_toast">Черновик удален</string>
-	<!-- Original string: No subject -->
 	<string name="message_is_empty_description">Без темы</string>
-	<!-- Original string: Load more messages -->
 	<string name="message_list_load_more_messages_action">Загрузить еще сообщения</string>
-	<!-- Original string: No messages -->
 	<string name="message_list_no_messages">Нет сообщений</string>
-	<!-- Original string: Send all messages -->
 	<string name="message_list_send_pending_messages_action">Отправить все сообщ.</string>
-	<!-- Original string: " — " -->
 	<string name="message_list_subject_snippet_divider">" – "</string>
-	<!-- Original string: Message saved as draft. -->
 	<string name="message_saved_toast">Черновик сообщения сохранен</string>
-	<!-- Original string: Subject -->
 	<string name="message_subject_description">Тема</string>
-	<!-- Original string: Always show -->
 	<string name="message_view_always_show_pictures_button">Всегда показывать</string>
-	<!-- Original string: Pictures from this sender will be shown automatically. -->
 	<string name="message_view_always_show_pictures_confirmation">Картинки, отправленные с этого адреса, будут всегда показываться</string>
-	<!-- Original string: Always show pictures from this sender -->
 	<string name="message_view_always_show_pictures_prompt">Всегда показывать картинки с этого адреса</string>
-	<!-- Original string: Note: One or more attachments in your forwarded message will be downloaded prior to sending. -->
 	<string name="message_view_attachment_background_load">Примечание. Несколько прикрепленных файлов в переадресованном сообщении будут загружены перед отправкой</string>
-	<!-- Original string: Stop -->
 	<string name="message_view_attachment_cancel_action">Стоп</string>
-	<!-- Original string: Info -->
 	<string name="message_view_attachment_info_action">Информация</string>
-	<!-- Original string: Install -->
 	<string name="message_view_attachment_install_action">Установить</string>
-	<!-- Original string: Load -->
 	<string name="message_view_attachment_load_action">Загрузить</string>
-	<!-- Original string: Play -->
 	<string name="message_view_attachment_play_action">Воспроизв.</string>
-	<!-- Original string: Save -->
 	<string name="message_view_attachment_save_action">Сохранить</string>
-	<!-- Original string: Saved -->
 	<string name="message_view_attachment_saved">Сохранено</string>
-	<!-- Original string: View -->
 	<string name="message_view_attachment_view_action">Просмотр</string>
-	<!-- Original string: Bcc: -->
 	<string name="message_view_bcc_label">Скрытая копия:</string>
-	<!-- Original string: Cc: -->
 	<string name="message_view_cc_label">Копия:</string>
-	<!-- Original string: Date: -->
 	<string name="message_view_date_label">Дата:</string>
-	<!-- Original string: "Can't display attachment." -->
 	<string name="message_view_display_attachment_toast">Невозможно отобразить прикрепленный файл</string>
-	<!-- Original string: From: -->
 	<string name="message_view_from_label">От:</string>
-	<!-- Original string: " Yes" -->
 	<string name="message_view_invite_accept">" Да"</string>
-	<!-- Original string: " No" -->
 	<string name="message_view_invite_decline">" Нет"</string>
-	<!-- Original string: " Maybe" -->
 	<string name="message_view_invite_maybe">" Может быть"</string>
-	<!-- Original string: Going? -->
 	<string name="message_view_invite_text">Примете участие?</string>
-	<!-- Original string: Calendar invite -->
 	<string name="message_view_invite_title">Календарь: приглашение</string>
-	<!-- Original string: "You've replied \"maybe\" to this invitation." -->
 	<string name="message_view_invite_toast_maybe">Вы ответили \"может быть\" на это приглашение</string>
-	<!-- Original string: "You've declined this invitation." -->
 	<string name="message_view_invite_toast_no">Приглашение отклонено</string>
-	<!-- Original string: "You've accepted this invitation." -->
 	<string name="message_view_invite_toast_yes">Приглашение принято</string>
-	<!-- Original string: View in Calendar -->
 	<string name="message_view_invite_view">Посмотреть в Календаре</string>
-	<!-- Original string: "Couldn't load attachment \" %s\"." -->
 	<string name="message_view_load_attachment_failed_toast">Не удалось загрузить файл \"%s\"</string>
-	<!-- Original string: Message details -->
 	<string name="message_view_message_details_dialog_title">Детали</string>
-	<!-- Original string: Newer -->
 	<string name="message_view_move_to_newer">Следующее сообщение</string>
-	<!-- Original string: Older -->
 	<string name="message_view_move_to_older">Предыдущее сообщение</string>
-	<!-- Original string: Opening message… -->
 	<string name="message_view_parse_message_toast">Сообщение открывается…</string>
-	<!-- Original string: Show details -->
 	<string name="message_view_show_details">Показать сведения</string>
-	<!-- Original string: Invite -->
 	<string name="message_view_show_invite_action">Пригласить</string>
-	<!-- Original string: Message -->
 	<string name="message_view_show_message_action">Сообщение</string>
-	<!-- Original string: Show pictures -->
 	<string name="message_view_show_pictures_action">Показать картинки</string>
-	<!-- Original string: "Couldn't save the attachment." -->
 	<string name="message_view_status_attachment_not_saved">Файл не сохранен</string>
-	<!-- Original string: Attachment saved as %s. -->
 	<string name="message_view_status_attachment_saved">Вложение сохранено как %s</string>
-	<!-- Original string: Subject: -->
 	<string name="message_view_subject_label">Тема:</string>
-	<!-- Original string: To: -->
 	<string name="message_view_to_label">На:</string>
-	<!-- Original string: %1$s more... -->
 	<string name="more_string">еще %1$s...</string>
-	<!-- Original string: 999+ -->
 	<string name="more_than_999">более 999</string>
-	<!-- Original string: Move -->
 	<string name="move_action">Переместить</string>
-	<!-- Original string: Move to -->
 	<string name="move_to_folder_dialog_title">Переместить в папку</string>
-	<!-- Original string: <b>%1$s</b>"   %2$s" -->
 	<string name="multiple_new_message_notification_item"><b>%1$s</b>"   %2$s"</string>
-	<!-- Original string: Next -->
 	<string name="next_action">Далее</string>
-	<!-- Original string: %1$d new messages -->
 	<string name="notification_multiple_new_messages_fmt">Новых сообщений: %1$d</string>
-	<!-- Original string: to %1$s -->
 	<string name="notification_to_account">Кому: %1$s</string>
-	<!-- Original string: "Instant Upload hasn't been activated yet" -->
 	<string name="notify_activation_reminder">Функция загрузки с телефона еще не активирована</string>
-	<!-- Original string: Uploads paused -->
 	<string name="notify_paused">Загрузки приостановлены</string>
-	<!-- Original string: Uploads finished -->
 	<string name="notify_resolved">Загрузки завершены</string>
-	<!-- Original string: Instant Upload -->
 	<string name="notify_uploads">Загрузка с телефона</string>
-	<!-- Original string: OK -->
 	<string name="ok">ОК</string>
-	<!-- Original string: OK -->
 	<string name="okay_action">ОК</string>
-	<!-- Original string: Lock screen password expiring -->
 	<string name="password_expire_warning_content_title">Истекает срок действия пароля</string>
-	<!-- Original string: You must change your lock screen PIN or password soon, or the data for %s will be erased. Change it now? -->
 	<string name="password_expire_warning_dialog_content_fmt">Вам следует в ближайшее время изменить PIN-код или пароль блокировки экрана, иначе данные аккаунта %s будут удалены. Изменить сейчас?</string>
-	<!-- Original string: Lock screen password expiring -->
 	<string name="password_expire_warning_dialog_title">Истекает срок действия пароля</string>
-	<!-- Original string: \"%s\" requires that you change your lock screen PIN or password. -->
 	<string name="password_expire_warning_ticker_fmt">Для аккаунта \"%s\" требуется изменить PIN-код или пароль блокировки экрана</string>
-	<!-- Original string: Lock screen password expired -->
 	<string name="password_expired_content_title">Пароль блок. экрана устарел</string>
-	<!-- Original string: The data for %s is being erased from your device. You can restore it by changing your lock screen PIN or password. Change it now? -->
 	<string name="password_expired_dialog_content_fmt">Данные аккаунта %s удаляются с вашего устройства. Вы можете восстановить их, изменив свой PIN-код или пароль блокировки экрана. Изменить его сейчас?</string>
-	<!-- Original string: Lock screen password expired -->
 	<string name="password_expired_dialog_title">Пароль блокировки экрана устарел</string>
-	<!-- Original string: Your lock screen PIN or password has expired. -->
 	<string name="password_expired_ticker">Срок действия вашего PIN-кода или пароля блокировки экрана истек</string>
-	<!-- Original string: paused - low battery -->
 	<string name="pause_state_low_battery">приостановлено – низкий уровень заряда батареи</string>
-	<!-- Original string: manually paused -->
 	<string name="pause_state_manually_paused">приостановлено вручную</string>
-	<!-- Original string: paused - delayed until charging -->
 	<string name="pause_state_need_charger">приостановлено – до окончания зарядки</string>
-	<!-- Original string: paused - waiting for connection -->
 	<string name="pause_state_need_connectivity">приостановлено – ожидание подключения</string>
-	<!-- Original string: paused - SD card unavailable -->
 	<string name="pause_state_need_media">приостановлено – отсутствует SD-карта</string>
-	<!-- Original string: paused - out of PWA quota -->
 	<string name="pause_state_need_photos_quota">приостановлено – превышена квота для Веб-альбомов Picasa</string>
-	<!-- Original string: paused - waiting for wifi -->
 	<string name="pause_state_need_wifi">приостановлено – ожидание подключения Wi-Fi</string>
-	<!-- Original string: waiting to retry -->
 	<string name="pause_state_retrying">ожидание повторной попытки</string>
-	<!-- Original string: paused - roaming -->
 	<string name="pause_state_roaming">приостановлено – роуминг</string>
-	<!-- Original string: uploading -->
 	<string name="pause_state_running">загрузка</string>
-	<!-- Original string: Allows this application to access your email database, including received messages, sent messages, usernames, and passwords. -->
 	<string name="permission_access_provider_desc">Приложение получит доступ к базе данных программы электронной почты, которая включает полученные и отправленные письма, имена пользователей и пароли</string>
-	<!-- Original string: Access email provider data -->
 	<string name="permission_access_provider_label">Доступ к данным сервиса эл. почты</string>
-	<!-- Original string: Allows this application to read your email attachments. -->
 	<string name="permission_read_attachment_desc">Приложение получит доступ к прикрепленным файлам в сообщениях эл. почты</string>
-	<!-- Original string: Read email attachments -->
 	<string name="permission_read_attachment_label">Открывать прикрепленные файлы</string>
-	<!-- Original string: Recommended: 1600 pixels (for sharing, prints and screensavers) -->
 	<string name="photos_upload_dimension_1600">Рекомендуется: 1600 пикселей (для публикации, распечатки и заставок)</string>
-	<!-- Original string: Original size (slowest upload) -->
 	<string name="photos_upload_dimension_original">Исходный размер файла (минимальная скорость загрузки)</string>
-	<!-- Original string: Instant Upload Album -->
 	<string name="picasa_default_destination">Альбом для загрузки с телефона</string>
-	<!-- Original string: Combined view (%s) -->
 	<string name="picker_combined_view_fmt">Комбинированный вид (%s)</string>
-	<!-- Original string: Inbox (all) -->
 	<string name="picker_mailbox_name_all_inbox">Входящие (все)</string>
-	<!-- Original string: Inbox (unread) -->
 	<string name="picker_mailbox_name_all_unread">Входящие (непрочитанные)</string>
-	<!-- Original string: + Cc/Bcc -->
 	<string name="plus_cc_label">Добавить копию</string>
-	<!-- Original string: %1$d of %2$s -->
 	<string name="position_of_count">%1$d из %2$s</string>
-	<!-- Original string: About -->
 	<string name="preference_category_title_about">Сведения</string>
-	<!-- Original string: General -->
 	<string name="preference_category_title_general">Общие</string>
-	<!-- Original string: Photos -->
 	<string name="preference_category_title_photos">Фото</string>
-	<!-- Original string: Videos -->
 	<string name="preference_category_title_videos">Видео</string>
-	<!-- Original string: Photos &amp; videos via mobile networks -->
 	<string name="preference_mobile_data_usage_for_all_media">Фото и видео по мобильной сети</string>
-	<!-- Original string: Only photos via mobile networks -->
 	<string name="preference_mobile_data_usage_for_photos_only">Только фото по мобильной сети</string>
-	<!-- Original string: Photos &amp; videos via Wi-Fi only -->
 	<string name="preference_mobile_data_usage_never">Фото и видео только по Wi-Fi</string>
-	<!-- Original string: Advanced -->
 	<string name="preference_plus_category_advanced">Дополнительно</string>
-	<!-- Original string: Battery uploads -->
 	<string name="preference_plus_delay_sync_until_charging">Загрузка при зарядке</string>
-	<!-- Original string: Upload photos &amp; videos only when charging -->
 	<string name="preference_plus_delay_sync_until_charging_summary">Загружать фотографии и видео только во время зарядки</string>
-	<!-- Original string: Instant Upload -->
 	<string name="preference_plus_enable_cs">Загрузка с телефона</string>
-	<!-- Original string: Automatically upload new photos &amp; videos to a private web album -->
 	<string name="preference_plus_enable_cs_summary">Автоматически загружать фотографии и видео в личный веб-альбом</string>
-	<!-- Original string: Mobile uploads -->
 	<string name="preference_plus_mobile_data_connection">Загрузка с мобильного устройства</string>
-	<!-- Original string: Upload existing photos -->
 	<string name="preference_plus_sync_all">Загрузить имеющиеся фото</string>
-	<!-- Original string: Upload any existing photos &amp; videos from your phone now -->
 	<string name="preference_plus_sync_all_description">Загрузить все имеющиеся на телефоне фотографии и видеоролики</string>
-	<!-- Original string: No -->
 	<string name="preference_plus_sync_all_prompt_no">Нет</string>
-	<!-- Original string: Uploading photos and videos that have not already been uploaded from your phone to a private album on the web can take a while, but will be done in the background. Are you sure you want to continue? -->
 	<string name="preference_plus_sync_all_prompt_text">Добавление фотографий и видеороликов, не загруженных из телефона в личный веб-альбом, может занять некоторое время. Этот процесс будет выполняться в фоновом режиме. Продолжить?</string>
-	<!-- Original string: Upload existing photos -->
 	<string name="preference_plus_sync_all_prompt_title">Загрузить существующие фотографии</string>
-	<!-- Original string: Yes -->
 	<string name="preference_plus_sync_all_prompt_yes">Да</string>
-	<!-- Original string: Roaming uploads -->
 	<string name="preference_plus_sync_while_roaming">Загрузки в роуминге</string>
-	<!-- Original string: Upload photos &amp; videos when roaming on data network -->
 	<string name="preference_plus_sync_while_roaming_summary">Загружать фото и видео в роуминге по каналу передачи данных</string>
-	<!-- Original string: Instant Upload settings -->
 	<string name="preference_plus_title">Настройки загрузки</string>
-	<!-- Original string: Upload status -->
 	<string name="preference_plus_upload_status">Статус загрузки</string>
-	<!-- Original string: %1$s: %2$s -->
 	<string name="preference_summary_header_format">%1$s: %2$s</string>
-	<!-- Original string: Upload only when the phone is being charged. -->
 	<string name="preference_summary_need_power">Загружать только во время зарядки телефона</string>
-	<!-- Original string: Upload only when Wi-Fi is available. -->
 	<string name="preference_summary_need_wifi">Загружать только при наличии соединения Wi-Fi</string>
-	<!-- Original string: : %1$d of %2$d -->
 	<string name="preference_summary_uploading_format">: %1$d из %2$d</string>
-	<!-- Original string: Paused: touch to resume uploading -->
 	<string name="preference_summary_uploading_paused">Приостановлено: нажмите, чтобы продолжить загрузку</string>
-	<!-- Original string: Uploading (%1$d%%) -->
 	<string name="preference_summary_uploading_percent">Загрузка (%1$d%%)</string>
-	<!-- Original string: Instant Upload Version -->
 	<string name="preference_title_camera_sync_version">Загрузка с телефона</string>
-	<!-- Original string: Power -->
 	<string name="preference_title_need_power">Зарядка</string>
-	<!-- Original string: Wi-Fi -->
 	<string name="preference_title_need_wifi">Wi-Fi</string>
-	<!-- Original string: Pause all uploads -->
 	<string name="preference_title_pause_all_uploads">Приостановить все загрузки</string>
-	<!-- Original string: Photo size -->
 	<string name="preference_title_photo_size">Размер фото</string>
-	<!-- Original string: Account -->
 	<string name="preference_title_photos_account">Аккаунт</string>
-	<!-- Original string: Upload conditions -->
 	<string name="preference_title_photos_upload_connectivity">Условия загрузки</string>
-	<!-- Original string: Account -->
 	<string name="preference_title_videos_account">Аккаунт</string>
-	<!-- Original string: The photos account will be used video uploads. -->
 	<string name="preference_title_videos_account_summary">Аккаунт для фотографий будет использоваться для загрузки видео</string>
-	<!-- Original string: Upload conditions -->
 	<string name="preference_title_videos_upload_connectivity">Условия загрузки</string>
-	<!-- Original string: Photos connectivity settings are used for now. -->
 	<string name="preference_title_videos_upload_connectivity_summary">Настройки соединения для фотографий в данный момент заняты</string>
-	<!-- Original string: Previous -->
 	<string name="previous_action">Назад</string>
-	<!-- Original string: "Only some \"Plus\" accounts include POP access allowing this program to connect. If you're not able to sign in with your correct email address and password, you may not have a paid \"Plus\" account. Launch the web browser to gain access to these email accounts." -->
 	<string name="provider_note_live">Доступ по протоколу POP, позволяющий этой программе подключаться, разрешен только в некоторых аккаунтах Plus. Если вам не удается войти с помощью своего адреса электронной почты и пароля, скорее всего, у вас бесплатный аккаунт (не Plus). Чтобы войти в такой аккаунт, используйте браузер</string>
-	<!-- Original string: Before setting up this email account, visit the T-Online website and create a password for POP3 email access. -->
 	<string name="provider_note_t_online">Прежде чем настраивать аккаунт, перейдите на веб-сайт оператора связи и установите пароль для доступа к электронной почте по протоколу POP3</string>
-	<!-- Original string: No quick responses -->
 	<string name="quick_responses_empty_view">Нет шаблонов для быстрых ответов</string>
-	<!-- Original string: Mark read -->
 	<string name="read_action">Прочитано</string>
-	<!-- Original string: Refresh -->
 	<string name="refresh_action">Обновление</string>
-	<!-- Original string: Remove star -->
 	<string name="remove_star_action">Снять пометку</string>
-	<!-- Original string: Reply -->
 	<string name="reply_action">Ответить</string>
-	<!-- Original string: Reply all -->
 	<string name="reply_all_action">Ответить всем</string>
-	<!-- Original string: Background sync for this account is disabled while roaming. -->
 	<string name="require_manual_sync_message">Фоновая синхронизация отключена для этой учетной записи в роуминге</string>
-	<!-- Original string: 1 minute -->
 	<string name="retry_in_1min">1 минута</string>
-	<!-- Original string: 2 minutes -->
 	<string name="retry_in_2min">2 минуты</string>
-	<!-- Original string: 5 minutes -->
 	<string name="retry_in_5min">5 минут</string>
-	<!-- Original string: No data connection -->
 	<string name="retry_no_data">Подключение для передачи данных отсутствует</string>
-	<!-- Original string: Save -->
 	<string name="save_action">Сохранить</string>
-	<!-- Original string: Save draft -->
 	<string name="save_draft_action">Сохранить черновик</string>
-	<!-- Original string: Search -->
 	<string name="search_action">Поиск</string>
-	<!-- Original string: Results -->
 	<string name="search_header_text_fmt">Результаты поиска</string>
-	<!-- Original string: Search email -->
 	<string name="search_hint">Искать в электронной почте</string>
-	<!-- Original string: Search %1$s -->
 	<string name="search_mailbox_hint">Искать в папке \"%1$s\"</string>
-	<!-- Original string: Some servers may take a long time. -->
 	<string name="search_slow_warning_message">Ожидание ответа от сервера может занять много времени</string>
-	<!-- Original string: Waiting for results -->
 	<string name="search_slow_warning_title">Ожидание результатов</string>
-	<!-- Original string: Security update required -->
 	<string name="security_notification_content_title">Обновите систему безопасности</string>
-	<!-- Original string: Account \"%s\" requires security settings update. -->
 	<string name="security_notification_ticker_fmt">Аккаунт \"%s\" требует обновления настроек безопасности</string>
-	<!-- Original string: Send -->
 	<string name="send_action">Отправить</string>
-	<!-- Original string: Add star -->
 	<string name="set_star_action">Пометить</string>
-	<!-- Original string: Settings -->
 	<string name="settings_action">Настройки</string>
-	<!-- Original string: Settings -->
 	<string name="settings_activity_title">Настройки</string>
-	<!-- Original string: Insert quick response -->
 	<string name="show_quick_text_list_dialog_action">Вставить быстрый ответ</string>
-	<!-- Original string: Loading messages… -->
 	<string name="status_loading_messages">Загрузка сообщений...</string>
-	<!-- Original string: Connection problem. -->
 	<string name="status_network_error">Ошибка подключения</string>
-	<!-- Original string: Subject -->
 	<string name="subject_hint">Тема:</string>
-	<!-- Original string: Show Finished Uploads -->
 	<string name="summary_menu_show_finished">Показать завершенные загрузки</string>
-	<!-- Original string: Show Pending Uploads -->
 	<string name="summary_menu_show_pending">Показать незавершенные загрузки</string>
-	<!-- Original string: %1$d photos • %2$d videos -->
 	<string name="summary_subtitle_counts_format">%1$d фото • %2$d видео</string>
-	<!-- Original string: Disabled -->
 	<string name="summary_subtitle_disabled">Отключено</string>
-	<!-- Original string: low battery -->
 	<string name="summary_subtitle_paused_low_battery">низкий уровень заряда батареи</string>
-	<!-- Original string: delayed until charging -->
 	<string name="summary_subtitle_paused_need_charger">приостановлено до зарядки</string>
-	<!-- Original string: SD card unavailable -->
 	<string name="summary_subtitle_paused_need_media">SD-карта недоступна</string>
-	<!-- Original string: waiting for connection -->
 	<string name="summary_subtitle_paused_need_network">ожидание подключения</string>
-	<!-- Original string: waiting for WiFi -->
 	<string name="summary_subtitle_paused_need_wifi">ожидание подключения Wi-Fi</string>
-	<!-- Original string: exceeded photos quota -->
 	<string name="summary_subtitle_paused_photos_quota">превышена квота на фотографии</string>
-	<!-- Original string: retrying in %s -->
 	<string name="summary_subtitle_paused_retry_format">повторная попытка через %s</string>
-	<!-- Original string: roaming -->
 	<string name="summary_subtitle_paused_roaming">роуминг</string>
-	<!-- Original string: %1$d%% • %2$d photos • %3$d videos -->
 	<string name="summary_subtitle_uploading_format">%1$d%% • %2$d фото • %3$d видео</string>
-	<!-- Original string: Finished -->
 	<string name="summary_title_finished">Завершенные</string>
-	<!-- Original string: Paused -->
 	<string name="summary_title_paused">Приостановлено</string>
-	<!-- Original string: Uploading -->
 	<string name="summary_title_uploading">Загрузка</string>
-	<!-- Original string: "Couldn't create the account. Try again." -->
 	<string name="system_account_create_failed">Не удалось создать аккаунт. Повторите попытку</string>
-	<!-- Original string: To -->
 	<string name="to">Кому:</string>
-	<!-- Original string: "Account wasn't found. It may have been removed." -->
 	<string name="toast_account_not_found">Аккаунт не найден. Возможно, он удален</string>
-	<!-- Original string: There was a problem signing into your account. -->
 	<string name="toast_failed_auth">Не удалось войти в аккаунт</string>
-	<!-- Original string: File not available. -->
 	<string name="toast_file_error">Файл недоступен</string>
-	<!-- Original string: Upload initialization failed. -->
 	<string name="toast_intent_error">Не удалось начать загрузку</string>
-	<!-- Original string: "Folder wasn't found. It may have been removed." -->
 	<string name="toast_mailbox_not_found">Папка не найдена. Возможно, она удалена</string>
-	<!-- Original string: \"Show pictures\" cleared. -->
 	<string name="trusted_senders_cleared">Список доверенных контактов очищен</string>
-	<!-- Original string: Mark unread -->
 	<string name="unread_action">Не прочитано</string>
-	<!-- Original string: Upload -->
 	<string name="upload">Загрузить</string>
-	<!-- Original string: Completed -->
 	<string name="upload_state_completed">Завершено</string>
-	<!-- Original string: Failed -->
 	<string name="upload_state_failed">Сбой</string>
-	<!-- Original string: Uploading -->
 	<string name="upload_state_uploading">Загрузка</string>
-	<!-- Original string: Waiting to retry -->
 	<string name="upload_state_waiting_retry">Ожидание повторной попытки</string>
-	<!-- Original string: Waiting for WiFi -->
 	<string name="upload_state_waiting_wifi">Ожидание подключения Wi-Fi</string>
-	<!-- Original string: " for "<b>%s</b> -->
 	<string name="uploading_for">" для пользователя "</string>
-	<!-- Original string: Uploading to <b>%s</b> -->
 	<string name="uploading_to">Загрузка в</string>
-	<!-- Original string: Waiting for sync -->
 	<string name="waitinf_for_sync_message_1">Ожидание синхронизации</string>
-	<!-- Original string: Your email will appear soon. -->
 	<string name="waitinf_for_sync_message_2">Ваши письма скоро загрузятся</string>
-	<!-- Original string: Combined Inbox -->
 	<string name="widget_all_mail">Все входящие</string>
-	<!-- Original string: Loading… -->
 	<string name="widget_loading">Загрузка...</string>
-	<!-- Original string: "You haven't set up an email account yet." -->
 	<string name="widget_no_accounts">Вы еще не добавили аккаунт электронной почты</string>
-	<!-- Original string: "This account isn't synced. Try again later." -->
 	<string name="widget_no_mailboxes">Этот аккаунт не синхронизирован, попробуйте позже.</string>
-	<!-- Original string: Touch icon to change. -->
 	<string name="widget_other_views">Нажмите, чтобы изменить</string>
-	<!-- Original string: Starred -->
 	<string name="widget_starred">Помеченные</string>
-	<!-- Original string: Touch to set up. -->
 	<string name="widget_touch_to_configure">Нажмите для настройки</string>
-	<!-- Original string: Unread -->
 	<string name="widget_unread">Непрочитанные</string>
 </resources>

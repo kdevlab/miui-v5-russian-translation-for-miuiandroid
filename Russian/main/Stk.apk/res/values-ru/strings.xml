@@ -1,50 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--Merged and sorted with KDG BigBlackBox-->
 <resources>
-	<!-- Original string: Alphabets -->
 	<string name="alphabet">Алфавит</string>
-	<!-- Original string: SIM Toolkit -->
 	<string name="app_name">Инструменты SIM-карты</string>
-	<!-- Original string: Cancel -->
 	<string name="button_cancel">Отмена</string>
-	<!-- Original string: No -->
 	<string name="button_no">Нет</string>
-	<!-- Original string: OK -->
 	<string name="button_ok">ОК</string>
-	<!-- Original string: Yes -->
 	<string name="button_yes">Да</string>
-	<!-- Original string: Call in progress… -->
 	<string name="default_call_setup_msg">Посылка вызова...</string>
-	<!-- Original string: Channel Closed -->
 	<string name="default_close_channel_msg">Канал закрыт</string>
-	<!-- Original string: Open Channel? -->
 	<string name="default_open_channel_msg">Открыть канал?</string>
-	<!-- Original string: Receiving Data -->
 	<string name="default_receive_data_msg">Прием данных...</string>
-	<!-- Original string: Sending Data -->
 	<string name="default_send_data_msg">Отправка данных...</string>
-	<!-- Original string: Digits (0-9, *, #, +) -->
 	<string name="digits">Цифры (0-9, *, #, +)</string>
-	<!-- Original string: Disabled -->
 	<string name="disable_app">Отключено</string>
-	<!-- Original string: Enabled -->
 	<string name="enable_app">Включено</string>
-	<!-- Original string: Help -->
 	<string name="help">Справка</string>
-	<!-- Original string: Back -->
 	<string name="menu_back">Назад</string>
-	<!-- Original string: End session -->
 	<string name="menu_end_session">Закончить сеанс</string>
-	<!-- Original string: Service name -->
 	<string name="service_name">Название службы</string>
-	<!-- Original string: Application state -->
 	<string name="stk_app_state">Состояние приложения</string>
-	<!-- Original string: YES -->
 	<string name="stk_dialog_accept">ДА</string>
-	<!-- Original string: NO -->
 	<string name="stk_dialog_reject">НЕТ</string>
-	<!-- Original string: SIM ToolKit -->
 	<string name="stk_dialog_title">Инструменты SIM-карты</string>
-	<!-- Original string: No service available -->
 	<string name="stk_no_service">Вне зоны обслуживания</string>
 </resources>

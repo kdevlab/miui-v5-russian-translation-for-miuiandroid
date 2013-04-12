@@ -1,816 +1,410 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--Merged and sorted with KDG BigBlackBox-->
 <resources>
-	<!-- Original string: Cannot find a program to open the attachment -->
 	<string name="activity_not_found">Не удается открыть вложение</string>
-	<!-- Original string: Cannot find a program for this -->
 	<string name="activity_not_found_uri">Не удается найти приложение для этого типа файлов</string>
-	<!-- Original string: Favorites -->
 	<string name="add_bookmark">Избранные</string>
-	<!-- Original string: Contact -->
 	<string name="add_contact">Контакт</string>
-	<!-- Original string: Recommend -->
 	<string name="add_festival">Поздравление</string>
-	<!-- Original string: Add music -->
 	<string name="add_music">Добавить музыку</string>
-	<!-- Original string: Nickname -->
 	<string name="add_nickname">Псевдоним</string>
-	<!-- Original string: Editing nicknames -->
 	<string name="add_nickname_title">Добавить псевдоним</string>
-	<!-- Original string: Add number to %s -->
 	<string name="add_number_to_sender">Добавить номер в %s</string>
-	<!-- Original string: Add picture -->
 	<string name="add_picture">Добавить картинку</string>
-	<!-- Original string: Add Private Contact -->
 	<string name="add_private_contact">Добавить контакт</string>
-	<!-- Original string: Add slide -->
 	<string name="add_slide">Добавить слайд</string>
-	<!-- Original string: Touch to create new slide -->
 	<string name="add_slide_hint">Нажмите, чтобы добавить</string>
-	<!-- Original string: Smiley -->
 	<string name="add_smiley">Смайл</string>
-	<!-- Original string: Timing -->
 	<string name="add_timing">Время</string>
-	<!-- Original string: Add video -->
 	<string name="add_video">Добавить видео</string>
-	<!-- Original string: Wait while the items are added to the slideshow. -->
 	<string name="adding_attachments">Добавление. Подождите...</string>
-	<!-- Original string: Adding attachments -->
 	<string name="adding_attachments_title">Добавление вложений</string>
-	<!-- Original string: Adding recipients… -->
 	<string name="adding_recipients">Добавление получателей...</string>
-	<!-- Original string: Messaging -->
 	<string name="app_label">Сообщения</string>
-	<!-- Original string: Pictures -->
 	<string name="attach_image">Изображение</string>
-	<!-- Original string: Record audio -->
 	<string name="attach_record_sound">Записать аудио</string>
-	<!-- Original string: Capture video -->
 	<string name="attach_record_video">Снять видео</string>
-	<!-- Original string: Slideshow -->
 	<string name="attach_slideshow">Слайд-шоу</string>
-	<!-- Original string: Audio -->
 	<string name="attach_sound">Аудио</string>
-	<!-- Original string: Subject -->
 	<string name="attach_subject">Тема</string>
-	<!-- Original string: Capture picture -->
 	<string name="attach_take_photo">Сделать фото</string>
-	<!-- Original string: Videos -->
 	<string name="attach_video">Видео</string>
-	<!-- Original string: Are you sure you wish to delete the selected %1$s message(s)? -->
 	<string name="batch_delete_confirm_dialog_message">Удалить выбранные сообщения (%1$s)?</string>
-	<!-- Original string: Deleting selected message(s) -->
 	<string name="batch_deleting_message_progress_message">Удалить выбранные сообщения</string>
-	<!-- Original string: Deleting selected message thread(s) -->
 	<string name="batch_deleting_progress_message">Удаление...</string>
-	<!-- Original string: "Bcc: " -->
 	<string name="bcc_label">"Скрытая копия: "</string>
-	<!-- Original string: Favorites -->
 	<string name="bookmark">Избранные</string>
-	<!-- Original string: Selected message will be removed from favorites -->
 	<string name="bookmark_confirm_delete_message">Убрать сообщение из списка избранных?</string>
-	<!-- Original string: No Bookmark -->
 	<string name="bookmark_empty">Нет сообщений</string>
-	<!-- Original string: Favorites -->
 	<string name="bookmark_list_title">Избранные</string>
-	<!-- Original string: "Can't add video and picture to one slide." -->
 	<string name="cannot_add_picture_and_video">Нельзя добавить на слайд и картинку, и видео</string>
-	<!-- Original string: "Can't add more slides." -->
 	<string name="cannot_add_slide_anymore">Добавлено максимальное число слайдов.</string>
-	<!-- Original string: "The DRM object included in the message can't be forwarded." -->
 	<string name="cannot_forward_drm_obj">Нельзя переслать DRM-объект из этого сообщения</string>
-	<!-- Original string: "Can't get details." -->
 	<string name="cannot_get_details">Не удалось загрузить данные</string>
-	<!-- Original string: "Can't send message" -->
 	<string name="cannot_send_message">Не удалось отправить сообщение</string>
-	<!-- Original string: Your message has no valid recipients. -->
 	<string name="cannot_send_message_reason">Не указано ни одного реального получателя</string>
-	<!-- Original string: Change duration -->
 	<string name="change_duration_activity">Изменить продолжительность</string>
-	<!-- Original string: Select all -->
 	<string name="check_all">Всё</string>
-	<!-- Original string: Cannot use nicknames in MMS -->
 	<string name="chenghu_disable_mms">Недопустимый адрес MMS</string>
-	<!-- Original string: Class 0 message -->
 	<string name="class_0_message_activity">Сообщение класса 0</string>
-	<!-- Original string: Close -->
 	<string name="close">Закрыть</string>
-	<!-- Original string: Picture too large. Compressing… -->
 	<string name="compressing">Картинка слишком большая. Выполняется сжатие…</string>
-	<!-- Original string: Confirm -->
 	<string name="confirm">Подтвердить</string>
-	<!-- Original string: Delete this SIM message? -->
 	<string name="confirm_delete_SIM_message">Вы уверены, что хотите удалить это сообщение с SIM-карты?</string>
-	<!-- Original string: Delete all SIM messages? -->
 	<string name="confirm_delete_all_SIM_messages">Вы уверены, что хотите удалить все сообщения с SIM-карты?</string>
-	<!-- Original string: Delete all conversations? -->
 	<string name="confirm_delete_all_conversations">Вы уверены, что хотите удалить все переписки?</string>
-	<!-- Original string: Delete this entire thread? -->
 	<string name="confirm_delete_conversation">Вы уверены, что хотите удалить данную переписку?</string>
-	<!-- Original string: Delete group messages? -->
 	<string name="confirm_delete_group_message">Вы уверены, что хотите удалить выбранные сообщения?</string>
-	<!-- Original string: Delete this locked message? -->
 	<string name="confirm_delete_locked_message">Вы уверены, что хотите удалить это заблокированное сообщение?</string>
-	<!-- Original string: Delete the message? -->
 	<string name="confirm_delete_message">Вы уверены, что хотите удалить выбранное сообщение?</string>
-	<!-- Original string: Delete locked message? -->
 	<string name="confirm_dialog_locked_title">Удалить заблокированное сообщение?</string>
-	<!-- Original string: Delete? -->
 	<string name="confirm_dialog_title">Удаление</string>
-	<!-- Original string: Remove 1 selected private contact, and conversation recovery to the normal SMS mode. Continue? -->
 	<string name="confirm_export_dialog_description">После удаления приватного контакта Ваша переписка восстановится в обычный режим. Продолжить?</string>
-	<!-- Original string: Remove private contact -->
 	<string name="confirm_export_dialog_title">Удаление приватного контакта</string>
-	<!-- Original string: A large number of multimedia messages are being sent. Is this OK? -->
 	<string name="confirm_rate_limit">Отправляется большое количество MMS. Продолжить?</string>
-	<!-- Original string: Add to contacts -->
 	<string name="context_menu_add_contact">Добавить в контакты</string>
-	<!-- Original string: Browse -->
 	<string name="context_menu_browse_web">Перейти</string>
-	<!-- Original string: Call -->
 	<string name="context_menu_call">Вызов</string>
-	<!-- Original string: Contact:%1$s -->
 	<string name="context_menu_contact">Контакт: %1$s</string>
-	<!-- Original string: Copy -->
 	<string name="context_menu_copy">Копировать</string>
-	<!-- Original string: Selection copied to clipboard -->
 	<string name="context_menu_copy_notice">Текст был скопирован в буфер обмена</string>
-	<!-- Original string: New contact -->
 	<string name="context_menu_new_contact">Новый контакт</string>
-	<!-- Original string: Send E-mail -->
 	<string name="context_menu_send_mail">Отправить e-mail</string>
-	<!-- Original string: Send message -->
 	<string name="context_menu_send_sms">Отправить SMS</string>
-	<!-- Original string: View contact -->
 	<string name="context_menu_view_contact">Просмотр контактов</string>
-	<!-- Original string: View MMS -->
 	<string name="context_menu_view_mms">Просмотр MMS</string>
-	<!-- Original string: Message -->
 	<string name="conversation">Сообщения</string>
-	<!-- Original string: bubble -->
 	<string name="conversation_style">bubble</string>
-	<!-- Original string: Converting to multimedia message… -->
 	<string name="converting_to_picture_message">Преобразование в сообщение MMS...</string>
-	<!-- Original string: Converting to text message… -->
 	<string name="converting_to_text_message">Преобразование в сообщение SMS...</string>
-	<!-- Original string: Copy text -->
 	<string name="copy_message_text">Скопировать текст</string>
-	<!-- Original string: Save attachment -->
 	<string name="copy_to_sdcard">Сохранить вложение</string>
-	<!-- Original string: "Couldn't save attachment." -->
 	<string name="copy_to_sdcard_fail">Файл не сохранен</string>
-	<!-- Original string: Attachment saved as %s -->
 	<string name="copy_to_sdcard_success">Файл сохранен как %s</string>
-	<!-- Original string: Database corrupted, recreating database -->
 	<string name="database_corruption">База данных повреждена, востановление базы данных</string>
-	<!-- Original string: Delete -->
 	<string name="delete">Удалить</string>
-	<!-- Original string: Remove from favorites -->
 	<string name="delete_bookmark">Убрать из избранных</string>
-	<!-- Original string: Delete -->
 	<string name="delete_message">Удалить</string>
-	<!-- Original string: Delete phrase -->
 	<string name="delete_phrase">Удалить шаблон</string>
-	<!-- Original string: Delete locked messages -->
 	<string name="delete_unlocked">Удалить заблокированные сообщения</string>
-	<!-- Original string: Delivery report -->
 	<string name="delivery_report_activity">Отчет о доставке</string>
-	<!-- Original string: Message received by %s. -->
 	<string name="delivery_toast_body">%s: сообщение доставлено</string>
-	<!-- Original string: Stop duplicate text message notifications from default Messaging app? -->
 	<string name="disable_notifications_dialog_message">Не дублировать уведомления об SMS из приложения обмена сообщениями по умолчанию</string>
-	<!-- Original string: Discard -->
 	<string name="discard">Отменить</string>
-	<!-- Original string: Discard -->
 	<string name="discard_message">Отмена</string>
-	<!-- Original string: Your message will be discarded because it has no valid recipients. -->
 	<string name="discard_message_reason">Сообщение будет удалено, так как не указан ни один получатель</string>
-	<!-- Original string: Discard slideshow -->
 	<string name="discard_slideshow">Отменить слайд-шоу</string>
-	<!-- Original string: "Couldn't download message %1$s from %2$s." -->
 	<string name="dl_failure_notification">Не удалось загрузить сообщение \"%1$s\" от пользователя %2$s</string>
-	<!-- Original string: Done -->
 	<string name="done">Готово</string>
-	<!-- Original string: Download -->
 	<string name="download">Загрузить</string>
-	<!-- Original string: "Can't download right now. Try again later." -->
 	<string name="download_later">Не удалось загрузить сообщения. Повторите попытку позже.</string>
-	<!-- Original string: Downloading -->
 	<string name="downloading">Загрузка...</string>
-	<!-- Original string: Duration must be a number. -->
 	<string name="duration_not_a_number">Должно быть указано числовое значение</string>
-	<!-- Original string: Duration (%s sec) -->
 	<string name="duration_sec">Продолжительность: (%s сек.)</string>
-	<!-- Original string: "Duration for slide " -->
 	<string name="duration_selector_title">"Продолжительность показа слайда "</string>
-	<!-- Original string: Duration must be greater than zero seconds. -->
 	<string name="duration_zero">Значение должно быть больше нуля.</string>
-	<!-- Original string: Edit -->
 	<string name="edit">Изменить</string>
-	<!-- Original string: No recipients found. Please have at least one recipient to edit nicknames. -->
 	<string name="edit_nickname_for_nocontact">Нет получателей. Добавьте хотя бы одного получателя, для изменения псевдонима.</string>
-	<!-- Original string: Please have at least one recipient to edit nicknames. -->
 	<string name="edit_nickname_for_nocontact_by_robot">Добавьте хотя бы одного получателя, для изменения псевдонима.</string>
-	<!-- Original string: Edit phrase -->
 	<string name="edit_phrase">Изменить шаблон</string>
-	<!-- Original string: Edit slide -->
 	<string name="edit_slide_activity">Изменить слайд</string>
-	<!-- Original string: Edit slideshow -->
 	<string name="edit_slideshow_activity">Изменить слайд-шоу</string>
-	<!-- Original string: Enable password protect -->
 	<string name="enable_password_protect">Защита графич. ключом</string>
-	<!-- Original string: Make pattern visible -->
 	<string name="enable_visible_pattern_title">Видимый ключ</string>
-	<!-- Original string: Delete -->
 	<string name="enter_edit_mode">Удалить</string>
-	<!-- Original string: "Error code: " -->
 	<string name="error_code_label">"Код ошибки: "</string>
-	<!-- Original string: Inconsistent state -->
 	<string name="error_state">Данные были изменены</string>
-	<!-- Original string: The state of threads and recipients is inconsistent. Please capture a bug report and report it via http://go/droidanizer -->
 	<string name="error_state_text">Переписки не соответствуют получателям. Сделайте снимок экрана и отправьте сообщение об ошибке через веб-сайт http://go/droidanizer</string>
-	<!-- Original string: Cannot schedule a time before now -->
 	<string name="error_timed_msg">Невозможно запланировать время ранее текущего</string>
-	<!-- Original string: Cloud Message -->
 	<string name="ex_type_mx">Облачные сообщения</string>
-	<!-- Original string: SMS/MMS -->
 	<string name="ex_type_sms">SMS</string>
-	<!-- Original string: Message size limit reached. -->
 	<string name="exceed_message_size_limitation">Достигнут максимальный размер сообщения</string>
-	<!-- Original string: Expires: %s -->
 	<string name="expire_on">Срок истекает: %s</string>
-	<!-- Original string: Exporting messages from private MessageBox -->
 	<string name="exporting_progress_private_message">Экспорт сообщений в приватный ящик сообщений...</string>
-	<!-- Original string: "You can't add this %1$s to your message." -->
 	<string name="failed_to_add_media">Невозможно добавить этот объект (%1$s)</string>
-	<!-- Original string: Picture not resized. -->
 	<string name="failed_to_resize_image">Не удалось изменить размер рисунка</string>
-	<!-- Original string: You can only send messages to your fixed dialing numbers. -->
 	<string name="fdn_check_failure">Вы можете отправлять сообщения только на номера из своего списка разрешенных номеров</string>
-	<!-- Original string: Recommend -->
 	<string name="festival">Фразы</string>
-	<!-- Original string: %s -->
 	<string name="festival_sms_category_count_format">(%s)</string>
-	<!-- Original string: Loading... -->
 	<string name="festival_sms_loading">Загрузка...</string>
-	<!-- Original string: [Fetion] -->
 	<string name="fetion_prefix">[Fetion]</string>
-	<!-- Original string: %1$d -->
 	<string name="flatshow_page_no">%1$d</string>
-	<!-- Original string: "Fwd: " -->
 	<string name="forward_prefix">"От: "</string>
-	<!-- Original string: Found messages of previous accounts on your phone:%1$sDo you want to upload them to your current account %2$s? -->
 	<string name="found_old_messages">Найдено сообщений от предыдущего аккаунта: %1$s Вы хотите загрузить их в свой текущий аккаунт %2$s?</string>
-	<!-- Original string: Message upload -->
 	<string name="found_old_messages_title">Загрузка сообщений</string>
-	<!-- Original string: Found messages of other SIM cards on cloud:%sDo you want to download them? -->
 	<string name="found_wild_messages">В облаке найдено %s сообщений с других SIM-карт. Вы хотите загрузить их?</string>
-	<!-- Original string: Message download -->
 	<string name="found_wild_messages_title">Скачка сообщений</string>
-	<!-- Original string: "From: " -->
 	<string name="from_label">"От: "</string>
-	<!-- Original string: Group message -->
 	<string name="group_message">Групповое сообщение</string>
-	<!-- Original string: Failed sending to %d contacts, retry? -->
 	<string name="group_message_failed_title">Не удалось отправить %d, повторить попытку?</string>
-	<!-- Original string: Resend(%d) -->
 	<string name="group_resend_message">Переслать(%d)</string>
-	<!-- Original string: Click here to add attachments or smily for the message -->
 	<string name="guild_add_attachments">Нажмите для добавления вложения или смайла в сообщение</string>
-	<!-- Original string: Click here to add recipients in address book -->
 	<string name="guild_add_recipients">Нажмите для добавления получателей из адресной книги</string>
-	<!-- Original string: Invalid recipient(s): &lt;%1$s> -->
 	<string name="has_invalid_recipient">Недопустимые получатели: &lt;%1$s></string>
-	<!-- Original string: Hidden sender address -->
 	<string name="hidden_sender_address">Адрес отправителя скрыт</string>
-	<!-- Original string: %d sms -->
 	<string name="hint_search_sms">Всего сообщений: %d</string>
-	<!-- Original string: Importing messages to private MessageBox -->
 	<string name="importing_progress_private_message">Импорт сообщений в приватный ящик сообщений...</string>
-	<!-- Original string: Message -->
 	<string name="in_sms">Сообщение</string>
-	<!-- Original string: Insufficient DRM rights detected. -->
 	<string name="insufficient_drm_rights">Обнаруженных прав DRM недостаточно</string>
-	<!-- Original string: Invalid destination address. -->
 	<string name="invalid_destination">Неверный адрес получателя</string>
-	<!-- Original string: "Correct the recipient(s) or they won't receive the message." -->
 	<string name="invalid_recipient_message">Убедитесь, что все получатели указаны правильно</string>
-	<!-- Original string: KB -->
 	<string name="kilobyte">КБ</string>
-	<!-- Original string: "Slideshow layout " -->
 	<string name="layout_selector_title">"Макет слайд-шоу "</string>
-	<!-- Original string: Loading all messages... -->
 	<string name="loading_all_messages">Загрузка сообщений...</string>
-	<!-- Original string: Loading conversations... -->
 	<string name="loading_conversations">Загрузка переписок...</string>
-	<!-- Original string: Loading... -->
 	<string name="loading_mms">Загрузка MMS…</string>
-	<!-- Original string: Me -->
 	<string name="me">Я</string>
-	<!-- Original string: Compose -->
 	<string name="menu_compose_new">Новое сообщение</string>
-	<!-- Original string: Delete messages -->
 	<string name="menu_delete_messages">Удалить сообщения</string>
-	<!-- Original string: Edit -->
 	<string name="menu_edit">Изменить</string>
-	<!-- Original string: Forward -->
 	<string name="menu_forward">Переслать</string>
-	<!-- Original string: Lock -->
 	<string name="menu_lock">Заблокировать</string>
-	<!-- Original string: Enter number manually -->
 	<string name="menu_new_manual">Ввести номер вручную</string>
-	<!-- Original string: Select from contacts -->
 	<string name="menu_pick_from_contact">Выбрать из контактов</string>
-	<!-- Original string: Settings -->
 	<string name="menu_preferences">Настройки</string>
-	<!-- Original string: Unlock -->
 	<string name="menu_unlock">Разблокировать</string>
-	<!-- Original string: View contact -->
 	<string name="menu_view_contact">Просмотреть контакт</string>
-	<!-- Original string: "Message class: " -->
 	<string name="message_class_label">"Класс сообщений: "</string>
-	<!-- Original string: Message details -->
 	<string name="message_details_title">Сведения о сообщении</string>
-	<!-- Original string: Message not downloaded -->
 	<string name="message_download_failed_title">Не удалось загрузить сообщение</string>
-	<!-- Original string: Failed -->
 	<string name="message_failed">Ошибка отправки</string>
-	<!-- Original string: Touch to review the message and try again. -->
 	<string name="message_failed_body">Нажмите, чтобы просмотреть сообщение и повторить попытку</string>
-	<!-- Original string: Sending -->
 	<string name="message_pending">Отправка</string>
-	<!-- Original string: "Currently can't send your message. It will be sent when the service becomes available." -->
 	<string name="message_queued">Сервис недоступен. Мы попробуем отправить сообщение позже</string>
-	<!-- Original string: Read -->
 	<string name="message_readed">Прочитано</string>
-	<!-- Original string: Received -->
 	<string name="message_received">Доставлено</string>
-	<!-- Original string: Rejected -->
 	<string name="message_rejected">Отклонено</string>
-	<!-- Original string: Message saved as draft. -->
 	<string name="message_saved_as_draft">Черновик сообщения сохранен</string>
-	<!-- Original string: Message not sent -->
 	<string name="message_send_failed_title">Сообщение не отправлено</string>
-	<!-- Original string: A read report will be sent. -->
 	<string name="message_send_read_report">Будет отправлен отчет о прочтении</string>
-	<!-- Original string: "Message size: " -->
 	<string name="message_size_label">"Размер сообщения: "</string>
-	<!-- Original string: The message is too big to attach a audio. -->
 	<string name="message_too_big_for_audio">Сообщение слишком велико, чтобы прикрепить аудио</string>
-	<!-- Original string: The message is too big to attach a video. -->
 	<string name="message_too_big_for_video">Сообщение слишком велико, чтобы приложить видео</string>
-	<!-- Original string: "Type: " -->
 	<string name="message_type_label">"Тип: "</string>
-	<!-- Original string: Me -->
 	<string name="messagelist_sender_self">Я</string>
-	<!-- Original string: MMS -->
 	<string name="mms">MMS</string>
-	<!-- Original string: Move down -->
 	<string name="move_down">Переместить вниз</string>
-	<!-- Original string: Move up -->
 	<string name="move_up">Переместить вверх</string>
-	<!-- Original string: Multimedia message -->
 	<string name="msg_type_hint_mms">Мультимедийное сообщение</string>
-	<!-- Original string: Cloud Message -->
 	<string name="msg_type_hint_mx">Облачное сообщение</string>
-	<!-- Original string: Text message -->
 	<string name="msg_type_hint_sms">Текстовое сообщение</string>
-	<!-- Original string: Multimedia message -->
 	<string name="multimedia_message">Мультимедийное сообщение</string>
-	<!-- Original string: Multimedia message notification -->
 	<string name="multimedia_notification">Уведомление о MMS</string>
-	<!-- Original string: Your personal info interrupted, reactivation of Cloud Message is required -->
 	<string name="mx_activate_error_malformed_info">Ваши личные данные повреждены. Необходимо повторить активацию облачных сообщений.</string>
-	<!-- Original string: Server refused to activate, failed to activate Cloud Message -->
 	<string name="mx_activate_error_server">Сервер отклонил запрос активации</string>
-	<!-- Original string: SIM card changed, reactivation of Cloud Message is required -->
 	<string name="mx_activate_error_sim_change">SIM-карта изменилась, требуется повторная активация облачных сообщений</string>
-	<!-- Original string: Failed to activate Cloud Message -->
 	<string name="mx_activate_error_title">Ошибка активации облачных сообщений</string>
-	<!-- Original string: Your personal info interrupted. An SMS is required to reactivate Cloud Message. Activate it now? -->
 	<string name="mx_activate_hint_malformed_info">Ваши личные данные повреждены. Требуется SMS для повторной активации облачных сообщений. Активировать?</string>
-	<!-- Original string: Server refused to activate, failed to activate Cloud Message? An SMS is required to reactivate Cloud Message. Activate it now? -->
 	<string name="mx_activate_hint_server">Сервер отклонил запрос активации. Требуется SMS для повторной активации облачных сообщений. Активировать?</string>
-	<!-- Original string: SIM card changed. An SMS is required to reactivate Cloud Message. Activate it now? -->
 	<string name="mx_activate_hint_sim_change">SIM карта изменилась. Требуется SMS для повторной активации облачных сообщений. Активировать?</string>
-	<!-- Original string: Send as MMS -->
 	<string name="mx_auto_resend_mms">Отправить как MMS</string>
-	<!-- Original string: Send as MMS when Cloud Message is unavailable. Carrier messaging rates may apply -->
 	<string name="mx_auto_resend_mms_summary">Отправлять сообщения как MMS, когда облачные сообщения не доступны</string>
-	<!-- Original string: Send as SMS -->
 	<string name="mx_auto_resend_sms">Отправить как SMS</string>
-	<!-- Original string: Send as SMS when Cloud Message is unavailable. Carrier messaging rates may apply -->
 	<string name="mx_auto_resend_sms_summary">Отправлять сообщения как SMS, когда облачные сообщения не доступны</string>
-	<!-- Original string: Enable -->
 	<string name="mx_btn_enable">Включить</string>
-	<!-- Original string: Since enabled, you have sent %1$d cloud text messages and %2$d cloud multimedia messages -->
 	<string name="mx_count_dspt">Облачных сообщений отправлено: \nSMS (%1$d), MMS (%2$s)</string>
-	<!-- Original string: Current status: Online -->
 	<string name="mx_current_status">Статус: в сети</string>
-	<!-- Original string: Send messages via Cloud Message between MIUI users. Send via carrier if network is unavailable. -->
 	<string name="mx_dspt">Обмениваться облачными сообщениями могут только пользователи MIUI. При отсутствии интернет соединения сообщения будут отправлены с помощью мобильного оператора.</string>
-	<!-- Original string: MIUI cloud messaging -->
 	<string name="mx_enable">Облачные сообщения</string>
-	<!-- Original string: Cloud Message enables you to send messages between MIUI users. To activate, an SMS will be sent. Carrier messaging rates may apply, activate now? If not, you may enable it in Settings later -->
 	<string name="mx_enable_popup_msg">Облачные сообщения позволят Вам обмениваться сообщениями с другими пользователями MIUI. Требуется обычная SMS для активации. Активировать сейчас?</string>
-	<!-- Original string: Cloud Message -->
 	<string name="mx_msg">Облачное сообщение</string>
-	<!-- Original string: Offline -->
 	<string name="mx_offline">Не в сети</string>
-	<!-- Original string: Online -->
 	<string name="mx_online">В сети</string>
-	<!-- Original string: Re-activate Cloud Message -->
 	<string name="mx_reactivate">Повторная активация</string>
-	<!-- Original string: Enable Cloud Messaging. Click enable and send free messages -->
 	<string name="mx_recommend_msg">Включить облачные сообщения. Нажмите кнопку включения и отправляйте бесплатные сообщения</string>
-	<!-- Original string: An SMS will be sent to activate Cloud Message. Normal carrier data rates may apply -->
 	<string name="mx_warning_notice">Будет отправлено SMS для активации облачных сообщений</string>
-	<!-- Original string: Waiting for sync... -->
 	<string name="need_download">Ожидание синхронизации...</string>
-	<!-- Original string: New message -->
 	<string name="new_message">Новое сообщение</string>
-	<!-- Original string: New message arrived -->
 	<string name="new_message_arrived">Получено новое сообщение</string>
-	<!-- Original string: New phrase -->
 	<string name="new_phrase">Добавить шаблон</string>
-	<!-- Original string: Enter new phrase -->
 	<string name="new_phrase_hint">Введите текст</string>
-	<!-- Original string: Nickname -->
 	<string name="nickname_placeholder">Имя</string>
-	<!-- Original string: Cancel -->
 	<string name="no">Отмена</string>
-	<!-- Original string: No conversations. -->
 	<string name="no_conversations">Нет сообщений</string>
-	<!-- Original string: (No subject) -->
 	<string name="no_subject">(Без темы)</string>
-	<!-- Original string: (No subject) -->
 	<string name="no_subject_view">(Без темы)</string>
-	<!-- Original string: At most 13 chars for non-English subject -->
 	<string name="non_english_subject_limit">Предел 13 символов для темы сообщения, написанной не латинницей</string>
-	<!-- Original string: "Don't send" -->
 	<string name="nosend_message">Не отправлено</string>
-	<!-- Original string: "%s messages couldn't be sent" -->
 	<string name="notification_failed_multiple">Не удалось отправить сообщения (%s)</string>
-	<!-- Original string: Messages not sent -->
 	<string name="notification_failed_multiple_title">Сообщения не отправлены</string>
-	<!-- Original string: %s unread messages. -->
 	<string name="notification_multiple">Непрочитанных сообщений: %s</string>
-	<!-- Original string: New messages -->
 	<string name="notification_multiple_title">Новые сообщения</string>
-	<!-- Original string: Input number to add to Private Contact -->
 	<string name="number_add_hint">Введите номер, чтобы добавить к частным контактам</string>
-	<!-- Original string: The selected phrase will be deleted -->
 	<string name="phrase_confirm_delete_message">Удалить шаблоны</string>
-	<!-- Original string: No Phrase -->
 	<string name="phrase_empty">Нет фразы</string>
-	<!-- Original string: From %1s -->
 	<string name="phrase_from">От %1s</string>
-	<!-- Original string: Phrases -->
 	<string name="phrase_list_title">Шаблоны</string>
-	<!-- Original string: Too many recipients -->
 	<string name="pick_too_many_recipients">Слишком много получателей</string>
-	<!-- Original string: Play -->
 	<string name="play">Воспроизвести</string>
-	<!-- Original string: never -->
 	<string name="prefDefault_vibrateWhen">Никогда</string>
-	<!-- Original string: never -->
 	<string name="prefDefault_vibrate_false">Никогда</string>
-	<!-- Original string: always -->
 	<string name="prefDefault_vibrate_true">Всегда</string>
-	<!-- Original string: Advanced settings -->
 	<string name="pref_advanced_settings_title">Дополнительно</string>
-	<!-- Original string: SMS center number -->
 	<string name="pref_edit_smsc_address">Номер SMS-центра</string>
-	<!-- Original string: Set number of messages to save -->
 	<string name="pref_messages_to_save">Установить количество сообщений в переписке для хранения</string>
-	<!-- Original string: Multimedia (MMS) messages -->
 	<string name="pref_mms_settings_title">Настройки MMS</string>
-	<!-- Original string: Notifications -->
 	<string name="pref_notification_settings_title">Уведомления</string>
-	<!-- Original string: Other -->
 	<string name="pref_other_title">Другие</string>
-	<!-- Original string: Display -->
 	<string name="pref_sms_theme_title">Настройки темы</string>
-	<!-- Original string: Allow receiving and notifying WAP push messages (SI/SL) -->
 	<string name="pref_summary_allow_si_sl_push">Разрешить прием WAP Push сообщений (SI/SL)</string>
-	<!-- Original string: %1$s messages per conversation -->
 	<string name="pref_summary_delete_limit">Сообщений в переписке: %1$s</string>
-	<!-- Original string: Delivered SMS reply back report -->
 	<string name="pref_summary_delivery_reports">Запрашивать отчёт о доставке для всех отправляемых сообщений</string>
-	<!-- Original string: Hide recommend tab for Non-Chinese language -->
 	<string name="pref_summary_hide_festival">Скрыть вкладку \"Фразы\" для языков, отличных от китайского</string>
-	<!-- Original string: Manage messages stored on your SIM card -->
 	<string name="pref_summary_manage_sim_messages">Управление сообщениями на SIM-карте</string>
-	<!-- Original string: Automatically retrieve messages -->
 	<string name="pref_summary_mms_auto_retrieval">Автоматически загружать MMS-сообщения</string>
-	<!-- Original string: Request a read report for each message you send -->
 	<string name="pref_summary_mms_read_reports">Запрашивать отчет о прочтении для всех отправляемых сообщений</string>
-	<!-- Original string: Automatically retrieve messages while roaming -->
 	<string name="pref_summary_mms_retrieval_during_roaming">Автоматически загружать MMS-сообщения в роуминге</string>
-	<!-- Original string: Pop up when new SMS is received -->
 	<string name="pref_summary_new_message_popup">Отображение всплывающих окон, при получении нового сообщения</string>
-	<!-- Original string: No popup notifications when access controlled -->
 	<string name="pref_summary_new_message_popup_when_secure">Всплывающие уведомления скрыты в режиме гостя</string>
-	<!-- Original string: Other app may get MMS broadcast before system mms app get it -->
 	<string name="pref_summary_off_system_mms_priority">Другие приложения для сообщений будут получать сообщение первыми</string>
-	<!-- Original string: System MMS app get priority to handle then abort mms broadcast first -->
 	<string name="pref_summary_on_system_mms_priority">Системное приложение будет получать сообщения первым</string>
-	<!-- Original string: When creating new SMS, display recent contacts -->
 	<string name="pref_summary_show_recent_contacts">Показать список последних контактов при создании нового сообщения</string>
-	<!-- Original string: Light up screen when a new SMS is received -->
 	<string name="pref_summary_wake_up_screen">Включение экрана, при получении нового сообщения</string>
-	<!-- Original string: System -->
 	<string name="pref_system_title">Системные</string>
-	<!-- Original string: Group messages by time -->
 	<string name="pref_time_auto_group_summary">Группировка сообщений по времени</string>
-	<!-- Original string: Group -->
 	<string name="pref_time_auto_group_title">Группировать</string>
-	<!-- Original string: Allow WAP push -->
 	<string name="pref_title_allow_si_sl_push">Разрешить WAP Push</string>
-	<!-- Original string: Delivery reports -->
 	<string name="pref_title_delivery_reports">Отчёт о доставке</string>
-	<!-- Original string: Hide recommend tab -->
 	<string name="pref_title_hide_festival">Скрыть вкладку \"Фразы\"</string>
-	<!-- Original string: Manage SIM card messages -->
 	<string name="pref_title_manage_sim_messages">Сообщения на SIM-карте</string>
-	<!-- Original string: Auto download MMS -->
 	<string name="pref_title_mms_auto_retrieval">Автозагрузка</string>
-	<!-- Original string: Multimedia message limit -->
 	<string name="pref_title_mms_delete">Максимальное количество MMS</string>
-	<!-- Original string: Read reports -->
 	<string name="pref_title_mms_read_reports">Отчёт о прочтении</string>
-	<!-- Original string: Roaming auto-retrieve -->
 	<string name="pref_title_mms_retrieval_during_roaming">Автозагрузка в роуминге</string>
-	<!-- Original string: SMS popup -->
 	<string name="pref_title_new_message_popup">Всплывающие окна</string>
-	<!-- Original string: Ringtone reminder frequency -->
 	<string name="pref_title_ringtone_repeat">Количество напоминаний</string>
-	<!-- Original string: Recent contacts -->
 	<string name="pref_title_show_recent_contacts">Показать недавние контакты</string>
-	<!-- Original string: Text message limit -->
 	<string name="pref_title_sms_delete">Максимальное количество SMS</string>
-	<!-- Original string: System MMS app priority -->
 	<string name="pref_title_system_mms_priority">Приоритет для \"Сообщения\"</string>
-	<!-- Original string: Screen-wake -->
 	<string name="pref_title_wake_up_screen">Включать экран</string>
-	<!-- Original string: Settings -->
 	<string name="preferences_title">Настройки</string>
-	<!-- Original string: Preparing to send... -->
 	<string name="prepare_send">Подготовка к отправке...</string>
-	<!-- Original string: Preview -->
 	<string name="preview">Просмотреть</string>
-	<!-- Original string: Preview -->
 	<string name="preview_slideshow">Предварительный просмотр</string>
-	<!-- Original string: High -->
 	<string name="priority_high">Высокий</string>
-	<!-- Original string: "Priority: " -->
 	<string name="priority_label">"Приоритет: "</string>
-	<!-- Original string: Low -->
 	<string name="priority_low">Низкий</string>
-	<!-- Original string: Normal -->
 	<string name="priority_normal">Обычный</string>
-	<!-- Original string: Cannot send message in guarded mode -->
 	<string name="privacy_mode_hint">Не удается отправить сообщение в режиме защиты</string>
-	<!-- Original string: Private Message -->
 	<string name="private_message">Приватные сообщения</string>
-	<!-- Original string: New private message notification -->
 	<string name="private_new_notification">Уведомление</string>
-	<!-- Original string: Private Protect -->
 	<string name="private_protect">Общие</string>
-	<!-- Original string: Private Setting -->
 	<string name="private_settings">Настройки</string>
-	<!-- Original string: Processing... -->
 	<string name="processing">Обработка...</string>
-	<!-- Original string: Private Contact -->
 	<string name="prvate_contact">Приватные контакты</string>
-	<!-- Original string: Confirm -->
 	<string name="rate_limit_surpassed">Подтвердить</string>
-	<!-- Original string: "Received: " -->
 	<string name="received_label">"Получено: "</string>
-	<!-- Original string: %d -->
 	<string name="recipient_editor_count_format">%d</string>
-	<!-- Original string: "Recipient: " -->
 	<string name="recipient_label">"Получатель: "</string>
-	<!-- Original string: Refresh -->
 	<string name="refresh">Обновить</string>
-	<!-- Original string: Update failed -->
 	<string name="refresh_failed">Обновление не выполнено</string>
-	<!-- Original string: Refreshing… -->
 	<string name="refreshing">Обновление...</string>
-	<!-- Original string: Remove -->
 	<string name="remove">Удалить</string>
-	<!-- Original string: Remove music -->
 	<string name="remove_music">Удалить музыку</string>
-	<!-- Original string: Remove picture -->
 	<string name="remove_picture">Удалить картинку</string>
-	<!-- Original string: Remove slide -->
 	<string name="remove_slide">Удалить слайд</string>
-	<!-- Original string: Remove text -->
 	<string name="remove_text">Удалить текст</string>
-	<!-- Original string: Remove video -->
 	<string name="remove_video">Удалить видео</string>
-	<!-- Original string: Replace -->
 	<string name="replace">Заменить</string>
-	<!-- Original string: Replace picture -->
 	<string name="replace_image">Заменить картинку</string>
-	<!-- Original string: Resend -->
 	<string name="resent_message">Повторить</string>
-	<!-- Original string: This picture is too large to send, even when resized. -->
 	<string name="resize_image_error_information">Изображение слишком велико для отправки, даже после изменения размера</string>
-	<!-- Original string: Save -->
 	<string name="save">Сохранить</string>
-	<!-- Original string: Save as ringtone -->
 	<string name="save_ringtone">Сохранить как мелодию звонка</string>
-	<!-- Original string: Save to SIM card -->
 	<string name="save_to_sim">Сохранить на SIM-карту</string>
-	<!-- Original string: "Saved: " -->
 	<string name="saved_label">"Сохранено: "</string>
-	<!-- Original string: Ringtone saved. -->
 	<string name="saved_ringtone">Рингтон сохранен</string>
-	<!-- Original string: "Couldn't save ringtone." -->
 	<string name="saved_ringtone_fail">Рингтон не сохранен</string>
-	<!-- Original string: Messaging -->
 	<string name="search">SMS/MMS</string>
-	<!-- Original string: No matches. -->
 	<string name="search_empty">Ничего не найдено</string>
-	<!-- Original string: Search messaging -->
 	<string name="search_hint">Поиск сообщений</string>
-	<!-- Original string: Messaging -->
 	<string name="search_label">Сообщения</string>
-	<!-- Original string: Text in your messages -->
 	<string name="search_setting_description">Текст в сообщениях</string>
-	<!-- Original string: Show more -->
 	<string name="search_show_more_results">Больше</string>
-	<!-- Original string: secs -->
 	<string name="secs">с.</string>
-	<!-- Original string: Choose audio -->
 	<string name="select_audio">Выбор аудио</string>
-	<!-- Original string: Text on bottom -->
 	<string name="select_bottom_text">Текст внизу</string>
-	<!-- Original string: Choose a different %1$s. -->
 	<string name="select_different_media">Выберите другой объект (%1$s)</string>
-	<!-- Original string: Choose action -->
 	<string name="select_link_title">Выбор действия</string>
-	<!-- Original string: Select local audio... -->
 	<string name="select_local_audio">Выбор аудио...</string>
-	<!-- Original string: Select local video... -->
 	<string name="select_local_video">Выбор видео...</string>
-	<!-- Original string: Text on top -->
 	<string name="select_top_text">Текст вверху</string>
-	<!-- Original string: Send -->
 	<string name="send">Отправить</string>
-	<!-- Original string: No message body found. Are you sure to send only the signature? -->
 	<string name="send_signature_confirm_dialog_message">Вы не ввели текст сообщения, вы хотите отправить его только с подписью?</string>
-	<!-- Original string: Confirm sending -->
 	<string name="send_signature_confirm_dialog_title">Отправить подтверждение</string>
-	<!-- Original string: To: -->
 	<string name="send_to">Для: %1$s</string>
-	<!-- Original string: Sent %1$s message(s) -->
 	<string name="send_to_count">Успешно отправлено для %1$s</string>
-	<!-- Original string: %1$s/%2$s -->
 	<string name="send_to_index_contact">Отправлено %1$s из %2$s</string>
-	<!-- Original string: "Sent: " -->
 	<string name="sent_label">"Отправлено: "</string>
-	<!-- Original string: Message expired or not available. -->
 	<string name="service_message_not_found">Срок действия сообщения истек или оно не доступно</string>
-	<!-- Original string: "Couldn't send due to network problem." -->
 	<string name="service_network_problem">Не удалось отправить сообщение из-за ошибки сети</string>
-	<!-- Original string: Service not activated on network. -->
 	<string name="service_not_activated">Услуга не активирована в сети</string>
-	<!-- Original string: Set -->
 	<string name="set">Сохранить</string>
-	<!-- Original string: Show all messages -->
 	<string name="show_all_messages">Показать все сообщения</string>
-	<!-- Original string: Copy to phone memory -->
 	<string name="sim_copy_to_phone_memory">Копировать в память телефона</string>
-	<!-- Original string: Delete -->
 	<string name="sim_delete">Удалить</string>
-	<!-- Original string: No messages on SIM card. -->
 	<string name="sim_empty">На SIM-карте нет сообщений</string>
-	<!-- Original string: Delete some messages to make room for more. -->
 	<string name="sim_full_body">Удалите несколько сообщений, чтобы освободить место</string>
-	<!-- Original string: SIM card full -->
 	<string name="sim_full_title">SIM-карта заполнена</string>
-	<!-- Original string: Text messages on SIM card -->
 	<string name="sim_manage_messages_title">Сообщения на SIM-карте</string>
-	<!-- Original string: View -->
 	<string name="sim_view">Просмотр</string>
-	<!-- Original string: Slide %s -->
 	<string name="slide_number">Слайд %s</string>
-	<!-- Original string: Part %1$s/%2$s -->
 	<string name="slide_show_part">Часть %1$s/%2$s</string>
-	<!-- Original string: Slideshow -->
 	<string name="slideshow_activity">Слайд-шоу</string>
-	<!-- Original string: The content is -->
 	<string name="sms_content">Содержание сообщения</string>
-	<!-- Original string: An incoming message was rejected due to full memory. Delete some old messages. -->
 	<string name="sms_full_body">Память переполнена. Чтобы сохранить новые сообщения, удалите несколько старых.</string>
-	<!-- Original string: Text message memory full -->
 	<string name="sms_full_title">Память для текстовых сообщений переполнена</string>
-	<!-- Original string: An incoming message was rejected due to an unknown reason. -->
 	<string name="sms_rejected_body">Входящее сообщение отклонено по неизвестной причине</string>
-	<!-- Original string: Text message rejected -->
 	<string name="sms_rejected_title">Сообщение отклонено</string>
-	<!-- Original string: Unsuccessful -->
 	<string name="status_failed">Сбой</string>
-	<!-- Original string: "Status: " -->
 	<string name="status_label">"Статус: "</string>
-	<!-- Original string: Pending -->
 	<string name="status_pending">Ожидает</string>
-	<!-- Original string: Read -->
 	<string name="status_read">Прочитанные</string>
-	<!-- Original string: Received -->
 	<string name="status_received">Полученные</string>
-	<!-- Original string: Rejected -->
 	<string name="status_rejected">Отклоненные</string>
-	<!-- Original string: Unread -->
 	<string name="status_unread">Непрочитанные</string>
-	<!-- Original string: Pin -->
 	<string name="stick">Закрепить</string>
-	<!-- Original string: Pin current conversation -->
 	<string name="stick_conversation">Закрепить текущую переписку</string>
-	<!-- Original string: Already pinned current conversation -->
 	<string name="sticked_conversation">Текущая переписка уже закреплена</string>
-	<!-- Original string: Storage limits -->
 	<string name="storage_limits_activity">Пределы хранилища</string>
-	<!-- Original string: Limit the number of messages you save per conversation? -->
 	<string name="storage_limits_message">Ограничить число сообщений в переписке?</string>
-	<!-- Original string: Set limits -->
 	<string name="storage_limits_setting">Установить ограничения</string>
-	<!-- Original string: No limits -->
 	<string name="storage_limits_setting_dismiss">Нет ограничений</string>
-	<!-- Original string: Subject -->
 	<string name="subject_hint">Тема</string>
-	<!-- Original string: "Subject: " -->
 	<string name="subject_label">"Тема: "</string>
-	<!-- Original string: The text edited in the popup was saved to clipboard -->
 	<string name="text_in_popup_saved_to_clipboard">Редактируемый текст сохранен в буфер обмена</string>
-	<!-- Original string: Text message -->
 	<string name="text_message">Текстовое сообщение</string>
-	<!-- Original string: %d timed message(s) not sent -->
 	<string name="timed_message_expired_title">%d запланированных сообщений не отправлено</string>
-	<!-- Original string: Want to send them now? -->
 	<string name="timed_message_expired_title_2">Вы хотите отправить их сейчас?</string>
-	<!-- Original string: ... (%d in total) -->
 	<string name="timed_message_in_total">... (всего: %d)</string>
-	<!-- Original string: to -->
 	<string name="timed_message_to">для</string>
-	<!-- Original string: SMS timestamp -->
 	<string name="title_date_type">Дата и время</string>
-	<!-- Original string: Please configure the time of this timed message -->
 	<string name="title_timed_message_dialog">Настройка времени отправки сообщения</string>
-	<!-- Original string: "To: " -->
 	<string name="to_address_label">"Кому: "</string>
-	<!-- Original string: %d in all -->
 	<string name="to_count">Всего: %d</string>
-	<!-- Original string: "To " -->
 	<string name="to_label">"Кому: "</string>
-	<!-- Original string: Will send at %s -->
 	<string name="to_send_wrapper">Сообщение запланировано на: %s</string>
-	<!-- Original string: There is a limit of %1$s attachments. Only the first %2$s will be added. -->
 	<string name="too_many_attachments">Для вложений установлено ограничение: %1$s. Будет добавлено вложений: %2$s.</string>
-	<!-- Original string: Message has too many recipients (%1$s). There is a limit of %2$s recipients. -->
 	<string name="too_many_recipients">Указано слишком много получателей (%1$s). Разрешено не более %2$s.</string>
-	<!-- Original string: "Can't send message right now. Too many unsent multimedia messages." -->
 	<string name="too_many_unsent_mms">Не удалось отправить сообщение. Слишком много неотправленных MMS.</string>
-	<!-- Original string: Try to send -->
 	<string name="try_to_send">Попытаться отправить</string>
-	<!-- Original string: audio -->
 	<string name="type_audio">Аудиозапись</string>
-	<!-- Original string: picture -->
 	<string name="type_picture">Изображение</string>
-	<!-- Original string: Type message -->
 	<string name="type_to_compose_text_enter_to_send">Введите сообщение</string>
-	<!-- Original string: Type message, or leave blank -->
 	<string name="type_to_compose_text_or_leave_blank">Введите сообщение или оставьте поле пустым</string>
-	<!-- Original string: video -->
 	<string name="type_video">Видеозапись</string>
-	<!-- Original string: "Couldn't send this message.\nAttempt made: %s." -->
 	<string name="undelivered_msg_dialog_body">Не удалось отправить сообщение.\nПопыток: %s.</string>
-	<!-- Original string: Undelivered message -->
 	<string name="undelivered_msg_dialog_title">Недоставленное сообщение</string>
-	<!-- Original string: "Couldn't send this message." -->
 	<string name="undelivered_sms_dialog_body">Не удалось отправить сообщение</string>
-	<!-- Original string: Unknown number -->
 	<string name="unknown_num">Неизвестный номер</string>
-	<!-- Original string: Unknown sender -->
 	<string name="unknown_sender">Неизвестный отправитель</string>
-	<!-- Original string: Unpin -->
 	<string name="unstick">Открепить</string>
-	<!-- Original string: Unpin current conversation -->
 	<string name="unstick_conversation">Открепить текущую переписку</string>
-	<!-- Original string: Already unpinned current conversation -->
 	<string name="unsticked_conversation">Текущая переписка уже откреплена</string>
-	<!-- Original string: Unsupported %1$s format. -->
 	<string name="unsupported_media_format">Неподдерживаемый формат (%1$s)</string>
-	<!-- Original string: View -->
 	<string name="view">Просмотр</string>
-	<!-- Original string: View original message -->
 	<string name="view_bookmark">Открыть в переписке</string>
-	<!-- Original string: View details -->
 	<string name="view_message_details">Подробности</string>
-	<!-- Original string: "[WAP Push] " -->
 	<string name="wap_push_title">"[Push-сообщение] "</string>
-	<!-- Original string: OK -->
 	<string name="yes">ОК</string>
 </resources>

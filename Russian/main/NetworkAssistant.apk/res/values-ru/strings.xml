@@ -1,302 +1,153 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--Merged and sorted with KDG BigBlackBox-->
 <resources>
-	<!-- Original string: About -->
 	<string name="about">О программе</string>
-	<!-- Original string: System inquires and adjusts data regularly from operators. Need to set up operator information -->
 	<string name="adjust_traffic_auto_adjust_hint">Система автоматически регулирует запрашивает и передачу данных регулярно от операторов. Вам нужно настроить информацию об операторах</string>
-	<!-- Original string: Auto adjustment is enabled and will auto adjust traffic data regularly -->
 	<string name="adjust_traffic_auto_adjust_open_hint">Авторегуляция включена, система автоматически контролирует объем поторебляемого трафика</string>
-	<!-- Original string: Auto adjustment -->
 	<string name="adjust_traffic_auto_adjust_title">Авторегуляция трафика</string>
-	<!-- Original string: Inquire from operator -->
 	<string name="adjust_traffic_carrier_adjust">Получить от оператора</string>
-	<!-- Original string: adjusting… -->
 	<string name="adjust_traffic_carrier_adjusting">Настройка…</string>
-	<!-- Original string: Mobile operator -->
 	<string name="adjust_traffic_carrier_settings_title">Оператор</string>
-	<!-- Original string: "Haven't been update more than one month" -->
 	<string name="adjust_traffic_carrier_summary_more_onemonth_before">Не обновлялось более месяца</string>
-	<!-- Original string: "Haven't been updated more than one week" -->
 	<string name="adjust_traffic_carrier_summary_more_oneweek_before">Не обновлялось более недели</string>
-	<!-- Original string: One week updated -->
 	<string name="adjust_traffic_carrier_summary_oneweek_before">Обновлено неделю назад</string>
-	<!-- Original string: Three days before updated -->
 	<string name="adjust_traffic_carrier_summary_three_day_before">Обновлено 3 дня назад</string>
-	<!-- Original string: Today %1$02d:%2$02d updated -->
 	<string name="adjust_traffic_carrier_summary_today">Обновлено сегодня в %1$02d:%2$02d</string>
-	<!-- Original string: Yesterday %1$02d:%2$02d updated -->
 	<string name="adjust_traffic_carrier_summary_yesterday">Обновлено вчера в %1$02d:%2$02d</string>
-	<!-- Original string: Input manually -->
 	<string name="adjust_traffic_manual_adjust">Ввести вручную</string>
-	<!-- Original string: Related settings -->
 	<string name="adjust_traffic_relate_settings">Другие настройки трафика</string>
-	<!-- Original string: Update sms template -->
 	<string name="adjust_traffic_sms_template_update">Обновить шаблон SMS</string>
-	<!-- Original string: Adjust traffic data -->
 	<string name="adjust_traffic_title">Регулировка трафика</string>
-	<!-- Original string: Update -->
 	<string name="adjust_traffic_update">Обновить</string>
-	<!-- Original string: Connect to Internet when running in the background -->
 	<string name="app_detail_internet_background">Фоновый режим</string>
-	<!-- Original string: "Foreground：%1$s     Background：%2$s" -->
 	<string name="app_detail_internet_background_traffic">Трафик: %1$s Фоновый трафик: %2$s</string>
-	<!-- Original string: Networking control -->
 	<string name="app_detail_internet_control_category">Управление сетью</string>
-	<!-- Original string: Program details -->
 	<string name="app_detail_title">О программе</string>
-	<!-- Original string: Version: %s -->
 	<string name="app_detail_version">Версия: %s</string>
-	<!-- Original string: Data Usage -->
 	<string name="app_name">Монитор</string>
-	<!-- Original string: " traffic(%s)" -->
 	<string name="app_traffic_detail">" трафик(%s)"</string>
-	<!-- Original string: Failed to apply firewall, please try again. \n(%s) -->
 	<string name="apply_rules_failed">Не удалось включить брандмауэр, попробуйте еще раз. (%s)</string>
-	<!-- Original string: OK -->
 	<string name="apply_rules_failed_known">OK</string>
-	<!-- Original string: Batch networking control -->
 	<string name="batch_connect_control">Управление соединениями</string>
-	<!-- Original string: Cancel -->
 	<string name="cancel_txt">Отмена</string>
-	<!-- Original string: SMS command can not be found -->
 	<string name="cannot_find_sms_cmd">Не удается найти SMS команду</string>
-	<!-- Original string: Service brand -->
 	<string name="carrier_query_number_brand">Бренд</string>
-	<!-- Original string: Operator -->
 	<string name="carrier_query_number_carrier">Оператор</string>
-	<!-- Original string: Attribution -->
 	<string name="carrier_query_number_location">Местоположение</string>
-	<!-- Original string: Set up operators and inquiry number -->
 	<string name="carrier_query_number_title">Настройка оператора и номера поддержки</string>
-	<!-- Original string: Service provider settings -->
 	<string name="carrier_settings_button">Настройки оператора</string>
-	<!-- Original string: Close -->
 	<string name="close_txt">Закрыть</string>
-	<!-- Original string: Control program networking -->
 	<string name="control_app_internet">Использование сети</string>
-	<!-- Original string: Warning value %s -->
 	<string name="current_warning_value">Предупреждать при достижении: %s</string>
-	<!-- Original string: Disconnect the Internet when traffic exceeds the limit -->
 	<string name="daily_limit_dialog_disconnect_hint">Отключать интернет при превышении лимита трафика</string>
-	<!-- Original string: Daily traffic limit(Vacancy or 0 means no limitation) -->
 	<string name="daily_limit_dialog_hint">Ежедневный лимит (Пусто или 0 - без ограничений)</string>
-	<!-- Original string: Remind me and disconnect the Internet when daily traffic exceeds %dM.On -->
 	<string name="daily_limit_result">Предупреждать меня и отключать интернет при превышении ежедневного трафика (%dMB)</string>
-	<!-- Original string: Remind me when daily traffic exceeds %dM.On -->
 	<string name="daily_limit_result_no_disconnect">Напоминать, когда ежедневный трафик превышает %d МБ</string>
-	<!-- Original string: Remind me when daily traffic exceeds limit. Off -->
 	<string name="daily_limit_result_no_limit">Напоминать, когда лимит трафика превышен</string>
-	<!-- Original string: Program details -->
 	<string name="detail_app_button">О приложении</string>
-	<!-- Original string: Adjust -->
 	<string name="dialog_button_adjust">Настройка</string>
-	<!-- Original string: If limiting background data, some programs or services may not be able to run via 2G/3G networking. Are you sure you want to close? -->
 	<string name="disable_background_connect_warning">При отключении фонового режима трафика некоторые приложения и службы не смогут работать через 2G/3G. \nОтключить фоновый режим?</string>
-	<!-- Original string: Background data connection closed -->
 	<string name="disable_background_mobile_connect">Отключить фоновые соединения</string>
-	<!-- Original string: Package available traffic -->
 	<string name="edit_frame_free_traffic_title">Изменить учет трафика</string>
-	<!-- Original string: Starting date -->
 	<string name="edit_frame_month_start_title">Дата начала учета</string>
-	<!-- Original string: Warning Value -->
 	<string name="edit_frame_warning_title">"Порог предупреждения "</string>
-	<!-- Original string: Package settings finished -->
 	<string name="finish_traffic_settings_hint">Настройки сохранены</string>
-	<!-- Original string: Used traffic is %s. Is the data correct?\n You can adjust it. -->
 	<string name="finish_traffic_settings_message">Использовано %s трафика. Данные верны? Если нет, то вы можете изменить настройки.</string>
-	<!-- Original string: Adjust traffic data -->
 	<string name="finish_traffic_settings_title">Настройки трафика</string>
-	<!-- Original string: Program list -->
 	<string name="fire_rule_program_list">Список приложений</string>
-	<!-- Original string: "You haven't open the firewall." -->
 	<string name="fire_wall_is_closed">Брэндмауер не включен</string>
-	<!-- Original string: If you force stop an app, it may misbehave. -->
 	<string name="force_stop_dlg_text">Завершение работы приложения может вызвать ошибки</string>
-	<!-- Original string: Force stop? -->
 	<string name="force_stop_dlg_title">Закрыть приложение?</string>
-	<!-- Original string: OK -->
 	<string name="i_known_button">ОК</string>
-	<!-- Original string: Please input -->
 	<string name="input_hint">Пожалуйста, введите</string>
-	<!-- Original string: Loading… -->
 	<string name="loading_app">Загрузка...</string>
-	<!-- Original string: Input used traffic -->
 	<string name="manual_input_used_traffic_hint">Использовано трафика</string>
-	<!-- Original string: Manually input used traffic -->
 	<string name="manual_input_used_traffic_title">Ввод использованного трафика вручную</string>
-	<!-- Original string: Display system program -->
 	<string name="menu_display_system_app">Показать системные приложения</string>
-	<!-- Original string: Display WLAN traffic -->
 	<string name="menu_display_wifi">Показать Wi-Fi трафик</string>
-	<!-- Original string: Do not display system program -->
 	<string name="menu_hide_system_app">Скрыть системные приложения</string>
-	<!-- Original string: Do not display WLAN traffic -->
 	<string name="menu_hide_wifi">Скрыть Wi-Fi трафик</string>
-	<!-- Original string: Default settings of newly installed programs -->
 	<string name="menu_new_install_app_settings">Настройки для новых приложений</string>
-	<!-- Original string: Refresh -->
 	<string name="menu_refresh">Обновить</string>
-	<!-- Original string: Settings -->
 	<string name="menu_settings">Параметры</string>
-	<!-- Original string: Sort -->
 	<string name="menu_sort">Сортировка</string>
-	<!-- Original string: Sort by total traffic -->
 	<string name="menu_sort_by_all_traffic">По общему трафику</string>
-	<!-- Original string: Sort by disabled App -->
 	<string name="menu_sort_by_disabled">По откл. приложениям</string>
-	<!-- Original string: Sort by 2G/3G traffic -->
 	<string name="menu_sort_by_mobile_traffic">По 2G/3G трафику</string>
-	<!-- Original string: Sort by name -->
 	<string name="menu_sort_by_name">По имени приложений</string>
-	<!-- Original string: Traffic Adjustment -->
 	<string name="menu_traffic_adjust">Регулировка трафика</string>
-	<!-- Original string: Package Settings -->
 	<string name="menu_traffic_settings">Тарифный план</string>
-	<!-- Original string: 2G/3G: %s -->
 	<string name="mobile_traffic">2G/3G: %s</string>
-	<!-- Original string: 2G/3G -->
 	<string name="mobile_type">2G/3G</string>
-	<!-- Original string: Monthly limit settings -->
 	<string name="month_traffic_settings_title">Ежемесячный трафик</string>
-	<!-- Original string: You have not configured your service provider.Configure now? -->
 	<string name="notify_carrier_settings_title">Вы не настроили поставщика услуг связи. Настроить сейчас?</string>
-	<!-- Original string: Notifications and traffic monitoring will be disabled. Exit now? -->
 	<string name="notify_traffic_settings_cancel_hint">Уведомления и контроль трафика будут отключены. Выйти сейчас?</string>
-	<!-- Original string: You have not configured your data plan. Configure now? -->
 	<string name="notify_traffic_settings_title">Вы не настроили ваш тарифный план. Настроить сейчас?</string>
-	<!-- Original string: Manual Adjustment -->
 	<string name="overseas_menu_traffic_adjust">Настроить</string>
-	<!-- Original string: Data Traffic Limit -->
 	<string name="overseas_menu_traffic_settings">Предел трафика</string>
-	<!-- Original string: Your data traffic limit has not been configured. Configure now? -->
 	<string name="overseas_unknown_traffic_hint">Предел трафика не настроен. Настроить сейчас?</string>
-	<!-- Original string: Used -->
 	<string name="plate_traffic_already_used">Использовано</string>
-	<!-- Original string: Exceeded -->
 	<string name="plate_traffic_exceed">Превышено</string>
-	<!-- Original string: Remaining -->
 	<string name="plate_traffic_remain">Осталось</string>
-	<!-- Original string: Technical support provided by WALL-E -->
 	<string name="powered_by">Техническая поддержка: Xiaomi</string>
-	<!-- Original string: Traffic adjustment -->
 	<string name="pref_category_adjust_traffic">Регулировка трафика</string>
-	<!-- Original string: Allow connecting to Network when running in the background -->
 	<string name="pref_connect_settings_enable_backgroung">Фоновые службы</string>
-	<!-- Original string: Allow auto connecting to Network when the program is running in the background -->
 	<string name="pref_connect_settings_enable_backgroung_hint">Разрешить автоматическое подключение к сети приложениям, которые работают в фоновом режиме</string>
-	<!-- Original string: Disconnect the Internet when traffic exceeds -->
 	<string name="pref_connect_settings_exceed_limit">Отключать передачу данных</string>
-	<!-- Original string: Remind me and disconnect the Internet when available traffic is exceeded -->
 	<string name="pref_connect_settings_exceed_limit_hint">Предупреждать меня и отключить передачу данных при превышении ежемесячного лимита трафика</string>
-	<!-- Original string: Show in expanded notification view -->
 	<string name="pref_connect_settings_notify_in_statusbar">Отображать трафик</string>
-	<!-- Original string: Network monitor settings -->
 	<string name="pref_connect_settings_title">Настройки монитора</string>
-	<!-- Original string: Network speed interval -->
 	<string name="pref_network_speed_internal_title">Интервал обновления</string>
-	<!-- Original string: Show network speed in status bar -->
 	<string name="pref_network_speed_settings">Скорость сети</string>
-	<!-- Original string: Status bar -->
 	<string name="pref_network_status_bar">Панель состояния</string>
-	<!-- Original string: Network speed update every %d s -->
 	<string name="pref_netwotk_speed_internal_summary">Обновлять скорость сети каждые %d сек</string>
-	<!-- Original string: Adjust traffic data -->
 	<string name="pref_traffic_adjust_title">Регулировка трафика</string>
-	<!-- Original string: Daily limit settings -->
 	<string name="pref_traffic_daily_limit_settings">Настройки ежедневного лимита</string>
-	<!-- Original string: Package settings -->
 	<string name="pref_traffic_settings">Тарифный план</string>
-	<!-- Original string: Android OS -->
 	<string name="process_kernel_label">Андроид</string>
-	<!-- Original string: Retry -->
 	<string name="retry">Повторить</string>
-	<!-- Original string: Save -->
 	<string name="save">Сохранить</string>
-	<!-- Original string: Operator not set，Auto adjustment off -->
 	<string name="settings_page_adjust_summary_no_carrier">Оператор не настроен, авторегуировка трафика отключена</string>
-	<!-- Original string: Available: %1$s, Warning: %2$s, Charge since %3$d -->
 	<string name="settings_page_traffic_summary">Доступно: %1$s, Предупреждение при: %2$s, Дата начала учета: %3$d</string>
-	<!-- Original string: Package not set, Charge since %d -->
 	<string name="settings_page_traffic_summary_no_settings">Пакет не установлен, Дата последнего пополнения: %d</string>
-	<!-- Original string: SMS matching failed -->
 	<string name="sms_match_fail">ошибка SMS</string>
-	<!-- Original string: SMS template matching failed -->
 	<string name="sms_template_match_fail">Ошибка сопоставления шаблона SMS</string>
-	<!-- Original string: "Updated: " -->
 	<string name="sms_template_updated_label">"Обновлено: "</string>
-	<!-- Original string: Sort -->
 	<string name="sort_dialog_title">Сортировка</string>
-	<!-- Original string: Traffic Ranking -->
 	<string name="sorted_flux">Статистика</string>
-	<!-- Original string: Force stop -->
 	<string name="stop_app_button">Закрыть</string>
-	<!-- Original string: Feedback from operators not received, click to try again -->
 	<string name="sync_fail_notify_detail">Данные оператора не получены, попробуйте еще раз</string>
-	<!-- Original string: Inquiry failed -->
 	<string name="sync_fail_notify_title">Синхронизация не удалась</string>
-	<!-- Original string: Inquiring from operator failed, maybe the server is busy. Please try again later or call customer service %s for help -->
 	<string name="sync_traffic_fail_message">Синхронизация с оператором не удалась, сервер занят. Пожалуйста, попробуйте позже или позвоните в поддержку %s для помощи</string>
-	<!-- Original string: Inquiry failed -->
 	<string name="sync_traffic_fail_title">Синхронизация не удалась</string>
-	<!-- Original string: Inquiring from operators,please wait … -->
 	<string name="sync_traffic_ing">Синхронизация с оператором, подождите...</string>
-	<!-- Original string: "Submit your city, province and ICC's brand and carrier to the following forum: http://www.miui.com/forum-172-1.html.Thanks." -->
 	<string name="sync_traffic_no_cmd_detail">Укажите ваш город, провинцию, ICC и оператора связи здесь: http://www.miui.com/forum-172-1.html. Спасибо.</string>
-	<!-- Original string: No SMS template -->
 	<string name="sync_traffic_no_cmd_title">Нет шаблона</string>
-	<!-- Original string: "Acquired operator's data, traffic successfully adjusted" -->
 	<string name="sync_traffic_success">Информация о пакетах трафика получена, настройки обновлены</string>
-	<!-- Original string: Done -->
 	<string name="text_done">Готово</string>
-	<!-- Original string: Save -->
 	<string name="text_save">Сохранить</string>
-	<!-- Original string: None -->
 	<string name="traffic_none">Нет данных</string>
-	<!-- Original string: Remaining -->
 	<string name="traffic_remain">Осталось</string>
-	<!-- Original string: Package setting error. The free traffic package you set is %1$s, but the text message from the operator shows you have %2$s remaining. -->
 	<string name="traffic_settings_error">Ошибка в настройках ежемесячного разрешенного трафика. Согласно вашему оператору, размер вашего трафика: %1$s и осталось: %2$s.</string>
-	<!-- Original string: Traffic -->
 	<string name="traffic_suffix">Трафик</string>
-	<!-- Original string: Traffic(MB) -->
 	<string name="traffic_suffix_with_uint">Трафик (МБ)</string>
-	<!-- Original string: %s\nPackage -->
 	<string name="traffic_total">%s Всего</string>
-	<!-- Original string: %s\nUsed -->
 	<string name="traffic_used_status">%s Использовано</string>
-	<!-- Original string: unknown -->
 	<string name="unknown">Нет данных</string>
-	<!-- Original string: "If you don't know your traffic package, please send messages or call operators for inquiry" -->
 	<string name="unknown_free_traffic_hint">Если вы не знаете сколько предоставляется трафика на вашем тарфином плане, пожалуйста, обратитесь к оператору мобильной связи для выяснения подробностей.</string>
-	<!-- Original string: "Don't know traffic package?" -->
 	<string name="unknown_free_traffic_text">Я не знаю об ограничениях трафика</string>
-	<!-- Original string: Traffic package instruction -->
 	<string name="unknown_free_traffic_title">Предупреждение</string>
-	<!-- Original string: Not set -->
 	<string name="unknown_location">Неизвестное местоположение</string>
-	<!-- Original string: Unknown traffic package, do you want to set up? -->
 	<string name="unknown_traffic_hint">Лимит трафика не установлен. Хотите установить его прямо сейчас?</string>
-	<!-- Original string: Unknown version -->
 	<string name="unknown_version">Неизвестная версия</string>
-	<!-- Original string: Updated fail. -->
 	<string name="update_fail">Ошибка обновления</string>
-	<!-- Original string: Failed to update, please check the settings of network. -->
 	<string name="update_no_network">Ошибка обновления. Пожалуйста, проверьте настройки сети.</string>
-	<!-- Original string: Updated success. -->
 	<string name="update_success">Успешно обновлено</string>
-	<!-- Original string: updating… -->
 	<string name="updating">Обновление...</string>
-	<!-- Original string: Traffic Usage -->
 	<string name="used_flux">Трафик</string>
-	<!-- Original string: Version: -->
 	<string name="version_label">"Версия: "</string>
-	<!-- Original string: "%1$d%%  %2$dMB" -->
 	<string name="warning_settings_toast">%1$d%% %2$d МБ</string>
-	<!-- Original string: Warning -->
 	<string name="warning_title">Предупреждение</string>
-	<!-- Original string: WLAN: %s -->
 	<string name="wifi_traffic">Wi-Fi: %s</string>
-	<!-- Original string: WLAN -->
 	<string name="wifi_type">Wi-Fi</string>
 </resources>

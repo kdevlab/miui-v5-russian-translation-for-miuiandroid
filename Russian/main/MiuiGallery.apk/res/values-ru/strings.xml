@@ -1,574 +1,289 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--Merged and sorted with KDG BigBlackBox-->
 <resources>
-	<!-- Original string: Import -->
 	<string name="Import">Импорт</string>
-	<!-- Original string: No app is available to complete the action. -->
 	<string name="activity_not_found">Действие не поддерживается ни в одном приложении</string>
-	<!-- Original string: Add account -->
 	<string name="add_account">Добавить аккаунт</string>
-	<!-- Original string: Add to -->
 	<string name="add_to_cloud_album">В облако</string>
-	<!-- Original string: Fail to finish operation. Maybe select too many items. -->
 	<string name="add_to_cloud_fail_too_many_items">Ошибка завершения операции. Возможно выбрано слишком много пунктов.</string>
-	<!-- Original string: add to cloud folder -->
 	<string name="add_to_cloud_folder">В облако</string>
-	<!-- Original string: Albums -->
 	<string name="albums">альбомы</string>
-	<!-- Original string:  |  -->
 	<string name="albumset_page_title_separator"> | </string>
-	<!-- Original string: Notice -->
 	<string name="alert">Внимание</string>
-	<!-- Original string: System will automatically upload photos and screenshots when there is Wi-Fi connection. -->
 	<string name="alert_message_initial_cloud">Система будет автоматически загружать старые и новые фотографии и скриншоты только тогда, когда есть Wi-Fi соединение</string>
-	<!-- Original string: You should open sync first, are you want to open sync immediately？ -->
 	<string name="alert_message_open_sync">Необходима синхронизация. Вы хотите включить ее сейчас?</string>
-	<!-- Original string: Aperture -->
 	<string name="aperture">Диафрагма</string>
-	<!-- Original string: Gallery -->
 	<string name="app_name">Галерея</string>
-	<!-- Original string: No photos. -->
 	<string name="appwidget_empty_text">Нет фотографий</string>
-	<!-- Original string: Photo Gallery -->
 	<string name="appwidget_title">Фотогалерея</string>
-	<!-- Original string: Auto -->
 	<string name="auto">Авто</string>
-	<!-- Original string: Auto Create Favorite Album(s) -->
 	<string name="auto_create_recent_album">Автосоздание избр. альбома</string>
-	<!-- Original string: After turning off this feature, Gallery will clear Favorite(s) tracking data. Favorite(s) set by user will not be affected. Alternatively, you can manually set Favorite(s) by long press an album. -->
 	<string name="auto_create_recent_album_confirm">После отключения этой функции, галерея очистит созданные данные последних альбомов. Последние альбомы, установленные пользователем, не будут затронуты. Кроме того, можно установить это вручную, долгим нажатием на альбом</string>
-	<!-- Original string: Auto create favorite album(s) when album is opened more than ten times -->
 	<string name="auto_create_recent_album_over_ten_times">Создает избранный альбом после захода в него более 10 раз</string>
-	<!-- Original string: Auto-fix -->
 	<string name="autofix">Авто</string>
-	<!-- Original string: Project Device -->
 	<string name="big_screen_alertdialog_title">Проектор</string>
-	<!-- Original string: Exit slide show in TV -->
 	<string name="bigscrren_slide_exit">Выйти из слайд-шоу через TV</string>
-	<!-- Original string: Browsing photos -->
 	<string name="browse_category">Просмотр изображений</string>
-	<!-- Original string: Camera connected. -->
 	<string name="camera_connected">Камера подключена</string>
-	<!-- Original string: Camera disconnected. -->
 	<string name="camera_disconnected">Камера отключена</string>
-	<!-- Original string: Camera Photos -->
 	<string name="camera_folder_display_name">Фотографии с камеры</string>
-	<!-- Original string: Wallpaper -->
 	<string name="camera_setas_wallpaper">Обои</string>
-	<!-- Original string: You can take picture and video by camera. -->
 	<string name="camera_view_none_message">Фотографии будут отображаться здесь</string>
-	<!-- Original string: Cancel -->
 	<string name="cancel">Отмена</string>
-	<!-- Original string: %s album is a system album, which can not be deleted. -->
 	<string name="cant_delete_system_album">%s это системный альбом, его не возможно удалить!</string>
-	<!-- Original string: Cleaning cache... -->
 	<string name="cleaning_cache">Очистка кэша...</string>
-	<!-- Original string: Clear Thumbnail Cache -->
 	<string name="clear_thumbnail_cache">Очистить кэш</string>
-	<!-- Original string: Thumbnail cache will be cleared. Gallery will rescan media files and re-create thumbnails while browsing. This will affect browsing speed. -->
 	<string name="clear_thumbnail_cache_confirm">Кеш миниатюр будет очищен. Галерея пересканирует все файлы и пересоздаст миниатюры снова. Это повлияет на скорость работы приложения.</string>
-	<!-- Original string: Browsing will generate thumbnails. Clear the cache can increase the space. -->
 	<string name="clear_thumbnail_cache_summary">Очистить эскизы изображений, созданных при просмотре изображений в галерее</string>
-	<!-- Original string: No picture or video -->
 	<string name="click_to_enter_camera">Открыть камеру</string>
-	<!-- Original string: Close -->
 	<string name="close">Закрыть</string>
-	<!-- Original string: Cloud album(s) and automatic upload -->
 	<string name="cloud_album_more_settings">Облачные альбомы</string>
-	<!-- Original string: New -->
 	<string name="cloud_album_set_create">Новый</string>
-	<!-- Original string: Cloud albums -->
 	<string name="cloud_albums">Облачные альбомы</string>
-	<!-- Original string: Unsorted -->
 	<string name="cloud_camera_display_name">Не отсортированные</string>
-	<!-- Original string: No pictures -->
 	<string name="cloud_gallery_no_pictures">Нет изображений в MiCloud</string>
-	<!-- Original string: Recycle bin is full, please go to i.xiaomi.com to clean recycle bin. -->
 	<string name="cloud_gallery_recyclebin_full">Корзина в облаке полна. Пожалуйста очистите корзину, зайдя на i.xiaomi.com.</string>
-	<!-- Original string: Cloud album space is full, please delete some needless pictures in cloud album. -->
 	<string name="cloud_gallery_space_full">Ошибка отправки - облачное хранилище заполнено</string>
-	<!-- Original string: Cloud albums -->
 	<string name="cloud_media_set_set">Облачные альбомы</string>
-	<!-- Original string: Screenshots -->
 	<string name="cloud_screenshots_display_name">Скриншоты</string>
-	<!-- Original string: Albums -->
 	<string name="cloud_tab_albums">Альбомы</string>
-	<!-- Original string: All -->
 	<string name="cloud_tab_all">Все</string>
-	<!-- Original string: Locations -->
 	<string name="cloud_tab_locations">Местоположение</string>
-	<!-- Original string: cloud folder already exists -->
 	<string name="cloudfolder_already_exists">Альбом уже существует</string>
-	<!-- Original string: Confirm to delete %s items? -->
 	<string name="confirm_delete">Вы действительно хотите удалить выбранное?</string>
-	<!-- Original string: Confirm to delete %s albums (including %s items)? -->
 	<string name="confirm_delete_album" formatted="false">Вы уверены, что хотите удалить выбранные альбомы (%s), включая %s фото?</string>
-	<!-- Original string: %s picture(s) in %s album(s), confirm to delete? -->
 	<string name="confirm_delete_cloud_all_item_page" formatted="false">%s фотографий в %s альбомах, вы уверены, что хотите удалить?</string>
-	<!-- Original string: Confirm to delete %s? -->
 	<string name="confirm_delete_folders_and_pictures">Вы уверены, что хотите удалить %s?</string>
-	<!-- Original string: %s folders (including %s) -->
 	<string name="confirm_delete_folders_including" formatted="false">%s альбомов, включая %s фото</string>
-	<!-- Original string: 0 item -->
 	<string name="confirm_delete_including_null">0 штук</string>
-	<!-- Original string: %s items -->
 	<string name="confirm_delete_items">%s штук</string>
-	<!-- Original string: %s pictures -->
 	<string name="confirm_delete_pictures">%s фотографий</string>
-	<!-- Original string: %s album is system album, confirm to delete? -->
 	<string name="confirm_delete_system_album">%s - это системный альбом. Вы уверены, что хотите удалить?</string>
-	<!-- Original string: %s videos -->
 	<string name="confirm_delete_videos">%s видео</string>
-	<!-- Original string: Set as Contact Photo -->
 	<string name="contact_photo">Фото контакта</string>
-	<!-- Original string: Contrast -->
 	<string name="contrast">Контраст</string>
-	<!-- Original string: create new cloud folder -->
 	<string name="create_new_cloud_folder">Создать новый облачный альбом</string>
-	<!-- Original string: Crop -->
 	<string name="crop">Кадрировать</string>
-	<!-- Original string: Fail to load image. -->
 	<string name="crop_fail_to_load_image">Ошибка загрузки изображения для обрезки</string>
-	<!-- Original string: Crop picture -->
 	<string name="crop_label">Обрезать фотографию</string>
-	<!-- Original string: Save -->
 	<string name="crop_save_text">Сохранить</string>
-	<!-- Original string: Drag markers to crop photo -->
 	<string name="crop_tooltip">Чтобы кадрировать фото, перетащите маркеры</string>
-	<!-- Original string: Cross-process -->
 	<string name="crossprocess">Кросс-обработка</string>
-	<!-- Original string: Crop -->
 	<string name="cut">Обрезать</string>
-	<!-- Original string: File is corrupted -->
 	<string name="damaged_file">Файл поврежден</string>
-	<!-- Original string: Mobile -->
 	<string name="defalt_local_mobile">Мобильный</string>
-	<!-- Original string: Delete -->
 	<string name="delete">Удалить</string>
-	<!-- Original string: Fail to delete. Maybe select too many items. -->
 	<string name="delete_fail_too_many_items">Ошибка удаления. Возможно выбрано слишком много пунктов.</string>
-	<!-- Original string: Deleting files... -->
 	<string name="deleting_files">Удаление файлов...</string>
-	<!-- Original string: Demo Video -->
 	<string name="demo_video_folder_display_name">Демо-видео</string>
-	<!-- Original string: Description -->
 	<string name="description">Описание</string>
-	<!-- Original string: Details -->
 	<string name="details">Сведения</string>
-	<!-- Original string: %1$d of %2$d items: -->
 	<string name="details_title">%1$d из %2$d</string>
-	<!-- Original string: Documentary -->
 	<string name="documentary">Документальные</string>
-	<!-- Original string: Done -->
 	<string name="done">Готово</string>
-	<!-- Original string: Doodle -->
 	<string name="doodle">Подмалевок</string>
-	<!-- Original string: Draw on photo to doodle -->
 	<string name="doodle_tooltip">Рисуйте на фото пальцем</string>
-	<!-- Original string: Duo-tone -->
 	<string name="duotone">Двойной тон</string>
-	<!-- Original string: Duration -->
 	<string name="duration">Длительность</string>
-	<!-- Original string: Edit -->
 	<string name="edit">Изменить</string>
-	<!-- Original string: Edited -->
 	<string name="edited_photo_bucket_name">Измененные</string>
-	<!-- Original string: O images/videos available. -->
 	<string name="empty_album">Нет фото/видео</string>
-	<!-- Original string: Warning: please do not select an image file. -->
 	<string name="error_should_not_select_image">Внимание: пожалуйста, не выбирайте файл изображения</string>
-	<!-- Original string: Warning: please do not select a video file. -->
 	<string name="error_should_not_select_video">Внимание: пожалуйста, не выбирайте видео файл</string>
-	<!-- Original string: Exposure time -->
 	<string name="exposure_time">Выдержка</string>
-	<!-- Original string: SD card -->
 	<string name="external_sd_card">SD-карта</string>
-	<!-- Original string: USB device -->
 	<string name="external_usb_device">USB-устройство</string>
-	<!-- Original string: Face Glow -->
 	<string name="facelift">Сияние</string>
-	<!-- Original string: Face Tan -->
 	<string name="facetan">Загар</string>
-	<!-- Original string: App quits because it fails to open Gallery database; maybe disk is full. -->
 	<string name="fail_init_gallery_db_helper">Ошибка открытия базы данных галереи. Диск полон.</string>
-	<!-- Original string: File size -->
 	<string name="file_size">Размер файла</string>
-	<!-- Original string: Fill Light -->
 	<string name="filllight">Осветление</string>
-	<!-- Original string: Fisheye -->
 	<string name="fisheye">Рыбий глаз</string>
-	<!-- Original string: Flash -->
 	<string name="flash">Вспышка</string>
-	<!-- Original string: No flash -->
 	<string name="flash_off">Без вспышки</string>
-	<!-- Original string: Flash fired -->
 	<string name="flash_on">Со вспышкой</string>
-	<!-- Original string: Flip -->
 	<string name="flip">Отразить</string>
-	<!-- Original string: Drag photo to flip it -->
 	<string name="flip_tooltip">Чтобы отразить фото, перетащите его край</string>
-	<!-- Original string: Focal Length -->
 	<string name="focal_length">Фокус. расст.</string>
-	<!-- Original string: Black -->
 	<string name="frame_black">Черный</string>
-	<!-- Original string: Frame -->
 	<string name="frame_button">Рамка</string>
-	<!-- Original string: Classic -->
 	<string name="frame_classic">Классическая</string>
-	<!-- Original string: Movie -->
 	<string name="frame_movie">Фильм</string>
-	<!-- Original string: Semicircle -->
 	<string name="frame_semicircle">Полукруг</string>
-	<!-- Original string: white -->
 	<string name="frame_white">Белый</string>
-	<!-- Original string: Cloud albums -->
 	<string name="gallery_cloud_provider_name">Галерея</string>
-	<!-- Original string: Settings -->
 	<string name="global_setting">Настройки</string>
-	<!-- Original string: Film Grain -->
 	<string name="grain">Зернистость</string>
-	<!-- Original string: B&amp;W -->
 	<string name="grayscale">Ч/Б</string>
-	<!-- Original string: Group by -->
 	<string name="group_by">Сгруппировать</string>
-	<!-- Original string: By album -->
 	<string name="group_by_album">По альбомам</string>
-	<!-- Original string: By people -->
 	<string name="group_by_faces">По именам</string>
-	<!-- Original string: By location -->
 	<string name="group_by_location">По месту съемки</string>
-	<!-- Original string: By tags -->
 	<string name="group_by_tags">По тегам</string>
-	<!-- Original string: By time -->
 	<string name="group_by_time">По времени создания</string>
-	<!-- Original string: Height -->
 	<string name="height">Высота</string>
-	<!-- Original string: Highlights -->
 	<string name="highlight">Блики</string>
-	<!-- Original string: Captured photo(s) -->
 	<string name="home_my_captured_items">фотографии</string>
-	<!-- Original string: %d Photos -->
 	<string name="how_many_pics">Фотографий: %d</string>
-	<!-- Original string: %d Folders -->
 	<string name="how_many_sub_folders">Папок: %d</string>
-	<!-- Original string: %d Videos -->
 	<string name="how_many_videos">Видео: %d</string>
-	<!-- Original string: Import complete -->
 	<string name="import_complete">Импорт завершен</string>
-	<!-- Original string: Import unsuccessful -->
 	<string name="import_fail">Сбой импорта</string>
-	<!-- Original string: Start to use -->
 	<string name="initial_cloud_button_text">Начать использование</string>
-	<!-- Original string: Any time and any place · Organize and view your photos -->
 	<string name="initial_cloud_text">Организовывайте и просматривайте свои фотографии</string>
-	<!-- Original string: new cloud folder name -->
 	<string name="input_cloudfolder_name">Название облачного альбома</string>
-	<!-- Original string: Internal Camera Photos -->
 	<string name="internal_camera_folder_display_name">Фото в памяти телефона</string>
-	<!-- Original string: Internal Screenshots -->
 	<string name="internal_miui_capture_screen_folder_display_name">Скриншоты в памяти телефона</string>
-	<!-- Original string: Internal Storage -->
 	<string name="internal_sd_card">Внутренняя SD-карта</string>
-	<!-- Original string: ISO -->
 	<string name="iso">ISO</string>
-	<!-- Original string: Loading… -->
 	<string name="loading">Идет загрузка…</string>
-	<!-- Original string: Photo cannot be loaded -->
 	<string name="loading_failure">Не удалось загрузить фото</string>
-	<!-- Original string: Downloading thumbnail... -->
 	<string name="loading_thumbnail">Загрузка эскизов</string>
-	<!-- Original string: Local images -->
 	<string name="local_albums">Локальные альбомы</string>
-	<!-- Original string: Location -->
 	<string name="location">Место съемки</string>
-	<!-- Original string: Locations -->
 	<string name="locations">Места</string>
-	<!-- Original string: Lomo -->
 	<string name="lomoish">Ломо</string>
-	<!-- Original string: Maker -->
 	<string name="maker">Устройство</string>
-	<!-- Original string: Manual -->
 	<string name="manual">Вручную</string>
-	<!-- Original string: Sort -->
 	<string name="menu_item_sort">Сортировка</string>
-	<!-- Original string: Date Ascending -->
 	<string name="menu_item_sort_date_asc">По дате (по убыванию)</string>
-	<!-- Original string: Date Descending -->
 	<string name="menu_item_sort_date_desc">По дате (по возрастанию)</string>
-	<!-- Original string: By Name (A-Z) -->
 	<string name="menu_item_sort_name_asc">По имени (по убыванию)</string>
-	<!-- Original string: By Name (Z-A) -->
 	<string name="menu_item_sort_name_desc">По имени (по возрастанию)</string>
-	<!-- Original string: Size Ascending -->
 	<string name="menu_item_sort_size_asc">По размеру (по убыванию)</string>
-	<!-- Original string: Size Descending -->
 	<string name="menu_item_sort_size_desc">По размеру (по возрастанию)</string>
-	<!-- Original string: Frequency Ascending -->
 	<string name="menu_item_sort_visit_asc">По частоте (по убыванию)</string>
-	<!-- Original string: Frequency Descending -->
 	<string name="menu_item_sort_visit_desc">По частоте (по возрастанию)</string>
-	<!-- Original string: Access is denied. Cannot delete file or folder: %s -->
 	<string name="message_no_delete_access">Отказано в доступе. Невозможно удалить файл или папку: %s.</string>
-	<!-- Original string: MiTalk -->
 	<string name="miliao_folder_display_name">MiTalk</string>
-	<!-- Original string: MiTalk Painting -->
 	<string name="miliao_painting_folder_display_name">Рисунок MiTalk</string>
-	<!-- Original string: MiTalk Saved -->
 	<string name="miliao_saved_folder_display_name">Сохраненные MiTalk</string>
-	<!-- Original string: MIME type -->
 	<string name="mimetype">Тип MIME</string>
-	<!-- Original string: MiShop Saved -->
 	<string name="mishop_saved_folder_display_name">MiShop</string>
-	<!-- Original string: Screenshots -->
 	<string name="miui_capture_screen_folder_display_name">Скриншоты</string>
-	<!-- Original string: Model -->
 	<string name="model">Модель</string>
-	<!-- Original string: More -->
 	<string name="more">Еще</string>
-	<!-- Original string: Move to -->
 	<string name="move_to_cloud_album">Переместить</string>
-	<!-- Original string: Touch a face to begin. -->
 	<string name="multiface_crop_help">Нажмите на лицо, чтобы начать</string>
-	<!-- Original string: Select an Image -->
 	<string name="must_pick_file">Выберите изображение</string>
-	<!-- Original string: Negative -->
 	<string name="negative">Негатив</string>
-	<!-- Original string: No -->
 	<string name="no">Нет</string>
-	<!-- Original string: No albums available. -->
 	<string name="no_albums_alert">Нет доступных альбомов</string>
-	<!-- Original string: "Some locations couldn't be identified due to network problems." -->
 	<string name="no_connectivity">Не удалось найти все места из-за проблем с подключением</string>
-	<!-- Original string: No location -->
 	<string name="no_location">Место не указано</string>
-	<!-- Original string: No map application -->
 	<string name="no_map_app">Нет приложений с картами</string>
-	<!-- Original string: No network connected -->
 	<string name="no_network_connected">Нет подключения к сети</string>
-	<!-- Original string: Cloud Album(s) is temporarily unavailable. Please wait for storage to be ready and try again. -->
 	<string name="no_storage_disable_cloud_albums">Облачные альбомы запрещены, повторите когда хранилище будет доступно</string>
-	<!-- Original string: "Couldn't find item." -->
 	<string name="no_such_item">Элемент не найден</string>
-	<!-- Original string: No thumbnail -->
 	<string name="no_thumbnail">Нет уменьшенного изображения</string>
-	<!-- Original string: No pictures in Gallery -->
 	<string name="none_picture">Нет фотографий в Галерее</string>
-	<!-- Original string: Undo Auto Create Favorite Album(s) -->
 	<string name="not_auto_create_recent_album">Не создавать автоматически последние альбомы</string>
-	<!-- Original string: Do not show hidden album(s) -->
 	<string name="not_show_hidden_albums">Не показывать скрытые альбомы</string>
-	<!-- Original string: Open -->
 	<string name="open">Открыть</string>
-	<!-- Original string: Failed to load image! -->
 	<string name="open_single_image_failure">Ошибка загрузки изображения!</string>
-	<!-- Original string: Please open sync -->
 	<string name="open_sync_title">Пожалуйста, включите синхронизацию</string>
-	<!-- Original string: Refresh -->
 	<string name="operation_refresh">Обновить</string>
-	<!-- Original string: Rename -->
 	<string name="operation_rename">Переименовать</string>
-	<!-- Original string: Orientation -->
 	<string name="orientation">Ориентация</string>
-	<!-- Original string: Other Settings -->
 	<string name="other_category">Другие настройки</string>
-	<!-- Original string: Path -->
 	<string name="path">Путь к файлу</string>
-	<!-- Original string: People -->
 	<string name="people">Люди</string>
-	<!-- Original string: Save -->
 	<string name="photo_page_save_image">Сохранить</string>
-	<!-- Original string: Failed to save the photo. -->
 	<string name="photo_page_save_uri_image_fail">Не удалось сохранить фотографию</string>
-	<!-- Original string: The photo has been saved to camera photos directory. -->
 	<string name="photo_page_save_uri_image_ok">Изображение сохранено в директорию фотокамеры</string>
-	<!-- Original string: Photo saved to %s -->
 	<string name="photo_saved">Фотография сохранена в альбоме \"%s\"</string>
-	<!-- Original string: Mi Photo Studio -->
 	<string name="photoeditor_name">Фотостудия</string>
-	<!-- Original string: Photo(s) -->
 	<string name="photos">фото</string>
-	<!-- Original string: Posterize -->
 	<string name="posterize">Постеризация</string>
-	<!-- Original string: Projection -->
 	<string name="projection">Проекция</string>
-	<!-- Original string: Red Eye -->
 	<string name="redeye">Красные глаза</string>
-	<!-- Original string: Tap to remove red eyes -->
 	<string name="redeye_tooltip">Нажмите для устранения эффекта красных глаз</string>
-	<!-- Original string: Unhide Album -->
 	<string name="remove_hidden_album">Отменить скрытие</string>
-	<!-- Original string: Remove from Favorite Albums -->
 	<string name="remove_recent_album">Удалить из последних альбомов</string>
-	<!-- Original string: Renaming failed -->
 	<string name="rename_failed">Не удалось переименовать</string>
-	<!-- Original string: Unable to rename, name already exists. -->
 	<string name="rename_failed_duplicated_name">Имя уже существует</string>
-	<!-- Original string: Rotate -->
 	<string name="rotate">Поворот</string>
-	<!-- Original string: Drag photo to rotate it -->
 	<string name="rotate_tooltip">Чтобы повернуть фото, перетащите его край</string>
-	<!-- Original string: Saturation -->
 	<string name="saturation">Насыщенность</string>
-	<!-- Original string: SAVE -->
 	<string name="save">Готово</string>
-	<!-- Original string: "Couldn't save cropped image." -->
 	<string name="save_error">Изображение не сохранено</string>
-	<!-- Original string: Save edited photo? -->
 	<string name="save_photo">Сохранить изменения?</string>
-	<!-- Original string: Photo cannot be saved -->
 	<string name="saving_failure">Не удалось сохранить фото</string>
-	<!-- Original string: Saving picture… -->
 	<string name="saving_image">Сохранение картинки...</string>
-	<!-- Original string: Storage device unmounted or unavailable -->
 	<string name="sd_not_available">SD-карта размонтирована или недоступна</string>
-	<!-- Original string: seconds -->
 	<string name="seconds">секунд</string>
-	<!-- Original string: Edit mode -->
 	<string name="select_album">Выбрать альбомы</string>
-	<!-- Original string: Select all -->
 	<string name="select_all">Выбрать все</string>
-	<!-- Original string: Select photo -->
 	<string name="select_image">Выбрать фото</string>
-	<!-- Original string: Edit mode -->
 	<string name="select_item">Выбрать файлы</string>
-	<!-- Original string: Select video -->
 	<string name="select_video">Выбрать видео</string>
-	<!-- Original string: Send -->
 	<string name="send">Отправить</string>
-	<!-- Original string: Send (%s) -->
 	<string name="send_multiple_files_hint_format">Отправить несколько файлов (%s)</string>
-	<!-- Original string: This item can not be added to cloud albums -->
 	<string name="send_to_cloud_failed_message">Этот пункт не может быть добавлен в облачные альбомы</string>
-	<!-- Original string: Sepia -->
 	<string name="sepia">Сепия</string>
-	<!-- Original string: Hidden Album -->
 	<string name="set_hidden_album">Скрыть альбомы</string>
-	<!-- Original string: Set picture as -->
 	<string name="set_image">Применить</string>
-	<!-- Original string: All albums -->
 	<string name="set_label_all_albums">Все альбомы</string>
-	<!-- Original string: Local albums -->
 	<string name="set_label_local_albums">Офлайн-альбомы</string>
-	<!-- Original string: MTP devices -->
 	<string name="set_label_mtp_devices">MTP-устройства</string>
-	<!-- Original string: Setting as Wallpaper... -->
 	<string name="set_lock_and_wallpaper">Установка обоев...</string>
-	<!-- Original string: Set as Wallpaper -->
 	<string name="set_lock_or_wallpaper">Как фон</string>
-	<!-- Original string: Setting as Lock Screen Wallpaper... -->
 	<string name="set_lockscreen">Экран блокировки</string>
-	<!-- Original string: Set as Favorite Album -->
 	<string name="set_recent_album">Сделать новый альбом</string>
-	<!-- Original string: Setting as Home Screen Wallpaper... -->
 	<string name="set_wallpaper">Рабочий стол</string>
-	<!-- Original string: Settings -->
 	<string name="settings">Настройки</string>
-	<!-- Original string: Login i.xiaomi.com to see your cloud album(s) anytime -->
 	<string name="settings_i_xiaomi_com">Войдите на сайт i.xiaomi.com, чтобы просмотреть ваши синхронизированные изображения на компьютере</string>
-	<!-- Original string: Shadows -->
 	<string name="shadow">Затенение</string>
-	<!-- Original string: Sharpen -->
 	<string name="sharpen">Резкость</string>
-	<!-- Original string: Images and videos -->
 	<string name="show_all">Изображения и видео</string>
-	<!-- Original string: Show Hidden Album(s) -->
 	<string name="show_hidden_album">Показать скрытые альбомы</string>
-	<!-- Original string: Show hidden album(s) -->
 	<string name="show_hidden_albums">Показать скрытые альбомы</string>
-	<!-- Original string: Images only -->
 	<string name="show_images_only">Только изображения</string>
-	<!-- Original string: Show on map -->
 	<string name="show_on_map">Показать на карте</string>
-	<!-- Original string: Videos only -->
 	<string name="show_videos_only">Только видео</string>
-	<!-- Original string: %1$s or above -->
 	<string name="size_above">%1$s или более</string>
-	<!-- Original string: %1$s or below -->
 	<string name="size_below">%1$s или менее</string>
-	<!-- Original string: %1$s to %2$s -->
 	<string name="size_between">между %1$s и %2$s</string>
-	<!-- Original string: Slideshow -->
 	<string name="slideshow">Слайд-шоу</string>
-	<!-- Original string: Slideshow -->
 	<string name="slideshow_category">Слайд-шоу</string>
-	<!-- Original string: Slideshow -->
 	<string name="slideshow_dream_name">Слайд-шоу</string>
-	<!-- Original string: Slideshow time interval -->
 	<string name="slideshow_interval">Интервал слайд-шоу</string>
-	<!-- Original string: Slideshow time interval must be greater than 0 seconds -->
 	<string name="slideshow_interval_dialog_title">Интервал слайд-шоу (в секундах)</string>
-	<!-- Original string: Invalid time Interval Setting, value must be between 1~3600 seconds. Will resume default time interval. -->
 	<string name="slideshow_interval_invalid">Неверная настройка интервала времени, который должен быть от 1 до 3600. Возобновится интервал времени по умолчанию.</string>
-	<!-- Original string: Repeat -->
 	<string name="slideshow_repeat_mode">Повторять</string>
-	<!-- Original string: All storage devices -->
 	<string name="storage_all_volumes">Все накопители</string>
-	<!-- Original string: "Storage doesn't have enough space." -->
 	<string name="storage_no_space">Не хватает памяти</string>
-	<!-- Original string: Straighten -->
 	<string name="straighten">Выравнивание</string>
-	<!-- Original string: Drag photo to straighten it -->
 	<string name="straighten_tooltip">Чтобы выровнять фото, перетащите его</string>
-	<!-- Original string: Sync Album -->
 	<string name="sync_album">Синхр. альбом</string>
-	<!-- Original string: Failed to download the photos in this album. Please retry later. -->
 	<string name="sync_album_error">Не удалось загрузить фотографии. Повторите попытку позже.</string>
-	<!-- Original string: Failed to download the list of albums. Please retry later. -->
 	<string name="sync_album_set_error">Не удалось загрузить альбомы. Повторите попытку позже.</string>
-	<!-- Original string: Upload your photos and screenshots in cloud albums -->
 	<string name="sync_album_summary">Синхронизировать фотографии и скриншоты с MiCloud</string>
-	<!-- Original string: Sync history images only when charging -->
 	<string name="sync_history_power_on">Синхр. во время зарядки</string>
-	<!-- Original string: Only upload in Wi-Fi -->
 	<string name="sync_only_in_wifi">Только по Wi-Fi</string>
-	<!-- Original string: Recommended to enable, otherwise it will consume network traffic. -->
 	<string name="sync_only_in_wifi_summary">Рекомендуется включить, иначе возможно чрезмерное потребление мобильного трафика</string>
-	<!-- Original string: Set All -->
 	<string name="tab_all_text">На все</string>
-	<!-- Original string: Lock Screen Wallpaper -->
 	<string name="tab_lockscreen_text">Экран блокировки</string>
-	<!-- Original string: Home Screen Wallpaper -->
 	<string name="tab_wallpaper_text">Рабочий стол</string>
-	<!-- Original string: Tags -->
 	<string name="tags">Теги</string>
-	<!-- Original string: Hue -->
 	<string name="temperature">Тепло</string>
-	<!-- Original string: Time -->
 	<string name="time">Время</string>
-	<!-- Original string: Times -->
 	<string name="times">Даты</string>
-	<!-- Original string: Tint -->
 	<string name="tint">Оттенок</string>
-	<!-- Original string: Title -->
 	<string name="title">Название</string>
-	<!-- Original string: Rotate Left -->
 	<string name="turn_left">Повернуть</string>
-	<!-- Original string: Rotate Right -->
 	<string name="turn_right">Повернуть</string>
-	<!-- Original string: mm -->
 	<string name="unit_mm">мм</string>
-	<!-- Original string: Untagged -->
 	<string name="untagged">Без тегов</string>
-	<!-- Original string: "Can't play video." -->
 	<string name="video_err">Не удалось воспроизвести видео</string>
-	<!-- Original string: Vignette -->
 	<string name="vignette">Виньетка</string>
-	<!-- Original string: Home Screen Wallpaper -->
 	<string name="wallpaper">Рабочий стол</string>
-	<!-- Original string: Warning -->
 	<string name="warn">Внимание</string>
-	<!-- Original string: White balance -->
 	<string name="white_balance">Баланс белого</string>
-	<!-- Original string: Choose images -->
 	<string name="widget_type">Выбор изображений</string>
-	<!-- Original string: Choose an album -->
 	<string name="widget_type_album">Выбрать альбом</string>
-	<!-- Original string: Choose an image -->
 	<string name="widget_type_photo">Выберите изображение</string>
-	<!-- Original string: Shuffle all images -->
 	<string name="widget_type_shuffle">Перемешать все изображения</string>
-	<!-- Original string: Width -->
 	<string name="width">Ширина</string>
-	<!-- Original string: Yes -->
 	<string name="yes">Да</string>
 </resources>

@@ -1,276 +1,140 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--Merged and sorted with KDG BigBlackBox-->
 <resources>
-	<!-- Original string: Add alarm -->
 	<string name="add_alarm">Добавить будильник</string>
-	<!-- Original string: Regular ringtone -->
 	<string name="alarm_alert">Мелодия</string>
-	<!-- Original string: Alarm silenced after %d minutes. -->
 	<string name="alarm_alert_alert_silenced">Будильник выключен %d мин. назад</string>
-	<!-- Original string: Dismiss -->
 	<string name="alarm_alert_dismiss_text">Выключить</string>
-	<!-- Original string: Snoozing for %d minutes. -->
 	<string name="alarm_alert_snooze_set">Повтор сигнала через %d мин.</string>
-	<!-- Original string: Snooze -->
 	<string name="alarm_alert_snooze_text">Отложить</string>
-	<!-- Original string: Alarm ascending to the selected alarm volume. -->
 	<string name="alarm_ascending_mode_summary">Нарастание громкости будильника до установленной</string>
-	<!-- Original string: Alarm ascending -->
 	<string name="alarm_ascending_mode_title">Нарастание громкости</string>
-	<!-- Original string: Alarms -->
 	<string name="alarm_button_description">Будильник</string>
-	<!-- Original string: Disabled -->
 	<string name="alarm_disabled">Выключен</string>
-	<!-- Original string: Alarm in silent mode -->
 	<string name="alarm_in_silent_mode_title">В режиме \"Без звука\"</string>
-	<!-- Original string: Sound playback service for alarms set in clock. -->
 	<string name="alarm_klaxon_service_desc">Служба воспроизведения сигналов в Часах</string>
-	<!-- Original string: Input the alarm label -->
 	<string name="alarm_label_hint">Введите описание будильника</string>
-	<!-- Original string: Alarms -->
 	<string name="alarm_list_title">Будильник</string>
-	<!-- Original string: %s snooze -->
 	<string name="alarm_notify_snooze_label">Будильник отложен до %s</string>
-	<!-- Original string: Click to cancel %s -->
 	<string name="alarm_notify_snooze_text">Будильник отложен. Нажмите, чтобы выключить.</string>
-	<!-- Original string: Snooze or dismiss alarm. -->
 	<string name="alarm_notify_text">Отложить/выключить будильник</string>
-	<!-- Original string: Repeat -->
 	<string name="alarm_repeat">Дни недели</string>
-	<!-- Original string: Alarm Screen and Ringtone -->
 	<string name="alarm_screen">Тема будильника</string>
-	<!-- Original string: Alarm settings -->
 	<string name="alarm_settings">Дополнительные</string>
-	<!-- Original string: Vibrate -->
 	<string name="alarm_vibrate">Вибрация</string>
-	<!-- Original string: Set alarms and timers volume -->
 	<string name="alarm_volume_summary">Настройка громкости будильника</string>
-	<!-- Original string: Alarm volume -->
 	<string name="alarm_volume_title">Громкость</string>
-	<!-- Original string: No alarms -->
 	<string name="alarmclock_empty_text">Нет будильников</string>
-	<!-- Original string: Ringtone -->
 	<string name="alert">Мелодия</string>
-	<!-- Original string: Analog clock -->
 	<string name="analog_gadget">Часы</string>
-	<!-- Original string: Clock -->
 	<string name="app_label">Часы</string>
-	<!-- Original string: Off -->
 	<string name="auto_silence_never">Выкл.</string>
-	<!-- Original string: Alarms will silence after %d minutes -->
 	<string name="auto_silence_summary">Автоматическое выключение будильника через %d мин.</string>
-	<!-- Original string: Auto-silence -->
 	<string name="auto_silence_title">Авто-отключение</string>
-	<!-- Original string: Cancel -->
 	<string name="cancel">Стоп</string>
-	<!-- Original string: Choose a clock -->
 	<string name="clock_instructions">Выберите часы</string>
-	<!-- Original string: Close alarm -->
 	<string name="close_alarm">Отключить будильник</string>
-	<!-- Original string: Common settings -->
 	<string name="common_settings">Общие</string>
-	<!-- Original string: Set alarm -->
 	<string name="control_set_alarm">Установить будильник</string>
-	<!-- Original string: Alarm set: %s -->
 	<string name="control_set_alarm_with_existing">Будильник установлен на %s</string>
-	<!-- Original string: 1 day -->
 	<string name="day">1 день</string>
-	<!-- Original string: ". " -->
 	<string name="day_concat">", "</string>
-	<!-- Original string: %s days -->
 	<string name="days">%s д.</string>
-	<!-- Original string: Set the default ringtone -->
 	<string name="default_alarm_alert">Мелодия и тема</string>
-	<!-- Original string: The default ringtone -->
 	<string name="default_alarm_title">Стандартная мелодия</string>
-	<!-- Original string: Alarm -->
 	<string name="default_label">Будильник</string>
-	<!-- Original string: Set default ringtone -->
 	<string name="default_ringtone_setting_title">Мелодия и тема</string>
-	<!-- Original string: Are you sure you want to delete the selected timezone(s)? -->
 	<string name="delelte_selected_timezone">Вы действительно хотите удалить выбранный часовой пояс?</string>
-	<!-- Original string: Delete -->
 	<string name="delete">Удалить</string>
-	<!-- Original string: Delete alarm -->
 	<string name="delete_alarm">Удалить будильник</string>
-	<!-- Original string: Delete this alarm? -->
 	<string name="delete_alarm_confirm">Удалить будильник?</string>
-	<!-- Original string: Delete timezone -->
 	<string name="delete_timezone_title">Удалить часовой пояс</string>
-	<!-- Original string: Clock Display -->
 	<string name="desk_clock_button_description">Вид часов</string>
-	<!-- Original string: Do you want to discard your changes? -->
 	<string name="dialog_confirm_abort">Отменить изменения?</string>
-	<!-- Original string: Turn alarm off -->
 	<string name="disable_alarm">Выключить будильник</string>
-	<!-- Original string: Done -->
 	<string name="done">Готово</string>
-	<!-- Original string: Edit alarm -->
 	<string name="edit_alarm">Изменить будильник</string>
-	<!-- Original string: %d hours -->
 	<string name="elapsed_hour">%d ч.</string>
-	<!-- Original string: (+%s) -->
 	<string name="elapsed_time_format">(+%s)</string>
-	<!-- Original string: Turn alarm on -->
 	<string name="enable_alarm">Включить будильник</string>
-	<!-- Original string: Everyday -->
 	<string name="every_day">каждый день</string>
-	<!-- Original string: EEEE, MMMM d -->
 	<string name="full_wday_month_day_no_year">EEEE, d MMMM</string>
-	<!-- Original string: Gallery -->
 	<string name="gallery_button_description">Галерея</string>
-	<!-- Original string: Hide clock -->
 	<string name="hide_clock">Спрятать часы</string>
-	<!-- Original string: Workday data is already the newest -->
 	<string name="holiday_data_already_newest">Новая база уже используется</string>
-	<!-- Original string: No network, please try again later -->
 	<string name="holiday_data_no_network">Нет сети, повторите попытку позже</string>
-	<!-- Original string: Check for update errors and please try again later. -->
 	<string name="holiday_data_update_failed">Ошибка обновления, попробуйте еще раз позже</string>
-	<!-- Original string: Check for completed update -->
 	<string name="holiday_data_update_succeed">Проверка обновлений завершена</string>
-	<!-- Original string: Updating... -->
 	<string name="holiday_data_updating">Обновление...</string>
-	<!-- Original string: Work days data update (expired) -->
 	<string name="holiday_update_pref_invalidate_title">Обновление рабочих дней (просрочено)</string>
-	<!-- Original string: Click check updates -->
 	<string name="holiday_update_pref_summary">Нажмите для обновления базы</string>
-	<!-- Original string: Work days data update -->
 	<string name="holiday_update_pref_title">Обновление рабочих дней</string>
-	<!-- Original string: Launcher -->
 	<string name="home_button_description">Рабочий стол</string>
-	<!-- Original string: 1 hour -->
 	<string name="hour">1 час</string>
-	<!-- Original string: Hr -->
 	<string name="hour_unit">ч</string>
-	<!-- Original string: %s hours -->
 	<string name="hours">%s ч.</string>
-	<!-- Original string: Keep screen on when timing -->
 	<string name="keep_screen_on">Держать экран включенным</string>
-	<!-- Original string: Set label -->
 	<string name="label">Описание</string>
-	<!-- Original string: Lap -->
 	<string name="lap">Круг</string>
-	<!-- Original string: Lap -->
 	<string name="lap_num">Круг</string>
-	<!-- Original string: Legal Workday -->
 	<string name="legal_workday">Рабочие дни</string>
-	<!-- Original string: Data expired (Currently, alarm rings from Mon to Fri) -->
 	<string name="legal_workday_invalidate">Данные просрочены (Сейчас будильник звонит с пон. по пят.)</string>
-	<!-- Original string: (Data expired. Update in Settings) -->
 	<string name="legal_workday_invalidate_message">(данные просрочены. Обновите в разделе Настройки)</string>
-	<!-- Original string: (Alarm off during holidays) -->
 	<string name="legal_workday_message"> (отключен во время праздников)</string>
-	<!-- Original string: Loading ringtone… -->
 	<string name="loading_ringtone">Загрузка мелодии звонка...</string>
-	<!-- Original string: Add timezone -->
 	<string name="menu_add_worldclock">Добавить</string>
-	<!-- Original string: Edit alarm clock -->
 	<string name="menu_alarmclock_edit">Редактировать</string>
-	<!-- Original string: Delete -->
 	<string name="menu_delete">Удалить</string>
-	<!-- Original string: Desk clock -->
 	<string name="menu_desk_clock">Настольные часы</string>
-	<!-- Original string: System time -->
 	<string name="menu_edit_systemtime">Настройки даты и времени</string>
-	<!-- Original string: Dock settings -->
 	<string name="menu_item_dock_settings">Настройки док-станции</string>
-	<!-- Original string: Edit world clock -->
 	<string name="menu_worldclock_edit">Редактировать</string>
-	<!-- Original string: 1 minute -->
 	<string name="minute">1 минуту</string>
-	<!-- Original string: M -->
 	<string name="minute_unit">м</string>
-	<!-- Original string: %s minutes -->
 	<string name="minutes">%s мин.</string>
-	<!-- Original string: Music -->
 	<string name="music_button_description">Музыка</string>
-	<!-- Original string: Never -->
 	<string name="never">Не выбрано</string>
-	<!-- Original string: Dim -->
 	<string name="nightmode_button_description">Затемнить</string>
-	<!-- Original string: Pause -->
 	<string name="pause">Пауза</string>
-	<!-- Original string: Ringtone -->
 	<string name="remind_ringtone">Мелодия</string>
-	<!-- Original string: Reset -->
 	<string name="reset">Сброс</string>
-	<!-- Original string: Revert -->
 	<string name="revert">Отмена</string>
-	<!-- Original string: Set alarm -->
 	<string name="set_alarm">Установить будильник</string>
-	<!-- Original string: Settings -->
 	<string name="settings">Настройки</string>
-	<!-- Original string: Show clock -->
 	<string name="show_clock">Показать часы</string>
-	<!-- Original string: Disable shutdown alarm -->
 	<string name="shutdown_alarm_disable_summary">Телефон не включается, даже если настроен будильник</string>
-	<!-- Original string: Enable shutdown alarm -->
 	<string name="shutdown_alarm_enable_summary">Автоматическое включение телефона, если настроен будильник</string>
-	<!-- Original string: Shutdown alarm -->
 	<string name="shutdown_alarm_title">Включать телефон</string>
-	<!-- Original string: Silent -->
 	<string name="silent_alarm_summary">Без звука</string>
-	<!-- Original string: Cancel snooze -->
 	<string name="snooze_confirm_cancel">Выключить</string>
-	<!-- Original string: Snooze has been delayed，%s snooze again.\nYou can also cancel this alarm. -->
 	<string name="snooze_confirm_message">Будильник отложен на %s. Вы можете выключить этот будильник.</string>
-	<!-- Original string: Got it -->
 	<string name="snooze_confirm_ok">Оставить</string>
-	<!-- Original string: Snooze duration -->
 	<string name="snooze_duration_title">Отложить на</string>
-	<!-- Original string: Start -->
 	<string name="start">Старт</string>
-	<!-- Original string: Start up -->
 	<string name="start_up">Старт</string>
-	<!-- Original string: No laps -->
 	<string name="stopwatch_lap_empty_text">Нет кругов</string>
-	<!-- Original string: Stopwatch -->
 	<string name="stopwatch_title">Секундомер</string>
-	<!-- Original string: Time setting -->
 	<string name="system_time_setting">Настройки</string>
-	<!-- Original string: Time -->
 	<string name="time">Время</string>
-	<!-- Original string: Continue -->
 	<string name="timer_continue">Далее</string>
-	<!-- Original string: Got it -->
 	<string name="timer_got_it">Закрыть</string>
-	<!-- Original string: H -->
 	<string name="timer_hour">ч</string>
-	<!-- Original string: %1$d minutes -->
 	<string name="timer_message">таймер на %1$d мин.</string>
-	<!-- Original string: %1$d hours and %2$d minutes -->
 	<string name="timer_message_with_hour">таймер на %1$d ч. и %2$d мин.</string>
-	<!-- Original string: M -->
 	<string name="timer_minute">м</string>
-	<!-- Original string: Timer time up -->
 	<string name="timer_start_alarm">Время истекло</string>
-	<!-- Original string: Timer -->
 	<string name="timer_title">Таймер</string>
-	<!-- Original string: Slide clockwise -->
 	<string name="timer_tutorial">Установка таймера</string>
-	<!-- Original string: Failed to add timezone. The timezone already exists, please reselect. -->
 	<string name="timezone_exist_error_message">Не удалось добавить часовой пояс. Часовой пояс уже существует, пожалуйста, повторите</string>
-	<!-- Original string: Search for a city to add to world clock -->
 	<string name="timezone_search_hint">Поиск города</string>
-	<!-- Original string: Update Chinese public holidays in Settings -->
 	<string name="update_legal_workday_toast">Обновите Китайские праздники в настройках</string>
-	<!-- Original string: Button effect -->
 	<string name="volume_button_dialog_title">Клавиши громкости</string>
-	<!-- Original string: Set what these buttons do when pressed during an alarm -->
 	<string name="volume_button_setting_summary">Функция клавиш громкости во время срабатывания будильника</string>
-	<!-- Original string: Hardware buttons -->
 	<string name="volume_button_setting_title">Клавиши громкости</string>
-	<!-- Original string: Processing data. Please wait. -->
 	<string name="wait_when_operating_data_message">Обработка...</string>
-	<!-- Original string: "Weather information isn't available right now." -->
 	<string name="weather_fetch_failure">Информация о погоде сейчас недоступна</string>
-	<!-- Original string: Weekend alarm -->
 	<string name="weekend_alarm_clock">По выходным дням</string>
-	<!-- Original string: Workday alarm -->
 	<string name="workday_alarm_clock">По рабочим дням</string>
-	<!-- Original string: No world clocks -->
 	<string name="worldclock_empty_text">Нет часовых поясов</string>
-	<!-- Original string: World clock -->
 	<string name="worldclock_title">Часы</string>
 </resources>

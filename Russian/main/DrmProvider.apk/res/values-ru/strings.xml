@@ -1,14 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--Merged and sorted with KDG BigBlackBox-->
 <resources>
-	<!-- Original string: DRM Protected Content Storage -->
 	<string name="app_label">Хранилище содержания, защищенного DRM</string>
-	<!-- Original string: Allows app to access DRM-protected content. -->
 	<string name="permdesc_accessDrm">Предоставляет приложению доступ к содержанию, защищенному DRM</string>
-	<!-- Original string: Allows app to install DRM-protected content. -->
 	<string name="permdesc_installDrm">Разрешает приложению устанавливать содержание, защищенное DRM</string>
-	<!-- Original string: Access DRM content. -->
 	<string name="permlab_accessDrm">Доступ к содержанию DRM</string>
-	<!-- Original string: Install DRM content. -->
 	<string name="permlab_installDrm">Установка содержания DRM</string>
 </resources>

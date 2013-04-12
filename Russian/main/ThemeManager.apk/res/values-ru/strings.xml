@@ -1,364 +1,184 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--Merged and sorted with KDG BigBlackBox-->
 <resources>
-	<!-- Original string: Abnormal account information, try to login in again or try again later! -->
 	<string name="account_abnormal_state">Неверная информация об учетной записи, попробуйте войти снова или повторите попытку позже!</string>
-	<!-- Original string: All -->
 	<string name="all_resources">Все</string>
-	<!-- Original string: All -->
 	<string name="all_ringtone_resource">Все</string>
-	<!-- Original string: Themes -->
 	<string name="app_name">Темы</string>
-	<!-- Original string: Apply without font -->
 	<string name="apply_font_btn_exclude">Без шрифта</string>
-	<!-- Original string: Apply and reboot -->
 	<string name="apply_font_btn_reboot">Применить</string>
-	<!-- Original string: Theme contains font. Reboot is required. -->
 	<string name="apply_font_tip">Тема содержит шрифт, требуется перезагрузка</string>
-	<!-- Original string: The lockscreen currently in use does not support lockscreen wallpaper changes. New lockscreen wallpaper may not be visible. -->
 	<string name="apply_lockscreen_paper_tips">Работает не стандартный экран блокировки, новые обои на нем могут не смениться</string>
-	<!-- Original string: Please select components -->
 	<string name="apply_theme_no_select_message">Пожалуйста, выберите компоненты</string>
-	<!-- Original string: Backup theme -->
 	<string name="backup_preference_title">Резервное копирование</string>
-	<!-- Original string: Backup the current theme to\n%1$s -->
 	<string name="backup_theme_dialog_message">Тема будет сохранена в \n%1$s</string>
-	<!-- Original string: Backup -->
 	<string name="backup_theme_dialog_ok">ОК</string>
-	<!-- Original string: My backup -->
 	<string name="backup_theme_name">Моя тема</string>
-	<!-- Original string: Backing up theme files. Please wait... -->
 	<string name="backup_theme_progress_message">Сохранение...</string>
-	<!-- Original string: Theme backed up successfully. -->
 	<string name="backup_theme_success_message">Сохранение текущей темы завершено</string>
-	<!-- Original string: Wallpaper -->
 	<string name="change_wallpaper">Обои</string>
-	<!-- Original string: Close -->
 	<string name="close">Закрыть</string>
-	<!-- Original string: Featured -->
 	<string name="component_category_finest_title">Основные</string>
-	<!-- Original string: More -->
 	<string name="component_category_more_title">Дополнительные</string>
-	<!-- Original string: Contains %1$s components -->
 	<string name="component_include_title">%1$s пунктов</string>
-	<!-- Original string: Settings -->
 	<string name="component_lockstyle_personal_title">Настройки локскрина</string>
-	<!-- Original string: Selected %1$s components -->
 	<string name="component_select_title">%1$s пунктов</string>
-	<!-- Original string: Customize theme -->
 	<string name="component_settings_title">Текущая тема</string>
-	<!-- Original string: Author: -->
 	<string name="description_author">Автор:</string>
-	<!-- Original string: Designer: -->
 	<string name="description_designer">Дизайнер:</string>
-	<!-- Original string: Download: -->
 	<string name="description_download">Скачано:</string>
-	<!-- Original string: Size: -->
 	<string name="description_size">Размер:</string>
-	<!-- Original string: Summary: -->
 	<string name="description_summary">Инфо:</string>
-	<!-- Original string: Update: -->
 	<string name="description_uploadtime">Обновление:</string>
-	<!-- Original string: Version: -->
 	<string name="description_version">Версия:</string>
-	<!-- Original string: Desktop -->
 	<string name="desktop_wallpaper">Рабочий стол</string>
-	<!-- Original string: Download failed -->
 	<string name="download_failed">Ошибка загрузки</string>
-	<!-- Original string: Failed to load preview -->
 	<string name="download_preview_failed">Не удалось загрузить изображение</string>
-	<!-- Original string: Download complete! -->
 	<string name="download_success">Успешно загружено</string>
-	<!-- Original string: Fail to add account -->
 	<string name="fail_to_add_account">Ошибка добавления аккаунта</string>
-	<!-- Original string: Live wallpaper -->
 	<string name="live_wallpaper">Живые обои</string>
-	<!-- Original string: Loading... -->
 	<string name="loading">Загрузка...</string>
-	<!-- Original string: Loading ... -->
 	<string name="loading_resource_detail_info">Загрузка...</string>
-	<!-- Original string: Lockscreen -->
 	<string name="lockscreen_wallpaper">Экран блокировки</string>
-	<!-- Original string: Customization -->
 	<string name="lockstyle_personal_settings">Изменить</string>
-	<!-- Original string: Long -->
 	<string name="long_ringtone_resource">Длинные</string>
-	<!-- Original string: Refresh -->
 	<string name="menu_refresh">Обновить</string>
-	<!-- Original string: Mi wallpaper -->
 	<string name="mi_wallpaper">Mi обои</string>
-	<!-- Original string: Loading Mi-Wallpaper... -->
 	<string name="mi_wallpaper_loading">Загрузка Mi обоев...</string>
-	<!-- Original string: Mi Wallpaper -->
 	<string name="mi_wallpaper_title">Обои Mi</string>
-	<!-- Original string: Unable to connect to network -->
 	<string name="online_no_network">Не удается подключиться к сети</string>
-	<!-- Original string: Search for online resource -->
 	<string name="online_search_hint">Введите ключевые слова</string>
-	<!-- Original string: Processing ... -->
 	<string name="processing">Обработка...</string>
-	<!-- Original string: Alarm -->
 	<string name="resource_alarm_default">Будильник</string>
-	<!-- Original string: Resource Browser -->
 	<string name="resource_app_name">Браузер ресурсов</string>
-	<!-- Original string: Apply -->
 	<string name="resource_apply">Применить</string>
-	<!-- Original string: Buy -->
 	<string name="resource_buy">Купить</string>
-	<!-- Original string: %1$s can not be selected! -->
 	<string name="resource_can_not_selected">%1$s не может быть выбран!</string>
-	<!-- Original string: Your account is not activated, set to active it now ? -->
 	<string name="resource_comment_account_need_activitied">Ваш аккаунт не активирован, хотите активировать сейчас?</string>
-	<!-- Original string: %1$s scores %2$s comments in total(%3$s version) -->
 	<string name="resource_comment_count">Рейтинг: %1$s и Комментарии: %2$s (Версия: %3$s)</string>
-	<!-- Original string: %1$s comment on %2$s:%3$s:%4$s -->
 	<string name="resource_comment_description">%1$s комментарий %2$s:%3$s:%4$s</string>
-	<!-- Original string: Add comments -->
 	<string name="resource_comment_edit_comment">Добавить комментарий</string>
-	<!-- Original string: Checking whether you have used -->
 	<string name="resource_comment_edit_comment_waiting">Проверка Ваших ответов к этой теме...</string>
-	<!-- Original string: Write a comment -->
 	<string name="resource_comment_edit_text_default">Написать комментарий</string>
-	<!-- Original string: Edit comment: %1$s -->
 	<string name="resource_comment_edit_title">Комментарий к: %1$s</string>
-	<!-- Original string: %1$s reviews，click to view -->
 	<string name="resource_comment_entry_tips">Отзывов: %1$s. Нажмите, чтобы посмотреть.</string>
-	<!-- Original string: Expand all text▼ -->
 	<string name="resource_comment_expand_full_text">Показать весь текст▼</string>
-	<!-- Original string: Please touch the stars to give a score -->
 	<string name="resource_comment_invalid">Нажмите на звездочку, чтобы оценить</string>
-	<!-- Original string: User %1$s -->
 	<string name="resource_comment_name_default">Пользователь %1$s</string>
-	<!-- Original string: Submit -->
 	<string name="resource_comment_publish">Отправить</string>
-	<!-- Original string: Rating: -->
 	<string name="resource_comment_rate">Рейтинг:</string>
-	<!-- Original string: Sending comment... -->
 	<string name="resource_comment_sending">Отправка комментария...</string>
-	<!-- Original string: Comments: %1$s -->
 	<string name="resource_comment_title">Комментарии: %1$s</string>
-	<!-- Original string: Sorry, the comment is invalid -->
 	<string name="resource_comment_upload_data_invalid">Ошибка отправки комментария</string>
-	<!-- Original string: Comment send failed -->
 	<string name="resource_comment_upload_failed">Ошибка сохранения комментария</string>
-	<!-- Original string: You must use the theme before making comments. -->
 	<string name="resource_comment_upload_not_bought">Прежде чем оставить комментарий, Вы должны применить тему</string>
-	<!-- Original string: Please login first -->
 	<string name="resource_comment_upload_not_logined">Пожалуйста, войдите в аккаунт</string>
-	<!-- Original string: Comment sent! It will be displayed after the audit -->
 	<string name="resource_comment_upload_success">Комментарий отправлен!</string>
-	<!-- Original string: (%1$s version) -->
 	<string name="resource_comment_version_name">(Версия: %1$s)</string>
-	<!-- Original string: Default ringtone -->
 	<string name="resource_default">Стандартная мелодия</string>
-	<!-- Original string: Resource -->
 	<string name="resource_default_name">Ресурс</string>
-	<!-- Original string: Are you sure to delete %1$d selected resources? -->
 	<string name="resource_delete_all">Вы уверены, что хотите удалить выбранные ресурсы (%1$d)?</string>
-	<!-- Original string: Are you sure to delete these resources? -->
 	<string name="resource_delete_confirm">Вы действительно хотите удалить эти ресурсы?</string>
-	<!-- Original string: Details -->
 	<string name="resource_detail">Детали</string>
-	<!-- Original string: Download -->
 	<string name="resource_download">Скачать</string>
-	<!-- Original string: Downloaded resources -->
 	<string name="resource_downloaded_title">Скачанные</string>
-	<!-- Original string: Downloading -->
 	<string name="resource_downloading">Скачивание</string>
-	<!-- Original string: Checking authorization... -->
 	<string name="resource_get_auth_checking">Проверка авторизации...</string>
-	<!-- Original string: Theme can not run on the current equipment with your account which is up to 10 mobile devices every year. Please try other Xiaomi accounts. -->
 	<string name="resource_get_auth_exceed_max_limit_tips">Тема не может работать на текущем устройстве с Вашего аккаунта, т.к. ограничение составляет до 10 мобильных устройств каждый год. Пожалуйста, попробуйте другие аккаунты Xiaomi.</string>
-	<!-- Original string: Authorized exceeds the limit -->
 	<string name="resource_get_auth_exceed_max_limit_title">Превышен предел авторизаций</string>
-	<!-- Original string: The theme is not downloaded from official market, please download similar ones from official market. -->
 	<string name="resource_get_auth_missing">Тема не скачана с официального маркета. Пожалуйста, скачайте аналогичную тему из официального маркета.</string>
-	<!-- Original string: Retrieving authorization... -->
 	<string name="resource_get_auth_retrieving">Получение авторизации...</string>
-	<!-- Original string: Importing -->
 	<string name="resource_importing">Импортирование</string>
-	<!-- Original string: Latest selected -->
 	<string name="resource_list_title">Последние темы</string>
-	<!-- Original string: Local %1$s -->
 	<string name="resource_local">Локально %1$s</string>
-	<!-- Original string: None -->
 	<string name="resource_mute">Нет</string>
-	<!-- Original string: No result -->
 	<string name="resource_no_result">Нет результата</string>
-	<!-- Original string: Notifications -->
 	<string name="resource_notification_default">Уведомл.</string>
-	<!-- Original string: Online %1$s -->
 	<string name="resource_online">Онлайн %1$s</string>
-	<!-- Original string: Preview -->
 	<string name="resource_preview">Просмотр</string>
-	<!-- Original string: (%1$s) -->
 	<string name="resource_price_format">(%1$s)</string>
-	<!-- Original string: Free -->
 	<string name="resource_price_free">Беспл.</string>
-	<!-- Original string: MI Credits -->
 	<string name="resource_price_unit">MI кредит.</string>
-	<!-- Original string: Ringtones -->
 	<string name="resource_ringtone_default">Мелодии</string>
-	<!-- Original string: See more -->
 	<string name="resource_see_more">Подробнее</string>
-	<!-- Original string: Select -->
 	<string name="resource_select">Выбрать</string>
-	<!-- Original string: Out of service, please try again later. -->
 	<string name="resource_server_out_of_service">Сервис не доступен. Попробуйте позже.</string>
-	<!-- Original string: Switch -->
 	<string name="resource_switch_account">Переключить</string>
-	<!-- Original string: System resources -->
 	<string name="resource_system_title">Системные</string>
-	<!-- Original string: No ringtone has been selected -->
 	<string name="resource_tip_select_ringtone">Мелодия не выбрана</string>
-	<!-- Original string: Resource Detail -->
 	<string name="resource_title">Дополнительные</string>
-	<!-- Original string: Select ringtone -->
 	<string name="resource_title_select_ringtone">Выберите мелодию</string>
-	<!-- Original string: Update -->
 	<string name="resource_update">Обновить</string>
-	<!-- Original string: You may be a victim of theme counterfeiting, please go to theme market to purchase or re-download. -->
 	<string name="restore_default_theme_alert">Вы можете стать жертвой подделки темы, перейдите в магазин тем, чтобы купить или повторно загрузить тему.</string>
-	<!-- Original string: Going to exit.\nPlease reopen this app to refresh resource. -->
 	<string name="sdcard_status_changed_dialog_message">Требуется выход.\nПожалуйста, откройте это приложение еще раз, для обновления ресурсов.</string>
-	<!-- Original string: SD card status changed -->
 	<string name="sdcard_status_changed_dialog_title">Статус SD-карты изменился</string>
-	<!-- Original string: Short -->
 	<string name="short_ringtone_resource">Короткие</string>
-	<!-- Original string: There is another import process running, please try later. -->
 	<string name="theme_another_import_running">Процесс импорта уже запущен, попробуйте позже</string>
-	<!-- Original string: Failed to apply %1$s theme. -->
 	<string name="theme_changed_failed_message">Не установлено</string>
-	<!-- Original string: Successfully applied %1$s. -->
 	<string name="theme_changed_message">Установлено</string>
-	<!-- Original string: Applying theme. Please wait... -->
 	<string name="theme_changing_dialog_title">Применение темы. Пожалуйста, подождите...</string>
-	<!-- Original string: Alarm -->
 	<string name="theme_component_title_alarm">Будильник</string>
-	<!-- Original string: Alarm style -->
 	<string name="theme_component_title_alarmstyle">Будильник</string>
-	<!-- Original string: Theme -->
 	<string name="theme_component_title_all">Темы</string>
-	<!-- Original string: Audio effect -->
 	<string name="theme_component_title_audio_effect">Звуковые эффекты</string>
-	<!-- Original string: Boot animation -->
 	<string name="theme_component_title_boot_animation">Анимация загрузки</string>
-	<!-- Original string: Boot audio -->
 	<string name="theme_component_title_boot_audio">Мелодия загрузки</string>
-	<!-- Original string: Clock -->
 	<string name="theme_component_title_clock">Часы</string>
-	<!-- Original string: Dialer -->
 	<string name="theme_component_title_contact">Контакты</string>
-	<!-- Original string: Font -->
 	<string name="theme_component_title_font">Шрифт</string>
-	<!-- Original string: Framework -->
 	<string name="theme_component_title_framework">Система</string>
-	<!-- Original string: Icon -->
 	<string name="theme_component_title_icon">Иконки</string>
-	<!-- Original string: Home -->
 	<string name="theme_component_title_launcher">Рабочий стол</string>
-	<!-- Original string: Lockscreen -->
 	<string name="theme_component_title_lockstyle">Локскрин</string>
-	<!-- Original string: Lock-wallpaper -->
 	<string name="theme_component_title_lockwallpaper">Обои локскрина</string>
-	<!-- Original string: Mi wallpaper -->
 	<string name="theme_component_title_miwallpaper">Mi обои</string>
-	<!-- Original string: SMS -->
 	<string name="theme_component_title_mms">Сообщения</string>
-	<!-- Original string: Notification -->
 	<string name="theme_component_title_notification">Уведомл.</string>
-	<!-- Original string: Others -->
 	<string name="theme_component_title_others">Прочее</string>
-	<!-- Original string: Photo frame -->
 	<string name="theme_component_title_photo_frame">Фоторамка</string>
-	<!-- Original string: Ringtone -->
 	<string name="theme_component_title_ringtone">Мелодия</string>
-	<!-- Original string: Status bar -->
 	<string name="theme_component_title_statusbar">Статус-бар</string>
-	<!-- Original string: Wallpaper -->
 	<string name="theme_component_title_wallpaper">Обои</string>
-	<!-- Original string: Custom -->
 	<string name="theme_description_title_customized">Пользов.</string>
-	<!-- Original string: Default -->
 	<string name="theme_description_title_default">По умолчанию</string>
-	<!-- Original string: Theme upgrade -->
 	<string name="theme_import_activity_label">Обновление тем</string>
-	<!-- Original string: Initializing. Please wait… -->
 	<string name="theme_import_data">Импорт информации</string>
-	<!-- Original string: import theme %1$s fail. -->
 	<string name="theme_import_fail">Ошибка импорта %1$s</string>
-	<!-- Original string: Import from SD card -->
 	<string name="theme_import_from_sdcard">Импортировать с SD-карты</string>
-	<!-- Original string: Upgrading.. %1$d rest -->
 	<string name="theme_import_importing">Обновление.. осталось %1$d</string>
-	<!-- Original string: Delete -->
 	<string name="theme_import_item_delete_request_button">Удалить</string>
-	<!-- Original string: The theme package is not upgraded, you can use it after the Upgrade all process or delete it. -->
 	<string name="theme_import_item_delete_request_content">Тема не обновлена, вы можете использовать ее после полного обновления или удалите ее</string>
-	<!-- Original string: Theme is not upgraded -->
 	<string name="theme_import_item_delete_request_title">Тема не обновлена</string>
-	<!-- Original string: Upgrading -->
 	<string name="theme_import_item_importing">Обновление</string>
-	<!-- Original string: Not upgraded -->
 	<string name="theme_import_item_not_upgraded">Не обновлено</string>
-	<!-- Original string: The theme is in upgrade progress, please wait. -->
 	<string name="theme_import_item_reject_use">Тема в процессе обновления, пожалуйста подождите...</string>
-	<!-- Original string: Waiting -->
 	<string name="theme_import_item_waiting">Ожидание</string>
-	<!-- Original string: Importing -->
 	<string name="theme_import_new_download">Импорт</string>
-	<!-- Original string: Theme upgrade -->
 	<string name="theme_import_normal">Обновление темы</string>
-	<!-- Original string: Complete -->
 	<string name="theme_import_oper_complete">Готово</string>
-	<!-- Original string: Upgrade all -->
 	<string name="theme_import_oper_start">Обновить все</string>
-	<!-- Original string: Stop -->
 	<string name="theme_import_oper_stop">Остановить</string>
-	<!-- Original string: These themes must upgrade to use, confirm stop all upgrade process? -->
 	<string name="theme_import_oper_stop_request_content">Эти темы нуждаются в обновлении для использования, остановить?</string>
-	<!-- Original string: Preparing.. -->
 	<string name="theme_import_preparing">Поиск тем</string>
-	<!-- Original string: Stoping... -->
 	<string name="theme_import_stoping">Остановка...</string>
-	<!-- Original string: Importing themes -->
 	<string name="theme_importing">Импортирование темы…</string>
-	<!-- Original string: This theme is imported -->
 	<string name="theme_is_imported">Тема импортирована</string>
-	<!-- Original string: Importing -->
 	<string name="theme_sdcard_importing">Импортирование</string>
-	<!-- Original string: Others -->
 	<string name="theme_select_others">Прочее</string>
-	<!-- Original string: No -->
 	<string name="theme_upgrade_request_cancel">Нет</string>
-	<!-- Original string: The format of the local themes need to be converted to enhance efficiency. It could take a moment to update and the phone response rate maybe affected. Convert themes now? -->
 	<string name="theme_upgrade_request_content">Формат локальных тем нужно преобразовать для повышения эффективности. Это может занять некоторое время и возможно подтормаживание системы в процессе. Преобразовать темы сейчас?</string>
-	<!-- Original string: Themes need to be upgraded -->
 	<string name="theme_upgrade_request_title">Обновление тем</string>
-	<!-- Original string: Yes -->
 	<string name="theme_upgrade_request_yes">Да</string>
-	<!-- Original string: Set %1$s -->
 	<string name="third_party_pickers_activity_title">%1$s</string>
-	<!-- Original string: Mix -->
 	<string name="title_component">Компоненты</string>
-	<!-- Original string: Local -->
 	<string name="title_local">Телефон</string>
-	<!-- Original string: Online -->
 	<string name="title_online">Онлайн</string>
-	<!-- Original string: System resources -->
 	<string name="title_system_resource">Системные</string>
-	<!-- Original string: Crop -->
 	<string name="wallpaper_crop">Обрезать</string>
-	<!-- Original string: Failed to decode -->
 	<string name="wallpaper_decoded_error">Ошибка</string>
-	<!-- Original string: Loading ... -->
 	<string name="wallpaper_loading_text">Загрузка...</string>
-	<!-- Original string: Set as both -->
 	<string name="wallpaper_set_as_both">Применить на рабочий стол и экран блокировки</string>
-	<!-- Original string: Set as wallpaper -->
 	<string name="wallpaper_set_as_destop">Применить на рабочий стол</string>
-	<!-- Original string: Set as lockscreen -->
 	<string name="wallpaper_set_as_lockscreen">Применить на экран блокировки</string>
-	<!-- Original string: Wallpaper settings -->
 	<string name="wallpaper_settings">Настройки обоев</string>
 </resources>

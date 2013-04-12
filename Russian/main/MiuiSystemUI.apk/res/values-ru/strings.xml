@@ -1,570 +1,287 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--Merged and sorted with KDG BigBlackBox-->
 <resources>
-	<!-- Original string: Airplane mode. -->
 	<string name="accessibility_airplane_mode">Режим полета</string>
-	<!-- Original string: Back -->
 	<string name="accessibility_back">Назад</string>
-	<!-- Original string: Battery %d percent. -->
 	<string name="accessibility_battery_level">Заряд батареи - %d процентов</string>
-	<!-- Original string: Bluetooth connected. -->
 	<string name="accessibility_bluetooth_connected">Bluetooth-соединение установлено</string>
-	<!-- Original string: Bluetooth disconnected. -->
 	<string name="accessibility_bluetooth_disconnected">Bluetooth-соединение разорвано</string>
-	<!-- Original string: Bluetooth tethering. -->
 	<string name="accessibility_bluetooth_tether">Bluetooth-модем</string>
-	<!-- Original string: Clear all notifications. -->
 	<string name="accessibility_clear_all">Удалить все уведомления</string>
-	<!-- Original string: Compatibility zoom button. -->
 	<string name="accessibility_compatibility_zoom_button">Кнопка масштабирования (режим совместимости)</string>
-	<!-- Original string: Zoom smaller to larger screen. -->
 	<string name="accessibility_compatibility_zoom_example">Уменьшение изображения для увеличения свободного места на экране</string>
-	<!-- Original string: 3.5G -->
 	<string name="accessibility_data_connection_3.5g">3,5G</string>
-	<!-- Original string: 3G -->
 	<string name="accessibility_data_connection_3g">3G</string>
-	<!-- Original string: 4G -->
 	<string name="accessibility_data_connection_4g">4G</string>
-	<!-- Original string: CDMA -->
 	<string name="accessibility_data_connection_cdma">CDMA</string>
-	<!-- Original string: Edge -->
 	<string name="accessibility_data_connection_edge">EDGE</string>
-	<!-- Original string: GPRS -->
 	<string name="accessibility_data_connection_gprs">GPRS</string>
-	<!-- Original string: Data one bar. -->
 	<string name="accessibility_data_one_bar">Сигнал передачи данных: одно деление</string>
-	<!-- Original string: Data signal full. -->
 	<string name="accessibility_data_signal_full">Надежный сигнал передачи данных</string>
-	<!-- Original string: Data three bars. -->
 	<string name="accessibility_data_three_bars">Сигнал передачи данных: три деления</string>
-	<!-- Original string: Data two bars. -->
 	<string name="accessibility_data_two_bars">Сигнал передачи данных: два деления</string>
-	<!-- Original string: Home -->
 	<string name="accessibility_home">Главная страница</string>
-	<!-- Original string: Switch input method button. -->
 	<string name="accessibility_ime_switch_button">Кнопка переключения способа ввода</string>
-	<!-- Original string: Menu -->
 	<string name="accessibility_menu">Меню</string>
-	<!-- Original string: No data. -->
 	<string name="accessibility_no_data">Сигнал передачи данных отсутствует</string>
-	<!-- Original string: No phone. -->
 	<string name="accessibility_no_phone">Сигнал телефонной сети отсутствует</string>
-	<!-- Original string: No Wi-Fi. -->
 	<string name="accessibility_no_wifi">Отсутствует подключение к Wi-Fi</string>
-	<!-- Original string: No WiMAX. -->
 	<string name="accessibility_no_wimax">Нет сигнала WiMAX</string>
-	<!-- Original string: Notifications. -->
 	<string name="accessibility_notifications_button">Уведомления</string>
-	<!-- Original string: Phone one bar. -->
 	<string name="accessibility_phone_one_bar">Сигнал телефонной сети: одно деление</string>
-	<!-- Original string: Phone signal full. -->
 	<string name="accessibility_phone_signal_full">Надежный телефонный сигнал</string>
-	<!-- Original string: Phone three bars. -->
 	<string name="accessibility_phone_three_bars">Сигнал телефонной сети: три деления</string>
-	<!-- Original string: Phone two bars. -->
 	<string name="accessibility_phone_two_bars">Сигнал телефонной сети: два деления</string>
-	<!-- Original string: Recent apps -->
 	<string name="accessibility_recent">Недавние приложения</string>
-	<!-- Original string: %s dismissed. -->
 	<string name="accessibility_recents_item_dismissed">Приложение \"%s\" удалено из списка</string>
-	<!-- Original string: Clear notification. -->
 	<string name="accessibility_remove_notification">Удалить уведомление</string>
-	<!-- Original string: Ringer silent. -->
 	<string name="accessibility_ringer_silent">Режим \"Без звука\"</string>
-	<!-- Original string: Ringer vibrate. -->
 	<string name="accessibility_ringer_vibrate">Вибровызов</string>
-	<!-- Original string: Screen will rotate automatically. -->
 	<string name="accessibility_rotation_lock_off">Экран будет поворачиваться автоматически.</string>
-	<!-- Original string: System settings. -->
 	<string name="accessibility_settings_button">Настройки</string>
-	<!-- Original string: TeleTypewriter enabled. -->
 	<string name="accessibility_tty_enabled">Телетайп включен</string>
-	<!-- Original string: Wi-Fi one bar. -->
 	<string name="accessibility_wifi_one_bar">Wi-Fi: одно деление</string>
-	<!-- Original string: WiFi signal full. -->
 	<string name="accessibility_wifi_signal_full">Надежный сигнал Wi-Fi</string>
-	<!-- Original string: Wi-Fi three bars. -->
 	<string name="accessibility_wifi_three_bars">Wi-Fi: три деления</string>
-	<!-- Original string: Wi-Fi two bars. -->
 	<string name="accessibility_wifi_two_bars">Wi-Fi: два деления</string>
-	<!-- Original string: WiMAX one bar. -->
 	<string name="accessibility_wimax_one_bar">Сигнал WiMAX: одно деление</string>
-	<!-- Original string: WiMAX signal full. -->
 	<string name="accessibility_wimax_signal_full">Надежный сигнал WiMAX</string>
-	<!-- Original string: WiMAX three bars. -->
 	<string name="accessibility_wimax_three_bars">Сигнал WiMAX: три деления</string>
-	<!-- Original string: WiMAX two bars. -->
 	<string name="accessibility_wimax_two_bars">Сигнал WiMAX: два деления</string>
-	<!-- Original string: Use by default for this USB accessory -->
 	<string name="always_use_accessory">Использовать по умолчанию для этого USB-аксессуара</string>
-	<!-- Original string: Use by default for this USB device -->
 	<string name="always_use_device">Использовать по умолчанию для этого USB-устройства</string>
-	<!-- Original string: System UI -->
 	<string name="app_label">Графический интерфейс системы</string>
-	<!-- Original string: %d%% remaining -->
 	<string name="battery_low_percent_format">Осталось %d%%</string>
-	<!-- Original string: The battery is getting low. -->
 	<string name="battery_low_subtitle">Батарея разряжается</string>
-	<!-- Original string: Connect charger -->
 	<string name="battery_low_title">Низкий заряд батареи. Подключите зарядное устройство</string>
-	<!-- Original string: Battery use -->
 	<string name="battery_low_why">Статистика</string>
-	<!-- Original string: Bluetooth tethered -->
 	<string name="bluetooth_tethered">Общий модем доступен через Bluetooth</string>
-	<!-- Original string: Dialing -->
 	<string name="call_status_dialing">Вызов</string>
-	<!-- Original string: Open application -->
 	<string name="camera_key_action_app_title">Открыть приложение</string>
-	<!-- Original string: Use if camera application is not open -->
 	<string name="camera_key_action_category_title">Действия клавиши \"MI\"</string>
-	<!-- Original string: No action -->
 	<string name="camera_key_action_none_title">Запуск камеры</string>
-	<!-- Original string: MI Button -->
 	<string name="camera_key_action_setting_title">Клавиша \"MI\"</string>
-	<!-- Original string: Call -->
 	<string name="camera_key_action_shortcut_call">Телефон</string>
-	<!-- Original string: Back to homescreen -->
 	<string name="camera_key_action_shortcut_home">Домой</string>
-	<!-- Original string: Capture screenshot -->
 	<string name="camera_key_action_shortcut_screenshot">Скриншот</string>
-	<!-- Original string: Search -->
 	<string name="camera_key_action_shortcut_search">Поиск</string>
-	<!-- Original string: Shortcut -->
 	<string name="camera_key_action_shortcut_title">Функция</string>
-	<!-- Original string: Lock/Wake device -->
 	<string name="camera_key_action_shortcut_wake">Блокировка</string>
-	<!-- Original string: Trigger toggle -->
 	<string name="camera_key_action_toggle_title">Переключатель</string>
-	<!-- Original string: Select an application for the USB device -->
 	<string name="chooseUsbActivity">Выберите приложение для устройств USB</string>
-	<!-- Original string: When an app was designed for a smaller screen, a zoom control will appear by the clock. -->
 	<string name="compat_mode_help_body">Если приложение рассчитано на экран меньших размеров, рядом с часами появятся средства масштабирования</string>
-	<!-- Original string: Compatibility zoom -->
 	<string name="compat_mode_help_header">Масштаб и совместимость</string>
-	<!-- Original string: Stretch to fill screen -->
 	<string name="compat_mode_off">Растянуть на весь экран</string>
-	<!-- Original string: Zoom to fill screen -->
 	<string name="compat_mode_on">Подогнать по размерам экрана</string>
-	<!-- Original string: "You've reached the specified data usage limit.\n\nIf you re-enable data, you may be charged by the operator." -->
 	<string name="data_usage_disabled_dialog">Достигнут лимит трафика.\n\nПри восстановлении подключения оператор может взимать плату за передачу данных</string>
-	<!-- Original string: 2G-3G data disabled -->
 	<string name="data_usage_disabled_dialog_3g_title">Передача данных по каналам 2G и 3G отключена</string>
-	<!-- Original string: 4G data disabled -->
 	<string name="data_usage_disabled_dialog_4g_title">Передача данных по каналу 4G отключена</string>
-	<!-- Original string: Re-enable data -->
 	<string name="data_usage_disabled_dialog_enable">Восстановить подключение</string>
-	<!-- Original string: Mobile data disabled -->
 	<string name="data_usage_disabled_dialog_mobile_title">Моб. Интернет отключен</string>
-	<!-- Original string: Data disabled -->
 	<string name="data_usage_disabled_dialog_title">Передача данных отключена</string>
-	<!-- Original string: Slide left for %s. -->
 	<string name="description_direction_left">Сдвиньте влево для %s</string>
-	<!-- Original string: Slide up for %s. -->
 	<string name="description_direction_up">Сдвиньте вверх для %s</string>
-	<!-- Original string: Search -->
 	<string name="description_target_search">Поиск</string>
-	<!-- Original string: No -->
 	<string name="dismount_storage">Только зарядка</string>
-	<!-- Original string: If you turn on USB storage, some applications you are using will stop and may be unavailable until you turn off USB storage. -->
 	<string name="dlg_confirm_kill_storage_users_text">При включении режима накопителя некоторые прилжения будут недоступны</string>
-	<!-- Original string: Turn on USB storage -->
 	<string name="dlg_confirm_kill_storage_users_title">Включить USB-накопитель</string>
-	<!-- Original string: USB operation unsuccessful -->
 	<string name="dlg_error_title">USB операция неудачна</string>
-	<!-- Original string: OK -->
 	<string name="dlg_ok">OK</string>
-	<!-- Original string: You are in drive mode, please take care of yourself -->
 	<string name="drive_mode_tip">Вы находитесь в автомобиле. Пожалуйста, будьте осторожны за рулем при работе с телефоном.</string>
-	<!-- Original string: Unmount USB storage before removing to avoid data loss. -->
 	<string name="ext_media_badremoval_notification_message">Размонтируйте USB-хранилище перед извлечением</string>
-	<!-- Original string: USB storage unexpectedly removed -->
 	<string name="ext_media_badremoval_notification_title">USB-хранилище неожиданно удалено</string>
-	<!-- Original string: Checking for errors. -->
 	<string name="ext_media_checking_notification_message">Проверка на наличие ошибок...</string>
-	<!-- Original string: Preparing USB storage -->
 	<string name="ext_media_checking_notification_title">Подготовка USB-накопителя</string>
-	<!-- Original string: null -->
 	<string name="ext_media_mountable_notification_message">Нажмите для перехода в Файлы</string>
-	<!-- Original string: null -->
 	<string name="ext_media_mountable_notification_title">Запоминающее устройство USB подключено</string>
-	<!-- Original string: USB storage blank or has unsupported filesystem. -->
 	<string name="ext_media_nofs_notification_message">USB-хранилище пусто или неподдерживаемая файловая система</string>
-	<!-- Original string: Blank USB storage -->
 	<string name="ext_media_nofs_notification_title">Пустой USB-накопитель</string>
-	<!-- Original string: USB storage removed. Insert new media. -->
 	<string name="ext_media_nomedia_notification_message">Вставьте новую SD-карту</string>
-	<!-- Original string: Removed USB storage -->
 	<string name="ext_media_nomedia_notification_title">USB-хранилище извлечено</string>
-	<!-- Original string: null -->
 	<string name="ext_media_safe_remove">Извлечь</string>
-	<!-- Original string: You can safely remove USB storage. -->
 	<string name="ext_media_safe_unmount_notification_message">Вы можете безопасно извлечь USB-хранилище</string>
-	<!-- Original string: USB storage safe to remove -->
 	<string name="ext_media_safe_unmount_notification_title">Можете извлечь</string>
-	<!-- Original string: USB storage damaged. You may have to reformat it. -->
 	<string name="ext_media_unmountable_notification_message">Поврежденное USB-хранилище. Пожалуйста сформатируйте его</string>
-	<!-- Original string: Damaged USB storage -->
 	<string name="ext_media_unmountable_notification_title">Поврежденное USB-хранилище</string>
-	<!-- Original string: /sys/class/leds/flashlight/brightness -->
 	<string name="flash_device">/sys/class/leds/flashlight/brightness</string>
-	<!-- Original string: Location set by GPS -->
 	<string name="gps_notification_found_text">Местополож. определено по GPS</string>
-	<!-- Original string: Searching for GPS -->
 	<string name="gps_notification_searching_text">Поиск GPS</string>
-	<!-- Original string: USB charging not supported.\nUse only the supplied charger. -->
 	<string name="invalid_charger">Зарядка по USB порту не поддерживается.\nИспользуйте зарядное устройство из комплекта поставки</string>
-	<!-- Original string: Custom key position -->
 	<string name="key_position_custom">Расположение</string>
-	<!-- Original string: View -->
 	<string name="label_view">Вид</string>
-	<!-- Original string: No service -->
 	<string name="lockscreen_carrier_default">(нет сети)</string>
-	<!-- Original string: Entering -->
 	<string name="mdb_entering">Вход</string>
-	<!-- Original string: Cancel -->
 	<string name="mdb_restore_cancel">Отмена</string>
-	<!-- Original string: "Will restore your phone's data" -->
 	<string name="mdb_restore_info1">Восстановит все Ваши данные на телефоне</string>
-	<!-- Original string: "Please don't break usb connection" -->
 	<string name="mdb_restore_info2">Пожалуйста, не нарушайте USB-подключение</string>
-	<!-- Original string: Mdb Restore -->
 	<string name="mdb_restore_label">Mdb Восстановление</string>
-	<!-- Original string: Restore Mode -->
 	<string name="mdb_restore_mode">Режим восстновления</string>
-	<!-- Original string: USB disconnected, abort restoring -->
 	<string name="mdb_usb_disconnection_exit">USB отключено. Отмена восстановления.</string>
-	<!-- Original string: Yes -->
 	<string name="mount_storage">Подключить</string>
-	<!-- Original string: "It will move data such as screenshots, pictures and so on from internal storage to SD card. To make sure smooth and stable use experience, it's better to keep SD card in phone for daily use." -->
 	<string name="move_data_to_sdcard_message">Скриншоты и фотографии будут перенесены на SD-карту, чтобы освободить больше внутренней памяти</string>
-	<!-- Original string: Export internal data to SD card -->
 	<string name="move_data_to_sdcard_title">Перенос данных на SD-карту</string>
-	<!-- Original string: No notifications -->
 	<string name="no_notification_tips">Нет уведомлений</string>
-	<!-- Original string: Customize status bar notification -->
 	<string name="notification_icon_filter">Настройки уведомлений</string>
-	<!-- Original string: Don’t show notifications in status bar -->
 	<string name="notification_icon_filter_hide">Список запрещенных приложений</string>
-	<!-- Original string: Current list is empty -->
 	<string name="notification_icon_filter_list_empty_summary">Список приложений пуст</string>
-	<!-- Original string: Don’t show notifications of this app in status bar -->
 	<string name="notification_icon_filter_menu_item_hide">Не показывать уведомления для этого приложения</string>
-	<!-- Original string: Show notifications of this app in status bar -->
 	<string name="notification_icon_filter_menu_item_show">Показать уведомления для данного приложения</string>
-	<!-- Original string: Control mode -->
 	<string name="notification_icon_filter_mode">Режим контроля</string>
-	<!-- Original string: Blacklist -->
 	<string name="notification_icon_filter_mode_black_list">Черный список</string>
-	<!-- Original string: Whitelist -->
 	<string name="notification_icon_filter_mode_white_list">Белый список</string>
-	<!-- Original string: Application list -->
 	<string name="notification_icon_filter_other_list">Список приложений</string>
-	<!-- Original string: Notification -->
 	<string name="notification_icon_filter_settings">Уведомления</string>
-	<!-- Original string: Loading, please wait -->
 	<string name="notification_icon_filter_settings_loading">Загрузка...</string>
-	<!-- Original string: Show notifications in status bar -->
 	<string name="notification_icon_filter_show">Список разрешенных приложений</string>
-	<!-- Original string: Disabling this option will make notifications of all apps show in the upper left of status bar. -->
 	<string name="notification_icon_filter_summary">Отключение этого параметра сделает активным уведомления от всех приложений в верхнем левом углу строки состояния</string>
-	<!-- Original string: Hide notification -->
 	<string name="notification_icon_filter_title">Скрыть уведомления</string>
-	<!-- Original string: Game controller connected -->
 	<string name="notification_otg_gamestick_in">Игровой контроллер подключен</string>
-	<!-- Original string: Game controller disconnected -->
 	<string name="notification_otg_gamestick_out">Игровой контроллер отключен</string>
-	<!-- Original string: Keyboard connected -->
 	<string name="notification_otg_keyboard_in">Клавиатура подключена</string>
-	<!-- Original string: Keyboard disconnected -->
 	<string name="notification_otg_keyboard_out">Клавиатура отключена</string>
-	<!-- Original string: Mouse connected -->
 	<string name="notification_otg_mouse_in">Мышка подключена</string>
-	<!-- Original string: Mouse disconnected -->
 	<string name="notification_otg_mouse_out">Мышка отключена</string>
-	<!-- Original string: Stylus connected -->
 	<string name="notification_otg_stylus_in">Стилус подключен</string>
-	<!-- Original string: Stylus disconnected -->
 	<string name="notification_otg_stylus_out">Стилус отключен</string>
-	<!-- Original string: Touchpad is connected -->
 	<string name="notification_otg_touchPad_in">Сенсорная панель подключена</string>
-	<!-- Original string: Touchpad disconnected -->
 	<string name="notification_otg_touchPad_out">Сенсорная панель отключена</string>
-	<!-- Original string: Touch screen connected -->
 	<string name="notification_otg_touchScreen_in">Сенсорный экран подключен</string>
-	<!-- Original string: Touch screen disconnected -->
 	<string name="notification_otg_touchScreen_out">Сенсорный экран отключен</string>
-	<!-- Original string: Trackball connected -->
 	<string name="notification_otg_trackball_in">Трекбол подключен</string>
-	<!-- Original string: Trackball disconnected -->
 	<string name="notification_otg_trackball_out">Трекбол отключен</string>
-	<!-- Original string: OTG device connected -->
 	<string name="notification_otg_unknow_in">Устройство OTG подключено</string>
-	<!-- Original string: OTG device disconnected -->
 	<string name="notification_otg_unknow_out">Устройство OTG отключено</string>
-	<!-- Original string: Tap here to turn notifications back on. -->
 	<string name="notifications_off_text">Нажмите здесь для включения уведомлений</string>
-	<!-- Original string: Notifications off -->
 	<string name="notifications_off_title">Уведомления выключены</string>
-	<!-- Original string: Recent apps key -->
 	<string name="recent_apps_key">Последние приложения</string>
-	<!-- Original string: Show recent apps key -->
 	<string name="recent_apps_key_show">Последние приложения</string>
-	<!-- Original string: Click to return to call -->
 	<string name="return_to_incall_screen">Нажмите для возврата к разговору</string>
-	<!-- Original string: Customize screen key position -->
 	<string name="screen_button_custom">Настройка расположения кнопок</string>
-	<!-- Original string: Functions of buttons on the lower screen are disabled. You may enable them by pressing \"Home\" and \"Power\" -->
 	<string name="screen_button_disabled_message">Нижние клавиши отключены. Вы можете включить их снова, нажав клавиши \"Домой\" + \"Питание\".</string>
-	<!-- Original string: Functions of buttons on the lower screen are enabled -->
 	<string name="screen_button_enabled_message">Нижние клавиши включены</string>
-	<!-- Original string: Back key -->
 	<string name="screen_key_back">Назад</string>
-	<!-- Original string: Home key -->
 	<string name="screen_key_home">Домой</string>
-	<!-- Original string: Menu key -->
 	<string name="screen_key_menu">Меню</string>
-	<!-- Original string: Recent apps key -->
 	<string name="screen_key_recent_apps">Последние приложения</string>
-	<!-- Original string: Locked screen rotation to landscape mode -->
 	<string name="screen_rotation_freeze_message">Поворот экрана заблокирован в ландшафтном режиме</string>
-	<!-- Original string: "Couldn't save screenshot. Storage may be in use." -->
 	<string name="screenshot_failed_text">Возможно, накопители заняты</string>
-	<!-- Original string: "Couldn't capture screenshot." -->
 	<string name="screenshot_failed_title">Не удалось сохранить скриншот</string>
-	<!-- Original string: Touch to view your screenshot. -->
 	<string name="screenshot_saved_text">Нажмите, чтобы просмотреть</string>
-	<!-- Original string: Screenshot captured. -->
 	<string name="screenshot_saved_title">Скриншот сохранен</string>
-	<!-- Original string: Screenshot is being saved. -->
 	<string name="screenshot_saving_text">Скриншот сохранен</string>
-	<!-- Original string: Saving screenshot… -->
 	<string name="screenshot_saving_ticker">"Скриншот сохраняется "</string>
-	<!-- Original string: Saving screenshot… -->
 	<string name="screenshot_saving_title">"Скриншот сохраняется "</string>
-	<!-- Original string: Expandable under fullscreen -->
 	<string name="settings_expandable_under_fullscreen">Полноэкранные приложения</string>
-	<!-- Original string: Swipe down from top of screen -->
 	<string name="settings_expandable_under_fullscreen_summary">Возможность доступа к панели состояния при работе с полноэкранными приложениями</string>
-	<!-- Original string: Expandable under keyguard -->
 	<string name="settings_expandable_under_keyguard">Заблокированный экран</string>
-	<!-- Original string: Only works for insecure keyguard -->
 	<string name="settings_expandable_under_keyguard_summary">Возможность доступа к панели состояния при заблокированном экране (если отсуствует пароль для разблокировки экрана)</string>
-	<!-- Original string: Expanded notification view -->
 	<string name="settings_expanded_view">Настройки раскрытия</string>
-	<!-- Original string: Notifications in status bar -->
 	<string name="settings_notification_icon">Уведомления в строке состояния</string>
-	<!-- Original string: No screenshot notification -->
 	<string name="settings_screenshot_notification_disabled">Не уведомлять о скриншоте</string>
-	<!-- Original string: Show flow details -->
 	<string name="settings_show_flow_info">Отображать трафик</string>
-	<!-- Original string: Show network speed -->
 	<string name="settings_show_network_speed">Отображать скорость сети</string>
-	<!-- Original string: Toggles -->
 	<string name="settings_toggle">Переключатели</string>
-	<!-- Original string: Collapse after clicked -->
 	<string name="settings_toggle_collapse_after_clicked">Свернуть после нажатия</string>
-	<!-- Original string: Toggle layout style -->
 	<string name="settings_toggle_layout_style">Стиль панели</string>
-	<!-- Original string: Changing toggle style... -->
 	<string name="settings_toggle_layout_style_applying">Изменение стиля переключателей...</string>
-	<!-- Original string: Compact -->
 	<string name="settings_toggle_layout_style_compact">Компакт</string>
-	<!-- Original string: Page -->
 	<string name="settings_toggle_layout_style_single_page">Сетка</string>
-	<!-- Original string: "Customize toggles' position" -->
 	<string name="settings_toggle_position">Расположение переключателей</string>
-	<!-- Original string: Toggles placed above bar are active -->
 	<string name="settings_toggle_position_divider_list">Переключатели выше - показываются</string>
-	<!-- Original string: %1$d toggles placed above bar are active -->
 	<string name="settings_toggle_position_divider_page">%1$d переключателей выше - показываются</string>
-	<!-- Original string: Reset toggles -->
 	<string name="settings_toggle_position_reset">Сброс переключателей</string>
-	<!-- Original string: Share -->
 	<string name="share">Поделиться</string>
-	<!-- Original string: E\nyyyy.M.d -->
 	<string name="status_bar_date_format">EEEE\nd MMMM yyyy</string>
-	<!-- Original string: Set up input methods -->
 	<string name="status_bar_input_method_settings_configure_input_methods">Настройка методов ввода</string>
-	<!-- Original string: "Today:%1$s    Remain:%2$s    Package:%3$s" -->
 	<string name="status_bar_network_flow">Сегодня: %1$s | Осталось: %2$s | Всего: %3$s</string>
-	<!-- Original string: "Today:%1$s    Exceeded:%2$s    Package:%3$s" -->
 	<string name="status_bar_network_flow_exceed">Сегодня: %1$s | Превышение: %2$s</string>
-	<!-- Original string: Today:%1$s -->
 	<string name="status_bar_network_flow_today">Сегодня: %1$s</string>
-	<!-- Original string: | -->
 	<string name="status_bar_network_name_separator">|</string>
-	<!-- Original string: No recent apps -->
 	<string name="status_bar_no_recent_apps">Нет недавних приложений</string>
-	<!-- Original string: App info -->
 	<string name="status_bar_notification_inspect_item_title">О приложении</string>
-	<!-- Original string: Slide up to close, slide down to lock -->
 	<string name="status_bar_recent_guide_all">Потяните вверх для закрытия, вниз для блокировки</string>
-	<!-- Original string: Slide down to lock -->
 	<string name="status_bar_recent_guide_bottom">Потяните вниз для блокировки</string>
-	<!-- Original string: Slide up to close -->
 	<string name="status_bar_recent_guide_top">Потяните вверх для закрытия</string>
-	<!-- Original string: App info -->
 	<string name="status_bar_recent_inspect_item_title">О приложении</string>
-	<!-- Original string: %1$s / %2$s available -->
 	<string name="status_bar_recent_memory_info">Доступно %1$s из %2$s</string>
-	<!-- Original string: Remove from list -->
 	<string name="status_bar_recent_remove_item_title">Удалить из списка</string>
-	<!-- Original string: Click to return to Recorder -->
 	<string name="status_bar_recording_back">Нажмите для возвращения в Диктофон</string>
-	<!-- Original string: Record is paused. Click to return to Recorder -->
 	<string name="status_bar_recording_pause">Пауза. Нажмите для перехода в Диктофон</string>
-	<!-- Original string: Airplane mode -->
 	<string name="status_bar_settings_airplane">Режим полета</string>
-	<!-- Original string: AUTO -->
 	<string name="status_bar_settings_auto_brightness_label">Автоматически</string>
-	<!-- Original string: Auto-rotate screen -->
 	<string name="status_bar_settings_auto_rotation">Автоповорот экрана</string>
-	<!-- Original string: Notifications -->
 	<string name="status_bar_settings_notifications">Уведомления</string>
-	<!-- Original string: Settings -->
 	<string name="status_bar_settings_settings_button">Настройки</string>
-	<!-- Original string: No Internet connection -->
 	<string name="status_bar_settings_signal_meter_disconnected">Нет подключения к Интернету</string>
-	<!-- Original string: Wi-Fi connected -->
 	<string name="status_bar_settings_signal_meter_wifi_nossid">Wi-Fi подключен</string>
-	<!-- Original string: Wi-Fi -->
 	<string name="status_bar_settings_wifi_button">Wi-Fi</string>
-	<!-- Original string: Status bar settings -->
 	<string name="status_bar_style_settings">Панель состояния</string>
-	<!-- Original string: Access control -->
 	<string name="status_bar_toggle_ac">Доступ</string>
-	<!-- Original string: Auto-Brightness -->
 	<string name="status_bar_toggle_auto_brightness">Автоподсв.</string>
-	<!-- Original string: BT -->
 	<string name="status_bar_toggle_bluetooth">Bluetooth</string>
-	<!-- Original string: Brightness -->
 	<string name="status_bar_toggle_brightness">Подсветка</string>
-	<!-- Original string: Data -->
 	<string name="status_bar_toggle_data">Интернет</string>
-	<!-- Original string: More -->
 	<string name="status_bar_toggle_divider">Еще</string>
-	<!-- Original string: Drive -->
 	<string name="status_bar_toggle_drive_mode">За рулем</string>
-	<!-- Original string: Airplane -->
 	<string name="status_bar_toggle_flight_mode">В самолете</string>
-	<!-- Original string: GPS -->
 	<string name="status_bar_toggle_gps">GPS</string>
-	<!-- Original string: Lock -->
 	<string name="status_bar_toggle_lock">Блокировка</string>
-	<!-- Original string: Silent -->
 	<string name="status_bar_toggle_mute">Без звука</string>
-	<!-- Original string: Network type -->
 	<string name="status_bar_toggle_network_type">Тип сети</string>
-	<!-- Original string: Performance -->
 	<string name="status_bar_toggle_power_high">Произв.</string>
-	<!-- Original string: Power saving -->
 	<string name="status_bar_toggle_power_low">Сбережение</string>
-	<!-- Original string: Normal -->
 	<string name="status_bar_toggle_power_mid">Баланс</string>
-	<!-- Original string: Power mode -->
 	<string name="status_bar_toggle_power_mode">Режим питания</string>
-	<!-- Original string: Guard -->
 	<string name="status_bar_toggle_privacy_mode">Гость</string>
-	<!-- Original string: Reboot -->
 	<string name="status_bar_toggle_reboot">Перезагрузка</string>
-	<!-- Original string: Ring -->
 	<string name="status_bar_toggle_ring">Звонок</string>
-	<!-- Original string: Ringtone -->
 	<string name="status_bar_toggle_ringtone">Мелодия</string>
-	<!-- Original string: Rotation -->
 	<string name="status_bar_toggle_rotate">Поворот</string>
-	<!-- Original string: Screen button -->
 	<string name="status_bar_toggle_screen_button">Клавиши</string>
-	<!-- Original string: Screen shot -->
 	<string name="status_bar_toggle_screenshot">Скриншот</string>
-	<!-- Original string: Power -->
 	<string name="status_bar_toggle_shutdown">Выключение</string>
-	<!-- Original string: Sync -->
 	<string name="status_bar_toggle_sync">Синхр.</string>
-	<!-- Original string: Auto sync -->
 	<string name="status_bar_toggle_sync_auto">Автосинхр.</string>
-	<!-- Original string: Manual sync -->
 	<string name="status_bar_toggle_sync_manual">Ручная синхр.</string>
-	<!-- Original string: Syncing -->
 	<string name="status_bar_toggle_syncing">Синхр...</string>
-	<!-- Original string: Torch -->
 	<string name="status_bar_toggle_torch">Фонарик</string>
-	<!-- Original string: Vibrate -->
 	<string name="status_bar_toggle_vibrate">Вибрация</string>
-	<!-- Original string: Wi-Fi -->
 	<string name="status_bar_toggle_wifi">Wi-Fi</string>
-	<!-- Original string: Physical keyboard -->
 	<string name="status_bar_use_physical_keyboard">Использование физической клавиатуры</string>
-	<!-- Original string: Notifications -->
 	<string name="tab_notifications_lable">Уведомления</string>
-	<!-- Original string: Toggles -->
 	<string name="tab_toggles_lable">Переключатели</string>
-	<!-- Original string: USB accessory -->
 	<string name="title_usb_accessory">USB-аксессуары</string>
-	<!-- Original string: You can quickly open flashlight by holding [icon] when in lock screen -->
 	<string name="torch_activity_hint">Фонарик можно быстро включить, удерживая [icon] на экране блокировки</string>
-	<!-- Original string: Torch -->
 	<string name="torch_activity_name">Фонарик</string>
-	<!-- Original string: Open %1$s when this USB accessory is connected? -->
 	<string name="usb_accessory_confirm_prompt">Открыть %1$s когда этот USB-аксессуар подключен?</string>
-	<!-- Original string: Allow the app %1$s to access the USB accessory? -->
 	<string name="usb_accessory_permission_prompt">Разрешить приложению %1$s доступ к USB-аксессуару?</string>
-	<!-- Original string: No installed apps work with this USB accessory. Learn more about this accessory at %1$s -->
 	<string name="usb_accessory_uri_prompt">Нет установленных приложений работающих с этим USB-аксессуаром. Узнайте больше об этом аксессуаре на %1$s</string>
-	<!-- Original string: Always allow from this computer -->
 	<string name="usb_debugging_always">Всегда разрешать с этого компьютера</string>
-	<!-- Original string: "The computer's RSA key fingerprint is:\n%1$s" -->
 	<string name="usb_debugging_message">Ключ RSA компьютера:\n%1$s</string>
-	<!-- Original string: Allow USB debugging? -->
 	<string name="usb_debugging_title">Включить отладку по USB?</string>
-	<!-- Original string: Open %1$s when this USB device is connected? -->
 	<string name="usb_device_confirm_prompt">Открыть %1$s когда это USB-устройство подключено?</string>
-	<!-- Original string: Allow the app %1$s to access the USB device? -->
 	<string name="usb_device_permission_prompt">Разрешить приложению %1$s доступ к устройству USB?</string>
-	<!-- Original string: "Don't ask next time" -->
 	<string name="usb_mode_dont_ask">Запомнить мой выбор</string>
-	<!-- Original string: Open USB storage now？ -->
 	<string name="usb_mode_mount_storage_title">Подключить USB накопитель?</string>
-	<!-- Original string: USB Storage -->
 	<string name="usb_mode_notification">USB накопитель</string>
-	<!-- Original string: Files -->
 	<string name="usb_mtp_text">Файлы</string>
-	<!-- Original string: Connected to USB -->
 	<string name="usb_notification">USB подключено</string>
-	<!-- Original string: Access mobile files via the computer -->
 	<string name="usb_notification_mtp_info">Доступ к файлам через подключение к компьютеру</string>
-	<!-- Original string: Help -->
 	<string name="usb_notification_mtp_problem">Помощь ></string>
-	<!-- Original string: Connected to USB(Files) -->
 	<string name="usb_notification_mtp_ticker_text">USB подключен (Файлы)</string>
-	<!-- Original string: Access photos via the computer -->
 	<string name="usb_notification_ptp_info">Доступ к фотографиям через подключение к компьютеру</string>
-	<!-- Original string: Connected to USB(Photos) -->
 	<string name="usb_notification_ptp_ticker_text">USB подключен (Фото)</string>
-	<!-- Original string: Photos -->
 	<string name="usb_ptp_text">Фото</string>
-	<!-- Original string: There is a problem using your USB storage for USB mass storage. -->
 	<string name="usb_storage_error_message">Проблема с USB накопителем</string>
-	<!-- Original string: You have connected to your computer via USB. Touch the button below if you want to copy files between your computer and your Android‘s USB storage. -->
 	<string name="usb_storage_message">Подключение к компьютеру через USB. Нажмите на кнопку ниже если вы хотите обмениваться файлами с компьютером и накопителем вашего Android устройства</string>
-	<!-- Original string: Select to copy files to/from your computer. -->
 	<string name="usb_storage_notification_message">Выберите, чтобы обмениваться файлами с компьютером.</string>
-	<!-- Original string: USB connected -->
 	<string name="usb_storage_notification_title">USB подключено</string>
-	<!-- Original string: Before turning off USB storage, make sure you have unmounted (“ejected”) your Android‘s USB storage from your computer. -->
 	<string name="usb_storage_stop_message">Прежде чем отключить USB накопитель, убедитесь, что демонтировали Android USB накопитель с вашего компьютера.</string>
-	<!-- Original string: Select to turn off USB storage. -->
 	<string name="usb_storage_stop_notification_message">Выберите чтобы отключить USB накопитель</string>
-	<!-- Original string: Turn off USB storage -->
 	<string name="usb_storage_stop_notification_title">Отключение USB накопителя</string>
-	<!-- Original string: USB storage in use -->
 	<string name="usb_storage_stop_title">USB накопитель используется</string>
-	<!-- Original string: USB connected -->
 	<string name="usb_storage_title">Подключение USB</string>
-	<!-- Original string: A new notification received，you can drag down the status bar to check detail -->
 	<string name="user_guide_for_notification">При получении нового уведомления, можно раскрыть панель состояния для получения дополнительных сведений</string>
-	<!-- Original string: The toggle list can be scrolled horizontally -->
 	<string name="user_guide_for_toggle">Список переключателей можно прокручивать по горизонтали</string>
-	<!-- Original string: Click this to customize the toggle list -->
 	<string name="user_guide_for_toggle_list">Нажмите, чтобы настроить список переключателей</string>
 </resources>

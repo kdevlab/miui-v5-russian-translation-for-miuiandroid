@@ -1,62 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--Merged and sorted with KDG BigBlackBox-->
 <resources>
-	<!-- Original string: Search -->
 	<string name="app_name">Поиск</string>
-	<!-- Original string: Clear shortcuts -->
 	<string name="clear_shortcuts">Очистить историю поиска</string>
-	<!-- Original string: Clear shortcuts -->
 	<string name="clear_shortcuts_agree">Очистить</string>
-	<!-- Original string: "Don't clear shortcuts" -->
 	<string name="clear_shortcuts_disagree">Отмена</string>
-	<!-- Original string: "Do you want to clear all shortcuts to recently chosen search suggestions?\n\nTo clear your Browser history, use the Browser's settings." -->
 	<string name="clear_shortcuts_prompt">Вся история поисковых запросов будет очищена (чтобы очистить историю Браузера, воспользуйтесь настройками Браузера)</string>
-	<!-- Original string: Clear shortcuts to recently chosen search suggestions -->
 	<string name="clear_shortcuts_summary">Очистка истории всех поисковых запросов</string>
-	<!-- Original string: Names of installed applications -->
 	<string name="corpus_description_apps">Названия приложений</string>
-	<!-- Original string: Web search, bookmarks, and browser history -->
 	<string name="corpus_description_web">Интернет, закладки и история Браузера</string>
-	<!-- Original string: Search apps -->
 	<string name="corpus_hint_apps">Поиск приложений</string>
-	<!-- Original string: Apps -->
 	<string name="corpus_label_apps">Приложения</string>
-	<!-- Original string: All -->
 	<string name="corpus_label_global">Везде</string>
-	<!-- Original string: Web -->
 	<string name="corpus_label_web">Интернет</string>
-	<!-- Original string: Search -->
 	<string name="corpus_selection_heading">Поиск</string>
-	<!-- Original string: Clear shortcuts -->
 	<string name="device_settings_category_title">Очистить историю поиска</string>
-	<!-- Original string: Google Search -->
 	<string name="google_app_label">Поиск Google</string>
-	<!-- Original string: Google Search suggestions -->
 	<string name="google_search_description">Предложения поиска Google</string>
-	<!-- Original string: Google Search -->
 	<string name="google_search_hint">Поиск Google</string>
-	<!-- Original string: Google -->
 	<string name="google_search_label">Google</string>
-	<!-- Original string: Google Search -->
 	<string name="google_settings_category_title">Поиск Google</string>
-	<!-- Original string: Help -->
 	<string name="menu_help">Помощь</string>
-	<!-- Original string: Search settings -->
 	<string name="menu_settings">Настройки</string>
-	<!-- Original string: Do you want to remove this item from the search history? -->
 	<string name="remove_from_history">Вы действительно хотите удалить данную запись из истории поиска?</string>
-	<!-- Original string: "Couldn't remove item from history." -->
 	<string name="remove_from_history_failed">Ошибка удаления записи из истории поиска</string>
-	<!-- Original string: Search settings -->
 	<string name="search_settings">Настройки</string>
-	<!-- Original string: Searchable items -->
 	<string name="search_sources">Элементы поиска</string>
-	<!-- Original string: Choose what to search on the phone -->
 	<string name="search_sources_summary">Выберите что искать в телефоне</string>
-	<!-- Original string: Search -->
 	<string name="search_widget">Поиск</string>
-	<!-- Original string: Phone -->
 	<string name="system_search_category_title">Телефон</string>
-	<!-- Original string: Try saying: -->
 	<string name="voice_search_hint_title">Говорите:</string>
 </resources>

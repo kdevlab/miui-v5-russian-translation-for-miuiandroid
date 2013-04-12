@@ -1,146 +1,75 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--Merged and sorted with KDG BigBlackBox-->
 <resources>
-	<!-- Original string: There is a problem parsing the package. -->
 	<string name="Parse_error_dlg_text">При синтаксическом анализе пакета возникла неполадка</string>
-	<!-- Original string: Parse error -->
 	<string name="Parse_error_dlg_title">Синтаксическая ошибка</string>
-	<!-- Original string: %1$s wants to install other apps.\n\nAllow this now and in the future? -->
 	<string name="allow_source_dlg_text">%1$s хочет установить другие приложения.\n\nРазрешить и запомнить выбор?</string>
-	<!-- Original string: Allow new source for apps? -->
 	<string name="allow_source_dlg_title">Разрешить добавление нового источника для приложений?</string>
-	<!-- Original string: Package installer -->
 	<string name="app_name">Программа установки приложений</string>
-	<!-- Original string: The application was not found in the list of installed applications. -->
 	<string name="app_not_found_dlg_text">Приложение не было найдено в списке установленных приложений</string>
-	<!-- Original string: Application not found -->
 	<string name="app_not_found_dlg_title">Приложение не найдено</string>
-	<!-- Original string: Miui will allow the App starting up automatically without asking. Which maybe lead to consumption of power or data traffic.\nAllow Autostart？ -->
 	<string name="auto_startup_dialog_msg">Система позволит приложению запускаться автоматически. Это может привести к потреблению трафика или батареи.\nРазрешить автозапуск?</string>
-	<!-- Original string: Caller: %1$s -->
 	<string name="caller_app">Запрос от %1$s</string>
-	<!-- Original string: Cancel -->
 	<string name="cancel">Отмена</string>
-	<!-- Original string: The application you are installing will replace another application.\n\nAll previous user data will be saved. -->
 	<string name="dlg_app_replacement_statement">Приложение, которое вы устанавливаете, заменит уже существующее.\n\nВсе пользовательские данные будут сохранены.</string>
-	<!-- Original string: Replace application -->
 	<string name="dlg_app_replacement_title">Замена приложения</string>
-	<!-- Original string: OK -->
 	<string name="dlg_ok">ОК</string>
-	<!-- Original string: This is a system application. Do you still want to replace it?\n\nAll previous user data will be saved. -->
 	<string name="dlg_sys_app_replacement_statement">Приложение, которое вы устанавливаете - системное. Хотите заменить?\n\nВсе пользовательские данные будут сохранены.</string>
-	<!-- Original string: Done -->
 	<string name="done">Готово</string>
-	<!-- Original string: High-risk Permissions -->
 	<string name="high_risk_perms">Разрешения высокого риска</string>
-	<!-- Original string: Install -->
 	<string name="install">Установить</string>
-	<!-- Original string: Do you want to install this application? -->
 	<string name="install_confirm_question">Установить это приложение?</string>
-	<!-- Original string: Application installed -->
 	<string name="install_done">Приложение установлено</string>
-	<!-- Original string: Application not installed -->
 	<string name="install_failed">Приложение не установлено</string>
-	<!-- Original string: "This application is not compatible with this phone's CPU." -->
 	<string name="install_failed_cpu_abi_incompatible">Процессор телефона не поддерживает это приложение</string>
-	<!-- Original string: The package specified was deleted before installation could be completed. -->
 	<string name="install_failed_file_not_found">Указанный пакет удален до завершения установки</string>
-	<!-- Original string: An existing package by the same name with a conflicting signature is already installed. -->
 	<string name="install_failed_inconsistent_certificates">Пакет с таким названием уже установлен и имеет конфликтующую подпись</string>
-	<!-- Original string: The package appears to be corrupt. -->
 	<string name="install_failed_invalid_apk">Файл поврежден</string>
-	<!-- Original string: %1$s could not be installed on this phone. -->
 	<string name="install_failed_msg">Установить приложение %1$s не удалось</string>
-	<!-- Original string: The package only works on newer versions of Android. -->
 	<string name="install_failed_older_sdk">Этот пакет поддерживается только в системе Android более поздних версий</string>
-	<!-- Original string: The package did not pass verification and cannot be installed. -->
 	<string name="install_failed_verify_failed">Пакет не проверен и не может быть установлен</string>
-	<!-- Original string: A timeout occurred while trying to verify this package. Please try to install it again later. -->
 	<string name="install_failed_verify_timeout">Не удалось проверить пакет. Попробуйте установить его позже.</string>
-	<!-- Original string: Installing… -->
 	<string name="installing">Установка...</string>
-	<!-- Original string: Open -->
 	<string name="launch">Открыть</string>
-	<!-- Original string: Lift ban -->
 	<string name="lift_ban">Снять запрет</string>
-	<!-- Original string: Low-risk Permissions -->
 	<string name="low_risk_perms">Разрешения низкого риска</string>
-	<!-- Original string: Manage applications -->
 	<string name="manage_applications">Управление приложениями</string>
-	<!-- Original string: Manage device administrators -->
 	<string name="manage_device_administrators">Настройки администрирования</string>
-	<!-- Original string: OK -->
 	<string name="ok">ОК</string>
-	<!-- Original string: Other permissions -->
 	<string name="other_relative">Другие разрешения</string>
-	<!-- Original string: %1$s could not be installed. Free up some space and try again. -->
 	<string name="out_of_space_dlg_text">Установить приложение %1$s не удалось. Освободите место и повторите попытку.</string>
-	<!-- Original string: Out of space -->
 	<string name="out_of_space_dlg_title">Недостаточно места</string>
-	<!-- Original string: Allow -->
 	<string name="perm_action_accept">Разрешить</string>
-	<!-- Original string: Ask -->
 	<string name="perm_action_prompt">Запрос</string>
-	<!-- Original string: Deny -->
 	<string name="perm_action_reject">Запретить</string>
-	<!-- Original string: Alert of Security -->
 	<string name="perm_notice">Оповещение безопасности</string>
-	<!-- Original string: Finish -->
 	<string name="perm_privacy_app_finish">Закрыть</string>
-	<!-- Original string: Installation succeeded! -->
 	<string name="perm_privacy_app_installed">Установка завершена!</string>
-	<!-- Original string: Launch -->
 	<string name="perm_privacy_app_launch">Открыть</string>
-	<!-- Original string: I trust this App -->
 	<string name="perm_privacy_app_trust">Доверять приложению</string>
-	<!-- Original string: MIUI will monitor this App -->
 	<string name="perm_privacy_app_trust_summary">Система не будет следить за этим приложением</string>
-	<!-- Original string: Autostart permission -->
 	<string name="perm_sysopt_boost_auto_start">Разрешить автозапуск</string>
-	<!-- Original string: The app will start up automatically! -->
 	<string name="perm_sysopt_boost_auto_start_summary">Разрешить приложению автозапуск при загрузке телефона</string>
-	<!-- Original string: Private relative permissions -->
 	<string name="privacy_relative">Опасные разрешения</string>
-	<!-- Original string: Technical support provided by %1$s -->
 	<string name="safe_guard_support">Техническая поддержка: %1$s</string>
-	<!-- Original string: Safe relative permissions -->
 	<string name="safe_relative">Безопасные разрешения</string>
-	<!-- Original string: Allow this application to: -->
 	<string name="security_settings_desc">Разрешить этому приложению:</string>
-	<!-- Original string: Settings -->
 	<string name="settings">Настройки</string>
-	<!-- Original string: Miui will not ask you for confirmation of any security and privacy related operations from this App. Please make sure that you have got it.\nTrust this App？ -->
 	<string name="trust_switch_dialog_msg">Система не будут спрашивать Вас о подтверждении любых операций связанных с безопасностью и конфиденциальностью. Пожалуйста, убедитесь, что хорошо знаете данного разработчика.\nВы доверяете этому приложению?</string>
-	<!-- Original string: %1$s is part of the following application: -->
 	<string name="uninstall_activity_text">%1$s является частью следующего приложения:</string>
-	<!-- Original string: This application will be uninstalled. -->
 	<string name="uninstall_application_text">Приложение будет удалено</string>
-	<!-- Original string: Uninstall Application -->
 	<string name="uninstall_application_title">Удаление приложения</string>
-	<!-- Original string: Do you want to uninstall the application? -->
 	<string name="uninstall_confirm_question">Вы действительно хотите удалить это приложение?</string>
-	<!-- Original string: Uninstall finished -->
 	<string name="uninstall_done">Удаление завершено</string>
-	<!-- Original string: Uninstall not successful -->
 	<string name="uninstall_failed">Ошибка при удалении</string>
-	<!-- Original string: Cannot uninstall: this package is an active device administrator. -->
 	<string name="uninstall_failed_device_policy_manager">Не удалось удалить пакет, так как он выбран для администрирования устройства</string>
-	<!-- Original string: %1$s could not be uninstalled -->
 	<string name="uninstall_failed_msg">Удалить приложение %1$s не удалось</string>
-	<!-- Original string: Application customized by the operator could not be uninstalled -->
 	<string name="uninstall_failed_retained_app_msg">Приложение, измененное оператором, не может быть удалено</string>
-	<!-- Original string: The application will be replaced with the factory version. -->
 	<string name="uninstall_update_text">Будет восстановлена исходная версия приложения</string>
-	<!-- Original string: Uninstall Update -->
 	<string name="uninstall_update_title">Удаление обновления</string>
-	<!-- Original string: Uninstalling… -->
 	<string name="uninstalling">Удаление...</string>
-	<!-- Original string: Unknown -->
 	<string name="unknown">Неизвестно</string>
-	<!-- Original string: For security reasons, your phone has been set to forbid installing applications obtained from unofficial channels.To lift the ban you can install applications from any channel,but your phone and personal data may be attacked by applications of unknown sources,and you shall assume full responsibility for the probable consequences.\n\nYou may also modify it via Settings->Security->Unknown sources. -->
 	<string name="unknown_apps_dlg_text">Для обеспечения безопасности на вашем телефоне заблокирована установка приложений, полученных не из Google Play</string>
-	<!-- Original string: Install blocked -->
 	<string name="unknown_apps_dlg_title">Установка заблокирована</string>
-	<!-- Original string: Unidentified PC tools -->
 	<string name="unknown_installer">Неизвестный установщик</string>
 </resources>

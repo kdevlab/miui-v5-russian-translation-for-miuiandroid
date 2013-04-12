@@ -1,368 +1,186 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--Merged and sorted with KDG BigBlackBox-->
 <resources>
-	<!-- Original string: Application is not installed on your phone. -->
 	<string name="activity_not_found">Приложение не найдено</string>
-	<!-- Original string: System Launcher -->
 	<string name="application_name">Рабочий стол</string>
-	<!-- Original string: Dangerous -->
 	<string name="aqi_quality_index_dangerous">Опасно</string>
-	<!-- Original string: Good -->
 	<string name="aqi_quality_index_good">Хорошо</string>
-	<!-- Original string: Hazardous -->
 	<string name="aqi_quality_index_hazardous">Опасно</string>
-	<!-- Original string: Light pollution -->
 	<string name="aqi_quality_index_light_pollution">Легкое загрязнение</string>
-	<!-- Original string: Moderate -->
 	<string name="aqi_quality_index_moderate">Умеренно</string>
-	<!-- Original string: Unhealthy -->
 	<string name="aqi_quality_index_unhealthy">Вредно</string>
-	<!-- Original string: Buffering... -->
 	<string name="buffering">Буферизация...</string>
-	<!-- Original string: Cancel -->
 	<string name="cancel_action">Отмена</string>
-	<!-- Original string: Cancel -->
 	<string name="cancel_btn_label">Отменить</string>
-	<!-- Original string: Unable to remove unempty folder -->
 	<string name="cant_remove_folder">Удаление невозможно, т.к. папка не пуста</string>
-	<!-- Original string: Unable to uninstall application customized by the operator -->
 	<string name="cant_remove_retained_app">Системное приложение удалить нельзя</string>
-	<!-- Original string: Unable to remove system application -->
 	<string name="cant_remove_system_app">Системное приложение нельзя удалить!</string>
-	<!-- Original string: Select wallpaper From -->
 	<string name="chooser_wallpaper">Выбрать обои из</string>
-	<!-- Original string: OK -->
 	<string name="confirm_btn_label">ОК</string>
-	<!-- Original string: Games -->
 	<string name="default_folder_title_game">Игры</string>
-	<!-- Original string: Recommend -->
 	<string name="default_folder_title_recommend">Рекомендуемые</string>
-	<!-- Original string: System &amp; Security -->
 	<string name="default_folder_title_security">Безопасность</string>
-	<!-- Original string: Tools -->
 	<string name="default_folder_title_tools">Инструменты</string>
-	<!-- Original string: Edit folder name -->
 	<string name="edit_folder_title">Редактирование папки</string>
-	<!-- Original string: Add or Edit widget -->
 	<string name="editing_tips">Добавление и редактирование виджетов</string>
-	<!-- Original string: Playlist is empty -->
 	<string name="emptyplaylist">Плейлист пуст</string>
-	<!-- Original string: Encryption -->
 	<string name="encryption">Шифрование</string>
-	<!-- Original string: Failed to delete. Please try again. -->
 	<string name="failed_to_delete_temporary">Удалить не удалось, повторите попытку позже</string>
-	<!-- Original string: Move failed -->
 	<string name="failed_to_drop">Перемещение не удалось</string>
-	<!-- Original string: Widget invalid -->
 	<string name="failed_to_drop_widget_invalid">Добавляемый виджет является недопустимым</string>
-	<!-- Original string: Failed to move. Not enough space! -->
 	<string name="failed_to_drop_widget_nospace">На экране не хватает места</string>
-	<!-- Original string: Folder -->
 	<string name="folder_name">Папка</string>
-	<!-- Original string: Invalid photo frame, failed to load frame! -->
 	<string name="frame_load_failed">Не удалось загрузить виджет Фоторамка!</string>
-	<!-- Original string: Select application -->
 	<string name="free_style_apps_title">Выберите приложения</string>
-	<!-- Original string: All applications -->
 	<string name="free_style_drawer_title">Все приложения</string>
-	<!-- Original string: Application -->
 	<string name="free_style_edit_app">Приложение</string>
-	<!-- Original string: Empty -->
 	<string name="free_style_edit_bar_empty">Пусто</string>
-	<!-- Original string: Select application -->
 	<string name="free_style_edit_bar_select_app">Выберите приложение</string>
-	<!-- Original string: Tap rectangle to edit -->
 	<string name="free_style_edit_bottom_empty_tip">Нажмите на прямоугольник для изменения</string>
-	<!-- Original string: Drawer -->
 	<string name="free_style_edit_drawer">Меню</string>
-	<!-- Original string: Long press to move item -->
 	<string name="free_style_edit_move_tip">Длительным нажатием можно переместить</string>
-	<!-- Original string: Objects -->
 	<string name="free_style_edit_tab_free_component">Компоненты</string>
-	<!-- Original string: Shortcuts -->
 	<string name="free_style_edit_tab_shortcut">Ярлыки</string>
-	<!-- Original string: Widgets -->
 	<string name="free_style_edit_tab_widget">Виджеты</string>
-	<!-- Original string: Slide down with two fingers to switch to MiSpace -->
 	<string name="free_style_enter_tip">Сдвиньте двумя пальцами вниз, чтобы перейти к свободному рабочему столу</string>
-	<!-- Original string: Slide up with two fingers to exit MiSpace -->
 	<string name="free_style_exit_tip">Сдвиньте двумя пальцами вверх, чтобы выйти из свободного рабочего стола</string>
-	<!-- Original string: Enhancing imagination… -->
 	<string name="free_style_londing_text">Загрузка, подождите…</string>
-	<!-- Original string: Task Cleaner -->
 	<string name="gadget_clear_button_label">Память</string>
-	<!-- Original string: Clock 2x1 -->
 	<string name="gadget_clock_12_label">Часы</string>
-	<!-- Original string: Clock 2x2 -->
 	<string name="gadget_clock_22_label">Часы</string>
-	<!-- Original string: Clock 4x2 -->
 	<string name="gadget_clock_24_label">Часы</string>
-	<!-- Original string: Problem loading widget -->
 	<string name="gadget_error_text">Проблема загрузки виджета</string>
-	<!-- Original string: Google Search -->
 	<string name="gadget_google_search_label">Поиск Google</string>
-	<!-- Original string: Widget loading... -->
 	<string name="gadget_load_error">Ошибка загрузки виджета...</string>
-	<!-- Original string: Photoframe 2x2 -->
 	<string name="gadget_photo_22_label">Фоторамка</string>
-	<!-- Original string: Photoframe 4x2 -->
 	<string name="gadget_photo_24_label">Фоторамка</string>
-	<!-- Original string: Photoframe 4x4 -->
 	<string name="gadget_photo_44_label">Фоторамка</string>
-	<!-- Original string: Click to install MIUI weather -->
 	<string name="gadget_weather_app_not_installed">Нажмите для установки Погоды MIUI</string>
-	<!-- Original string: Air quality -->
 	<string name="gadget_weather_aqi_title">Качество воздуха</string>
-	<!-- Original string: Need to download theme package: %1$s. size: %2$s. Please re-select after download completes -->
 	<string name="gadget_weather_download_message">Необходимо скачать тему: %1$s. размер: %2$s. Пожалуйста, выберите снова после завершения скачивания</string>
-	<!-- Original string: start -->
 	<string name="gadget_weather_download_start">начать</string>
-	<!-- Original string: Download -->
 	<string name="gadget_weather_download_title">Загрузить</string>
-	<!-- Original string: The theme package is downloading. Please re-select after download completes -->
 	<string name="gadget_weather_downloading">Загрузка пакета темы. Пожалуйста, выберите ее повторно после окончания загрузки.</string>
-	<!-- Original string: No weather data -->
 	<string name="gadget_weather_loading">Нет данных о погоде</string>
-	<!-- Original string: Low temp -->
 	<string name="gadget_weather_low_temp">Мин.</string>
-	<!-- Original string: Gadget type -->
 	<string name="gadget_weather_theme_type">Тип виджета</string>
-	<!-- Original string: MM/d EEE -->
 	<string name="gadget_weather_time_format">EEE, d MMM</string>
-	<!-- Original string: Weather 4X1 -->
 	<string name="gadget_weather_title_14">Погода 1X4</string>
-	<!-- Original string: Weather 4X2 -->
 	<string name="gadget_weather_title_24">Погода 2X4</string>
-	<!-- Original string: Enter keyword(s) to search -->
 	<string name="global_search_hint">Нажмите для поиска</string>
-	<!-- Original string: New Folder -->
 	<string name="group_folder">Новая папка</string>
-	<!-- Original string: Folders -->
 	<string name="group_live_folders">Папки</string>
-	<!-- Original string: Shortcuts -->
 	<string name="group_shortcuts">Ярлыки</string>
-	<!-- Original string: The app is not installed in your phone. Find and download app in Market now? -->
 	<string name="guide_install_app_msg">Это приложение не установлено на вашем телефоне. Найти это приложение в маркете?</string>
-	<!-- Original string: Install App -->
 	<string name="guide_install_app_title">Установить</string>
-	<!-- Original string: Hold widget below to drag it onto the screen -->
 	<string name="guide_tips_editing_mode">Удерживая виджет, перетащите его на экран</string>
-	<!-- Original string: Install -->
 	<string name="install">Установить</string>
-	<!-- Original string: Invalid contact shortcut -->
 	<string name="invalid_contact_shortcut">Недопустимый ярлык</string>
-	<!-- Original string: Loading launcher... -->
 	<string name="loading_desktop">Загрузка рабочего стола...</string>
-	<!-- Original string: Add -->
 	<string name="menu_add">Добавить</string>
-	<!-- Original string: Back to home -->
 	<string name="menu_back_desktop">Домой</string>
-	<!-- Original string: Edit widgets -->
 	<string name="menu_edit">Режим редактирования</string>
-	<!-- Original string: Exit Mi Space -->
 	<string name="menu_exit_scene">Выход из MiSpace</string>
-	<!-- Original string: Add to Home Screen -->
 	<string name="menu_item_add_item">Добавить на основной экран</string>
-	<!-- Original string: Launcher settings -->
 	<string name="menu_launcher_setting">Рабочий стол</string>
-	<!-- Original string: Reset to default scene -->
 	<string name="menu_reset_scene">Сбросить на стандарт</string>
-	<!-- Original string: Search -->
 	<string name="menu_search">Поиск</string>
-	<!-- Original string: Settings -->
 	<string name="menu_settings">Настройки</string>
-	<!-- Original string: Sort Home Screen icons -->
 	<string name="menu_sort">Сортировка</string>
-	<!-- Original string: Wallpaper -->
 	<string name="menu_wallpaper">Обои</string>
-	<!-- Original string: Preview -->
 	<string name="menu_workspace_preview">Просмотр</string>
-	<!-- Original string: No space on this Home Screen. -->
 	<string name="out_of_space">На этом экране нет свободного места</string>
-	<!-- Original string: Allows an application to add shortcuts without user intervention. -->
 	<string name="permdesc_install_shortcut">Позволяет приложению добавлять ярлыки без участия пользователя</string>
-	<!-- Original string: Allows an application to add widgets without user intervention. -->
 	<string name="permdesc_install_widget">Приложение сможет добавлять виджеты без вмешательства пользователя</string>
-	<!-- Original string: Allows an application to read the settings and shortcuts in Home. -->
 	<string name="permdesc_read_settings">Позволяет приложению считывать настройки и ярлыки на начальной странице</string>
-	<!-- Original string: Allows an application to remove shortcuts without user intervention. -->
 	<string name="permdesc_uninstall_shortcut">Позволяет приложению удалять ярлыки без участия пользователя</string>
-	<!-- Original string: Allows an application to change the settings and shortcuts in Home. -->
 	<string name="permdesc_write_settings">Позволяет приложению изменять настройки и ярлыки начальной страницы</string>
-	<!-- Original string: Install shortcuts -->
 	<string name="permlab_install_shortcut">Установка ярлыков</string>
-	<!-- Original string: Install widgets -->
 	<string name="permlab_install_widget">Установка виджетов</string>
-	<!-- Original string: Read Home Settings and Shortcuts -->
 	<string name="permlab_read_settings">Читать настройки и ярлыки начальной страницы</string>
-	<!-- Original string: Uninstall shortcuts -->
 	<string name="permlab_uninstall_shortcut">Удалять ярлыки</string>
-	<!-- Original string: Edit Home Settings and Shortcuts -->
 	<string name="permlab_write_settings">Записывать настройки и ярлыки главной страницы</string>
-	<!-- Original string: Edit photo -->
 	<string name="photo_adjust">Редактировать фото</string>
-	<!-- Original string: Confirm -->
 	<string name="photo_confirm">Готово</string>
-	<!-- Original string: Failed to load photo! -->
 	<string name="photo_load_failed">Не удалось загрузить фото!</string>
-	<!-- Original string: Cell layout type -->
 	<string name="pref_cell_layout_size">Сетка рабочего стола</string>
-	<!-- Original string: Turn off to free up memory. Will cause some lag. -->
 	<string name="pref_enable_drawing_cache_summary">Отключите, чтобы освободить больше памяти. Возможно притормаживание системы.</string>
-	<!-- Original string: Drawing cache -->
 	<string name="pref_enable_drawing_cache_title">Кэш графики</string>
-	<!-- Original string: Control icon shadows and the dock bar reflection effect. -->
 	<string name="pref_icon_shadow_summary">Добавление эффекта тени для значков на рабочем столе</string>
-	<!-- Original string: Icon shadow -->
 	<string name="pref_icon_shadow_title">Тень от значков</string>
-	<!-- Original string: Keep launcher running when memory is low. -->
 	<string name="pref_keep_in_memory_summary">Держать в памяти. Приложение не будет закрываться.</string>
-	<!-- Original string: Keep in memory -->
 	<string name="pref_keep_in_memory_title">Держать в памяти</string>
-	<!-- Original string: Close this option. Switching the icon layout can disrupt the icon positions. -->
 	<string name="pref_keep_layout_summary">Переключение сетки рабочего стола может нарушить положение иконок. Включите для сохранения положения иконок.</string>
-	<!-- Original string: Don’t change icon’s position -->
 	<string name="pref_keep_layout_title">Сохранять расстановку</string>
-	<!-- Original string: Turning off this option will improve drawing performance. -->
 	<string name="pref_render_in_truecolor_summary">Включите, чтобы улучшить качество цветов</string>
-	<!-- Original string: High quality graphics -->
 	<string name="pref_render_in_truecolor_title">Качественные цвета</string>
-	<!-- Original string: Transitional Effects -->
 	<string name="pref_screen_transformation_type_title">Эффект перехода экранов</string>
-	<!-- Original string: Wallpaper scroll types -->
 	<string name="pref_wallpaper_scroll_type_title">Прокрутка обоев</string>
-	<!-- Original string: General settings -->
 	<string name="preferences_general_title">Основные настройки</string>
-	<!-- Original string: Launcher Settings -->
 	<string name="preferences_title">Рабочий стол</string>
-	<!-- Original string: The scene will be reset to default layout -->
 	<string name="reset_scene_prompt">Расположение иконок на свободном рабочем столе будет сброшено в стандартное расположение</string>
-	<!-- Original string: Functions of buttons on the lower screen are disabled. You may enable them by pressing \"Home\" and \"Power\" -->
 	<string name="screen_button_disabled_message">Кнопки внизу экрана отключены. Вы можете включить их снова, нажав клавиши \"Домой\" и \"Питание\".</string>
-	<!-- Original string: Functions of buttons on the lower screen are enabled -->
 	<string name="screen_button_enabled_message">Кнопки на нижней части экрана включены</string>
-	<!-- Original string: Locked screen rotation to landscape mode -->
 	<string name="screen_rotation_freeze_message">Поворот экрана заблокирован в ландшафтном режиме</string>
-	<!-- Original string: Frame -->
 	<string name="select_frame">Рамка</string>
-	<!-- Original string: Photo -->
 	<string name="select_photo">Фото</string>
-	<!-- Original string: Sort by name -->
 	<string name="sort_by_abc">По имени</string>
-	<!-- Original string: Sort by usage -->
 	<string name="sort_by_frequency">По популярности</string>
-	<!-- Original string: Sort by default -->
 	<string name="sort_by_not_defined">По порядку</string>
-	<!-- Original string: Failed to start. Please try again -->
 	<string name="start_activity_failed">Не удалось запустить. Пожалуйста, попробуйте снова.</string>
-	<!-- Original string: Starting -->
 	<string name="starting_preset_app">Запуск...</string>
-	<!-- Original string: Access control -->
 	<string name="status_bar_toggle_ac">Доступ</string>
-	<!-- Original string: Auto-Brightness -->
 	<string name="status_bar_toggle_auto_brightness">Автоподсв.</string>
-	<!-- Original string: BT -->
 	<string name="status_bar_toggle_bluetooth">Bluetooth</string>
-	<!-- Original string: Brightness -->
 	<string name="status_bar_toggle_brightness">Яркость</string>
-	<!-- Original string: Data -->
 	<string name="status_bar_toggle_data">Интернет</string>
-	<!-- Original string: More -->
 	<string name="status_bar_toggle_divider">Еще</string>
-	<!-- Original string: Drive -->
 	<string name="status_bar_toggle_drive_mode">В машине</string>
-	<!-- Original string: Airplane -->
 	<string name="status_bar_toggle_flight_mode">В самолете</string>
-	<!-- Original string: GPS -->
 	<string name="status_bar_toggle_gps">GPS</string>
-	<!-- Original string: Lock -->
 	<string name="status_bar_toggle_lock">Блокировка</string>
-	<!-- Original string: Silent -->
 	<string name="status_bar_toggle_mute">Без звука</string>
-	<!-- Original string: Network type -->
 	<string name="status_bar_toggle_network_type">Тип сети</string>
-	<!-- Original string: Performance -->
 	<string name="status_bar_toggle_power_high">Производительность</string>
-	<!-- Original string: Power saving -->
 	<string name="status_bar_toggle_power_low">Энергосбережение</string>
-	<!-- Original string: Normal -->
 	<string name="status_bar_toggle_power_mid">Обычный</string>
-	<!-- Original string: Power mode -->
 	<string name="status_bar_toggle_power_mode">Режим питания</string>
-	<!-- Original string: Guard -->
 	<string name="status_bar_toggle_privacy_mode">Гость</string>
-	<!-- Original string: Reboot -->
 	<string name="status_bar_toggle_reboot">Перезагрузка</string>
-	<!-- Original string: Ring -->
 	<string name="status_bar_toggle_ring">Звонок</string>
-	<!-- Original string: Ringtone -->
 	<string name="status_bar_toggle_ringtone">Мелодия</string>
-	<!-- Original string: Rotation -->
 	<string name="status_bar_toggle_rotate">Поворот</string>
-	<!-- Original string: Screen button -->
 	<string name="status_bar_toggle_screen_button">Кнопки</string>
-	<!-- Original string: Screen shot -->
 	<string name="status_bar_toggle_screenshot">Скриншот</string>
-	<!-- Original string: Power -->
 	<string name="status_bar_toggle_shutdown">Выключение</string>
-	<!-- Original string: Sync -->
 	<string name="status_bar_toggle_sync">Синхрониз.</string>
-	<!-- Original string: Auto sync -->
 	<string name="status_bar_toggle_sync_auto">Автосинхрон.</string>
-	<!-- Original string: Manual sync -->
 	<string name="status_bar_toggle_sync_manual">Ручная синхронизация</string>
-	<!-- Original string: Syncing -->
 	<string name="status_bar_toggle_syncing">Синхронизация</string>
-	<!-- Original string: Torch -->
 	<string name="status_bar_toggle_torch">Фонарик</string>
-	<!-- Original string: Vibrate -->
 	<string name="status_bar_toggle_vibrate">Вибрация</string>
-	<!-- Original string: Wi-Fi -->
 	<string name="status_bar_toggle_wifi">Wi-Fi</string>
-	<!-- Original string: Select Folder -->
 	<string name="title_select_live_folder">Выберите папку</string>
-	<!-- Original string: Select Shortcut -->
 	<string name="title_select_shortcut">Выберите ярлык</string>
-	<!-- Original string: Select toggle -->
 	<string name="toggle_select_title">Выберите переключатели</string>
-	<!-- Original string: Toggle -->
 	<string name="toggle_title">Переключатели</string>
-	<!-- Original string: Classic -->
 	<string name="transformation_type_classic">Стандартный</string>
-	<!-- Original string: Classic (No Overshoot) -->
 	<string name="transformation_type_classic_no_overshoot">Стандартный (без эффектов)</string>
-	<!-- Original string: Crossfade -->
 	<string name="transformation_type_crossfade">Угасание</string>
-	<!-- Original string: 3D Cube -->
 	<string name="transformation_type_cube">Объемный куб</string>
-	<!-- Original string: Tumbling -->
 	<string name="transformation_type_falldown">Поворот</string>
-	<!-- Original string: Page -->
 	<string name="transformation_type_leftpage">Перелистывание</string>
-	<!-- Original string: Rotation -->
 	<string name="transformation_type_rotate">Вращение</string>
-	<!-- Original string: Cascading -->
 	<string name="transformation_type_stack">Каскад</string>
-	<!-- Original string: Uninstall -->
 	<string name="uninstall">Удалить</string>
-	<!-- Original string: Uninstall will remove all data -->
 	<string name="uninstall_dialog_message">Приложение будет удалено со всеми данными</string>
-	<!-- Original string: Uninstall \"%s\" -->
 	<string name="uninstall_dialog_title_format">Удалить \"%s\"?</string>
-	<!-- Original string: Unknown Artist -->
 	<string name="unknown_artist_name">Неизвестный артист</string>
-	<!-- Original string: Unnamed folder -->
 	<string name="unnamed_folder_name">Без имени</string>
-	<!-- Original string: all -->
 	<string name="wallpaper_scrolling">все</string>
-	<!-- Original string: Editor -->
 	<string name="widget_favorite_contacts_edit">Изменить</string>
-	<!-- Original string: Favorite contacts -->
 	<string name="widget_favorite_contacts_label">Контакты</string>
-	<!-- Original string: Switch Size -->
 	<string name="widget_favorite_contacts_style">Вид</string>
-	<!-- Original string: Music -->
 	<string name="widget_gadget_player">Музыка</string>
-	<!-- Original string: Global search -->
 	<string name="widget_global_search">Поиск</string>
 </resources>

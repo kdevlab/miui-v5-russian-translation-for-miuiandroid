@@ -1,66 +1,35 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--Merged and sorted with KDG BigBlackBox-->
 <resources>
-	<!-- Original string: Continue -->
 	<string name="continues">Продолжить</string>
-	<!-- Original string: If you have not applied for a data package, it is recommended to turn off data usage. Otherwise, carrier may charge you additional fees. -->
 	<string name="data_usage_summary">Если Вы еще не настроили предел трафика, рекомендуется отключить использование данных. В противном случаи, Ваш оператор может взимать дополнительные денежные расходы.</string>
-	<!-- Original string: Input Method -->
 	<string name="input_method">Метод ввода</string>
-	<!-- Original string: Choose Default Input Method -->
 	<string name="input_method_category">Выберите метод ввода по умолчанию</string>
-	<!-- Original string: Next -->
 	<string name="next">Далее</string>
-	<!-- Original string: Google Location service -->
 	<string name="other_service_google_location">Сервис местоположения Google</string>
-	<!-- Original string: Location &amp; Google search -->
 	<string name="other_service_google_location_use">Местоположение и поиск Google</string>
-	<!-- Original string: "Allow Google's location service to collect anonymous location data. Collection will occur even when no applications are running.\nTo adjust this setting, go to Settings > Location services" -->
 	<string name="other_service_google_location_use_help">Разрешить сервису определения местоположения Google собирать личные локальные данные. Сбор данных будет происходить даже при незапущенных приложениях.\nИзменить настройки можно в Параметры > Местоположение</string>
-	<!-- Original string: Let Google use your location to improve search results and other services -->
 	<string name="other_service_google_location_use_summary">Разрешить использовать Google местоположение для улучшения результатов поиска и других услуг</string>
-	<!-- Original string: Other services -->
 	<string name="other_service_label">Другие сервисы</string>
-	<!-- Original string: Location service -->
 	<string name="other_service_location">Местоположение</string>
-	<!-- Original string: Location service allows map and other application(s) to retrieve your location details via GPS -->
 	<string name="other_service_location_summary">Местоположение позволяет карте и другим приложениям получить свои данные местоположения с помощью GPS</string>
-	<!-- Original string: Manage App Permissions -->
 	<string name="other_service_permission_manager">Управление правами приложений</string>
-	<!-- Original string: Monitoring apps for security and privacy -->
 	<string name="other_service_permission_manager_summary">Мониторинг приложений для обеспечения безопасности и конфиденциальности</string>
-	<!-- Original string: User experience program -->
 	<string name="other_service_user_experience">Программа повышения качества</string>
-	<!-- Original string: "We count on you to use our product and features and hope you can help us by providing feedback. Your feedback will be assured via our " -->
 	<string name="other_service_user_experience_summary0">"Способствуйте улучшению нашего продукта, предварительно ознакомившись с нашей "</string>
-	<!-- Original string: Privacy policy -->
 	<string name="other_service_user_experience_summary1">политикой конфиденциальности</string>
-	<!-- Original string: After sales service will be activated from the first time you use your phone -->
 	<string name="setup_complete_info">Система запишет все настройки и создаст кеш. Возможно некоторое время притормаживание системы.</string>
-	<!-- Original string: Thank you -->
 	<string name="setup_complete_label">Спасибо!</string>
-	<!-- Original string: Start using your phone -->
 	<string name="setup_complete_start">Начать использование</string>
-	<!-- Original string: Setup complete! Enjoy the exciting MIUI! -->
 	<string name="setup_complete_summary">Настройка завершена! Наслаждайтесь захватывающей MIUI!</string>
-	<!-- Original string: Shut down -->
 	<string name="shutdown">Выключить</string>
-	<!-- Original string: Detecting SIM card. Please wait. -->
 	<string name="sim_card_detection_dialog_message">Поиск SIM-карты. Пожалуйста, подождите...</string>
-	<!-- Original string: "We can't setup Xiaomi account without a SIM card. You need a SIM card to enjoy such services like account synchronization, phone tracking etc." -->
 	<string name="sim_card_detection_info">Вы не можете настроить аккаунт Xiaomi без SIM-карты. Вам необходима SIM-карта для использования синхронизации контактов, поиска телефона и тд.</string>
-	<!-- Original string: SIM card detection -->
 	<string name="sim_card_detection_label">Поиск SIM-карты</string>
-	<!-- Original string: SIM card is not detected! -->
 	<string name="sim_card_detection_status_absent">SIM-карта не доступна. Пожалуйста, вставьте SIM-карту и перезагрузитесь или продолжите.</string>
-	<!-- Original string: Data traffic protection -->
 	<string name="traffic_protection_label">Монитор трафика</string>
-	<!-- Original string: Data traffic protection will remind you when your data plan has reached its limit to avoid exceeding your data plan. -->
 	<string name="traffic_protection_summary">Монитор трафика напомнит вам, когда трафик на вашем тарифном плане закончился</string>
-	<!-- Original string: Please input your data plan limits. -->
 	<string name="traffic_protection_text_hint">Введите лимит трафика</string>
-	<!-- Original string: <u>"I don't know. Please input later."</u> -->
 	<string name="traffic_protection_unknown">Пропустить</string>
-	<!-- Original string: Data enabled -->
 	<string name="use_data">Данные включены</string>
 </resources>
