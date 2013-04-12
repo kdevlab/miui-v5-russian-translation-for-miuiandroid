@@ -8,13 +8,13 @@
 	<string name="add_tracks">Добавить треки</string>
 	<string name="album_display_settings">Показывать обложки</string>
 	<string name="album_display_summary">Показывать обложки альбомов в интерфейсе проигрывателя. Рекомендуется включить</string>
-	<string name="album_download">Загрузить обложку</string>
+	<string name="album_download">Загрузка обложки...</string>
 	<string name="album_edit">Альбом</string>
 	<string name="album_picker_not_found">Галерея не найдена на устройстве</string>
 	<string name="album_search_failed">Обложки альбома не найдены!</string>
 	<string name="album_search_local_descript">Телефон | %1$d x %2$d</string>
 	<string name="album_search_online_descript">Онлайн | %1$d x %2$d</string>
-	<string name="album_select">Пожалуйста, выберите обложку альбома</string>
+	<string name="album_select">Выберите обложку альбома</string>
 	<string name="albums_title">"Альбомы "</string>
 	<string name="all_tracks">Все треки</string>
 	<string name="android_album_settings">Встроенная обложка</string>

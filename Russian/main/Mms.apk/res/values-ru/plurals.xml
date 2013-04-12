@@ -16,4 +16,8 @@
     <plurals name="recipient_count">
         <item quantity="other">%1$s чел.</item>
     </plurals>
+    <plurals name="message_count">
+        <item quantity="other">Сообщений: %1$s</item>
+        <item quantity="one">%1$s сообщение</item>
+    </plurals>
 </resources>

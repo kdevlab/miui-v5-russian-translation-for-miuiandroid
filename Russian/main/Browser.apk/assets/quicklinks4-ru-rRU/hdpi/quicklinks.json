@@ -2,37 +2,37 @@
     "quicklinks":[
         {
             "title":"Google",
-            "url":"http://www.google.com/",
+            "url":"http://www.google.ru/",
             "thumbnail":"thumb_google.png",
-            "logobg":"bg06.9.png",
+            "logobg":"bg09.9.png",
             "favicon":""
         },
         {
             "title":"Picasa",
             "url":"http://picasaweb.google.com/",
             "thumbnail":"thumb_picasa.png",
-            "logobg":"bg01.9.png",
+            "logobg":"bg07.9.png",
             "favicon":""
         },
         {
             "title":"Yandex",
             "url":"http://www.yandex.ru/",
             "thumbnail":"yandex.png",
-            "logobg":"bg01.9.png",
+            "logobg":"bg02.9.png",
             "favicon":""
         },
         {
             "title":"4PDA",
             "url":"http://4pda.ru",
             "thumbnail":"4pda.png",
-            "logobg":"bg03.9.png",
+            "logobg":"bg12.9.png",
             "favicon":""
         },
         {
             "title":"MIUI English",
             "url":"http://en.miui.com/",
             "thumbnail":"en_miui.png",
-            "logobg":"bg04.9.png",
+            "logobg":"bg10.9.png",
             "favicon":""
         },
         {
@@ -53,7 +53,7 @@
             "title":"MI-Droid",
             "url":"http://www.mi-droid.ru/",
             "thumbnail":"mi_droid.png",
-            "logobg":"bg12.9.png",
+            "logobg":"bg13.9.png",
             "favicon":""
         },
         {
@@ -67,12 +67,12 @@
             "title":"ВКонтакте",
             "url":"http://www.vk.com",
             "thumbnail":"vkontakte.png",
-            "logobg":"bg13.9.png",
+            "logobg":"bg14.9.png",
             "favicon":""
         },
         {
             "title":"Twitter",
-            "url":"http://twitter.com/",
+            "url":"http://twitter.com",
             "thumbnail":"twitter_ru.png",
             "logobg":"bg03.9.png",
             "favicon":""

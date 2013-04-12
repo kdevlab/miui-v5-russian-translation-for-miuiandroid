@@ -32,7 +32,7 @@
 	<string name="aggregation_suggestion_join_dialog_message">Объединить текущий контакт с выбранным контактом?</string>
 	<string name="all_list_empty">Нет контактов</string>
 	<string name="all_resources">Все</string>
-	<string name="attach_photo_dialog_title">Изображение контакта</string>
+	<string name="attach_photo_dialog_title">Фото контакта</string>
 	<string name="audio_chat">Голосовой чат</string>
 	<string name="auto_nickname">Авто</string>
 	<string name="auto_set_nickname">Авто</string>
@@ -202,7 +202,7 @@
 	<string name="description_call_log_play_button">Прослушать голосовую почту</string>
 	<string name="description_call_log_unheard_voicemail">Непрослушанная голосовая почта</string>
 	<string name="description_call_log_voicemail">Голосовая почта</string>
-	<string name="description_contact_photo">изображение контакта</string>
+	<string name="description_contact_photo">фото контакта</string>
 	<string name="description_delete_button">назад</string>
 	<string name="description_designer">Дизайнер:</string>
 	<string name="description_dial_button">набрать</string>

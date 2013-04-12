@@ -432,7 +432,7 @@
 	<string name="incall_error_supp_service_switch">Не удается переключить вызовы</string>
 	<string name="incall_error_supp_service_transfer">Не удалось перевести вызов</string>
 	<string name="incall_error_supp_service_unknown">Услуга не поддерживается</string>
-	<string name="incall_screen_background_summary_miui">Использовать обои экрана блокировки при отсутствии изображения абонента</string>
+	<string name="incall_screen_background_summary_miui">Использовать обои экрана блокировки при отсутствии фото контакта</string>
 	<string name="incall_screen_background_title_miui">Изображение вызова</string>
 	<string name="incall_status_dialed_mmi">Запуск последовательности MMI...</string>
 	<string name="international_disable">Международные новости отключены</string>

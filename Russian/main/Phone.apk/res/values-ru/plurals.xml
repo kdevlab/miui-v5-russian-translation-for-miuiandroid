@@ -12,4 +12,9 @@
         <item quantity="other">Выбранные действия недоступны в режиме экстренных обратных вызовов. Телефон будет оставаться в этом режиме еще %s мин. Выйти из режима?</item>
         <item quantity="one">Выбранное действие недоступно в режиме экстренных обратных вызовов. Телефон будет оставаться в этом режиме еще %s мин. Выйти из режима?</item>
     </plurals>
+    <plurals name="numSelectedSimContacts">
+        <item quantity="other">Выбрано: %1$d</item>
+        <item quantity="zero">Выбрано: %1$d</item>
+        <item quantity="one">Выбрано: %1$d</item>
+    </plurals>
 </resources>

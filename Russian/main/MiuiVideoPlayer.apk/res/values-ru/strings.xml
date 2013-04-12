@@ -3,7 +3,6 @@
 <resources>
 	<string name="about_app_name">MiPlayer</string>
 	<string name="about_title">О программе</string>
-	<string name="about_version">V4.0 (Русская версия от KDGDev)</string>
 	<string name="adjust_position_next_media_notice">Следующий</string>
 	<string name="adjust_position_prev_media_notice">Предыдущий</string>
 	<string name="airkan_control_device_des">Вы можете управлять воспроизведением видео с помощью кнопки в нижней части</string>
@@ -18,24 +17,24 @@
 	<string name="menu_item_about_label">О программе</string>
 	<string name="menu_item_hide_media_info_label">Скрыть информацию</string>
 	<string name="menu_item_media_info_label">Показать информацию</string>
-	<string name="menu_item_orientation_auto_sensor_action">Включить Поворот</string>
-	<string name="menu_item_orientation_fixed_by_videosize_action">Отключить Поворот</string>
+	<string name="menu_item_orientation_auto_sensor_action">Включить поворот</string>
+	<string name="menu_item_orientation_fixed_by_videosize_action">Отключить поворот</string>
 	<string name="menu_item_screen_shot">Скриншот</string>
-	<string name="menu_item_sub_title">субтитры</string>
+	<string name="menu_item_sub_title">Субтитры</string>
 	<string name="menu_item_switch_width_height_label">Соотношение сторон</string>
-	<string name="menu_wh_item_adapt_height_label">Вместить по высоте</string>
-	<string name="menu_wh_item_adapt_width_label">Вместить по ширине</string>
-	<string name="menu_wh_item_auto_select_label">Автовыбор</string>
+	<string name="menu_wh_item_adapt_height_label">По высоте</string>
+	<string name="menu_wh_item_adapt_width_label">По ширине</string>
+	<string name="menu_wh_item_auto_select_label">Автоматически</string>
 	<string name="menu_wh_item_full_screen_label">На весь экран</string>
-	<string name="menu_wh_item_using_16_9_label">Принудительно 16:9</string>
-	<string name="menu_wh_item_using_4_3_label">Принудительно 4:3</string>
+	<string name="menu_wh_item_using_16_9_label">Формат 16:9</string>
+	<string name="menu_wh_item_using_4_3_label">Формат 4:3</string>
 	<string name="temp_play_history_button_label">История плеера</string>
-	<string name="to_be_play_label_v5">Начало воспроизведения</string>
-	<string name="toast_back_key_pressed_notice">Нажмите НАЗАД еще раз для выхода</string>
-	<string name="toast_message_continue_play_from">"Продолжить с "</string>
-	<string name="toast_message_continue_play_hour">часов</string>
-	<string name="toast_message_continue_play_minute">минут</string>
-	<string name="toast_message_continue_play_second_and_play">секунд</string>
+	<string name="to_be_play_label_v5">Воспроизведение</string>
+	<string name="toast_back_key_pressed_notice">Нажмите \"Назад\" еще раз для выхода</string>
+	<string name="toast_message_continue_play_from">"Продолжение с "</string>
+	<string name="toast_message_continue_play_hour">ч.</string>
+	<string name="toast_message_continue_play_minute">мин.</string>
+	<string name="toast_message_continue_play_second_and_play">сек.</string>
 	<string name="top_status_local_media">Локально</string>
 	<string name="top_status_online_media">Онлайн</string>
 	<string name="video_info_audio_bitrate_label">Битрейт аудио:</string>
@@ -47,7 +46,7 @@
 	<string name="video_info_video_coding_label">Видео кодек:</string>
 	<string name="vp_VideoView_error_button">OK</string>
 	<string name="vp_VideoView_error_network_not_available">Сеть не доступна</string>
-	<string name="vp_VideoView_error_text_invalid_progressive_playback">Извините, но этот формат видео не возможно проиграть на этом устройстве</string>
-	<string name="vp_VideoView_error_text_unknown">Извините, но этот формат видео не возможно проиграть на этом устройстве</string>
-	<string name="vp_VideoView_error_title">Ошибка проигрывания!</string>
+	<string name="vp_VideoView_error_text_invalid_progressive_playback">Невозможно воспроизвести видео</string>
+	<string name="vp_VideoView_error_text_unknown">Формат видео не поддерживается</string>
+	<string name="vp_VideoView_error_title">Ошибка воспроизведения!</string>
 </resources>

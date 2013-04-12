@@ -29,7 +29,7 @@
 	<string name="analog_gadget">Часы</string>
 	<string name="app_label">Часы</string>
 	<string name="auto_silence_never">Выкл.</string>
-	<string name="auto_silence_summary">Будильник автоматически отключается через %d мин.</string>
+	<string name="auto_silence_summary">Автоматическое выключение будильника через %d мин.</string>
 	<string name="auto_silence_title">Авто-отключение</string>
 	<string name="cancel">Стоп</string>
 	<string name="clock_instructions">Выберите часы</string>
