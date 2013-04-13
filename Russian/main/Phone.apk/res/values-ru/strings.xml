@@ -31,7 +31,7 @@
 	<string name="answer_and_hangup_miui">Окончание вызова и ответ</string>
 	<string name="answer_features_setting_category_miui">Настройки ответа</string>
 	<string name="answer_miui">Ответ</string>
-	<string name="answer_state_setting_summary">Настройки датчика приближения, выключения звука и т.д.</string>
+	<string name="answer_state_setting_summary">Настройки датчика приближения и положения телефона в пространстве.</string>
 	<string name="answer_state_setting_title">Входящие вызовы</string>
 	<string name="answer_state_setting_title_miui">Входящие вызовы</string>
 	<string name="answer_widget_dialog_title_miui">Жест ответа</string>
@@ -67,7 +67,7 @@
 	<string name="auto_answer_summary_delay">" (задержка: %s сек.)"</string>
 	<string name="auto_answer_summary_not_enabled">Не включено</string>
 	<string name="auto_country_code_miui">Добавлять код страны</string>
-	<string name="auto_country_code_sum_miui">Автоматически добавлять код страны перед номером телефона</string>
+	<string name="auto_country_code_sum_miui">Автоматическое добавление кода страны перед номером телефона.</string>
 	<string name="auto_ip_add_exception_numbers_miui">Добавить номер</string>
 	<string name="auto_ip_exception_miui">Номера, которым не нужен префикс</string>
 	<string name="auto_ip_exception_summary_miui">%d всего</string>
@@ -249,7 +249,7 @@
 	<string name="data_enabled">Передача данных</string>
 	<string name="default_contacts_countrycode_hint_miui">Например: 7</string>
 	<string name="default_contacts_countrycode_miui">Стандартный код города</string>
-	<string name="default_contacts_countrycode_sum_miui">Задайте стандартный код города: %s</string>
+	<string name="default_contacts_countrycode_sum_miui">Редактирование стандартного кода города: %s</string>
 	<string name="default_preference_summary">&lt;Не настроено></string>
 	<string name="default_transport">UDP</string>
 	<string name="delete_all_sim_contacts_miui">Удалить все контакты с SIM-карты</string>
@@ -658,8 +658,8 @@
 	<string name="pin_progress_unlock_icc_miui">Разблокирование SIM-карты...</string>
 	<string name="port">Порт</string>
 	<string name="port_title">Номер порта</string>
-	<string name="pref_custom_location_summary_miui">Настройка региональных приставок и количество приставок</string>
-	<string name="pref_custom_location_title_miui">Настройка приставок</string>
+	<string name="pref_custom_location_summary_miui">Редактирование региональных приставок.</string>
+	<string name="pref_custom_location_title_miui">Региональные приставки</string>
 	<string name="prefer_2g">Только 2G</string>
 	<string name="prefer_2g_summary">Использовать сети 2G для экономии заряда батареи</string>
 	<string name="preference_category_ringtone">Рингтон</string>

@@ -128,7 +128,7 @@
         <item>Выключен (энергосбережение)</item>
     </string-array>
     <string-array name="wifi_sleep_policy_entries_wifi_only">
-        <item>Включен (большой расход батареи!)</item>
+        <item>Включен (высокое энергопотребление)</item>
         <item>Включен, если подключено питание</item>
         <item>Выключен (энергосбережение)</item>
     </string-array>

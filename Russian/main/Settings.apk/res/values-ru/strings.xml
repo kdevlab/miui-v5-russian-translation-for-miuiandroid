@@ -1280,7 +1280,7 @@
 	<string name="pref_volume_wake_summary">Нажатие клавиш регулировки громкости в заблокированном состоянии разбудит устройство</string>
 	<string name="pref_volume_wake_title">Пробуждать устройство</string>
 	<string name="preference_change_password_title">Изменить пароль</string>
-	<string name="preferred_launcher_title">Рабочий стол</string>
+	<string name="preferred_launcher_title">Выбор рабочего стола</string>
 	<string name="preferred_launcher_warning_message">После смены системного рабочего стола, может увеличиться потребление энергии и уменьшиться скорость работы телефона. Рекомендуется использовать рабочий стол по умолчанию.</string>
 	<string name="preferred_launcher_warning_replace">Применить</string>
 	<string name="preferred_launcher_warning_title">Замена рабочего стола</string>
@@ -1588,7 +1588,7 @@
 	<string name="skip_step">Пропустить шаг</string>
 	<string name="small_font">Маленький</string>
 	<string name="sms_delivered_sound_dialog_title">Выберите звук для уведомления о доставке сообщения</string>
-	<string name="sms_delivered_sound_title">Доставлено</string>
+	<string name="sms_delivered_sound_title">Доставка</string>
 	<string name="sms_over_ims_off">Отключить SMS через IMS</string>
 	<string name="sms_over_ims_on">Включить SMS через IMS</string>
 	<string name="sms_received_sound_dialog_title">Выбор звука при получении сообщения</string>

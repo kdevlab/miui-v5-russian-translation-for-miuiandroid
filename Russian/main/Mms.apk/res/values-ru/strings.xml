@@ -55,9 +55,9 @@
 	<string name="confirm_delete_all_conversations">Вы уверены, что хотите удалить все переписки?</string>
 	<string name="confirm_delete_conversation">Вы уверены, что хотите удалить данную переписку?</string>
 	<string name="confirm_delete_group_message">Вы уверены, что хотите удалить выбранные сообщения?</string>
-	<string name="confirm_delete_locked_message">Вы уверены, что хотите удалить это заблокированное сообщение?</string>
+	<string name="confirm_delete_locked_message">Вы уверены, что хотите удалить это закрепленное сообщение?</string>
 	<string name="confirm_delete_message">Вы уверены, что хотите удалить выбранное сообщение?</string>
-	<string name="confirm_dialog_locked_title">Удалить заблокированное сообщение?</string>
+	<string name="confirm_dialog_locked_title">Удалить закрепленное сообщение?</string>
 	<string name="confirm_dialog_title">Удаление</string>
 	<string name="confirm_export_dialog_description">После удаления приватного контакта Ваша переписка восстановится в обычный режим. Продолжить?</string>
 	<string name="confirm_export_dialog_title">Удаление приватного контакта</string>
@@ -86,7 +86,7 @@
 	<string name="delete_bookmark">Убрать из избранных</string>
 	<string name="delete_message">Удалить</string>
 	<string name="delete_phrase">Удалить шаблон</string>
-	<string name="delete_unlocked">Удалить заблокированные сообщения</string>
+	<string name="delete_unlocked">Удалить закрепленные сообщения</string>
 	<string name="delivery_report_activity">Отчет о доставке</string>
 	<string name="delivery_toast_body">%s: сообщение доставлено</string>
 	<string name="disable_notifications_dialog_message">Не дублировать уведомления об SMS из приложения обмена сообщениями по умолчанию</string>
@@ -158,11 +158,11 @@
 	<string name="menu_delete_messages">Удалить сообщения</string>
 	<string name="menu_edit">Изменить</string>
 	<string name="menu_forward">Переслать</string>
-	<string name="menu_lock">Заблокировать</string>
+	<string name="menu_lock">Закрепить</string>
 	<string name="menu_new_manual">Ввести номер вручную</string>
 	<string name="menu_pick_from_contact">Выбрать из контактов</string>
 	<string name="menu_preferences">Настройки</string>
-	<string name="menu_unlock">Разблокировать</string>
+	<string name="menu_unlock">Открепить</string>
 	<string name="menu_view_contact">Просмотреть контакт</string>
 	<string name="message_class_label">"Класс сообщений: "</string>
 	<string name="message_details_title">Сведения о сообщении</string>
