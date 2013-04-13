@@ -11,6 +11,7 @@
         <item>Будильник зазвонит через %1$s, %2$s и %3$s</item>
     </string-array>
     <string-array name="snooze_duration_entries">
+        <item>1 минута</item>
         <item>5 минут</item>
         <item>10 минут</item>
         <item>15 минут</item>
@@ -20,6 +21,7 @@
     </string-array>
     <string-array name="auto_silence_entries">
         <item>Отключено</item>
+        <item>1 минута</item>
         <item>5 минут</item>
         <item>10 минут</item>
         <item>15 минут</item>
