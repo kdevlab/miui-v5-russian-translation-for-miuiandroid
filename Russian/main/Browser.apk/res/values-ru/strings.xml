@@ -419,6 +419,7 @@
 	<string name="ssl_untrusted">Этот сертификат получен из ненадежных источников</string>
 	<string name="ssl_warnings_header">У этого сайта проблемы с сертификатом безопасности</string>
 	<string name="stop">Стоп</string>
+	<string name="stop_loading">Стоп</string>
 	<string name="stopping">Остановка...</string>
 	<string name="tab_bookmarks">Закладки</string>
 	<string name="tab_closed">Вкладка закрыта</string>

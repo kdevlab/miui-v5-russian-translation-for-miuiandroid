@@ -47,6 +47,7 @@
 	<string name="context_call">Вызвать</string>
 	<string name="context_ms">Отправить сообщение</string>
 	<string name="context_new_contact">Новый контакт</string>
+	<string name="custom_mark_category">Пользовательские</string>
 	<string name="edit_blacklist">Редактировать</string>
 	<string name="edit_whitelist">Редактировать</string>
 	<string name="emptylist_fwlog_call">Все заблокированные звонки будут храниться в этом журнале</string>
@@ -108,6 +109,8 @@
 	<string name="fw_time_settings">Блокировка по расписанию</string>
 	<string name="fw_whitelist">Белый список</string>
 	<string name="fw_whitelist_hint">Все звонки и сообщения от контактов из этого списка будут доступны</string>
+	<string name="mark_number_dialog_maintitle">Определить неизвестный номер и загрузить</string>
+	<string name="mark_number_dialog_subtitle">Техническая поддержка: Sougou</string>
 	<string name="member_firewall_log" formatted="false">Заблокировано звонков: %d, SMS: %d</string>
 	<string name="menu_edit">Изменить</string>
 	<string name="mms_log_tab_title">Сообщения</string>
@@ -130,13 +133,10 @@
 	<string name="save_button">Сохранить</string>
 	<string name="show_firewall_notification">Иконка</string>
 	<string name="show_notification">Уведомления</string>
-	<string name="whitelist_tab_title">Белый список</string>
-	<string name="mark_number_dialog_maintitle">Определить неизвестный номер и загрузить</string>
-	<string name="mark_number_dialog_subtitle">Техническая поддержка: Sougou</string>
-	<string name="custom_mark_category">Пользовательские</string>
 	<string name="smart_antispam">Определение неизвестных номеров</string>
 	<string name="turn_on_smart_antispam_hint">После включении этой функции, номера неизвестных абонентов будут определены, что поможет вам избежать мошенничества.</string>
-	<string name="turn_on_smart_antispam_title">Определение номеров</string>
-	<string name="turn_on_smart_antispam_summary_on">Определение неизвестных номеров только по Wi-Fi и 3G.</string>
 	<string name="turn_on_smart_antispam_summary_off">Определение неизвестных номеров только с помощью локальной базы.</string>
+	<string name="turn_on_smart_antispam_summary_on">Определение неизвестных номеров только по Wi-Fi и 3G.</string>
+	<string name="turn_on_smart_antispam_title">Определение номеров</string>
+	<string name="whitelist_tab_title">Белый список</string>
 </resources>

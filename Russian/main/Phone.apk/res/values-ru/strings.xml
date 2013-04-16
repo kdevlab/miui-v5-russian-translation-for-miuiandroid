@@ -38,6 +38,9 @@
 	<string name="answer_widget_sliding_horizontal_miui">Горизонтальный слайд</string>
 	<string name="answer_widget_sliding_vertical_miui">Вертикальный слайд</string>
 	<string name="answer_widget_title_miui">Жест ответа</string>
+	<string name="antispam_marked_count">Отмечено контактов: %1$d</string>
+	<string name="antispam_marked_title">%1$s</string>
+	<string name="antispam_notification_title">Определен неизвестный номер</string>
 	<string name="apn_settings">Точки доступа</string>
 	<string name="areacode_required_accept_miui">OK</string>
 	<string name="areacode_required_for_emergency_number_miui">Наберите экстренный телефонный код области или города</string>
@@ -931,7 +934,4 @@
 	<string name="voicemail_settings_number_title_miui">Номер голосовой почты</string>
 	<string name="wait_prompt_str">Отправить следующие тоны?\n</string>
 	<string name="wild_prompt_str">Заменить универсальный символ на</string>
-	<string name="antispam_marked_title">%1$s</string>
-	<string name="antispam_marked_count">Отмечено контактов: %1$d</string>
-	<string name="antispam_notification_title">Определен неизвестный номер</string>
 </resources>
