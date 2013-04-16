@@ -931,4 +931,7 @@
 	<string name="voicemail_settings_number_title_miui">Номер голосовой почты</string>
 	<string name="wait_prompt_str">Отправить следующие тоны?\n</string>
 	<string name="wild_prompt_str">Заменить универсальный символ на</string>
+	<string name="antispam_marked_title">%1$s</string>
+	<string name="antispam_marked_count">Отмечено контактов: %1$d</string>
+	<string name="antispam_notification_title">Определен неизвестный номер</string>
 </resources>

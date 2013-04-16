@@ -179,4 +179,5 @@
 	<string name="verifying">Проверка на вирусы...</string>
 	<string name="version_label">Версия：</string>
 	<string name="version_name">Версия: %1$s</string>
+	<string name="comment_cannot_comment">Чтобы оставить комментарий, нужно сначала скачать это приложение.</string>
 </resources>

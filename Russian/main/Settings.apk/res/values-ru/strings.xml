@@ -619,7 +619,7 @@
 	<string name="device_status_activity_title">Общая информация</string>
 	<string name="device_status_summary">Номер телефона, уровень сигнала и т.д.</string>
 	<string name="dialog_title_font_size">Размер шрифта</string>
-	<string name="dirac_control">Управление Dirac</string>
+	<string name="dirac_control">Технология \"MI Sound\"</string>
 	<string name="disableNetwork">Отключить Сеть</string>
 	<string name="disable_overlays">Отключить наложения</string>
 	<string name="disable_overlays_summary">Всегда использовать GPU для отрисовки экрана</string>
