@@ -2,6 +2,7 @@
 <!--Merged and sorted with KDG BigBlackBox-->
 <resources>
 	<string name="Import">Импорт</string>
+	<string name="action_fail_unknown_error">Не удалось завершить операцию из-за неизвестной ошибки.</string>
 	<string name="activity_not_found">Действие не поддерживается ни в одном приложении</string>
 	<string name="add_account">Добавить аккаунт</string>
 	<string name="add_to_cloud_album">В облако</string>

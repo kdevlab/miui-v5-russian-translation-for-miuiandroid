@@ -111,7 +111,8 @@
 	<string name="app_factory_reset">Удалить обновления</string>
 	<string name="app_factory_reset_dlg_text">Все обновления для этого приложения будут удалены</string>
 	<string name="app_factory_reset_dlg_title">Удалить обновления?</string>
-	<string name="app_floating_window_dlg">Разрешить \"%1$s\" показывать всплывающие окна?</string>
+	<string name="app_floating_window_dlg_disable">"Выключение всплывающих окон приведет к принудительному закрытию %1$s. Вы можете вручную открыть приложение.\nВы уверены, что хотите отключить?"</string>
+	<string name="app_floating_window_dlg_enable">"Включение всплывающих окон приведет к принудительному закрытию %1$s. Вы можете вручную открыть приложение.\nВы уверены, что хотите включить?"</string>
 	<string name="app_forward_locked">Приложение защищено от копирования</string>
 	<string name="app_install_location_summary">Изменить папку для установки приложений</string>
 	<string name="app_install_location_title">Место установки</string>
@@ -757,6 +758,7 @@
 	<string name="finish_button_label">Готово</string>
 	<string name="firmware_version">Android:</string>
 	<string name="floating_window_switch_label">Всплывающие окна</string>
+	<string name="floating_window_switch_label_disable">Скрыть всплывающее окно</string>
 	<string name="font_size_huge">Огромный</string>
 	<string name="font_size_large">Большой</string>
 	<string name="font_size_medium">Средний</string>
@@ -1579,6 +1581,7 @@
 	<string name="sim_lock_settings">Настройки блокировки SIM-карты</string>
 	<string name="sim_lock_settings_category">Настроить блокировку</string>
 	<string name="sim_lock_settings_title">Блокировка SIM-карты</string>
+	<string name="sim_management_title">Управление SIM</string>
 	<string name="sim_pin_change">Изменение PIN SIM-карты</string>
 	<string name="sim_pin_toggle">Блокировка SIM-карты</string>
 	<string name="sim_pins_dont_match">PIN-коды не совпадают</string>
