@@ -108,9 +108,9 @@
 	<string name="gbk_summary">Если вы используете кодировку GBK, например, в Windows Explorer, выберите этот тип кодирования, чтобы избежать искажения текста на китайском языке</string>
 	<string name="gbk_title">GBK</string>
 	<string name="give_up_cleaning">Отмена</string>
-	<string name="header_text_cleaned">удалено</string>
-	<string name="header_text_cleaning">мусора очищено</string>
-	<string name="header_text_scanned">мусора может быть удалено</string>
+	<string name="header_text_cleaned">мусора очищено</string>
+	<string name="header_text_cleaning">мусора осталось</string>
+	<string name="header_text_scanned">можно очистить</string>
 	<string name="header_text_scanning">Поиск мусора...</string>
 	<string name="instruction">Адрес синхронизации:</string>
 	<string name="instruction_pre">Обмен файлами с ПК или Mac по FTP через сеть Wi-Fi</string>
