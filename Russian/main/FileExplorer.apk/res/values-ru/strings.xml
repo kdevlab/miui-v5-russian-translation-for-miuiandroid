@@ -107,7 +107,7 @@
 	<string name="garbage_size_metric">%s\nМусор</string>
 	<string name="gbk_summary">Если вы используете кодировку GBK, например, в Windows Explorer, выберите этот тип кодирования, чтобы избежать искажения текста на китайском языке</string>
 	<string name="gbk_title">GBK</string>
-	<string name="give_up_cleaning">Give up</string>
+	<string name="give_up_cleaning">Отмена</string>
 	<string name="header_text_cleaned">удалено</string>
 	<string name="header_text_cleaning">очистка, осталось мусора</string>
 	<string name="header_text_scanned">мусора может быть удалено</string>
