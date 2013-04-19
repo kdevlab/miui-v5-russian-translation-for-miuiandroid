@@ -4,9 +4,9 @@
 	<string name="account_bind_prompt">Перенос данных пользователя\nперенос данных может жанять некоторое время,\nваш аккаунт временно будет недоступен, пожалуйста подождите…</string>
 	<string name="add_task">Добавить задачи</string>
 	<string name="adding_upload_tasks">Добавление задачи загрузки.</string>
-	<string name="app_cache_cleanup_indication">%s кеш</string>
+	<string name="app_cache_cleanup_indication">%s кеша</string>
 	<string name="app_cache_title">Кеш приложения</string>
-	<string name="app_garbage_cleanup_indication">%s мусор</string>
+	<string name="app_garbage_cleanup_indication">%s мусора</string>
 	<string name="app_garbage_path">Путь:</string>
 	<string name="app_garbage_title">Мусор от приложения</string>
 	<string name="app_name">Файлы</string>
@@ -74,7 +74,7 @@
 	<string name="download_failed">Ошибка загрузки</string>
 	<string name="download_link_completed">Я поделился %1$s через KuaiPan. Нажмите ссылку внизу для просмотра:</string>
 	<string name="downloading">Загрузка</string>
-	<string name="empty_dir_cleanup_indication">%s файлы мусора</string>
+	<string name="empty_dir_cleanup_indication">%s файлов мусора</string>
 	<string name="empty_dir_title">Пустые папки</string>
 	<string name="enable_sd_card">В настоящий момента SD-карта подключена к компьютеру и используется, чтобы видеть ее содержимое, отключите режим накопителя</string>
 	<string name="error_info_cant_send_folder">Папка не может быть передана</string>
@@ -108,10 +108,10 @@
 	<string name="gbk_summary">Если вы используете кодировку GBK, например, в Windows Explorer, выберите этот тип кодирования, чтобы избежать искажения текста на китайском языке</string>
 	<string name="gbk_title">GBK</string>
 	<string name="give_up_cleaning">Give up</string>
-	<string name="header_text_cleaned">Удаленный мусор</string>
-	<string name="header_text_cleaning">Очистка, осталось мусора</string>
-	<string name="header_text_scanned">Вы можете удалить мусор</string>
-	<string name="header_text_scanning">Сканирование мусора...</string>
+	<string name="header_text_cleaned">удалено</string>
+	<string name="header_text_cleaning">очистка, осталось мусора</string>
+	<string name="header_text_scanned">мусора может быть удалено</string>
+	<string name="header_text_scanning">Поиск мусора...</string>
 	<string name="instruction">Адрес синхронизации:</string>
 	<string name="instruction_pre">Обмен файлами с ПК или Mac по FTP через сеть Wi-Fi</string>
 	<string name="item_name">Без имени</string>
@@ -126,7 +126,7 @@
 	<string name="login_reg_content">KuaiPan позволяет хранить файлы и синхронизировать их между несколькими устройствами.</string>
 	<string name="login_reg_content0">KuaiPan - ваш интернет диск</string>
 	<string name="menu_item_cleanup">Очистка файлов</string>
-	<string name="menu_item_ftp">Обмен файлами через Wi-Fi</string>
+	<string name="menu_item_ftp">FTP</string>
 	<string name="menu_item_search">Поиск</string>
 	<string name="menu_item_sort">Сортировка</string>
 	<string name="menu_item_sort_date">По дате</string>
@@ -228,9 +228,9 @@
 	<string name="tab_category">Обзор</string>
 	<string name="tab_networkdisk">KuaiPan</string>
 	<string name="tab_phone">Телефон</string>
-	<string name="temp_file_cleanup_indication">%s временные файлы</string>
+	<string name="temp_file_cleanup_indication">%s временнх файлов</string>
 	<string name="temp_file_title">Временные файлы</string>
-	<string name="thumbnail_cleanup_indication">%s эскизы</string>
+	<string name="thumbnail_cleanup_indication">%s эскизов</string>
 	<string name="thumbnail_title">Файлы эскизов</string>
 	<string name="toast_file_not_can_read">Этот тип файла не поддерживается</string>
 	<string name="trans_task">Передача</string>
