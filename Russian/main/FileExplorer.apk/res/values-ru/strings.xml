@@ -109,7 +109,7 @@
 	<string name="gbk_title">GBK</string>
 	<string name="give_up_cleaning">Отмена</string>
 	<string name="header_text_cleaned">удалено</string>
-	<string name="header_text_cleaning">очистка, осталось мусора</string>
+	<string name="header_text_cleaning">мусора очищено</string>
 	<string name="header_text_scanned">мусора может быть удалено</string>
 	<string name="header_text_scanning">Поиск мусора...</string>
 	<string name="instruction">Адрес синхронизации:</string>
@@ -125,7 +125,7 @@
 	<string name="local_cache_size">Размер локального кэш: %s</string>
 	<string name="login_reg_content">KuaiPan позволяет хранить файлы и синхронизировать их между несколькими устройствами.</string>
 	<string name="login_reg_content0">KuaiPan - ваш интернет диск</string>
-	<string name="menu_item_cleanup">Очистка файлов</string>
+	<string name="menu_item_cleanup">Очистка</string>
 	<string name="menu_item_ftp">FTP</string>
 	<string name="menu_item_search">Поиск</string>
 	<string name="menu_item_sort">Сортировка</string>

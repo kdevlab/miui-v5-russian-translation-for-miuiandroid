@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Decoded with KDG BigBlackBox-->
+<resources>
+    <plurals name="directory_item_count">
+        <item quantity="other">%d объекта</item>
+        <item quantity="one">1 объект</item>
+    </plurals>
+</resources>
