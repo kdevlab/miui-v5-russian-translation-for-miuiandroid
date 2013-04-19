@@ -2,7 +2,7 @@
 <!--Decoded with KDG BigBlackBox-->
 <resources>
     <plurals name="directory_item_count">
-        <item quantity="other">%d объекта</item>
+        <item quantity="other">%d объектов</item>
         <item quantity="one">1 объект</item>
     </plurals>
 </resources>
