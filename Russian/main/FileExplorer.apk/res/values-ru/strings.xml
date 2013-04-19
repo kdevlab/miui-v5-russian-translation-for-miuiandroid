@@ -5,10 +5,10 @@
 	<string name="add_task">Добавить задачи</string>
 	<string name="adding_upload_tasks">Добавление задачи загрузки.</string>
 	<string name="app_cache_cleanup_indication">%s кеша</string>
-	<string name="app_cache_title">Кеш приложения</string>
+	<string name="app_cache_title">Кеш приложений</string>
 	<string name="app_garbage_cleanup_indication">%s мусора</string>
 	<string name="app_garbage_path">Путь:</string>
-	<string name="app_garbage_title">Мусор от приложения</string>
+	<string name="app_garbage_title">Мусор от приложений</string>
 	<string name="app_name">Файлы</string>
 	<string name="application_size_label">Приложение</string>
 	<string name="background">В фоне</string>
@@ -33,7 +33,7 @@
 	<string name="category_zip">Архивы</string>
 	<string name="choose_send_type">Выбор метода отправки</string>
 	<string name="choose_upload_location">Выберите место загрузки</string>
-	<string name="clean_app_garbage">Удалить мусор (%d)</string>
+	<string name="clean_app_garbage">Очистить мусор (%d)</string>
 	<string name="clean_message">Удаление %1$s</string>
 	<string name="clean_title">Удалять файлы из корзины, если они лежат там дольше 30 дней</string>
 	<string name="clean_trash_box">Очистить корзину</string>
@@ -74,7 +74,7 @@
 	<string name="download_failed">Ошибка загрузки</string>
 	<string name="download_link_completed">Я поделился %1$s через KuaiPan. Нажмите ссылку внизу для просмотра:</string>
 	<string name="downloading">Загрузка</string>
-	<string name="empty_dir_cleanup_indication">%s файлов мусора</string>
+	<string name="empty_dir_cleanup_indication">%s пустых папок</string>
 	<string name="empty_dir_title">Пустые папки</string>
 	<string name="enable_sd_card">В настоящий момента SD-карта подключена к компьютеру и используется, чтобы видеть ее содержимое, отключите режим накопителя</string>
 	<string name="error_info_cant_send_folder">Папка не может быть передана</string>
@@ -195,7 +195,7 @@
 	<string name="query_bind_state">Запрос состояния, пожалуйста, подождите…</string>
 	<string name="rename_description">Переименовывается···</string>
 	<string name="rename_failed">Переименование 《%1$s》 не удалось</string>
-	<string name="restart_cleaning">Снова</string>
+	<string name="restart_cleaning">Повтор</string>
 	<string name="scanning">Сканирование...</string>
 	<string name="scanning_on_going">Сканирование...</string>
 	<string name="sd_card_available">Свободно: %1$s</string>
