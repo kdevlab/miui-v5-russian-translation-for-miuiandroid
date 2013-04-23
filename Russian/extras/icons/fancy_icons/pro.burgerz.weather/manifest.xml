@@ -6,8 +6,8 @@
 			      name="city_binder"
             uri="content://pro.burgerz.weather/cities"  
             columns="location,isHome"  
-			      where="isHome=1"	
-            order="isHome DESC"
+			      where="isHome=1 OR isGPS=1"	
+            order="isHome DESC, isGPS DESC"
             countName="hasHomeCity" >
             <Variable name="cities_location" type="string" column="location" row="0"/>
 			      <Variable name="cities_ishome" type="int" column="isHome" row="0"/>
