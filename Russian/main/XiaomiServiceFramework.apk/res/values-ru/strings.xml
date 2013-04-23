@@ -7,10 +7,14 @@
 	<string name="account_hint_text">Электронная почта</string>
 	<string name="account_name">Аккаунт: %1$s</string>
 	<string name="activating">Активация...</string>
+	<string name="add_weibo_account">Добавить аккаунт</string>
 	<string name="alert_title_remove_account">Удалить аккаунт</string>
 	<string name="app_name">Менеджер аккаунтов Xiaomi</string>
 	<string name="bad_authentication">Неверный пароль или имя пользователя</string>
 	<string name="balance">Баланс: %1$s MiCredit</string>
+	<string name="bind_sina_weibo">Связать с Sina WeiBo</string>
+	<string name="bind_weibo_description">Найти телефонные контакты друзей, микроблоги с дополнительной информацией, например аватар или день рождения.</string>
+	<string name="binded">Связан</string>
 	<string name="btn_activate">Активировать</string>
 	<string name="btn_back">Назад</string>
 	<string name="btn_call">Позвонить</string>
@@ -116,7 +120,7 @@
 	<string name="micloud_welcome_skip_login">Пропустить этот шаг</string>
 	<string name="mili_center">Центр MiCredit</string>
 	<string name="next">Далее</string>
-	<string name="no_sim">Нет SIM-карты, служба синхронизации недоступна</string>
+	<string name="nobind">Не связан</string>
 	<string name="order_price">%1$s MiCredit</string>
 	<string name="other_settings">Дополнительные параметры</string>
 	<string name="password">Пароль</string>
@@ -152,6 +156,7 @@
 	<string name="prepaid_picker_title_default">Выберите сумму пополнения</string>
 	<string name="prepaid_picker_title_selected">сумма пополнения</string>
 	<string name="prev">Назад</string>
+	<string name="process_result">Результат обработки:</string>
 	<string name="progress_connecting">Подключение...</string>
 	<string name="progress_creating">Проверка покупки...</string>
 	<string name="progress_downloading">Загрузка…</string>
@@ -196,6 +201,7 @@
 	<string name="send_sms_for_sync_notice">Для активации нужно отправить SMS. Вы хотите продолжить?</string>
 	<string name="send_sms_for_sync_title">Служба синхронизации не активирована</string>
 	<string name="sim_changed_notification_content">SIM-карта не активирована. Пожалуйста, активируйте.</string>
+	<string name="sina_weibo">Sina WeiBo</string>
 	<string name="skip_login">Пропустить</string>
 	<string name="skip_setup_account_msg">Использование аккаунта Xiaomi, позволит вам синхронизировать и резервировать ваши SMS, Контакты, фото, заметки и другое. Пропустить и настроить потом?</string>
 	<string name="skip_setup_account_title">Пропустить настройку аккаунта</string>
@@ -212,6 +218,10 @@
 	<string name="title_reg">Регистрация в сети Xiaomi</string>
 	<string name="title_voucher">Recharge via Mi Credit card</string>
 	<string name="unactivated_user">Не активирован</string>
+	<string name="unbind">Отвязать</string>
+	<string name="update_contacts">Обновить адресную книгу</string>
+	<string name="update_contacts_description">Sina micro Fair use your millet account phone number, the corresponding and synchronous microblogging friends avatar, birthday, and other information to the address book</string>
+	<string name="updated_contacts">Обновлено %s контактов</string>
 	<string name="user_agreement_p1">Входя в аккаунт, вы соглашаетесь с\n </string>
 	<string name="user_agreement_p2">Условиями соглашения Xiaomi</string>
 	<string name="user_agreement_p3"> и  </string>
@@ -225,9 +235,9 @@
 	<string name="voucher_edit_limit">знаков</string>
 	<string name="voucher_empty">No Mi Credit card</string>
 	<string name="voucher_error_code">Mi Credit card password error</string>
-	<string name="voucher_exchange">Exchange</string>
-	<string name="voucher_exchange_count">Exchange (%1$s)</string>
+	<string name="voucher_exchange">Обмен</string>
+	<string name="voucher_exchange_count">Обмен (%1$s)</string>
 	<string name="voucher_exchange_success">%1$s Mi Credits exchange complete</string>
-	<string name="voucher_expire">%1$s-%2$s-%3$s expired</string>
+	<string name="voucher_expire">%1$s-%2$s-%3$s истекло</string>
 	<string name="voucher_input">Ввод</string>
 </resources>

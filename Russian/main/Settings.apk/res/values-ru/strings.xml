@@ -152,8 +152,7 @@
 	<string name="automatic_brightness">Автоподсветка</string>
 	<string name="available_size">%s (доступно)</string>
 	<string name="awake">Время включения устройства</string>
-	<string name="back_long_press">Клавиша \"Назад\"</string>
-	<string name="back_long_press_timeout">Задержка</string>
+	<string name="back_key">Клавиша \"НАЗАД\"</string>
 	<string name="background_data">Фоновый режим</string>
 	<string name="background_data_dialog_message">Отключение фонового режима обмена данными экономит заряд батареи и уменьшает объем трафика, однако некоторые приложения могут использовать этот режим даже после его отключения</string>
 	<string name="background_data_dialog_title">Отключить фоновый режим?</string>
@@ -621,6 +620,9 @@
 	<string name="device_status_summary">Номер телефона, уровень сигнала и т.д.</string>
 	<string name="dialog_title_font_size">Размер шрифта</string>
 	<string name="dirac_control">Технология \"MI Sound\"</string>
+	<string name="dirac_mode_earbuds">Наушники - Вкладыши</string>
+	<string name="dirac_mode_earphones">Наушники</string>
+	<string name="dirac_mode_off">Выключено</string>
 	<string name="disableNetwork">Отключить Сеть</string>
 	<string name="disable_overlays">Отключить наложения</string>
 	<string name="disable_overlays_summary">Всегда использовать GPU для отрисовки экрана</string>
@@ -711,8 +713,6 @@
 	<string name="enableNetwork">Включить Сеть</string>
 	<string name="enable_adb">Отладка по USB</string>
 	<string name="enable_adb_summary">Включить режим отладки при подключении к компьютеру по USB</string>
-	<string name="enable_assist_key_long_press">Голосовой помощник</string>
-	<string name="enable_back_long_press">Закрывать при удержании</string>
 	<string name="enable_compatibility">Масштабировать приложения</string>
 	<string name="enable_drive_mode">Включить режим управления</string>
 	<string name="enable_snapshot_screenlock">Камера на экране блокировки</string>
@@ -812,6 +812,7 @@
 	<string name="help_url_wifi" />
 	<string name="hidden_ssid_label">Скрытый SSID:</string>
 	<string name="history_details_title">Подробная история</string>
+	<string name="home_key">Кнопка \"Домой\"</string>
 	<string name="ime_security_warning">При использовании этого способа могут собираться все вводимые данные, в том числе пароли и номера кредитных карт. Способ ввода запрашиваетя приложением \"%1$s\". Использовать этот способ ввода?</string>
 	<string name="immediately_destroy_activities">Не сохранять действия</string>
 	<string name="immediately_destroy_activities_summary">Удалять сводку действий после их завершения</string>
@@ -1265,7 +1266,6 @@
 	<string name="power_bluetooth">Bluetooth</string>
 	<string name="power_cell">Связь с сетью</string>
 	<string name="power_idle">Режим ожидания</string>
-	<string name="power_key">Клавиша питания</string>
 	<string name="power_mode">Режим питания</string>
 	<string name="power_phone">Голосовые вызовы</string>
 	<string name="power_screen">Экран</string>
@@ -1278,7 +1278,6 @@
 	<string name="pref_button_light">Подсветка клавиш</string>
 	<string name="pref_button_light_summary">Подсветка клавиш \"Меню\", \"Назад\", \"Домой\"</string>
 	<string name="pref_operational_key">Клавиши</string>
-	<string name="pref_volume_category_title">Клавиши громкости</string>
 	<string name="pref_volume_wake_summary">Нажатие клавиш регулировки громкости в заблокированном состоянии разбудит устройство</string>
 	<string name="pref_volume_wake_title">Пробуждать устройство</string>
 	<string name="preference_change_password_title">Изменить пароль</string>
@@ -1435,6 +1434,9 @@
 	<string name="screen_color_temperature_adjust">Цветовая температура</string>
 	<string name="screen_compatibility_label">Совместимость с экраном</string>
 	<string name="screen_compatibility_text">Возможно, приложение не предназначено для вашего экрана. Здесь можно настроить параметры его отображения</string>
+	<string name="screen_key_long_press">Долгое нажатие наэкранных кнопок</string>
+	<string name="screen_key_long_press_action">Переключатель функций</string>
+	<string name="screen_key_long_press_timeout">Время долгого нажатия</string>
 	<string name="screen_on_proximity_sensor_summary">Предотвращение случайных нажатий на экран заблокированного телефона (определяется с помощью датчика приближения)</string>
 	<string name="screen_on_proximity_sensor_title">Предотвращение ошибок</string>
 	<string name="screen_saturation_adjust">Насыщенность</string>
@@ -1740,6 +1742,7 @@
 	<string name="tts_settings_title">Синтез речи</string>
 	<string name="turn_off_radio">Отключить радио</string>
 	<string name="turn_on_radio">Включить радио</string>
+	<string name="under_keyguard">На экране блокировки</string>
 	<string name="uninstall_text">Удалить</string>
 	<string name="unknown">Неизвестно</string>
 	<string name="unlock_backup_info_summary">Выберите альтернативный способ разблокировки экрана</string>
