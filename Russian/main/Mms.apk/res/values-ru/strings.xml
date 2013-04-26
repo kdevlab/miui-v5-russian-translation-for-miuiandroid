@@ -254,12 +254,12 @@
 	<string name="pref_summary_mms_auto_retrieval">Автоматически загружать MMS-сообщения</string>
 	<string name="pref_summary_mms_read_reports">Запрашивать отчет о прочтении для всех отправляемых сообщений</string>
 	<string name="pref_summary_mms_retrieval_during_roaming">Автоматически загружать MMS-сообщения в роуминге</string>
-	<string name="pref_summary_new_message_popup">Отображение всплывающих окон, при получении нового сообщения</string>
+	<string name="pref_summary_new_message_popup">Отображение всплывающих окон при получении нового сообщения</string>
 	<string name="pref_summary_new_message_popup_when_secure">Всплывающие уведомления скрыты в режиме гостя</string>
 	<string name="pref_summary_off_system_mms_priority">Другие приложения для сообщений будут получать сообщение первыми</string>
 	<string name="pref_summary_on_system_mms_priority">Системное приложение будет получать сообщения первым</string>
 	<string name="pref_summary_show_recent_contacts">Показать список последних контактов при создании нового сообщения</string>
-	<string name="pref_summary_wake_up_screen">Включение экрана, при получении нового сообщения</string>
+	<string name="pref_summary_wake_up_screen">Включение экрана при получении нового сообщения</string>
 	<string name="pref_system_title">Системные</string>
 	<string name="pref_time_auto_group_summary">Группировка сообщений по времени</string>
 	<string name="pref_time_auto_group_title">Группировать</string>

@@ -394,6 +394,19 @@
         <item>Запрос</item>
         <item>Запретить</item>
     </string-array>
+    <string-array name="screen_key_long_press_action">
+        <item>Нет действий</item>
+        <item>Недавние приложения</item>
+        <item>Голосовой помощник</item>
+        <item>Google Now</item>
+        <item>Закрыть текущее приложение</item>
+    </string-array>
+    <string-array name="screen_key_long_press_timeout">
+        <item>0.5 сек.</item>
+        <item>1 сек.</item>
+        <item>1.5 сек.</item>
+        <item>2 сек.</item>
+    </string-array>
     <string-array name="startup_hips_action">
         <item>Разрешить</item>
         <item>Запретить</item>

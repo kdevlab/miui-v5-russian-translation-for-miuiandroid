@@ -470,4 +470,9 @@
 	<string name="winter_begins">Зима</string>
 	<string name="winter_solstice" />
 	<string name="yesterday">"Вчера "</string>
+
+	<string name="sim_unavailable">SIM-карта отсутствует</string>
+	<string name="sim_locked">SIM-карта заблокирована</string>
+	<string name="sim_not_ready">SIM-карта не готова. Попробуйте позже.</string>
+	<string name="sim_in_airplane_mode">Пожалуйста, отключите режим в полете.</string>
 </resources>

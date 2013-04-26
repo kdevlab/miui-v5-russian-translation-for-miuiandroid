@@ -11,7 +11,7 @@
 	<string name="alert_title_remove_account">Удалить аккаунт</string>
 	<string name="app_name">Менеджер аккаунтов Xiaomi</string>
 	<string name="bad_authentication">Неверный пароль или имя пользователя</string>
-	<string name="balance">Баланс: %1$s MiCredit</string>
+	<string name="balance">Баланс Mi-Кредит: %1$s</string>
 	<string name="bind_sina_weibo">Связать с Sina WeiBo</string>
 	<string name="bind_weibo_description">Найти телефонные контакты друзей, микроблоги с дополнительной информацией, например аватар или день рождения.</string>
 	<string name="binded">Связан</string>
@@ -53,7 +53,7 @@
 	<string name="error_has_bought_title">Повторите покупку</string>
 	<string name="error_illegal_order_summary">Произошла ошибка покупки. Пожалуйста, попробуйте снова.</string>
 	<string name="error_illegal_order_title">Ошибка покупки!</string>
-	<string name="error_mili_title">Не хватает MiCredit</string>
+	<string name="error_mili_title">Не хватает Mi-Кредитов</string>
 	<string name="error_network">Ошибка сети</string>
 	<string name="error_network_summary">Ошибка сети. Пожалуйста, проверьте активность сети и попробуйте еще раз.</string>
 	<string name="error_network_title">Ошибка сети</string>
@@ -67,7 +67,7 @@
 	<string name="error_user_id_mismatch_title">Ошибка аутентификации!</string>
 	<string name="error_verify_summary">Приложение не имеет разрешения на запрос этого сервиса</string>
 	<string name="failed_to_send_activate_email">Невозможно отправить активацию по почте</string>
-	<string name="fee">%1$s Mi кредитов</string>
+	<string name="fee">Mi-Кредитов: %1$s</string>
 	<string name="find_device">Поиск устройства</string>
 	<string name="find_device_check_phone_error_title">Ошибка включения поиска устройств</string>
 	<string name="find_device_disabled_notice">Вы можете включить снова через Параметры - Мои аккаунты - Аккаунт Xiaomi</string>
@@ -118,10 +118,10 @@
 	<string name="micloud_use_existing">Существующий</string>
 	<string name="micloud_val_sms_alert">Будет отправлено сообщение для подтверждения вашего телефонного номера, продолжить?</string>
 	<string name="micloud_welcome_skip_login">Пропустить этот шаг</string>
-	<string name="mili_center">Центр MiCredit</string>
+	<string name="mili_center">Центр Mi-Кредит</string>
 	<string name="next">Далее</string>
 	<string name="nobind">Не связан</string>
-	<string name="order_price">%1$s MiCredit</string>
+	<string name="order_price">%1$s Mi-Кредитов</string>
 	<string name="other_settings">Дополнительные параметры</string>
 	<string name="password">Пароль</string>
 	<string name="password_error">Пожалуйста, введите Ваш пароль</string>
