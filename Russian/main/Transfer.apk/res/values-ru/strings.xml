@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="picker_title">Выберите apk</string>
+    <string name="picker_title">Выберите APK</string>
     <string name="app_name">Обмен</string>
     <string name="ok">Подтвердить</string>
     <string name="cancel">Отмена</string>
@@ -31,7 +31,7 @@
     <string name="send_files">Отправка файлов: %1$d</string>
     <string name="scanning">Сканирование</string>
     <string name="connecting">Соединение</string>
-    <string name="scan_tip">Убедитесь, что получатель имеет возможность принять файлы.</string>
+    <string name="scan_tip">Убедитесь, что получатель имеет\nвозможность принять файлы.</string>
     <string name="send_to">Отправить на:</string>
     <string name="send_cancel_tip">Вы уверены, что хотите остановить передачу?</string>
     <string name="send_cancel_tip2">Передача отменена. Отправлено %1$d из %2$d файлов.</string>
@@ -57,8 +57,8 @@
     <string name="receive_uncompleted">Прием не завершен</string>
     <string name="noti_wait_receive">Ожидание приема...</string>
     <string name="noti_wait_send">"Ожидание приема. Убедитесь, что отправитель имеет возможность передавать файлы "</string>
-    <string name="noti_sending">%1$s.Отправка файлов: %2$d/%3$d</string>
-    <string name="noti_receiving">%1$s.Прием файлов: %2$d/%3$d</string>
+    <string name="noti_sending">%1$s. Отправка файлов: %2$d/%3$d</string>
+    <string name="noti_receiving">%1$s. Прием файлов: %2$d/%3$d</string>
     <string name="noti_completed">Передача завершена. Передано файлов: %1$d/%2$d.</string>
     <string name="connect_confirm">Запрос подключения: %1$s</string>
     <string name="receive_canceled">Отменено</string>
@@ -67,7 +67,7 @@
     <string name="error_transmit">Ошибка обмена</string>
     <string name="error_not_selected">Файл не выбран</string>
     <string name="error_select">Ошибка обмена или файл еще не выбран</string>
-    <string name="device_default_name">Xiaomi phone</string>
+    <string name="device_default_name">Xiaomi Phone</string>
     <string name="miui_device_default_name">Android</string>
     <string name="history_receive">История приема</string>
     <string name="history_send">История отправки</string>
@@ -92,7 +92,7 @@
     <string name="settings_receive_confirm_summary">Требовать подтверждения при приеме файлов</string>
     <string name="guide_label">Инструкция</string>
     <string name="title_step_one">1. Файлы можно передавать без использования сетевого подключения.</string>
-    <string name="title_step_two">2. Пользователи других прошивок могут использовать приложение AnyShare для обмена файлов.</string>
+    <string name="title_step_two">2. Пользователи других прошивок могут использовать приложение AnyShare.</string>
     <string name="title_step_three">3. Неограниченный обмен файлов с друзьями.</string>
     <string name="summary_step_one">Возможность отправить фотографии, музыку, контакты и другие файлы.</string>
     <string name="summary_step_two">Поделиться информацией о приложении AnyShare</string>
