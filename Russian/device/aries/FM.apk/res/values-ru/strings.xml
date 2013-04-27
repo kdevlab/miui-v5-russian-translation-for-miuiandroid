@@ -75,7 +75,6 @@
 	<string name="msg_searching">Поиск станций для создания заданного списка</string>
 	<string name="msg_searching_title">Автовыбор пресетов</string>
 	<string name="msg_seeking">Поиск станции</string>
-	<string name="msg_unable_start_fm_title">Не удается запустить радио</string>
 	<string name="msg_weak_searching">Поиск частот для передачи</string>
 	<string name="no_storage">Вставьте карту памяти перед началом записи.</string>
 	<string name="preparing_sd">Подготовка карты памяти</string>
@@ -90,7 +89,6 @@
 	<string name="record_file_location_format">Нажмите, чтобы прослушать файл %s</string>
 	<string name="record_sucess">Запись удалась</string>
 	<string name="regional_band">Региональные частоты удалят все сохраненные станции</string>
-	<string name="revert_to_fac">Возврат к заводским установкам</string>
 	<string name="search_dialog_title">Сканировать станции</string>
 	<string name="sel_audio_output">Выбрать аудиовыход</string>
 	<string name="sel_band_menu">Выбор регионального диапазона</string>
@@ -99,7 +97,6 @@
 	<string name="set_sigth">Настроить Signal Th</string>
 	<string name="settings_menu">Настройки</string>
 	<string name="settings_revert_confirm_msg">Это приведет к удалению всех настроек, включая пресеты</string>
-	<string name="settings_revert_confirm_title">Подтвердите сброс настроек</string>
 	<string name="settings_revert_defaults_title">Сброс настроек</string>
 	<string name="spaceIsLow_content">На карте памяти мало места. Измените настройки качества или удалите некоторые изображения и другие файлы.</string>
 	<string name="stat_notif_frequency">: %1$s MHz</string>
