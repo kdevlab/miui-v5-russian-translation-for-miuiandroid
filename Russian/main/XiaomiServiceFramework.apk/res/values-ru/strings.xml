@@ -85,6 +85,7 @@
 	<string name="header_data_and_synchronization">Данные и синхронизация</string>
 	<string name="i_know">OK</string>
 	<string name="input_password_hint">Введите пароль</string>
+	<string name="int_phone_user_notice">При заходе не из Китая, пожалуйста введите код страны. Например +7xxxxxxxxx</string>
 	<string name="label_order_name">"Продукт: "</string>
 	<string name="label_order_price">"Цена: "</string>
 	<string name="login">Войти</string>
@@ -116,7 +117,8 @@
 	<string name="micloud_reg_new">Создать новый</string>
 	<string name="micloud_resend_active_email">Повторно отправить письмо активации</string>
 	<string name="micloud_use_existing">Существующий</string>
-	<string name="micloud_val_sms_alert">Будет отправлено сообщение для подтверждения вашего телефонного номера, продолжить?</string>
+	<string name="micloud_via_int_sms_alert">Будет отправлено международное сообщение для подтверждения вашего телефонного номера, продолжить?</string>
+	<string name="micloud_via_sms_alert">Будет отправлено сообщение для подтверждения вашего телефонного номера, продолжить?</string>
 	<string name="micloud_welcome_skip_login">Пропустить этот шаг</string>
 	<string name="mili_center">Центр Mi-Кредит</string>
 	<string name="next">Далее</string>
@@ -193,11 +195,13 @@
 	<string name="reg_failed">Ошибка регистрации</string>
 	<string name="reg_type_email">Регистрация по эл. почте</string>
 	<string name="reg_type_phone">Регистрация по телефону (рекомендуется)</string>
+	<string name="reging">Регистрация. Пожалуйста подождите…</string>
 	<string name="relogin">Войти повторно</string>
 	<string name="remove_account_notice">Что бы вы хотели делать с ранее синхронизированными сообщениями, контактами, журналами вызовов и заметками на устройстве?</string>
 	<string name="remove_confirm">Удалить</string>
 	<string name="remove_unactivated_account_notice">Аккаунт Xiaomi не активирован. Удалить его?</string>
 	<string name="removing_account">Удаление аккаунта...</string>
+	<string name="send_int_sms_for_sync_notice">Для активации нужно отправить международное SMS. Вы хотите продолжить?</string>
 	<string name="send_sms_for_sync_notice">Для активации нужно отправить SMS. Вы хотите продолжить?</string>
 	<string name="send_sms_for_sync_title">Служба синхронизации не активирована</string>
 	<string name="sim_changed_notification_content">SIM-карта не активирована. Пожалуйста, активируйте.</string>

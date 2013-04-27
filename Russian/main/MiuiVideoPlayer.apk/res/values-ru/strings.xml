@@ -28,6 +28,10 @@
 	<string name="menu_wh_item_full_screen_label">На весь экран</string>
 	<string name="menu_wh_item_using_16_9_label">Формат 16:9</string>
 	<string name="menu_wh_item_using_4_3_label">Формат 4:3</string>
+	<string name="nowifi_alert_dialog_continue">Продолжить</string>
+	<string name="nowifi_alert_dialog_exit">Выйти</string>
+	<string name="nowifi_alert_dialog_message">Вы проигрываете видео через мобильную сеть, вы уверены, что хотите продолжить？</string>
+	<string name="nowifi_alert_dialog_title">Внимание!</string>
 	<string name="temp_play_history_button_label">История плеера</string>
 	<string name="to_be_play_label_v5">Воспроизведение</string>
 	<string name="toast_back_key_pressed_notice">Нажмите \"Назад\" еще раз для выхода</string>
