@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--Merged and sorted with KDG BigBlackBox-->
 <resources>
-	<string name="about_to_send">Я хочу отправить файлы</string>
+	<string name="about_to_send">Отправить файлы</string>
 	<string name="app_name">Обмен</string>
 	<string name="button_last">Начать сейчас</string>
 	<string name="button_next">Далее</string>
@@ -79,7 +79,7 @@
 	<string name="settings_auto_pair_sender_summary">Автоматическое сопряжение при передаче аудио</string>
 	<string name="settings_auto_pair_sender_title">Авто сопряжение аудио</string>
 	<string name="settings_connect">Настройки сети</string>
-	<string name="settings_label">Настройки обмена</string>
+	<string name="settings_label">Настройки</string>
 	<string name="settings_photo">Аватар</string>
 	<string name="settings_photo_camera">Снять фото</string>
 	<string name="settings_photo_pick">Выбрать из галереи</string>
