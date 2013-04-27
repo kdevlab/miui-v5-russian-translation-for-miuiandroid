@@ -11,8 +11,6 @@
 	<string name="credential_name">Название сертификата:</string>
 	<string name="credential_password">Введите пароль для извлечения сертификатов.</string>
 	<string name="extracting_pkcs12">Извлечение...</string>
-	<string name="generic_no_cert_file_found">No certificate file found in the storage.</string>
-	<string name="generic_sdcard_not_present">Storage is not present.</string>
 	<string name="invalid_cert">Сертификат недействителен.</string>
 	<string name="n_cacrts">Сертификатов центра сертификации: %d</string>
 	<string name="name_char_error">Имя должно состоять из букв и цифр.</string>
@@ -23,8 +21,6 @@
 	<string name="one_cacrt">один сертификат центра сертификации</string>
 	<string name="one_usercrt">один пользовательский сертификат</string>
 	<string name="one_userkey">один ключ пользователя</string>
-	<string name="one_wapi_ascrt">one WAPI AS certificate</string>
-	<string name="one_wapi_usercrt">one WAPI user certificate</string>
 	<string name="p12_description">Сертификат находится в хранилище ключей PKCS12.</string>
 	<string name="password_empty_error">Введите пароль.</string>
 	<string name="password_error">Введите правильный пароль.</string>

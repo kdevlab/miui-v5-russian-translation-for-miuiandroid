@@ -3,6 +3,7 @@
 <resources>
 	<string name="alphabet">Алфавит</string>
 	<string name="app_name">Инструменты SIM-карты</string>
+	<string name="app_name2">Инструменты SIM-карты</string>
 	<string name="button_cancel">Отмена</string>
 	<string name="button_no">Нет</string>
 	<string name="button_ok">ОК</string>
@@ -12,6 +13,7 @@
 	<string name="default_open_channel_msg">Открыть канал?</string>
 	<string name="default_receive_data_msg">Прием данных...</string>
 	<string name="default_send_data_msg">Отправка данных...</string>
+	<string name="default_setup_call_msg">Настройка вызова...</string>
 	<string name="digits">Цифры (0-9, *, #, +)</string>
 	<string name="disable_app">Отключено</string>
 	<string name="enable_app">Включено</string>
