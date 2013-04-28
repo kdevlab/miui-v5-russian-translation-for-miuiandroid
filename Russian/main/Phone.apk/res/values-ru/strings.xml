@@ -289,7 +289,7 @@
 	<string name="crystaltalk_title_miui">NICAM настройки</string>
 	<string name="current_areacode_miui">Код региона</string>
 	<string name="current_areacode_sum_miui">Текущей код региона, или роуминг код региона, если вы в роуминге. Например: 010</string>
-	<string name="current_areacode_sum_set_miui">Код текущего местоположения:%s</string>
+	<string name="current_areacode_sum_set_miui">Код текущего местоположения: %s</string>
 	<string name="cursorError">Курсор не имеет соответствующих данных!</string>
 	<string name="custom_location_location_hint_miui">Имя</string>
 	<string name="custom_location_location_no_item_miui">"Нажмите кнопку 'Добавить', чтобы добавить пользовательские атрибуции"</string>
@@ -778,7 +778,6 @@
 	<string name="progress_dialog_exiting_ecm">Выход из режима экстренных обратных вызовов</string>
 	<string name="prompt">Запрос</string>
 	<string name="prompt_user">Запрос пользователя</string>
-	<string name="proxy_address">Адрес прокси</string>
 	<string name="proxy_address_title">Адрес прокси-сервера</string>
 	<string name="pstn_phone">Вызов по сотовой сети</string>
 	<string name="puk2_blocked">PUK2 заблокирован.</string>
@@ -877,8 +876,8 @@
 	<string name="send_button">Позвонить</string>
 	<string name="send_keepalive_title">Отправить keep-alive</string>
 	<string name="separate_from_conference_miui">Индивидуальный вызов</string>
+	<string name="set_primary">SetPrimary</string>
 	<string name="set_preferred_network_type_when_data_enabled_miui">Предпочтительный тип сети доступен только если передача данных отключена</string>
-	<string name="set_primary">Задать первичный</string>
 	<string name="set_primary_summary">Использовать этот аккаунт по умолчанию для исходящих вызовов</string>
 	<string name="set_primary_title">Основной аккаунт</string>
 	<string name="set_smsc_address_error_miui">Не удалось установить номер SMS-центра</string>
@@ -927,7 +926,7 @@
 	<string name="sip_call_options_entry_3">Спрашивать для каждого вызова</string>
 	<string name="sip_call_options_title">Использовать Интернет</string>
 	<string name="sip_call_options_wifi_only_entry_1">Для всех вызовов</string>
-	<string name="sip_call_options_wifi_only_title">Использовать интернет-соединение (WiFi)</string>
+	<string name="sip_call_options_wifi_only_title">Использовать интернет-соединение (Wi-Fi)</string>
 	<string name="sip_edit_new_title">Настройки SIP-аккаунта</string>
 	<string name="sip_edit_title">Настройки SIP-аккаунта</string>
 	<string name="sip_menu_add">Добавить</string>
@@ -938,8 +937,8 @@
 	<string name="sip_settings">Настройки интернет-телефонии</string>
 	<string name="sip_settings_miui">Настройки интернет-телефонии</string>
 	<string name="sip_system_decide">Автоматически</string>
-	<string name="sliding_down_hint_miui">Сдвиньте вниз для ответа</string>
-	<string name="sliding_target_hint_miui">Сдвиньте вверх, для отклонения/отправки SMS</string>
+	<string name="sliding_down_hint_miui"><font size='20'>Сдвиньте вниз для ответа</font></string>
+	<string name="sliding_target_hint_miui">Сдвиньте вверх, чтобы отклонить/отправить сообщение</string>
 	<string name="sliding_up_hint_miui">Сдвиньте вверх, чтобы отклонить</string>
 	<string name="sms_content">Содержание</string>
 	<string name="sms_sender">От</string>
@@ -985,7 +984,7 @@
 	<string name="t9_indexing_method_title_miui">Поиск T9</string>
 	<string name="t9_indexing_method_zhuyin">Китайский</string>
 	<string name="t9_indexing_rebuilding_message">Обновление базы данных T9, пожалуйста, подождите...</string>
-	<string name="sum_xdivert_disabled">X-Переадресация инвалидов</string>
+	<string name="sum_xdivert_disabled">X-Переадресация выключена</string>
 	<string name="sum_xdivert_enabled">X-Переадресация включена</string>
 	<string name="summary_manage_subscriptions">Управление сетевыми настройками каждой подписки</string>
 	<string name="technology_news_disable">Новости технологий отключены</string>
