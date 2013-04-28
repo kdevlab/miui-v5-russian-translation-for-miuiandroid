@@ -73,7 +73,6 @@
 	<string name="hand_night_exit_button_text">Выход из режима сумерки</string>
 	<string name="hdr_exit_button_text">Выход из режима HDR</string>
 	<string name="height">Высота</string>
-	<string name="image_file_name_format">"'IMG'_yyyy-MM-dd_HH-mm-ss"</string>
 	<string name="import_complete">Импорт завершен</string>
 	<string name="import_fail">Импорт не удался</string>
 	<string name="iso">ISO</string>
@@ -96,7 +95,6 @@
 	<string name="pano_dialog_prepare_preview">Обработка…</string>
 	<string name="pano_dialog_title">Панорама</string>
 	<string name="pano_dialog_waiting_previous">Ожидание обработки предыдущей панораммы</string>
-	<string name="pano_file_name_format">"'PANO'_yyyy-MM-dd_HH-mm-ss"</string>
 	<string name="pano_how_to_use_prompt">Нажмите кнопку затвора для начала съёмки панорамного фото</string>
 	<string name="pano_how_to_use_prompt_go_on_moving">Продолжайте перемещать устройство</string>
 	<string name="pano_how_to_use_prompt_to_move">Перемещайте устройство плавно</string>
@@ -291,9 +289,12 @@
 	<string name="pref_camera_whitebalance_title">Баланс белого</string>
 	<string name="pref_camera_zsl_entry_off">Выкл</string>
 	<string name="pref_camera_zsl_entry_on">Вкл</string>
+	<string name="pref_captrue_mirror_default">off</string>
 	<string name="pref_captrue_mirror_entry_off">Выкл</string>
 	<string name="pref_captrue_mirror_entry_on">Вкл</string>
 	<string name="pref_captrue_mirror_title">Изображение с передней камеры</string>
+	<string name="pref_captrue_mirror_value_off">off</string>
+	<string name="pref_captrue_mirror_value_on">on</string>
 	<string name="pref_exposure_title">Экспозиция</string>
 	<string name="pref_grp_advanced_settings">Расширенные настройки</string>
 	<string name="pref_grp_capture_settings">Настройки съёмки</string>
@@ -377,7 +378,6 @@
 	<string name="unit_mm">мм</string>
 	<string name="video_camera_label">Видеокамера</string>
 	<string name="video_err">Невозможно воспроизвести видео</string>
-	<string name="video_file_name_format">"'VID'_yyyyMMdd_HHmmss"</string>
 	<string name="video_reach_size_limit">Достигнут предельный размер видео.</string>
 	<string name="video_snapshot_hint">Чтобы сделать снимок при видеосъёмке, нажмите на экран просмотра.</string>
 	<string name="videocamera_settings_label">Настройки видеокамеры</string>
