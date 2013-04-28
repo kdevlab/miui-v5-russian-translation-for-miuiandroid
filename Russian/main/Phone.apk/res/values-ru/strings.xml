@@ -357,10 +357,8 @@
 	<string name="disable_pin_ok">Запрос PIN SIM-карты отключен</string>
 	<string name="disable_sim_pin">Отключить запрос PIN SIM-карты</string>
 	<string name="disable_sim_pin_miui">Отключить запрос PIN SIM-карты</string>
-	<string name="display_name">DisplayName</string>
 	<string name="display_name_summary">&lt;Совпадает с именем пользователя></string>
 	<string name="display_name_title">Отображаемое имя</string>
-	<string name="domain_address">SipDomain</string>
 	<string name="domain_address_title">Сервер</string>
 	<string name="doneButton">Готово</string>
 	<string name="dtmf_tone_enable_title">Звук номеронабирателя</string>
@@ -370,7 +368,6 @@
 	<string name="dtmf_tones_summary_miui">Настроить длительность тональных сигналов DTMF</string>
 	<string name="dtmf_tones_title">Тональные сигналы DTMF</string>
 	<string name="dtmf_tones_title_miui">Тональные сигналы DTMF</string>
-	<string name="ecm_exit_dialog">EcmExitDialog</string>
 	<string name="editContact">Изменить</string>
 	<string name="edit_custom_location_title_miui">Настройка региональных приставок</string>
 	<string name="edit_fdn_contact">Изменить номер ограниченного набора</string>
@@ -1032,7 +1029,6 @@
 	<string name="updating_fdn_contact">Выполняется обновление номера ограниченного набора...</string>
 	<string name="updating_settings">Обновление настроек…</string>
 	<string name="updating_title">Настройки вызовов</string>
-	<string name="username">UserName</string>
 	<string name="username_title">Имя пользователя</string>
 	<string name="ussdRunning">Выполняется запрос USSD…</string>
 	<string name="vibrate_on_ring_title">Вибрация при звонке</string>
