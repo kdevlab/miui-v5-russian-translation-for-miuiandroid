@@ -25,7 +25,7 @@
 	<string name="backup_data">Данные бэкапа</string>
 	<string name="backup_delete">Удалить</string>
 	<string name="backup_empty">Резервные копии не найдены</string>
-	<string name="backup_empty_info">Резервное копирование данных, настроек и приложений</string>
+	<string name="backup_empty_info">Резервное копирование данных,\nа также настроек и приложений</string>
 	<string name="backup_error">Ошибка</string>
 	<string name="backup_failed">Резервное копирование не удалось, попробуйте еще раз</string>
 	<string name="backup_file_error">Файлы резерной копии повреждены, операция не завершена</string>
