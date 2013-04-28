@@ -743,6 +743,7 @@
 	<string name="separatorJoinAggregateSuggestions">Предлагаемые контакты</string>
 	<string name="service_provider">Поставщик услуг</string>
 	<string name="set_default">Установить как основной</string>
+	<string name="set_photo_failed_msg">Ошибка установки аватара</string>
 	<string name="share_error">Не удалось передать данные</string>
 	<string name="share_via">Отправить</string>
 	<string name="share_visible_contacts">Все контакты</string>

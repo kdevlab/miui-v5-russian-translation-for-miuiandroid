@@ -415,6 +415,7 @@
 	<string name="short_pincode_error_msg">Пожалуйста, введите 4-8 цифр</string>
 	<string name="short_pukcode_error_msg">Пожалуйста, введите по меньшей мере 8 цифр</string>
 	<string name="sim_account_name">SIM</string>
+	<string name="sim_changed_reactivate_int_notice">Текущая SIM-карта не активирована. Необходима отправка международной SMS для активации услуги Xiaomi синхронизации. Активировать сейчас?</string>
 	<string name="sim_changed_reactivate_notice">Текущая SIM-карта не активирована. Необходима отправка SMS для активации услуги Xiaomi синхронизации. Активировать сейчас?</string>
 	<string name="sim_in_airplane_mode">Пожалуйста, отключите режим в полете.</string>
 	<string name="sim_locked">SIM-карта заблокирована</string>

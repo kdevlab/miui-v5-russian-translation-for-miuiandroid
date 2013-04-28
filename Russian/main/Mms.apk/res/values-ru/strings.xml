@@ -197,6 +197,9 @@
 	<string name="mx_activate_hint_malformed_info">Ваши личные данные повреждены. Требуется SMS для повторной активации облачных сообщений. Активировать?</string>
 	<string name="mx_activate_hint_server">Сервер отклонил запрос активации. Требуется SMS для повторной активации облачных сообщений. Активировать?</string>
 	<string name="mx_activate_hint_sim_change">SIM карта изменилась. Требуется SMS для повторной активации облачных сообщений. Активировать?</string>
+	<string name="mx_activate_int_hint_malformed_info">Ваши личные данные повреждены. Требуется отправка международной SMS для повторной активации облачных сообщений. Активировать?</string>
+	<string name="mx_activate_int_hint_server">Сервер отклонил запрос активации. Требуется отправка международной SMS для повторной активации облачных сообщений. Активировать?</string>
+	<string name="mx_activate_int_hint_sim_change">SIM карта изменилась. Требуется отправка международной SMS для повторной активации облачных сообщений. Активировать?</string>
 	<string name="mx_auto_resend_mms">Отправить как MMS</string>
 	<string name="mx_auto_resend_mms_summary">Отправлять сообщения как MMS, когда облачные сообщения не доступны</string>
 	<string name="mx_auto_resend_sms">Отправить как SMS</string>
