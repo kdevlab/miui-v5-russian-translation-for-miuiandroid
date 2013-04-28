@@ -238,9 +238,6 @@
 	<string name="phrase_list_title">Шаблоны</string>
 	<string name="pick_too_many_recipients">Слишком много получателей</string>
 	<string name="play">Воспроизвести</string>
-	<string name="prefDefault_vibrateWhen">Никогда</string>
-	<string name="prefDefault_vibrate_false">Никогда</string>
-	<string name="prefDefault_vibrate_true">Всегда</string>
 	<string name="pref_advanced_settings_title">Дополнительно</string>
 	<string name="pref_edit_smsc_address">Номер SMS-центра</string>
 	<string name="pref_messages_to_save">Установить количество сообщений в переписке для хранения</string>

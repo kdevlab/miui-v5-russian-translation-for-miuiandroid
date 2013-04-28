@@ -18,7 +18,6 @@
 	<string name="administrative_disable">Административные функции отключены</string>
 	<string name="administrative_enable">Административные функции включены</string>
 	<string name="advanced_settings">Расширенные настройки</string>
-	<string name="advanced_settings_container">Расширенные настройки</string>
 	<string name="advanced_settings_hide">▽ Нажмите, чтобы скрыть все</string>
 	<string name="advanced_settings_show">▷ Нажмите, чтобы показать все</string>
 	<string name="advertisements_disable">Реклама отключена</string>
@@ -56,7 +55,6 @@
 	<string name="audio_mode_earpiece">Динамик гарнитуры</string>
 	<string name="audio_mode_speaker">Динамик</string>
 	<string name="audio_mode_wired_headset">Проводная гарнитура</string>
-	<string name="auth_username">AuthUserName</string>
 	<string name="auth_username_summary">Имя пользователя для аутентификации</string>
 	<string name="auth_username_title">Имя пользователя</string>
 	<string name="auto_answer_delay_entries_delay_10s_miui">10 сек.</string>
@@ -67,17 +65,17 @@
 	<string name="auto_answer_pref_summary_miui">Автоматический ответ на вызовы</string>
 	<string name="auto_answer_pref_title_miui">Автоответ</string>
 	<string name="auto_answer_scenario_enteries_always_miui">Всегда</string>
-	<string name="auto_answer_summary_delay">" (задержка: %s сек.)"</string>
-	<string name="auto_ip_exception_miui">Номера, которым не нужен префикс</string>
 	<string name="auto_answer_scenario_enteries_bluetooth_only_miui">При подключении Bluetooth</string>
 	<string name="auto_answer_scenario_enteries_headset_bluetooth_miui">При гарнитуре или Bluetooth</string>
 	<string name="auto_answer_scenario_enteries_headset_only_miui">При подключении гарнитуры</string>
 	<string name="auto_answer_scenario_title_miui">Сценарии автоматического ответа</string>
 	<string name="auto_answer_setting_title_miui">Настройки автоответа</string>
+	<string name="auto_answer_summary_delay">" (задержка: %s сек.)"</string>
 	<string name="auto_answer_summary_not_enabled">Не включен</string>
 	<string name="auto_country_code_miui">Автоматический код города</string>
 	<string name="auto_country_code_sum_miui">Автоматически добавляет код города при вызове</string>
 	<string name="auto_ip_add_exception_numbers_miui">Добавить номера</string>
+	<string name="auto_ip_exception_miui">Номера, которым не нужен префикс</string>
 	<string name="auto_ip_exception_summary_miui">%d всего</string>
 	<string name="auto_ip_exception_summary_more_miui">,... %d всего</string>
 	<string name="auto_ip_no_exceptions_miui">Пожалуйста добавте номера которым не нужна IP приставка</string>
@@ -156,7 +154,6 @@
 	<string name="call_settings">Настройки вызовов</string>
 	<string name="call_settings_category_miui">Вызовы</string>
 	<string name="call_settings_miui">Настройки вызовов</string>
-	<string name="caller_id_title_miui">Автоопределение номера</string>
 	<string name="call_title_redialing_with_times_miui">Повторный набор №%d</string>
 	<string name="call_waiting_sum_miui">Сообщать мне о входящих звонках во время разговора</string>
 	<string name="call_waiting_tone_continuously_miui">Воспроизводить звук по кругу</string>
@@ -165,6 +162,7 @@
 	<string name="call_waiting_tone_twice_and_vibrate_miui">Воспроизвести звук и провибрировать дважды</string>
 	<string name="call_waiting_tone_twice_only_miui">Воспроизвести звук дважды</string>
 	<string name="caller_id_sum_miui">Скрыть/показать свой номер для исходящих звонков (если поддерживается сетью)</string>
+	<string name="caller_id_title_miui">Автоопределение номера</string>
 	<string name="caller_manage_header">Конференц-вызов: %s</string>
 	<string name="caller_manage_manage_done_text_miui">Вернуться к вызову</string>
 	<string name="callind">Настройки функций звонков</string>
@@ -278,10 +276,10 @@
 	<string name="contactdeleteFailed">Не удалось удалить контакт с SIM!!!</string>
 	<string name="contactdeleteSuccess">Контакт с SIM успешно удален</string>
 	<string name="contacts_icon_label_miui">Контакты</string>
-	<string name="count_of_persons_in_conference_miui">Всего людей: %d</string>
 	<string name="corporate_unlock_failed">Разблокировка корпоративной сети не удалась</string>
 	<string name="corporate_unlock_success">Корпоративная сеть успешно разблокирована</string>
 	<string name="count_down">Секунд:</string>
+	<string name="count_of_persons_in_conference_miui">Всего людей: %d</string>
 	<string name="countrycode_alert_message_warning_miui">Код города, который вы ввели возможно не верен, вы хотите продолжить?</string>
 	<string name="countrycode_alert_message_wrong_miui">Код города, который вы ввели не верен. Попробуйте снова</string>
 	<string name="countrycode_alert_title_miui">Внимание!</string>
@@ -297,12 +295,11 @@
 	<string name="cw_title_miui">Ожидание вызова</string>
 	<string name="data_enable_summary">Разрешить передачу данных по сети мобильной связи</string>
 	<string name="data_enabled">Передача данных</string>
-	<string name="default_contacts_countrycode_hint_miui">Например: 7</string>
 	<string name="deact_all_sub_not_supported">Деактивация обоих подписок не поддерживается.</string>
+	<string name="default_contacts_countrycode_hint_miui">Например: 7</string>
 	<string name="default_contacts_countrycode_miui">Стандартный код города</string>
 	<string name="default_contacts_countrycode_sum_miui">Редактирование стандартного кода города: %s</string>
 	<string name="default_preference_summary">&lt;Не настроено></string>
-	<string name="default_transport">UDP</string>
 	<string name="delete">Удалить</string>
 	<string name="deleteAllSimEntries">Удалить все контакты с SIM</string>
 	<string name="deleteSimContacts">Удаление SIM контактов</string>
@@ -368,6 +365,7 @@
 	<string name="dtmf_tones_summary_miui">Настроить длительность тональных сигналов DTMF</string>
 	<string name="dtmf_tones_title">Тональные сигналы DTMF</string>
 	<string name="dtmf_tones_title_miui">Тональные сигналы DTMF</string>
+	<string name="ecm_exit_dialog">EcmExitDialog</string>
 	<string name="editContact">Изменить</string>
 	<string name="edit_custom_location_title_miui">Настройка региональных приставок</string>
 	<string name="edit_fdn_contact">Изменить номер ограниченного набора</string>
@@ -700,7 +698,6 @@
 	<string name="ota_unsuccessful">Телефон не был активирован. \nВозможно, вам следует найти зону с более высоким уровнем сигнала (у окна или на улице). \n\nПовторите попытку или свяжитесь со службой поддержки</string>
 	<string name="other_settings">Другие настройки вызовов</string>
 	<string name="other_settings_miui">Другие настройки вызовов</string>
-	<string name="password">Пароль</string>
 	<string name="password_title">Пароль</string>
 	<string name="pause_prompt_no">Нет</string>
 	<string name="pause_prompt_str">Отправка тональных сигналов\n</string>
@@ -735,7 +732,6 @@
 	<string name="pin_progress_unlock_icc_miui">Разблокирование SIM-карты...</string>
 	<string name="place_a_call1">Подписка 1</string>
 	<string name="place_a_call2">Подписка 2</string>
-	<string name="port">Порт</string>
 	<string name="port_title">Номер порта</string>
 	<string name="pref_custom_location_summary_miui">Настройка региональных приставок и количество приставок</string>
 	<string name="pref_custom_location_title_miui">Настройка приставок</string>
@@ -873,7 +869,6 @@
 	<string name="send_button">Позвонить</string>
 	<string name="send_keepalive_title">Отправить keep-alive</string>
 	<string name="separate_from_conference_miui">Индивидуальный вызов</string>
-	<string name="set_primary">SetPrimary</string>
 	<string name="set_preferred_network_type_when_data_enabled_miui">Предпочтительный тип сети доступен только если передача данных отключена</string>
 	<string name="set_primary_summary">Использовать этот аккаунт по умолчанию для исходящих вызовов</string>
 	<string name="set_primary_title">Основной аккаунт</string>
@@ -977,13 +972,13 @@
 	<string name="sum_select_automatically_option_miui">Автовыбор предпочтительной сети, %s</string>
 	<string name="sum_show_caller_id">Номер, отображающийся при исходящих вызовах</string>
 	<string name="sum_voicemail_choose_provider">Выберите службу голосовой почты</string>
+	<string name="sum_xdivert_disabled">X-Переадресация выключена</string>
+	<string name="sum_xdivert_enabled">X-Переадресация включена</string>
+	<string name="summary_manage_subscriptions">Управление сетевыми настройками каждой подписки</string>
 	<string name="t9_indexing_method_pinyin">Алфавитный</string>
 	<string name="t9_indexing_method_title_miui">Поиск T9</string>
 	<string name="t9_indexing_method_zhuyin">Китайский</string>
 	<string name="t9_indexing_rebuilding_message">Обновление базы данных T9, пожалуйста, подождите...</string>
-	<string name="sum_xdivert_disabled">X-Переадресация выключена</string>
-	<string name="sum_xdivert_enabled">X-Переадресация включена</string>
-	<string name="summary_manage_subscriptions">Управление сетевыми настройками каждой подписки</string>
 	<string name="technology_news_disable">Новости технологий отключены</string>
 	<string name="technology_news_enable">Новости технологий включены</string>
 	<string name="telocation_setting_miui">Настройки положения</string>
@@ -1005,7 +1000,6 @@
 	<string name="throttle_time_frame">Время передачи данных</string>
 	<string name="throttle_time_frame_subtext">%1$s превышен максимум.\nЧастота данных уменьшена до %2$d кБ/с</string>
 	<string name="title_data_settings">Настройки данных</string>
-	<string name="transport">Протокол</string>
 	<string name="transport_title">Протокол</string>
 	<string name="tty_mode_entries_full_miui">TTY Full</string>
 	<string name="tty_mode_entries_hco_miui">TTY HCO</string>
