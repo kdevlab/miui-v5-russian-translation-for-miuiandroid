@@ -5,7 +5,7 @@
 	<string name="activity_not_found_uri">Не удается найти приложение для этого типа файлов</string>
 	<string name="add_bookmark">Избранные</string>
 	<string name="add_contact">Контакт</string>
-	<string name="add_festival">Поздравление</string>
+	<string name="add_festival">Поздравления</string>
 	<string name="add_music">Добавить музыку</string>
 	<string name="add_nickname">Псевдоним</string>
 	<string name="add_nickname_title">Добавить псевдоним</string>
@@ -124,7 +124,7 @@
 	<string name="failed_to_add_media">Невозможно добавить этот объект (%1$s)</string>
 	<string name="failed_to_resize_image">Не удалось изменить размер рисунка</string>
 	<string name="fdn_check_failure">Вы можете отправлять сообщения только на номера из своего списка разрешенных номеров</string>
-	<string name="festival">Фразы</string>
+	<string name="festival">Поздравления</string>
 	<string name="festival_sms_category_count_format">(%s)</string>
 	<string name="festival_sms_loading">Загрузка...</string>
 	<string name="fetion_prefix">[Fetion]</string>
