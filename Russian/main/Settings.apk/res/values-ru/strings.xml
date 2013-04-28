@@ -20,7 +20,7 @@
 	<string name="access_control_recording_intro_header">Нарисуйте графический ключ:</string>
 	<string name="access_control_reset_by_account">Войдите в аккаунт Xiaomi чтобы сбросить пароль контроля доступа</string>
 	<string name="accessibility_long_press_timeout_title">Задержка при нажатии и удержании</string>
-	<string name="accessibility_menu_item_settings">Настройки</string>
+	<string name="accessibility_menu_item_settings">Параметры</string>
 	<string name="accessibility_no_services_installed">Службы не установлены</string>
 	<string name="accessibility_power_button_ends_call_title">Кнопка питания завершает вызов</string>
 	<string name="accessibility_script_injection_allowed">Разрешена</string>
@@ -628,7 +628,7 @@
 	<string name="device_admin_status">Администратор активирован и разрешает приложению %1$s выполнять следующие операции:</string>
 	<string name="device_admin_title">Администрирование устройства</string>
 	<string name="device_admin_warning">Активация этого администратора позволит приложению \"%1$s\" выполнять следующие операции:</string>
-	<string name="device_cpu">Процессор:</string>
+	<string name="device_cpu">Процессор</string>
 	<string name="device_edit_title">Смена имени устройства</string>
 	<string name="device_cpu2_info">"2 ядра "</string>
 	<string name="device_cpu4_info">"4 ядра "</string>
@@ -636,9 +636,9 @@
 	<string name="device_info_label">Сведения об устройстве</string>
 	<string name="device_info_not_available">Недоступно</string>
 	<string name="device_info_settings">Состояние телефона</string>
-	<string name="device_miui_version">Версия MIUI:</string>
-	<string name="device_internal_memory">Память телефона:</string>
-	<string name="device_memory">Оперативная память:</string>
+	<string name="device_miui_version">Версия MIUI</string>
+	<string name="device_internal_memory">Память телефона</string>
+	<string name="device_memory">Оперативная память</string>
 	<string name="device_name">Название устройства</string>
 	<string name="device_name_input_hint">Пожалуйста введите имя устройства</string>
 	<string name="device_name_usage_point">Показать название вашего устройства, при Bluetooth подключениях, создании точки доступа и так далее.</string>
@@ -855,8 +855,8 @@
 	<string name="input_method_selector_always_hide_title">Всегда скрывать</string>
 	<string name="input_method_selector_always_show_title">Всегда показывать</string>
 	<string name="input_method_selector_show_automatically_title">Автоматически</string>
-	<string name="input_method_settings">Настройки</string>
-	<string name="input_method_settings_button">Настройки</string>
+	<string name="input_method_settings">Параметры</string>
+	<string name="input_method_settings_button">Параметры</string>
 	<string name="input_methods_and_subtype_enabler_title">Выберите активные способы ввода</string>
 	<string name="input_methods_settings_label_format">Настройки %1$s</string>
 	<string name="input_methods_settings_title">Ввод текста</string>
@@ -1561,7 +1561,7 @@
 	<string name="service_background_processes">%1$s свободно</string>
 	<string name="service_client_name">Нажмите, чтобы изменить %1$s</string>
 	<string name="service_foreground_processes">%1$s занято</string>
-	<string name="service_manage">Настройки</string>
+	<string name="service_manage">Параметры</string>
 	<string name="service_manage_description">%1$s: в настоящий момент используется. Нажмите \"Настройки\" для управления.</string>
 	<string name="service_process_name">Процесс: %1$s</string>
 	<string name="service_restarting">Перезапуск</string>
@@ -1576,9 +1576,9 @@
 	<string name="set_voice_error">Ошибка при установке оператора голосовых вызовов. Функция недоступна.</string>
 	<string name="settings_backup">Создать резервную копию настроек</string>
 	<string name="settings_backup_summary">Резервная копия настроек.</string>
-	<string name="settings_button">Настройки</string>
-	<string name="settings_label">Настройки</string>
-	<string name="settings_label_launcher">Настройки</string>
+	<string name="settings_button">Параметры</string>
+	<string name="settings_label">Параметры</string>
+	<string name="settings_label_launcher">Параметры</string>
 	<string name="settings_license_activity_loading">Загрузка…</string>
 	<string name="settings_license_activity_title">Лицензии открытого ПО</string>
 	<string name="settings_license_activity_unavailable">При загрузке лицензий возникла неполадка.</string>
@@ -1657,7 +1657,7 @@
 	<string name="sound_effects_enable_title">Звук нажатия на экран</string>
 	<string name="sound_settings">Звук</string>
 	<string name="spellchecker_language">Язык</string>
-	<string name="spellchecker_quick_settings">Настройки</string>
+	<string name="spellchecker_quick_settings">Параметры</string>
 	<string name="spellchecker_security_warning">Для проверки орфографии будет использоваться приложение %1$s, которое может собирать все вводимые данные, в том числе пароли и номера кредитных карт. Продолжить?</string>
 	<string name="spellcheckers_settings_title">Проверка орфографии</string>
 	<string name="ssid_label">"SSID: "</string>
