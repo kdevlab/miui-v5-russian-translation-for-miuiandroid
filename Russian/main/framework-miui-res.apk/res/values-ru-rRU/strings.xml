@@ -417,7 +417,7 @@
 	<string name="sim_account_name">SIM</string>
 	<string name="sim_changed_reactivate_int_notice">Текущая SIM-карта не активирована. Необходима отправка международной SMS для активации услуги Xiaomi синхронизации. Активировать сейчас?</string>
 	<string name="sim_changed_reactivate_notice">Текущая SIM-карта не активирована. Необходима отправка SMS для активации услуги Xiaomi синхронизации. Активировать сейчас?</string>
-	<string name="sim_in_airplane_mode">Пожалуйста, отключите режим в полете.</string>
+	<string name="sim_in_airplane_mode">Пожалуйста, отключите режим полета</string>
 	<string name="sim_locked">SIM-карта заблокирована</string>
 	<string name="sim_not_ready">SIM-карта не готова. Попробуйте позже.</string>
 	<string name="sim_unavailable">SIM-карта отсутствует</string>
