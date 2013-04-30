@@ -739,7 +739,7 @@
 	<string name="enable_adb_summary">Включить режим отладки при подключении к компьютеру по USB</string>
 	<string name="enable_compatibility">Масштабировать приложения</string>
 	<string name="enable_drive_mode">Включить режим вождения</string>
-	<string name="enable_snapshot_screenlock">Камера на экране блокировки</string>
+	<string name="enable_snapshot_screenlock">Камера кнопкой \"НАЗАД\"</string>
 	<string name="enable_text">Включить</string>
 	<string name="enable_traces_dialog_title">Выбрать трассировки</string>
 	<string name="enable_traces_summary_all">Все трассировки активированы</string>
@@ -805,8 +805,8 @@
 	<string name="gadget_toggle_bluetooth">Обновление настроек Bluetooth</string>
 	<string name="gadget_toggle_wifi">Обновление настроек Wi-Fi</string>
 	<string name="game_controller_settings_category">Игровой контроллер</string>
-	<string name="haptic_feedback_enable_title">Виброотклик экрана</string>
-	<string name="haptic_feedback_level">Уровень вибрации</string>
+	<string name="haptic_feedback_enable_title">Виброотклик клавиш</string>
+	<string name="haptic_feedback_level">Уровень вибрации клавиш</string>
 	<string name="hardkeyboard_category">Настройки внешней клавиатуры</string>
 	<string name="hdcp_checking_dialog_title">Порядок проверки HDCP</string>
 	<string name="hdcp_checking_title">Проверка HDCP</string>
@@ -834,7 +834,7 @@
 	<string name="help_url_wifi" />
 	<string name="hidden_ssid_label">"Скрытый SSID: "</string>
 	<string name="history_details_title">Подробная история</string>
-	<string name="home_key">Кнопка \"Домой\"</string>
+	<string name="home_key">Клавиша \"ДОМОЙ\"</string>
 	<string name="ime_security_warning">При использовании этого способа могут собираться все вводимые данные, в том числе пароли и номера кредитных карт. Способ ввода запрашивается приложением \"%1$s\". Использовать этот способ ввода?</string>
 	<string name="immediately_destroy_activities">Не сохранять процессы</string>
 	<string name="immediately_destroy_activities_summary">Завершать процессы сразу после их закрытия</string>
@@ -1039,7 +1039,7 @@
 	<string name="memory_size">Всего места</string>
 	<string name="menu_cancel">Отменить</string>
 	<string name="menu_delete">Удалить</string>
-	<string name="menu_key">Клавиша \"Меню\"</string>
+	<string name="menu_key">Клавиша \"МЕНЮ\"</string>
 	<string name="menu_new">Новая точка доступа</string>
 	<string name="menu_restore">Восстановить настройки по умолчанию</string>
 	<string name="menu_save">Сохранить</string>
