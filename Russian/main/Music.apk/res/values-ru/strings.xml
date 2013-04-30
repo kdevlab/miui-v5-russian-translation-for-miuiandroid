@@ -53,7 +53,7 @@
 	<string name="delete_file_from_sdcard">Удалить файлы с SD-карты</string>
 	<string name="delete_item">Удалить</string>
 	<string name="delete_playlist_menu">Удалить</string>
-	<string name="delete_song_desc">Вы уверены что хотите удалить файл %s с SD-карты?</string>
+	<string name="delete_song_desc">Вы уверены что хотите удалить %s с SD-карты?</string>
 	<string name="deselect_all">Отмена</string>
 	<string name="dirac_disabled">Dirac включен</string>
 	<string name="dirac_enabled">Dirac выключен</string>
