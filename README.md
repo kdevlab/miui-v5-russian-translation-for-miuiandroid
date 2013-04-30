@@ -14,3 +14,5 @@ MIUI Translators:
  - Ахмедов Арсен
  - pushkagun (http://mi-droid.ru/)
  - VBenkovskyy (Vlaaaad)
+
+ For Font fix thanks furniel (http://4pda.ru/forum/index.php?showuser=1090145)
