@@ -2,8 +2,8 @@
 <!--Merged and sorted with KDG BigBlackBox-->
 <resources>
 	<string name="alphabet">Алфавит</string>
-	<string name="app_name">Инструменты SIM-карты</string>
-	<string name="app_name2">Инструменты SIM-карты</string>
+	<string name="app_name">SIM-Сервис</string>
+	<string name="app_name2">SIM-Сервис</string>
 	<string name="button_cancel">Отмена</string>
 	<string name="button_no">Нет</string>
 	<string name="button_ok">ОК</string>
@@ -24,6 +24,6 @@
 	<string name="stk_app_state">Состояние приложения</string>
 	<string name="stk_dialog_accept">ДА</string>
 	<string name="stk_dialog_reject">НЕТ</string>
-	<string name="stk_dialog_title">Инструменты SIM-карты</string>
+	<string name="stk_dialog_title">SIM-Сервис</string>
 	<string name="stk_no_service">Вне зоны обслуживания</string>
 </resources>

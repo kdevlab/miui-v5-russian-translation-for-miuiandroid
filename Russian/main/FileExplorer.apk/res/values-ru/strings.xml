@@ -234,7 +234,7 @@
 	<string name="thumbnail_title">Файлы эскизов</string>
 	<string name="toast_file_not_can_read">Этот тип файла не поддерживается</string>
 	<string name="trans_task">Передача</string>
-	<string name="trans_task_delete_confirm_message">Вы уверены, что хотите удалить задачи (%1$d)?</string>
+	<string name="trans_task_delete_confirm_message">Удалить выбранные задачи? \n\nЗадач:%1$d</string>
 	<string name="transing">Отправка</string>
 	<string name="trash_box_capacity">Объем корзины: %1$s</string>
 	<string name="trash_box_link">Посетите pan.xiaomi.com для очистки корзины</string>
