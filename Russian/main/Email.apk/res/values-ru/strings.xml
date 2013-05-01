@@ -10,7 +10,7 @@
 	<string name="account_folder_list_summary_drafts">Черновики</string>
 	<string name="account_folder_list_summary_inbox">Входящие</string>
 	<string name="account_folder_list_summary_outbox">Исходящие</string>
-	<string name="account_folder_list_summary_starred">Помеченные</string>
+	<string name="account_folder_list_summary_starred">Избранные</string>
 	<string name="account_name_display_all">Все аккаунты</string>
 	<string name="account_out_of_quota">Превышена дисковая квота для аккаунта</string>
 	<string name="account_password_spaces_error">Пароль начинается или заканчивается пробелом. Некоторые серверы не поддерживают пароли с пробелами</string>
@@ -259,11 +259,11 @@
 	<string name="eml_view_title">Просмотр файла %s</string>
 	<string name="error_loading_message_body">Не удалось загрузить сообщение. Возможно, оно слишком большое</string>
 	<string name="exchange_name">Корпоративный</string>
-	<string name="exchange_name_alternate">Microsoft Exchange ActiveSync</string>
+	<string name="exchange_name_alternate">Microsoft Exchange</string>
 	<string name="failed_bad_response">Ошибка службы</string>
 	<string name="failed_network_error">Ошибка сети</string>
 	<string name="failed_server_auth">Не удалось выполнить аутентификацию</string>
-	<string name="favorite_action">Пометить</string>
+	<string name="favorite_action">В избранное</string>
 	<string name="finished_empty">Список завершенных загрузок пуст</string>
 	<string name="format_date_uploaded">Загружено %s</string>
 	<string name="forward_action">Переслать</string>
@@ -485,7 +485,7 @@
 	<string name="quick_responses_empty_view">Нет шаблонов для быстрых ответов</string>
 	<string name="read_action">Прочитано</string>
 	<string name="refresh_action">Обновление</string>
-	<string name="remove_star_action">Снять пометку</string>
+	<string name="remove_star_action">Из избранного</string>
 	<string name="reply_action">Ответить</string>
 	<string name="reply_all_action">Ответить всем</string>
 	<string name="require_manual_sync_message">Фоновая синхронизация отключена для этой учетной записи в роуминге</string>
@@ -551,7 +551,7 @@
 	<string name="widget_no_accounts">Вы еще не добавили аккаунт электронной почты</string>
 	<string name="widget_no_mailboxes">Этот аккаунт не синхронизирован, попробуйте позже.</string>
 	<string name="widget_other_views">Нажмите, чтобы изменить</string>
-	<string name="widget_starred">Помеченные</string>
+	<string name="widget_starred">Избранные</string>
 	<string name="widget_touch_to_configure">Нажмите для настройки</string>
 	<string name="widget_unread">Непрочитанные</string>
 </resources>

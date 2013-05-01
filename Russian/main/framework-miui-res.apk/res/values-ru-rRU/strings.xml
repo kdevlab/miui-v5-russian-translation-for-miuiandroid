@@ -10,7 +10,7 @@
 	<string name="arbor_day" />
 	<string name="autumn_begins" />
 	<string name="autumn_equinox" />
-	<string name="callNoAnswerTimeFormat">%s гудков</string>
+	<string name="callNoAnswerTimeFormat">Гудков: %s</string>
 	<string name="call_record_or">или</string>
 	<string name="call_record_sample_prefix_miui">Callrecording</string>
 	<string name="caller_info_name_delimiter">или</string>

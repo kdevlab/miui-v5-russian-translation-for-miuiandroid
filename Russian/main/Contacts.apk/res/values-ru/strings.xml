@@ -217,7 +217,7 @@
 	<string name="description_image_button_pound">решетка</string>
 	<string name="description_image_button_seven">семь</string>
 	<string name="description_image_button_six">шесть</string>
-	<string name="description_image_button_star">пометить</string>
+	<string name="description_image_button_star">в избранное</string>
 	<string name="description_image_button_three">три</string>
 	<string name="description_image_button_two">два</string>
 	<string name="description_image_button_zero">ноль</string>
@@ -418,7 +418,7 @@
 	<string name="listTotalAllContactsZeroStarred">Нет контактов</string>
 	<string name="listTotalPhoneContactsZero">Нет контактов с номерами телефонов</string>
 	<string name="list_filter_all_accounts">Все контакты</string>
-	<string name="list_filter_all_starred">Помеченные</string>
+	<string name="list_filter_all_starred">Избранные</string>
 	<string name="list_filter_custom">Пользовательские</string>
 	<string name="list_filter_customize">Настроить</string>
 	<string name="list_filter_phones">Все контакты с номерами телефонов</string>
@@ -473,7 +473,7 @@
 	<string name="menu_new_group_action_bar">Новая группа</string>
 	<string name="menu_not_redirect_calls_to_vm">Включить голосовую почту</string>
 	<string name="menu_redirect_calls_to_vm">Выключить голосовую почту</string>
-	<string name="menu_removeStar">Удал. из избранных</string>
+	<string name="menu_removeStar">Из избранных</string>
 	<string name="menu_search">Поиск</string>
 	<string name="menu_select_all">Выбрать все</string>
 	<string name="menu_select_none">Отменить все</string>
@@ -800,7 +800,7 @@
 	<string name="social_widget_loading">Загрузка…</string>
 	<string name="splitConfirmation">Вы хотите разделить контакт?</string>
 	<string name="splitConfirmation_title">Разделение контакта</string>
-	<string name="starredList">Помеченные</string>
+	<string name="starredList">Избранные</string>
 	<string name="starred_contacts">Избранные</string>
 	<string name="status_available">На месте</string>
 	<string name="status_away">Отсутствует</string>
