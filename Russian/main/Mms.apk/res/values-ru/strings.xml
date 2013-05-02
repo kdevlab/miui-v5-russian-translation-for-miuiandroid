@@ -334,7 +334,7 @@
 	<string name="send">Отправить</string>
 	<string name="send_signature_confirm_dialog_message">Вы не ввели текст сообщения, вы хотите отправить его только с подписью?</string>
 	<string name="send_signature_confirm_dialog_title">Отправить подтверждение</string>
-	<string name="send_to">Для: %1$s</string>
+	<string name="send_to">Для:</string>
 	<string name="send_to_count">Успешно отправлено для %1$s</string>
 	<string name="send_to_index_contact">Отправлено %1$s из %2$s</string>
 	<string name="sent_label">"Отправлено: "</string>
