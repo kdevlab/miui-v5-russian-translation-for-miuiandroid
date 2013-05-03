@@ -1420,7 +1420,7 @@
 	<string name="remove_account_failed">Аккаунт необходим для доступа к некоторым приложениям. Чтобы удалить его, нужно восстановить на устройстве настройки по умолчанию (в результате все личные данные будут удалены). Это можно сделать в разделе \"Настройки > \"Резервное копирование и сброс\".</string>
 	<string name="remove_account_label">Удалить аккаунт</string>
 	<string name="remove_device_admin">Отключить</string>
-	<string name="remove_from_frequently_fragment">Удалить \"%s\" из общих настроек?</string>
+	<string name="remove_from_frequently_fragment">Удалить \"%s\" из избранного?</string>
 	<string name="reset_app_preferences">Сброс настроек приложений</string>
 	<string name="reset_app_preferences_button">Сброс приложений</string>
 	<string name="reset_app_preferences_desc">Это будет сбросит все настройки для:\n\nОтключенных приложений\nОтключенных уведомлений от приложений\nПриложения по умолчанию\nОграничения фоновых данных для приложений\n\nВы не потеряете данных приложения.</string>
