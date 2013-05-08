@@ -92,6 +92,7 @@
 	<string name="file_loading">Загрузка...</string>
 	<string name="file_too_large">Этот файл слишком большой для загрузки на сервер</string>
 	<string name="finished">Завершено</string>
+	<string name="folder_exist">Папка уже существует</string>
 	<string name="forward_to_web_recycle_prompt">&lt;a href=\"%1$s\">Нажмите сюда&lt;/a>для очистки корзины</string>
 	<string name="ftp_account_req_notice">Имя и пароль, 4~16 знаков, включая цифры, буквы, чувствительны к регистру</string>
 	<string name="ftp_anonymous_login">Анонимный FTP</string>

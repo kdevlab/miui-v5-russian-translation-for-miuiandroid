@@ -35,6 +35,7 @@
 	<string name="clock_instructions">Выберите часы</string>
 	<string name="close_alarm">Отключить будильник</string>
 	<string name="common_settings">Общие</string>
+	<string name="confirm_abort">Отмена</string>
 	<string name="control_set_alarm">Установить будильник</string>
 	<string name="control_set_alarm_with_existing">Будильник установлен на %s</string>
 	<string name="day">1 день</string>
@@ -66,9 +67,8 @@
 	<string name="holiday_data_update_failed">Ошибка обновления, попробуйте еще раз позже</string>
 	<string name="holiday_data_update_succeed">Проверка обновлений завершена</string>
 	<string name="holiday_data_updating">Обновление...</string>
-	<string name="holiday_update_pref_invalidate_title">Обновление рабочих дней (просрочено)</string>
-	<string name="holiday_update_pref_summary">Нажмите для обновления базы</string>
-	<string name="holiday_update_pref_title">Обновление рабочих дней</string>
+	<string name="holiday_update_summary">Нажмите для обновления базы</string>
+	<string name="holiday_update_title">Данные о рабочих днях требуют подключения к сети и обновления</string>
 	<string name="home_button_description">Рабочий стол</string>
 	<string name="hour">1 час</string>
 	<string name="hour_unit">ч</string>
@@ -127,7 +127,6 @@
 	<string name="timer_tutorial">Установка таймера</string>
 	<string name="timezone_exist_error_message">Не удалось добавить часовой пояс. Часовой пояс уже существует, пожалуйста, повторите</string>
 	<string name="timezone_search_hint">Поиск города</string>
-	<string name="update_legal_workday_toast">Обновите Китайские праздники в настройках</string>
 	<string name="volume_button_dialog_title">Клавиши громкости</string>
 	<string name="volume_button_setting_summary">Функция клавиш громкости во время срабатывания будильника</string>
 	<string name="volume_button_setting_title">Клавиши громкости</string>
