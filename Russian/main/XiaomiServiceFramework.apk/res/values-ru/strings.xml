@@ -3,7 +3,7 @@
 <resources>
 	<string name="access_denied">доступ запрещен</string>
 	<string name="account">Аккаунт</string>
-	<string name="account_detail">Аккакунт Xiaomi: %1$s</string>
+	<string name="account_detail">Аккаунт Xiaomi: %1$s</string>
 	<string name="account_dspt">Аккаунт Xiaomi может синхронизировать и резервировать ваши SMS,\nКонтакты, фото, заметки и другое</string>
 	<string name="account_hint_text">Электронная почта</string>
 	<string name="account_name">Аккаунт: %1$s</string>
