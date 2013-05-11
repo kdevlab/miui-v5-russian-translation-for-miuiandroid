@@ -3,6 +3,7 @@
 <resources>
 	<string name="access_denied">доступ запрещен</string>
 	<string name="account">Аккаунт</string>
+	<string name="account_detail">Аккакунт Xiaomi: %1$s</string>
 	<string name="account_dspt">Аккаунт Xiaomi может синхронизировать и резервировать ваши SMS,\nКонтакты, фото, заметки и другое</string>
 	<string name="account_hint_text">Электронная почта</string>
 	<string name="account_name">Аккаунт: %1$s</string>
@@ -25,6 +26,8 @@
 	<string name="btn_query">Узнать сейчас</string>
 	<string name="btn_recharge_large">Пополнить</string>
 	<string name="btn_recharge_other">Другие методы пополнения</string>
+	<string name="btn_recharge_success">Пополнение завершено</string>
+	<string name="btn_recharge_success_quick">Пополнение завершено</string>
 	<string name="btn_voucher">Карта MiCredit (%1$s)</string>
 	<string name="button_cancel">Отмена</string>
 	<string name="button_pay">Оплатить</string>
@@ -188,6 +191,8 @@
 	<string name="recharge_hint">1 MiCredit = 5 RMB ~ 25 рублей</string>
 	<string name="recharge_notification">Пополнение на %1$s MiCredit</string>
 	<string name="recharge_other">Выберите другой способ оплаты</string>
+	<string name="recharge_pcpay_summary">Поддерживается большее количество способов пополнения</string>
+	<string name="recharge_pcpay_title">Пополнение через компьютер</string>
 	<string name="recharge_prepaid_summary">Поддерживаются следующие карты: China Mobile, China Unicom и China Telecom</string>
 	<string name="recharge_prepaid_title">Карты оплаты</string>
 	<string name="recharge_record">История пополнений</string>
