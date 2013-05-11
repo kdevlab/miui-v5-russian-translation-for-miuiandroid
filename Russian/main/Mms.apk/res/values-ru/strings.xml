@@ -158,11 +158,11 @@
 	<string name="menu_delete_messages">Удалить сообщения</string>
 	<string name="menu_edit">Изменить</string>
 	<string name="menu_forward">Переслать</string>
-	<string name="menu_lock">Закрепить</string>
+	<string name="menu_lock">В избранное</string>
 	<string name="menu_new_manual">Ввести номер вручную</string>
 	<string name="menu_pick_from_contact">Выбрать из контактов</string>
 	<string name="menu_preferences">Настройки</string>
-	<string name="menu_unlock">Открепить</string>
+	<string name="menu_unlock">Из избранного</string>
 	<string name="menu_view_contact">Просмотреть контакт</string>
 	<string name="message_class_label">"Класс сообщений: "</string>
 	<string name="message_details_title">Сведения о сообщении</string>

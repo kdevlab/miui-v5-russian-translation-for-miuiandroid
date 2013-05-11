@@ -4,10 +4,10 @@
 	<string name="add_account_desc">Заметки можно синхронизировать с вашим Xiaomi аккаунтом. Войти в аккаунт и начать синхронизацию?</string>
 	<string name="alert_edit_action_delete">Удалить</string>
 	<string name="alert_edit_action_update">Изменить</string>
-	<string name="alert_message_delete_folders">Вы уверены, что хотите удалить выбранные папки (%1$s)?</string>
-	<string name="alert_message_delete_folders_notes">Вы уверены, что хотите удалить выбранные папки (%1$s) и заметки (%2$s)?</string>
-	<string name="alert_message_delete_note">Вы уверены, что хотите удалить эту заметку?</string>
-	<string name="alert_message_delete_notes">Вы уверены, что хотите удалить выбранные заметки (%1$s)?</string>
+	<string name="alert_message_delete_folders">Удалить выбранные папки?\n\n(папок: %1$s)</string>
+	<string name="alert_message_delete_folders_notes">Удалить выбранные папки и заметки?\n\nПапок: %1$s\nЗаметок: %2$s</string>
+	<string name="alert_message_delete_note">Удалить заметку?</string>
+	<string name="alert_message_delete_notes">Удалить выбранные заметки?\n\n(заметок: %1$s)</string>
 	<string name="alert_message_discard_changes">Отменить все действия?</string>
 	<string name="alert_title_delete">Удаление заметок</string>
 	<string name="alert_title_discard">Отмена</string>

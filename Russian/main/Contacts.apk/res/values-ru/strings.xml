@@ -37,7 +37,7 @@
 	<string name="auto_nickname">Авто</string>
 	<string name="auto_set_nickname">Авто</string>
 	<string name="batch_delete">Пакетное удаление</string>
-	<string name="batch_delete_msg">Вы уверены, что хотите удалить эти %d контактов?\n\nЕсли вы используете облачное хранилище, то данные о контакте будут удалены и там.</string>
+	<string name="batch_delete_msg">Удалить выбранные контакты?\n\n(контактов: %d)\n\nЕсли вы используете облачное хранилище, то данные контактов будут также удалены с сервера.</string>
 	<string name="bluetooth_connection_failed_toast">Bluetooth соединение прервано</string>
 	<string name="blurbJoinContactDataWith">Выберите контакт, который хотите объединить с \"%s\":</string>
 	<string name="btn_delete_multi_contacts">Удалить %d контактов</string>
@@ -45,7 +45,7 @@
 	<string name="btn_rotation">Повернуть</string>
 	<string name="btn_split_contact">Разделить контакт</string>
 	<string name="button_cancel_scan">Остановить</string>
-	<string name="button_scan">Пересканировать</string>
+	<string name="button_scan">Сканировать</string>
 	<string name="caching_vcard_message">Выполняется кэширование файлов vCard в локальное временное хранилище. Импорт скоро начнется.</string>
 	<string name="caching_vcard_title">Кэширование</string>
 	<string name="callAgain">Позвонить еще раз</string>
@@ -239,8 +239,8 @@
 	<string name="device_bluetooth_title">подготовительные работы</string>
 	<string name="device_brand_title">выберите марку мобильного телефона</string>
 	<string name="device_import_account_dialog_title">выберите аккаунт для импорта</string>
-	<string name="device_import_account_dialog_title_suffix">\n(найдено %1$s контактов)</string>
-	<string name="device_import_done_toast">%1$d контактов импортированно</string>
+	<string name="device_import_account_dialog_title_suffix">\n(найдено контактов: %1$s)</string>
+	<string name="device_import_done_toast">Импортировано контактов: %1$d</string>
 	<string name="device_import_failed_message">Ошибка импорта!</string>
 	<string name="device_import_local_account">Локальный аккаунт</string>
 	<string name="device_import_message">Импорт</string>
@@ -487,7 +487,7 @@
 	<string name="menu_splitAggregate">Разделить</string>
 	<string name="menu_sync_remove">Удалить группу синхронизации</string>
 	<string name="menu_viewContact">Просмотреть контакт</string>
-	<string name="merge_contact_message">(%1$d) контактов с частично дублирующимися данными, (%2$d) объединено</string>
+	<string name="merge_contact_message">Дублирующихся контактов: %1$d/nОбъединено: %2$d</string>
 	<string name="messageShortcutActivityTitle">Выбрать номер для отправки сообщения</string>
 	<string name="missing_name">(без имени)</string>
 	<string name="move_and_resize">Изменение размера и положения</string>

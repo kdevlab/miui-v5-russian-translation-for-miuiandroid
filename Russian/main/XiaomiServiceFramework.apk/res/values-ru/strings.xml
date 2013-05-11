@@ -185,7 +185,7 @@
 	<string name="recharge_alipay_summary">Пополнение Alipay</string>
 	<string name="recharge_alipay_title">Alipay</string>
 	<string name="recharge_denomination">%1$s RMB</string>
-	<string name="recharge_hint">1 MiCredit = 5 RMB</string>
+	<string name="recharge_hint">1 MiCredit = 5 RMB ~ 25 рублей</string>
 	<string name="recharge_notification">Пополнение на %1$s MiCredit</string>
 	<string name="recharge_other">Выберите другой способ оплаты</string>
 	<string name="recharge_prepaid_summary">Поддерживаются следующие карты: China Mobile, China Unicom и China Telecom</string>
