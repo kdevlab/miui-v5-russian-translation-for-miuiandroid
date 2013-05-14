@@ -52,7 +52,7 @@
 	<string name="resource_alarm_default">Будильник</string>
 	<string name="resource_app_name">Браузер ресурсов</string>
 	<string name="resource_apply">Применить</string>
-	<string name="resource_buy">Купить</string>
+	<string name="resource_buy">"Купить "</string>
 	<string name="resource_can_not_selected">%1$s не может быть выбран!</string>
 	<string name="resource_comment_account_need_activitied">Ваш аккаунт не активирован, хотите активировать сейчас?</string>
 	<string name="resource_comment_count">Рейтинг: %1$s \nОтзывов: %2$s \nВерсия: %3$s</string>
@@ -97,8 +97,8 @@
 	<string name="resource_online">Онлайн %1$s</string>
 	<string name="resource_preview">Просмотр</string>
 	<string name="resource_price_format">(%1$s)</string>
-	<string name="resource_price_free">Беспл.</string>
-	<string name="resource_price_unit">MI кредит.</string>
+	<string name="resource_price_free">Бесплатно</string>
+	<string name="resource_price_unit">" MiCredit"</string>
 	<string name="resource_ringtone_default">Мелодии</string>
 	<string name="resource_see_more">Подробнее</string>
 	<string name="resource_select">Выбрать</string>
