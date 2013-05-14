@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="confirm_delete_conversation">
-        <item quantity="other">Вы уверены, что хотите удалить выбранные переписки (%1$s)?</item>
-        <item quantity="one">Вы уверены, что хотите удалить данную переписку?</item>
+        <item quantity="other">Удалить выбранные переписки?\n\nПереписок: %1$s</item>
+        <item quantity="one">Удалить выбранную переписку?</item>
     </plurals>
     <plurals name="slide_duration">
         <item quantity="other">%s сек.</item>

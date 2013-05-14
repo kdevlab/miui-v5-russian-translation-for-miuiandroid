@@ -53,7 +53,7 @@
 	<string name="delete_file_from_sdcard">Удалить файлы с SD-карты</string>
 	<string name="delete_item">Удалить</string>
 	<string name="delete_playlist_menu">Удалить</string>
-	<string name="delete_song_desc">Вы уверены что хотите удалить %s с SD-карты?</string>
+	<string name="delete_song_desc">Удалить %s?</string>
 	<string name="deselect_all">Отмена</string>
 	<string name="dirac_disabled">Dirac включен</string>
 	<string name="dirac_enabled">Dirac выключен</string>
@@ -161,10 +161,10 @@
 	<string name="play_and_download_summary">Автоматически загружать треки, прослушанные онлайн. Рекомендуется включить</string>
 	<string name="play_selection">Слушать</string>
 	<string name="playback_failed">К сожалению, проигрыватель не поддерживает этот тип аудио файлов</string>
-	<string name="playback_failed_by_bad_file">"Невозможно проиграть трэк '%s', не поддерживается формат файла"</string>
-	<string name="playback_failed_by_network">"'%s'Невозможно проиграть трэк, проверьте сетевое подключение"</string>
-	<string name="playback_failed_no_title_by_bad_file">Невозможно проиграть трэк, не поддерживается формат файла</string>
-	<string name="playback_failed_no_title_by_network">Невозможно проиграть трэк, проверьте сетевое подключение</string>
+	<string name="playback_failed_by_bad_file">Невозможно проиграть \"%s\".\nНе поддерживается формат файла.</string>
+	<string name="playback_failed_by_network">Невозможно проиграть \"%s\".\nПроверьте сетевое подключение.</string>
+	<string name="playback_failed_no_title_by_bad_file">Невозможно проиграть трек.\nНе поддерживается формат файла.</string>
+	<string name="playback_failed_no_title_by_network">Невозможно проиграть трек.\nПроверьте сетевое подключение.</string>
 	<string name="player_display_settings">Проигрыватель</string>
 	<string name="playlist_deleted_message">Плейлист удален</string>
 	<string name="playlist_favorite">Избранное</string>

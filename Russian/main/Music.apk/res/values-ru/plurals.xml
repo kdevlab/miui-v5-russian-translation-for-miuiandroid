@@ -13,16 +13,16 @@
         <item quantity="one">%d трек</item>
     </plurals>
     <plurals name="Ntracks_format">
-        <item quantity="other">треков: %d</item>
+        <item quantity="other">%d треков</item>
         <item quantity="one">1 трек</item>
     </plurals>
     <plurals name="Nalbums_format">
-        <item quantity="other">альбомов: %d</item>
+        <item quantity="other">%d альбомов</item>
         <item quantity="one">1 альбом</item>
     </plurals>
     <plurals name="Ntracks">
-        <item quantity="other">песни</item>
-        <item quantity="one">песня</item>
+        <item quantity="other">треки</item>
+        <item quantity="one">трек</item>
     </plurals>
     <plurals name="Nalbums">
         <item quantity="other">альбомы</item>
@@ -42,7 +42,7 @@
     </plurals>
     <plurals name="Ntracks_batch_selection">
         <item quantity="other">Выбрано треков: %d</item>
-        <item quantity="one">Выбран %d трек</item>
+        <item quantity="one">Выбран 1 трек</item>
     </plurals>
     <plurals name="Nalbums_batch_selection">
         <item quantity="other">Выбрано альбомов: %d</item>
@@ -58,11 +58,11 @@
     </plurals>
     <plurals name="Nplaylists_batch_selection">
         <item quantity="other">Выбрано плейлистов: %d</item>
-        <item quantity="one">Выбран %d плейлист</item>
+        <item quantity="one">Выбран 1 плейлист</item>
     </plurals>
     <plurals name="Ntrack_in_sdcard_format">
         <item quantity="other">Треков на SD-карте: %d</item>
-        <item quantity="one">1 трек на SD-карте</item>
+        <item quantity="one">Треков на SD-карте: 1</item>
     </plurals>
     <plurals name="NNNtrackstoplaylist">
         <item quantity="other">%d треков добавлено в плейлист</item>
@@ -81,7 +81,7 @@
         <item quantity="one">%1$s, %2$d песня</item>
     </plurals>
     <plurals name="NNNtracksdeleted">
-        <item quantity="other">%d треков удалено</item>
+        <item quantity="other">Треков удалено: %d</item>
         <item quantity="one">Трек удален</item>
     </plurals>
     <plurals name="Nnowplaying">

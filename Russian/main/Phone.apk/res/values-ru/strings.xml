@@ -968,7 +968,7 @@
 	<string name="sum_loading_settings">Загрузка настроек…</string>
 	<string name="sum_search_networks">Поиск всех доступных сетей</string>
 	<string name="sum_select_automatically">Автоматически выбирать предпочтительную сеть</string>
-	<string name="sum_select_automatically_option_miui">Автовыбор предпочтительной сети, %s</string>
+	<string name="sum_select_automatically_option_miui">Автоматический выбор мобильной сети: %s.</string>
 	<string name="sum_show_caller_id">Номер, отображающийся при исходящих вызовах</string>
 	<string name="sum_voicemail_choose_provider">Выберите службу голосовой почты</string>
 	<string name="sum_xdivert_disabled">X-Переадресация выключена</string>

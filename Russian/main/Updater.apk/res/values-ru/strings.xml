@@ -123,7 +123,7 @@
 	<string name="system_backup_cancel_text">Обновить</string>
 	<string name="system_backup_download_helper">Устройство автоматически перезагрузится после обновления. </string>
 	<string name="system_backup_error_message">Ошибка резервного копирования системы</string>
-	<string name="system_backup_helper">Обновление не будет очищать ваши данные, но рекомендуется сделать резервную копию до обновления</string>
+	<string name="system_backup_helper">\nРекомендуется сделать резервную копию ваших данных.</string>
 	<string name="system_backup_ok_text">Создать копию</string>
 	<string name="top_secret_build">Секретная сборка</string>
 	<string name="update_comment_hint">(опционально)</string>

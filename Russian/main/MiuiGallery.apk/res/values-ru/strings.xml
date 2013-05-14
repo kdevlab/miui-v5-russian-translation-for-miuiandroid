@@ -31,7 +31,7 @@
 	<string name="camera_setas_wallpaper">Обои</string>
 	<string name="camera_view_none_message">Фотографии будут отображаться здесь</string>
 	<string name="cancel">Отмена</string>
-	<string name="cant_delete_system_album">%s это системный альбом, его не возможно удалить!</string>
+	<string name="cant_delete_system_album">%s - это системный альбом, его удалить нельзя!</string>
 	<string name="cleaning_cache">Очистка кэша...</string>
 	<string name="clear_thumbnail_cache">Очистить кэш</string>
 	<string name="clear_thumbnail_cache_confirm">Кеш миниатюр будет очищен. Галерея пересканирует все файлы и пересоздаст миниатюры снова. Это повлияет на скорость работы приложения.</string>

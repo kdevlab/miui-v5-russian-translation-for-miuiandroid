@@ -166,7 +166,7 @@
 	<string name="pref_camera_focusmode_title">Режим фокусировки</string>
 	<string name="pref_camera_hand_night_title">HHT</string>
 	<string name="pref_camera_hfr_entry_off">Выкл</string>
-	<string name="pref_camera_hfr_title">Частота кадров видео (Замедленная съёмка)</string>
+	<string name="pref_camera_hfr_title">Частота кадров видео в режиме замедления</string>
 	<string name="pref_camera_histogram_entry_disable">Выкл</string>
 	<string name="pref_camera_histogram_entry_enable">Вкл</string>
 	<string name="pref_camera_histogram_title">Гистограмма</string>
@@ -303,7 +303,7 @@
 	<string name="pref_video_continuous_focus_entry_off">Выкл</string>
 	<string name="pref_video_continuous_focus_entry_on">Вкл</string>
 	<string name="pref_video_quality_title">Качество видео</string>
-	<string name="pref_video_slow_speed_title_simple_mode">Замедленная съемка</string>
+	<string name="pref_video_slow_speed_title_simple_mode">Замедление</string>
 	<string name="pref_video_speed_entry_fast">Быстро</string>
 	<string name="pref_video_speed_entry_normal">Нормально</string>
 	<string name="pref_video_speed_entry_slow">Медленно</string>
@@ -351,7 +351,7 @@
 	<string name="simple_mode_button_text_hand_night">Отключить режим сумерки</string>
 	<string name="simple_mode_button_text_hdr">Отключить HDR режим</string>
 	<string name="simple_mode_button_text_panorama">Отключить панораму</string>
-	<string name="simple_mode_button_text_slow_video">Отключить замедленную съемку</string>
+	<string name="simple_mode_button_text_slow_video">Отключить режим замедления</string>
 	<string name="simple_mode_title">Простой режим</string>
 	<string name="skip">Нет</string>
 	<string name="slideshow">Слайдшоу</string>
@@ -362,7 +362,7 @@
 	<string name="tags">Тэги</string>
 	<string name="tap_to_focus">Нажмите для фокусировки.</string>
 	<string name="time">Время</string>
-	<string name="time_lapse_error">Невозможно снять замедленное видео при данном разрешении.</string>
+	<string name="time_lapse_error">Невозможно снять видео в режиме замедления при данном разрешении.</string>
 	<string name="times">Время</string>
 	<string name="title">Название</string>
 	<string name="toast_burst_snap_finished_end">Фотографии сделаны.</string>

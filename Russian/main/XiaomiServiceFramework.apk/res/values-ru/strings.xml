@@ -4,7 +4,7 @@
 	<string name="access_denied">доступ запрещен</string>
 	<string name="account">Аккаунт</string>
 	<string name="account_detail">Аккаунт Xiaomi: %1$s</string>
-	<string name="account_dspt">Аккаунт Xiaomi может синхронизировать и резервировать ваши SMS,\nКонтакты, фото, заметки и другое</string>
+	<string name="account_dspt">С помощью аккаунта Xiaomi вы сможете синхронизировать ваши контакты, сообщения и другие личные данные.</string>
 	<string name="account_hint_text">Электронная почта</string>
 	<string name="account_name">Аккаунт: %1$s</string>
 	<string name="activating">Активация...</string>
@@ -39,7 +39,7 @@
 	<string name="completed">Завершено</string>
 	<string name="confirm">Подтвердить</string>
 	<string name="data_keep_in_phone">Оставить в телефоне</string>
-	<string name="data_sync_notice">Использовать аккаунт Xiaomi для синхронизации сообщений, контактов и других данных</string>
+	<string name="data_sync_notice">Использовать аккаунт Xiaomi для синхронизации контактов, сообщений и других данных.</string>
 	<string name="data_wipe_from_phone">Удалить из телефона</string>
 	<string name="disable_find_device_error">%1$s, ошибка выключения поиска</string>
 	<string name="email_already_be_used">Этот адрес почты уже используется</string>
@@ -96,7 +96,7 @@
 	<string name="login">Войти</string>
 	<string name="login_failed">Неверное имя пользователя или пароль</string>
 	<string name="login_notice">Авторизация, пожалуйста, подождите...</string>
-	<string name="mibi_license_message">Вы будете использовать сервис Xiaomi MiCredit. Нажимая клавишу \"ОК\", вы соглашаетесь соблюдать %1$s.</string>
+	<string name="mibi_license_message">Вы будете использовать сервис Xiaomi MiCredit.\n\nНажимая клавишу \"ОК\", вы соглашаетесь соблюдать %1$s.</string>
 	<string name="mibi_license_message_span">Пользовательское соглашение MiCredit</string>
 	<string name="mibi_license_title">Пользовательское соглашение</string>
 	<string name="micloud_account">Аккаунт</string>
@@ -217,9 +217,9 @@
 	<string name="sim_changed_notification_content">SIM-карта не активирована. Пожалуйста, активируйте.</string>
 	<string name="sina_weibo">Sina WeiBo</string>
 	<string name="skip_login">Пропустить</string>
-	<string name="skip_setup_account_msg">Использование аккаунта Xiaomi, позволит вам синхронизировать и резервировать ваши SMS, Контакты, фото, заметки и другое. Пропустить и настроить потом?</string>
+	<string name="skip_setup_account_msg">С помощью аккаунта Xiaomi вы сможете синхронизировать ваши контакты, сообщения и другие личные данные.</string>
 	<string name="skip_setup_account_title">Пропустить настройку аккаунта</string>
-	<string name="sync_dspt">Использовать аккаунт Xiaomi для синхронизации данных</string>
+	<string name="sync_dspt">Использовать аккаунт Xiaomi</string>
 	<string name="sync_off">Выкл.</string>
 	<string name="sync_on">Вкл.</string>
 	<string name="sync_sub_dspt">Для активации сервиса будет отправлено SMS</string>

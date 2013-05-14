@@ -1821,8 +1821,8 @@
 	<string name="unlock_set_unlock_summary">Включите блокировку экрана, чтобы выбрать тип блокировки</string>
 	<string name="unmount_inform_text">USB накопитель будет отключен.</string>
 	<string name="untitled_apn">Без названия</string>
-	<string name="upload_debug_log_summary">Отправлять журнал отладки разработчикам для содействия в разработке более стабильной и простой в использовании прошивки.</string>
-	<string name="upload_debug_log_title">Отправлять журнал</string>
+	<string name="upload_debug_log_summary">Отправлять журнал отладки разработчикам для помощи в развитии прошивки MIUI.\nТолько по Wi-Fi.</string>
+	<string name="upload_debug_log_title">Отправлять журналы</string>
 	<string name="usage_log">Статистика использования</string>
 	<string name="usage_stats_label">Статистика использования</string>
 	<string name="usage_time_label">Время использования</string>

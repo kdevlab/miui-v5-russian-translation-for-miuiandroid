@@ -5,7 +5,7 @@
 	<string name="Dashboard_HIPS_Disable_Content">Отключение оставит Вашу систему без управления приложениями, без защиты безопасности и конфиденциальности.\nВы действительно хотите ее отключить?</string>
 	<string name="Dashboard_HIPS_Disable_Title">Монитор доступа</string>
 	<string name="Dashboard_Log">Логи</string>
-	<string name="Dashboard_Log_Clear_Content">Все логи будут удалены. Вы уверены что хотите этого?</string>
+	<string name="Dashboard_Log_Clear_Content">Удалить все журналы?</string>
 	<string name="Dashboard_Log_Clear_Title">Очистить логи</string>
 	<string name="Dashboard_Perm">Разрешения</string>
 	<string name="Dashboard_Perm_AutoStart">Автозагрузка</string>
