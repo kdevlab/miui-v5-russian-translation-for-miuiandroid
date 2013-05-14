@@ -40,6 +40,7 @@
 	<string name="cleanup_complete">Готово</string>
 	<string name="clear_cache">Очистить кэш</string>
 	<string name="close">Закрыть</string>
+	<string name="compress_fail">Ошибка архивирования, файл уже существует</string>
 	<string name="compress_message">Имя архива:</string>
 	<string name="compress_title">Создание архива</string>
 	<string name="confirm">OК</string>

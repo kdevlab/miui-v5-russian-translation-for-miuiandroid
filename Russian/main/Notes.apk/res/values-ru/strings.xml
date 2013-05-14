@@ -77,6 +77,7 @@
 	<string name="success_sdcard_export">Экспорт завершен</string>
 	<string name="time_picker_dialog_title">Установка времени напоминания</string>
 	<string name="toast_message_add_image_fail">Не удалось вставить изображение!</string>
+	<string name="toast_privacy_mode">Не удается отредактировать заметку в гостевом режиме</string>
 	<string name="widget_havenot_content">Нет заметок, нажмите сюда, чтобы создать заметку</string>
 	<string name="widget_under_visit_mode">Не возможно просмотреть заметки, потому что включен гостевой режим</string>
 </resources>

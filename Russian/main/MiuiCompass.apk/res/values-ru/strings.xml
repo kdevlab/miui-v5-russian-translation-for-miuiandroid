@@ -15,6 +15,7 @@
 	<string name="direction_south">Ю</string>
 	<string name="direction_west">З</string>
 	<string name="getting_location">Получение координат...</string>
+	<string name="guide_toast">Пожалуйста, откалибруйте компасс жестом, как показано на рисунке.</string>
 	<string name="latitude">Широта</string>
 	<string name="location_east">В.Д.</string>
 	<string name="location_north">С.Ш.</string>
