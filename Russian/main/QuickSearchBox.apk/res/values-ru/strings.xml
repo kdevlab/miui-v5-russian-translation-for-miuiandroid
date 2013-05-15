@@ -24,6 +24,8 @@
 	<string name="menu_settings">Настройки</string>
 	<string name="remove_from_history">Вы действительно хотите удалить данную запись из истории поиска?</string>
 	<string name="remove_from_history_failed">Ошибка удаления записи из истории поиска</string>
+	<string name="search_in_app_store">Поиск в маркете</string>
+	<string name="search_in_web">Поиск в интернете</string>
 	<string name="search_settings">Настройки</string>
 	<string name="search_sources">Элементы поиска</string>
 	<string name="search_sources_summary">Выберите что искать в телефоне</string>
