@@ -1,23 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!-- Merged and sorted with KDev Sorter -->
 <resources>
-    <plurals name="confirm_delete_conversation">
+     <plurals name="confirm_delete_conversation">
         <item quantity="other">Удалить выбранные переписки?\n\nПереписок: %1$s</item>
         <item quantity="one">Удалить выбранную переписку?</item>
-    </plurals>
-    <plurals name="slide_duration">
+     </plurals>
+     <plurals name="message_count">
+        <item quantity="other">Сообщений: %1$s</item>
+        <item quantity="one">%1$s сообщение</item>
+     </plurals>
+     <plurals name="recipient_count">
+        <item quantity="other">%1$s чел.</item>
+     </plurals>
+     <plurals name="search_results_title">
+        <item quantity="other">Поиск \"%2$s\" (%1$s)</item>
+        <item quantity="one">Поиск \"%2$s\" (%1$s)</item>
+     </plurals>
+     <plurals name="slide_duration">
         <item quantity="other">%s сек.</item>
         <item quantity="one">%s сек.</item>
         <item quantity="few">%s сек.</item>
-    </plurals>
-    <plurals name="search_results_title">
-        <item quantity="other">Поиск \"%2$s\" (%1$s)</item>
-        <item quantity="one">Поиск \"%2$s\" (%1$s)</item>
-    </plurals>
-    <plurals name="recipient_count">
-        <item quantity="other">%1$s чел.</item>
-    </plurals>
-    <plurals name="message_count">
-        <item quantity="other">Сообщений: %1$s</item>
-        <item quantity="one">%1$s сообщение</item>
-    </plurals>
+     </plurals>
 </resources>

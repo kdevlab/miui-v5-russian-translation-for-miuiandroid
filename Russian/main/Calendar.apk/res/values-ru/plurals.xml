@@ -1,34 +1,35 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!-- Merged and sorted with KDev Sorter -->
 <resources>
-    <plurals name="Nminutes">
-        <item quantity="other">%d мин.</item>
-        <item quantity="one">1 минуту</item>
-    </plurals>
-    <plurals name="Nmins">
-        <item quantity="other">%d мин.</item>
-        <item quantity="one">1 минуту</item>
-    </plurals>
-    <plurals name="Nhours">
-        <item quantity="other">%d ч.</item>
-        <item quantity="one">за 1 час</item>
-    </plurals>
-    <plurals name="Ndays">
-        <item quantity="other">%d дн.</item>
-        <item quantity="one">1 день</item>
-    </plurals>
-    <plurals name="weekN">
-        <item quantity="other">%d нед.</item>
-    </plurals>
-    <plurals name="month_more_events">
-        <item quantity="other">" и еще %d"</item>
-        <item quantity="one">" и еще 1"</item>
-    </plurals>
-    <plurals name="Nevents">
-        <item quantity="other">%d событий</item>
-        <item quantity="one">1 событие</item>
-    </plurals>
-    <plurals name="N_remaining_events">
+     <plurals name="N_remaining_events">
         <item quantity="other">+%d событий</item>
         <item quantity="one">+1 событие</item>
-    </plurals>
+     </plurals>
+     <plurals name="Ndays">
+        <item quantity="other">%d дн.</item>
+        <item quantity="one">1 день</item>
+     </plurals>
+     <plurals name="Nevents">
+        <item quantity="other">%d событий</item>
+        <item quantity="one">1 событие</item>
+     </plurals>
+     <plurals name="Nhours">
+        <item quantity="other">%d ч.</item>
+        <item quantity="one">за 1 час</item>
+     </plurals>
+     <plurals name="Nmins">
+        <item quantity="other">%d мин.</item>
+        <item quantity="one">1 минуту</item>
+     </plurals>
+     <plurals name="Nminutes">
+        <item quantity="other">%d мин.</item>
+        <item quantity="one">1 минуту</item>
+     </plurals>
+     <plurals name="month_more_events">
+        <item quantity="other">" и еще %d"</item>
+        <item quantity="one">" и еще 1"</item>
+     </plurals>
+     <plurals name="weekN">
+        <item quantity="other">%d нед.</item>
+     </plurals>
 </resources>
