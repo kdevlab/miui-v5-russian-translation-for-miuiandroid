@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!--Merged and sorted with KDG BigBlackBox-->
+<!-- Merged and sorted with KDev Sorter -->
 <resources>
+     <!-- The size of the array does not match! Now: 30 must: 28 -->
      <string-array name="alphabet_table">
         <item>\#</item>
         <item>А</item>
@@ -32,6 +33,7 @@
         <item>Ю</item>
         <item>Я</item>
      </string-array>
+     <!-- The size of the array does not match! Now: 31 must: 29 -->
      <string-array name="alphabet_table_with_starred">
         <item>!</item>
         <item>\#</item>
