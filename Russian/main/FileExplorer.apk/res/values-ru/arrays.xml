@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!--Decoded with KDG BigBlackBox-->
+<!--Merged and sorted with KDG BigBlackBox-->
 <resources>
-    <string-array name="garbage_size_entries">
+     <string-array name="garbage_size_entries">
         <item>0</item>
         <item>1</item>
         <item>2</item>
@@ -14,8 +14,8 @@
         <item>9</item>
         <item>.</item>
         <item>,</item>
-    </string-array>
-    <array name="garbage_size_entryValues">
+     </string-array>
+     <array name="garbage_size_entryValues">
         <item>@drawable/digit0</item>
         <item>@drawable/digit1</item>
         <item>@drawable/digit2</item>
@@ -28,5 +28,5 @@
         <item>@drawable/digit9</item>
         <item>@drawable/point</item>
         <item>@drawable/point</item>
-    </array>
+     </array>
 </resources>

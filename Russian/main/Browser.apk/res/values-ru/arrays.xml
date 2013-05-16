@@ -1,59 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!--Decoded with KDG BigBlackBox-->
+<!--Merged and sorted with KDG BigBlackBox-->
 <resources>
-    <string-array name="search_engines">
-        <item>google</item>
-        <item>yandex_ru</item>
-        <item>bing</item>
-    </string-array>
-    <string-array name="pref_content_plugins_choices">
-        <item>Да</item>
-        <item>По требованию</item>
-        <item>Нет</item>
-    </string-array>
-    <string-array name="pref_homepage_choices">
-        <item>Начальная страница</item>
-        <item>Часто посещаемые веб-сайты</item>
-        <item>Другая</item>
-    </string-array>
-    <string-array name="pref_text_size_choices">
-        <item>Мелкий</item>
-        <item>Маленький</item>
-        <item>Средний</item>
-        <item>Большой</item>
-        <item>Огромный</item>
-    </string-array>
-    <string-array name="pref_default_zoom_choices">
-        <item>Мелкий</item>
-        <item>Средний</item>
-        <item>Крупный</item>
-    </string-array>
-    <string-array name="pref_default_text_encoding_choices">
-        <item>Latin-1 (ISO-8859-1)</item>
-        <item>Юникод (UTF-8)</item>
-        <item>Китайская (GBK)</item>
-        <item>Китайская (Big5)</item>
-        <item>Японская (ISO-2022-JP)</item>
-        <item>Японская (SHIFT_JIS)</item>
-        <item>Японская (EUC-JP)</item>
-        <item>Корейская (EUC-KR)</item>
-    </string-array>
-    <string-array name="pref_data_preload_choices">
-        <item>Никогда</item>
-        <item>Только по Wi-Fi</item>
-        <item>Всегда</item>
-    </string-array>
-    <string-array name="pref_link_prefetch_choices">
-        <item>Никогда</item>
-        <item>Только по Wi-Fi</item>
-        <item>Всегда</item>
-    </string-array>
-    <string-array name="pref_video_preload_choices">
-        <item>Никогда</item>
-        <item>Только по Wi-Fi</item>
-        <item>Всегда</item>
-    </string-array>
-    <string-array name="bookmarks">
+     <string-array name="bookmarks">
         <item>Google</item>
         <item>http://www.google.com/</item>
         <item>Прошивки</item>
@@ -82,18 +30,65 @@
         <item>http://www.weather.com/</item>
         <item>BBC</item>
         <item>http://www.bbc.co.uk/</item>
-    </string-array>
-    <string-array name="search_engines_default">
+     </string-array>
+     <string-array name="pref_content_plugins_choices">
+        <item>Да</item>
+        <item>По требованию</item>
+        <item>Нет</item>
+     </string-array>
+     <string-array name="pref_data_preload_choices">
+        <item>Никогда</item>
+        <item>Только по Wi-Fi</item>
+        <item>Всегда</item>
+     </string-array>
+     <string-array name="pref_default_text_encoding_choices">
+        <item>Latin-1 (ISO-8859-1)</item>
+        <item>Юникод (UTF-8)</item>
+        <item>Китайская (GBK)</item>
+        <item>Китайская (Big5)</item>
+        <item>Японская (ISO-2022-JP)</item>
+        <item>Японская (SHIFT_JIS)</item>
+        <item>Японская (EUC-JP)</item>
+        <item>Корейская (EUC-KR)</item>
+     </string-array>
+     <string-array name="pref_default_zoom_choices">
+        <item>Мелкий</item>
+        <item>Средний</item>
+        <item>Крупный</item>
+     </string-array>
+     <string-array name="pref_fling_on_border_choices">
+        <item>Переключение страниц</item>
+        <item>Переключение вкладок</item>
+     </string-array>
+     <string-array name="pref_homepage_choices">
+        <item>Начальная страница</item>
+        <item>Часто посещаемые веб-сайты</item>
+        <item>Другая</item>
+     </string-array>
+     <string-array name="pref_link_prefetch_choices">
+        <item>Никогда</item>
+        <item>Только по Wi-Fi</item>
+        <item>Всегда</item>
+     </string-array>
+     <string-array name="pref_text_size_choices">
+        <item>Мелкий</item>
+        <item>Маленький</item>
+        <item>Средний</item>
+        <item>Большой</item>
+        <item>Огромный</item>
+     </string-array>
+     <string-array name="pref_volume_key_choices">
+        <item>Прокрутка страницы</item>
+        <item>Переключение вкладок</item>
+     </string-array>
+     <string-array name="search_engines">
         <item>google</item>
         <item>yandex_ru</item>
         <item>bing</item>
-    </string-array>
-    <string-array name="pref_volume_key_choices">
-        <item>Прокрутка страницы</item>
-        <item>Переключение вкладок</item>
-    </string-array>
-    <string-array name="pref_fling_on_border_choices">
-        <item>Переключение страниц</item>
-        <item>Переключение вкладок</item>
-    </string-array>
+     </string-array>
+     <string-array name="search_engines_default">
+        <item>google</item>
+        <item>yandex_ru</item>
+        <item>bing</item>
+     </string-array>
 </resources>

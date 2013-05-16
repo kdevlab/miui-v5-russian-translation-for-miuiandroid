@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!--Merged and sorted with KDG BigBlackBox-->
 <resources>
-    <string-array name="otherLabels">
+     <string-array name="otherLabels">
         <item>Организация</item>
         <item>Заметка</item>
-    </string-array>
+     </string-array>
 </resources>

@@ -1,14 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!--Merged and sorted with KDG BigBlackBox-->
 <resources>
-        <string-array name="download_filters">
+     <string-array name="download_filters">
         <item>Все</item>
         <item>Темы</item>
         <item>Маркет</item>
         <item>Браузер</item>
         <item>Музыка</item>
         <item>Другие</item>
-    </string-array>
-    <string-array name="prefEntries_max_bytes_limit">
+     </string-array>
+     <string-array name="prefEntries_max_bytes_limit">
         <item>10МБ</item>
         <item>5МБ</item>
         <item>2МБ</item>
@@ -16,5 +17,5 @@
         <item>500КБ</item>
         <item>200КБ</item>
         <item>100КБ</item>
-    </string-array>
+     </string-array>
 </resources>

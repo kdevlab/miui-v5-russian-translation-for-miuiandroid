@@ -1,30 +1,48 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!--Merged and sorted with KDG BigBlackBox-->
 <resources>
-    <string-array name="reminder_methods_labels">
-        <item>Уведомление</item>
-        <item>Электронная почта</item>
-        <item>SMS</item>
-        <item>Будильник</item>
-    </string-array>
-    <string-array name="reminder_minutes_labels">
-        <item>по факту</item>
-        <item>за 1 минута</item>
-        <item>за 5 минут</item>
-        <item>за 10 минут</item>
-        <item>за 15 минут</item>
-        <item>за 20 минут</item>
-        <item>за 25 минут</item>
-        <item>за 30 минут</item>
-        <item>за 45 минут</item>
-        <item>за 1 час</item>
-        <item>за 2 часа</item>
-        <item>за 3 часа</item>
-        <item>за 12 часов</item>
-        <item>за 24 часа</item>
-        <item>за 2 дня</item>
-        <item>за 1 неделю</item>
-    </string-array>
-    <string-array name="preferences_default_reminder_labels">
+     <string-array name="availability">
+        <item>Занят</item>
+        <item>Доступен</item>
+        <item>Возможно</item>
+     </string-array>
+     <string-array name="buttons_list">
+        <item>День</item>
+        <item>Неделя</item>
+        <item>Месяц</item>
+        <item>Повестка дня</item>
+     </string-array>
+     <string-array name="change_response_labels">
+        <item>Только в этот раз</item>
+        <item>Все мероприятия в серии</item>
+     </string-array>
+     <string-array name="delete_repeating_labels">
+        <item>Только это мероприятие</item>
+        <item>Это и будущие мероприятия</item>
+        <item>Все мероприятия</item>
+     </string-array>
+     <string-array name="delete_repeating_labels_no_selected">
+        <item>Это и будущие мероприятия</item>
+        <item>Все мероприятия</item>
+     </string-array>
+     <string-array name="ordinal_labels">
+        <item>перв.</item>
+        <item>втор.</item>
+        <item>трет.</item>
+        <item>четверт.</item>
+        <item>последн.</item>
+     </string-array>
+     <string-array name="prefEntries_alerts_vibrateWhen">
+        <item>Всегда</item>
+        <item>В режиме \"Без звука\"</item>
+        <item>Никогда</item>
+     </string-array>
+     <string-array name="prefValues_alerts_vibrateWhen">
+        <item>always</item>
+        <item>silent</item>
+        <item>never</item>
+     </string-array>
+     <string-array name="preferences_default_reminder_labels">
         <item>не напоминать</item>
         <item>по факту</item>
         <item>за 1 минуту</item>
@@ -42,14 +60,50 @@
         <item>за 24 час</item>
         <item>за 2 дня</item>
         <item>за 1 неделю</item>
-    </string-array>
-    <string-array name="preferences_week_start_day_labels">
+     </string-array>
+     <string-array name="preferences_week_start_day_labels">
         <item>по региону</item>
         <item>суббота</item>
         <item>воскресенье</item>
         <item>понедельник</item>
-    </string-array>
-    <string-array name="timezone_labels">
+     </string-array>
+     <string-array name="quick_response_defaults">
+        <item>Опоздаю на несколько минут.</item>
+        <item>Буду там через 10 минут.</item>
+        <item>Начинайте без меня.</item>
+        <item>"Извините, я не могу этого сделать. Нужно пересмотреть расписание."</item>
+     </string-array>
+     <string-array name="reminder_methods_labels">
+        <item>Уведомление</item>
+        <item>Электронная почта</item>
+        <item>SMS</item>
+        <item>Будильник</item>
+     </string-array>
+     <string-array name="reminder_minutes_labels">
+        <item>по факту</item>
+        <item>за 1 минута</item>
+        <item>за 5 минут</item>
+        <item>за 10 минут</item>
+        <item>за 15 минут</item>
+        <item>за 20 минут</item>
+        <item>за 25 минут</item>
+        <item>за 30 минут</item>
+        <item>за 45 минут</item>
+        <item>за 1 час</item>
+        <item>за 2 часа</item>
+        <item>за 3 часа</item>
+        <item>за 12 часов</item>
+        <item>за 24 часа</item>
+        <item>за 2 дня</item>
+        <item>за 1 неделю</item>
+     </string-array>
+     <string-array name="response_labels1">
+        <item>(Нет ответа)</item>
+        <item>Да</item>
+        <item>Возможно</item>
+        <item>Нет</item>
+     </string-array>
+     <string-array name="timezone_labels">
         <item>Маршалловы о-ва</item>
         <item>Остров Мидуэй</item>
         <item>Гавайи</item>
@@ -134,58 +188,96 @@
         <item>Окленд</item>
         <item>Фиджи</item>
         <item>Тонга</item>
-    </string-array>
-    <string-array name="availability">
-        <item>Занят</item>
-        <item>Доступен</item>
-        <item>Возможно</item>
-    </string-array>
-    <string-array name="visibility">
+     </string-array>
+     <string-array name="timezone_values">
+        <item>Pacific/Majuro</item>
+        <item>Pacific/Midway</item>
+        <item>Pacific/Honolulu</item>
+        <item>America/Anchorage</item>
+        <item>America/Los_Angeles</item>
+        <item>America/Tijuana</item>
+        <item>America/Phoenix</item>
+        <item>America/Chihuahua</item>
+        <item>America/Denver</item>
+        <item>America/Costa_Rica</item>
+        <item>America/Chicago</item>
+        <item>America/Mexico_City</item>
+        <item>America/Regina</item>
+        <item>America/Bogota</item>
+        <item>America/New_York</item>
+        <item>America/Caracas</item>
+        <item>America/Barbados</item>
+        <item>America/Halifax</item>
+        <item>America/Manaus</item>
+        <item>America/Santiago</item>
+        <item>America/St_Johns</item>
+        <item>America/Sao_Paulo</item>
+        <item>America/Argentina/Buenos_Aires</item>
+        <item>America/Godthab</item>
+        <item>America/Montevideo</item>
+        <item>Atlantic/South_Georgia</item>
+        <item>Atlantic/Azores</item>
+        <item>Atlantic/Cape_Verde</item>
+        <item>Africa/Casablanca</item>
+        <item>Europe/London</item>
+        <item>Europe/Amsterdam</item>
+        <item>Europe/Belgrade</item>
+        <item>Europe/Brussels</item>
+        <item>Europe/Sarajevo</item>
+        <item>Africa/Windhoek</item>
+        <item>Africa/Brazzaville</item>
+        <item>Asia/Amman</item>
+        <item>Europe/Athens</item>
+        <item>Asia/Beirut</item>
+        <item>Africa/Cairo</item>
+        <item>Europe/Helsinki</item>
+        <item>Asia/Jerusalem</item>
+        <item>Europe/Minsk</item>
+        <item>Africa/Harare</item>
+        <item>Asia/Baghdad</item>
+        <item>Europe/Moscow</item>
+        <item>Asia/Kuwait</item>
+        <item>Africa/Nairobi</item>
+        <item>Asia/Tehran</item>
+        <item>Asia/Baku</item>
+        <item>Asia/Tbilisi</item>
+        <item>Asia/Yerevan</item>
+        <item>Asia/Dubai</item>
+        <item>Asia/Kabul</item>
+        <item>Asia/Karachi</item>
+        <item>Asia/Oral</item>
+        <item>Asia/Yekaterinburg</item>
+        <item>Asia/Calcutta</item>
+        <item>Asia/Colombo</item>
+        <item>Asia/Katmandu</item>
+        <item>Asia/Almaty</item>
+        <item>Asia/Rangoon</item>
+        <item>Asia/Krasnoyarsk</item>
+        <item>Asia/Bangkok</item>
+        <item>Asia/Shanghai</item>
+        <item>Asia/Hong_Kong</item>
+        <item>Asia/Irkutsk</item>
+        <item>Asia/Kuala_Lumpur</item>
+        <item>Australia/Perth</item>
+        <item>Asia/Taipei</item>
+        <item>Asia/Seoul</item>
+        <item>Asia/Tokyo</item>
+        <item>Asia/Yakutsk</item>
+        <item>Australia/Adelaide</item>
+        <item>Australia/Darwin</item>
+        <item>Australia/Brisbane</item>
+        <item>Australia/Hobart</item>
+        <item>Australia/Sydney</item>
+        <item>Asia/Vladivostok</item>
+        <item>Pacific/Guam</item>
+        <item>Asia/Magadan</item>
+        <item>Pacific/Auckland</item>
+        <item>Pacific/Fiji</item>
+        <item>Pacific/Tongatapu</item>
+     </string-array>
+     <string-array name="visibility">
         <item>По умолчанию</item>
         <item>Закрытое</item>
         <item>Для всех</item>
-    </string-array>
-    <string-array name="ordinal_labels">
-        <item>перв.</item>
-        <item>втор.</item>
-        <item>трет.</item>
-        <item>четверт.</item>
-        <item>последн.</item>
-    </string-array>
-    <string-array name="response_labels1">
-        <item>(Нет ответа)</item>
-        <item>Да</item>
-        <item>Возможно</item>
-        <item>Нет</item>
-    </string-array>
-    <string-array name="delete_repeating_labels">
-        <item>Только это мероприятие</item>
-        <item>Это и будущие мероприятия</item>
-        <item>Все мероприятия</item>
-    </string-array>
-    <string-array name="delete_repeating_labels_no_selected">
-        <item>Это и будущие мероприятия</item>
-        <item>Все мероприятия</item>
-    </string-array>
-    <string-array name="change_response_labels">
-        <item>Только в этот раз</item>
-        <item>Все мероприятия в серии</item>
-    </string-array>
-    <string-array name="buttons_list">
-        <item>День</item>
-        <item>Неделя</item>
-        <item>Месяц</item>
-        <item>Повестка дня</item>
-    </string-array>
-    <string-array name="prefEntries_alerts_vibrateWhen">
-        <item>Всегда</item>
-        <item>В режиме \"Без звука\"</item>
-        <item>Никогда</item>
-    </string-array>
-    <string-array name="quick_response_defaults">
-        <item>Опоздаю на несколько минут.</item>
-        <item>Буду там через 10 минут.</item>
-        <item>Начинайте без меня.</item>
-        <item>"Извините, я не могу этого сделать. Нужно пересмотреть расписание."</item>
-    </string-array>
+     </string-array>
 </resources>

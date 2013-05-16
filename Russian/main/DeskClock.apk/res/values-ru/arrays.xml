@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!--Merged and sorted with KDG BigBlackBox-->
 <resources>
-    <string-array name="alarm_set">
+     <string-array name="alarm_in_furture">
         <item>Будильник зазвонит менее чем через минуту</item>
         <item>Будильник зазвонит через %1$s</item>
         <item>Будильник зазвонит через %2$s</item>
@@ -9,17 +10,25 @@
         <item>Будильник зазвонит через %1$s и %3$s</item>
         <item>Будильник зазвонит через %2$s и %3$s</item>
         <item>Будильник зазвонит через %1$s, %2$s и %3$s</item>
-    </string-array>
-    <string-array name="snooze_duration_entries">
-        <item>1 минута</item>
-        <item>5 минут</item>
-        <item>10 минут</item>
-        <item>15 минут</item>
-        <item>20 минут</item>
-        <item>25 минут</item>
-        <item>30 минут</item>
-    </string-array>
-    <string-array name="auto_silence_entries">
+     </string-array>
+     <string-array name="alarm_repeat_type">
+        <item>Один раз</item>
+        <item>Ежедневно</item>
+        <item>"Рабочие дни "</item>
+        <item>С понедельника по пятницу</item>
+        <item>Выбрать дни</item>
+     </string-array>
+     <string-array name="alarm_set">
+        <item>Будильник зазвонит менее чем через минуту</item>
+        <item>Будильник зазвонит через %1$s</item>
+        <item>Будильник зазвонит через %2$s</item>
+        <item>Будильник зазвонит через %1$s и %2$s</item>
+        <item>Будильник зазвонит через %3$s</item>
+        <item>Будильник зазвонит через %1$s и %3$s</item>
+        <item>Будильник зазвонит через %2$s и %3$s</item>
+        <item>Будильник зазвонит через %1$s, %2$s и %3$s</item>
+     </string-array>
+     <string-array name="auto_silence_entries">
         <item>Отключено</item>
         <item>1 минута</item>
         <item>5 минут</item>
@@ -28,40 +37,24 @@
         <item>20 минут</item>
         <item>25 минут</item>
         <item>30 минут</item>
-    </string-array>
-    <string-array name="volume_button_setting_entries">
-        <item>Нет</item>
-        <item>Отложить</item>
-        <item>Отключить</item>
-    </string-array>
-    <string-array name="alarm_in_furture">
-        <item>Будильник зазвонит менее чем через минуту</item>
-        <item>Будильник зазвонит через %1$s</item>
-        <item>Будильник зазвонит через %2$s</item>
-        <item>Будильник зазвонит через %1$s и %2$s</item>
-        <item>Будильник зазвонит через %3$s</item>
-        <item>Будильник зазвонит через %1$s и %3$s</item>
-        <item>Будильник зазвонит через %2$s и %3$s</item>
-        <item>Будильник зазвонит через %1$s, %2$s и %3$s</item>
-    </string-array>
-    <string-array name="days">
+     </string-array>
+     <string-array name="days">
         <item>"Вчера "</item>
         <item>"Сегодня "</item>
         <item>"Завтра "</item>
-    </string-array>
-    <string-array name="alarm_count_entries">
-        <item>1</item>
-        <item>2</item>
-        <item>3</item>
-        <item>4</item>
-        <item>5</item>
-        <item>Выкл.</item>
-    </string-array>
-    <string-array name="alarm_repeat_type">
-        <item>Один раз</item>
-        <item>Ежедневно</item>
-        <item>"Рабочие дни "</item>
-        <item>С понедельника по пятницу</item>
-        <item>Выбрать дни</item>
-    </string-array>
+     </string-array>
+     <string-array name="snooze_duration_entries">
+        <item>1 минута</item>
+        <item>5 минут</item>
+        <item>10 минут</item>
+        <item>15 минут</item>
+        <item>20 минут</item>
+        <item>25 минут</item>
+        <item>30 минут</item>
+     </string-array>
+     <string-array name="volume_button_setting_entries">
+        <item>Нет</item>
+        <item>Отложить</item>
+        <item>Отключить</item>
+     </string-array>
 </resources>

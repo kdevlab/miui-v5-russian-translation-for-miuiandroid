@@ -1,31 +1,7 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
+<!--Merged and sorted with KDG BigBlackBox-->
 <resources>
-    <string-array name="equalizer_presents">
-        <item>Стандартная</item>
-        <item>Классическая</item>
-        <item>Танцевальная</item>
-        <item>Лёгкая</item>
-        <item>Тяжелый метал</item>
-        <item>Хип-хоп</item>
-        <item>Джаз</item>
-        <item>Поп</item>
-        <item>Рок</item>
-    </string-array>
-    <string-array name="weeklist">
-        <item>1 неделя</item>
-        <item>2 недели</item>
-        <item>3 недели</item>
-        <item>4 недели</item>
-        <item>5 недель</item>
-        <item>6 недель</item>
-        <item>7 недель</item>
-        <item>8 недель</item>
-        <item>9 недель</item>
-        <item>10 недель</item>
-        <item>11 недель</item>
-        <item>12 недель</item>
-    </string-array>
-    <string-array name="alphabet_table">
+     <string-array name="alphabet_table">
         <item>\u0020</item>
         <item>A</item>
         <item>B</item>
@@ -53,5 +29,30 @@
         <item>X</item>
         <item>Y</item>
         <item>Z</item>
-    </string-array>
+     </string-array>
+     <string-array name="equalizer_presents">
+        <item>Стандартная</item>
+        <item>Классическая</item>
+        <item>Танцевальная</item>
+        <item>Лёгкая</item>
+        <item>Тяжелый метал</item>
+        <item>Хип-хоп</item>
+        <item>Джаз</item>
+        <item>Поп</item>
+        <item>Рок</item>
+     </string-array>
+     <string-array name="weeklist">
+        <item>1 неделя</item>
+        <item>2 недели</item>
+        <item>3 недели</item>
+        <item>4 недели</item>
+        <item>5 недель</item>
+        <item>6 недель</item>
+        <item>7 недель</item>
+        <item>8 недель</item>
+        <item>9 недель</item>
+        <item>10 недель</item>
+        <item>11 недель</item>
+        <item>12 недель</item>
+     </string-array>
 </resources>
