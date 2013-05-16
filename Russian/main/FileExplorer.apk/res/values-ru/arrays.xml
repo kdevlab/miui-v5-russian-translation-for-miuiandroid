@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!--Merged and sorted with KDG BigBlackBox-->
+<!-- Merged and sorted with KDev Sorter -->
 <resources>
+     <!-- The size of the array does not match! Now: 13 must: 12 -->
      <string-array name="garbage_size_entries">
         <item>0</item>
         <item>1</item>
@@ -15,6 +16,7 @@
         <item>.</item>
         <item>,</item>
      </string-array>
+     <!-- The size of the array does not match! Now: 13 must: 12 -->
      <array name="garbage_size_entryValues">
         <item>@drawable/digit0</item>
         <item>@drawable/digit1</item>

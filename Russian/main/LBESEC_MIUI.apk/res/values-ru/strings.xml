@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!--Merged and sorted with KDG BigBlackBox-->
+<!-- Merged and sorted with KDev Sorter -->
 <resources>
 	<string name="Dashboard_App">Приложения</string>
 	<string name="Dashboard_HIPS_Disable_Content">Отключение оставит Вашу систему без управления приложениями, без защиты безопасности и конфиденциальности.\nВы действительно хотите ее отключить?</string>

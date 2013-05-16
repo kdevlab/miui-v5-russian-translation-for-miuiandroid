@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!--Merged and sorted with KDG BigBlackBox-->
+<!-- Merged and sorted with KDev Sorter -->
 <resources>
 	<string name="Parse_error_dlg_text">При синтаксическом анализе пакета возникла неполадка</string>
 	<string name="Parse_error_dlg_title">Синтаксическая ошибка</string>

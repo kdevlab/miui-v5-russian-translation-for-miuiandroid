@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!--Merged and sorted with KDG BigBlackBox-->
+<!-- Merged and sorted with KDev Sorter -->
 <resources>
 	<string name="account_bind_prompt">Перенос данных пользователя\nперенос данных может жанять некоторое время,\nваш аккаунт временно будет недоступен, пожалуйста подождите…</string>
 	<string name="add_task">Добавить задачи</string>

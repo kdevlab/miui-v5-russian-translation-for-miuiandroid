@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!--Merged and sorted with KDG BigBlackBox-->
+<!-- Merged and sorted with KDev Sorter -->
 <resources>
      <string-array name="animator_duration_scale_entries">
         <item>Анимация отключена</item> 
@@ -211,6 +211,7 @@
         <item>Яркий режим</item>
         <item>Стандартный режим</item>
      </string-array>
+     <!-- The size of the array does not match! Now: 8 must: 7 -->
      <string-array name="screen_timeout_entries">
         <item>15 сек.</item>
         <item>30 сек.</item>

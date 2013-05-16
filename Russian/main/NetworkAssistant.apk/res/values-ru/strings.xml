@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!--Merged and sorted with KDG BigBlackBox-->
+<!-- Merged and sorted with KDev Sorter -->
 <resources>
 	<string name="about">О программе</string>
 	<string name="adjust_traffic_auto_adjust_hint">Система автоматически регулирует запрашивает и передачу данных регулярно от операторов. Вам нужно настроить информацию об операторах</string>

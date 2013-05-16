@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!--Merged and sorted with KDG BigBlackBox-->
+<!-- Merged and sorted with KDev Sorter -->
 <resources>
+     <!-- The size of the array does not match! Now: 4 must: 5 -->
      <string-array name="default_corpora">
         <item>интернет</item>
         <item>приложения</item>
