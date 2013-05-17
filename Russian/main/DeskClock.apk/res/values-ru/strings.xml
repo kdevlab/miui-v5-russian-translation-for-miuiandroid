@@ -116,6 +116,7 @@
 	<string name="stopwatch_title">Секундомер</string>
 	<string name="system_time_setting">Настройки</string>
 	<string name="time">Время</string>
+	<string name="timer_alert_alert_silenced">Таймер без звука после %d минут.</string>
 	<string name="timer_continue">Далее</string>
 	<string name="timer_got_it">Закрыть</string>
 	<string name="timer_hour">ч</string>

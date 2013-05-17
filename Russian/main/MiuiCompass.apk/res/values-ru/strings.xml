@@ -7,7 +7,7 @@
 	<string name="calibrate_failed_no_location">Ошибка калибрации: невозможно получить данные</string>
 	<string name="calibrate_failed_timeout">Ошибка калибрации: Сервер не отвечает</string>
 	<string name="calibrate_success">Калибровка успешно выполнена</string>
-	<string name="cannot_get_location">Не удалось получить координаты</string>
+	<string name="cannot_get_location">--</string>
 	<string name="dialog_calibrat_altitude">Калибрация через интеренет подключение</string>
 	<string name="dialog_title_no_network">Сетей не найдено, подключитесь через Wi-Fi или включите мобильный интернет</string>
 	<string name="direction_east">В</string>
@@ -16,13 +16,13 @@
 	<string name="direction_west">З</string>
 	<string name="getting_location">Получение координат...</string>
 	<string name="guide_toast">Пожалуйста, откалибруйте компас жестом, как показано на рисунке.</string>
-	<string name="latitude">Широта</string>
+	<string name="latitude">ШИР</string>
 	<string name="location_east">В.Д.</string>
 	<string name="location_north">С.Ш.</string>
 	<string name="location_south">Ю.Ш.</string>
 	<string name="location_west">З.Д.</string>
-	<string name="longitude">Долгота</string>
-	<string name="menu_calibrate">Калибровать</string>
+	<string name="longitude">ДОЛ</string>
+	<string name="menu_calibrate">Калибрация</string>
 	<string name="menu_calibrate_altitude">Калибрация высоты</string>
 	<string name="pressure_title">Давление</string>
 	<string name="pressure_unit">гПа</string>
