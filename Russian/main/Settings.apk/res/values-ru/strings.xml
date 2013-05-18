@@ -179,7 +179,7 @@
 	<string name="band_mode_set">Настроить</string>
 	<string name="band_mode_succeeded">Успешно</string>
 	<string name="band_mode_title">Настроить частоту GSM/UMTS</string>
-	<string name="baseband_version">Радиомодуль</string>
+	<string name="baseband_version">Модем</string>
 	<string name="battery_action_app_details">О приложении</string>
 	<string name="battery_action_app_settings">Настройки приложения</string>
 	<string name="battery_action_bluetooth">Настройки Bluetooth</string>
@@ -655,10 +655,10 @@
 	<string name="device_info_label">Сведения об устройстве</string>
 	<string name="device_info_not_available">Недоступно</string>
 	<string name="device_info_settings">Состояние телефона</string>
-	<string name="device_internal_memory">Память телефона</string>
-	<string name="device_memory">Оперативная память</string>
-	<string name="device_miui_version">Версия MIUI</string>
-	<string name="device_name">Название устройства</string>
+	<string name="device_internal_memory">ROM</string>
+	<string name="device_memory">RAM</string>
+	<string name="device_miui_version">MIUI</string>
+	<string name="device_name">Имя устройства</string>
 	<string name="device_name_input_hint">Пожалуйста введите имя устройства</string>
 	<string name="device_name_usage_point">Показать название вашего устройства, при Bluetooth подключениях, создании точки доступа и так далее.</string>
 	<string name="device_picker">Выбор устройства Bluetooth</string>
@@ -803,7 +803,7 @@
 	<string name="filter_dlg_title">Выберите параметры фильтра</string>
 	<string name="finish_application">Завершить</string>
 	<string name="finish_button_label">Готово</string>
-	<string name="firmware_version">Версия Android</string>
+	<string name="firmware_version">Android</string>
 	<string name="floating_window_switch_label">Всплывающие окна</string>
 	<string name="floating_window_switch_label_disable">Скрыть всплывающее окно</string>
 	<string name="font_size_huge">Огромный</string>
@@ -892,8 +892,8 @@
 	<string name="internal_media_format_desc">Очистить внутреннюю память? Вы потеряете все данные и все настройки!</string>
 	<string name="internal_media_format_final_desc">Удалить все данные с внутреннего накопителя? Это действие нельзя отменить! Телефон будет перезагружен после удаления всех данных!</string>
 	<string name="internal_media_format_title">Очистить внутреннюю память</string>
-	<string name="internal_memory">Память телефона</string>
-	<string name="internal_storage">Память телефона</string>
+	<string name="internal_memory">ROM</string>
+	<string name="internal_storage">ROM</string>
 	<string name="invalid_location">Недопустимое место установки.</string>
 	<string name="invalid_size_value">Не удалось вычислить размер пакета</string>
 	<string name="ipaddr_label">"IP адрес: "</string>
@@ -1087,7 +1087,7 @@
 	<string name="misc_files_selected_count">выбрано %1$d из %2$d</string>
 	<string name="misc_files_selected_count_bytes">%1$s из %2$s</string>
 	<string name="mms_vibrate_abbreviation">Сообщения</string>
-	<string name="model_number">Модель телефона</string>
+	<string name="model_number">Модель</string>
 	<string name="move_app">Переместить</string>
 	<string name="move_app_failed_dlg_text">Не удалось переместить приложение. %1$s</string>
 	<string name="move_app_to_internal">Переместить на телефон</string>
