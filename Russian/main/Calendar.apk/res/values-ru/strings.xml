@@ -41,7 +41,10 @@
 	<string name="copy_db">Отправить базу данных</string>
 	<string name="copy_email">Скопировать E-Mail адрес</string>
 	<string name="copy_number">Скопировать номер телефона</string>
-	<string name="create_an_account_desc">Подключите Календарь к аккаунту Google, чтобы: \n\n• Всегда иметь под рукой обновленные данные – на любом устройстве.\n• Синхронизировать все мероприятия – вы никогда не потеряете их.</string>
+	<string name="create_an_account_desc">"Подключите Календарь к аккаунту Google, чтобы: 
+
+• Всегда иметь под рукой обновленные данные – на любом устройстве.
+• Синхронизировать все мероприятия – вы никогда не потеряете их."</string>
 	<string name="creating_event">Мероприятие создано</string>
 	<string name="creating_event_with_guest">Приглашение отправлено</string>
 	<string name="custom">Особое… (настраивается только на сайте)</string>

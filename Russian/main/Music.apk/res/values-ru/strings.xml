@@ -161,10 +161,14 @@
 	<string name="play_and_download_summary">Автоматически загружать треки, прослушанные онлайн. Рекомендуется включить</string>
 	<string name="play_selection">Слушать</string>
 	<string name="playback_failed">К сожалению, проигрыватель не поддерживает этот тип аудио файлов</string>
-	<string name="playback_failed_by_bad_file">Невозможно проиграть \"%s\".\nНе поддерживается формат файла.</string>
-	<string name="playback_failed_by_network">Невозможно проиграть \"%s\".\nПроверьте сетевое подключение.</string>
-	<string name="playback_failed_no_title_by_bad_file">Невозможно проиграть трек.\nНе поддерживается формат файла.</string>
-	<string name="playback_failed_no_title_by_network">Невозможно проиграть трек.\nПроверьте сетевое подключение.</string>
+	<string name="playback_failed_by_bad_file">"Невозможно проиграть \"%s\".
+Не поддерживается формат файла."</string>
+	<string name="playback_failed_by_network">"Невозможно проиграть \"%s\".
+Проверьте сетевое подключение."</string>
+	<string name="playback_failed_no_title_by_bad_file">"Невозможно проиграть трек.
+Не поддерживается формат файла."</string>
+	<string name="playback_failed_no_title_by_network">"Невозможно проиграть трек.
+Проверьте сетевое подключение."</string>
 	<string name="player_display_settings">Проигрыватель</string>
 	<string name="playlist_deleted_message">Плейлист удален</string>
 	<string name="playlist_favorite">Избранное</string>

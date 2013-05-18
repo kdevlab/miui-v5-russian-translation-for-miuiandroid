@@ -67,7 +67,9 @@
 	<string name="incoming_file_confirm_Notification_caption">Подтвердите прием этого файла.</string>
 	<string name="incoming_file_confirm_Notification_title">Передача по Bluetooth: входящий файл</string>
 	<string name="incoming_file_confirm_cancel">Отклонить</string>
-	<string name="incoming_file_confirm_content">\"%1$s\" отправляет вам файл %2$s (%3$s).\n\u0009\nПринять файл?</string>
+	<string name="incoming_file_confirm_content">"\"%1$s\" отправляет вам файл %2$s (%3$s).
+\u0009
+Принять файл?"</string>
 	<string name="incoming_file_confirm_ok">Принять</string>
 	<string name="incoming_file_confirm_timeout_content">Истекло время ожидания при получении файла с устройства \"%1$s\".</string>
 	<string name="incoming_file_confirm_timeout_ok">ОК</string>
@@ -87,7 +89,8 @@
 	<string name="map_session_key_dialog_title">Введите ключ сессии для %1$s</string>
 	<string name="no_transfers">История передач пуста.</string>
 	<string name="not_exist_file">Файл не существует.</string>
-	<string name="not_exist_file_desc">Файл не существует! \n</string>
+	<string name="not_exist_file_desc">"Файл не существует! 
+"</string>
 	<string name="noti_caption">Выполнено: %1$s, не выполнено: %2$s.</string>
 	<string name="notification_received">Передача по Bluetooth: получено %1$s</string>
 	<string name="notification_received_fail">Передача по Bluetooth: файл %1$s не получен</string>
@@ -150,7 +153,8 @@
 	<string name="unknownNumber">Неизвестный</string>
 	<string name="unknown_device">Неизвестное устройство</string>
 	<string name="unknown_file">Неизвестный файл</string>
-	<string name="unknown_file_desc">Отсутствует приложение для открытия этого файла. \n</string>
+	<string name="unknown_file_desc">"Отсутствует приложение для открытия этого файла. 
+"</string>
 	<string name="update_record">Подтвердить запись</string>
 	<string name="upload_fail_cancel">Закрыть</string>
 	<string name="upload_fail_line1">Файл не был отправлен на устройство %1$s.</string>

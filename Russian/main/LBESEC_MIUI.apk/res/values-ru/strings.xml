@@ -2,7 +2,8 @@
 <!-- Merged and sorted with KDev Sorter -->
 <resources>
 	<string name="Dashboard_App">Приложения</string>
-	<string name="Dashboard_HIPS_Disable_Content">Отключение оставит Вашу систему без управления приложениями, без защиты безопасности и конфиденциальности.\nВы действительно хотите ее отключить?</string>
+	<string name="Dashboard_HIPS_Disable_Content">"Отключение оставит Вашу систему без управления приложениями, без защиты безопасности и конфиденциальности.
+Вы действительно хотите ее отключить?"</string>
 	<string name="Dashboard_HIPS_Disable_Title">Монитор доступа</string>
 	<string name="Dashboard_Log">Логи</string>
 	<string name="Dashboard_Log_Clear_Content">Удалить все журналы?</string>
@@ -24,7 +25,9 @@
 	<string name="Dashboard_Perm_SU_Desc">Управление %1$d доступом для приложений суперпользователя</string>
 	<string name="Dashboard_Perm_SU_Disabled">Права суперпользователя отключены</string>
 	<string name="Dashboard_Perm_SU_Disabled_In_Stable">Права суперпользователя недоступны</string>
-	<string name="Dashboard_Perm_SU_Disabled_In_Stable_Desc">"Разрешение прав суперпользователя может привести к нестабильности системы, к потере личных и системных данных, а также к повреждению оборудования. \n  \n  Пожалуйста, переключитесь на версию для разработчиков"</string>
+	<string name="Dashboard_Perm_SU_Disabled_In_Stable_Desc">"Разрешение прав суперпользователя может привести к нестабильности системы, к потере личных и системных данных, а также к повреждению оборудования. 
+  
+  Пожалуйста, переключитесь на версию для разработчиков"</string>
 	<string name="Dashboard_Perm_SU_Disabled_In_Stable_Download">Скачать MIUI</string>
 	<string name="Dashboard_Perm_SU_Disabled_In_Stable_URL">http://romz.bz/pages/download_miui/</string>
 	<string name="Dashboard_Perm_SU_Switch">Разрешения суперпользователя</string>

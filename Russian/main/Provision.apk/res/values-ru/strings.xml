@@ -9,7 +9,8 @@
 	<string name="next">Далее</string>
 	<string name="other_service_google_location">Сервис местоположения Google</string>
 	<string name="other_service_google_location_use">Местоположение и поиск Google</string>
-	<string name="other_service_google_location_use_help">Разрешить сервису Google собирать данные о вашем местоположении. Сбор данных будет происходить в фоновом режиме.\nИзменить настройки можно в пункте \"Параметры\" > \"Местоположение\".</string>
+	<string name="other_service_google_location_use_help">"Разрешить сервису Google собирать данные о вашем местоположении. Сбор данных будет происходить в фоновом режиме.
+Изменить настройки можно в пункте \"Параметры\" > \"Местоположение\"."</string>
 	<string name="other_service_google_location_use_summary">Разрешить использовать Google местоположение для улучшения результатов поиска и других услуг.</string>
 	<string name="other_service_label">Другие сервисы</string>
 	<string name="other_service_location">Местоположение</string>
@@ -27,7 +28,8 @@
 	<string name="sim_card_detection_dialog_message">Поиск SIM-карты. Пожалуйста, подождите...</string>
 	<string name="sim_card_detection_info">Для использования сервисов Xiaomi необходима SIM-карта.</string>
 	<string name="sim_card_detection_label">Поиск SIM-карты</string>
-	<string name="sim_card_detection_status_absent">SIM-карта не доступна.\nПожалуйста, вставьте SIM-карту.</string>
+	<string name="sim_card_detection_status_absent">"SIM-карта не доступна.
+Пожалуйста, вставьте SIM-карту."</string>
 	<string name="traffic_protection_label">Монитор трафика</string>
 	<string name="traffic_protection_summary">С помощью приложения \"Монитор\" вы сможете установить лимит на мобильный трафик.</string>
 	<string name="traffic_protection_text_hint">Введите лимит трафика</string>

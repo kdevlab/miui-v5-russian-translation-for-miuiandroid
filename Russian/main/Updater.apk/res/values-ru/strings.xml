@@ -3,7 +3,8 @@
 <resources>
 	<string name="about_device">Сведения о системе</string>
 	<string name="active_xiaomi_account">Активировать</string>
-	<string name="active_xiaomi_account_msg">Пожалуйста, перейдите на форум MIUI для активации аккаунта Xiaomi:\n</string>
+	<string name="active_xiaomi_account_msg">"Пожалуйста, перейдите на форум MIUI для активации аккаунта Xiaomi:
+"</string>
 	<string name="active_xiaomi_account_title">Активация аккаунта</string>
 	<string name="app_name">Обновление</string>
 	<string name="apply_buddy_update_info_message">Нажмите «Обновить»</string>
@@ -108,9 +109,13 @@
 	<string name="share_update_content_unsign">Я обновил MIUI до %1$s! Для получения подробных изменений, пожалуйста, посетите %2$s.</string>
 	<string name="sign_in_add_account">Активируйте аккаунт Xiaomi</string>
 	<string name="sign_in_add_account_helper">В вашем телефоне нет аккаунта MIUI, пожалуйста добавьте его</string>
-	<string name="sign_in_info">Рейтинг обновления: %1$s%%\n%2$s\nВерсия: %3$s</string>
-	<string name="sign_in_info_rank_more">Your update ranking is after %1$s\nOver %2$s users have signed in for MIUI %3$s</string>
-	<string name="sign_in_info_total_more">Your update ranking is %1$s\nOver %2$s users have signed in for MIUI %3$s</string>
+	<string name="sign_in_info">"Рейтинг обновления: %1$s%%
+%2$s
+Версия: %3$s"</string>
+	<string name="sign_in_info_rank_more">"Your update ranking is after %1$s
+Over %2$s users have signed in for MIUI %3$s"</string>
+	<string name="sign_in_info_total_more">"Your update ranking is %1$s
+Over %2$s users have signed in for MIUI %3$s"</string>
 	<string name="stable_build">стабильная</string>
 	<string name="start_update">Начать обновление</string>
 	<string name="submit">Отправить</string>
@@ -123,13 +128,15 @@
 	<string name="system_backup_cancel_text">Обновить</string>
 	<string name="system_backup_download_helper">Устройство автоматически перезагрузится после обновления. </string>
 	<string name="system_backup_error_message">Ошибка резервного копирования системы</string>
-	<string name="system_backup_helper">\nРекомендуется сделать резервную копию ваших данных.</string>
+	<string name="system_backup_helper">"
+Рекомендуется сделать резервную копию ваших данных."</string>
 	<string name="system_backup_ok_text">Создать копию</string>
 	<string name="top_secret_build">Секретная сборка</string>
 	<string name="update_comment_hint">(опционально)</string>
 	<string name="update_comment_title">У меня есть что сказать</string>
 	<string name="update_feedback">Отзывы о прошивке</string>
-	<string name="update_feedback_expired">Жаль, что вы пропустили возможность участия в отзывах о прошивке!\nПожалуйста, попробуйте опрос в следующий вторник</string>
+	<string name="update_feedback_expired">"Жаль, что вы пропустили возможность участия в отзывах о прошивке!
+Пожалуйста, попробуйте опрос в следующий вторник"</string>
 	<string name="update_feel">1. Что вы ощущаете?</string>
 	<string name="update_general">Более-менее</string>
 	<string name="update_happy">Счастливый</string>
@@ -140,7 +147,8 @@
 	<string name="update_success_title">Обновление</string>
 	<string name="upgrade_close">Закрыть</string>
 	<string name="upgrade_kernel">Обновления ядра</string>
-	<string name="upgrade_kernel_msg">Ваше ядро несовместимо с прошивкой MIUI. Вы должны обновить его вручную. Зайтите на сайт, чтобы узнать как обновить ядро:\n</string>
+	<string name="upgrade_kernel_msg">"Ваше ядро несовместимо с прошивкой MIUI. Вы должны обновить его вручную. Зайтите на сайт, чтобы узнать как обновить ядро:
+"</string>
 	<string name="verify_and_apply_dialog_message">Проверка контрольной суммы</string>
 	<string name="verify_and_apply_dialog_title">Проверка целостности файла</string>
 	<string name="view_install_log">Просмотр журнала</string>

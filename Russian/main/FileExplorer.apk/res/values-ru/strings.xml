@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Merged and sorted with KDev Sorter -->
 <resources>
-	<string name="account_bind_prompt">Перенос данных пользователя\nперенос данных может жанять некоторое время,\nваш аккаунт временно будет недоступен, пожалуйста подождите…</string>
+	<string name="account_bind_prompt">"Перенос данных пользователя
+перенос данных может жанять некоторое время,
+ваш аккаунт временно будет недоступен, пожалуйста подождите…"</string>
 	<string name="add_task">Добавить задачи</string>
 	<string name="adding_upload_tasks">Добавление задачи загрузки.</string>
 	<string name="app_cache_cleanup_indication">%s кеша</string>
@@ -106,7 +108,8 @@
 	<string name="ftp_username_hint">Имя пользователя</string>
 	<string name="garbage_item_name_format" formatted="false">%s ( %s )</string>
 	<string name="garbage_item_path_format" formatted="false">%s %s</string>
-	<string name="garbage_size_metric">%s\nМусор</string>
+	<string name="garbage_size_metric">"%s
+Мусор"</string>
 	<string name="gbk_summary">Если вы используете кодировку GBK, например, в Windows Explorer, выберите этот тип кодирования, чтобы избежать искажения текста на китайском языке</string>
 	<string name="gbk_title">GBK</string>
 	<string name="give_up_cleaning">Отмена</string>
@@ -156,7 +159,9 @@
 	<string name="no_wifi_hint">Нет Wi-Fi соединения</string>
 	<string name="notif_server_starting">Синхронизация включена</string>
 	<string name="notif_title">FTP сеть активна</string>
-	<string name="open_changed_file_message">Файл, который вы пытаетесь открыть был изменен, вы можете:\n1. Скачать (обновить локальный файл)\n2. Загрузить (обновить файл в облаке)</string>
+	<string name="open_changed_file_message">"Файл, который вы пытаетесь открыть был изменен, вы можете:
+1. Скачать (обновить локальный файл)
+2. Загрузить (обновить файл в облаке)"</string>
 	<string name="open_changed_file_title">Файл изменен</string>
 	<string name="operating">Обработка...</string>
 	<string name="operation_cancel">Отмена</string>
@@ -170,7 +175,8 @@
 	<string name="operation_decompressing">Распаковка...</string>
 	<string name="operation_delete">Удалить</string>
 	<string name="operation_delete_confirm_message">Подтверждение удаления</string>
-	<string name="operation_delete_confirm_message_folder">Удаление папки приведет к удалению всех файлов внутри нее\n</string>
+	<string name="operation_delete_confirm_message_folder">"Удаление папки приведет к удалению всех файлов внутри нее
+"</string>
 	<string name="operation_deleting">Удаление...</string>
 	<string name="operation_deleting_detail">Удаление файлов (%1$d/%2$d)</string>
 	<string name="operation_download_link">Создание ссылки для скачивания</string>
@@ -236,7 +242,9 @@
 	<string name="thumbnail_title">Файлы эскизов</string>
 	<string name="toast_file_not_can_read">Этот тип файла не поддерживается</string>
 	<string name="trans_task">Передача</string>
-	<string name="trans_task_delete_confirm_message">Удалить выбранные задачи? \n\nЗадач:%1$d</string>
+	<string name="trans_task_delete_confirm_message">"Удалить выбранные задачи? 
+
+Задач:%1$d"</string>
 	<string name="transing">Отправка</string>
 	<string name="trash_box_capacity">Объем корзины: %1$s</string>
 	<string name="trash_box_link">Посетите pan.xiaomi.com для очистки корзины</string>
@@ -256,11 +264,14 @@
 	<string name="uploading">Загрузка</string>
 	<string name="used">Занято:</string>
 	<string name="user_guide">Руководство пользователя</string>
-	<string name="user_guide_download_other_version">Вы всегда можете скачать Kuaipan\nна Ваш PC или Mac</string>
-	<string name="user_guide_kuaipan_copy">Доступ к файлу с нескольких устройств\n, поместив его в Kuaipan</string>
+	<string name="user_guide_download_other_version">"Вы всегда можете скачать Kuaipan
+на Ваш PC или Mac"</string>
+	<string name="user_guide_kuaipan_copy">"Доступ к файлу с нескольких устройств
+, поместив его в Kuaipan"</string>
 	<string name="user_guide_other_version">Скачать различные версии с Kuaipan</string>
 	<string name="user_guide_summary">Руководство по KuaiPan</string>
-	<string name="user_guide_upload_to_kuaipan">С телефона,\nпросто скопировать и вставить в Kuaipan</string>
+	<string name="user_guide_upload_to_kuaipan">"С телефона,
+просто скопировать и вставить в Kuaipan"</string>
 	<string name="utf8_summary">Тип кодировки по умолчанию</string>
 	<string name="version_text">версия %1$s</string>
 	<string name="wait_net">Ожидание сети</string>

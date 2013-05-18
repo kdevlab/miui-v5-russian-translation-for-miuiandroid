@@ -263,7 +263,8 @@
 	<string name="pref_content_search_engine_summary">Выберите поисковую систему</string>
 	<string name="pref_content_title">Содержание страницы</string>
 	<string name="pref_data_preload_dialogtitle">Загрузка результатов поиска</string>
-	<string name="pref_data_preload_summary">\nРазрешить браузеру предварительно загружать результаты поиска в фоновом режиме</string>
+	<string name="pref_data_preload_summary">"
+Разрешить браузеру предварительно загружать результаты поиска в фоновом режиме"</string>
 	<string name="pref_data_preload_title">Загрузка результатов поиска</string>
 	<string name="pref_data_title">Настройки контента</string>
 	<string name="pref_default_text_encoding">Кодировка текста</string>
@@ -316,7 +317,8 @@
 	<string name="pref_lab_quick_controls_summary">Чтобы открыть панель инструментов, начните перелистывать страницу справа или слева</string>
 	<string name="pref_lab_title">Лаборатория Google</string>
 	<string name="pref_link_prefetch_dialogtitle">Загрузка веб-страниц</string>
-	<string name="pref_link_prefetch_summary">\nРазрешить браузеру предварительно загружать связанные веб-страницы в фоновом режиме</string>
+	<string name="pref_link_prefetch_summary">"
+Разрешить браузеру предварительно загружать связанные веб-страницы в фоновом режиме"</string>
 	<string name="pref_link_prefetch_title">Загрузка веб-страниц</string>
 	<string name="pref_min_font_size">Минимальный размер шрифта</string>
 	<string name="pref_min_font_size_value">%d pt</string>
@@ -363,7 +365,8 @@
 	<string name="pref_use_instant_search">Google Живой поиск</string>
 	<string name="pref_use_instant_search_summary">В Живом поиске результаты появляются прямо при вводе текста (возможно увеличение объема передаваемых данных)</string>
 	<string name="pref_video_preload_dialogtitle">Кеширование видео</string>
-	<string name="pref_video_preload_summary">\nРазрешить браузеру предварительно загружать видео файлы, если это возможно</string>
+	<string name="pref_video_preload_summary">"
+Разрешить браузеру предварительно загружать видео файлы, если это возможно"</string>
 	<string name="pref_video_preload_title">Кеширование видео</string>
 	<string name="pref_volume_key_enabled">Клавиши громкости</string>
 	<string name="pref_volume_key_operation">Функция клавиш громкости</string>

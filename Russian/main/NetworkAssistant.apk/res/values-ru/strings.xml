@@ -46,7 +46,8 @@
 	<string name="daily_limit_result_no_limit">Напоминать, когда лимит трафика превышен</string>
 	<string name="detail_app_button">О приложении</string>
 	<string name="dialog_button_adjust">Настройка</string>
-	<string name="disable_background_connect_warning">При отключении фонового режима трафика некоторые приложения и службы не смогут работать через 2G/3G. \nОтключить фоновый режим?</string>
+	<string name="disable_background_connect_warning">"При отключении фонового режима трафика некоторые приложения и службы не смогут работать через 2G/3G. 
+Отключить фоновый режим?"</string>
 	<string name="disable_background_mobile_connect">Отключить фоновые соединения</string>
 	<string name="edit_frame_free_traffic_title">Изменить учет трафика</string>
 	<string name="edit_frame_month_start_title">Дата начала учета</string>

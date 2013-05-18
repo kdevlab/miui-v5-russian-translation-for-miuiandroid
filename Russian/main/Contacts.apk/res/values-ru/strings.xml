@@ -37,7 +37,11 @@
 	<string name="auto_nickname">Авто</string>
 	<string name="auto_set_nickname">Авто</string>
 	<string name="batch_delete">Пакетное удаление</string>
-	<string name="batch_delete_msg">Удалить выбранные контакты?\n\n(контактов: %d)\n\nЕсли вы используете облачное хранилище, то данные контактов будут также удалены с сервера.</string>
+	<string name="batch_delete_msg">"Удалить выбранные контакты?
+
+(контактов: %d)
+
+Если вы используете облачное хранилище, то данные контактов будут также удалены с сервера."</string>
 	<string name="bluetooth_connection_failed_toast">Bluetooth соединение прервано</string>
 	<string name="blurbJoinContactDataWith">Выберите контакт, который хотите объединить с \"%s\":</string>
 	<string name="btn_delete_multi_contacts">Удалить %d контактов</string>
@@ -239,7 +243,8 @@
 	<string name="device_bluetooth_title">подготовительные работы</string>
 	<string name="device_brand_title">выберите марку мобильного телефона</string>
 	<string name="device_import_account_dialog_title">выберите аккаунт для импорта</string>
-	<string name="device_import_account_dialog_title_suffix">\n(найдено контактов: %1$s)</string>
+	<string name="device_import_account_dialog_title_suffix">"
+(найдено контактов: %1$s)"</string>
 	<string name="device_import_done_toast">Импортировано контактов: %1$d</string>
 	<string name="device_import_failed_message">Ошибка импорта!</string>
 	<string name="device_import_local_account">Локальный аккаунт</string>
@@ -316,7 +321,8 @@
 	<string name="export_to_sim">На SIM-карту</string>
 	<string name="export_to_sim_title">Экспорт на SIM-карту...</string>
 	<string name="export_vcard_description">Экспортировать vCard на SD-карту</string>
-	<string name="exporting_contact_failed_message">Не удалось экспортировать данные.\nПричина: %s</string>
+	<string name="exporting_contact_failed_message">"Не удалось экспортировать данные.
+Причина: %s"</string>
 	<string name="exporting_contact_failed_title">Сбой экспорта</string>
 	<string name="exporting_contact_list_message">Контактные данные экспортируются в файл \"%s\"</string>
 	<string name="exporting_contact_list_progress" formatted="false">%s из %s контактов</string>
@@ -516,18 +522,70 @@
 	<string name="noContactHelpTextAccountsInfo">Синхронизировать контакты с Google, Exchange</string>
 	<string name="noContactHelpTextImportXiaomiAccountInfo">Восстановить контакты из резервной копии в аккаунте Xiaomi и MiTalk</string>
 	<string name="noContacts">Нет контактов</string>
-	<string name="noContactsHelpText">Нет контактов для показа.\n\nЧтобы добавить контакты, нажмите Меню и выберите один из вариантов.\n\nАккаунты: добавление или настройка аккаунта с контактами, которые можно синхронизировать с телефоном.\n \nНовый контакт: добавление контакта.\n \nИмпорт/экспорт: импорт контактов с SIM- или SD-карты.\n</string>
+	<string name="noContactsHelpText">"Нет контактов для показа.
+
+Чтобы добавить контакты, нажмите Меню и выберите один из вариантов.
+
+Аккаунты: добавление или настройка аккаунта с контактами, которые можно синхронизировать с телефоном.
+ 
+Новый контакт: добавление контакта.
+ 
+Импорт/экспорт: импорт контактов с SIM- или SD-карты.
+"</string>
 	<string name="noContactsHelpTextForCreateShortcut">Отсутствуют контакты для отображения</string>
-	<string name="noContactsHelpTextWithSync">Нет контактов для показа. Если Вы только что добавили аккаунт, синхронизация контактов может занять несколько минут.\n\nЧтобы добавить контакты, нажмите Меню и выберите один из вариантов.\n\nАккаунты: добавление или настройка аккаунта с контактами, которые можно синхронизировать с телефоном.\n\nФильтр контактов: настройка параметров показа контактов.\n\nНовый контакт: добавление контакта.\n \nИмпорт/экспорт: импорт контактов с SIM- или SD-карты.\n</string>
+	<string name="noContactsHelpTextWithSync">"Нет контактов для показа. Если Вы только что добавили аккаунт, синхронизация контактов может занять несколько минут.
+
+Чтобы добавить контакты, нажмите Меню и выберите один из вариантов.
+
+Аккаунты: добавление или настройка аккаунта с контактами, которые можно синхронизировать с телефоном.
+
+Фильтр контактов: настройка параметров показа контактов.
+
+Новый контакт: добавление контакта.
+ 
+Импорт/экспорт: импорт контактов с SIM- или SD-карты.
+"</string>
 	<string name="noContactsHelpTextWithSyncForCreateShortcut">Отсутствуют контакты для отображения. (Если аккаунт был только что добавлен, потребуется несколько минут для синхронизации контактов.)</string>
-	<string name="noContactsNoSimHelpText">Нет контактов для показа.\n\nЧтобы добавить контакты, нажмите Меню и выберите один из вариантов.\n \nАккаунты: добавление или настройка аккаунта с контактами, которые можно синхронизировать с телефоном.\n \nНовый контакт: добавление контакта.\n \nИмпорт/экспорт: импорт контактов с SD-карты.\n</string>
-	<string name="noContactsNoSimHelpTextWithSync">Нет контактов для показа. Если вы только что добавили аккаунт, синхронизация контактов может занять несколько минут.\n\nЧтобы добавить контакты, нажмите Меню и выберите один из вариантов.\n\nАккаунты: добавление или настройка аккаунта с контактами, которые можно синхронизировать с телефоном.\n\nФильтр контактов: настройка параметров показа контактов.\n\nНовый контакт: добавление контакта.\n \nИмпорт/экспорт: импорт контактов с SD-карты.\n</string>
+	<string name="noContactsNoSimHelpText">"Нет контактов для показа.
+
+Чтобы добавить контакты, нажмите Меню и выберите один из вариантов.
+ 
+Аккаунты: добавление или настройка аккаунта с контактами, которые можно синхронизировать с телефоном.
+ 
+Новый контакт: добавление контакта.
+ 
+Импорт/экспорт: импорт контактов с SD-карты.
+"</string>
+	<string name="noContactsNoSimHelpTextWithSync">"Нет контактов для показа. Если вы только что добавили аккаунт, синхронизация контактов может занять несколько минут.
+
+Чтобы добавить контакты, нажмите Меню и выберите один из вариантов.
+
+Аккаунты: добавление или настройка аккаунта с контактами, которые можно синхронизировать с телефоном.
+
+Фильтр контактов: настройка параметров показа контактов.
+
+Новый контакт: добавление контакта.
+ 
+Импорт/экспорт: импорт контактов с SD-карты.
+"</string>
 	<string name="noContactsWithPhoneNumbers">Нет контактов с номерами телефонов</string>
-	<string name="noFavoritesHelpText">"У вас нет избранных контактов.\n\nЧтобы сделать контакт избранным,\n\n        нажмите вкладку Контакты;\n \nнажмите контакт, который нужно сделать избранным;\n \nнажмите звездочку возле имени контакта.\n"</string>
+	<string name="noFavoritesHelpText">"У вас нет избранных контактов.
+
+Чтобы сделать контакт избранным,
+
+        нажмите вкладку Контакты;
+ 
+нажмите контакт, который нужно сделать избранным;
+ 
+нажмите звездочку возле имени контакта.
+"</string>
 	<string name="noGroups">Нет групп</string>
 	<string name="noMatchingContacts">Подходящие контакты не найдены</string>
 	<string name="noRecentContacts">Нет контактов</string>
-	<string name="no_account_prompt">Подключите Контакты к аккаунту Google, чтобы:\n\n• Всегда иметь под рукой обновленные данные – на любом устройстве\n• Синхронизировать все контакты – Вы никогда не потеряете их</string>
+	<string name="no_account_prompt">"Подключите Контакты к аккаунту Google, чтобы:
+
+• Всегда иметь под рукой обновленные данные – на любом устройстве
+• Синхронизировать все контакты – Вы никогда не потеряете их"</string>
 	<string name="no_contact_details">Нет других данных об этом контакте</string>
 	<string name="no_contact_in_other_phone">Нет контактов</string>
 	<string name="no_contacts_dialog_message">Человек не найден в Ваших контактах. Возможно он находится в списке контактов на SIM-карте. Для поиска , сделайте импорт всех контактов с SIM-карты.</string>
@@ -672,7 +730,9 @@
 	<string name="remind_btn_ignore">Позже</string>
 	<string name="remind_btn_sync_now">Сейчас</string>
 	<string name="removePhoto">Удалить изображение</string>
-	<string name="remove_duplicate">MIUI поможет Вам найти и объединить дублированные контакты. Они не будут объединены автоматически. Пожалуйста, объедините их вручную.\n\nНажмите на объединение и немного подождите, пока автоматическое объединение не завершится.</string>
+	<string name="remove_duplicate">"MIUI поможет Вам найти и объединить дублированные контакты. Они не будут объединены автоматически. Пожалуйста, объедините их вручную.
+
+Нажмите на объединение и немного подождите, пока автоматическое объединение не завершится."</string>
 	<string name="resource_alarm_default">Будильник</string>
 	<string name="resource_app_name">Браузер ресурсов</string>
 	<string name="resource_apply">Применить</string>
@@ -712,7 +772,6 @@
 	<string name="resource_title_select_ringtone">Выберите мелодию</string>
 	<string name="resource_update">Обн.</string>
 	<string name="restore_nickname">Восстановить</string>
-	<string name="ret_sign">\n</string>
 	<string name="returnCall">Обратный вызов</string>
 	<string name="ringLabelsGroup">Мелодия</string>
 	<string name="save_photo_progress">Сохранение фотографии...</string>
@@ -724,7 +783,8 @@
 	<string name="scanning">поиск устройств...</string>
 	<string name="scanning_sdcard_failed_message">Не удалось просканировать SD-карту. Причина: %s.</string>
 	<string name="scanning_sdcard_failed_title">SD-карта не просканирована</string>
-	<string name="sdcard_status_changed_dialog_message">Требуется выход.\nПожалуйста, откройте это приложение еще раз, для обновления ресурсов.</string>
+	<string name="sdcard_status_changed_dialog_message">"Требуется выход.
+Пожалуйста, откройте это приложение еще раз, для обновления ресурсов."</string>
 	<string name="sdcard_status_changed_dialog_title">Изменился статус SD-карты</string>
 	<string name="searchHint">Поиск контактов</string>
 	<string name="search_results_searching">Поиск...</string>
@@ -830,7 +890,11 @@
 	<string name="unknown">Неизвестно</string>
 	<string name="unknown_contact_name">Неизвестный номер</string>
 	<string name="upgrade_in_progress">Список контактов обновляется...</string>
-	<string name="upgrade_out_of_memory">Контакты находятся в процессе обновления.\n\nПроцесс обновления требует около %s МБ памяти.\n\nВыберите один из следующих вариантов:</string>
+	<string name="upgrade_out_of_memory">"Контакты находятся в процессе обновления.
+
+Процесс обновления требует около %s МБ памяти.
+
+Выберите один из следующих вариантов:"</string>
 	<string name="upgrade_out_of_memory_retry">Повторить попытку обновления</string>
 	<string name="upgrade_out_of_memory_uninstall">Удалить некоторые приложения</string>
 	<string name="use_photo_as_primary">Использовать данное изображение</string>

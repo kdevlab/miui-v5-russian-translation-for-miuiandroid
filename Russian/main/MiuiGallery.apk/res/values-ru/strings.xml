@@ -52,7 +52,10 @@
 	<string name="cloud_tab_locations">Местоположение</string>
 	<string name="cloudfolder_already_exists">Альбом уже существует</string>
 	<string name="confirm_delete">Вы действительно хотите удалить выбранное?</string>
-	<string name="confirm_delete_album" formatted="false">Удалить выбранные альбомы с фото?\n\nАльбомов:%s\nФото: %s</string>
+	<string name="confirm_delete_album" formatted="false">"Удалить выбранные альбомы с фото?
+
+Альбомов:%s
+Фото: %s"</string>
 	<string name="confirm_delete_cloud_all_item_page" formatted="false">%s фотографий в %s альбомах, вы уверены, что хотите удалить?</string>
 	<string name="confirm_delete_folders_and_pictures">Вы уверены, что хотите удалить %s?</string>
 	<string name="confirm_delete_folders_including" formatted="false">%s альбомов, включая %s фото</string>

@@ -3,18 +3,25 @@
 <resources>
 	<string name="Parse_error_dlg_text">При синтаксическом анализе пакета возникла неполадка</string>
 	<string name="Parse_error_dlg_title">Синтаксическая ошибка</string>
-	<string name="allow_source_dlg_text">%1$s хочет установить другие приложения.\n\nРазрешить и запомнить выбор?</string>
+	<string name="allow_source_dlg_text">"%1$s хочет установить другие приложения.
+
+Разрешить и запомнить выбор?"</string>
 	<string name="allow_source_dlg_title">Разрешить добавление нового источника для приложений?</string>
 	<string name="app_name">Программа установки приложений</string>
 	<string name="app_not_found_dlg_text">Приложение не было найдено в списке установленных приложений</string>
 	<string name="app_not_found_dlg_title">Приложение не найдено</string>
-	<string name="auto_startup_dialog_msg">Система позволит приложению запускаться автоматически. Это может привести к потреблению трафика или батареи.\nРазрешить автозапуск?</string>
+	<string name="auto_startup_dialog_msg">"Система позволит приложению запускаться автоматически. Это может привести к потреблению трафика или батареи.
+Разрешить автозапуск?"</string>
 	<string name="caller_app">Запрос от %1$s</string>
 	<string name="cancel">Отмена</string>
-	<string name="dlg_app_replacement_statement">Приложение, которое вы устанавливаете, заменит уже существующее.\n\nВсе пользовательские данные будут сохранены.</string>
+	<string name="dlg_app_replacement_statement">"Приложение, которое вы устанавливаете, заменит уже существующее.
+
+Все пользовательские данные будут сохранены."</string>
 	<string name="dlg_app_replacement_title">Замена приложения</string>
 	<string name="dlg_ok">ОК</string>
-	<string name="dlg_sys_app_replacement_statement">Приложение, которое вы устанавливаете - системное. Хотите заменить?\n\nВсе пользовательские данные будут сохранены.</string>
+	<string name="dlg_sys_app_replacement_statement">"Приложение, которое вы устанавливаете - системное. Хотите заменить?
+
+Все пользовательские данные будут сохранены."</string>
 	<string name="done">Готово</string>
 	<string name="high_risk_perms">Разрешения высокого риска</string>
 	<string name="install">Установить</string>
@@ -55,7 +62,8 @@
 	<string name="safe_relative">Безопасные разрешения</string>
 	<string name="security_settings_desc">Разрешить этому приложению:</string>
 	<string name="settings">Настройки</string>
-	<string name="trust_switch_dialog_msg">Система не будут спрашивать Вас о подтверждении любых операций связанных с безопасностью и конфиденциальностью. Пожалуйста, убедитесь, что хорошо знаете данного разработчика.\nВы доверяете этому приложению?</string>
+	<string name="trust_switch_dialog_msg">"Система не будут спрашивать Вас о подтверждении любых операций связанных с безопасностью и конфиденциальностью. Пожалуйста, убедитесь, что хорошо знаете данного разработчика.
+Вы доверяете этому приложению?"</string>
 	<string name="uninstall_activity_text">%1$s является частью следующего приложения:</string>
 	<string name="uninstall_application_text">Приложение будет удалено</string>
 	<string name="uninstall_application_title">Удаление приложения</string>

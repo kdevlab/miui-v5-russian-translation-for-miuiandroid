@@ -98,12 +98,15 @@
 	<string name="account_setup_failed_certificate_required">Необходим сертификат клиента. Подключиться к серверу?</string>
 	<string name="account_setup_failed_check_credentials_message">Ошибка сервера. Проверьте имя пользователя и пароль и повторите попытку</string>
 	<string name="account_setup_failed_dlg_auth_message">Неверное имя пользователя или пароль</string>
-	<string name="account_setup_failed_dlg_auth_message_fmt">Неверное имя пользователя или пароль.\n%s</string>
+	<string name="account_setup_failed_dlg_auth_message_fmt">"Неверное имя пользователя или пароль.
+%s"</string>
 	<string name="account_setup_failed_dlg_certificate_message">Не удалось установить защищенное подключение к серверу</string>
-	<string name="account_setup_failed_dlg_certificate_message_fmt">Не удалось установить защищенное подключение к серверу.\n%s</string>
+	<string name="account_setup_failed_dlg_certificate_message_fmt">"Не удалось установить защищенное подключение к серверу.
+%s"</string>
 	<string name="account_setup_failed_dlg_edit_details_action">Изменить сведения</string>
 	<string name="account_setup_failed_dlg_server_message">Не удалось подключиться к серверу</string>
-	<string name="account_setup_failed_dlg_server_message_fmt">Не удалось подключиться к серверу.\n%s</string>
+	<string name="account_setup_failed_dlg_server_message_fmt">"Не удалось подключиться к серверу.
+%s"</string>
 	<string name="account_setup_failed_dlg_title">Настройка не закончена</string>
 	<string name="account_setup_failed_ioerror">Не удалось подключиться к серверу</string>
 	<string name="account_setup_failed_protocol_unsupported">Введен неправильный адрес сервера или сервер запрашивает версию протокола, которая не поддерживается в почте</string>
@@ -311,7 +314,9 @@
 	<string name="mailbox_settings_mailbox_check_frequency_label">Частота проверки</string>
 	<string name="mailbox_settings_mailbox_sync_window_label">Период синхронизации</string>
 	<string name="mailbox_shortcut_picker_title">Выберите папку</string>
-	<string name="manager_activity_last_sync_format">Последняя синхронизация: \n%1$s\n%2$s</string>
+	<string name="manager_activity_last_sync_format">"Последняя синхронизация: 
+%1$s
+%2$s"</string>
 	<string name="manager_do_not_upload">Не загружать</string>
 	<string name="manager_list_switcher_completed_format">Завершенные загрузки [%d]</string>
 	<string name="manager_list_switcher_pending_format">Незавершенные загрузки [%d]</string>
@@ -340,11 +345,23 @@
 	<string name="message_compose_error_invalid_email">Некоторые адреса электронной почты являются недопустимыми</string>
 	<string name="message_compose_error_no_recipients">Добавьте хотя бы одного получателя</string>
 	<string name="message_compose_from_label">От:</string>
-	<string name="message_compose_fwd_header_fmt">\n\n-------- Исходное сообщение --------\nТема: %1$s\nОт: %2$s\nКому: %3$s\nКопия: %4$s\n\n</string>
+	<string name="message_compose_fwd_header_fmt">"
+
+-------- Исходное сообщение --------
+Тема: %1$s
+От: %2$s
+Кому: %3$s
+Копия: %4$s
+
+"</string>
 	<string name="message_compose_include_quoted_text_checkbox_label">Включить исходный текст в ответ</string>
 	<string name="message_compose_insert_quick_response_list_title">Вставка быстрого ответа</string>
 	<string name="message_compose_quoted_text_label">Цитируемый текст</string>
-	<string name="message_compose_reply_header_fmt">\n\n%s писал:\n\n</string>
+	<string name="message_compose_reply_header_fmt">"
+
+%s писал:
+
+"</string>
 	<string name="message_compose_subject_hint">Тема</string>
 	<string name="message_compose_to_hint">Получатели</string>
 	<string name="message_decode_error">При расшифровке сообщения произошла ошибка</string>

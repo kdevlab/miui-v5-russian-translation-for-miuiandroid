@@ -11,7 +11,8 @@
 	<string name="apply_lockscreen_paper_tips">Работает не стандартный экран блокировки, новые обои на нем могут не смениться</string>
 	<string name="apply_theme_no_select_message">Пожалуйста, выберите компоненты</string>
 	<string name="backup_preference_title">Резервное копирование</string>
-	<string name="backup_theme_dialog_message">Тема будет сохранена в \n%1$s</string>
+	<string name="backup_theme_dialog_message">"Тема будет сохранена в 
+%1$s"</string>
 	<string name="backup_theme_dialog_ok">ОК</string>
 	<string name="backup_theme_name">Моя тема</string>
 	<string name="backup_theme_progress_message">Сохранение...</string>
@@ -55,13 +56,16 @@
 	<string name="resource_buy">"Купить "</string>
 	<string name="resource_can_not_selected">%1$s не может быть выбран!</string>
 	<string name="resource_comment_account_need_activitied">Ваш аккаунт не активирован, хотите активировать сейчас?</string>
-	<string name="resource_comment_count">Рейтинг: %1$s \nОтзывов: %2$s \nВерсия: %3$s</string>
+	<string name="resource_comment_count">"Рейтинг: %1$s 
+Отзывов: %2$s 
+Версия: %3$s"</string>
 	<string name="resource_comment_description">%1$s отзыв %2$s:%3$s:%4$s</string>
 	<string name="resource_comment_edit_comment">Добавить отзыв</string>
 	<string name="resource_comment_edit_comment_waiting">Проверка ваших отзывов к этой теме...</string>
 	<string name="resource_comment_edit_text_default">Написать отзыв</string>
 	<string name="resource_comment_edit_title">Отзывы к \"%1$s\"</string>
-	<string name="resource_comment_entry_tips">Отзывов: %1$s. \nНажмите, чтобы посмотреть.</string>
+	<string name="resource_comment_entry_tips">"Отзывов: %1$s. 
+Нажмите, чтобы посмотреть."</string>
 	<string name="resource_comment_expand_full_text">Показать весь текст▼</string>
 	<string name="resource_comment_invalid">Нажмите на звездочку, чтобы оценить</string>
 	<string name="resource_comment_name_default">Пользователь %1$s</string>
@@ -110,7 +114,8 @@
 	<string name="resource_title_select_ringtone">Выберите мелодию</string>
 	<string name="resource_update">Обновить</string>
 	<string name="restore_default_theme_alert">Вы можете стать жертвой подделки темы, перейдите в магазин тем, чтобы купить или повторно загрузить тему.</string>
-	<string name="sdcard_status_changed_dialog_message">Требуется выход.\nПожалуйста, откройте это приложение еще раз, для обновления ресурсов.</string>
+	<string name="sdcard_status_changed_dialog_message">"Требуется выход.
+Пожалуйста, откройте это приложение еще раз, для обновления ресурсов."</string>
 	<string name="sdcard_status_changed_dialog_title">Статус SD-карты изменился</string>
 	<string name="short_ringtone_resource">Короткие</string>
 	<string name="theme_another_import_running">Процесс импорта уже запущен, попробуйте позже</string>
