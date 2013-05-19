@@ -106,7 +106,7 @@
 	<string name="micloud_account_name">Xiaomi</string>
 	<string name="micloud_account_not_actived">Аккаунт не активирован</string>
 	<string name="micloud_active_email_sent_1">Мы отправили вам письмо с ссылкой активации на почту:</string>
-	<string name="micloud_active_email_sent_2" />
+	<string name="micloud_active_email_sent_2">""</string>
 	<string name="micloud_active_email_visit">Посетите %s</string>
 	<string name="micloud_activing_account">Активация аккаунта</string>
 	<string name="micloud_click_email">Нажмите на ссылку в письме активации для активации аккаунта Xiaomi</string>

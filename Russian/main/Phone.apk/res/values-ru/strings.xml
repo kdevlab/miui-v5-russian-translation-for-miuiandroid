@@ -265,7 +265,7 @@
 	<string name="confirm_pin_hint_miui">Подтвердите новый PIN-код</string>
 	<string name="connect_disconnect_vibrate_none_miui">Не вибрировать</string>
 	<string name="connect_disconnect_vibrate_normal_miui">Нормальный</string>
-	<string name="connect_disconnect_vibrate_summary_miui" />
+	<string name="connect_disconnect_vibrate_summary_miui">""</string>
 	<string name="connect_disconnect_vibrate_title_miui">Уровень вибрации, при приеме/завершении звонка</string>
 	<string name="connect_disconnect_vibrate_weak_miui">Слабо вибрировать</string>
 	<string name="connect_later">Не удается подключиться к этой сети. Повторите попытку позже.</string>
@@ -847,7 +847,7 @@
 	<string name="respond_via_sms_confirmation_format">Сообщение отправлено на номер %s.</string>
 	<string name="respond_via_sms_custom_message">Собственное сообщение...</string>
 	<string name="respond_via_sms_edittext_dialog_title">Быстрый ответ</string>
-	<string name="respond_via_sms_setting_summary" />
+	<string name="respond_via_sms_setting_summary">""</string>
 	<string name="respond_via_sms_setting_title">Быстрые ответы</string>
 	<string name="respond_via_sms_setting_title_2">Изменить быстрые ответы</string>
 	<string name="response_error">Неожиданный отклик сети</string>
