@@ -53,7 +53,7 @@
 	<string name="app_label">Графический интерфейс системы</string>
 	<string name="battery_low_percent_format">Осталось %d%%</string>
 	<string name="battery_low_subtitle">Батарея разряжается</string>
-	<string name="battery_low_title">Низкий заряд батареи. Подключите зарядное устройство</string>
+	<string name="battery_low_title">Низкий заряд батареи. Подключите зарядное устройство.</string>
 	<string name="battery_low_why">Статистика</string>
 	<string name="bluetooth_tethered">Общий модем доступен через Bluetooth</string>
 	<string name="call_status_dialing">Вызов</string>
@@ -75,7 +75,7 @@
 	<string name="compat_mode_on">Подогнать по размерам экрана</string>
 	<string name="data_usage_disabled_dialog">"Достигнут лимит трафика.
 
-При восстановлении подключения оператор может взимать плату за передачу данных"</string>
+При восстановлении подключения оператор может взимать плату за передачу данных."</string>
 	<string name="data_usage_disabled_dialog_3g_title">Передача данных по каналам 2G и 3G отключена</string>
 	<string name="data_usage_disabled_dialog_4g_title">Передача данных по каналу 4G отключена</string>
 	<string name="data_usage_disabled_dialog_enable">Восстановить подключение</string>
@@ -109,7 +109,7 @@
 	<string name="gps_notification_found_text">Местополож. определено по GPS</string>
 	<string name="gps_notification_searching_text">Поиск GPS</string>
 	<string name="invalid_charger">"Зарядка по USB порту не поддерживается.
-Используйте зарядное устройство из комплекта поставки"</string>
+Используйте зарядное устройство из комплекта поставки."</string>
 	<string name="key_position_custom">Расположение</string>
 	<string name="label_view">Вид</string>
 	<string name="lockscreen_carrier_default">(нет сети)</string>
@@ -136,7 +136,7 @@
 	<string name="notification_icon_filter_settings">Уведомления</string>
 	<string name="notification_icon_filter_settings_loading">Загрузка...</string>
 	<string name="notification_icon_filter_show">Разрешенные приложения</string>
-	<string name="notification_icon_filter_summary">При отключении этой функции в строке состояния будут отображаться иконки уведомлений от всех приложений.</string>
+	<string name="notification_icon_filter_summary">При отключении этой функции в строке состояния будут отображаться иконки уведомлений от всех приложений</string>
 	<string name="notification_icon_filter_title">Скрыть уведомления</string>
 	<string name="notification_otg_gamestick_in">Игровой контроллер подключен</string>
 	<string name="notification_otg_gamestick_out">Игровой контроллер отключен</string>
