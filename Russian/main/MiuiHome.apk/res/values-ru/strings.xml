@@ -64,7 +64,7 @@
 	<string name="gadget_weather_loading">Нет данных о погоде</string>
 	<string name="gadget_weather_low_temp">Мин.</string>
 	<string name="gadget_weather_theme_type">Тип виджета</string>
-	<string name="gadget_weather_time_format">EEE, d MMM</string>
+	<string name="gadget_weather_time_format">EEE, d MMMM</string>
 	<string name="gadget_weather_title_14">Погода</string>
 	<string name="gadget_weather_title_24">Погода</string>
 	<string name="global_search_hint">Нажмите для поиска</string>
