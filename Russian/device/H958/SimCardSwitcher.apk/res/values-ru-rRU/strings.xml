@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Управление SIM-картами</string>
+    <string name="sim_info_title">Информация</string>
+    <string name="no_sim_title">Нет SIM-карт</string>
+    <string name="sim1_title">SIM 1</string>
+    <string name="sim2_title">SIM 2</string>
+    <string name="default_sim_settings">Настройки по умолчанию</string>
+    <string name="voice_call_sim_title">Голосовые вызовы</string>
+    <string name="sms_mms_sim_title">Сообщения</string>
+    <string name="data_connection_sim_title">Передача данных</string>
+    <string name="no_simcard">Нет доступных SIM-карт</string>
+    <string name="sim_turnoff">Выключить</string>
+    <string name="no_sim_summary">Доступные SIM-карты не обнаружены</string>
+    <string name="proximity_calibrate_guide">"Не закрывайие датчик перед калибровкой"</string>
+    <string name="button_calibrate">Калибровать</string>
+    <string name="proximity_calibrate">Калибровка датчика света</string>
+    <string name="calibrate_success">Калибровка завершена!</string>
+    <string name="calibrate_fail">Ошибка калибровки! Проверьте, ничего ли не закрывает сенсор.</string>
+    <string name="system_error">Системная ошибка!</string>
+    <string name="error_guide">"Приложение не поддерживается на данном устройстве.
+Свяжитесь с разработчиком kqstone(kqstone@163.com) или со мной a_Swed@mail.ru"</string>
+    <string name="error_title">Ошибка</string>
+    <string name="menu_about">О приложении</string>
+    <string name="about_content">"Это приложение создано kqstone из "592zn-group" для калибровки датчика света и настройки SIM-карт. Все права защищены.
+Свяжитесь с разработчиком kqstone(kqstone@163.com) или со мной a_Swed@mail.ru для получения детальной информации."</string>
+</resources>
