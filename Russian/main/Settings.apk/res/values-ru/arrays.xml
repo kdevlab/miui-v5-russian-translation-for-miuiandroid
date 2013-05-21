@@ -98,15 +98,6 @@
         <item>Белый</item>
         <item>Фиолетовый</item>
      </string-array>
-     <string-array name="led_color_values">
-        <item>blue</item>
-        <item>red</item>
-        <item>yellow</item>
-        <item>green</item>
-        <item>cyan</item>
-        <item>white</item>
-        <item>\#FFAA00AA</item>
-     </string-array>
      <string-array name="led_freq_entries">
         <item>2 сек.</item>
         <item>3 сек.</item>
@@ -140,14 +131,6 @@
         <item>Розовый</item>
         <item>Лиловый</item>
         <item>Фиолетовый</item>
-     </string-array>
-     <string-array name="mi1_led_color_values">
-        <item>blue</item>
-        <item>red</item>
-        <item>green</item>
-        <item>\#FFFF0033</item>
-        <item>\#FF5500FF</item>
-        <item>\#FFAA00AA</item>
      </string-array>
      <string-array name="msd_pc_system">
         <item>Windows XP или старее</item>
@@ -286,14 +269,6 @@
         <item>Таймаут</item>
         <item>Подключение не удалось</item>
      </string-array>
-     <string-array name="vpn_types_long">
-        <item>PPTP VPN</item>
-        <item>L2TP/IPSec VPN with pre-shared keys</item>
-        <item>L2TP/IPSec VPN with certificates</item>
-        <item>IPSec VPN with pre-shared keys and Xauth authentication</item>
-        <item>IPSec VPN with certificates and Xauth authentication</item>
-        <item>IPSec VPN with certificates and hybrid authentication</item>
-     </string-array>
      <string-array name="wfd_status">
         <item>Устройство подключено, создание сессии...</item>
         <item>Сессия создана</item>
@@ -306,12 +281,6 @@
         <item>Без шифрования</item>
         <item>WPA PSK</item>
         <item>WPA2 PSK</item>
-     </string-array>
-     <string-array name="wifi_eap_method">
-        <item>PEAP</item>
-        <item>TLS</item>
-        <item>TTLS</item>
-        <item>PWD</item>
      </string-array>
      <string-array name="wifi_frequency_band_entries">
         <item>Автоматически</item>
@@ -344,12 +313,6 @@
      <string-array name="wifi_proxy_settings">
         <item>Нет</item>
         <item>Вручную</item>
-     </string-array>
-     <string-array name="wifi_security">
-        <item>@string/wifi_security_none</item>
-        <item>@string/wifi_security_wep</item>
-        <item>@string/wifi_security_psk_generic</item>
-        <item>@string/wifi_security_eap</item>
      </string-array>
      <string-array name="wifi_signal">
         <item>Слабый</item>
