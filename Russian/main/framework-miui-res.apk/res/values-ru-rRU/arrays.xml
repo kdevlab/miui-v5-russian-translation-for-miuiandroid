@@ -1,6 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Merged and sorted with KDev Sorter -->
 <resources>
+     <string-array name="alarm_in_future">
+        <item>Будильник менее чем через минуту</item>
+        <item>Будильник через %1$s</item>
+        <item>Будильник через %2$s</item>
+        <item>Будильник через %1$s %2$s</item>
+        <item>Будильник через %3$s</item>
+        <item>Будильник через %1$s %3$s</item>
+        <item>Будильник через %2$s %3$s</item>
+        <item>Будильник через %1$s %2$s %3$s</item>
+     </string-array>
      <!-- The size of the array does not match! Now: 30 must: 28 -->
      <string-array name="alphabet_table">
         <item>\#</item>

@@ -4,7 +4,6 @@
 	<string name="activate">Включить</string>
 	<string name="activate_fail_notification_title">Пожалуйста, активируйте повторно услугу Xiaomi синхронизации</string>
 	<string name="activating">Активация...</string>
-	<string name="alarm_message_12_hour_formate">h:mm aa</string>
 	<string name="alwaysUsePrompt">Исполь. по умолчанию</string>
 	<string name="android_lockscreen_glogin_instructions">Чтобы разблокировать, войдите в свой аккаунт</string>
 	<string name="arbor_day">""</string>
@@ -253,7 +252,9 @@
 	<string name="country_name_zm">Замбия</string>
 	<string name="country_name_zw">Зимбабве</string>
 	<string name="day_of_month">" %d"</string>
+	<string name="days">%d дн.</string>
 	<string name="delete">Удалить</string>
+	<string name="deprecated_alarm_message_12_hour_formate" />
 	<string name="device_xiaomi">Xiaomi Phone</string>
 	<string name="double_seventh_day">""</string>
 	<string name="emergency_call_string">Экстренные</string>
@@ -295,6 +296,7 @@
 	<string name="group_name_friends">Друзья</string>
 	<string name="heavy_snow">""</string>
 	<string name="hoar_frost_falls">""</string>
+	<string name="hours">%d ч.</string>
 	<string name="incorrect_pincode">Неверный PIN-код</string>
 	<string name="incorrect_pincode_remaining_attempts">Неверный PIN-код. Осталось попыток: %d.</string>
 	<string name="incorrect_pukcode">Неверный PUK-код</string>
@@ -349,6 +351,7 @@ EEEE"</string>
 	<string name="memory_clear_nothing_result">Нет памяти для очистки</string>
 	<string name="memory_clear_result">"Очищено: %1$s
 Доступно: %2$s"</string>
+	<string name="minutes">%d мин.</string>
 	<string name="miui_copyright_title">Авторское право</string>
 	<string name="miui_device_name">MIUI</string>
 	<string name="miui_mibi_license_title">Лицензионное соглашение MiCredit</string>
@@ -397,6 +400,7 @@ EEEE"</string>
 	<string name="provider_sougou">由搜狗号码通用户标注</string>
 	<string name="puk_operation_failed">PUK - операция не удалась.</string>
 	<string name="reboot_confirm">Телефон будет перезагружен</string>
+	<string name="reboot_confirm_title">Вы уверены, что хотите перезагрузить телефон?</string>
 	<string name="reboot_progress">Перезагрузка...</string>
 	<string name="return_to_me_message">Пожалуйста, верните, если я потерял</string>
 	<string name="reverse_all">Очистить выделение</string>
@@ -418,6 +422,7 @@ EEEE"</string>
 	<string name="share">Отправить</string>
 	<string name="short_pincode_error_msg">Пожалуйста, введите 4-8 цифр</string>
 	<string name="short_pukcode_error_msg">Пожалуйста, введите по меньшей мере 8 цифр</string>
+	<string name="shutdown_confirm_title">Вы уверены, что хотите выключить телефон?</string>
 	<string name="sim_account_name">SIM</string>
 	<string name="sim_changed_reactivate_int_notice">Текущая SIM-карта не активирована. Необходима отправка международной SMS для активации услуги Xiaomi синхронизации. Активировать сейчас?</string>
 	<string name="sim_changed_reactivate_notice">Текущая SIM-карта не активирована. Необходима отправка SMS для активации услуги Xiaomi синхронизации. Активировать сейчас?</string>
