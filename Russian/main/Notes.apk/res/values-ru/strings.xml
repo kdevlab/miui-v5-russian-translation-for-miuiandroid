@@ -17,7 +17,7 @@
 
 (заметок: %1$s)"</string>
 	<string name="alert_message_discard_changes">Отменить все действия?</string>
-	<string name="alert_message_edit_anyway">Записка содержит неподдерживаемое содержимое, редактирование может привести к потере данных.</string>
+	<string name="alert_message_edit_anyway">Заметка содержит неизвестные ресурсы, редактирование может привести к потере данных.</string>
 	<string name="alert_title_delete">Удаление заметок</string>
 	<string name="alert_title_discard">Отмена</string>
 	<string name="alert_title_edit_anyway">Вы уверены, что хотите отредактировать, даже если некоторые данные пропадут?</string>
@@ -37,7 +37,7 @@
 	<string name="error_note_not_exist">Заметка отсутствует</string>
 	<string name="error_sdcard_export">Экспорт не удался, проверьте SD-карту!</string>
 	<string name="error_sdcard_unmounted">Экспорт не удался, т.к. SD-карта недоступна!</string>
-	<string name="error_unsupport_content">Эта записка содержит неподдерживаемое содержимое, нажмите сюда для обновления системы</string>
+	<string name="error_unsupport_content">Эта заметка содержит неизвестные ресурсы, нажмите сюда для обновления системы</string>
 	<string name="error_widget_exist_for_send_to_desktop">Эта заметка уже есть на рабочем столе</string>
 	<string name="failed_sdcard_export">Экспорт прерван!</string>
 	<string name="folder_exist">Папка %1$s уже существует, введите другое имя</string>
