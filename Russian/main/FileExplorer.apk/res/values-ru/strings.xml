@@ -80,6 +80,7 @@
 	<string name="empty_dir_cleanup_indication">%s пустых папок</string>
 	<string name="empty_dir_title">Пустые папки</string>
 	<string name="enable_sd_card">В настоящий момента SD-карта подключена к компьютеру и используется, чтобы видеть ее содержимое, отключите режим накопителя</string>
+	<string name="error_filename_too_long">Имя файла слишком длинное</string>
 	<string name="error_info_cant_send_folder">Папка не может быть передана</string>
 	<string name="error_open_file_failed_no_app_found">Не найдено программ для открытия этого файла</string>
 	<string name="fail_to_create_folder">Не удалось создать папку, папка с таким именем уже существует</string>
