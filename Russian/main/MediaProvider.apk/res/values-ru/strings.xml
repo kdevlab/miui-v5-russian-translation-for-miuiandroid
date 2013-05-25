@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Merged and sorted with KDev Sorter -->
+<!-- Builded with CloudBuildr -->
 <resources>
-	<string name="app_label">Хранение мультимедиа</string>
-	<string name="artist_label">Исполнитель</string>
-	<string name="uid_label">Мультимедиа</string>
-	<string name="upgrade_msg">Обновление базы данных мультимедиа...</string>
+     <string name="app_label">Хранение мультимедиа</string>
+     <string name="artist_label">Исполнитель</string>
+     <string name="uid_label">Мультимедиа</string>
+     <string name="upgrade_msg">Обновление базы данных мультимедиа...</string>
 </resources>

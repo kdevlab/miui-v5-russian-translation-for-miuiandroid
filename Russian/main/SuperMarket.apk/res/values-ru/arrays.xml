@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Merged and sorted with KDev Sorter -->
+<!-- Builded with CloudBuildr -->
 <resources>
      <string-array name="permission_description">
         <item>Доступ к грубым расположения источника (таких как базы данных сотовой сети), чтобы определить общее расположение телефона (если возможно). Вредоносное ПО может использовать, чтобы определить, что вы в общем месте.</item>

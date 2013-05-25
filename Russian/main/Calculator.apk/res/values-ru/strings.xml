@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Merged and sorted with KDev Sorter -->
+<!-- Builded with CloudBuildr -->
 <resources>
-	<string name="advanced">Дополнительная панель</string>
-	<string name="app_name">Калькулятор</string>
-	<string name="basic">Основная панель</string>
-	<string name="clear_history">Очистить историю</string>
-	<string name="eDesc">Число Эйлера</string>
-	<string name="error">Ошибка</string>
-	<string name="factorialDesc">Факториал</string>
-	<string name="leftParenDesc">Левая скобка</string>
-	<string name="lgDesc">Логарифм</string>
-	<string name="lnDesc">Натуральный логарифм</string>
-	<string name="minusDesc">Минус</string>
-	<string name="rightParenDesc">Правая скобка</string>
-	<string name="scientific">Научный</string>
-	<string name="sqrtDesc">Квадратный корень</string>
-	<string name="text_copied_toast">Текст скопирован</string>
+     <string name="advanced">Дополнительная панель</string>
+     <string name="app_name">Калькулятор</string>
+     <string name="basic">Основная панель</string>
+     <string name="clear_history">Очистить историю</string>
+     <string name="eDesc">Число Эйлера</string>
+     <string name="error">Ошибка</string>
+     <string name="factorialDesc">Факториал</string>
+     <string name="leftParenDesc">Левая скобка</string>
+     <string name="lgDesc">Логарифм</string>
+     <string name="lnDesc">Натуральный логарифм</string>
+     <string name="minusDesc">Минус</string>
+     <string name="rightParenDesc">Правая скобка</string>
+     <string name="scientific">Научный</string>
+     <string name="sqrtDesc">Квадратный корень</string>
+     <string name="text_copied_toast">Текст скопирован</string>
 </resources>

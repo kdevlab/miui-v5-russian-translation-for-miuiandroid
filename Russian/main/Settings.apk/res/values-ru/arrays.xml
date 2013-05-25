@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Merged and sorted with KDev Sorter -->
+<!-- Builded with CloudBuildr -->
 <resources>
      <string-array name="animator_duration_scale_entries">
-        <item>Анимация отключена</item> 
+        <item>Анимация отключена</item>
         <item>Анимация (масштаб: 0,5x)</item>
         <item>Анимация (масштаб: 1x)</item>
         <item>Анимация (масштаб: 1,5x)</item>
@@ -46,12 +46,12 @@
         <item>Всегда</item>
      </string-array>
      <string-array name="button_light_timeout_entries">
-        <item>1 сек.</item>	
-        <item>2 сек.</item>	
-        <item>5 сек.</item>	
-        <item>10 сек.</item>	
-        <item>20 сек.</item>	
-        <item>Всегда</item>	
+        <item>1 сек.</item>
+        <item>2 сек.</item>
+        <item>5 сек.</item>
+        <item>10 сек.</item>
+        <item>20 сек.</item>
+        <item>Всегда</item>
      </string-array>
      <string-array name="dream_timeout_entries">
         <item>Никогда</item>
@@ -74,6 +74,18 @@
         <item>Крупный</item>
         <item>Огромный</item>
      </string-array>
+     <integer-array name="font_size_preference_preview_size">
+        <item>14</item>
+        <item>18</item>
+        <item>22</item>
+        <item>27</item>
+     </integer-array>
+     <integer-array name="font_size_preference_row_height">
+        <item>75</item>
+        <item>85</item>
+        <item>85</item>
+        <item>110</item>
+     </integer-array>
      <string-array name="haptic_feedback_level_entries">
         <item>Слабый</item>
         <item>Средний</item>

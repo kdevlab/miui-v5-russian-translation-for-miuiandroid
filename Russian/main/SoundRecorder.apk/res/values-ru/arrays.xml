@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!-- Builded with CloudBuildr -->
 <resources>
-    <string-array name="date_entries">
+     <!-- The size of the array does not match! Now: 15 must: 13 -->
+     <string-array name="date_entries">
         <item>0</item>
         <item>1</item>
         <item>2</item>
@@ -15,8 +17,9 @@
         <item>/</item>
         <item>.</item>
         <item>,</item>
-    </string-array>
-    <array name="date_entryValues">
+     </string-array>
+     <!-- The size of the array does not match! Now: 15 must: 13 -->
+     <array name="date_entryValues">
         <item>@drawable/date_0</item>
         <item>@drawable/date_1</item>
         <item>@drawable/date_2</item>
@@ -31,5 +34,153 @@
         <item>@drawable/date_m</item>
         <item>@drawable/date_m</item>
         <item>@drawable/date_m</item>
-    </array>
+     </array>
+     <string-array name="record_type_entries">
+        <item>MP3</item>
+        <item>AMR</item>
+     </string-array>
+     <string-array name="record_type_values">
+        <item>audio/mpeg</item>
+        <item>audio/amr</item>
+     </string-array>
+     <integer-array name="vibration_button">
+        <item>0</item>
+        <item>0</item>
+        <item>5</item>
+        <item>120</item>
+        <item>8</item>
+        <item>-5</item>
+        <item>5</item>
+        <item>0</item>
+        <item>5</item>
+     </integer-array>
+     <integer-array name="vibration_center_button">
+        <item>0</item>
+        <item>0</item>
+        <item>5</item>
+        <item>5</item>
+        <item>10</item>
+        <item>-3</item>
+        <item>10</item>
+        <item>15</item>
+        <item>10</item>
+        <item>-3</item>
+        <item>10</item>
+        <item>25</item>
+        <item>10</item>
+        <item>-3</item>
+        <item>10</item>
+        <item>35</item>
+        <item>10</item>
+        <item>-3</item>
+        <item>10</item>
+        <item>40</item>
+        <item>10</item>
+        <item>-3</item>
+        <item>30</item>
+        <item>120</item>
+        <item>8</item>
+        <item>-5</item>
+        <item>5</item>
+        <item>0</item>
+        <item>150</item>
+        <item>50</item>
+        <item>8</item>
+        <item>-5</item>
+        <item>5</item>
+        <item>0</item>
+        <item>5</item>
+     </integer-array>
+     <integer-array name="vibration_record_play_end">
+        <item>0</item>
+        <item>0</item>
+        <item>5</item>
+        <item>5</item>
+        <item>50</item>
+        <item>-3</item>
+        <item>5</item>
+        <item>10</item>
+        <item>50</item>
+        <item>-3</item>
+        <item>5</item>
+        <item>5</item>
+        <item>50</item>
+        <item>-3</item>
+        <item>5</item>
+        <item>10</item>
+        <item>50</item>
+        <item>-3</item>
+        <item>5</item>
+        <item>5</item>
+        <item>50</item>
+        <item>-3</item>
+        <item>5</item>
+        <item>10</item>
+        <item>50</item>
+        <item>-3</item>
+        <item>5</item>
+        <item>5</item>
+        <item>50</item>
+        <item>-3</item>
+        <item>5</item>
+        <item>10</item>
+        <item>50</item>
+        <item>-3</item>
+        <item>5</item>
+        <item>5</item>
+        <item>50</item>
+        <item>-3</item>
+        <item>5</item>
+        <item>10</item>
+        <item>50</item>
+        <item>-3</item>
+        <item>5</item>
+        <item>5</item>
+        <item>50</item>
+        <item>-3</item>
+        <item>5</item>
+        <item>10</item>
+        <item>50</item>
+        <item>-3</item>
+        <item>5</item>
+        <item>5</item>
+        <item>50</item>
+        <item>-3</item>
+        <item>5</item>
+        <item>10</item>
+        <item>50</item>
+        <item>-3</item>
+        <item>5</item>
+        <item>120</item>
+        <item>8</item>
+        <item>-5</item>
+        <item>5</item>
+        <item>0</item>
+        <item>150</item>
+        <item>60</item>
+        <item>8</item>
+        <item>-5</item>
+        <item>5</item>
+        <item>0</item>
+        <item>5</item>
+        <item>0</item>
+        <item>10</item>
+     </integer-array>
+     <integer-array name="vibration_seek_end">
+        <item>0</item>
+        <item>0</item>
+        <item>5</item>
+        <item>120</item>
+        <item>8</item>
+        <item>-5</item>
+        <item>5</item>
+        <item>0</item>
+        <item>150</item>
+        <item>60</item>
+        <item>8</item>
+        <item>-5</item>
+        <item>5</item>
+        <item>0</item>
+        <item>5</item>
+     </integer-array>
 </resources>

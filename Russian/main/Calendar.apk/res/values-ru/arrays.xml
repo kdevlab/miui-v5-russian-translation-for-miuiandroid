@@ -1,11 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Merged and sorted with KDev Sorter -->
+<!-- Builded with CloudBuildr -->
 <resources>
      <string-array name="availability">
         <item>Занят</item>
         <item>Доступен</item>
         <item>Возможно</item>
      </string-array>
+     <integer-array name="availability_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+     </integer-array>
      <string-array name="buttons_list">
         <item>День</item>
         <item>Неделя</item>
@@ -25,6 +30,11 @@
         <item>Это и будущие мероприятия</item>
         <item>Все мероприятия</item>
      </string-array>
+     <integer-array name="delete_repeating_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+     </integer-array>
      <string-array name="ordinal_labels">
         <item>перв.</item>
         <item>втор.</item>
@@ -79,6 +89,12 @@
         <item>SMS</item>
         <item>Будильник</item>
      </string-array>
+     <integer-array name="reminder_methods_values">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+     </integer-array>
      <string-array name="reminder_minutes_labels">
         <item>по факту</item>
         <item>за 1 минута</item>
@@ -97,6 +113,24 @@
         <item>за 2 дня</item>
         <item>за 1 неделю</item>
      </string-array>
+     <integer-array name="reminder_minutes_values">
+        <item>0</item>
+        <item>1</item>
+        <item>5</item>
+        <item>10</item>
+        <item>15</item>
+        <item>20</item>
+        <item>25</item>
+        <item>30</item>
+        <item>45</item>
+        <item>60</item>
+        <item>120</item>
+        <item>180</item>
+        <item>720</item>
+        <item>1440</item>
+        <item>2880</item>
+        <item>10080</item>
+     </integer-array>
      <string-array name="response_labels1">
         <item>(Нет ответа)</item>
         <item>Да</item>

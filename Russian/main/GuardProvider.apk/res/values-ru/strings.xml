@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Merged and sorted with KDev Sorter -->
+<!-- Builded with CloudBuildr -->
 <resources>
-	<string name="app_name">Антивирус</string>
-	<string name="hello_world">Привет мир!</string>
-	<string name="menu_settings">Настройки</string>
+     <string name="app_name">Антивирус</string>
+     <string name="hello_world">Привет мир!</string>
+     <string name="menu_settings">Настройки</string>
 </resources>
