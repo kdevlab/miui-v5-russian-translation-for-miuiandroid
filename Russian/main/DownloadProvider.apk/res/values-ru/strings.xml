@@ -29,7 +29,7 @@
      <string name="permlab_downloadManagerAdvanced">Расширенные функции менеджера загрузки</string>
      <string name="permlab_downloadWithoutNotification">загружать файлы без оповещения</string>
      <string name="permlab_seeAllExternal">Просмотреть все загрузки на SD-карту</string>
-     <string name="wifi_recommended_body">"Если загрузить файл сейчас, батарея может быстро разрядиться. Также не исключено превышение трафика и, как результат, увеличение расходов на связь:
+     <string name="wifi_recommended_body" formatted="false">"Если загрузить файл сейчас, батарея может быстро разрядиться. Также не исключено превышение трафика и, как результат, увеличение расходов на связь:
 
  %s（%s)
 

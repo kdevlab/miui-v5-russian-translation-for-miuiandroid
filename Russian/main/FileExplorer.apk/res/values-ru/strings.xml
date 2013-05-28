@@ -206,7 +206,7 @@
      <string name="rename_description">Переименовывается···</string>
      <string name="rename_failed">Переименование 《%1$s》 не удалось</string>
      <string name="restart_cleaning">Повтор</string>
-     <string name="scanning">Сканирование %d из %d...</string>
+     <string name="scanning" formatted="false">Сканирование %d из %d...</string>
      <string name="scanning_on_going">Сканирование...</string>
      <string name="sd_card_available">Свободно: %1$s</string>
      <string name="sd_card_size">SD-карта: %1$s</string>
