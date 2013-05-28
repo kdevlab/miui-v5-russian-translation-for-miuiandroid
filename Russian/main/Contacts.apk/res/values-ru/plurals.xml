@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
+-<!-- Builded with CloudBuildr -->
 <resources>
      <plurals name="group_add_success_toast">
         <item quantity="other">Успешно добавлено %1$d контактов</item>
