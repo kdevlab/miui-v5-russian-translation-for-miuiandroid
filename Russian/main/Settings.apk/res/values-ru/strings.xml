@@ -131,7 +131,7 @@
      <string name="application_item_disable">Отключить</string>
      <string name="application_item_permission">Разрешить</string>
      <string name="application_size_label">Приложение</string>
-     <string name="applications_settings">Управление приложениями</string>
+     <string name="applications_settings">Приложения</string>
      <string name="applications_settings_header">Настройки приложения</string>
      <string name="applications_settings_summary">Управление приложениями, настройка клавиш быстрого запуска</string>
      <string name="ask_compatibility">Спрашивать при запуске</string>
@@ -477,7 +477,7 @@
      <string name="computing_size">Вычисление…</string>
      <string name="config_list_label">Настроенные сети</string>
      <string name="configure_input_method">Настройка методов ввода</string>
-     <string name="confirm_erase">Подтвердить удаление</string>
+     <string name="confirm_erase">Удалить</string>
      <string name="confirm_new_backup_pw_prompt">Подтвердите пароль</string>
      <string name="contributors_title">Участники</string>
      <string name="controls_label">Элементы управления</string>
@@ -1020,7 +1020,7 @@
      <string name="manage_device_admin_summary">Просмотрите или отключите администраторов устройств</string>
      <string name="manage_space_text">Управление местом</string>
      <string name="manageapplications_settings_summary">Управление установленными приложениями и их удаление</string>
-     <string name="manageapplications_settings_title">Управление приложениями</string>
+     <string name="manageapplications_settings_title">Приложения</string>
      <string name="manually_add_network">Добавить сеть</string>
      <string name="master_clear_accounts">"
 
@@ -1356,8 +1356,8 @@
      <string name="privacy_mode_enable_title">Режим гостя</string>
      <string name="privacy_protect_title">Защита</string>
      <string name="privacy_relative">Безопасность</string>
-     <string name="privacy_settings">Восстановление и сброс</string>
-     <string name="privacy_settings_title">Восстановление и сброс</string>
+     <string name="privacy_settings">Бэкап и сброс</string>
+     <string name="privacy_settings_title">Бэкап и сброс</string>
      <string name="private_sms_need_to_unlock">Введите графический ключ</string>
      <string name="private_sms_recording_intro_header">Нарисуйте шаблон для создания блокировки</string>
      <string name="private_sms_reset_by_account">Войдите в аккаунт Xiaomi для восстановления пароля</string>
