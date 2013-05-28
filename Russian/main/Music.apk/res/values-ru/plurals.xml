@@ -22,8 +22,8 @@
         <item quantity="one">альбом</item>
      </plurals>
      <plurals name="Nalbums_format">
-        <item quantity="other">%d альбомов</item>
-        <item quantity="one">1 альбом</item>
+        <item quantity="other">Альбомов: %d</item>
+        <item quantity="one">Альбомов: 1</item>
      </plurals>
      <plurals name="Nartists">
         <item quantity="other">исполнители</item>
