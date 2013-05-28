@@ -31,8 +31,7 @@
      <string name="download_error">Ошибка</string>
      <string name="download_error_insufficient_space">Недостаточно места</string>
      <string name="download_in_process">В процессе</string>
-     <!-- The count of MNPS does not match! Now: 0 must: 1 -->
-     <string name="download_info_count_deleted_tasks">Список загрузок успешно очищен</string>
+     <string name="download_info_count_deleted_tasks">%s загрузок удалено</string>
      <string name="download_info_start_deleted_tasks">Подготовка к удалению</string>
      <string name="download_no_application_title">Не могу открыть файл</string>
      <string name="download_paused">Загрузка приостановлена</string>

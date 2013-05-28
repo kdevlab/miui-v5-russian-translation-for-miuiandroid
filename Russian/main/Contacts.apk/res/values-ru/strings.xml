@@ -97,8 +97,7 @@
      <string name="callrecordview_menu_delete_accepted">Очистить журнал входящих вызовов</string>
      <string name="callrecordview_menu_delete_all">Очистить журнал</string>
      <string name="callrecordview_menu_delete_called">Очистить журнал исходящих вызовов</string>
-     <!-- The count of MNPS does not match! Now: 0 must: 1 -->
-     <string name="callrecordview_menu_delete_confirm">Очистить журнал вызовов?</string>
+     <string name="callrecordview_menu_delete_confirm">Подтвердить %s?</string>
      <string name="callrecordview_menu_delete_missed">Очистить пропущенные вызовы</string>
      <string name="callrecordview_menu_delete_new">Удалить из журнала вызовов новые контакты</string>
      <string name="callrecordview_menu_delete_one">Удалить из журнала вызовов</string>
@@ -381,8 +380,7 @@
      <string name="hint_distance">держать дистанцию</string>
      <string name="hint_findContacts">Найти контакты</string>
      <string name="hint_more_contact">использовать слияние контакта, при его выходе из контактов дубликатов</string>
-     <!-- The count of MNPS does not match! Now: 0 must: 1 -->
-     <string name="hint_search_contacts">Поиск контактов</string>
+     <string name="hint_search_contacts">Контактов: %d</string>
      <string name="hint_search_emails">Почт: %d</string>
      <string name="hint_search_phone_numbers">Телефонов: %d</string>
      <string name="ic_menu_back">Назад</string>

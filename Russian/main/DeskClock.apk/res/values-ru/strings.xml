@@ -16,8 +16,7 @@
      <string name="alarm_label_hint">Введите описание будильника</string>
      <string name="alarm_list_title">Будильник</string>
      <string name="alarm_notify_snooze_label">Будильник отложен до %s</string>
-     <!-- The count of MNPS does not match! Now: 0 must: 1 -->
-     <string name="alarm_notify_snooze_text">Будильник отложен. Нажмите, чтобы выключить.</string>
+     <string name="alarm_notify_snooze_text">Нажмите для отмены %s</string>
      <string name="alarm_notify_text">Отложить/выключить будильник</string>
      <string name="alarm_repeat">Дни недели</string>
      <string name="alarm_screen">Тема будильника</string>

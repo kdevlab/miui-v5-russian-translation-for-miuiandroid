@@ -559,10 +559,8 @@
      <string name="upload_state_uploading">Загрузка</string>
      <string name="upload_state_waiting_retry">Ожидание повторной попытки</string>
      <string name="upload_state_waiting_wifi">Ожидание подключения Wi-Fi</string>
-     <!-- The count of MNPS does not match! Now: 0 must: 1 -->
-     <string name="uploading_for">" для пользователя "</string>
-     <!-- The count of MNPS does not match! Now: 0 must: 1 -->
-     <string name="uploading_to">Загрузка в</string>
+     <string name="uploading_for">" для "<b>%s</b></string>
+     <string name="uploading_to">Загрузка в <b>%s</b></string>
      <string name="waitinf_for_sync_message_1">Ожидание синхронизации</string>
      <string name="waitinf_for_sync_message_2">Ваши письма скоро загрузятся</string>
      <string name="widget_all_mail">Все входящие</string>

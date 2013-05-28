@@ -119,10 +119,8 @@
      <string name="sdcard_status_changed_dialog_title">Статус SD-карты изменился</string>
      <string name="short_ringtone_resource">Короткие</string>
      <string name="theme_another_import_running">Процесс импорта уже запущен, попробуйте позже</string>
-     <!-- The count of MNPS does not match! Now: 0 must: 1 -->
-     <string name="theme_changed_failed_message">Не установлено</string>
-     <!-- The count of MNPS does not match! Now: 0 must: 1 -->
-     <string name="theme_changed_message">Установлено</string>
+     <string name="theme_changed_failed_message">Ошибка применения темы: %1$s.</string>
+     <string name="theme_changed_message">Тема применена %1$s.</string>
      <string name="theme_changing_dialog_title">Применение темы. Пожалуйста, подождите...</string>
      <string name="theme_component_title_alarm">Будильник</string>
      <string name="theme_component_title_alarmstyle">Будильник</string>
