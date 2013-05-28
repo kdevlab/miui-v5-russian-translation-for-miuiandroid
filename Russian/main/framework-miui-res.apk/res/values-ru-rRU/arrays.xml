@@ -76,13 +76,4 @@
         <item>Ю</item>
         <item>Я</item>
      </string-array>
-     <integer-array name="detailed_am_pm_segments">
-        <item>0</item>
-        <item>1</item>
-        <item>6</item>
-        <item>12</item>
-        <item>13</item>
-        <item>18</item>
-        <item>19</item>
-     </integer-array>
 </resources>
