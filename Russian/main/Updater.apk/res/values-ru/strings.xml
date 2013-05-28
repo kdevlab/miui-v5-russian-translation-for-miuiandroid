@@ -141,6 +141,7 @@
      <string name="update_monthly_build_only">Только ежемесячные обновления</string>
      <string name="update_sad">Грустный</string>
      <string name="update_success">Обновление успешно завершено!</string>
+     <!-- The count of MNPS does not match! Now: 0 must: 1 -->
      <string name="update_success_body">Поздравляем, система успешно обновлена</string>
      <string name="update_success_title">Обновление</string>
      <string name="upgrade_close">Закрыть</string>

@@ -206,6 +206,7 @@
      <string name="rename_description">Переименовывается···</string>
      <string name="rename_failed">Переименование 《%1$s》 не удалось</string>
      <string name="restart_cleaning">Повтор</string>
+     <!-- The count of MNPS does not match! Now: 0 must: 2 -->
      <string name="scanning">Сканирование...</string>
      <string name="scanning_on_going">Сканирование...</string>
      <string name="sd_card_available">Свободно: %1$s</string>
@@ -252,7 +253,9 @@
      <string name="trash_box_link">Посетите pan.xiaomi.com для очистки корзины</string>
      <string name="trash_box_message1">Вы можете удалить не нужные файлы для освобождения места</string>
      <string name="trash_box_message2">Вы можете удалить не нужные файлы или очистить корзину для освобождения места</string>
+     <!-- The count of MNPS does not match! Now: 0 must: 1 -->
      <string name="ui_bar_txt_download_progress">Загрузка...</string>
+     <!-- The count of MNPS does not match! Now: 0 must: 1 -->
      <string name="ui_bar_txt_upload_progress">Отправка...</string>
      <string name="ui_filechange_btn_download">Скачать файлы</string>
      <string name="ui_filechange_btn_upload">Загрузить файлы</string>

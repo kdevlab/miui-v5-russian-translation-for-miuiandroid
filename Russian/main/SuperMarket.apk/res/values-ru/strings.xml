@@ -16,7 +16,9 @@
      <string name="category_tag">Категории</string>
      <string name="clear_search_record_message">Очистить историю поиска?</string>
      <string name="comment_cannot_comment">Чтобы оставить комментарий, нужно сначала скачать это приложение.</string>
+     <!-- The count of MNPS does not match! Now: 1 must: 2 -->
      <string name="comment_count">Всего %1$s комментариев</string>
+     <!-- The count of MNPS does not match! Now: 2 must: 4 -->
      <string name="comment_description">%1$s%2$1s</string>
      <string name="comment_invalid">Прикоснитесь к звездам, чтобы оценить</string>
      <string name="comment_name_default">Пользователь %1$s</string>
@@ -33,14 +35,18 @@
      <string name="comment_upload_not_logined">Пожалуйста, сначала войдите в аккаунт</string>
      <string name="comment_upload_success">Комментарий отправлен!</string>
      <string name="comment_version_name">(версия %1$s)</string>
+     <!-- The count of MNPS does not match! Now: 1 must: 0 -->
      <string name="connect_fail">Ошибка установки %1$s: ошибка соединения, проверьте подключение к сети</string>
+     <!-- The count of MNPS does not match! Now: 1 must: 0 -->
      <string name="connect_no_fit_fail">Ошибка установки %1$s: установочный пакет не подходит для вашего телефона</string>
      <string name="connecting">Подключение...</string>
      <string name="delta_update">Обновление %1$s</string>
      <string name="description_info">Описание</string>
+     <!-- The count of MNPS does not match! Now: 1 must: 0 -->
      <string name="download_fail">%1$s установка не выполнена: ошибка загрузки</string>
      <string name="download_manager_tag">Менеджер загрузок</string>
      <string name="download_manager_tag_with_nonzero_downloads">Загрузок(%1$s/%2$s)</string>
+     <!-- The count of MNPS does not match! Now: 1 must: 0 -->
      <string name="download_start_fail">Ошибка установки %1$s: не удается выполнить загрузку</string>
      <string name="edit_comment">Комментарий</string>
      <string name="edit_comment_title">Отправить отзыв %1$s</string>
@@ -60,11 +66,14 @@
      <string name="install_btn_continue">Далее</string>
      <string name="install_btn_download_manager">Менеджер загрузок</string>
      <string name="install_btn_ok">ОК</string>
+     <!-- The count of MNPS does not match! Now: 1 must: 0 -->
      <string name="install_fail">%1$s - ошибка установки</string>
      <string name="install_google_base_button">Установить сейчас</string>
      <string name="install_google_base_message">“%1$s” для запуска требует сервисы Google</string>
      <string name="install_google_base_title">Установить сервисы Google</string>
+     <!-- The count of MNPS does not match! Now: 1 must: 0 -->
      <string name="install_hash_fail">%1$s - ошибка установки</string>
+     <!-- The count of MNPS does not match! Now: 1 must: 0 -->
      <string name="install_inconsistent_fail">%1$s - ошибка установки</string>
      <string name="install_missing_shared_library">В системе отсутствуют необходимые компоненты</string>
      <string name="install_no_network_description">Нет сетевого подключения, подключитесь и попробуйте еще раз</string>
@@ -160,6 +169,7 @@
      <string name="rank_tag">Топ</string>
      <string name="rating_button">Голосов: %1$s</string>
      <string name="recommendation_tag">Все</string>
+     <!-- The count of MNPS does not match! Now: 1 must: 0 -->
      <string name="remove_package_timeout_fail">Ошибка установки %1$s: удаление старой версии не удалось, удалите вручную</string>
      <string name="result_notice">Результаты предоставленны сервисом приложений Baidu</string>
      <string name="result_of_clear_history">История поиска успешно очищена</string>
@@ -173,6 +183,7 @@
      <string name="show_all_local_app_with_count">Все приложения (%1$d)</string>
      <string name="size">(%1$s)</string>
      <string name="status_downloading">Скачивание： %1$s%%</string>
+     <!-- The count of MNPS does not match! Now: 1 must: 0 -->
      <string name="system_app_sign_not_match_fail">Ошибка установки %1$s: несовместимая подпись приложения</string>
      <string name="update">Обновить</string>
      <string name="update_all">Обновить все</string>
