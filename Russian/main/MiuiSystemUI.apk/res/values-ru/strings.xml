@@ -255,6 +255,7 @@ d MMMM yyyy"</string>
      <string name="tab_notifications_lable">Уведомления</string>
      <string name="tab_toggles_lable">Переключатели</string>
      <string name="title_usb_accessory">USB-аксессуары</string>
+     <string name="toast_rotation_locked">Экран заблокирован в ландшафтном режиме</string>
      <string name="torch_activity_hint">Фонарик можно быстро включить, удерживая [icon] на экране блокировки</string>
      <string name="torch_activity_name">Фонарик</string>
      <string name="usb_accessory_confirm_prompt">Открыть %1$s когда этот USB-аксессуар подключен?</string>
