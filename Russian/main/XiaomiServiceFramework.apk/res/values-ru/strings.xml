@@ -54,6 +54,7 @@
      <string name="error_expired_summary">Ваш срок заказа истек</string>
      <string name="error_frozen_summary">Ваш аккаунт заморожен</string>
      <string name="error_frozen_title">Аккаунт заморожен</string>
+     <string name="error_giftcard_summary">Не возможно получить информацию о подарочной карте</string>
      <string name="error_has_bought_summary">Вы уже купили этот продукт</string>
      <string name="error_has_bought_title">Повторите покупку</string>
      <string name="error_illegal_order_summary">Произошла ошибка покупки. Пожалуйста, попробуйте снова.</string>
@@ -87,6 +88,16 @@
      <string name="find_password_on_web_msg">Пожалуйста, посетите account.xiaomi.com для получения пароля</string>
      <string name="forget_password">Забыли пароль?</string>
      <string name="frozen">(Заморожен)</string>
+     <string name="giftcard_acitivity_and_denomination">Подарочная карта на %2$s MiCredit от %1$s</string>
+     <string name="giftcard_denom">MiCredit</string>
+     <string name="giftcard_denom_available">MiCredit доступно</string>
+     <string name="giftcard_denom_frozen">MiCredit заморжено</string>
+     <string name="giftcard_empty">Нет подарочной карты</string>
+     <string name="giftcard_expire">%1$s-%2$s-%3$s истекло</string>
+     <string name="giftcard_hint">"Сначала будут переведены MiCredit'ы на подарочную карту
+и недействительные, если просрочено"</string>
+     <string name="giftcard_record">MiCredit получено</string>
+     <string name="giftcard_value">(Подарочная карта на %1$s MiCredit)</string>
      <string name="header_data_and_synchronization">Данные и синхронизация</string>
      <string name="i_know">OK</string>
      <string name="input_password_hint">Введите пароль</string>
@@ -128,6 +139,7 @@
      <string name="micloud_via_sms_alert">Будет отправлено сообщение для подтверждения вашего телефонного номера, продолжить?</string>
      <string name="micloud_welcome_skip_login">Пропустить этот шаг</string>
      <string name="mili_center">MiCredit</string>
+     <string name="my_mili_record">Мой MiCredit</string>
      <string name="next">Далее</string>
      <string name="nobind">Не связан</string>
      <string name="order_price">%1$s MiCredit</string>
@@ -249,17 +261,8 @@
      <string name="user_agreement_p4">Политикой безопасности</string>
      <string name="user_agreement_p5">"Регистрируясь, Вы соглашаетесь с
  "</string>
-     <string name="voucher_btn_exchange">Обмен</string>
-     <string name="voucher_btn_exchange_error">Ошибка</string>
-     <string name="voucher_btn_has_exchanged">Передано</string>
-     <string name="voucher_denom">MiCredit</string>
      <string name="voucher_edit_hint">Пароль</string>
      <string name="voucher_edit_limit">знаков</string>
-     <string name="voucher_empty">Нет карты MiCredit</string>
      <string name="voucher_error_code">Неверный пароль карты MiCredit</string>
-     <string name="voucher_exchange">Обмен</string>
-     <string name="voucher_exchange_count">Обмен (%1$s)</string>
-     <string name="voucher_exchange_success">%1$s обмен MiCredit завершен</string>
-     <string name="voucher_expire">%1$s-%2$s-%3$s истек срок действия</string>
-     <string name="voucher_input">Ввод</string>
+     <string name="voucher_input_password_prompt">Введите пароль</string>
 </resources>

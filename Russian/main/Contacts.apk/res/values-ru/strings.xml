@@ -99,6 +99,7 @@
      <string name="callrecordview_menu_delete_called">Очистить журнал исходящих вызовов</string>
      <string name="callrecordview_menu_delete_confirm">Очистить журнал вызовов?</string>
      <string name="callrecordview_menu_delete_missed">Очистить пропущенные вызовы</string>
+     <string name="callrecordview_menu_delete_new">Удалить из журнала вызовов новые контакты</string>
      <string name="callrecordview_menu_delete_one">Удалить из журнала вызовов</string>
      <string name="callrecordview_menu_delete_stranger">Открыть непринятые вызовы</string>
      <string name="callrecordview_menu_paste">Вставить</string>
@@ -108,6 +109,7 @@
      <string name="callrecordview_menu_show_all">Все</string>
      <string name="callrecordview_menu_show_called">Только исходящие</string>
      <string name="callrecordview_menu_show_missed">Только пропущенные</string>
+     <string name="callrecordview_menu_show_new">Новые контакты</string>
      <string name="callrecordview_menu_show_stranger">Только неизвестные</string>
      <string name="callrecordview_menu_show_title">Отображение вызовов</string>
      <string name="cancel_confirmation_dialog_message">Отменить изменения?</string>
@@ -316,6 +318,8 @@
      <string name="eventLabelsGroup">День рождения</string>
      <string name="event_edit_field_hint_text">Дата</string>
      <string name="export_sim_contact_finish">Экспорт на SIM-карту завершен</string>
+     <string name="export_sim_contact_finish_failure">Недостаточно места, Скопировано: %1$d Не скопировано: %2$d</string>
+     <string name="export_sim_contact_finish_success">Скопировано контактов: %d</string>
      <string name="export_sim_contacts_dialog_message">На SIM-карту можно сохранить %d контактов. Продолжить?</string>
      <string name="export_to_sdcard">На SD-карту</string>
      <string name="export_to_sim">На SIM-карту</string>
@@ -377,6 +381,7 @@
      <string name="hint_findContacts">Найти контакты</string>
      <string name="hint_more_contact">использовать слияние контакта, при его выходе из контактов дубликатов</string>
      <string name="hint_search_contacts">Поиск контактов</string>
+     <string name="hint_search_emails">Почт: %d</string>
      <string name="hint_search_phone_numbers">Телефонов: %d</string>
      <string name="ic_menu_back">Назад</string>
      <string name="ic_menu_done">Готово</string>
