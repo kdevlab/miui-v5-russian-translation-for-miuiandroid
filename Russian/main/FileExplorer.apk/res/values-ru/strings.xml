@@ -252,8 +252,8 @@
      <string name="trash_box_link">Посетите pan.xiaomi.com для очистки корзины</string>
      <string name="trash_box_message1">Вы можете удалить не нужные файлы для освобождения места</string>
      <string name="trash_box_message2">Вы можете удалить не нужные файлы или очистить корзину для освобождения места</string>
-     <string name="ui_bar_txt_download_progress">Загрузка (%1$d файлов осталось)...</string>
-     <string name="ui_bar_txt_upload_progress">Отправка (%1$d файлов осталось)...</string>
+     <string name="ui_bar_txt_download_progress">Скачивание файлов (Осталось: %1$d)...</string>
+     <string name="ui_bar_txt_upload_progress">Загрузка файлов (Осталось: %1$d)...</string>
      <string name="ui_filechange_btn_download">Скачать файлы</string>
      <string name="ui_filechange_btn_upload">Загрузить файлы</string>
      <string name="ui_main_menu_option_task_manage">Обмен файлами</string>

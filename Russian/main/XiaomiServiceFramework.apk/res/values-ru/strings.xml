@@ -94,8 +94,7 @@
      <string name="giftcard_denom_frozen">MiCredit заморжено</string>
      <string name="giftcard_empty">Нет подарочной карты</string>
      <string name="giftcard_expire">%1$s-%2$s-%3$s истекло</string>
-     <string name="giftcard_hint">"Сначала будут переведены MiCredit'ы на подарочную карту
-и недействительные, если просрочено"</string>
+     <string name="giftcard_hint">На подарочную карту будут переведены MiCredit. Через определенный срок они будут недействительны.</string>
      <string name="giftcard_record">MiCredit получено</string>
      <string name="giftcard_value">(Подарочная карта на %1$s MiCredit)</string>
      <string name="header_data_and_synchronization">Данные и синхронизация</string>
