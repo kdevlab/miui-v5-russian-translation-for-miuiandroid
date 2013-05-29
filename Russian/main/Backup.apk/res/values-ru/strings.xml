@@ -39,7 +39,9 @@
      <string name="backup_recently">(Последний)</string>
      <string name="backup_report">Отчет</string>
      <string name="backup_update">Обновить</string>
-     <string name="batch_delete_backup_confirm">Удалить резервные копии?\n\nКопий: %d</string>
+     <string name="batch_delete_backup_confirm">"Удалить резервные копии?
+
+Копий: %d"</string>
      <string name="button_backup">Создать резервную копию</string>
      <string name="button_cancel">Отмена</string>
      <string name="button_finish">Закрыть</string>

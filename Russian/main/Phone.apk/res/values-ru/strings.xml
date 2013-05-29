@@ -1012,7 +1012,8 @@
      <string name="throttle_status_subtext">"%1$s (%2$d٪) из %3$s (максимум)
 Следующий период начнется в течение %4$d дн. (%5$s)"</string>
      <string name="throttle_time_frame">Время передачи данных</string>
-     <string name="throttle_time_frame_subtext">%1$d٪ периода прошло.\nСледующий период начинается через %2$d дней (%3$s)</string>
+     <string name="throttle_time_frame_subtext">"%1$d٪ периода прошло.
+Следующий период начинается через %2$d дней (%3$s)"</string>
      <string name="title_data_settings">Настройки данных</string>
      <string name="transport_title">Протокол</string>
      <string name="tty_mode_entries_full_miui">TTY Full</string>

@@ -109,7 +109,9 @@
      <string name="retry">Повторить</string>
      <string name="save">Сохранить</string>
      <string name="settings_page_adjust_summary_no_carrier">Оператор не настроен, авторегуировка трафика отключена</string>
-     <string name="settings_page_traffic_summary">Доступно: %1$s\nПорог предупреждения: %2$s\nДата начала учета: %3$d</string>
+     <string name="settings_page_traffic_summary">"Доступно: %1$s
+Порог предупреждения: %2$s
+Дата начала учета: %3$d"</string>
      <string name="settings_page_traffic_summary_no_settings">Пакет не установлен, Дата последнего пополнения: %d</string>
      <string name="sms_match_fail">ошибка SMS</string>
      <string name="sms_template_match_fail">Ошибка сопоставления шаблона SMS</string>
