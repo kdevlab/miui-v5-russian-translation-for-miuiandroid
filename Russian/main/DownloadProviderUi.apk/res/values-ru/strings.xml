@@ -6,7 +6,9 @@
      <string name="button_sort_by_size">Сортировать по размеру</string>
      <string name="cancel_download_notice">Отменить уведомление загрузки</string>
      <string name="cancel_running_download">Отмена</string>
-     <string name="confirm_delete_downloads_message">Вы хотите удалить %d загрузок, продолжить?</string>
+     <string name="confirm_delete_downloads_message">"Очистить выбранные загрузки?
+
+Загрузок: %d"</string>
      <string name="confirm_delete_the_download_item_message">Скачанное содержимое будет удалено!</string>
      <string name="confirm_disable_download_only_in_wifi_message">"Выключение этой функции может вызвать сильное потребление мобильного трафика.
 

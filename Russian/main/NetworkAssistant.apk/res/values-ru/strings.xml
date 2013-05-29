@@ -84,7 +84,7 @@
      <string name="notify_carrier_settings_title">Вы не настроили поставщика услуг связи. Настроить сейчас?</string>
      <string name="notify_traffic_settings_cancel_hint">Уведомления и контроль трафика будут отключены. Выйти сейчас?</string>
      <string name="notify_traffic_settings_title">Вы не настроили ваш тарифный план. Настроить сейчас?</string>
-     <string name="overseas_menu_traffic_adjust">Настроить</string>
+     <string name="overseas_menu_traffic_adjust">Настроить трафик</string>
      <string name="overseas_menu_traffic_settings">Предел трафика</string>
      <string name="overseas_unknown_traffic_hint">Предел трафика не настроен. Настроить сейчас?</string>
      <string name="plate_traffic_already_used">Использовано</string>

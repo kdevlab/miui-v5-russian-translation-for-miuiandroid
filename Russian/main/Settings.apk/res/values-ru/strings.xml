@@ -889,7 +889,7 @@
      <string name="internal_format">Очистить внутреннюю память</string>
      <string name="internal_format_summary">Удалить все данные на внутреннем накопителе, такие как музыка и фотографии</string>
      <string name="internal_media_format_button_text">Очистить внутреннюю память</string>
-     <string name="internal_media_format_desc">Очистить внутреннюю память? Вы потеряете все данные и все настройки!</string>
+     <string name="internal_media_format_desc">Очистить внутреннюю память? Все данные будут удалены безвозвратно.</string>
      <string name="internal_media_format_final_desc">Удалить все данные с внутреннего накопителя? Это действие нельзя отменить! Телефон будет перезагружен после удаления всех данных!</string>
      <string name="internal_media_format_title">Очистить внутреннюю память</string>
      <string name="internal_memory">ROM</string>
@@ -1053,7 +1053,7 @@
      <string name="master_clear_title">Сброс настроек</string>
      <string name="media_button">Медиа-кнопки</string>
      <string name="media_format_button_text">Очистить USB накопитель</string>
-     <string name="media_format_desc">Очистить USB накопитель? Вы потеряете все данные на нем!</string>
+     <string name="media_format_desc">Очистить USB накопитель? Все данные будут удалены безвозвратно.</string>
      <string name="media_format_final_button_text">Стереть все</string>
      <string name="media_format_final_desc">Удалить с USB накопителя все файлы без возможности восстановления?</string>
      <string name="media_format_gesture_explanation">Для подтверждения очистки USB накопителя начертите графический ключ.</string>

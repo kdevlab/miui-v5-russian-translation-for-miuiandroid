@@ -60,8 +60,8 @@
      <string name="download_album_settings">Загрузка обложек</string>
      <string name="download_album_summary">Может требовать большой расход трафика. Рекомендуется отключить</string>
      <string name="download_all_album">Загрузить все обложки</string>
-     <string name="download_all_avatar">Скачать аватары исполнителей</string>
-     <string name="download_all_track">Скачать все треки</string>
+     <string name="download_all_avatar">Загрузить аватары исполнителей</string>
+     <string name="download_all_track">Загрузить все треки</string>
      <string name="download_batch_start">Начать загрузку всех</string>
      <string name="download_lyric_settings">Загрузка текстов</string>
      <string name="download_lyric_summary">Загрузка текстов требует небольшой расход трафика. Рекомендуется включить.</string>
@@ -227,7 +227,7 @@
      <string name="sort_by_artist">Исполнители</string>
      <string name="sort_by_track">Сортировать по трекам</string>
      <string name="start_to_download_album">Загрузка обложек для библиотеки треков</string>
-     <string name="start_to_download_avatar">Загрузка аватара исполнителя для Вашей музыкальной библиотеки</string>
+     <string name="start_to_download_avatar">Загрузка аватара исполнителя...</string>
      <string name="streamloadingtext">Подключение к %s</string>
      <string name="track_edit">Трек</string>
      <string name="tracks_title">"Все треки "</string>

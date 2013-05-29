@@ -73,7 +73,7 @@
      <string name="network_error">Не удается подключиться, возможно, из-за проблем с сетью или сервер занят</string>
      <string name="new_update_content_title">Есть новая версия!</string>
      <string name="new_update_download_complete_body">Готово к установке: %s</string>
-     <string name="new_update_downloading_body">Загружается: %s</string>
+     <string name="new_update_downloading_body">Загрузка: %s</string>
      <string name="new_updates_found_notification_title">Новое обновление системы!</string>
      <string name="new_updates_found_title">Поиск обновлений</string>
      <string name="next">Далее</string>
@@ -99,7 +99,7 @@
      <string name="sdcard_is_not_present_dialog_title">Нет SD-карты</string>
      <string name="send_install_log">Отправить журнал</string>
      <string name="send_install_log_error">Не удалось отправить журнал ошибок</string>
-     <string name="share">Поделиться</string>
+     <string name="share">Отпр.</string>
      <string name="share_qq">Поделиться через Tencent Weibo</string>
      <string name="share_sina">Поделиться через Sina Weibo</string>
      <string name="share_update">Поделиться информацией об обновлении системы</string>

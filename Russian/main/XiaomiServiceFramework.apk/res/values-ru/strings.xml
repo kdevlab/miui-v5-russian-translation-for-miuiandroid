@@ -155,17 +155,17 @@
      <string name="paytool_error_install">Установка мобильного плагина безопасности %1$s не удалась</string>
      <string name="paytool_error_msp">%1$s ошибка пополнения</string>
      <string name="paytool_msp_not_installed">Вы не установили плагин защиты %1$s. Установить его сейчас?</string>
-     <string name="paytool_picker_hint">Пожалуйста, выберите сумму пополнения MiCredit</string>
+     <string name="paytool_picker_hint">Выберите сумму пополнения баланса</string>
      <string name="paytool_tenpay">Tenpay</string>
-     <string name="prepaid_china_mobile">Оператор 1</string>
-     <string name="prepaid_china_telcom">Оператор 2</string>
-     <string name="prepaid_china_unicom">Оператор 3</string>
+     <string name="prepaid_china_mobile">China Mobile</string>
+     <string name="prepaid_china_telcom">China Telcom</string>
+     <string name="prepaid_china_unicom">China Unicom</string>
      <string name="prepaid_edit_limit">знаков</string>
      <string name="prepaid_error_card_length">Пожалуйста, введите правильный номер карты предоплаты или пароль</string>
      <string name="prepaid_error_card_number">Введите правильную сумму для пополнения счета</string>
      <string name="prepaid_error_carrier">Пожалуйста, выберите Вашего оператора</string>
-     <string name="prepaid_error_denomination">Пожалуйста, выберите сумму пополнения</string>
-     <string name="prepaid_error_password">Пожалуйста, введите верный пароль карты предоплаты</string>
+     <string name="prepaid_error_denomination">Выберите сумму пополнения</string>
+     <string name="prepaid_error_password">Неверный пароль карты предоплаты</string>
      <string name="prepaid_number_edit_hint">Номер карты предоплаты</string>
      <string name="prepaid_password_edit_hint">Пароль карты предоплаты</string>
      <string name="prepaid_picker_hint_1_1">1.</string>
@@ -261,7 +261,7 @@
      <string name="user_agreement_p5">"Регистрируясь, Вы соглашаетесь с
  "</string>
      <string name="voucher_edit_hint">Пароль</string>
-     <string name="voucher_edit_limit">введите пароль</string>
+     <string name="voucher_edit_limit">только цифры</string>
      <string name="voucher_error_code">Неверный пароль карты MiCredit</string>
      <string name="voucher_input_password_prompt">Введите пароль</string>
 </resources>

@@ -67,7 +67,7 @@
      <string name="uninstall_activity_text">%1$s является частью следующего приложения:</string>
      <string name="uninstall_application_text">Приложение будет удалено</string>
      <string name="uninstall_application_title">Удаление приложения</string>
-     <string name="uninstall_confirm_question">Вы действительно хотите удалить это приложение?</string>
+     <string name="uninstall_confirm_question">Удалить это приложение?</string>
      <string name="uninstall_done">Удаление завершено</string>
      <string name="uninstall_failed">Ошибка при удалении</string>
      <string name="uninstall_failed_device_policy_manager">Не удалось удалить пакет, так как он выбран для администрирования устройства</string>

@@ -82,7 +82,7 @@
      <string name="resource_default">Стандартная мелодия</string>
      <string name="resource_default_name">Ресурс</string>
      <string name="resource_delete_all">Вы уверены, что хотите удалить выбранные ресурсы (%1$d)?</string>
-     <string name="resource_delete_confirm">Вы действительно хотите удалить эти ресурсы?</string>
+     <string name="resource_delete_confirm">Удалить выбранное?</string>
      <string name="resource_detail">Детали</string>
      <string name="resource_download">Скачать</string>
      <string name="resource_downloaded_title">Скачанные</string>
@@ -118,9 +118,9 @@
 Пожалуйста, откройте это приложение еще раз, для обновления ресурсов."</string>
      <string name="sdcard_status_changed_dialog_title">Статус SD-карты изменился</string>
      <string name="short_ringtone_resource">Короткие</string>
-     <string name="theme_another_import_running">Процесс импорта уже запущен, попробуйте позже</string>
-     <string name="theme_changed_failed_message">Ошибка применения темы: %1$s.</string>
-     <string name="theme_changed_message">Тема применена %1$s.</string>
+     <string name="theme_another_import_running">Процесс импорта уже запущен, попробуйте позже.</string>
+     <string name="theme_changed_failed_message">Ошибка применения темы</string>
+     <string name="theme_changed_message">Тема применена</string>
      <string name="theme_changing_dialog_title">Применение темы. Пожалуйста, подождите...</string>
      <string name="theme_component_title_alarm">Будильник</string>
      <string name="theme_component_title_alarmstyle">Будильник</string>

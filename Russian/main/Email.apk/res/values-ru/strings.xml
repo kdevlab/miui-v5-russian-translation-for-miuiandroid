@@ -343,7 +343,7 @@
      <string name="message_compose_cc_hint">Копия</string>
      <string name="message_compose_display_name">%1$s и ещё %2$d</string>
      <string name="message_compose_error_invalid_email">Некоторые адреса электронной почты являются недопустимыми</string>
-     <string name="message_compose_error_no_recipients">Добавьте хотя бы одного получателя</string>
+     <string name="message_compose_error_no_recipients">Получатель не указан</string>
      <string name="message_compose_from_label">От:</string>
      <string name="message_compose_fwd_header_fmt">"
 
