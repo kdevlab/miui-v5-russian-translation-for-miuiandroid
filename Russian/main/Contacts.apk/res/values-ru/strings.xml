@@ -15,7 +15,7 @@
      <string name="addPeopleToGroup">Чтобы добавить контакт в группу, перейдите в режим редактирования группы</string>
      <string name="add_2sec_pause">Добавить 2-сек. паузу</string>
      <string name="add_account">Добавить аккаунт</string>
-     <string name="add_blacklist">Добавить в черный список</string>
+     <string name="add_blacklist">В черный список</string>
      <string name="add_connection_button">Добавить соц. сеть</string>
      <string name="add_contact_dlg_message_fmt">Добавить в контакты \"%s\"?</string>
      <string name="add_field">Добавить поле</string>
@@ -82,7 +82,7 @@
      <string name="call_work">Рабочий тел.</string>
      <string name="call_work_mobile">Рабочий мобильный</string>
      <string name="call_work_pager">Рабочий пейджер</string>
-     <string name="calllog_menu_blacklist">Добавить в черный список</string>
+     <string name="calllog_menu_blacklist">В черный список</string>
      <string name="calllog_menu_edit_before_call">Отредактировать перед вызовом</string>
      <string name="calllog_menu_send_sms">Отправить сообщение</string>
      <string name="callrecordview_item_newcontact">Новый контакт</string>

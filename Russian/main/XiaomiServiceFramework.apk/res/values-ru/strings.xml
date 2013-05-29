@@ -150,7 +150,7 @@
      <string name="pay_record_empty">Нет платежной истории</string>
      <string name="paytool_alipay">Alipay</string>
      <string name="paytool_edit_hint">Сумма пополнения (RMB):</string>
-     <string name="paytool_edit_limit">Менее чем %1$s</string>
+     <string name="paytool_edit_limit">максимум: %1$s</string>
      <string name="paytool_error_denomination">Пожалуйста, введите правильную сумму пополнения</string>
      <string name="paytool_error_install">Установка мобильного плагина безопасности %1$s не удалась</string>
      <string name="paytool_error_msp">%1$s ошибка пополнения</string>
