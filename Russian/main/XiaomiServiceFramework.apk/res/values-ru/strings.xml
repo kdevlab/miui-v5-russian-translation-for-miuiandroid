@@ -205,16 +205,16 @@
      <string name="recharge_denomination">%1$s RMB</string>
      <string name="recharge_hint">1 MiCredit = 5 RMB ~ 25 рублей</string>
      <string name="recharge_notification">Пополнение на %1$s MiCredit</string>
-     <string name="recharge_other">Выберите другой способ оплаты</string>
+     <string name="recharge_other">Другой способ оплаты</string>
      <string name="recharge_pcpay_summary">Поддерживается большее количество способов пополнения</string>
      <string name="recharge_pcpay_title">Пополнение через компьютер</string>
-     <string name="recharge_prepaid_summary">Поддерживаются следующие карты: China Mobile, China Unicom и China Telecom</string>
+     <string name="recharge_prepaid_summary">Только для China Mobile, China Unicom и China Telecom</string>
      <string name="recharge_prepaid_title">Карты оплаты</string>
      <string name="recharge_record">История пополнений</string>
      <string name="recharge_record_empty">Нет истории пополнения</string>
-     <string name="recharge_tenpay_summary">Поддерживается пополнение через Tenpay</string>
+     <string name="recharge_tenpay_summary">Пополнение через Tenpay</string>
      <string name="recharge_tenpay_title">Tenpay</string>
-     <string name="recharge_voucher_summary">Supports recharge by MiCredit cards</string>
+     <string name="recharge_voucher_summary">Пополнение через карты MiCredit</string>
      <string name="recharge_voucher_title">Карты MiCredit</string>
      <string name="reg_by_email_failure">Ошибка регистрации: %1$s</string>
      <string name="reg_failed">Ошибка регистрации</string>
@@ -261,7 +261,7 @@
      <string name="user_agreement_p5">"Регистрируясь, Вы соглашаетесь с
  "</string>
      <string name="voucher_edit_hint">Пароль</string>
-     <string name="voucher_edit_limit">знаков</string>
+     <string name="voucher_edit_limit">введите пароль</string>
      <string name="voucher_error_code">Неверный пароль карты MiCredit</string>
      <string name="voucher_input_password_prompt">Введите пароль</string>
 </resources>
