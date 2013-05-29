@@ -1958,7 +1958,9 @@
      <string name="vibrate_input_devices_summary">Перенаправить вибро на подключенный игровой контроллер</string>
      <string name="vibrate_when_ringing_title">Вибро при звонке</string>
      <string name="virus_scan_app_continue">Продолжить сканирование</string>
-     <!-- The count of MNPS does not match! Now: 1 must: 1 -->
+     <!-- The count of MNPS does not match! Now: 1 must: 1
+	%s: 0 must: 0
+	%d: 1 must: 0 -->
      <!-- Original string: % d software with risks, It is recommended to uninstall -->
      <string name="virus_scan_app_find_risk">Возможно программа %d небезопасна, рекомендуется удалить.</string>
      <string name="virus_scan_app_finish">Готово</string>
@@ -1972,7 +1974,9 @@
      <string name="virus_scan_app_scan_finish">Сканирование завершено</string>
      <string name="virus_scan_app_scanning">Сканирование...</string>
      <string name="virus_scan_app_stop_scan">Остановить сканирование</string>
-     <!-- The count of MNPS does not match! Now: 1 must: 1 -->
+     <!-- The count of MNPS does not match! Now: 1 must: 1
+	%s: 0 must: 0
+	%d: 1 must: 0 -->
      <!-- Original string: Batch uninstall (% d) -->
      <string name="virus_scan_app_uninstall">Пакетное удаление (%d)</string>
      <string name="virus_scan_app_waiting">Подождите...</string>
