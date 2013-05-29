@@ -206,7 +206,7 @@
      <string name="mx_auto_resend_sms_summary">Отправлять сообщения как SMS, когда облачные сообщения не доступны</string>
      <string name="mx_btn_enable">Включить</string>
      <string name="mx_count_dspt">"Облачных сообщений отправлено: 
-SMS (%1$d), MMS (%2$s)"</string>
+SMS (%1$d), MMS (%2$d)"</string>
      <string name="mx_current_status">Статус: в сети</string>
      <string name="mx_dspt">Обмениваться облачными сообщениями могут только пользователи MIUI. При отсутствии интернет соединения сообщения будут отправлены с помощью мобильного оператора.</string>
      <string name="mx_enable">Облачные сообщения</string>
