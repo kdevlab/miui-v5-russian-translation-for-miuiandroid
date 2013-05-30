@@ -38,6 +38,7 @@
      <string name="add_to_other_folder_menu_option">Другая папка</string>
      <string name="add_xiaomi_account_warning">Пожалуйста, войдите в аккаунт Xiaomi</string>
      <string name="added_to_bookmarks">Добавлено в закладки</string>
+     <string name="alert_tips">Этот сайт может представлять угрозу безопасности, пожалуйста будьте осторожными!</string>
      <string name="allow">Разрешить</string>
      <string name="application_name">Браузер</string>
      <string name="autofill_profile_editor_address_line_1">Адресная строка 1:</string>
@@ -97,6 +98,8 @@
      <string name="choosertitle_sharevia">Способ отправки</string>
      <string name="clear">Очистить</string>
      <string name="clear_history">Очистить историю</string>
+     <string name="close_all_tab_alert_message">Вы уверены, что хотите закрыть все вкладки?</string>
+     <string name="close_all_tab_alert_title">Закрытие вкладок</string>
      <string name="containing_folder">Добавить в</string>
      <string name="contextheader_folder_bookmarkcount">Закладок: %d</string>
      <string name="contextheader_folder_empty">Папка пуста</string>
@@ -216,6 +219,10 @@
      <string name="move_to_up_folder">на уровень выше</string>
      <string name="multi_select_title">Выбрано %1$s закладок</string>
      <string name="name">Ярлык</string>
+     <string name="navigation_button_close">Закрыть</string>
+     <string name="navigation_button_newtab">Новая</string>
+     <string name="navigation_button_tab">Вкладки</string>
+     <string name="navigation_button_view">Вид</string>
      <string name="new_folder">Новая папка</string>
      <string name="new_incognito_tab">Новая вкладка (инкогнито)</string>
      <string name="new_tab">Новая вкладка</string>
@@ -295,6 +302,7 @@
      <string name="pref_extras_website_settings">Настройки веб-сайтов</string>
      <string name="pref_extras_website_settings_summary">Дополнительные настройки для отдельных сайтов</string>
      <string name="pref_fling_on_border_enabled">Слайд по границе</string>
+     <string name="pref_fling_on_border_enabled_title_summary">Слайд по границе экрана</string>
      <string name="pref_fling_on_border_operation">Функция при слайде</string>
      <string name="pref_font_size_category">Размер текста</string>
      <string name="pref_force_userscalable">Масштабирование</string>
