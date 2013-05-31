@@ -119,7 +119,7 @@
      <string name="load_channel_in_process">Загрузка списка каналов</string>
      <string name="loading">Загрузка</string>
      <string name="lrc_progress_modify">Настройка скорости прокрутки текста</string>
-     <string name="lrc_progress_modify_helper">Регулировка скорости прокрутки текста путем перетаскивания вверх или вниз</string>
+     <string name="lrc_progress_modify_helper">Регулировка скорости прокрутки текста</string>
      <string name="lrc_search_failed">Текст песни не найден!</string>
      <string name="lrc_searching">Поиск текста песни...</string>
      <string name="lrc_select">Выберите текст</string>

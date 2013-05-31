@@ -30,7 +30,7 @@
      <string name="install_failed">Приложение не установлено</string>
      <string name="install_failed_cpu_abi_incompatible">Процессор телефона не поддерживает это приложение</string>
      <string name="install_failed_file_not_found">Указанный пакет удален до завершения установки</string>
-     <string name="install_failed_inconsistent_certificates">Пакет с таким названием уже установлен и имеет конфликтующую подпись</string>
+     <string name="install_failed_inconsistent_certificates">Подпись обновления не совпадает с подписью установленного приложения. Перед установкой удалите старую версию приложения.</string>
      <string name="install_failed_invalid_apk">Файл поврежден</string>
      <string name="install_failed_msg">Установить приложение %1$s не удалось</string>
      <string name="install_failed_older_sdk">Этот пакет поддерживается только в системе Android более поздних версий</string>
