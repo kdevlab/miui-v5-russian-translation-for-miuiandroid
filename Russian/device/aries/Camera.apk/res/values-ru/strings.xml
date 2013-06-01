@@ -32,7 +32,7 @@
      <string name="contact_address">Адрес</string>
      <string name="contact_birthday">День рождения</string>
      <string name="contact_company">Компания</string>
-     <string name="contact_details">Подробнее:</string>
+     <string name="contact_details">Контакт:</string>
      <string name="contact_email">Почта</string>
      <string name="contact_name">Имя</string>
      <string name="contact_nickname">Ник</string>
@@ -73,11 +73,11 @@
      <string name="error_fail_to_start_audio_capture">Невозможно записать звук: Микрофон может быть занят другим приложением.</string>
      <string name="exposure_time">Время экспозиции</string>
      <string name="file_size">Размер файла</string>
-     <string name="find_market_qrcode">Найти QR-код маркета</string>
-     <string name="find_mecard_qrcode">Найти QR-код визитки</string>
-     <string name="find_other_qrcode">Найти код</string>
-     <string name="find_web_qrcode">Найти QR-код сайта</string>
-     <string name="find_weixin_qrcode">Найти QR-код Weixin</string>
+     <string name="find_market_qrcode">Найден QR-код маркета</string>
+     <string name="find_mecard_qrcode">Найден QR-код контакта</string>
+     <string name="find_other_qrcode">Найден код</string>
+     <string name="find_web_qrcode">Найден QR-код ссылки</string>
+     <string name="find_weixin_qrcode">Найден QR-код Weixin</string>
      <string name="flash">Вспышка</string>
      <string name="flash_off">Вспышка выкл</string>
      <string name="flash_on">Вспышка вкл</string>
@@ -343,7 +343,7 @@
      <string name="pref_video_time_lapse_frame_interval_entry_900">Интервал 30 секунд (900 раз)</string>
      <string name="pref_video_time_lapse_frame_interval_title">Интервал замедленной киносъемки</string>
      <string name="preparing_sd">Подготовка внутреннего хранилища…</string>
-     <string name="qr_code_details">Свойства QR-кода:</string>
+     <string name="qr_code_details">Текст:</string>
      <string name="record_back_pressed_hint">Нажмите снова, чтобы остановить запись</string>
      <string name="resume_playing_message">Возобновить воспроизведение с %s ?</string>
      <string name="resume_playing_restart">Начать сначала</string>
@@ -353,7 +353,7 @@
      <string name="rotate_left">Повернуть влево</string>
      <string name="rotate_right">Повернуть вправо</string>
      <string name="save">Сохранить</string>
-     <string name="scan_qrcode">Скан. QR-кода</string>
+     <string name="scan_qrcode">Сканирование QR-кода</string>
      <string name="secure_access_web_url">Безопасный доступ</string>
      <string name="see_app_details">Подробности о приложении</string>
      <string name="see_qrcode_detals">Свойства</string>
@@ -407,7 +407,7 @@
      <string name="wait">Пожалуйста, ждите...</string>
      <string name="web_url_apk_warning">QR-код содержит приложение для загрузки, что может быть опасно, мы рекомендуем вам использовать маркет для поиска и установки приложений</string>
      <string name="web_url_warning">Веб-сайт в QR-коде может быть опасен, браузер безопасно проверит его для вас. Соблюдайте осторожность</string>
-     <string name="website_details">Свойства сайта:</string>
+     <string name="website_details">Ссылка:</string>
      <string name="weixin_details">Свойства Weixin:</string>
      <string name="white_balance">Баланс белого</string>
      <string name="width">Ширина</string>
