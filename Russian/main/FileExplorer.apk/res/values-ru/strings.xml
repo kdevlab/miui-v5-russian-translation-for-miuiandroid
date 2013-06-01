@@ -124,7 +124,9 @@
      <string name="item_name">Без имени</string>
      <string name="kuaipan_over_space">В вашем KuaiPan нет больше свободного места</string>
      <string name="kuaipan_prompt">KuaiPan</string>
-     <string name="kuaipan_prompt_message">Идет обслуживание сервиса, пожалуйста, попробуйте позже...</string>
+     <string name="kuaipan_prompt_message">"
+ Идет обслуживание сервиса, пожалуйста, попробуйте позже…
+"</string>
      <string name="kuaipan_tech_support">Техническая поддержка: Kingsoft Kuaipan</string>
      <string name="load_err">Ошибка загрузки</string>
      <string name="loading">Загрузка</string>
@@ -235,6 +237,7 @@
      <string name="storage_warning">Внешний носитель не доступен</string>
      <string name="sys_size">Всего: %1$s</string>
      <string name="sys_size_title">Полный объем</string>
+	 <string name="sys_size">Всего памяти: %1$s</string>
      <string name="tab_category">Обзор</string>
      <string name="tab_networkdisk">KuaiPan</string>
      <string name="tab_phone">Телефон</string>
