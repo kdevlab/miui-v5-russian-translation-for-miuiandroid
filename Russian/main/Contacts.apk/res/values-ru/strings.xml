@@ -113,8 +113,8 @@
      <string name="callrecordview_menu_show_stranger">Только неизвестные</string>
      <string name="callrecordview_menu_show_title">Отображение вызовов</string>
      <string name="cancel_confirmation_dialog_message">Отменить изменения?</string>
-     <string name="cancel_export_confirmation_message">Отменить экспорт файла \"%s\"?</string>
-     <string name="cancel_import_confirmation_message">Отменить импорт файла \"%s\"?</string>
+     <string name="cancel_export_confirmation_message">Отменить экспорт \"%s\"?</string>
+     <string name="cancel_import_confirmation_message">Отменить импорт \"%s\"?</string>
      <string name="cancel_import_dialog_message">Вы уверены, что хотите прекратить импорт контактов?</string>
      <string name="cancel_import_dialog_title">Остановить импорт</string>
      <string name="cancel_vcard_import_or_export_failed">Не удалось отменить импорт/экспорт vCard</string>
@@ -136,7 +136,7 @@
      <string name="clearFrequentsConfirmation_title">Очистить частые контакты?</string>
      <string name="clearFrequentsProgress_title">Очистка контактов…</string>
      <string name="clear_default">Удалить настройки по умолчанию</string>
-     <string name="click_close">Коснитесь экрана, чтобы закрыть</string>
+     <string name="click_close">Нажмите, чтобы закрыть</string>
      <string name="cloud_antispam_mark">Спам</string>
      <string name="cloud_antispam_title">Определять спам номера</string>
      <string name="composer_failed_to_get_database_infomation">База данных недоступна</string>
@@ -317,7 +317,7 @@
      <string name="enter_contact_name">Имя контакта</string>
      <string name="eventLabelsGroup">День рождения</string>
      <string name="event_edit_field_hint_text">Дата</string>
-     <string name="export_sim_contact_finish">Экспорт на SIM-карту завершен</string>
+     <string name="export_sim_contact_finish">Экспорт завершен</string>
      <string name="export_sim_contact_finish_failure">"Недостаточно места.
 
 Скопировано: %1$d
@@ -336,8 +336,8 @@
      <string name="exporting_contact_list_message">Контактные данные экспортируются в файл \"%s\"</string>
      <string name="exporting_contact_list_progress" formatted="false">%s из %s контактов</string>
      <string name="exporting_contact_list_title">Экспорт данных контакта</string>
-     <string name="exporting_vcard_canceled_title">Экспорт файла \"%s\" отменен</string>
-     <string name="exporting_vcard_finished_title">Экспорт файла \"%s\" завершен</string>
+     <string name="exporting_vcard_canceled_title">Экспорт отменен: \"%s\"</string>
+     <string name="exporting_vcard_finished_title">Экспорт завершен: \"%s\"</string>
      <string name="external_profile_title">Мой профиль %1$s</string>
      <string name="fail_reason_could_not_initialize_exporter">Не удалось запустить функцию экспорта. Причина: %s.</string>
      <string name="fail_reason_could_not_open_file" formatted="false">Не удалось открыть файл \"%s\". Причина: %s.</string>
@@ -394,13 +394,13 @@
      <string name="imei">IMEI</string>
      <string name="import_all_vcard_string">Импорт всех файлов VCard</string>
      <string name="import_contact_card_button">Импорт</string>
-     <string name="import_failure_no_vcard_file">На SD-карте нет файлов vCard</string>
+     <string name="import_failure_no_vcard_file">На SD-карте нет vCard</string>
      <string name="import_from_other_phone">Из другого телефона</string>
      <string name="import_from_sdcard">С SD-карты</string>
      <string name="import_from_sim">С SIM-карты</string>
-     <string name="import_multiple_vcard_string">Импорт нескольких файлов vCard</string>
+     <string name="import_multiple_vcard_string">Импорт нескольких vCard</string>
      <string name="import_name">имя</string>
-     <string name="import_one_vcard_string">Импорт одного файла vCard</string>
+     <string name="import_one_vcard_string">Импорт файла vCard</string>
      <string name="import_to_xiaomi_account_confirm">Импорт</string>
      <string name="import_to_xiaomi_account_progress_finish">Импорт завершен</string>
      <string name="import_to_xiaomi_account_progress_message">Импортирование...</string>
@@ -412,9 +412,9 @@
      <string name="import_weibo_notification_title">Импортирование контактов sina weibo...</string>
      <string name="import_weibo_notification_title_done">Импортирование контактов sina weibo завершено</string>
      <string name="import_weibo_progress_name">Совпадение \"%1$s\"…</string>
-     <string name="importing_vcard_canceled_title">Импорт файла \"%s\" отменен</string>
+     <string name="importing_vcard_canceled_title">Импорт отменен: \"%s\"</string>
      <string name="importing_vcard_description">Импорт: %s</string>
-     <string name="importing_vcard_finished_title">Импорт файла vCard %s завершен</string>
+     <string name="importing_vcard_finished_title">Импорт завершен: \"%s\"</string>
      <string name="insertContactDescription">Создать контакт</string>
      <string name="insertGroupDescription">Создать группу</string>
      <string name="invalidContactMessage">Контакт удален</string>
@@ -911,9 +911,9 @@
      <string name="use_photo_as_primary2">Использовать как фото контакта к %s</string>
      <string name="user_profile_contacts_list_header">Я</string>
      <string name="vcard_export_request_rejected_message">Запрос на экспорт данных vCard отклонен. Повторите попытку позже.</string>
-     <string name="vcard_export_will_start_message">Экспорт %s начнется в ближайшее время</string>
+     <string name="vcard_export_will_start_message">Экспорт файла %s...</string>
      <string name="vcard_import_failed">Не удалось импортировать данные vCard</string>
-     <string name="vcard_import_request_rejected_message">Запрос на импорт данных vCard отклонен. Повторите попытку позже.</string>
+     <string name="vcard_import_request_rejected_message">Импорт vCard отменен.</string>
      <string name="vcard_import_will_start_message">Импорт %s начнется в ближайшее время</string>
      <string name="vcard_import_will_start_message_with_default_name">Файл будет импортирован в ближайшее время</string>
      <string name="vcard_unknown_filename">контакт</string>

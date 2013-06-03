@@ -18,7 +18,7 @@
      <string name="comment_cannot_comment">Чтобы оставить комментарий, нужно сначала скачать это приложение.</string>
      <string name="comment_count">Всего %1$s оценок %2$s комментариев</string>
      <string name="comment_description">%1$s комментарий к %2$s:%3$s:%4$s</string>
-     <string name="comment_invalid">Прикоснитесь к звездам, чтобы оценить</string>
+     <string name="comment_invalid">Нажмите на звездочки, чтобы оценить.</string>
      <string name="comment_name_default">Пользователь %1$s</string>
      <string name="comment_publish">Отправить</string>
      <string name="comment_sending">Отправка...</string>

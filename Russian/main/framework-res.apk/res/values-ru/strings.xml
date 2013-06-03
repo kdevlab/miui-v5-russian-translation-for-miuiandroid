@@ -422,7 +422,7 @@
      <string name="keyguard_password_enter_puk_code">Введите PUK-код и новый PIN-код</string>
      <string name="keyguard_password_enter_puk_code_for_subscription">Введите PUK и новый PIN-код для подписки</string>
      <string name="keyguard_password_enter_puk_prompt">PUK-код</string>
-     <string name="keyguard_password_entry_touch_hint"><font size="17">Нажмите для ввода пароля</font></string>
+     <string name="keyguard_password_entry_touch_hint">Ввести пароль</string>
      <string name="keyguard_password_pin_failed">PIN ошибка операции!</string>
      <string name="keyguard_password_puk_failed">PUK ошибка операции!</string>
      <string name="keyguard_password_wrong_pin_code">Неверный PIN-код.</string>
@@ -1087,6 +1087,7 @@
      <string name="replace">Заменить</string>
      <string name="report">Отзыв</string>
      <string name="reset">Сбросить</string>
+     <string name="resolver_guide_title">Настройки по умолчанию</string>
      <string name="ringtone_default">Мелодия по умолчанию</string>
      <string name="ringtone_default_with_actual">По умолчанию (%1$s)</string>
      <string name="ringtone_picker_title">Мелодии</string>
@@ -1144,7 +1145,7 @@
      <string name="selectTextMode">Выбрать текст</string>
      <string name="select_character">Введите символ</string>
      <string name="select_input_method">Выберите способ ввода</string>
-     <string name="select_keyboard_layout_notification_message">Нажмите, чтобы выбрать раскладку клавиатуры.</string>
+     <string name="select_keyboard_layout_notification_message">Нажмите для выбора раскладки клавиатуры</string>
      <string name="select_keyboard_layout_notification_title">Выберите раскладку клавиатуры</string>
      <string name="sendText">Выберите действие для текста</string>
      <string name="sending">Отправка...</string>
