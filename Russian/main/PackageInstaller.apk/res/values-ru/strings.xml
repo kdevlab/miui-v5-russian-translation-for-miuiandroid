@@ -17,6 +17,8 @@
      <string name="dlg_app_replacement_statement">"Приложение, которое вы устанавливаете, заменит уже существующее.
 
 Все пользовательские данные будут сохранены."</string>
+     <string name="dlg_app_replacement_statement_with_version">"%1$s (%2$s) заменит установленную версию (%3$s). Данные будут сохранены.
+Уверены, что хотите установить?"</string>
      <string name="dlg_app_replacement_title">Замена приложения</string>
      <string name="dlg_ok">ОК</string>
      <string name="dlg_sys_app_replacement_statement">"Приложение, которое вы устанавливаете - системное. Хотите заменить?
