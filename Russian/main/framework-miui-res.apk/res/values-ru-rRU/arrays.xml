@@ -76,4 +76,17 @@
         <item>Ю</item>
         <item>Я</item>
      </string-array>
+     <string-array name="contact_entries">
+        <item>Имя</item>
+        <item>Ник</item>
+        <item>Телефон</item>
+        <item>E-Mail</item>
+        <item>Организация</item>
+        <item>IM</item>
+        <item>SIP-телефон</item>
+        <item>День рождения</item>
+        <item>Сайт</item>
+        <item>Адрес</item>
+        <item>Заметка</item>
+     </string-array>
 </resources>
