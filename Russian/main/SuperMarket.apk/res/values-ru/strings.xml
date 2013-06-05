@@ -34,8 +34,10 @@
      <string name="comment_upload_success">Комментарий отправлен!</string>
      <string name="comment_version_name">(версия %1$s)</string>
      <string name="connect_fail">Проверьте подключение к сети</string>
+     <string name="connect_no_enough_space">Не хватает места для установки приложения. Пожалуйста, освободите место и попробуйте снова.</string>
      <string name="connect_no_fit_fail">Загрузка не завершена. Нет пакета установки для вашего телефона</string>
      <string name="connecting">Подключение...</string>
+     <string name="data_save_mode_tip">Фотографии отключены</string>
      <string name="delta_update">Обновление %1$s</string>
      <string name="description_info">Описание</string>
      <string name="download_fail">Загрузка не завершена. Ошибка загрузки</string>
@@ -76,6 +78,7 @@
      <string name="install_sign_not_same_btn_remove">Удалить и обновить</string>
      <string name="install_sign_not_same_message">%1$s подписи приложений не совпадают. Перед установкой обновления требуется удалить старую версию приложения. Продолжить?</string>
      <string name="install_sign_not_same_title">Несоответствие подписи</string>
+     <string name="install_start_cleanup">Начать очистку</string>
      <string name="install_storage_not_enough">Установка не завершена. Недостаточно памяти.</string>
      <string name="install_title">Установка приложения</string>
      <string name="install_verification_fail">Установка не завершена. Не удался процессе проверки.</string>
@@ -138,9 +141,10 @@
      <string name="permission_risky_security">Безопасность</string>
      <string name="permissions_expand_title">Другие разрешения</string>
      <string name="permissions_title">Разрешения для %1$s</string>
-     <string name="pref_list_always_enable">Включено</string>
      <string name="pref_list_auto_update">Автообновление</string>
-     <string name="pref_list_data_network">Только по Wi-Fi</string>
+     <string name="pref_list_data_save_mode_always">Никогда</string>
+     <string name="pref_list_data_save_mode_network">Только через Wi-Fi</string>
+     <string name="pref_list_data_save_mode_never">Всегда</string>
      <string name="pref_list_disable">Отключено</string>
      <string name="pref_list_per_day">Ежедневно</string>
      <string name="pref_list_per_week">Еженедельно</string>

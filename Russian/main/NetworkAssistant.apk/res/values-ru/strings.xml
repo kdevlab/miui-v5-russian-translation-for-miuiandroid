@@ -2,6 +2,7 @@
 <!-- Builded with CloudBuildr -->
 <resources>
      <string name="about">О программе</string>
+     <string name="adjust_no_network_update_data_fail">Ошибка обновления данных. Проверьте настройки подключения к сети.</string>
      <string name="adjust_traffic_auto_adjust_hint">Система автоматически регулирует запрашивает и передачу данных регулярно от операторов. Вам нужно настроить информацию об операторах</string>
      <string name="adjust_traffic_auto_adjust_open_hint">Авторегуляция включена, система автоматически контролирует объем поторебляемого трафика</string>
      <string name="adjust_traffic_auto_adjust_title">Авторегуляция трафика</string>
