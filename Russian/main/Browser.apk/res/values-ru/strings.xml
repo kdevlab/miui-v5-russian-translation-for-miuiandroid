@@ -131,7 +131,7 @@
      <string name="delete_multi_bookmarks_alert_title">Вы уверены, что хотите удалить эти закладки (%1$s)?</string>
      <string name="disable_autofill">Отключить автозаполнение</string>
      <string name="do_not_save">Отмена</string>
-     <string name="download_no_sdcard_dlg_msg">Для загрузки файла %s требуется USB-накопитель.</string>
+     <string name="download_no_sdcard_dlg_msg">Для загрузки файла %s требуется USB-накопитель</string>
      <string name="download_no_sdcard_dlg_title">USB-накопитель недоступен</string>
      <string name="download_pending">Начинается загрузка…</string>
      <string name="download_sdcard_busy_dlg_msg">USB-накопитель занят. Чтобы разрешить загрузки, выберите \"Отключить USB-накопитель\" в уведомлении.</string>
@@ -160,9 +160,9 @@
      <string name="file_name">Имя файла</string>
      <string name="file_picker">Обзор</string>
      <string name="file_picker_new_folder">Новая папка</string>
-     <string name="file_picker_sdcard_not_found">SD-карта не обнаружена, пожалуйста проверьте устройство</string>
-     <string name="filename_empty_alert_message">"Имя файла не может быть пустым"</string>
-     <string name="filename_illegal_alert_message">Имя файла содержит недопустимые символы, они были удалены автоматически.</string>
+     <string name="file_picker_sdcard_not_found">SD-карта не обнаружена. Пожалуйста проверьте устройство.</string>
+     <string name="filename_empty_alert_message">Имя файла не может быть пустым</string>
+     <string name="filename_illegal_alert_message">Имя файла содержит недопустимые символы. Они были удалены автоматически.</string>
      <string name="find_on_page">Найти на странице</string>
      <string name="folder_name">Имя папки</string>
      <string name="forward">Вперед</string>
@@ -239,12 +239,12 @@
      <string name="new_tab">Новая вкладка</string>
      <string name="no_subfolders">Нет подпапок</string>
      <string name="not_remind_again">Больше не напоминать</string>
-     <string name="notif_install_successful">Загрузка была завершена.</string>
+     <string name="notif_install_successful">Загрузка была завершена</string>
      <string name="ok">ОК</string>
      <string name="open_all_bookmarks">Открыть все</string>
      <string name="open_all_in_new_window">Открыть все в новых вкладках</string>
      <string name="open_bookmark">Открыть</string>
-     <string name="open_history_group_in_new_window">открыть все историю в новом окне</string>
+     <string name="open_history_group_in_new_window">открыть всю историю в новом окне</string>
      <string name="open_history_most_visited_group_in_new_window">открыть все самые посещаемые сайты</string>
      <string name="other_bookmarks">Другие закладки</string>
      <string name="page_info">Информация о странице</string>
@@ -261,7 +261,7 @@
      <string name="pref_autofill_enabled_summary">Быстрое заполнение веб-форм</string>
      <string name="pref_autofill_profile_editor">Текст автозаполнения</string>
      <string name="pref_autofill_profile_editor_summary">Настроить текст для автозаполнения веб-форм</string>
-     <string name="pref_autologin_progress">Вход в Сайты Google с помощью аккаунта %s</string>
+     <string name="pref_autologin_progress">Вход на сайты Google с помощью аккаунта %s</string>
      <string name="pref_autologin_title">Автоматический вход в систему</string>
      <string name="pref_clear_cache_for_exit">Очищать кэш</string>
      <string name="pref_clear_history_for_exit">Очищать историю</string>
@@ -305,7 +305,7 @@
      <string name="pref_development_trace">Включить трассировку</string>
      <string name="pref_development_viewport">Широкий экран</string>
      <string name="pref_development_visual_indicator">Включить визуальный индикатор</string>
-     <string name="pref_exit_on_closing_last_tab_enabled_summary">Закрывать вкладки при выходе из браузера. Снимите галочку, чтобы начинать с домашней страницы</string>
+     <string name="pref_exit_on_closing_last_tab_enabled_summary">Закрывать вкладки при выходе из браузера. Снимите галочку, чтобы начинать с домашней страницы.</string>
      <string name="pref_exit_on_closing_last_tab_enabled_title">Закрытие вкладок</string>
      <string name="pref_extras_reset_default">Сброс настроек</string>
      <string name="pref_extras_reset_default_dlg">Восстановить настройки по умолчанию?</string>
@@ -384,8 +384,8 @@
      <string name="pref_text_zoom">Масштабирование текста</string>
      <string name="pref_ua_string">Агент пользователя</string>
      <string name="pref_ua_title">Настройки UserAgent</string>
-     <string name="pref_use_instant_search">Google Живой поиск</string>
-     <string name="pref_use_instant_search_summary">В Живом поиске результаты появляются прямо при вводе текста (возможно увеличение объема передаваемых данных)</string>
+     <string name="pref_use_instant_search">Живой поиск Google</string>
+     <string name="pref_use_instant_search_summary">В живом поиске результаты появляются прямо при вводе текста (возможно увеличение объема передаваемых данных)</string>
      <string name="pref_video_preload_dialogtitle">Кеширование видео</string>
      <string name="pref_video_preload_summary">"
 Разрешить браузеру предварительно загружать видео файлы, если это возможно"</string>
@@ -412,7 +412,7 @@
      <string name="return_to_homepage">Домашняя страница</string>
      <string name="save">ОК</string>
      <string name="save_dialog_title">Сохранить</string>
-     <string name="save_file_already_exist_alert_message">Файл уже существует, перезаписать его?</string>
+     <string name="save_file_already_exist_alert_message">Файл уже существует. Перезаписать его?</string>
      <string name="save_file_already_exist_alert_title">Внимание</string>
      <string name="save_to_bookmarks">Добавить закладку</string>
      <string name="saving_snapshot">Сохраняется...</string>
