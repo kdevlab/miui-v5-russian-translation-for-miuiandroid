@@ -84,6 +84,7 @@
      <string name="bookmark_url">Адрес</string>
      <string name="bookmark_url_not_valid">Неправильный URL</string>
      <string name="bookmarks">Закладки</string>
+     <string name="bookmarks_content_is_null">Пусто</string>
      <string name="bookmarks_management">Закладки</string>
      <string name="bookmarks_root_folder">Корневая папка</string>
      <string name="bookmarks_search">Браузер</string>
@@ -98,6 +99,7 @@
      <string name="choosertitle_sharevia">Способ отправки</string>
      <string name="clear">Очистить</string>
      <string name="clear_history">Очистить историю</string>
+     <string name="clear_history_group">Очистить всю историю</string>
      <string name="close_all_tab_alert_message">Вы уверены, что хотите закрыть все вкладки?</string>
      <string name="close_all_tab_alert_title">Закрытие вкладок</string>
      <string name="containing_folder">Добавить в</string>
@@ -154,8 +156,13 @@
      <string name="export_bookmark_failure">Не удалось экспортировать закладки на SD-карту!</string>
      <string name="export_bookmark_sucess">Экспорт закладок на SD-карту завершён!</string>
      <string name="exported_bookmark_file_name">Избранное</string>
+     <string name="file_dir">Папка</string>
+     <string name="file_name">Имя файла</string>
+     <string name="file_picker">Обзор</string>
      <string name="file_picker_new_folder">Новая папка</string>
      <string name="file_picker_sdcard_not_found">SD-карта не обнаружена, пожалуйста проверьте устройство</string>
+     <string name="filename_empty_alert_message">"Имя файла не может быть пустым"</string>
+     <string name="filename_illegal_alert_message">Имя файла содержит недопустимые символы, они были удалены автоматически.</string>
      <string name="find_on_page">Найти на странице</string>
      <string name="folder_name">Имя папки</string>
      <string name="forward">Вперед</string>
@@ -176,6 +183,10 @@
      <string name="goto_dot">Поиск</string>
      <string name="have_sent_bookmark_to_home_screen">Отправлено на рабочий стол</string>
      <string name="history">История</string>
+     <string name="history_browsed">История просмотра</string>
+     <string name="history_most_visited">Самые посещаемые</string>
+     <string name="history_saved_webpage">Сохраненные страницы</string>
+     <string name="history_track">История</string>
      <string name="homepage_set">Главная страница установлена</string>
      <string name="import_bookmark">Импорт закладок</string>
      <string name="import_bookmark_failure">Ошибка импорта Закладок!</string>
@@ -233,6 +244,8 @@
      <string name="open_all_bookmarks">Открыть все</string>
      <string name="open_all_in_new_window">Открыть все в новых вкладках</string>
      <string name="open_bookmark">Открыть</string>
+     <string name="open_history_group_in_new_window">открыть все историю в новом окне</string>
+     <string name="open_history_most_visited_group_in_new_window">открыть все самые посещаемые сайты</string>
      <string name="other_bookmarks">Другие закладки</string>
      <string name="page_info">Информация о странице</string>
      <string name="page_info_address">Адрес:</string>
@@ -343,6 +356,7 @@
      <string name="pref_privacy_clear_geolocation_access_dlg">Закрыть геоданные?</string>
      <string name="pref_privacy_clear_geolocation_access_summary">Очистить список сайтов, имеющих доступ к данным о Вашем местоположении</string>
      <string name="pref_privacy_clear_history">Очистить историю</string>
+     <string name="pref_privacy_clear_history_by_group_dlg">Вы уверены, что хотите очистить историю?</string>
      <string name="pref_privacy_clear_history_dlg">Удалить историю браузера?</string>
      <string name="pref_privacy_clear_history_summary">Очистить список посещенных в Интернете страниц</string>
      <string name="pref_privacy_clear_passwords">Очистить пароли</string>
@@ -381,6 +395,7 @@
      <string name="pref_zoom_on_double_tap">Увеличение двойным нажатием</string>
      <string name="preview">Предварительный просмотр</string>
      <string name="progress_dialog_setting_wallpaper">Установка обоев...</string>
+     <string name="quicklinks_management">Полезные сайты</string>
      <string name="readmode_reach_last_page">Достигнута последняя страница</string>
      <string name="readmodelist_bookmarks_to_show">Список чтения</string>
      <string name="recover">Восстановить</string>
@@ -396,8 +411,12 @@
      <string name="report_reading_mode_issue">Отправить ошибку режима чтения в MIUI</string>
      <string name="return_to_homepage">Домашняя страница</string>
      <string name="save">ОК</string>
+     <string name="save_dialog_title">Сохранить</string>
+     <string name="save_file_already_exist_alert_message">Файл уже существует, перезаписать его?</string>
+     <string name="save_file_already_exist_alert_title">Внимание</string>
      <string name="save_to_bookmarks">Добавить закладку</string>
      <string name="saving_snapshot">Сохраняется...</string>
+     <string name="search_139">139</string>
      <string name="search_baidu">Baidu</string>
      <string name="search_bing">Bing</string>
      <string name="search_button_text">Поиск</string>
@@ -434,6 +453,9 @@
      <string name="stop">Стоп</string>
      <string name="stop_loading">Стоп</string>
      <string name="stopping">Остановка...</string>
+     <string name="storage_internal">Внутренняя память</string>
+     <string name="storage_sd_card">SD-карта</string>
+     <string name="storage_usb">USB-память</string>
      <string name="tab_bookmarks">Закладки</string>
      <string name="tab_closed">Вкладка закрыта</string>
      <string name="tab_history">История</string>
