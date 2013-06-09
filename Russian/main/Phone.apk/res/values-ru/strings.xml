@@ -42,7 +42,7 @@
      <string name="answer_widget_sliding_horizontal_miui">Горизонтальный</string>
      <string name="answer_widget_sliding_vertical_miui">Вертикальный</string>
      <string name="answer_widget_title_miui">Жест ответа</string>
-     <string name="antispam_marked_count">%1$d отклонено</string>
+     <string name="antispam_marked_count">Отклонило: %1$d</string>
      <string name="antispam_marked_title">%1$s</string>
      <string name="antispam_notification_title">Неизвестный</string>
      <string name="apn_settings">Точки доступа (APN)</string>
