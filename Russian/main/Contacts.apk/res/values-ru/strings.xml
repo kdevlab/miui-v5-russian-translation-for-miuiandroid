@@ -409,8 +409,7 @@
      <string name="import_vcard_description">Импортирование контактов с SD-карты.</string>
      <string name="import_weibo_dialog_title">Импорт контактов sina weibo</string>
      <string name="import_weibo_fetch_followers">Получение пользователей weibo…</string>
-     <string name="import_weibo_notification_title">Импортирование контактов sina weibo...</string>
-     <string name="import_weibo_notification_title_done">Импортирование контактов sina weibo завершено</string>
+     <string name="import_weibo_notification_title_done">Обновлено контактов sina weibo: %s</string>
      <string name="import_weibo_progress_name">Совпадение \"%1$s\"…</string>
      <string name="importing_vcard_canceled_title">Импорт отменен: \"%s\"</string>
      <string name="importing_vcard_description">Импорт: %s</string>
@@ -737,6 +736,8 @@
      <string name="recent_contacts_label">Недавние</string>
      <string name="recent_number">Недавний</string>
      <string name="recent_updates">Недавние обновления</string>
+     <string name="redirect_calls_to_vm_confirm_message">Если вы не применили это у оператора, пожалуйста не включайте. Иначе, возможно, вы не сможете получать вызовы от этого контакта.</string>
+     <string name="redirect_calls_to_vm_confirm_text">Включить</string>
      <string name="relationLabelsGroup">Отношения</string>
      <string name="remind_btn_ignore">Позже</string>
      <string name="remind_btn_sync_now">Сейчас</string>

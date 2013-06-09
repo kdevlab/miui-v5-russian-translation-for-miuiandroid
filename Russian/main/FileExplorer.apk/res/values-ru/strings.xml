@@ -40,7 +40,6 @@
      <string name="clean_title">Удалять файлы из корзины, если они лежат там дольше 30 дней</string>
      <string name="clean_trash_box">Очистить корзину</string>
      <string name="cleanup_complete">Готово</string>
-     <string name="clear_cache">Очистить кэш</string>
      <string name="close">Закрыть</string>
      <string name="compress_fail">Ошибка архивирования, файл уже существует</string>
      <string name="compress_message">Имя архива:</string>
@@ -48,6 +47,7 @@
      <string name="confirm">OК</string>
      <string name="confirm_know">OK</string>
      <string name="copy_failed">Ошибка копирования</string>
+     <string name="create_kuaipan_shortcut_pref">Создать ярлык на рабочем столе</string>
      <string name="create_new_folder_desctiption">Создание папки...</string>
      <string name="create_new_folder_failed">Не удалось создать папку %1$s</string>
      <string name="create_share_link_description">Создание ссылки···</string>
@@ -74,6 +74,7 @@
      <string name="dialog_type_video">Видео</string>
      <string name="directory_info_divider">"  |  "</string>
      <string name="directory_no_item">Пустая папка</string>
+     <string name="dlg_error_unmount_text">"Невозможно отключить USB-хранилище. Попробуйте позже."</string>
      <string name="download_failed">Ошибка загрузки</string>
      <string name="download_link_completed">Я поделился %1$s через KuaiPan. Нажмите ссылку внизу для просмотра:</string>
      <string name="downloading">Загрузка</string>
@@ -84,6 +85,7 @@
      <string name="error_info_cant_send_folder">Папка не может быть передана</string>
      <string name="error_open_file_failed_no_app_found">Не найдено программ для открытия этого файла</string>
      <string name="fail_to_create_folder">Не удалось создать папку, папка с таким именем уже существует</string>
+     <string name="fail_to_create_folder_unknown">Не удается создать: Неизвестная ошибка.</string>
      <string name="fail_to_rename">Не удалось переименовать файл или папку, имя уже существует</string>
      <string name="favorite_photo">Фотография</string>
      <string name="favorite_ringtone">Мелодии</string>
@@ -122,6 +124,7 @@
      <string name="instruction">Адрес синхронизации:</string>
      <string name="instruction_pre">Обмен файлами с ПК или Mac по FTP через сеть Wi-Fi</string>
      <string name="item_name">Без имени</string>
+     <string name="kuaipan_label">Kuaipan</string>
      <string name="kuaipan_over_space">В вашем KuaiPan нет больше свободного места</string>
      <string name="kuaipan_prompt">KuaiPan</string>
      <string name="kuaipan_prompt_message">"
@@ -130,7 +133,6 @@
      <string name="kuaipan_tech_support">Техническая поддержка: Kingsoft Kuaipan</string>
      <string name="load_err">Ошибка загрузки</string>
      <string name="loading">Загрузка</string>
-     <string name="local_cache">Локальный кэш</string>
      <string name="local_cache_size">Размер локального кэш: %s</string>
      <string name="login_reg_content">KuaiPan позволяет хранить файлы и синхронизировать их между несколькими устройствами.</string>
      <string name="login_reg_content0">KuaiPan - ваш интернет диск</string>
@@ -154,6 +156,9 @@
      <string name="no_app_cache_indication">Нет кэша приложений</string>
      <string name="no_app_garbage_indication">Нет мусора от приложений</string>
      <string name="no_empty_dir_indication">Нет пустых папок</string>
+     <string name="no_enough_space">Не хватает места</string>
+     <string name="no_enough_storage_indication">Не хватает места для вставки файла, очистите дополнительное место с помощью Очистки или просто удалите большие файлы</string>
+     <string name="no_enough_storage_title">Не хватает места</string>
      <string name="no_file">Нет файлов</string>
      <string name="no_more_space">Не хватает места на диске</string>
      <string name="no_tasks">Задач нет</string>
@@ -263,6 +268,7 @@
      <string name="ui_main_toast_favorite_removed">Избранное удалено</string>
      <string name="ui_main_toast_operation_failed">Ошибка удаления %1$s</string>
      <string name="uninstall_app_data">Удалить приложение и все данные</string>
+     <string name="unmount_inform_text">USB-хранилище будет отключено.</string>
      <string name="upload_failed">Ошибка загрузки</string>
      <string name="upload_file_toolarge_message">%1$d файлов размером более 300 Мб не могут быть отправлены. Пожалуйста, проверьте в Управлении передачами.</string>
      <string name="uploading">Загрузка</string>
