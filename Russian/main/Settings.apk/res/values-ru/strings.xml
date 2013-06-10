@@ -1957,7 +1957,7 @@
      <string name="vibrate_input_devices">Использовать вибро</string>
      <string name="vibrate_input_devices_summary">Перенаправить вибро на подключенный игровой контроллер</string>
      <string name="vibrate_when_ringing_title">Вибро при звонке</string>
-     <string name="virus_scan_app_continue">Продолжить сканирование</string>
+     <string name="virus_scan_app_continue">Продолжить</string>
      <!-- The count of MNPS does not match! Now: 1 must: 1
 	%s: 0 must: 0
 	%d: 1 must: 0 -->
