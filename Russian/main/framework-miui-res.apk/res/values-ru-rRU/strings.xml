@@ -317,7 +317,7 @@ EEEE"</string>
      <string name="lockscreen_access_pattern_detected">Шаблон завершен</string>
      <string name="lockscreen_access_pattern_start">Шаблон начат</string>
      <string name="lockscreen_emergency_call">Только экстренные</string>
-     <string name="lockscreen_forgot_pattern_button_text">Забыть шаблон?</string>
+     <string name="lockscreen_forgot_pattern_button_text">Забыли пароль?</string>
      <string name="lockscreen_pattern_instructions">Нарисуйте шаблон, чтобы разблокировать</string>
      <string name="lockscreen_pattern_wrong">Попробовать снова</string>
      <string name="lockscreen_too_many_failed_attempts_countdown">Попробуйте снова через %d сек.</string>
