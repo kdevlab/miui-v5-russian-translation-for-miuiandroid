@@ -38,7 +38,7 @@
      <string name="add_to_other_folder_menu_option">Другая папка</string>
      <string name="add_xiaomi_account_warning">Пожалуйста, войдите в аккаунт Xiaomi</string>
      <string name="added_to_bookmarks">Добавлено в закладки</string>
-     <string name="alert_tips">Этот сайт может представлять угрозу безопасности, пожалуйста будьте осторожными!</string>
+     <string name="alert_tips">Этот сайт может представлять угрозу безопасности, пожалуйста будьте осторожны!</string>
      <string name="allow">Разрешить</string>
      <string name="application_name">Браузер</string>
      <string name="autofill_profile_editor_address_line_1">Адресная строка 1:</string>
@@ -205,7 +205,7 @@
      <string name="import_bookmarks_wizard_next">Далее</string>
      <string name="import_bookmarks_wizard_previous">Назад</string>
      <string name="importing_favorite_files">Импорт данных...</string>
-     <string name="in_incognito">В режиме Инкогнито история браузера не сохраняется.</string>
+     <string name="in_incognito">В режиме инкогнито история браузера не сохраняется</string>
      <string name="instant_search_label">Google с Живым поиском (Лаборатория Google)</string>
      <string name="is_first_history_item">Первая страница</string>
      <string name="is_first_tab">На первой вкладке</string>
@@ -239,7 +239,7 @@
      <string name="new_tab">Новая вкладка</string>
      <string name="no_subfolders">Нет подпапок</string>
      <string name="not_remind_again">Больше не напоминать</string>
-     <string name="notif_install_successful">Загрузка была завершена</string>
+     <string name="notif_install_successful">Загрузка завершена</string>
      <string name="ok">ОК</string>
      <string name="open_all_bookmarks">Открыть все</string>
      <string name="open_all_in_new_window">Открыть все в новых вкладках</string>
@@ -461,7 +461,7 @@
      <string name="tab_history">История</string>
      <string name="tab_most_visited">Часто посещаемые</string>
      <string name="tab_opened_background">Вкладка открыта в фоне</string>
-     <string name="tab_opened_background_in_incognito">Открыта вкладка в режиме Инкогнито</string>
+     <string name="tab_opened_background_in_incognito">Вкладка открыта в режиме инкогнито</string>
      <string name="tab_quicklinks">Ссылки</string>
      <string name="tab_snapshots">Сохраненные страницы</string>
      <string name="tab_yellowpage">Категории</string>
