@@ -193,6 +193,7 @@
      <string name="rename_playlist_menu">Переименовать</string>
      <string name="retry">Повтор</string>
      <string name="ringtone_menu">Как рингтон</string>
+     <string name="ringtone_not_support">Рингтон данного формата не поддерживается.</string>
      <string name="ringtone_set">Трек \"%s\" установлен как рингтон</string>
      <string name="save">Добавить</string>
      <string name="scanning">Сканирование SD-карты…</string>

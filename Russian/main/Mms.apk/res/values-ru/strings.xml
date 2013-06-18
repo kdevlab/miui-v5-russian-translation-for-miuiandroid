@@ -394,6 +394,7 @@ SMS (%1$d), MMS (%2$d)"</string>
      <string name="too_many_recipients">Указано слишком много получателей (%1$s). Разрешено не более %2$s.</string>
      <string name="too_many_unsent_mms">Не удалось отправить сообщение. Слишком много неотправленных MMS.</string>
      <string name="try_to_send">Попытаться отправить</string>
+     <string name="type_attachment">Прикрепление</string>
      <string name="type_audio">Аудиозапись</string>
      <string name="type_picture">Изображение</string>
      <string name="type_to_compose_text_enter_to_send">Введите сообщение</string>

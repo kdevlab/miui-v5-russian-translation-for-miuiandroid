@@ -14,6 +14,8 @@
      <string name="app_name">Файлы</string>
      <string name="application_size_label">Приложение</string>
      <string name="background">В фоне</string>
+     <string name="big5_summary">Кодировка по умолчанию в традиционной китайской версии системы Windows</string>
+     <string name="big5_title">BIG5</string>
      <string name="bind_account">Привязка к аккаунту KuaiPan</string>
      <string name="bind_account_summary">Если у вас уже есть учетная запись kuaipan, то ее можно привязать к учетной записи Xiaomi, чтобы синхронизировать данные</string>
      <string name="binded_accout_description">Эти два аккаунта были объединены. Теперь Вы можете войти используя либо аккаунт Xiaomi, либо аккаунт Kuaipan. В них обоих будут одни и теже файлы.</string>
