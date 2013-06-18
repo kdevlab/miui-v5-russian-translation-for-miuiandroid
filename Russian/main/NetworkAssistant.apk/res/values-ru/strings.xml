@@ -3,8 +3,8 @@
 <resources>
      <string name="about">О программе</string>
      <string name="adjust_no_network_update_data_fail">Ошибка обновления данных. Проверьте настройки подключения к сети.</string>
-     <string name="adjust_traffic_auto_adjust_hint">Система автоматически регулирует запрашивает и передачу данных регулярно от операторов. Вам нужно настроить информацию об операторах</string>
-     <string name="adjust_traffic_auto_adjust_open_hint">Авторегуляция включена, система автоматически контролирует объем поторебляемого трафика</string>
+     <string name="adjust_traffic_auto_adjust_hint">Система автоматически регулирует запрашивает и передачу данных регулярно от операторов. Вам нужно настроить информацию об операторах.</string>
+     <string name="adjust_traffic_auto_adjust_open_hint">Авторегуляция включена. Система автоматически контролирует объем поторебляемого трафика.</string>
      <string name="adjust_traffic_auto_adjust_title">Авторегуляция трафика</string>
      <string name="adjust_traffic_carrier_adjust">Получить от оператора</string>
      <string name="adjust_traffic_carrier_adjusting">Настройка…</string>
@@ -25,10 +25,10 @@
      <string name="app_detail_internet_control_category">Управление сетью</string>
      <string name="app_detail_title">О программе</string>
      <string name="app_detail_version">Версия: %s</string>
-     <string name="app_has_deleted">%s было удалено.</string>
+     <string name="app_has_deleted">%s удалено</string>
      <string name="app_name">Монитор</string>
      <string name="app_traffic_detail">" трафик(%s)"</string>
-     <string name="apply_rules_failed">Не удалось включить брандмауэр, попробуйте еще раз. (%s)</string>
+     <string name="apply_rules_failed">Не удалось включить брандмауэр, попробуйте еще раз (%s)</string>
      <string name="apply_rules_failed_known">OK</string>
      <string name="batch_connect_control">Управление соединениями</string>
      <string name="cancel_txt">Отмена</string>
@@ -42,7 +42,7 @@
      <string name="control_app_internet">Использование сети</string>
      <string name="current_warning_value">Предупреждать при достижении: %s</string>
      <string name="daily_limit_dialog_disconnect_hint">Отключать интернет при превышении лимита трафика</string>
-     <string name="daily_limit_dialog_hint">Ежедневный лимит (Пусто или 0 - без ограничений)</string>
+     <string name="daily_limit_dialog_hint">Ежедневный лимит (пусто или 0 - без ограничений)</string>
      <string name="daily_limit_result">Предупреждать меня и отключать интернет при превышении ежедневного трафика (%dMB)</string>
      <string name="daily_limit_result_no_disconnect">Напоминать, когда ежедневный трафик превышает %d МБ</string>
      <string name="daily_limit_result_no_limit">Напоминать, когда лимит трафика превышен</string>
@@ -114,7 +114,7 @@
      <string name="settings_page_traffic_summary">"Доступно: %1$s
 Порог предупреждения: %2$s
 Дата начала учета: %3$d"</string>
-     <string name="settings_page_traffic_summary_no_settings">Пакет не установлен, Дата последнего пополнения: %d</string>
+     <string name="settings_page_traffic_summary_no_settings">Пакет не установлен. Дата последнего пополнения: %d.</string>
      <string name="sms_match_fail">ошибка SMS</string>
      <string name="sms_template_match_fail">Ошибка сопоставления шаблона SMS</string>
      <string name="sms_template_updated_label">"Обновлено: "</string>
@@ -126,7 +126,7 @@
      <string name="sync_traffic_fail_message">Синхронизация с оператором не удалась, сервер занят. Пожалуйста, попробуйте позже или позвоните в поддержку %s для помощи</string>
      <string name="sync_traffic_fail_title">Синхронизация не удалась</string>
      <string name="sync_traffic_ing">Синхронизация с оператором, подождите...</string>
-     <string name="sync_traffic_no_cmd_detail">Укажите ваш город, провинцию, ICC и оператора связи здесь: http://www.miui.com/forum-172-1.html. Спасибо.</string>
+     <string name="sync_traffic_no_cmd_detail">Укажите Ваш город, провинцию, ICC и оператора связи здесь: http://www.miui.com/forum-172-1.html. Спасибо.</string>
      <string name="sync_traffic_no_cmd_title">Нет шаблона</string>
      <string name="sync_traffic_success">Информация о пакетах трафика получена, настройки обновлены</string>
      <string name="text_done">Готово</string>
@@ -136,8 +136,8 @@
      <string name="traffic_settings_error">Ошибка в настройках ежемесячного разрешенного трафика. Согласно вашему оператору, размер вашего трафика: %1$s и осталось: %2$s.</string>
      <string name="traffic_suffix">Трафик</string>
      <string name="traffic_suffix_with_uint">Трафик (МБ)</string>
-     <string name="traffic_total">%s Всего</string>
-     <string name="traffic_used_status">%s Использовано</string>
+     <string name="traffic_total">всего</string>
+     <string name="traffic_used_status">использовано</string>
      <string name="unknown">Нет данных</string>
      <string name="unknown_free_traffic_hint">Если вы не знаете сколько предоставляется трафика на вашем тарфином плане, пожалуйста, обратитесь к оператору мобильной связи для выяснения подробностей.</string>
      <string name="unknown_free_traffic_text">Я не знаю об ограничениях трафика</string>
