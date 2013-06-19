@@ -65,6 +65,11 @@
         <item>Часто посещаемые веб-сайты</item>
         <item>Другая</item>
      </string-array>
+     <string-array name="pref_images_preload_choices">
+        <item>Никогда</item>
+        <item>Умно</item>
+        <item>Всегда</item>
+     </string-array>
      <string-array name="pref_link_prefetch_choices">
         <item>Никогда</item>
         <item>Только по Wi-Fi</item>
@@ -77,11 +82,11 @@
         <item>Большой</item>
         <item>Огромный</item>
      </string-array>
-	 <string-array name="pref_video_preload_choices">
+     <string-array name="pref_video_preload_choices">
         <item>Никогда</item>
         <item>Только по Wi-Fi</item>
         <item>Всегда</item>
-    </string-array>
+     </string-array>
      <string-array name="pref_volume_key_choices">
         <item>Прокрутка страницы</item>
         <item>Переключение вкладок</item>
