@@ -335,7 +335,7 @@
      <string name="pref_gesture_title">Жесты</string>
      <string name="pref_image_display_control">Отображение изображений</string>
      <string name="pref_images_preload_dialogtitle">Предзагрузка изображений</string>
-     <string name="pref_images_preload_summary">" Разрешить браузеру предзагружать изображения, если позволяет сервер"</string>
+     <string name="pref_images_preload_summary">"Разрешить браузеру предзагружать изображения, если позволяет сервер"</string>
      <string name="pref_images_preload_title">Предзагрузка изображений</string>
      <string name="pref_images_preload_value_always_summary">Всегда разрешать браузеру предзагружать изображения, если позволяет сервер</string>
      <string name="pref_images_preload_value_never_summary">Никогда не разрешать браузеру предзагружать изображения, если позволяет сервер</string>
