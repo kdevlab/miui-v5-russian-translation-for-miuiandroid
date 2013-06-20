@@ -659,8 +659,8 @@
      <string name="device_memory">RAM</string>
      <string name="device_miui_version">MIUI</string>
      <string name="device_name">Имя устройства</string>
-     <string name="device_name_input_hint">Пожалуйста введите имя устройства</string>
-     <string name="device_name_usage_point">Показать название вашего устройства, при Bluetooth подключениях, создании точки доступа и так далее.</string>
+     <string name="device_name_input_hint">Введите имя устройства</string>
+     <string name="device_name_usage_point">Имя вашего устройства, которое будет отображаться при различных соединениях.</string>
      <string name="device_picker">Выбор устройства Bluetooth</string>
      <string name="device_sd_memory">Карта памяти:</string>
      <string name="device_status">Общая информация</string>
@@ -901,7 +901,7 @@
      <string name="join_many_items_last">%1$s и %2$s</string>
      <string name="join_many_items_middle">%1$s, %2$s</string>
      <string name="join_two_items">%1$s и %2$s</string>
-     <string name="keep_screen_on">Оставить включенным</string>
+     <string name="keep_screen_on">Подсветка при зарядке</string>
      <string name="keep_screen_on_summary">Во время зарядки экран будет всегда включен</string>
      <string name="kernel_version">Ядро</string>
      <string name="key_settings">Клавиши</string>

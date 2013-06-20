@@ -167,7 +167,7 @@
      <string name="remove_package_timeout_fail">Устаовка не завершена. Пожалуйста, удалите приложение и попробуйте снова</string>
      <string name="result_notice">Результаты предоставленны сервисом приложений Baidu</string>
      <string name="result_of_clear_history">История поиска успешно очищена</string>
-     <string name="search_local_app_text_hint">Поиск прилежний в %1$d установленных</string>
+     <string name="search_local_app_text_hint">Поиск в приложениях: %1$d</string>
      <string name="search_not_found">\"%1$s\" не найдено</string>
      <string name="search_other_market">Поиск в другом маркете</string>
      <string name="share_button">Поделиться</string>
