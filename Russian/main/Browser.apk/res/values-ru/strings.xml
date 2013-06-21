@@ -290,9 +290,9 @@
      <string name="pref_content_title">Содержание страницы</string>
      <string name="pref_data_preload_dialogtitle">Загрузка результатов поиска</string>
      <string name="pref_data_preload_summary">"
-Разрешить браузеру предварительно загружать результаты поиска в фоновом режиме"</string>
+разрешать браузеру предварительно загружать результаты поиска в фоновом режиме"</string>
      <string name="pref_data_preload_title">Загрузка результатов поиска</string>
-     <string name="pref_data_preload_value_never_summary">Запрещать браузеру предварительно загружать результаты поиска в фоновом режиме.</string>
+     <string name="pref_data_preload_value_never_summary">Запрещать браузеру предварительно загружать результаты поиска в фоновом режиме</string>
      <string name="pref_data_title">Настройки контента</string>
      <string name="pref_default_text_encoding">Кодировка текста</string>
      <string name="pref_default_text_encoding_dialogtitle">Кодировка текста</string>
@@ -335,11 +335,11 @@
      <string name="pref_gesture_title">Жесты</string>
      <string name="pref_image_display_control">Отображение изображений</string>
      <string name="pref_images_preload_dialogtitle">Предзагрузка изображений</string>
-     <string name="pref_images_preload_summary">"Разрешить браузеру предварительно загружать изображения, если позволяет сервер."</string>
+     <string name="pref_images_preload_summary">" разрешить браузеру предварительно загружать изображения, если позволяет сервер"</string>
      <string name="pref_images_preload_title">Предзагрузка изображений</string>
-     <string name="pref_images_preload_value_always_summary">Всегда разрешать браузеру предварительно загружать изображения, если позволяет сервер.</string>
-     <string name="pref_images_preload_value_never_summary">Никогда не разрешать браузеру предварительно загружать изображения, если позволяет сервер.</string>
-     <string name="pref_images_preload_value_wifi_only_summary">Разрешать браузеру предварительно загружать изображения, если позволяет сервер (умный режим).</string>
+     <string name="pref_images_preload_value_always_summary">Всегда разрешать браузеру предварительно загружать изображения, если позволяет сервер</string>
+     <string name="pref_images_preload_value_never_summary">Никогда не разрешать браузеру предварительно загружать изображения, если позволяет сервер</string>
+     <string name="pref_images_preload_value_wifi_only_summary">Разрешать браузеру предварительно загружать изображения, если позволяет сервер (умный режим)</string>
      <string name="pref_inverted">Инверсия</string>
      <string name="pref_inverted_category">Режим инверсии</string>
      <string name="pref_inverted_contrast">Контраст</string>
@@ -353,7 +353,7 @@
      <string name="pref_lab_title">Лаборатория Google</string>
      <string name="pref_link_prefetch_dialogtitle">Загрузка веб-страниц</string>
      <string name="pref_link_prefetch_summary">"
-Разрешить браузеру предварительно загружать связанные веб-страницы в фоновом режиме."</string>
+разрешать браузеру предварительно загружать связанные веб-страницы в фоновом режиме"</string>
      <string name="pref_link_prefetch_title">Загрузка веб-страниц</string>
      <string name="pref_link_prefetch_value_never_summary">Запрещать браузеру предварительно загружать веб-страницы в фоновом режиме.</string>
      <string name="pref_min_font_size">Минимальный размер шрифта</string>
@@ -403,9 +403,9 @@
      <string name="pref_use_instant_search_summary">В живом поиске результаты появляются прямо при вводе текста (возможно увеличение объема передаваемых данных)</string>
      <string name="pref_video_preload_dialogtitle">Загрузка видео</string>
      <string name="pref_video_preload_summary">"
-Разрешить браузеру предварительно загружать видео файлы."</string>
+разрешать браузеру предварительно загружать видео файлы"</string>
      <string name="pref_video_preload_title">Загрузка видео</string>
-     <string name="pref_video_preload_value_never_summary">Запрещать браузеру предварительно загружать видео, если позволяет сервер.</string>
+     <string name="pref_video_preload_value_never_summary">Не разрешать браузеру предзагрузку видео файлов</string>
      <string name="pref_volume_key_enabled">Клавиши громкости</string>
      <string name="pref_volume_key_operation">Функция клавиш громкости</string>
      <string name="pref_zoom_on_double_tap">Увеличение двойным нажатием</string>
