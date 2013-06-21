@@ -79,8 +79,8 @@
      <string name="lap_num">Круг</string>
      <string name="legal_workday">Рабочие дни</string>
      <string name="legal_workday_invalidate">Данные просрочены (Сейчас будильник звонит с пон. по пят.)</string>
-     <string name="legal_workday_invalidate_message">(данные просрочены. Обновите в разделе Настройки)</string>
-     <string name="legal_workday_message"> (отключен во время праздников)</string>
+     <string name="legal_workday_invalidate_message">(обновите базу)</string>
+     <string name="legal_workday_message"> (выключен в праздники)</string>
      <string name="loading_ringtone">Загрузка мелодии звонка...</string>
      <string name="menu_add_worldclock">Добавить</string>
      <string name="menu_alarmclock_edit">Редактировать</string>
