@@ -50,7 +50,7 @@
         <item quantity="one">Найдено: 1</item>
      </plurals>
      <plurals name="smart_group_member_count">
-        <item quantity="other">Выбрано: %1$d</item>
-        <item quantity="one">Выбрано: %1$d</item>
+        <item quantity="other">Контактов: %1$d</item>
+        <item quantity="one">Контактов: 1</item>
      </plurals>
 </resources>

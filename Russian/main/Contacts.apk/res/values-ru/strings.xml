@@ -17,7 +17,7 @@
      <string name="add_account">Добавить аккаунт</string>
      <string name="add_blacklist">В черный список</string>
      <string name="add_connection_button">Добавить соц. сеть</string>
-     <string name="add_contact_dlg_message_fmt">Добавить в контакты \"%s\"?</string>
+     <string name="add_contact_dlg_message_fmt">Добавить \"%s\" в контакты?</string>
      <string name="add_field">Добавить поле</string>
      <string name="add_new_account">Добавить аккаунт</string>
      <string name="add_new_entry_for_section">Добавить</string>
@@ -181,7 +181,7 @@
      <string name="copy_text">Копировать в буфер обмена</string>
      <string name="createContactShortcutSuccessful">Виджет контакта добавлен на рабой стол</string>
      <string name="create_group_dialog_title">Создание новой группы</string>
-     <string name="create_group_item_label">[Создать новую группу]</string>
+     <string name="create_group_item_label">Создать новую группу</string>
      <string name="customLabelPickerTitle">Название ярлыка</string>
      <string name="custom_list_filter">Настройка отображения</string>
      <string name="custom_nickname_hint">Введите титул (например: Мр. или Доктор)</string>
@@ -190,15 +190,15 @@
      <string name="date_year_toggle">Указать год</string>
      <string name="default_ringtone">По умолчанию</string>
      <string name="deleteConfirmation">Этот контакт будет удален</string>
-     <string name="deleteConfirmationDetail">\"%s\" будет удален</string>
+     <string name="deleteConfirmationDetail">Удалить контакт \"%s\"?</string>
      <string name="deleteConfirmation_title">Удаление контакта</string>
      <string name="delete_call_log_title">Выбрать журналы для удаления?</string>
-     <string name="delete_contact_calllog_title">Записи удалены</string>
+     <string name="delete_contact_calllog_title">Удалить журнал вызовов контакта?</string>
      <string name="delete_duplicate">Объединить</string>
      <string name="delete_duplicate_message">Объединение контактов...</string>
-     <string name="delete_group_dialog_message">Удалить группу \"%1$s\"? (контакты не будут удалены)</string>
+     <string name="delete_group_dialog_message">Удалить группу \"%1$s\"? (контакты в ней удалены не будут)</string>
      <string name="delete_group_dialog_title">Удаление группы</string>
-     <string name="delete_unknown_contact_calllog_title">Запись журнала вызововов неизвестного контакта будет удалена</string>
+     <string name="delete_unknown_contact_calllog_title">Удалить журнал вызовов неизвестных контактов?</string>
      <string name="description_add_contact">Добавить контакт</string>
      <string name="description_author">Автор:</string>
      <string name="description_call">Позвонить: %1$s</string>
@@ -212,7 +212,7 @@
      <string name="description_delete_button">назад</string>
      <string name="description_designer">Дизайнер:</string>
      <string name="description_dial_button">набрать</string>
-     <string name="description_dial_phone_number">Позвонить, контакт: %1$s</string>
+     <string name="description_dial_phone_number">Позвонить %1$s</string>
      <string name="description_digits_edittext">номер для набора</string>
      <string name="description_download">Скачано:</string>
      <string name="description_image_button_eight">восемь</string>
@@ -229,10 +229,10 @@
      <string name="description_image_button_zero">ноль</string>
      <string name="description_minus_button">минус</string>
      <string name="description_plus_button">плюс</string>
-     <string name="description_quick_contact_for">Быстрый вызов, контакт: %1$s</string>
+     <string name="description_quick_contact_for">Быстрый контакт для %1$s</string>
      <string name="description_search_button">поиск</string>
-     <string name="description_send_message">Отправить сообщение, контакт: %1$s</string>
-     <string name="description_send_text_message">Отправить текстовое сообщение: %1$s</string>
+     <string name="description_send_message">Отправить сообщение %1$s</string>
+     <string name="description_send_text_message">Отправить текстовое сообщение %1$s</string>
      <string name="description_size">Размер:</string>
      <string name="description_star">избранное</string>
      <string name="description_summary">Инфо:</string>
@@ -267,7 +267,7 @@
      <string name="device_version_header_no_bluetooth">Импорт контактов с SIM-карты</string>
      <string name="device_version_title">Выберите версию мобильного телефона</string>
      <string name="dialerDialpadHintText">Наберите номер, чтобы добавить вызов</string>
-     <string name="dialerIconLabel">Вызовы</string>
+     <string name="dialerIconLabel">Телефон</string>
      <string name="dialerKeyboardHintText">Для набора используйте клавиатуру</string>
      <string name="dialer_addAnotherCall">Добавить вызов</string>
      <string name="dialer_empty_text_loading">Загрузка...</string>
@@ -387,7 +387,7 @@
      <string name="hint_more_contact">использовать слияние контакта, при его выходе из контактов дубликатов</string>
      <string name="hint_search_contacts">Контактов: %d</string>
      <string name="hint_search_emails">Адресов эл. почты: %d</string>
-     <string name="hint_search_phone_numbers">Телефонов: %d</string>
+     <string name="hint_search_phone_numbers">Контактов с номером: %d</string>
      <string name="ic_menu_back">Назад</string>
      <string name="ic_menu_done">Готово</string>
      <string name="imLabelsGroup">Чат</string>
@@ -529,65 +529,65 @@
      <string name="nickname_picker_name_column">Имя контакта</string>
      <string name="nickname_picker_nickname_column">Имя</string>
      <string name="noAccounts">Для создания групп нужен аккаунт</string>
-     <string name="noContactHelpTextAccountsInfo">Синхронизировать контакты с Google, Exchange</string>
+     <string name="noContactHelpTextAccountsInfo">Синхронизировать контакты Xiaomi, Google, Exchange</string>
      <string name="noContactHelpTextImportXiaomiAccountInfo">Восстановить контакты из резервной копии в аккаунте Xiaomi и MiTalk</string>
      <string name="noContacts">Нет контактов</string>
-     <string name="noContactsHelpText">"Нет контактов для показа.
+     <string name="noContactsHelpText">"Нет контактов для отображения.
 
-Чтобы добавить контакты, нажмите Меню и выберите один из вариантов.
+Чтобы добавить контакты, нажмите Меню и выберите один из вариантов:
 
-Аккаунты: добавление или настройка аккаунта с контактами, которые можно синхронизировать с телефоном.
+Аккаунты: чтобы добавить или настроить аккаунт с контактами, которые можно синхронизировать с телефоном
  
-Новый контакт: добавление контакта.
+Новый контакт: чтобы создать новый контакт
  
-Импорт/экспорт: импорт контактов с SIM- или SD-карты.
+Импорт/экспорт: чтобы импортировать контакты с SIM-карты или SD-карты
 "</string>
      <string name="noContactsHelpTextForCreateShortcut">Отсутствуют контакты для отображения</string>
-     <string name="noContactsHelpTextWithSync">"Нет контактов для показа. Если Вы только что добавили аккаунт, синхронизация контактов может занять несколько минут.
+     <string name="noContactsHelpTextWithSync">"Нет контактов для отображения. Если Вы только что добавили аккаунт, синхронизация контактов может занять несколько минут.
 
-Чтобы добавить контакты, нажмите Меню и выберите один из вариантов.
+Чтобы добавить контакты, нажмите Меню и выберите один из вариантов:
 
-Аккаунты: добавление или настройка аккаунта с контактами, которые можно синхронизировать с телефоном.
+Аккаунты: чтобы добавить или настроить аккаунт с контактами, которые можно синхронизировать с телефоном
 
-Фильтр контактов: настройка параметров показа контактов.
+Фильтр контактов: чтобы настроить параметры отображения контактов
 
-Новый контакт: добавление контакта.
+Новый контакт: чтобы создать новый контакт
  
-Импорт/экспорт: импорт контактов с SIM- или SD-карты.
+Импорт/экспорт: чтобы импортировать контакты с SIM-карты или SD-карты
 "</string>
-     <string name="noContactsHelpTextWithSyncForCreateShortcut">Отсутствуют контакты для отображения. (Если аккаунт был только что добавлен, потребуется несколько минут для синхронизации контактов.)</string>
-     <string name="noContactsNoSimHelpText">"Нет контактов для показа.
+     <string name="noContactsHelpTextWithSyncForCreateShortcut">Отсутствуют контакты для отображения (если аккаунт был только что добавлен, потребуется несколько минут для синхронизации контактов)</string>
+     <string name="noContactsNoSimHelpText">"Нет контактов для отображения.
 
-Чтобы добавить контакты, нажмите Меню и выберите один из вариантов.
+Чтобы добавить контакты, нажмите Меню и выберите один из вариантов:
  
-Аккаунты: добавление или настройка аккаунта с контактами, которые можно синхронизировать с телефоном.
+Аккаунты: чтобы добавить или настроить аккаунт с контактами, которые можно синхронизировать с телефоном
  
-Новый контакт: добавление контакта.
+Новый контакт: чтобы создать новый контакт
  
-Импорт/экспорт: импорт контактов с SD-карты.
+Импорт/экспорт: чтобы импортировать контакты с SD-карты
 "</string>
-     <string name="noContactsNoSimHelpTextWithSync">"Нет контактов для показа. Если вы только что добавили аккаунт, синхронизация контактов может занять несколько минут.
+     <string name="noContactsNoSimHelpTextWithSync">"Нет контактов для отображения. Если Вы только что добавили аккаунт, синхронизация контактов может занять несколько минут.
 
-Чтобы добавить контакты, нажмите Меню и выберите один из вариантов.
+Чтобы добавить контакты, нажмите Меню и выберите один из вариантов:
 
-Аккаунты: добавление или настройка аккаунта с контактами, которые можно синхронизировать с телефоном.
+Аккаунты: чтобы добавить или настроить аккаунт с контактами, которые можно синхронизировать с телефоном
 
-Фильтр контактов: настройка параметров показа контактов.
+Фильтр контактов: чтобы настроить параметры отображения контактов
 
-Новый контакт: добавление контакта.
+Новый контакт: чтобы создать новый контакт
  
-Импорт/экспорт: импорт контактов с SD-карты.
+Импорт/экспорт: чтобы импортировать контакты с SD-карты
 "</string>
      <string name="noContactsWithPhoneNumbers">Нет контактов с номерами телефонов</string>
-     <string name="noFavoritesHelpText">"У вас нет избранных контактов.
+     <string name="noFavoritesHelpText">"У Вас нет избранных контактов.
 
-Чтобы сделать контакт избранным,
+Чтобы сделать контакт избранным:
 
-        нажмите вкладку Контакты;
+        нажмите вкладку Контакты
  
-нажмите контакт, который нужно сделать избранным;
+нажмите на нужный контакт
  
-нажмите звездочку возле имени контакта.
+нажмите на звездочку возле имени контакта
 "</string>
      <string name="noGroups">Нет групп</string>
      <string name="noMatchingContacts">Подходящие контакты не найдены</string>
@@ -609,7 +609,7 @@
      <string name="none_paired">Нет сопряженных устройств</string>
      <string name="not_applied">Не поддерживается</string>
      <string name="notification_action_voicemail_play">Прослушать</string>
-     <string name="notification_new_voicemail_ticker">Новое гол. сообщение: %1$s</string>
+     <string name="notification_new_voicemail_ticker">Новое гол. сообщение от %1$s</string>
      <string name="notification_voicemail_callers_list">%1$s, %2$s</string>
      <string name="online_no_network">Не возможно подключиться к сети</string>
      <string name="online_search_hint">Введите ключевые слова</string>
@@ -658,7 +658,7 @@
      <string name="postal_address">Адрес</string>
      <string name="postal_city">Город</string>
      <string name="postal_country">Страна</string>
-     <string name="postal_neighborhood">Сосед</string>
+     <string name="postal_neighborhood">Район</string>
      <string name="postal_pobox">Почтовый ящик</string>
      <string name="postal_postcode">Почтовый индекс</string>
      <string name="postal_region">Регион</string>
