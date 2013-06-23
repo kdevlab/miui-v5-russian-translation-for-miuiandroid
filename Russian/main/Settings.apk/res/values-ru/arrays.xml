@@ -68,6 +68,12 @@
         <item>Сигнал</item>
         <item>Вибрация</item>
      </string-array>
+     <string-array name="enable_opengl_traces_entries">
+        <item>Нет</item>
+        <item>Logcat</item>
+        <item>Systrace (Graphics)</item>
+        <item>Call stack on glGetError</item>
+     </string-array>
      <string-array name="entries_font_size">
         <item>Мелкий</item>
         <item>Обычный</item>
@@ -79,12 +85,6 @@
         <item>18</item>
         <item>22</item>
         <item>27</item>
-     </integer-array>
-     <integer-array name="font_size_preference_row_height">
-        <item>75</item>
-        <item>85</item>
-        <item>85</item>
-        <item>110</item>
      </integer-array>
      <string-array name="haptic_feedback_level_entries">
         <item>Слабый</item>
@@ -191,6 +191,13 @@
         <item>Компьютер будет автоматически открывать и читать данные телефона\nТеперь вы можете передавать файлы</item>
         <item></item>
      </string-array>
+     <string-array name="overlay_display_devices_entries">
+        <item>Нет</item>
+        <item>720x480 mdpi</item>
+        <item>1280x720 tvdpi</item>
+        <item>1920x1080 xhdpi</item>
+        <item>1280x720 tvdpi and 1920x1080 xhdpi</item>
+     </string-array>
      <string-array name="perm_hips_action">
         <item>Разрешить</item>
         <item>Запрос</item>
@@ -232,6 +239,11 @@
         <item>5 мин.</item>
         <item>10 мин.</item>
         <item>30 мин.</item>
+     </string-array>
+     <string-array name="security_settings_premium_sms_values">
+        <item>Спрашивать</item>
+        <item>Запретить</item>
+        <item>Разрешить</item>
      </string-array>
      <string-array name="special_locale_names">
         <item>Китайский (упрощенный)</item>
