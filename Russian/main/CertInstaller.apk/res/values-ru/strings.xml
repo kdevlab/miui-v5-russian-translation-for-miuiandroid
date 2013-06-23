@@ -25,6 +25,7 @@
      <string name="one_userkey">один пользовательский ключ</string>
      <string name="one_wapi_ascrt">один сертификат WAPI AS</string>
      <string name="one_wapi_usercrt">один сертификат пользователя WAPI</string>
+     <string name="only_primary_user_allowed">Только владелец данного устройства может устанавливать сертификаты</string>
      <string name="p12_description">Сертификаты в хранилище ключей PKCS12.</string>
      <string name="password_empty_error">Введите пароль.</string>
      <string name="password_error">Введите правильный пароль.</string>
