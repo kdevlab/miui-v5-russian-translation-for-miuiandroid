@@ -33,9 +33,11 @@
      <string name="accessibility_global_gesture_preference_summary_on">ВКЛ</string>
      <string name="accessibility_global_gesture_preference_title">Быстрое включение</string>
      <string name="accessibility_long_press_timeout_preference_title">Задержка при нажатии и удержании</string>
+     <string name="accessibility_long_press_timeout_title">Задержка при нажатии и удержании</string>
      <string name="accessibility_menu_item_settings">Параметры</string>
      <string name="accessibility_no_services_installed">Службы не установлены</string>
      <string name="accessibility_power_button_ends_call_prerefence_title">Кнопка питания завершает вызов</string>
+     <string name="accessibility_power_button_ends_call_title">Кнопка питания завершает вызов</string>
      <string name="accessibility_screen_magnification_summary">"Эта функция позволяет увеличивать и уменьшать изображение, трижды нажав на экран.
 
 При увеличенном масштабе можно:
@@ -51,6 +53,7 @@
      <string name="accessibility_script_injection_button_disallow">Запретить</string>
      <string name="accessibility_script_injection_disallowed">Запрещена</string>
      <string name="accessibility_script_injection_security_warning_summary">Разрешить приложениям устанавливать скрипты Google для повышения доступности веб-контента?</string>
+     <string name="accessibility_script_injection_title">Установка веб-скриптов</string>
      <string name="accessibility_service_default_description">Нет описания</string>
      <string name="accessibility_service_disable_warning_summary">Чтобы отключить %1$s, нажмите ОК.</string>
      <string name="accessibility_service_disable_warning_title">Отключить %1$s?</string>
@@ -58,14 +61,18 @@
      <string name="accessibility_service_no_apps_title">Нужна программа чтения с экрана?</string>
      <string name="accessibility_service_security_warning_summary">Служба %1$s может сохранять любой вводимый текст, кроме паролей. В частности, сохраняются личные сведения, например номера кредитных карт. Кроме того, могут собираться данные об использовании телефона.</string>
      <string name="accessibility_service_security_warning_title">Использовать %1$s?</string>
+     <string name="accessibility_service_state_off">Отключено</string>
+     <string name="accessibility_service_state_on">Включено</string>
      <string name="accessibility_services_title">Службы</string>
      <string name="accessibility_settings">Спец. возможности</string>
      <string name="accessibility_settings_title">Настройки специальных возможностей</string>
+     <string name="accessibility_speak_password_title">Озвучивать пароли</string>
      <string name="accessibility_sync_disabled">Синхронизация отключена</string>
      <string name="accessibility_sync_enabled">Синхронизация включена</string>
      <string name="accessibility_sync_error">Ошибка синхронизации.</string>
      <string name="accessibility_system_title">Система</string>
      <string name="accessibility_toggle_large_text_preference_title">Большой текст</string>
+     <string name="accessibility_toggle_large_text_title">Большой текст</string>
      <string name="accessibility_toggle_screen_magnification_auto_update_preference_summary">Сохранять масштаб при переходе между приложениями</string>
      <string name="accessibility_toggle_screen_magnification_auto_update_preference_title">Сохранять масштаб</string>
      <string name="accessibility_toggle_screen_magnification_preference_title">Масштаб</string>
@@ -371,6 +378,7 @@
      <string name="bluetooth_menu_advanced">Расширенные</string>
      <string name="bluetooth_name_not_set">Без имени, использую имя аккаунта</string>
      <string name="bluetooth_no_devices_found">Устройства Bluetooth не найдены</string>
+     <string name="bluetooth_not_discoverable">Сделать устройство видимым</string>
      <string name="bluetooth_not_visible_to_other_devices">Не отображать для других Bluetooth-устройств</string>
      <string name="bluetooth_notif_message">Нажмите для подключения к устройству \"%1$s\"</string>
      <string name="bluetooth_notif_ticker">Запрос сопряжения Bluetooth</string>
@@ -436,7 +444,9 @@
      <string name="bluetooth_turning_on">Включение Bluetooth...</string>
      <string name="bluetooth_unknown">""</string>
      <string name="bluetooth_untether_blank">Подключение к %1$s будет прервано.</string>
+     <string name="bluetooth_visibility">Видимость</string>
      <string name="bluetooth_visibility_timeout">Тайм-аут видимости</string>
+     <string name="bluetooth_visibility_timeout_summary">Укажите, в течение какого времени устройство будет видимым</string>
      <string name="breathing_light_color_summary">Цвет светодиода для уведомлений</string>
      <string name="breathing_light_color_title">" (цвет)"</string>
      <string name="breathing_light_freq_summary">Интервал мигания светодиода</string>
@@ -889,13 +899,9 @@
      <string name="help_url_bluetooth">""</string>
      <string name="help_url_choose_lockscreen">""</string>
      <string name="help_url_data_usage">""</string>
-     <string name="help_url_dreams" />
-     <string name="help_url_location_access" />
      <string name="help_url_more_networks">""</string>
-     <string name="help_url_security" />
      <string name="help_url_sound">""</string>
      <string name="help_url_tether">""</string>
-     <string name="help_url_users" />
      <string name="help_url_vpn">""</string>
      <string name="help_url_wifi">""</string>
      <string name="hidden_ssid_label">"Скрытый SSID: "</string>
@@ -990,6 +996,9 @@
      <string name="location_title">Мое местоположение</string>
      <string name="lock_after_timeout">Автоблокировка</string>
      <string name="lock_after_timeout_summary">После %1$s спящего режима</string>
+     <string name="lock_intro_message">"Чтобы никто, кроме вас, не мог воспользоваться вашим телефоном, создайте графический ключ разблокировки экрана. Для этого соедините в произвольном порядке не менее четырех точек на следующем экране. 
+
+Чтобы начать, нажмите \"Далее\"."</string>
      <string name="lock_screen_unlock_show">Показать интерфейс ввода пароля</string>
      <string name="lock_screen_unlock_show_summary">Не используйте другие локскрины после включения, достаточно зайти в интерфейс для разблокировки экрана</string>
      <string name="lock_settings_picker_settings">Установить блокировку экрана</string>
@@ -997,6 +1006,7 @@
      <string name="lock_settings_title">Блокировка экрана</string>
      <string name="lock_setup">Настройка завершена</string>
      <string name="lock_sounds_enable_title">Звук блокировки экрана</string>
+     <string name="lock_title">Обеспечение безопасности телефона</string>
      <string name="lockpassword_cancel_label">Отмена</string>
      <string name="lockpassword_choose_lock_generic_header">Способ разблокировки</string>
      <string name="lockpassword_choose_your_password_header">Выберите пароль</string>
@@ -1382,7 +1392,7 @@
      <string name="power_phone">Голосовые вызовы</string>
      <string name="power_screen">Экран</string>
      <string name="power_usage_history">Использование батареи</string>
-     <string name="power_usage_level_and_status">%1$s – %2$s</string>
+     <string name="power_usage_level_and_status">%1$s – %2$s</string>
      <string name="power_usage_not_available">Уровень заряда неизвестен</string>
      <string name="power_usage_summary">На что расходуется заряд батареи</string>
      <string name="power_usage_summary_title">Батарея</string>
@@ -1489,6 +1499,7 @@
      <string name="radio_info_smsc_refresh_label">Обновление</string>
      <string name="radio_info_smsc_update_label">Обновить</string>
      <string name="radio_info_toggle_dns_check_label">Выбор проверки DNS</string>
+     <string name="read_only">" (только для чтения)"</string>
      <string name="really_remove_account_message">Удаление этого аккаунта приведет к потере всех связанных с ним сообщений, контактов и других данных, имеющихся в телефоне</string>
      <string name="really_remove_account_title">Удалить аккаунт?</string>
      <string name="recognizer_settings_summary">Настройки для %s</string>
@@ -1557,6 +1568,8 @@
      <string name="screen_timeout">Спящий режим</string>
      <string name="screen_timeout_summary">После %1$s бездействия</string>
      <string name="screen_timeout_title">Спящий режим</string>
+     <string name="screensaver_activate_on_dock_title">Включать в док-станции</string>
+     <string name="screensaver_component_title">Заставка</string>
      <string name="screensaver_settings_button">Настройки</string>
      <string name="screensaver_settings_disabled_prompt">Чтобы знать, что происходит с телефоном, когда он подключен к док-станции или находится в спящем режиме, включите заставку.</string>
      <string name="screensaver_settings_dream_start">Включить</string>
@@ -1564,9 +1577,14 @@
      <string name="screensaver_settings_summary_either_long">При подключении к док-станции, при переходе в спящий режим и во время зарядки</string>
      <string name="screensaver_settings_summary_either_short">Всегда</string>
      <string name="screensaver_settings_summary_off">Выключено</string>
+     <string name="screensaver_settings_summary_on">Активация в спящем режиме при зарядке</string>
      <string name="screensaver_settings_summary_sleep">Во время зарядки</string>
      <string name="screensaver_settings_title">Заставка</string>
      <string name="screensaver_settings_when_to_dream">Когда включать</string>
+     <string name="screensaver_test">Попробовать</string>
+     <string name="screensaver_timeout_summary">%1$s</string>
+     <string name="screensaver_timeout_title">Время до активации</string>
+     <string name="screensaver_timeout_zero_summary">Никогда</string>
      <string name="sd_card_settings_label">USB накопитель</string>
      <string name="sd_card_storage">USB накопитель</string>
      <string name="sd_eject">Извлечь накопитель</string>
@@ -1691,6 +1709,7 @@
      <string name="show_magnifier_when_input">Отображать лупу</string>
      <string name="show_owner_info_on_lockscreen_label">Показывать данные о владельце на экране блокировки</string>
      <string name="show_password">Показывать пароль</string>
+     <string name="show_password_summary">""</string>
      <string name="show_rounded_corners">Загруглять углы приложений</string>
      <string name="show_running_services">Показать активные службы</string>
      <string name="show_screen_updates">Показать обновления</string>
@@ -1731,6 +1750,7 @@
      <string name="sim_pins_dont_match">PIN-коды не совпадают</string>
      <string name="sim_reenter_new">Введите новый PIN повторно</string>
      <string name="sim_status_title">Статус SIM</string>
+     <string name="skip_button_label">Отмена</string>
      <string name="skip_label">Пропустить</string>
      <string name="skip_step">Пропустить этот шаг</string>
      <string name="slot_status_title">Информация о IMEI</string>
@@ -1983,6 +2003,7 @@
      <string name="user_confirm_remove_title">Удалить пользователя?</string>
      <string name="user_delete_button">Удалить</string>
      <string name="user_delete_user_description">Удалить пользователя</string>
+     <string name="user_details_title">Редактировать</string>
      <string name="user_dict_multiple_settings_title">Пользовательские словари</string>
      <string name="user_dict_settings_add_dialog_less_options">Меньше настроек</string>
      <string name="user_dict_settings_add_dialog_more_options">Больше настроек</string>
@@ -2001,13 +2022,20 @@
      <string name="user_dict_settings_summary">""</string>
      <string name="user_dict_settings_titlebar">Словарь пользователя</string>
      <string name="user_dict_single_settings_title">Пользовательский словарь</string>
+     <string name="user_discard_user_menu">Отмена</string>
      <string name="user_info_settings_title">Информация о пользователе</string>
+     <string name="user_information_heading">Информация</string>
      <string name="user_list_title">Пользователи</string>
+     <string name="user_market_apps_heading">Установленные приложения</string>
+     <string name="user_market_requires_pin">Запрос PIN</string>
+     <string name="user_max_content_rating">Рейтинг содержимого</string>
+     <string name="user_name_title">Имя</string>
      <string name="user_new_user_name">Защита от детей</string>
      <string name="user_nickname">Ник</string>
      <string name="user_owner">Владелец</string>
      <string name="user_picture_title">Фотография</string>
      <string name="user_remove_user_menu">Удалить пользователя %1$s с этого устройства</string>
+     <string name="user_restrictions_heading">Ограничения содержимого</string>
      <string name="user_settings_title">Пользователи и ограничения</string>
      <string name="user_setup_button_setup_later">Не сейчас</string>
      <string name="user_setup_button_setup_now">Настроить</string>
@@ -2016,6 +2044,7 @@
      <string name="user_summary_active">Активен</string>
      <string name="user_summary_inactive">Не активен</string>
      <string name="user_summary_not_set_up">Не настроен</string>
+     <string name="user_system_apps_heading">Системные приложения</string>
      <string name="user_you_section">Вы</string>
      <string name="verify_applications">Проверка приложений</string>
      <string name="verify_applications_summary">Запретить или предупреждать перед установкой приложений, которые могут причинить вред</string>
