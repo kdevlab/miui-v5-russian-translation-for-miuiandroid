@@ -29,7 +29,6 @@
      <string name="app_name">Монитор</string>
      <string name="app_traffic_detail">" трафик(%s)"</string>
      <string name="apply_rules_failed">Не удалось включить брандмауэр, попробуйте еще раз (%s)</string>
-     <string name="apply_rules_failed_known">OK</string>
      <string name="batch_connect_control">Управление соединениями</string>
      <string name="cancel_txt">Отмена</string>
      <string name="cannot_find_sms_cmd">Не удается найти SMS команду</string>
@@ -80,8 +79,6 @@
      <string name="menu_sort_by_name">По имени приложений</string>
      <string name="menu_traffic_adjust">Регулировка трафика</string>
      <string name="menu_traffic_settings">Тарифный план</string>
-     <string name="mobile_traffic">2G/3G: %s</string>
-     <string name="mobile_type">2G/3G</string>
      <string name="month_traffic_settings_title">Ежемесячный трафик</string>
      <string name="notify_carrier_settings_title">Вы не настроили поставщика услуг связи. Настроить сейчас?</string>
      <string name="notify_traffic_settings_cancel_hint">Уведомления и контроль трафика будут отключены. Выйти сейчас?</string>

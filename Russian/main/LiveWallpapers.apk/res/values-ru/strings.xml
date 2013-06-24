@@ -14,28 +14,16 @@
      <string name="show_seconds">Показать секунды</string>
      <string name="variable_line_width">Изменять ширину кольца</string>
      <string name="wallpaper_clock">Полярные часы</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="wallpaper_clock_author">Google</string>
      <string name="wallpaper_clock_desc">Оригинальные часы и календарь</string>
      <string name="wallpaper_fall">Вода</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="wallpaper_fall_author">Google</string>
      <string name="wallpaper_fall_desc">Опавшие листья&lt;br> На берегу пруда:&lt;br> Вибрации Дзен</string>
      <string name="wallpaper_galaxy">Галактика</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="wallpaper_galaxy_author">Google</string>
      <string name="wallpaper_galaxy_desc">Галактика кружащихся звезд</string>
      <string name="wallpaper_grass">Трава</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="wallpaper_grass_author">Google</string>
      <string name="wallpaper_grass_desc">Стебли травы, колышущиеся на фоне ночного или дневного неба</string>
      <string name="wallpaper_nexus">Нейроны</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="wallpaper_nexus_author">Google</string>
      <string name="wallpaper_nexus_desc">Нейронная сеть изнутри</string>
      <string name="wallpaper_walkaround">В объективе</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="wallpaper_walkaround_author">Google</string>
      <string name="wallpaper_walkaround_desc">Смотрите в мир через камеру телефона и прогуливайтесь, не подвергаясь риску</string>
      <string name="wallpapers">Живые обои</string>
 </resources>

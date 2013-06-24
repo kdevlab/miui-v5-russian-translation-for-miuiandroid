@@ -139,8 +139,6 @@
      <string name="status_bar_toggle_divider">Еще</string>
      <string name="status_bar_toggle_drive_mode">В машине</string>
      <string name="status_bar_toggle_flight_mode">В самолете</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="status_bar_toggle_gps">GPS</string>
      <string name="status_bar_toggle_lock">Блокировка</string>
      <string name="status_bar_toggle_mute">Без звука</string>
      <string name="status_bar_toggle_network_type">Тип сети</string>

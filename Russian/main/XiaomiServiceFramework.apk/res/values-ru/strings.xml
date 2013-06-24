@@ -77,7 +77,6 @@
      <string name="error_user_id_mismatch_title">Ошибка аутентификации!</string>
      <string name="error_verify_summary">Приложение не имеет разрешения на запрос этого сервиса</string>
      <string name="failed_to_send_activate_email">Невозможно отправить активацию по почте</string>
-     <string name="fee">%1$s MiCredit</string>
      <string name="find_device">Поиск устройства</string>
      <string name="find_device_check_phone_error_title">Ошибка включения поиска устройств</string>
      <string name="find_device_disabled_notice">Вы можете включить снова через Параметры - Мои аккаунты - Аккаунт Xiaomi</string>
@@ -170,8 +169,6 @@
      <string name="password_hint">Пожалуйста, введите Ваш пароль аккаунта Xiaomi:</string>
      <string name="pay_record">Платежная история</string>
      <string name="pay_record_empty">Нет платежной истории</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="paytool_alipay">Alipay</string>
      <string name="paytool_edit_hint">Сумма пополнения (RMB):</string>
      <string name="paytool_edit_limit">максимум: %1$s</string>
      <string name="paytool_error_denomination">Пожалуйста, введите правильную сумму пополнения</string>
@@ -180,13 +177,7 @@
      <string name="paytool_msp_not_installed">Вы не установили плагин защиты %1$s. Установить его сейчас?</string>
      <string name="paytool_picker_hint">Выберите сумму пополнения баланса</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="paytool_tenpay">Tenpay</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="prepaid_china_mobile">China Mobile</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="prepaid_china_telcom">China Telcom</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="prepaid_china_unicom">China Unicom</string>
      <string name="prepaid_edit_limit">знаков</string>
      <string name="prepaid_error_card_length">Пожалуйста, введите правильный номер карты предоплаты или пароль</string>
      <string name="prepaid_error_card_number">Введите правильную сумму для пополнения счета</string>
@@ -195,11 +186,7 @@
      <string name="prepaid_error_password">Неверный пароль карты предоплаты</string>
      <string name="prepaid_number_edit_hint">Номер карты предоплаты</string>
      <string name="prepaid_password_edit_hint">Пароль карты предоплаты</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="prepaid_picker_hint_1_1">1.</string>
      <string name="prepaid_picker_hint_1_2">Поддерживается только разовая плата</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="prepaid_picker_hint_2_1">2.</string>
      <string name="prepaid_picker_hint_2_2_a">Выбранная номинальной стоимость должна быть равна стоимости предоплаченной карты, в противном случае это приведет к потере денег.</string>
      <string name="prepaid_picker_hint_2_2_b">Если номинальная стоимость карты составляет %1$s юаней, это приведет к потере денег</string>
      <string name="prepaid_picker_title_default">Выберите сумму пополнения</string>
@@ -230,8 +217,6 @@
      <string name="progress_warning_waiting">Еще не подтвержден. Пожалуйста, повторите попытку позже.</string>
      <string name="quick_login_title">Требуется войти в аккаунт. Пожалуйста, введите ваш пароль.</string>
      <string name="recharge_alipay_summary">Пополнение Alipay</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="recharge_alipay_title">Alipay</string>
      <string name="recharge_denomination">%1$s RMB</string>
      <string name="recharge_hint">1 MiCredit = 5 RMB ~ 25 рублей</string>
      <string name="recharge_notification">Пополнение на %1$s MiCredit</string>
@@ -243,8 +228,6 @@
      <string name="recharge_record">История пополнений</string>
      <string name="recharge_record_empty">Нет истории пополнения</string>
      <string name="recharge_tenpay_summary">Пополнение через Tenpay</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="recharge_tenpay_title">Tenpay</string>
      <string name="recharge_voucher_summary">Пополнение через карты MiCredit</string>
      <string name="recharge_voucher_title">Карты MiCredit</string>
      <string name="reg_by_email_failure">Ошибка регистрации: %1$s</string>
@@ -261,8 +244,6 @@
      <string name="send_sms_for_sync_notice">Для активации нужно отправить SMS. Продолжить?</string>
      <string name="send_sms_for_sync_title">Служба синхронизации не активирована</string>
      <string name="sim_changed_notification_content">SIM-карта не активирована. Пожалуйста, активируйте.</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="sina_weibo">Sina WeiBo</string>
      <string name="skip_login">Пропустить</string>
      <string name="skip_setup_account_msg">С помощью аккаунта Xiaomi вы сможете синхронизировать ваши контакты, сообщения и другие личные данные.</string>
      <string name="skip_setup_account_title">Пропустить настройку аккаунта</string>
@@ -298,6 +279,4 @@
      <string name="voucher_edit_limit">только цифры</string>
      <string name="voucher_error_code">Неверный пароль карты MiCredit</string>
      <string name="voucher_input_password_prompt">Введите пароль</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="xiaomi_cloud_service">MiCloud</string>
 </resources>
