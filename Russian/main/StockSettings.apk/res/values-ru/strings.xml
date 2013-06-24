@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Builded with CloudBuildr -->
 <resources>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="PSButton">OK</string>
      <string name="PSFail">Не возможно подключиться к PC</string>
      <string name="PSMsg">Если вы не можете подключиться к Интернету через сквозной интернет, пожалуйста, убедитесь, что ваши настройки вашего брандмауэра позволяют этот тип подключения. Сквозной интернет поддерживает только TCP соединения, если ваш компьютер подключается к Интернету через PPP (например, Dial Up, XDSL, или VPN)</string>

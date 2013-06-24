@@ -59,11 +59,15 @@
      <string name="account_settings_vibrate_when_never">Никогда</string>
      <string name="account_settings_vibrate_when_silent">В режиме \"Без звука\"</string>
      <string name="account_settings_vibrate_when_summary">Вибрировать при получении сообщения</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="account_setup_account_type_exchange_action">Exchange</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="account_setup_account_type_exchange_action_alternate">Microsoft Exchange ActiveSync</string>
      <string name="account_setup_account_type_headline">Тип аккаунта</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="account_setup_account_type_imap_action">IMAP</string>
      <string name="account_setup_account_type_instructions">Выберите тип аккаунта</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="account_setup_account_type_pop_action">POP3</string>
      <string name="account_setup_account_type_title">Тип аккаунта</string>
      <string name="account_setup_basic_description_label">Имя акаунта (опционально)</string>
@@ -127,6 +131,7 @@
      <string name="account_setup_incoming_security_none_label">Нет</string>
      <string name="account_setup_incoming_security_ssl_label">SSL/TLS</string>
      <string name="account_setup_incoming_security_ssl_trust_certificates_label">SSL/TLS (принимать все сертификаты)</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="account_setup_incoming_security_tls_label">STARTTLS</string>
      <string name="account_setup_incoming_security_tls_trust_certificates_label">STARTTLS (принимать все сертификаты)</string>
      <string name="account_setup_incoming_title">Настройки аккаунта</string>
@@ -262,6 +267,7 @@
      <string name="eml_view_title">Просмотр файла %s</string>
      <string name="error_loading_message_body">Не удалось загрузить сообщение. Возможно, оно слишком большое</string>
      <string name="exchange_name">Корпоративный</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="exchange_name_alternate">Microsoft Exchange</string>
      <string name="failed_bad_response">Ошибка службы</string>
      <string name="failed_network_error">Ошибка сети</string>

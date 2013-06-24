@@ -1,11 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Builded with CloudBuildr -->
 <resources>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="about_app_name">MiPlayer</string>
      <string name="about_title">О программе</string>
      <string name="adjust_position_next_media_notice">Следующий</string>
      <string name="adjust_position_prev_media_notice">Предыдущий</string>
      <string name="airkan_control_device_des">Вы можете управлять воспроизведением видео с помощью кнопки в нижней части</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="airkan_device_xiaomi_phone">Xiaomi</string>
      <string name="airkan_video_playing">Трансляция</string>
      <string name="airkan_video_playing_in">Видео проигрывается...</string>
@@ -48,6 +50,7 @@
      <string name="video_info_length_label">Длительность:</string>
      <string name="video_info_resolution_label">Разрешение:</string>
      <string name="video_info_video_coding_label">Видео кодек:</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="vp_VideoView_error_button">OK</string>
      <string name="vp_VideoView_error_network_not_available">Сеть не доступна</string>
      <string name="vp_VideoView_error_text_invalid_progressive_playback">Невозможно воспроизвести видео</string>

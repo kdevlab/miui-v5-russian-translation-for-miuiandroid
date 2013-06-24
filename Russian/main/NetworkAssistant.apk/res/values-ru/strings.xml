@@ -25,6 +25,7 @@
      <string name="app_detail_internet_control_category">Управление сетью</string>
      <string name="app_detail_title">О программе</string>
      <string name="app_detail_version">Версия: %s</string>
+     <string name="app_has_deleted">%s удалено.</string>
      <string name="app_name">Монитор</string>
      <string name="app_traffic_detail">" трафик(%s)"</string>
      <string name="apply_rules_failed">Не удалось включить брандмауэр, попробуйте еще раз (%s)</string>
