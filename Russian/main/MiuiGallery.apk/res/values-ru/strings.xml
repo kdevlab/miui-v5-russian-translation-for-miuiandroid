@@ -13,6 +13,7 @@
      <string name="album_name">Имя альбома</string>
      <string name="album_share_stat_content">Новые приглашения для альбома</string>
      <string name="albums">альбомы</string>
+     <string name="albumset_page_title_separator"> | </string>
      <string name="alert">Внимание</string>
      <string name="alert_message_initial_cloud">Система будет автоматически загружать старые и новые фотографии и скриншоты только тогда, когда есть Wi-Fi соединение</string>
      <string name="alert_message_open_sync">Необходима синхронизация. Вы хотите включить ее сейчас?</string>
@@ -162,6 +163,8 @@
      <string name="internal_miui_capture_screen_folder_display_name">Скриншоты в памяти телефона</string>
      <string name="internal_sd_card">Внутренняя SD-карта</string>
      <string name="invalid_recipient_message">"Исправьте получателя (получателей) или они не будут получать сообщения."</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="iso">ISO</string>
      <string name="kick_sharer">Удалить получателя</string>
      <string name="kick_sharer_failed">Ошибка удаления получателя</string>
      <string name="kick_sharer_successfully">Получатель удален</string>
@@ -186,6 +189,8 @@
      <string name="menu_view_contact">Просмотр контакта</string>
      <string name="message_no_delete_access">Отказано в доступе. Невозможно удалить файл или папку: %s.</string>
      <string name="messagelist_sender_self">Я</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="miliao_folder_display_name">MiTalk</string>
      <string name="miliao_painting_folder_display_name">Рисунок MiTalk</string>
      <string name="miliao_saved_folder_display_name">Сохраненные MiTalk</string>
      <string name="mimetype">Тип MIME</string>
@@ -230,6 +235,7 @@
      <string name="pick_too_many_recipients">Слишком много получателей</string>
      <string name="posterize">Постеризация</string>
      <string name="projection">Проекция</string>
+     <string name="recipient_editor_count_format">%d</string>
      <string name="redeye">Красные глаза</string>
      <string name="redeye_tooltip">Нажмите для устранения эффекта красных глаз</string>
      <string name="remove_hidden_album">Отменить скрытие</string>

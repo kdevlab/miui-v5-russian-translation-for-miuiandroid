@@ -7,6 +7,7 @@
      <string name="calibrate_failed_no_location">Ошибка калибрации: невозможно получить данные</string>
      <string name="calibrate_failed_timeout">Ошибка калибрации: Сервер не отвечает</string>
      <string name="calibrate_success">Калибровка успешно выполнена</string>
+     <string name="cannot_get_location">--</string>
      <string name="dialog_calibrat_altitude">Калибрация через интеренет подключение</string>
      <string name="dialog_title_no_network">Сетей не найдено. Подключитесь через Wi-Fi или включите мобильный интернет.</string>
      <string name="direction_east">В</string>

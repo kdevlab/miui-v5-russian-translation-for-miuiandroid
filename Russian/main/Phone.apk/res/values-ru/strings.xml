@@ -3,7 +3,6 @@
 <resources>
      <string name="ContactScreen">Добавить/Изменить контакт на SIM</string>
      <string name="ExportContactScreen">Экспорт контактов из телефона на SIM</string>
-     <string name="absent_num">НОМЕР ОТСУТСТВУЕТ</string>
      <string name="accessibility_call_muted">Звук выключен</string>
      <string name="accessibility_speakerphone_enabled">Громкая связь включена</string>
      <string name="addSimEntries">Добавить контакт на SIM</string>
@@ -43,12 +42,17 @@
      <string name="answer_widget_sliding_vertical_miui">Вертикальный</string>
      <string name="answer_widget_title_miui">Жест ответа</string>
      <string name="antispam_marked_count">Отклонило: %1$d</string>
+     <string name="antispam_marked_title">%1$s</string>
      <string name="antispam_notification_title">Неизвестный</string>
      <string name="apn_settings">Точки доступа (APN)</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="areacode_required_accept_miui">OK</string>
      <string name="areacode_required_for_emergency_number_miui">Наберите экстренный телефонный код области или города</string>
      <string name="areacode_required_miui">Требуется код города</string>
      <string name="atr_disable">Информация о пробках отключена</string>
      <string name="atr_enable">Информация о пробках включена</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="audio_mode_bluetooth">Bluetooth</string>
      <string name="audio_mode_earpiece">Динамик гарнитуры</string>
      <string name="audio_mode_speaker">Динамик</string>
      <string name="audio_mode_wired_headset">Проводная гарнитура</string>
@@ -311,6 +315,8 @@
      <string name="deleting_fdn_contact">Выполняется удаление номера ограниченного набора…</string>
      <string name="deleting_sim_entry_miui">Удаление контактов на SIM-карте</string>
      <string name="description_call_recording_miui">Запись текущего разговора.</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="description_delete_button">backspace</string>
      <string name="description_dial_button">набор номера</string>
      <string name="description_direction_left">Налево для %s.</string>
      <string name="description_direction_left_miui">Налево для %s.</string>
@@ -412,6 +418,10 @@
      <string name="enforce_proximity_title_miui">Включить датчик приближения</string>
      <string name="enterName">Введите имя:</string>
      <string name="enterNumber">Введите номер телефона:</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="enter_pin2_text">PIN2</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="enter_pin2_text_miui">PIN2</string>
      <string name="enter_pin_text">PIN SIM-карты:</string>
      <string name="entertainment_news_settings">Калейдоскоп</string>
      <string name="eo_disable">Вакансии отключены</string>
@@ -657,6 +667,8 @@
      <string name="onscreenShowDialpadText">Кнопки</string>
      <string name="onscreenSwapCallsText">Перевод звонка</string>
      <string name="onscreen_add_call_text_miui">Контакт</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="onscreen_audio_mode_bluetooth_miui">Bluetooth</string>
      <string name="onscreen_audio_mode_handset_miui">Динамик телефона</string>
      <string name="onscreen_audio_mode_headset_miui">Наушники</string>
      <string name="onscreen_audio_mode_miui">Ответ используя</string>
@@ -763,12 +775,16 @@
      <string name="preferred_network_mode_wcdma_perf_summary">Предпочтительная сеть: WCDMA</string>
      <string name="preferred_network_type_3g_only_warning_miui">"Вы выбрали только 3G как тип сети, из-за этого возможна потеря сети при плохом покрытии сетей 3G
 Нажмите OK для продолжения"</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="preferred_network_type_cdma_miui">CDMA</string>
+     <string name="preferred_network_type_gsm_umts_miui">GSM/WCDMA</string>
      <string name="preferred_network_type_pref_entries_3g_preferred_miui">Предпочтительно 3G</string>
      <string name="preferred_network_type_pref_entries_auto_miui">Автоматически</string>
      <string name="preferred_network_type_pref_entries_global_miui">Глобальный</string>
      <string name="preferred_network_type_pref_entries_only_2g_miui">2G (энергосбережение)</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="preferred_network_type_pref_entries_only_3g_miui">3G</string>
+     <string name="preferred_network_type_tds_cdma_miui">GSM/TDS-CDMA</string>
      <string name="preferred_network_type_title_miui">Выбор типа сети</string>
      <string name="primary_account_summary_with">Основной аккаунт. %s</string>
      <string name="private_num">Скрытый номер</string>
@@ -1010,6 +1026,14 @@
 Следующий период начинается через %2$d дней (%3$s)"</string>
      <string name="title_data_settings">Настройки данных</string>
      <string name="transport_title">Протокол</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="tty_mode_entries_full_miui">TTY Full</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="tty_mode_entries_hco_miui">TTY HCO</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="tty_mode_entries_off_miui">TTY Off</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="tty_mode_entries_vco_miui">TTY VCO</string>
      <string name="tty_mode_option_summary">Установить режим телетайпа</string>
      <string name="tty_mode_option_summary_miui">Установить режим телетайпа</string>
      <string name="tty_mode_option_title">Режим телетайпа</string>

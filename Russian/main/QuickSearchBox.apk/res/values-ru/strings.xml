@@ -18,6 +18,8 @@
      <string name="google_app_label">Поиск Google</string>
      <string name="google_search_description">Предложения поиска Google</string>
      <string name="google_search_hint">Поиск Google</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="google_search_label">Google</string>
      <string name="google_settings_category_title">Поиск Google</string>
      <string name="menu_help">Помощь</string>
      <string name="menu_settings">Настройки</string>

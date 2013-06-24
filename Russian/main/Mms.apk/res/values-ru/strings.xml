@@ -127,6 +127,8 @@
      <string name="festival">Поздравления</string>
      <string name="festival_sms_category_count_format">(%s)</string>
      <string name="festival_sms_loading">Загрузка...</string>
+     <string name="fetion_prefix">[Fetion]</string>
+     <string name="flatshow_page_no">%1$d</string>
      <string name="forward_prefix">"От: "</string>
      <string name="found_old_messages">Найдено сообщений от предыдущего аккаунта: %1$s Вы хотите загрузить их в свой текущий аккаунт %2$s?</string>
      <string name="found_old_messages_title">Загрузка сообщений</string>
@@ -180,6 +182,8 @@
      <string name="message_too_big_for_video">Сообщение слишком велико, чтобы приложить видео</string>
      <string name="message_type_label">"Тип: "</string>
      <string name="messagelist_sender_self">Я</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mms">MMS</string>
      <string name="move_down">Переместить вниз</string>
      <string name="move_up">Переместить вверх</string>
      <string name="msg_type_hint_mms">Мультимедийное сообщение</string>
@@ -297,6 +301,7 @@ SMS (%1$d), MMS (%2$d)"</string>
      <string name="prvate_contact">Приватные контакты</string>
      <string name="rate_limit_surpassed">Подтвердить</string>
      <string name="received_label">"Получено: "</string>
+     <string name="recipient_editor_count_format">%d</string>
      <string name="recipient_label">"Получатель: "</string>
      <string name="refresh">Обновить</string>
      <string name="refresh_failed">Обновление не выполнено</string>

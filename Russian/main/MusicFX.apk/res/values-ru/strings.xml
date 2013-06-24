@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Builded with CloudBuildr -->
 <resources>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="app_name">MusicFX</string>
      <string name="bass_boost_strength">Усиление нижних частот</string>
      <string name="ci_extreme">Усилитель FX</string>
      <string name="eq_dialog_title">Эквалайзер</string>

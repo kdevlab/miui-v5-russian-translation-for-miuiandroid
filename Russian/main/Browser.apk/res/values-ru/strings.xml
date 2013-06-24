@@ -184,6 +184,7 @@
      <string name="geolocation_settings_page_summary_not_allowed">У этого сайта сейчас нет доступа к данным о вашем местоположении</string>
      <string name="geolocation_settings_page_title">Очистить геоданные</string>
      <string name="go_home">Домашняя страница</string>
+     <string name="google_bookmarks">"Google: "</string>
      <string name="goto_dot">Поиск</string>
      <string name="have_sent_bookmark_to_home_screen">Отправлено на рабочий стол</string>
      <string name="history">История</string>
@@ -256,6 +257,8 @@
      <string name="page_info_view">Информация</string>
      <string name="password">Пароль</string>
      <string name="permission_preload_label">Загрузить результаты</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="picasa">Picasa</string>
      <string name="please_select_a_file_to_import">Пожалуйста, выберите файл с данными</string>
      <string name="popup_window_attempt">Открыть всплывающее окно с этого сайта?</string>
      <string name="pref_accessibility_title">Спец. возможности</string>
@@ -431,8 +434,16 @@
      <string name="save_file_already_exist_alert_title">Внимание</string>
      <string name="save_to_bookmarks">Добавить закладку</string>
      <string name="saving_snapshot">Сохраняется...</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="search_139">139</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="search_baidu">Baidu</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="search_bing">Bing</string>
      <string name="search_button_text">Поиск</string>
      <string name="search_cancel">Отмена</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="search_google">Google</string>
      <string name="search_hint">Поиск</string>
      <string name="search_label">Браузер</string>
      <string name="search_settings_description">Закладки и история поиска</string>

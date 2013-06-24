@@ -12,6 +12,7 @@
      <string name="notification_download_complete">Загрузка завершена</string>
      <string name="notification_download_failed">Не удалось загрузить файл</string>
      <string name="notification_filename_extras">" и ещё %d"</string>
+     <string name="notification_filename_separator">", "</string>
      <string name="notification_need_wifi_for_size">Загрузка только по Wi-Fi</string>
      <string name="notification_paused_in_background">Загрузка приостановлена</string>
      <string name="permdesc_accessAllDownloads">Приложение сможет открывать и изменять загрузки независимо от того, через какое ПО они были загружены</string>

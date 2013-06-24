@@ -360,6 +360,7 @@
      <string name="frequency_three_days">Каждые 3 дня</string>
      <string name="frequency_weekly">Каждую неделю</string>
      <string name="frequentList">Часто вызываемые</string>
+     <string name="from_account_format">%1$s</string>
      <string name="full_name">Имя</string>
      <string name="generic_no_account_prompt">Держите свои контакты в безопасности, даже если Вы потеряете свой телефон: синхронизация с онлайн-сервисом</string>
      <string name="generic_no_account_prompt_title">Добавить аккаунт</string>
@@ -390,6 +391,8 @@
      <string name="ic_menu_back">Назад</string>
      <string name="ic_menu_done">Готово</string>
      <string name="imLabelsGroup">Чат</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="imei">IMEI</string>
      <string name="import_all_vcard_string">Импорт всех файлов VCard</string>
      <string name="import_contact_card_button">Импорт</string>
      <string name="import_failure_no_vcard_file">На SD-карте нет vCard</string>
@@ -452,6 +455,8 @@
      <string name="map_home">Просмотреть домашний адрес</string>
      <string name="map_other">Просмотр адреса</string>
      <string name="map_work">Просмотреть рабочий адрес</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="meid">MEID</string>
      <string name="menu_accounts">Аккаунты</string>
      <string name="menu_addStar">В избранные</string>
      <string name="menu_bar_group_add">Добавить</string>
@@ -607,6 +612,7 @@
      <string name="not_applied">Не поддерживается</string>
      <string name="notification_action_voicemail_play">Прослушать</string>
      <string name="notification_new_voicemail_ticker">Новое гол. сообщение от %1$s</string>
+     <string name="notification_voicemail_callers_list">%1$s, %2$s</string>
      <string name="online_no_network">Не возможно подключиться к сети</string>
      <string name="online_search_hint">Введите ключевые слова</string>
      <string name="openDialKeyboard">Клавиатура</string>
@@ -628,6 +634,7 @@
      <string name="payphone">Телефон-автомат</string>
      <string name="people">Контакты</string>
      <string name="phoneLabelsGroup">Телефон</string>
+     <string name="phone_info_divider">"  |  "</string>
      <string name="phone_primary">Основной</string>
      <string name="photoPickerNotFoundText">Нет изображений</string>
      <string name="photo_package_activity_title">Фото пакет</string>
@@ -765,6 +772,7 @@
      <string name="resource_no_result">Нет результатов</string>
      <string name="resource_notification_default">Уведомления</string>
      <string name="resource_online">Онлайн %1$s</string>
+     <string name="resource_price_format">(%1$s)</string>
      <string name="resource_price_free">Беспл.</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="resource_price_unit">MiCredit</string>

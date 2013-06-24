@@ -19,6 +19,7 @@
      <string name="button_search">Поиск</string>
      <string name="button_text_login">Войти</string>
      <string name="button_text_register">Создать новый аккаунт XiaoMi</string>
+     <string name="bytes">%1$s/%2$s</string>
      <string name="bytes_unit">%1$sБ</string>
      <string name="cancel">Отмена</string>
      <string name="card_psw_invaild">Неверное имя пользователя или пароль</string>
@@ -37,6 +38,8 @@
      <string name="click_again_exit_app">Нажмите еще раз для выхода</string>
      <string name="client_download_start">Загрузка</string>
      <string name="client_update_now">Обновить</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="comment_cannot_comment">Please use the application so you can comment.</string>
      <!-- The count of MNPS does not match! Now: 1 must: 2
 	%s: 1 must: 2
 	%d: 0 must: 0 -->
@@ -47,7 +50,30 @@
 	%d: 0 must: 0 -->
      <!-- Original string: %1$s comment on %2$s:%3$s:%4$s -->
      <string name="comment_description">%1$s%2$1s</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="comment_invalid">Please touch the stars to give a score</string>
+     <string name="comment_name_default">User %1$s</string>
      <string name="comment_publish">Отправить</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="comment_sending">Sending comment...</string>
+     <string name="comment_upload_account_need_activitied">Your account is not activated, set to active it now ?</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="comment_upload_account_not_activitied">Your account is not activated, please activate it and try again</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="comment_upload_data_invalid">Sorry, the comment is invalid</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="comment_upload_failed">Comment send failed</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="comment_upload_hint">Your comment will be displayed after the audit</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="comment_upload_login_cancel">Cancel</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="comment_upload_login_ok">OK</string>
+     <string name="comment_upload_need_login">Do you want to login now to add a comment ?</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="comment_upload_not_logined">Please login first</string>
+     <string name="comment_upload_success">Comment sent! It will be displayed after the audit</string>
+     <string name="comment_version_name">(%1$s version)</string>
      <string name="connect_fail">%1$s - установка не удалась: ошибка соединения, пожалуйста, проверьте сетевое соединение</string>
      <string name="connect_network_fail">Ошибка соединения</string>
      <string name="connect_network_hint">Game Center требуется доступ к сети. Включите мобильную сеть или Wi-Fi для загрузки данных.</string>
@@ -56,6 +82,8 @@
      <string name="connecting">подключение</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="default_nick_name">KDev Group</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="description_info">Description</string>
      <string name="dialog_birthday_title">Мой день рождения</string>
      <string name="dialog_constellation_title">Мой знак зодиака</string>
      <string name="dialog_gender_title">Я</string>
@@ -64,6 +92,7 @@
      <string name="downloadComplete">Загружено!</string>
      <string name="download_apk_no_sdk_content">Пожалуйста, установите SD-карту для установки игры</string>
      <string name="download_apk_no_sdk_title">SD-карта не найдена</string>
+     <string name="download_count">Download count %1$s</string>
      <string name="download_deleted_fail">%1$s - сбой установки: задача удалена</string>
      <string name="download_fail">%1$s - установка не удалась: ошибка скачивания</string>
      <string name="download_manager_tag">Загрузки</string>
@@ -76,11 +105,16 @@
 	%d: 0 must: 1 -->
      <!-- Original string: %d Updates -->
      <string name="enable_updata_local_app">%1$s приложений можно обновить</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="expand_full_text">Expand</string>
+     <string name="expand_full_text_comment">Expand all text▼</string>
      <string name="failed_to_add_photo">Ошибка добавления фотографии</string>
      <string name="game_date_version_name">%1$d-%2$d- релиз v%3$s</string>
      <string name="game_detail_title">Подробнее об игре</string>
      <string name="gender_female">Женщина</string>
      <string name="gender_male">Мужчина</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="good_comments">Positive</string>
      <string name="head_text_login">Войти в аккаунт XiaoMi</string>
      <string name="header_processing">Подготовка загрузки</string>
      <string name="header_waiting">Ожидание загрузки</string>
@@ -88,10 +122,14 @@
      <string name="hot_cat_tag">Топ</string>
      <string name="hot_rank_tag">Топ рейтинга</string>
      <string name="install">уст.</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="install_all">Install all</string>
      <string name="install_all_description">Установить игры %1$s и %2$s сейчас?</string>
      <string name="install_btn_cancel">отмн.</string>
      <string name="install_btn_continue">прдл.</string>
      <string name="install_btn_download_manager">Менеджер загрузок</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="install_btn_ok">OK</string>
      <string name="install_fail">%1$s - сбой установки</string>
      <string name="install_hash_fail">%1$s - установка не удалась: пакет не прошел проверку</string>
      <string name="install_inconsistent_fail">%1$s - установка не удалась: несоотвествие подписей</string>
@@ -105,10 +143,100 @@
      <string name="install_title">Установка</string>
      <string name="installed">Установлено</string>
      <string name="installing">установка</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="integra_text">empiric</string>
+     <string name="integral_add_txt_down_app">Downloading now！ +%d points!</string>
+     <string name="integral_add_txt_open_app">Welcome back！+%d points!</string>
+     <string name="integral_add_txt_update_app">Updating now！ +%d points!</string>
      <string name="kilobytes_unit">%1$s КБ</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="launch">Launch</string>
+     <string name="launch_failed_text">Failed to launch %1$s</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="level_experience">Level and experience</string>
      <string name="loading">Загрузка HD картинки…</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="loading_app_detail">Loading game detail...</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="loading_app_list">Loading game list...</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="loading_category_list">Loading category list...</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="loading_search_result">Loading search result...</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="loading_subject_game_list">Loading subject game list...</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="loading_subject_list">Loading subject list...</string>
      <string name="local_game_head">Игр: %d</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="locations_anhui">Anhui</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="locations_beijing">Beijing</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="locations_chongqin">Chongqing</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="locations_fujian">Fujian</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="locations_gansu">Gansu</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="locations_guangdong">Guangdong</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="locations_guangxi">Guangxin</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="locations_guizhou">Suzhou</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="locations_hainan">Hanan</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="locations_hebei">Hebei</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="locations_heilongjiang">Heilongjiang</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="locations_henan">Henan</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="locations_hongkong">Hongkong</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="locations_hubei">Hubei</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="locations_hunan">Henen</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="locations_jiangsu">Jiangsu</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="locations_jiangxi">Jiangxi</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="locations_jilin">Jilin</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="locations_liaoning">Liaoning</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="locations_macao">Macao</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="locations_neimenggu">Inner Mongolia</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="locations_ningxia">Ningxia</string>
      <string name="locations_overseas">Другой</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="locations_qinghai">Qinghai</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="locations_shandong">Shandong</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="locations_shanghai">Shanghai</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="locations_shanxi">Shanxi</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="locations_shanxi3">ShaanXi</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="locations_sichuan">Sichuan</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="locations_taiwan">Taiwan</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="locations_tianjin">Tianjin</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="locations_tibet">Tibet</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="locations_xinjiang">Xinjiang</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="locations_yunnan">Yunnan</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="locations_zhejiang">Zhejiang</string>
      <string name="login_fail">Не удалось войти</string>
      <string name="login_with_xiaomi_account">Войти через XiaoMi</string>
      <string name="logining">Вход в систему…</string>
@@ -123,21 +251,38 @@
      <string name="mibi_rmb_relation">1 ￥ равняется 1 MiBi</string>
      <string name="modify_nick_name_hint">Введите ник (2-12 символов, букв и цифр)</string>
      <string name="more_subjects">Просмотреть другие темы</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="my_account">My Account</string>
+     <string name="my_account_mibi">%s Mibi</string>
      <string name="my_account_title">Мой профиль</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="my_account_unlogin">unlogin</string>
      <string name="my_favorites_title">Любимые категории</string>
      <string name="my_games_title">Мои игры</string>
      <string name="my_info_subtitle">Обо мне</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="my_xiaomi_account">Xiaomi Account</string>
      <string name="need_update_game">Войдите, чтобы управлять обновлениями</string>
+     <string name="negative_sign">-</string>
      <string name="new_app_tag">Новые</string>
      <string name="new_cat_tag">Новые</string>
+     <string name="nick_name">XM%s</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="no_average_score">No average score</string>
      <string name="no_card_number">Номер карты не может быть пустым</string>
      <string name="no_card_psw">Пожалуйста, введите пароль</string>
      <string name="no_change_log">Нет списка изменений</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="no_comment">No comment</string>
      <string name="no_data">Не удалось получить данные, проверьте сеть</string>
      <string name="no_description">Нет описания</string>
      <string name="no_download_task">В настоящее время загрузок нет</string>
+     <string name="no_fitness">Oops! No fit games, try to search :)</string>
      <string name="no_local_apps">Нет установленных приложений</string>
      <string name="no_local_game">Вы еще не установили ни одну игру</string>
+     <string name="no_network">No internet access, please check and try to refresh :)</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="no_network_no_comment">unable to use network</string>
      <string name="no_purchase_record">Нет записей о Ваших покупках</string>
      <string name="no_sd_card">SD-карта недоступна</string>
      <string name="no_search">Приложения не найдены</string>
@@ -154,8 +299,17 @@
      <string name="paused">приостановленно</string>
      <string name="pending">ожидание</string>
      <string name="permission_button">Разрешения (%1$s)</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="permission_extra">Other access</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="permission_risky_money">Not for free</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="permission_risky_privacy">Privacy related</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="permission_risky_security">Security related</string>
      <string name="permissions_expand_title">Все разрешения</string>
      <string name="permissions_title">%1$s - разрешения</string>
+     <string name="positive_sign">+</string>
      <string name="pref_clear_search_history_summary">Удалить Вашу историю поиска игр</string>
      <string name="pref_clear_search_history_title">Очистить историю поиска</string>
      <string name="pref_client_update_notify_summary">Уведомлять меня о новой версии Game Center</string>
@@ -178,12 +332,15 @@
      <string name="pref_title_update_notification">Уведомление о обновлениях</string>
      <string name="pref_title_update_onlyby_wifi">Использовать только Wi-Fi для автоматического обновления</string>
      <string name="price">Цена: ￥%1$s</string>
+     <string name="progress">%1$s%%</string>
      <string name="psw_invalid">неверный пароль</string>
      <string name="publish_info">%1$s %2$s %3$s</string>
      <string name="purchase_record_title">Запись покупки</string>
      <string name="purchase_record_type_all">Все</string>
+     <string name="purchase_record_type_suffix">%s payment</string>
      <string name="purchase_record_type_thismonth">За месяц</string>
      <string name="purchase_record_type_today">За сегодня</string>
+     <string name="rank_app_name">%1$s. %2$s</string>
      <string name="rank_tag">Топ</string>
      <string name="rating_button">Рейтинг: %1$s</string>
      <string name="recharge_alipay_detail">Alipay платеж</string>
@@ -191,6 +348,8 @@
      <string name="recharge_fee_detail">Платежные карты China Mobile, Unicom, Telcom</string>
      <string name="recharge_fee_title">Платежная карта</string>
      <string name="recharge_success">Успешно пополнено!</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="recharge_uint">rmb</string>
      <string name="recharging">Ожидание обработки…</string>
      <string name="remove_package_timeout_fail">%1$s установка не выполнена. Пожалуйста, вручную удалите клиент перед обновлением до последней версии.</string>
      <string name="save_photo_fail">Ошибка сохранения фото</string>
@@ -200,6 +359,7 @@
      <string name="share_subject">Отправить приложение： %1$s</string>
      <string name="share_text">Посмотри какая прикольная игра с XiaoMi Game Center: %1$s, что то потрясающие! Отправить в: %2$s</string>
      <string name="show_all_local_app">Просмотр всех приложений</string>
+     <string name="size">(%1$s)</string>
      <string name="start_game">Играть</string>
      <string name="status_downloading">Загрузка: %1$s%%</string>
      <string name="subject_lists">Список тем игр</string>
@@ -211,6 +371,12 @@
      <string name="txt_card_hint">% значный номер</string>
      <string name="txt_card_no">Номер карты:</string>
      <string name="txt_card_psw">Пароль:</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="txt_cmcc">China Mobile</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="txt_gender_female">MiGirl</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="txt_gender_male">MiBoy</string>
      <string name="txt_hide_my_birthday">Скрыть от других</string>
      <string name="txt_installed_subtitle">Установленно</string>
      <string name="txt_local_game">Игр: %d</string>
@@ -224,6 +390,10 @@
      <string name="txt_recharge_now">Пополнить</string>
      <string name="txt_recharge_number_btn">Баланс платежной карты</string>
      <string name="txt_selection">Выберите:</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="txt_telcom">DianXin</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="txt_unicom">China Unicom</string>
      <string name="txt_updated_subtitle">Обновлений</string>
      <string name="txt_xiaomi_id">XiaoMi ID: %s</string>
      <string name="update">обн.</string>
@@ -232,6 +402,8 @@
      <string name="update_all">Обновить все</string>
      <string name="update_date">%3$02d-%2$02d-%1$d</string>
      <string name="update_date_label">Обновлено:</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="update_info">Updates</string>
      <string name="update_result_new">Новых версий не найдено</string>
      <string name="upgrade_game_head">Обновить все (%d)</string>
      <string name="user_name_invalid">Имя пользователя не может быть пустым</string>
