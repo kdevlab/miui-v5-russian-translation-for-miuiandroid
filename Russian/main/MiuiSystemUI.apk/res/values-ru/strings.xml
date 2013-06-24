@@ -13,15 +13,7 @@
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="accessibility_data_connection_3.5g">3,5G</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="accessibility_data_connection_3g">3G</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="accessibility_data_connection_4g">4G</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="accessibility_data_connection_cdma">CDMA</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="accessibility_data_connection_edge">EDGE</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="accessibility_data_connection_gprs">GPRS</string>
      <string name="accessibility_data_one_bar">Сигнал передачи данных: одно деление</string>
      <string name="accessibility_data_signal_full">Надежный сигнал передачи данных</string>
      <string name="accessibility_data_three_bars">Сигнал передачи данных: три деления</string>
@@ -94,8 +86,6 @@
      <string name="dlg_confirm_kill_storage_users_text">При включении режима накопителя некоторые прилжения будут недоступны</string>
      <string name="dlg_confirm_kill_storage_users_title">Включить USB-накопитель</string>
      <string name="dlg_error_title">USB операция неудачна</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="dlg_ok">OK</string>
      <string name="drive_mode_tip">Вы находитесь в автомобиле. Пожалуйста, будьте осторожны за рулем при работе с телефоном.</string>
      <string name="ext_media_badremoval_notification_message">Размонтируйте USB-хранилище перед извлечением</string>
      <string name="ext_media_badremoval_notification_title">USB-хранилище неожиданно удалено</string>
@@ -112,7 +102,6 @@
      <string name="ext_media_safe_unmount_notification_title">Можете извлечь</string>
      <string name="ext_media_unmountable_notification_message">Поврежденное USB-хранилище. Пожалуйста сформатируйте его</string>
      <string name="ext_media_unmountable_notification_title">Поврежденное USB-хранилище</string>
-     <string name="flash_device">/sys/class/leds/flashlight/brightness</string>
      <string name="gps_notification_found_text">Местополож. определено по GPS</string>
      <string name="gps_notification_searching_text">Поиск GPS</string>
      <string name="invalid_charger">"Зарядка по USB порту не поддерживается.
@@ -207,7 +196,6 @@ d MMMM yyyy"</string>
      <string name="status_bar_network_flow">Сегодня: %1$s | Осталось: %2$s | Всего: %3$s</string>
      <string name="status_bar_network_flow_exceed">Сегодня: %1$s | Превышение: %2$s | Пакет: %3$s</string>
      <string name="status_bar_network_flow_today">Сегодня: %1$s</string>
-     <string name="status_bar_network_name_separator">|</string>
      <string name="status_bar_no_recent_apps">Нет недавних приложений</string>
      <string name="status_bar_notification_inspect_item_title">О приложении</string>
      <string name="status_bar_recent_guide_all">Потяните вверх для закрытия, вниз для блокировки</string>
@@ -236,8 +224,6 @@ d MMMM yyyy"</string>
      <string name="status_bar_toggle_divider">Еще</string>
      <string name="status_bar_toggle_drive_mode">За рулем</string>
      <string name="status_bar_toggle_flight_mode">В самолете</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="status_bar_toggle_gps">GPS</string>
      <string name="status_bar_toggle_lock">Блокировка</string>
      <string name="status_bar_toggle_mute">Без звука</string>
      <string name="status_bar_toggle_network_type">Тип сети</string>

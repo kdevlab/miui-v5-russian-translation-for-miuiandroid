@@ -19,7 +19,6 @@
      <string name="button_search">Поиск</string>
      <string name="button_text_login">Войти</string>
      <string name="button_text_register">Создать новый аккаунт XiaoMi</string>
-     <string name="bytes">%1$s/%2$s</string>
      <string name="bytes_unit">%1$sБ</string>
      <string name="cancel">Отмена</string>
      <string name="card_psw_invaild">Неверное имя пользователя или пароль</string>
@@ -67,8 +66,6 @@
      <string name="comment_upload_hint">Your comment will be displayed after the audit</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="comment_upload_login_cancel">Cancel</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="comment_upload_login_ok">OK</string>
      <string name="comment_upload_need_login">Do you want to login now to add a comment ?</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="comment_upload_not_logined">Please login first</string>
@@ -168,75 +165,7 @@
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="loading_subject_list">Loading subject list...</string>
      <string name="local_game_head">Игр: %d</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="locations_anhui">Anhui</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="locations_beijing">Beijing</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="locations_chongqin">Chongqing</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="locations_fujian">Fujian</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="locations_gansu">Gansu</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="locations_guangdong">Guangdong</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="locations_guangxi">Guangxin</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="locations_guizhou">Suzhou</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="locations_hainan">Hanan</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="locations_hebei">Hebei</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="locations_heilongjiang">Heilongjiang</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="locations_henan">Henan</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="locations_hongkong">Hongkong</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="locations_hubei">Hubei</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="locations_hunan">Henen</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="locations_jiangsu">Jiangsu</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="locations_jiangxi">Jiangxi</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="locations_jilin">Jilin</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="locations_liaoning">Liaoning</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="locations_macao">Macao</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="locations_neimenggu">Inner Mongolia</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="locations_ningxia">Ningxia</string>
      <string name="locations_overseas">Другой</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="locations_qinghai">Qinghai</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="locations_shandong">Shandong</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="locations_shanghai">Shanghai</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="locations_shanxi">Shanxi</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="locations_shanxi3">ShaanXi</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="locations_sichuan">Sichuan</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="locations_taiwan">Taiwan</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="locations_tianjin">Tianjin</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="locations_tibet">Tibet</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="locations_xinjiang">Xinjiang</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="locations_yunnan">Yunnan</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="locations_zhejiang">Zhejiang</string>
      <string name="login_fail">Не удалось войти</string>
      <string name="login_with_xiaomi_account">Войти через XiaoMi</string>
      <string name="logining">Вход в систему…</string>
@@ -263,12 +192,8 @@
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="my_xiaomi_account">Xiaomi Account</string>
      <string name="need_update_game">Войдите, чтобы управлять обновлениями</string>
-     <string name="negative_sign">-</string>
      <string name="new_app_tag">Новые</string>
      <string name="new_cat_tag">Новые</string>
-     <string name="nick_name">XM%s</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="no_average_score">No average score</string>
      <string name="no_card_number">Номер карты не может быть пустым</string>
      <string name="no_card_psw">Пожалуйста, введите пароль</string>
      <string name="no_change_log">Нет списка изменений</string>
@@ -309,7 +234,6 @@
      <string name="permission_risky_security">Security related</string>
      <string name="permissions_expand_title">Все разрешения</string>
      <string name="permissions_title">%1$s - разрешения</string>
-     <string name="positive_sign">+</string>
      <string name="pref_clear_search_history_summary">Удалить Вашу историю поиска игр</string>
      <string name="pref_clear_search_history_title">Очистить историю поиска</string>
      <string name="pref_client_update_notify_summary">Уведомлять меня о новой версии Game Center</string>
@@ -332,7 +256,6 @@
      <string name="pref_title_update_notification">Уведомление о обновлениях</string>
      <string name="pref_title_update_onlyby_wifi">Использовать только Wi-Fi для автоматического обновления</string>
      <string name="price">Цена: ￥%1$s</string>
-     <string name="progress">%1$s%%</string>
      <string name="psw_invalid">неверный пароль</string>
      <string name="publish_info">%1$s %2$s %3$s</string>
      <string name="purchase_record_title">Запись покупки</string>
@@ -340,7 +263,6 @@
      <string name="purchase_record_type_suffix">%s payment</string>
      <string name="purchase_record_type_thismonth">За месяц</string>
      <string name="purchase_record_type_today">За сегодня</string>
-     <string name="rank_app_name">%1$s. %2$s</string>
      <string name="rank_tag">Топ</string>
      <string name="rating_button">Рейтинг: %1$s</string>
      <string name="recharge_alipay_detail">Alipay платеж</string>
@@ -348,8 +270,6 @@
      <string name="recharge_fee_detail">Платежные карты China Mobile, Unicom, Telcom</string>
      <string name="recharge_fee_title">Платежная карта</string>
      <string name="recharge_success">Успешно пополнено!</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="recharge_uint">rmb</string>
      <string name="recharging">Ожидание обработки…</string>
      <string name="remove_package_timeout_fail">%1$s установка не выполнена. Пожалуйста, вручную удалите клиент перед обновлением до последней версии.</string>
      <string name="save_photo_fail">Ошибка сохранения фото</string>
@@ -359,7 +279,6 @@
      <string name="share_subject">Отправить приложение： %1$s</string>
      <string name="share_text">Посмотри какая прикольная игра с XiaoMi Game Center: %1$s, что то потрясающие! Отправить в: %2$s</string>
      <string name="show_all_local_app">Просмотр всех приложений</string>
-     <string name="size">(%1$s)</string>
      <string name="start_game">Играть</string>
      <string name="status_downloading">Загрузка: %1$s%%</string>
      <string name="subject_lists">Список тем игр</string>
@@ -371,12 +290,6 @@
      <string name="txt_card_hint">% значный номер</string>
      <string name="txt_card_no">Номер карты:</string>
      <string name="txt_card_psw">Пароль:</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="txt_cmcc">China Mobile</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="txt_gender_female">MiGirl</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="txt_gender_male">MiBoy</string>
      <string name="txt_hide_my_birthday">Скрыть от других</string>
      <string name="txt_installed_subtitle">Установленно</string>
      <string name="txt_local_game">Игр: %d</string>
@@ -390,10 +303,6 @@
      <string name="txt_recharge_now">Пополнить</string>
      <string name="txt_recharge_number_btn">Баланс платежной карты</string>
      <string name="txt_selection">Выберите:</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="txt_telcom">DianXin</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="txt_unicom">China Unicom</string>
      <string name="txt_updated_subtitle">Обновлений</string>
      <string name="txt_xiaomi_id">XiaoMi ID: %s</string>
      <string name="update">обн.</string>

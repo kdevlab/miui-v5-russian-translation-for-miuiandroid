@@ -20,7 +20,6 @@
      <string name="android_album_settings">Встроенная обложка</string>
      <string name="android_album_summary">Присваивается в зависимости от имени файла. Может вызвать ошибку. Рекомендуется отключить</string>
      <string name="artist_albums">Все альбомы</string>
-     <string name="artist_details_format">%1$s, %2$s</string>
      <string name="artist_edit">Артист</string>
      <string name="artist_hot_audios">Горячие хиты</string>
      <string name="artists_title">"Исполнители "</string>
@@ -32,8 +31,6 @@
      <string name="cancel">Отмена</string>
      <string name="cancel_sleep_mode">Отключить спящий режим</string>
      <string name="cancle_warining">Спящий режим отключен</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="channel">FM</string>
      <string name="channel_format" formatted="false">%s %s МГЦ</string>
      <string name="channel_postfix">МГЦ</string>
      <string name="click_to_shuffle">Перемешать все</string>
@@ -76,7 +73,6 @@
      <string name="equalizer_save_success">Профиль сохранен</string>
      <string name="fade_effect_settings">Эффект затухания</string>
      <string name="fade_effect_summary">Плавное изменение громкости при переключении между треками. Рекомендуется включить.</string>
-     <string name="fast_scroll_alphabet">" ABCDEFGHIJKLMNOPQRSTUVWXYZ"</string>
      <string name="file_not_found">Файл не найден</string>
      <string name="filter_by_duration">Фильтр по длительности</string>
      <string name="filter_by_duration_format">%2$d мин %5$2d сек</string>

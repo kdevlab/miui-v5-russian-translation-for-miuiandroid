@@ -6,8 +6,6 @@
      <string name="btn_send">Отправить</string>
      <string name="description">Описание (обязательно)</string>
      <string name="discard_draft_dialog_button_cancel">Отмена</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="discard_draft_dialog_button_discard">OK</string>
      <string name="discard_draft_dialog_content">Отчет изменен, нажмите OK для удаления черновика.</string>
      <string name="discard_draft_dialog_title">Удалить черновик</string>
      <string name="err_type">Тип отчета</string>
@@ -23,8 +21,6 @@
      <string name="menu_copy">Копировать</string>
      <string name="menu_discard">Отменить</string>
      <string name="menu_send">Отправить отчет</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="network_unavailable_dialog_button_ok">OK</string>
      <string name="network_unavailable_dialog_content">Ваш отчет будет отправлен, как только сеть будет доступна</string>
      <string name="network_unavailable_dialog_title">Сеть недоступна</string>
      <string name="packaging_dialog_content">Генерация отчета, пожалуйста, подождите…</string>
@@ -42,8 +38,6 @@
      <string name="toast_report_sent_failed">Ошибка отправки отчета</string>
      <string name="toast_report_sent_succeed">Отчет был успешно отправлен</string>
      <string name="user_feedback">Отзывы</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="wlan_unavailable_dialog_button_ok">OK</string>
      <string name="wlan_unavailable_dialog_button_sent">Отправить сейсас</string>
      <string name="wlan_unavailable_dialog_content">%s требуется (2G/3G), нажмите OK для отправки только с помощью WLAN сетей</string>
      <string name="wlan_unavailable_dialog_title">WLAN подключение отсутствует</string>

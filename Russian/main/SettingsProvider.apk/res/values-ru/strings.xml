@@ -2,5 +2,4 @@
 <!-- Builded with CloudBuildr -->
 <resources>
      <string name="app_label">Хранилище настроек</string>
-     <string name="def_wireless_charging_started_sound">/system/media/audio/ui/WirelessChargingStarted.ogg</string>
 </resources>

@@ -7,9 +7,5 @@
      <string name="default_cateogry_intermediary">Посредник</string>
      <string name="default_cateogry_meal_delivery">Доставка еды</string>
      <string name="default_cateogry_sales">Продажи</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="mms_provider_label">MMS</string>
      <string name="mms_sms_provider_label">Сообщения</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="sms_provider_label">SMS</string>
 </resources>
