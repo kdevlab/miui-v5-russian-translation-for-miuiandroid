@@ -21,9 +21,9 @@
      <string name="close">Закрыть</string>
      <string name="component_category_finest_title">Основные</string>
      <string name="component_category_more_title">Дополнительные</string>
-     <string name="component_include_title">Пунктов: %1$s</string>
+     <string name="component_include_title">Элементов: %1$s</string>
      <string name="component_lockstyle_personal_title">Настройки локскрина</string>
-     <string name="component_select_title">%1$s пунктов</string>
+     <string name="component_select_title">%1$s элементов</string>
      <string name="component_settings_title">Текущая тема</string>
      <string name="description_author">Автор:</string>
      <string name="description_designer">Дизайнер:</string>
@@ -56,13 +56,13 @@
      <string name="resource_apply">Применить</string>
      <string name="resource_buy">"Купить "</string>
      <string name="resource_can_not_selected">%1$s не может быть выбран!</string>
-     <string name="resource_comment_account_need_activitied">Ваш аккаунт не активирован, хотите активировать сейчас?</string>
+     <string name="resource_comment_account_need_activitied">Ваш аккаунт не активирован. Хотите активировать сейчас?</string>
      <string name="resource_comment_count">"Рейтинг: %1$s 
 Отзывов: %2$s 
 Версия: %3$s"</string>
      <string name="resource_comment_description">%1$s отзыв %2$s:%3$s:%4$s</string>
      <string name="resource_comment_edit_comment">Добавить отзыв</string>
-     <string name="resource_comment_edit_comment_waiting">Проверка ваших отзывов к этой теме...</string>
+     <string name="resource_comment_edit_comment_waiting">Проверка Ваших отзывов к этой теме...</string>
      <string name="resource_comment_edit_text_default">Написать отзыв</string>
      <string name="resource_comment_edit_title">Отзывы к \"%1$s\"</string>
      <string name="resource_comment_entry_tips">"Отзывов: %1$s. 
@@ -79,7 +79,7 @@
      <string name="resource_comment_upload_not_bought">Прежде чем оставить отзыв, Вы должны применить тему</string>
      <string name="resource_comment_upload_not_logined">Пожалуйста, войдите в аккаунт</string>
      <string name="resource_comment_upload_success">Отзыв отправлен!</string>
-     <string name="resource_comment_version_name">(Версия: %1$s)</string>
+     <string name="resource_comment_version_name">(версия: %1$s)</string>
      <string name="resource_default">Стандартная мелодия</string>
      <string name="resource_default_name">Ресурс</string>
      <string name="resource_delete_all">Вы уверены, что хотите удалить выбранные ресурсы (%1$d)?</string>
@@ -94,7 +94,7 @@
      <string name="resource_get_auth_missing">Тема не скачана с официального маркета. Пожалуйста, скачайте аналогичную тему из официального маркета.</string>
      <string name="resource_get_auth_retrieving">Получение авторизации...</string>
      <string name="resource_importing">Импортирование</string>
-     <string name="resource_list_title">Последние темы</string>
+     <string name="resource_list_title">Последние</string>
      <string name="resource_local">Локально %1$s</string>
      <string name="resource_mute">Нет</string>
      <string name="resource_no_result">Нет результата</string>
@@ -114,13 +114,13 @@
      <string name="resource_title_select_ringtone">Выберите мелодию</string>
      <string name="resource_update">Обновить</string>
      <string name="resource_waiting_download">Ожидание</string>
-     <string name="restore_default_theme_alert">Вы можете стать жертвой подделки темы, перейдите в магазин тем, чтобы купить или повторно загрузить тему.</string>
+     <string name="restore_default_theme_alert">Вы можете стать жертвой подделки темы. Перейдите в магазин тем, чтобы купить или повторно загрузить тему.</string>
      <string name="sdcard_status_changed_dialog_message">"Требуется выход.
 Пожалуйста, откройте это приложение еще раз, для обновления ресурсов."</string>
      <string name="sdcard_status_changed_dialog_title">Статус SD-карты изменился</string>
      <string name="short_ringtone_resource">Короткие</string>
-     <string name="theme_another_import_running">Процесс импорта уже запущен, попробуйте позже.</string>
-     <string name="theme_batch_has_update_text">Темы, требующие обновления: %1$d</string>
+     <string name="theme_another_import_running">Процесс импорта уже запущен. Попробуйте позже.</string>
+     <string name="theme_batch_has_update_text">Тем для обновления: %1$d</string>
      <string name="theme_batch_update_all">Обновить все</string>
      <string name="theme_batch_update_dlg_content">Вы уверены, что хотите обновить сейчас?</string>
      <string name="theme_batch_update_dlg_title">Обновить</string>
@@ -134,8 +134,8 @@
 	%s: 0 must: 1
 	%d: 0 must: 0 -->
      <!-- Original string: Successfully applied %1$s. -->
-     <string name="theme_changed_message">Тема применена</string>
-     <string name="theme_changing_dialog_title">Применение темы. Пожалуйста, подождите...</string>
+     <string name="theme_changed_message">Успешно применено</string>
+     <string name="theme_changing_dialog_title">Применение темы. Подождите...</string>
      <string name="theme_component_title_alarm">Будильник</string>
      <string name="theme_component_title_alarmstyle">Будильник</string>
      <string name="theme_component_title_all">Темы</string>
@@ -166,7 +166,7 @@
      <string name="theme_import_from_sdcard">Импортировать с SD-карты</string>
      <string name="theme_import_importing">Обновление.. осталось %1$d</string>
      <string name="theme_import_item_delete_request_button">Удалить</string>
-     <string name="theme_import_item_delete_request_content">Тема не обновлена, вы можете использовать ее после полного обновления или удалите ее</string>
+     <string name="theme_import_item_delete_request_content">Тема не обновлена. Вы можете использовать ее после полного обновления или удалите ее.</string>
      <string name="theme_import_item_delete_request_title">Тема не обновлена</string>
      <string name="theme_import_item_importing">Обновление</string>
      <string name="theme_import_item_not_exist">Не существует</string>
@@ -178,7 +178,7 @@
      <string name="theme_import_oper_complete">Готово</string>
      <string name="theme_import_oper_start">Обновить все</string>
      <string name="theme_import_oper_stop">Остановить</string>
-     <string name="theme_import_oper_stop_request_content">Эти темы нуждаются в обновлении для использования, остановить?</string>
+     <string name="theme_import_oper_stop_request_content">Эти темы нуждаются в обновлении для использования. Остановить?</string>
      <string name="theme_import_preparing">Поиск тем</string>
      <string name="theme_import_stoping">Остановка...</string>
      <string name="theme_importing">Импортирование темы…</string>

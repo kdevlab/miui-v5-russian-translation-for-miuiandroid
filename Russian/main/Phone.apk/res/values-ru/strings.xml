@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Builded with CloudBuildr -->
 <resources>
-     <string name="ContactScreen">Добавить/Изменить контакт на SIM</string>
+     <string name="ContactScreen">Добавить/изменить контакт на SIM</string>
      <string name="ExportContactScreen">Экспорт контактов из телефона на SIM</string>
      <string name="accessibility_call_muted">Звук выключен</string>
      <string name="accessibility_speakerphone_enabled">Громкая связь включена</string>
@@ -34,7 +34,7 @@
      <string name="answer_and_hangup_miui">Окончание вызова и ответ</string>
      <string name="answer_features_setting_category_miui">Настройки ответа</string>
      <string name="answer_miui">Ответ</string>
-     <string name="answer_state_setting_summary">Настройки отключения звука, сенсоров, итд.</string>
+     <string name="answer_state_setting_summary">Настройки отключения звука, сенсоров, и т.д.</string>
      <string name="answer_state_setting_title">Настройки статуса входящих звонков</string>
      <string name="answer_state_setting_title_miui">Настройки статуса входящих звонков</string>
      <string name="answer_widget_dialog_title_miui">Выбор жеста при ответе на звонок</string>
@@ -98,19 +98,19 @@
      <string name="autoip_sum_miui">Добавить префикс для иностранных номеров. Введите код региона ниже</string>
      <string name="back_miui">Назад</string>
      <string name="badPin">Старый PIN неправильный. Пожалуйста введите его ещё раз.</string>
-     <string name="badPin2">Введен неверный прежний код PIN2. Повторите попытку</string>
-     <string name="badPuk2">Введен неверный код PUK2. Повторите попытку</string>
-     <string name="bad_pin2_miui">Старый PIN2 введен не правильно. Пожалуйста, попробуйте еще раз</string>
-     <string name="bad_pin_miui">Старый PIN-код вы ввели не правильно. Пожалуйста, попробуйте еще раз</string>
-     <string name="bad_puk2_miui">PUK2 введен не правильно. Пожалуйста, попробуйте еще раз</string>
-     <string name="bad_puk_miui">PUK-код введен неправильно. Пожалуйста, попробуйте еще раз</string>
+     <string name="badPin2">Введен неверный прежний код PIN2. Повторите попытку.</string>
+     <string name="badPuk2">Введен неверный код PUK2. Повторите попытку.</string>
+     <string name="bad_pin2_miui">Старый PIN2 введен не правильно. Попробуйте еще раз.</string>
+     <string name="bad_pin_miui">Старый PIN-код вы ввели не правильно. Попробуйте еще раз.</string>
+     <string name="bad_puk2_miui">PUK2 введен не правильно. Попробуйте еще раз.</string>
+     <string name="bad_puk_miui">PUK-код введен неправильно. Попробуйте еще раз.</string>
      <string name="bf_news_settings">Финансовые и деловые новости</string>
      <string name="callFailed_cb_enabled">Если включена функция запрета вызовов, невозможно осуществлять исходящие вызовы</string>
      <string name="callFailed_congestion">Сеть занята</string>
-     <string name="callFailed_dialToDial">Звонок заменен на другой номер.</string>
-     <string name="callFailed_dialToSs">Звонок модифицирован в SS запрос.</string>
-     <string name="callFailed_dialToUssd">Звонок модифицирован в USSD запрос.</string>
-     <string name="callFailed_dsac_restricted">Все вызовы запрещены настройками доступа.</string>
+     <string name="callFailed_dialToDial">Звонок заменен на другой номер</string>
+     <string name="callFailed_dialToSs">Звонок модифицирован в SS запрос</string>
+     <string name="callFailed_dialToUssd">Звонок модифицирован в USSD запрос</string>
+     <string name="callFailed_dsac_restricted">Все вызовы запрещены настройками доступа</string>
      <string name="callFailed_dsac_restricted_emergency">Экстренные вызовы запрещены настройками доступа</string>
      <string name="callFailed_dsac_restricted_normal">Обычные вызовы запрещены настройками доступа</string>
      <string name="callFailed_fdn_only">Вы можете позвонить только на телефоны из списка разрешенных номеров</string>
@@ -204,7 +204,7 @@
      <string name="cb_sms_settings">Настройки широковещательных SMS-служб</string>
      <string name="cdma_activate_device">Активировать устройство</string>
      <string name="cdma_conference_call_miui">Конференц-связь</string>
-     <string name="cdma_display_precise_call_state_message_miui">Если ваш оператор не поддерживает, то состояние вызова будет показано неправильно, если эта опция включена. Вы действительно хотите включить?</string>
+     <string name="cdma_display_precise_call_state_message_miui">Если Ваш оператор не поддерживает, то состояние вызова будет показано неправильно, если эта опция включена. Вы действительно хотите включить?</string>
      <string name="cdma_display_precise_call_state_summary_miui">CDMA таймер вызова ограничена оператором сотовой сети. Если оператор поддерживает, состояние может быть показано точно.</string>
      <string name="cdma_display_precise_call_state_title_miui">Показать точное состояние вызова</string>
      <string name="cdma_lte_data_service">Настроить передачу данных</string>
@@ -235,28 +235,28 @@
      <string name="clir_choices_show_number_miui">Показать номер</string>
      <string name="close_dialog">ОК</string>
      <string name="close_profile">Закрыть</string>
-     <string name="command_error_fdn_failure_miui">Эта операция не допускается, если FDN включен, пожалуйста повторите,когда FDN отключен.</string>
-     <string name="command_error_generic_failure_miui">Не удалось завершить эту операцию, пожалуйста, повторите попытку позже.</string>
-     <string name="command_error_illegal_sim_or_me_miui">Выбор сети неудачен из-за неправильной SIM/ME.</string>
-     <string name="command_error_invalid_response_miui">Недопустимый ответ сети, повторите попытку позже.</string>
-     <string name="command_error_no_subscription_miui">Не удалось найти CDMA подключиться можно с указанного места.</string>
+     <string name="command_error_fdn_failure_miui">Эта операция не допускается, если FDN включен. Повторите,когда FDN отключен.</string>
+     <string name="command_error_generic_failure_miui">Не удалось завершить эту операцию. Повторите попытку позже.</string>
+     <string name="command_error_illegal_sim_or_me_miui">Выбор сети неудачен из-за неправильной SIM/ME</string>
+     <string name="command_error_invalid_response_miui">Недопустимый ответ сети. Повторите попытку позже.</string>
+     <string name="command_error_no_subscription_miui">Не удалось найти CDMA подключиться можно с указанного места</string>
      <string name="command_error_op_denied_before_reg_miui">Ошибка операции</string>
      <string name="command_error_op_denied_during_call_miui">Эта операция не допустима во время голосового вызова, повторите попытку после окончания вызова.</string>
      <string name="command_error_password_incorrect_miui">Ваш пароль является неправильным, пожалуйста, повторно введите его.</string>
      <string name="command_error_radio_not_available_miui">Радио не доступно (не запускается), пожалуйста, повторите попытку.</string>
      <string name="command_error_sim_absent_miui">ICC карта отсутствует.</string>
-     <string name="command_error_sim_pin2_miui">PIN2 необходим для выполнения этой операции.</string>
-     <string name="command_error_sim_puk2_miui">PIN2 заблокирован, PUK2 требуется, чтобы разблокировать его.</string>
+     <string name="command_error_sim_pin2_miui">PIN2 необходим для выполнения этой операции</string>
+     <string name="command_error_sim_puk2_miui">PIN2 заблокирован. Требуется PUK2, чтобы разблокировать его.</string>
      <string name="command_error_sms_fail_retry_miui">Не удалось отправить SMS, пожалуйста, повторите попытку позже.</string>
      <string name="command_error_unsupported_mode_miui">Предпочтительный тип сети не поддерживается.</string>
-     <string name="command_error_unsupported_request_miui">Эта операция не поддерживается.</string>
+     <string name="command_error_unsupported_request_miui">Эта операция не поддерживается</string>
      <string name="confCall">Конференц-вызов</string>
      <string name="config_sub_title">Настройка подписок</string>
      <string name="confirmPin2Label">Подтвердите новый PIN2</string>
      <string name="confirmPinLabel">Подтвердите новый PIN</string>
      <string name="confirm_delete_message_title_miui">Вы удалите эту приставку сообщения</string>
      <string name="confirm_delete_sim_entry_miui">Вы уверены, что хотите удалить %d выбранных контактов с SIM-карты?</string>
-     <string name="confirm_no_countrycode_for_custom_location_miui">Пожалуйста введите номер без кода страны.</string>
+     <string name="confirm_no_countrycode_for_custom_location_miui">Пожалуйста введите номер без кода страны</string>
      <string name="confirm_pin2_hint_miui">Подтверждение PIN2</string>
      <string name="confirm_pin_hint_miui">Подтвердите новый PIN-код</string>
      <string name="connect_disconnect_vibrate_none_miui">Не вибрировать</string>
@@ -278,7 +278,7 @@
      <string name="count_down">Секунд:</string>
      <string name="count_of_persons_in_conference_miui">Всего людей: %d</string>
      <string name="countrycode_alert_message_warning_miui">Код города, который вы ввели возможно не верен, вы хотите продолжить?</string>
-     <string name="countrycode_alert_message_wrong_miui">Код города, который вы ввели не верен. Попробуйте снова</string>
+     <string name="countrycode_alert_message_wrong_miui">Код города, который вы ввели не верен. Попробуйте снова.</string>
      <string name="countrycode_alert_title_miui">Внимание!</string>
      <string name="crystaltalk_summary_miui">Оптимизация аудио-профиля при разговоре</string>
      <string name="crystaltalk_title_miui">NICAM настройки</string>
@@ -942,9 +942,9 @@
      <string name="sp_unlock_failed">Разблокировка поставщика услуг не удалась</string>
      <string name="sp_unlock_success">Поставщик услуг успешно разблокирован</string>
      <string name="sports_news_settings">Новости спорта</string>
-     <string name="stk_cc_ss_to_dial_error">SS запрос преобразован в звонок.</string>
-     <string name="stk_cc_ss_to_ss_error">SS запрос преобразован в новый SS запрос.</string>
-     <string name="stk_cc_ss_to_ussd_error">SS запрос преобразован в USSD запрос.</string>
+     <string name="stk_cc_ss_to_dial_error">SS запрос преобразован в звонок</string>
+     <string name="stk_cc_ss_to_ss_error">SS запрос преобразован в новый SS запрос</string>
+     <string name="stk_cc_ss_to_ussd_error">SS запрос преобразован в USSD запрос</string>
      <string name="stock_quotes_disable">Котировки ценных бумаг отключены</string>
      <string name="stock_quotes_enable">Котировки ценных бумаг включены</string>
      <string name="sub_one">Управление подпиской 1</string>
@@ -974,7 +974,7 @@
      <string name="sum_loading_settings">Загрузка настроек…</string>
      <string name="sum_search_networks">Поиск всех доступных сетей</string>
      <string name="sum_select_automatically">Автоматически выбирать предпочтительную сеть</string>
-     <string name="sum_select_automatically_option_miui">Автоматический выбор мобильной сети: %s.</string>
+     <string name="sum_select_automatically_option_miui">Автоматический выбор мобильной сети: %s</string>
      <string name="sum_show_caller_id">Номер, отображающийся при исходящих вызовах</string>
      <string name="sum_voicemail_choose_provider">Выберите службу голосовой почты</string>
      <string name="sum_xdivert_disabled">X-Переадресация выключена</string>
@@ -1015,7 +1015,7 @@
      <string name="tty_mode_option_title_miui">Режим телетайпа</string>
      <string name="turn_off_auto_select_confirm_message_miui">Сеть может быть недоступна, вы точно хотите отключить?</string>
      <string name="turn_off_auto_select_title_miui">Отключить автовыбор сети</string>
-     <string name="turn_off_auto_select_warning_message_miui">При выборе этой опции будет использована сеть которую вы выбрали и не будет выбираться другая сеть.</string>
+     <string name="turn_off_auto_select_warning_message_miui">При выборе этой опции будет использована сеть которую Вы выбрали. Другая сеть выбираться не будет.</string>
      <string name="turn_off_miui">Отключить</string>
      <string name="turnover_mute_summary_miui">Переверните для отключения звука, когда телефон расположен горизонтально</string>
      <string name="turnover_mute_title_miui">Переворот, для отключения звука</string>
@@ -1028,10 +1028,10 @@
      <string name="updating_settings">Обновление настроек…</string>
      <string name="updating_title">Настройки вызовов</string>
      <string name="username_title">Имя пользователя</string>
-     <string name="ussdRunning">Выполняется запрос USSD…</string>
+     <string name="ussdRunning">Выполняется USSD запрос…</string>
      <string name="vibrate_on_ring_title">Вибрация при звонке</string>
      <string name="vm_change_failed">"Не удалось изменить номер голосовой почты.
-Если проблема не будет решена, свяжитесь со своим оператором"</string>
+Если проблема не будет решена, свяжитесь со своим оператором."</string>
      <string name="vm_changed">Номер голосовой почты изменен</string>
      <string name="voice_privacy">Конфиденциальность разговоров</string>
      <string name="voice_privacy_miui">Конфиденциальность разговоров</string>

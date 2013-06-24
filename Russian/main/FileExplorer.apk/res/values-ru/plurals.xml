@@ -2,7 +2,7 @@
 <!-- Builded with CloudBuildr -->
 <resources>
      <plurals name="directory_item_count">
-        <item quantity="other">%d объектов</item>
-        <item quantity="one">1 объект</item>
+        <item quantity="other">файлов: %d</item>
+        <item quantity="one">файлов: 1</item>
      </plurals>
 </resources>

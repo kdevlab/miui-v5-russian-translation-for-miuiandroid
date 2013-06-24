@@ -12,7 +12,7 @@
      <string name="auto_backup_choose_empty">Нет резервных копий</string>
      <string name="auto_backup_choose_title">Настройка автоматического резервного копирования</string>
      <string name="auto_backup_date">Частота копирования</string>
-     <string name="auto_backup_only_wifi">Только через Wi-Fi</string>
+     <string name="auto_backup_only_wifi">Только по Wi-Fi</string>
      <string name="auto_backup_open">Автокопирование</string>
      <string name="auto_backup_progress">Создание авто-бэкапа, пожалуйста подождите...</string>
      <string name="auto_backup_select_user_apps">Выбор приложений</string>
@@ -28,15 +28,15 @@
      <string name="backup_empty_info">"Резервное копирование данных,
 а также настроек и приложений"</string>
      <string name="backup_error">Ошибка</string>
-     <string name="backup_failed">Резервное копирование не удалось, попробуйте еще раз</string>
-     <string name="backup_file_error">Файлы резерной копии повреждены, операция не завершена</string>
+     <string name="backup_failed">Резервное копирование не удалось. Попробуйте еще раз.</string>
+     <string name="backup_file_error">Файлы резерной копии повреждены. Операция не завершена.</string>
      <string name="backup_finished">Создание резервой копии успешно завершено</string>
      <string name="backup_hint">Не отключайте телефон</string>
      <string name="backup_items_app_tailer">" - данные приложений "</string>
      <string name="backup_items_sysdata_tailer">" - системные данные, "</string>
      <string name="backup_new">Новый</string>
      <string name="backup_progress">Выполняется резервная копия...</string>
-     <string name="backup_recently">(Последний)</string>
+     <string name="backup_recently">(последний)</string>
      <string name="backup_report">Отчет</string>
      <string name="backup_update">Обновить</string>
      <string name="batch_delete_backup_confirm">"Удалить резервные копии?
@@ -71,7 +71,7 @@
      <string name="current_account">Аккаунт %s</string>
      <string name="current_sim">Текущая SIM-карта</string>
      <string name="data_no_enough_space">Не хватает памяти</string>
-     <string name="data_no_enough_space_message">Резервное копирование может завершиться с ошибкой, пожалуйста освободите место на внутренней памяти</string>
+     <string name="data_no_enough_space_message">Резервное копирование может завершиться с ошибкой. Освободите место на внутренней памяти.</string>
      <string name="delete">Удалить</string>
      <string name="delete_backup_process">Выполняется удаление, пожалуйста, подождите...</string>
      <string name="delete_failed_backup_confirm">Резервная копия имеет ошибки. Не возможно восстановить.</string>
@@ -110,7 +110,7 @@
      <string name="mms_title">Сообщения MMS</string>
      <string name="multi_select_title">Выбрано: %1$s</string>
      <string name="no_encrypt_password">Нет шифрования пароля</string>
-     <string name="no_network">Нет сетевого соединения Пожалуйста, проверьте ваше соединение и попробуйте еще раз</string>
+     <string name="no_network">Нет сетевого соединения. Проверьте сеть и попробуйте еще раз.</string>
      <string name="note_title">Заметки</string>
      <string name="nothing_searched">Ничего не найдено</string>
      <string name="progress_backup_hint">Резервное копирование...</string>
@@ -122,7 +122,7 @@
      <string name="refresh">Обновление</string>
      <string name="restore">Восстановление</string>
      <string name="restore_contact">Восстановление контактов</string>
-     <string name="restore_contact_content">При восстановлении адресной книги может произойти дублирование контактов, продолжить?</string>
+     <string name="restore_contact_content">При восстановлении адресной книги может произойти дублирование контактов. Продолжить?</string>
      <string name="restore_contacts_hit">Примечание: для восстановления контактов необходимо вручную создать оригинальный аккаунт</string>
      <string name="restore_counts">Восстановление:</string>
      <string name="restore_data">Восстановить</string>
@@ -131,7 +131,7 @@
      <string name="restore_launcher_layout_hit">- Заменит расположение значков</string>
      <string name="restore_progress">Идет восстановление данных...</string>
      <string name="restore_report">Журнал восстановления</string>
-     <string name="restore_telephony_hit">Примечание: Процесс восстановления перезагрузит приложение</string>
+     <string name="restore_telephony_hit">Примечание: процесс восстановления перезагрузит приложение</string>
      <string name="retry">Повторить</string>
      <string name="reverse_all">Снять все</string>
      <string name="sc_bad_request">Ошибочный запрос</string>
@@ -144,7 +144,7 @@
      <string name="sc_unaccess_password_file">Не хранить пароли сетей Wi-Fi</string>
      <string name="sc_unauthorized">Сертификация не действительна</string>
      <string name="sdcard_no_enough_space">Не хватает памяти на SD-карте</string>
-     <string name="sdcard_no_enough_space_message">Резервное копирование может завершиться с ошибкой, пожалуйста освободите место на SD-карте</string>
+     <string name="sdcard_no_enough_space_message">Резервное копирование может завершиться с ошибкой. Освободите место на SD-карте.</string>
      <string name="sdcard_unmounted">SD-карта не найдена или отключена</string>
      <string name="select_all">Все</string>
      <string name="select_backup_item">Выбор бэкапа</string>
@@ -163,13 +163,13 @@
      <string name="task_canceled_all_local">Все задачи отменены</string>
      <string name="task_canceled_local">Задач отменено: %1$s</string>
      <string name="task_cloud_backup_cancel_dialog">"Резервное копирование не было завершено.
-Нажмите кнопку OK, чтобы отменить незавершенную задачу"</string>
+Нажмите кнопку OK, чтобы отменить незавершенную задачу."</string>
      <string name="task_failed">Не удалось</string>
      <string name="task_failed_all_local">Ошибки во всех задачах</string>
      <string name="task_failed_local">Ошибка в задачах (%1$s)</string>
      <string name="task_finished">Завершено</string>
      <string name="task_local_backup_cancel_dialog">"Резервное копирование не было завершено.
-Нажмите кнопку OK, чтобы удалить эту резервную копию"</string>
+Нажмите кнопку OK, чтобы удалить эту резервную копию."</string>
      <string name="task_pending">В ожидании</string>
      <string name="task_post_running">Пост-обработка...</string>
      <string name="task_pre_running">Подготовка</string>
@@ -179,13 +179,13 @@
      <string name="task_restore_cancel_progress">Остановка процесса...</string>
      <string name="task_restore_finished_local">Восстановление завершено</string>
      <string name="task_restore_none">Не нуждается в восстановлении</string>
-     <string name="task_running_backup_dialog">Резервное копирование в процессе, нажмите кнопку OK для просмотра.</string>
-     <string name="task_running_backup_hint">Сервис запущен в фоне, попробуйте снова сделать резервное копирование!</string>
+     <string name="task_running_backup_dialog">Резервное копирование в процессе. Нажмите кнопку OK для просмотра.</string>
+     <string name="task_running_backup_hint">Сервис запущен в фоне. Попробуйте снова сделать резервное копирование!</string>
      <string name="task_running_dialog">Фоновый прогресс резервного копирования и восстановления, чтобы увидеть его, нажмите ОК</string>
-     <string name="task_running_hint">Служба работает в фоновом режиме, пожалуйста, попробуйте еще раз, чтобы восстановить эту резервную копию!</string>
-     <string name="task_running_restore_dialog">Восстановление в процессе, нажмите кнопку OK для просмотра.</string>
-     <string name="task_running_restore_hint">Сервис запущен в фоне, попробуйте снова сделать восстановление!</string>
-     <string name="task_service_not_launched">Сервис не запустился, ждите!</string>
+     <string name="task_running_hint">Служба работает в фоновом режиме. Попробуйте еще раз, чтобы восстановить эту резервную копию!</string>
+     <string name="task_running_restore_dialog">Восстановление в процессе. Нажмите кнопку OK для просмотра.</string>
+     <string name="task_running_restore_hint">Сервис запущен в фоне. Попробуйте снова сделать восстановление!</string>
+     <string name="task_service_not_launched">Сервис не запустился. Подождите!</string>
      <string name="task_stopped_exception">Прервано</string>
      <string name="total_num">%d всего записей</string>
      <string name="unit_byte">б</string>

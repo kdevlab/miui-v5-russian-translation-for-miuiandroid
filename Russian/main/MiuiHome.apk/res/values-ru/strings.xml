@@ -57,7 +57,7 @@
      <string name="gadget_photo_44_label">Фоторамка</string>
      <string name="gadget_weather_app_not_installed">Нажмите для установки Погоды MIUI</string>
      <string name="gadget_weather_aqi_title">Качество воздуха</string>
-     <string name="gadget_weather_download_message">Необходимо скачать тему: %1$s. размер: %2$s. Пожалуйста, выберите снова после завершения скачивания</string>
+     <string name="gadget_weather_download_message">Необходимо скачать тему: %1$s. размер: %2$s. Пожалуйста, выберите снова после завершения скачивания.</string>
      <string name="gadget_weather_download_start">начать</string>
      <string name="gadget_weather_download_title">Загрузить</string>
      <string name="gadget_weather_downloading">Загрузка пакета темы. Пожалуйста, выберите ее повторно после окончания загрузки.</string>
@@ -109,7 +109,7 @@
      <string name="pref_enable_drawing_cache_title">Кэш графики</string>
      <string name="pref_icon_shadow_summary">Добавление эффекта тени для значков на рабочем столе</string>
      <string name="pref_icon_shadow_title">Тень от значков</string>
-     <string name="pref_keep_in_memory_summary">Запрет выгрузки данного приложения из оперативной памяти.</string>
+     <string name="pref_keep_in_memory_summary">Запрет выгрузки данного приложения из оперативной памяти</string>
      <string name="pref_keep_in_memory_title">Держать в памяти</string>
      <string name="pref_keep_layout_summary">Переключение сетки рабочего стола может нарушить положение иконок. Включите для сохранения положения иконок.</string>
      <string name="pref_keep_layout_title">Сохранять расстановку</string>

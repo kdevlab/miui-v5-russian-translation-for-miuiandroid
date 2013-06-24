@@ -2,7 +2,7 @@
 <!-- Builded with CloudBuildr -->
 <resources>
      <string name="continues">Продолжить</string>
-     <string name="data_usage_summary">Если вы не установили лимит трафика, рекомендуется отключить передачу данных. Ваш мобильный оператор может взимать плату за использование услуг сети.</string>
+     <string name="data_usage_summary">Если Вы не установили лимит трафика, рекомендуется отключить передачу данных. Ваш мобильный оператор может взимать плату за использование услуг сети.</string>
      <string name="default_gprs_sim_name">Пожалуйста, введите \"%s\" пределы тарифного плана</string>
      <string name="input_method">Метод ввода</string>
      <string name="input_method_category">Выберите метод ввода по умолчанию</string>
@@ -11,12 +11,12 @@
      <string name="other_service_google_location_use">Местоположение и поиск Google</string>
      <string name="other_service_google_location_use_help">"Разрешить сервису Google собирать данные о вашем местоположении. Сбор данных будет происходить в фоновом режиме.
 Изменить настройки можно в пункте \"Параметры\" > \"Местоположение\"."</string>
-     <string name="other_service_google_location_use_summary">Разрешить использовать Google местоположение для улучшения результатов поиска и других услуг.</string>
+     <string name="other_service_google_location_use_summary">Разрешить использовать Google местоположение для улучшения результатов поиска и других услуг</string>
      <string name="other_service_label">Другие сервисы</string>
      <string name="other_service_location">Местоположение</string>
      <string name="other_service_location_summary">Местоположение позволяет карте и другим приложениям получить свои данные местоположения с помощью GPS</string>
      <string name="other_service_permission_manager">Управление правами приложений</string>
-     <string name="other_service_permission_manager_summary">Мониторинг приложений для обеспечения безопасности и конфиденциальности.</string>
+     <string name="other_service_permission_manager_summary">Мониторинг приложений для обеспечения безопасности и конфиденциальности</string>
      <string name="other_service_user_experience">Повышение качества</string>
      <string name="other_service_user_experience_summary0">"Вы можете поспособствовать улучшению качества нашего продукта, предварительно ознакомившись с нашей "</string>
      <string name="other_service_user_experience_summary1">политикой конфиденциальности.</string>
@@ -31,7 +31,7 @@
      <string name="sim_card_detection_status_absent">"SIM-карта не доступна.
 Пожалуйста, вставьте SIM-карту."</string>
      <string name="traffic_protection_label">Монитор трафика</string>
-     <string name="traffic_protection_summary">С помощью приложения \"Монитор\" вы сможете установить лимит на мобильный трафик.</string>
+     <string name="traffic_protection_summary">С помощью приложения \"Монитор\" Вы сможете установить лимит на мобильный трафик</string>
      <string name="traffic_protection_text_hint">Введите лимит трафика</string>
      <string name="traffic_protection_unknown">Пропустить</string>
      <string name="use_data">Передача данных</string>

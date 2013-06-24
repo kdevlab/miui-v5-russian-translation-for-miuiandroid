@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Builded with CloudBuildr -->
 <resources>
-     <string name="add_account_desc">Заметки можно синхронизировать с вашим Xiaomi аккаунтом. Войти в аккаунт и начать синхронизацию?</string>
+     <string name="add_account_desc">Заметки можно синхронизировать с Вашим Xiaomi аккаунтом. Войти в аккаунт и начать синхронизацию?</string>
      <string name="alert_action_edit_anyway">Продолжить</string>
      <string name="alert_edit_action_delete">Удалить</string>
      <string name="alert_edit_action_update">Изменить</string>
@@ -17,7 +17,7 @@
 
 (заметок: %1$s)"</string>
      <string name="alert_message_discard_changes">Отменить все действия?</string>
-     <string name="alert_message_edit_anyway">Заметка содержит неподдерживаемые данные, их редактирование может привести к потере данных.</string>
+     <string name="alert_message_edit_anyway">Заметка содержит неподдерживаемые данные. Их редактирование может привести к потере данных.</string>
      <string name="alert_title_delete">Удаление заметок</string>
      <string name="alert_title_discard">Отмена</string>
      <string name="alert_title_edit_anyway">Вы уверены, что хотите отредактировать, даже если некоторые данные пропадут?</string>

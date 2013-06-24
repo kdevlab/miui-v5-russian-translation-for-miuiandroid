@@ -35,7 +35,7 @@
      <string name="accessibility_remove_notification">Удалить уведомление</string>
      <string name="accessibility_ringer_silent">Режим \"Без звука\"</string>
      <string name="accessibility_ringer_vibrate">Вибровызов</string>
-     <string name="accessibility_rotation_lock_off">Экран будет поворачиваться автоматически.</string>
+     <string name="accessibility_rotation_lock_off">Экран будет поворачиваться автоматически</string>
      <string name="accessibility_settings_button">Настройки</string>
      <string name="accessibility_tty_enabled">Телетайп включен</string>
      <string name="accessibility_wifi_one_bar">Wi-Fi: одно деление</string>
@@ -77,7 +77,7 @@
      <string name="data_usage_disabled_dialog_3g_title">Передача данных по каналам 2G и 3G отключена</string>
      <string name="data_usage_disabled_dialog_4g_title">Передача данных по каналу 4G отключена</string>
      <string name="data_usage_disabled_dialog_enable">Восстановить подключение</string>
-     <string name="data_usage_disabled_dialog_mobile_title">Моб. Интернет отключен</string>
+     <string name="data_usage_disabled_dialog_mobile_title">Моб. интернет отключен</string>
      <string name="data_usage_disabled_dialog_title">Передача данных отключена</string>
      <string name="description_direction_left">Сдвиньте влево для %s</string>
      <string name="description_direction_up">Сдвиньте вверх для %s</string>
@@ -100,7 +100,7 @@
      <string name="ext_media_safe_remove">Извлечь</string>
      <string name="ext_media_safe_unmount_notification_message">Вы можете безопасно извлечь USB-хранилище</string>
      <string name="ext_media_safe_unmount_notification_title">Можете извлечь</string>
-     <string name="ext_media_unmountable_notification_message">Поврежденное USB-хранилище. Пожалуйста сформатируйте его</string>
+     <string name="ext_media_unmountable_notification_message">Поврежденное USB-хранилище. Пожалуйста сформатируйте его.</string>
      <string name="ext_media_unmountable_notification_title">Поврежденное USB-хранилище</string>
      <string name="gps_notification_found_text">Местополож. определено по GPS</string>
      <string name="gps_notification_searching_text">Поиск GPS</string>
@@ -118,7 +118,7 @@
      <string name="mdb_usb_disconnection_exit">USB отключено. Отмена восстановления.</string>
      <string name="mount_storage">Подключить</string>
      <string name="move_data_to_sdcard_message">Скриншоты и фотографии будут перенесены на SD-карту, чтобы освободить больше внутренней памяти</string>
-     <string name="move_data_to_sdcard_title">Перенос данных на SD-карту</string>
+     <string name="move_data_to_sdcard_title">Перенос данных</string>
      <string name="no_notification_tips">Нет уведомлений</string>
      <string name="notification_icon_filter">Настройки</string>
      <string name="notification_icon_filter_hide">Запрещенные приложений</string>
@@ -173,7 +173,7 @@
      <string name="settings_expandable_under_fullscreen">Полноэкранные приложения</string>
      <string name="settings_expandable_under_fullscreen_summary">Возможность доступа к панели состояния при работе с полноэкранными приложениями</string>
      <string name="settings_expandable_under_keyguard">Заблокированный экран</string>
-     <string name="settings_expandable_under_keyguard_summary">Возможность доступа к панели состояния в заблокированном режиме (если не установлен графический ключ).</string>
+     <string name="settings_expandable_under_keyguard_summary">Возможность доступа к панели состояния в заблокированном режиме (если не установлен графический ключ)</string>
      <string name="settings_expanded_view">Настройки раскрытия</string>
      <string name="settings_notification_icon">Уведомления в строке состояния</string>
      <string name="settings_screenshot_notification_disabled">Не уведомлять о скриншоте</string>
@@ -211,7 +211,7 @@ d MMMM yyyy"</string>
      <string name="status_bar_settings_auto_rotation">Автоповорот экрана</string>
      <string name="status_bar_settings_notifications">Уведомления</string>
      <string name="status_bar_settings_settings_button">Настройки</string>
-     <string name="status_bar_settings_signal_meter_disconnected">Нет подключения к Интернету</string>
+     <string name="status_bar_settings_signal_meter_disconnected">Нет подключения к интернету</string>
      <string name="status_bar_settings_signal_meter_wifi_nossid">Wi-Fi подключен</string>
      <string name="status_bar_settings_wifi_button">Wi-Fi</string>
      <string name="status_bar_style_settings">Панель состояния</string>
@@ -255,7 +255,7 @@ d MMMM yyyy"</string>
      <string name="torch_activity_name">Фонарик</string>
      <string name="usb_accessory_confirm_prompt">Открыть %1$s когда этот USB-аксессуар подключен?</string>
      <string name="usb_accessory_permission_prompt">Разрешить приложению %1$s доступ к USB-аксессуару?</string>
-     <string name="usb_accessory_uri_prompt">Нет установленных приложений работающих с этим USB-аксессуаром. Узнайте больше об этом аксессуаре на %1$s</string>
+     <string name="usb_accessory_uri_prompt">Нет установленных приложений работающих с этим USB-аксессуаром. Узнайте больше об этом аксессуаре на %1$s.</string>
      <string name="usb_debugging_always">Всегда разрешать с этого компьютера</string>
      <string name="usb_debugging_message">"Ключ RSA компьютера:
 %1$s"</string>
@@ -275,9 +275,9 @@ d MMMM yyyy"</string>
      <string name="usb_ptp_text">Фото</string>
      <string name="usb_storage_error_message">Проблема с USB накопителем</string>
      <string name="usb_storage_message">Подключение к компьютеру через USB. Нажмите на кнопку ниже если вы хотите обмениваться файлами с компьютером и накопителем вашего Android устройства</string>
-     <string name="usb_storage_notification_message">Выберите, чтобы обмениваться файлами с компьютером.</string>
+     <string name="usb_storage_notification_message">Выберите, чтобы обмениваться файлами с компьютером</string>
      <string name="usb_storage_notification_title">USB подключено</string>
-     <string name="usb_storage_stop_message">Прежде чем отключить USB накопитель, убедитесь, что демонтировали Android USB накопитель с вашего компьютера.</string>
+     <string name="usb_storage_stop_message">Прежде чем отключить USB накопитель, убедитесь, что демонтировали Android USB накопитель с Вашего компьютера</string>
      <string name="usb_storage_stop_notification_message">Выберите чтобы отключить USB накопитель</string>
      <string name="usb_storage_stop_notification_title">Отключение USB накопителя</string>
      <string name="usb_storage_stop_title">USB накопитель используется</string>

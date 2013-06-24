@@ -107,9 +107,9 @@
      <string name="HIPS_Perm_Location_Desc">Поиск вашего телефона посредством сети или GPS</string>
      <string name="HIPS_Perm_Location_Hint">%1$s Приложения, имеющие разрешения для ослеживания местоположения телефона</string>
      <string name="HIPS_Perm_Location_Monitor">отслеживать ваше положение</string>
-     <string name="HIPS_Perm_Location_Source_Cellular">Источник: Сотовая сеть</string>
+     <string name="HIPS_Perm_Location_Source_Cellular">Источник: сотовая сеть</string>
      <string name="HIPS_Perm_Location_Source_GPS">Источник: GPS</string>
-     <string name="HIPS_Perm_Location_Source_Network">Источник: Сеть</string>
+     <string name="HIPS_Perm_Location_Source_Network">Источник: сеть</string>
      <string name="HIPS_Perm_MobileNetwork">Мобильная сеть</string>
      <string name="HIPS_Perm_MobileNetwork_Desc">Доступ к Интернет посредством мобильной сети</string>
      <string name="HIPS_Perm_MobileNetwork_Hint">%1$s приложения, имеющие доступ к сети Интернет</string>

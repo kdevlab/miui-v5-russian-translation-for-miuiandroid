@@ -4,7 +4,7 @@
      <string name="access_denied">доступ запрещен</string>
      <string name="account">Аккаунт</string>
      <string name="account_detail">Аккаунт Xiaomi: %1$s</string>
-     <string name="account_dspt">С помощью аккаунта Xiaomi вы сможете синхронизировать ваши контакты, сообщения и другие личные данные.</string>
+     <string name="account_dspt">С помощью аккаунта Xiaomi Вы сможете синхронизировать контакты, сообщения и другие личные данные</string>
      <string name="account_hint_text">Электронная почта</string>
      <string name="account_name">Аккаунт: %1$s</string>
      <string name="activating">Активация...</string>
@@ -22,7 +22,7 @@
      <string name="btn_call">Позвонить</string>
      <string name="btn_count_down_auto">Запрос через %1$s сек.</string>
      <string name="btn_count_down_wait">Подождите %1$s сек.</string>
-     <string name="btn_mili_center_recharge">Пополнить MiCredit</string>
+     <string name="btn_mili_center_recharge">Пополнить баланс</string>
      <string name="btn_pay_large">Оплатить</string>
      <string name="btn_query">Узнать сейчас</string>
      <string name="btn_recharge_large">Пополнить</string>
@@ -42,13 +42,13 @@
      <string name="confirm">Подтвердить</string>
      <string name="current_account">Текущий аккаунт</string>
      <string name="data_keep_in_phone">Оставить в телефоне</string>
-     <string name="data_sync_notice">Использовать аккаунт Xiaomi для синхронизации контактов, сообщений и других данных.</string>
+     <string name="data_sync_notice">Использовать аккаунт Xiaomi для синхронизации контактов, сообщений и других данных</string>
      <string name="data_wipe_from_phone">Удалить из телефона</string>
      <string name="disable_find_device_error">%1$s, ошибка выключения поиска</string>
      <string name="email_already_be_used">Этот адрес почты уже используется</string>
      <string name="enable_find_device_error">%1$s, ошибка включения поиска</string>
      <string name="enable_micloud">Включить облачные сервисы</string>
-     <string name="error_account_changed_summary">Ваш аккаунт изменился. Пожалуйста, проверьте и перезапустите</string>
+     <string name="error_account_changed_summary">Ваш аккаунт изменился. Пожалуйста, проверьте и перезапустите.</string>
      <string name="error_account_changed_title">Аккаунт изменен</string>
      <string name="error_auth_summary">Ошибка аутентификации аккаунта. Пожалуйста, попробуйте еще раз.</string>
      <string name="error_auth_title">Ошибка аккаунта</string>
@@ -85,12 +85,12 @@
      <string name="find_device_enabling">Включение...</string>
      <string name="find_device_error_network">Сеть недоступна</string>
      <string name="find_device_error_server">Ошибка сервера</string>
-     <string name="find_device_notice_p1">Если вы не можете найти свой телефон, посетите</string>
+     <string name="find_device_notice_p1">Если Вы не можете найти свой телефон, посетите</string>
      <string name="find_device_notice_p3">для его поиска, блокировки или удаления данных</string>
      <string name="find_device_success_title">Поиск устройства включен</string>
      <string name="find_password_on_web_msg">Пожалуйста, посетите account.xiaomi.com для получения пароля</string>
      <string name="forget_password">Забыли пароль?</string>
-     <string name="frozen">(Заморожен)</string>
+     <string name="frozen">(заморожен)</string>
      <string name="giftcard_acitivity_and_denomination">Подарочная карта на %2$s MiCredit от %1$s</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="giftcard_denom">MiCredit</string>
@@ -116,7 +116,7 @@
      <string name="memu_refresh">Обновить</string>
      <string name="mibi_license_message">"Вы будете использовать сервис Xiaomi MiCredit.
 
-Нажимая клавишу \"ОК\", вы соглашаетесь соблюдать %1$s."</string>
+Нажимая клавишу \"ОК\", Вы соглашаетесь соблюдать %1$s."</string>
      <string name="mibi_license_message_span">Пользовательское соглашение MiCredit</string>
      <string name="mibi_license_title">Пользовательское соглашение</string>
      <string name="micloud_account">Аккаунт</string>
@@ -124,7 +124,7 @@
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="micloud_account_name">Xiaomi</string>
      <string name="micloud_account_not_actived">Аккаунт не активирован</string>
-     <string name="micloud_active_email_sent_1">Мы отправили вам письмо с ссылкой активации на почту:</string>
+     <string name="micloud_active_email_sent_1">Мы отправили Вам письмо с ссылкой активации на почту:</string>
      <string name="micloud_active_email_sent_2">""</string>
      <string name="micloud_active_email_visit">Посетите %s</string>
      <string name="micloud_activing_account">Активация аккаунта</string>
@@ -141,7 +141,7 @@
      <string name="micloud_intro_01_part_01">Экономия на затратах SMS</string>
      <string name="micloud_intro_01_part_02">MIUI позволяет отправлять бесплатные сообщения через облачный сервис</string>
      <string name="micloud_intro_02_part_01">Не нужно ничего делать</string>
-     <string name="micloud_intro_02_part_02">Облачные сервисы помогут синхронизировать контакты, сообщения, фотографии и другие данные на разных устройствах.</string>
+     <string name="micloud_intro_02_part_02">Облачные сервисы помогут синхронизировать контакты, сообщения, фотографии и другие данные на разных устройствах</string>
      <string name="micloud_intro_03_part_01">Вы никогда не потеряете свои данные и они будут безопасно храниться в MiCloud</string>
      <string name="micloud_intro_03_part_02">Управление вашими данными, блокировка и поиск устройства на i.xiaomi.com</string>
      <string name="micloud_is_what">Что такое MiCloud?</string>
@@ -151,10 +151,10 @@
      <string name="micloud_password_req_notice">8~16 символов, содержит цифры, буквы алфавита, с учетом регистра</string>
      <string name="micloud_reg_new">Создать новый</string>
      <string name="micloud_resend_active_email">Повторно отправить письмо активации</string>
-     <string name="micloud_summary">Войдите в аккаунт Xiaomi для синхронизации Контактов, Галереи и других функций.</string>
+     <string name="micloud_summary">Войдите в аккаунт Xiaomi для синхронизации контактов, галереи и других функций</string>
      <string name="micloud_use_existing">Существующий</string>
-     <string name="micloud_via_int_sms_alert">Будет отправлено международное сообщение для подтверждения вашего телефонного номера, продолжить?</string>
-     <string name="micloud_via_sms_alert">Будет отправлено сообщение для подтверждения вашего телефонного номера, продолжить?</string>
+     <string name="micloud_via_int_sms_alert">Будет отправлено международное сообщение для подтверждения Вашего телефонного номера. Продолжить?</string>
+     <string name="micloud_via_sms_alert">Будет отправлено сообщение для подтверждения Вашего телефонного номера. Продолжить?</string>
      <string name="micloud_welcome_skip_login">Пропустить этот шаг</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="mili_center">MiCredit</string>
@@ -187,7 +187,7 @@
      <string name="prepaid_number_edit_hint">Номер карты предоплаты</string>
      <string name="prepaid_password_edit_hint">Пароль карты предоплаты</string>
      <string name="prepaid_picker_hint_1_2">Поддерживается только разовая плата</string>
-     <string name="prepaid_picker_hint_2_2_a">Выбранная номинальной стоимость должна быть равна стоимости предоплаченной карты, в противном случае это приведет к потере денег.</string>
+     <string name="prepaid_picker_hint_2_2_a">Выбранная номинальная стоимость должна быть равна стоимости предоплаченной карты, в противном случае это приведет к потере денег</string>
      <string name="prepaid_picker_hint_2_2_b">Если номинальная стоимость карты составляет %1$s юаней, это приведет к потере денег</string>
      <string name="prepaid_picker_title_default">Выберите сумму пополнения</string>
      <string name="prepaid_picker_title_selected">сумма пополнения</string>
@@ -215,7 +215,7 @@
 1. Пожалуйста, свяжитесь со службой поддержки в Шеньчжоу: %1$s 
 2. Сообщите свой серийный номер: %2$s"</string>
      <string name="progress_warning_waiting">Еще не подтвержден. Пожалуйста, повторите попытку позже.</string>
-     <string name="quick_login_title">Требуется войти в аккаунт. Пожалуйста, введите ваш пароль.</string>
+     <string name="quick_login_title">Требуется войти в аккаунт. Пожалуйста, введите Ваш пароль.</string>
      <string name="recharge_alipay_summary">Пополнение Alipay</string>
      <string name="recharge_denomination">%1$s RMB</string>
      <string name="recharge_hint">1 MiCredit = 5 RMB ~ 25 рублей</string>
@@ -236,7 +236,7 @@
      <string name="reg_type_phone">Регистрация по телефону (рекомендуется)</string>
      <string name="reging">Регистрация. Пожалуйста, подождите…</string>
      <string name="relogin">Войти повторно</string>
-     <string name="remove_account_notice">Что бы вы хотели делать с ранее синхронизированными сообщениями, контактами, журналами вызовов и заметками на устройстве?</string>
+     <string name="remove_account_notice">Что бы Вы хотели делать с ранее синхронизированными сообщениями, контактами, журналами вызовов и заметками на устройстве?</string>
      <string name="remove_confirm">Удалить</string>
      <string name="remove_unactivated_account_notice">Аккаунт Xiaomi не активирован. Удалить его?</string>
      <string name="removing_account">Удаление аккаунта...</string>
@@ -245,8 +245,8 @@
      <string name="send_sms_for_sync_title">Служба синхронизации не активирована</string>
      <string name="sim_changed_notification_content">SIM-карта не активирована. Пожалуйста, активируйте.</string>
      <string name="skip_login">Пропустить</string>
-     <string name="skip_setup_account_msg">С помощью аккаунта Xiaomi вы сможете синхронизировать ваши контакты, сообщения и другие личные данные.</string>
-     <string name="skip_setup_account_title">Пропустить настройку аккаунта</string>
+     <string name="skip_setup_account_msg">С помощью аккаунта Xiaomi Вы сможете синхронизировать контакты, сообщения и другие личные данные</string>
+     <string name="skip_setup_account_title">Настройка аккаунта</string>
      <string name="start_micloud">Начать</string>
      <string name="sync_dspt">Использовать аккаунт Xiaomi</string>
      <string name="sync_off">Выкл.</string>

@@ -20,12 +20,12 @@
      <string name="dialog_cannot_resume">Загрузка прервана. Она не может быть возобновлена.</string>
      <string name="dialog_failed_body">Вы хотите повторить загрузку файла позже или удалить его из очереди?</string>
      <string name="dialog_file_already_exists">Не могу скачать. Файл уже существует.</string>
-     <string name="dialog_file_missing_body">Загруженный файл не найден.</string>
+     <string name="dialog_file_missing_body">Загруженный файл не найден</string>
      <string name="dialog_file_missing_title">Ошибка открытия файла</string>
      <string name="dialog_insufficient_space_on_cache">Не могу закончить загрузку. Недостаточно места на внутренних носителях.</string>
      <string name="dialog_insufficient_space_on_external">Не могу закончить загрузку. Существует нет места на внешних накопителях.</string>
      <string name="dialog_media_not_found">Не могу скачать. Внешний носитель не доступен.</string>
-     <string name="dialog_queued_body">Этот файл в очереди на скачивание.</string>
+     <string name="dialog_queued_body">Этот файл в очереди на скачивание</string>
      <string name="dialog_title_not_available">Ошибка загрузки</string>
      <string name="dialog_title_queued_body">Файл не доступен</string>
      <string name="disable_download_only_in_wifi_title">Отключить загрузку только по Wi-Fi</string>
@@ -52,7 +52,7 @@
      <string name="keep_queued_download">Оставить</string>
      <string name="menu_enter_edit_mode">Редактировать</string>
      <string name="menu_preferences">Параметры</string>
-     <string name="might_lead_to_mobile_charge">После отмены, загрузки из сети оператора будут идти без запросов. Это может привести к расходам трафика</string>
+     <string name="might_lead_to_mobile_charge">После отмены, загрузки из сети оператора будут идти без запросов. Это может привести к расходам трафика.</string>
      <string name="missing_title">Неизвестно</string>
      <string name="no_downloads">Нет загрузок</string>
      <string name="open_download">Открыть</string>

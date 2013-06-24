@@ -3,9 +3,9 @@
 <resources>
      <string name="account_bind_prompt">"Перенос данных пользователя
 перенос данных может жанять некоторое время,
-ваш аккаунт временно будет недоступен, пожалуйста подождите…"</string>
+Ваш аккаунт временно будет недоступен, пожалуйста подождите…"</string>
      <string name="add_task">Добавить задачи</string>
-     <string name="adding_upload_tasks">Добавление задачи загрузки.</string>
+     <string name="adding_upload_tasks">Добавление задачи загрузки</string>
      <string name="app_cache_cleanup_indication">%s кеша</string>
      <string name="app_cache_title">Кеш приложений</string>
      <string name="app_garbage_cleanup_indication">%s мусора</string>
@@ -16,7 +16,7 @@
      <string name="background">В фоне</string>
      <string name="big5_summary">Кодировка по умолчанию в традиционной китайской версии системы Windows</string>
      <string name="bind_account">Привязка к аккаунту KuaiPan</string>
-     <string name="bind_account_summary">Если у вас уже есть учетная запись kuaipan, то ее можно привязать к учетной записи Xiaomi, чтобы синхронизировать данные</string>
+     <string name="bind_account_summary">Если у Вас уже есть учетная запись kuaipan, то ее можно привязать к учетной записи Xiaomi, чтобы синхронизировать данные</string>
      <string name="binded_accout_description">Эти два аккаунта были объединены. Теперь Вы можете войти используя либо аккаунт Xiaomi, либо аккаунт Kuaipan. В них обоих будут одни и теже файлы.</string>
      <string name="binded_accout_title">В настоящее время Вы уже связаны с учетной записью KuaiPan</string>
      <string name="cache_size_label">Кеш</string>
@@ -71,7 +71,7 @@
      <string name="dialog_type_image">Изображения</string>
      <string name="dialog_type_text">Текст</string>
      <string name="dialog_type_video">Видео</string>
-     <string name="directory_no_item">Пустая папка</string>
+     <string name="directory_no_item">пустая папка</string>
      <string name="dlg_error_unmount_text">"Невозможно отключить USB-хранилище. Попробуйте позже."</string>
      <string name="download_failed">Ошибка загрузки</string>
      <string name="download_link_completed">Я поделился %1$s через KuaiPan. Нажмите ссылку внизу для просмотра:</string>
@@ -129,8 +129,8 @@
      <string name="load_err">Ошибка загрузки</string>
      <string name="loading">Загрузка</string>
      <string name="local_cache_size">Размер локального кэш: %s</string>
-     <string name="login_reg_content">KuaiPan позволяет хранить файлы и синхронизировать их между несколькими устройствами.</string>
-     <string name="login_reg_content0">KuaiPan - ваш интернет диск</string>
+     <string name="login_reg_content">KuaiPan позволяет хранить файлы и синхронизировать их между несколькими устройствами</string>
+     <string name="login_reg_content0">KuaiPan - Ваш интернет диск</string>
      <string name="menu_item_cleanup">Очистка</string>
      <string name="menu_item_search">Поиск</string>
      <string name="menu_item_sort">Сортировка</string>
@@ -138,7 +138,7 @@
      <string name="menu_item_sort_name">По названию</string>
      <string name="menu_item_sort_size">По размеру</string>
      <string name="menu_item_sort_type">По типу</string>
-     <string name="migrate_announcement_msg">Если у вас есть аккаунт KuaiPan, вы можете привязать его в настройках и получить доступ к данным.</string>
+     <string name="migrate_announcement_msg">Если у Вас есть аккаунт KuaiPan, его можно привязать в настройках и получить доступ к данным</string>
      <string name="migrate_announcement_title">MiDrive был перенесен в KuaiPan</string>
      <string name="move_failed">Ошибка перемещения</string>
      <string name="multi_select_title">Выбрано: %1$s</string>
@@ -151,7 +151,7 @@
      <string name="no_app_garbage_indication">Нет мусора от приложений</string>
      <string name="no_empty_dir_indication">Нет пустых папок</string>
      <string name="no_enough_space">Не хватает места</string>
-     <string name="no_enough_storage_indication">Не хватает места для вставки файла, очистите дополнительное место с помощью Очистки или просто удалите большие файлы</string>
+     <string name="no_enough_storage_indication">Не хватает места для вставки файла. Очистите дополнительное место с помощью очистки или просто удалите большие файлы.</string>
      <string name="no_enough_storage_title">Не хватает места</string>
      <string name="no_file">Нет файлов</string>
      <string name="no_more_space">Не хватает места на диске</string>
@@ -162,7 +162,7 @@
      <string name="no_wifi_hint">Нет Wi-Fi соединения</string>
      <string name="notif_server_starting">Синхронизация включена</string>
      <string name="notif_title">FTP сеть активна</string>
-     <string name="open_changed_file_message">"Файл, который вы пытаетесь открыть был изменен, вы можете:
+     <string name="open_changed_file_message">"Файл, который Вы пытаетесь открыть был изменен. Выберите:
 1. Скачать (обновить локальный файл)
 2. Загрузить (обновить файл в облаке)"</string>
      <string name="open_changed_file_title">Файл изменен</string>
@@ -260,9 +260,9 @@
      <string name="ui_main_toast_favorite_removed">Избранное удалено</string>
      <string name="ui_main_toast_operation_failed">Ошибка удаления %1$s</string>
      <string name="uninstall_app_data">Удалить приложение и все данные</string>
-     <string name="unmount_inform_text">USB-хранилище будет отключено.</string>
+     <string name="unmount_inform_text">USB-хранилище будет отключено</string>
      <string name="upload_failed">Ошибка загрузки</string>
-     <string name="upload_file_toolarge_message">%1$d файлов размером более 300 Мб не могут быть отправлены. Пожалуйста, проверьте в Управлении передачами.</string>
+     <string name="upload_file_toolarge_message">%1$d файлов размером более 300 Мб не могут быть отправлены. Пожалуйста, проверьте в управлении передачами.</string>
      <string name="uploading">Загрузка</string>
      <string name="used">Занято:</string>
      <string name="user_guide">Руководство пользователя</string>

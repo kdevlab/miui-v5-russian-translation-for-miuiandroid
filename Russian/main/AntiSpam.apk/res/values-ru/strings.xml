@@ -133,9 +133,9 @@
      <string name="show_firewall_notification">Иконка</string>
      <string name="show_notification">Уведомления</string>
      <string name="smart_antispam">Определение неизвестных номеров</string>
-     <string name="turn_on_smart_antispam_hint">После включении этой функции, номера неизвестных абонентов будут определены, что поможет вам избежать мошенничества.</string>
-     <string name="turn_on_smart_antispam_summary_off">Определение неизвестных номеров только с помощью локальной базы.</string>
-     <string name="turn_on_smart_antispam_summary_on">Определение неизвестных номеров только по Wi-Fi и 3G.</string>
+     <string name="turn_on_smart_antispam_hint">После включении этой функции, номера неизвестных абонентов будут определены, что поможет Вам избежать мошенничества</string>
+     <string name="turn_on_smart_antispam_summary_off">Определение неизвестных номеров только с помощью локальной базы</string>
+     <string name="turn_on_smart_antispam_summary_on">Определение неизвестных номеров только по Wi-Fi и 3G</string>
      <string name="turn_on_smart_antispam_title">Определение номеров</string>
      <string name="whitelist_tab_title">Белый список</string>
 </resources>

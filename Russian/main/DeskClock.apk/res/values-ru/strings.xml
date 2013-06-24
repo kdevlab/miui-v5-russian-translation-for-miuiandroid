@@ -78,7 +78,7 @@
      <string name="lap">Круг</string>
      <string name="lap_num">Круг</string>
      <string name="legal_workday">Рабочие дни</string>
-     <string name="legal_workday_invalidate">Данные просрочены (Сейчас будильник звонит с пон. по пят.)</string>
+     <string name="legal_workday_invalidate">Данные просрочены (сейчас будильник звонит с пон. по пят.)</string>
      <string name="legal_workday_invalidate_message">(обновите базу)</string>
      <string name="legal_workday_message"> (выключен в праздники)</string>
      <string name="loading_ringtone">Загрузка мелодии звонка...</string>
@@ -116,7 +116,7 @@
      <string name="stopwatch_title">Секундомер</string>
      <string name="system_time_setting">Настройки</string>
      <string name="time">Время</string>
-     <string name="timer_alert_alert_silenced">Таймер без звука после %d минут.</string>
+     <string name="timer_alert_alert_silenced">Таймер без звука после %d минут</string>
      <string name="timer_continue">Далее</string>
      <string name="timer_got_it">Закрыть</string>
      <string name="timer_hour">ч</string>
@@ -126,7 +126,7 @@
      <string name="timer_start_alarm">Время истекло</string>
      <string name="timer_title">Таймер</string>
      <string name="timer_tutorial">Установка таймера</string>
-     <string name="timezone_exist_error_message">Не удалось добавить часовой пояс. Часовой пояс уже существует, пожалуйста, повторите</string>
+     <string name="timezone_exist_error_message">Часовой пояс уже существует</string>
      <string name="timezone_search_hint">Поиск города</string>
      <string name="volume_button_dialog_title">Клавиши громкости</string>
      <string name="volume_button_setting_summary">Функция клавиш громкости во время срабатывания будильника</string>
