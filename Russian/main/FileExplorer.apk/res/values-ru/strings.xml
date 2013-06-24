@@ -15,6 +15,7 @@
      <string name="application_size_label">Приложение</string>
      <string name="background">В фоне</string>
      <string name="big5_summary">Кодировка по умолчанию в традиционной китайской версии системы Windows</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="big5_title">BIG5</string>
      <string name="bind_account">Привязка к аккаунту KuaiPan</string>
      <string name="bind_account_summary">Если у вас уже есть учетная запись kuaipan, то ее можно привязать к учетной записи Xiaomi, чтобы синхронизировать данные</string>
@@ -25,6 +26,7 @@
      <string name="cancel_app_garbage_cleanup">Не очищать</string>
      <string name="category_all">Все</string>
      <string name="category_apk">Программы</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="category_bluetooth">Bluetooth</string>
      <string name="category_document">Документы</string>
      <string name="category_favorite">Избранное</string>
@@ -47,6 +49,7 @@
      <string name="compress_message">Имя архива:</string>
      <string name="compress_title">Создание архива</string>
      <string name="confirm">OК</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="confirm_know">OK</string>
      <string name="copy_failed">Ошибка копирования</string>
      <string name="create_kuaipan_shortcut_pref">Создать ярлык на рабочем столе</string>
@@ -117,6 +120,7 @@
      <string name="garbage_size_metric">"%s
 Мусор"</string>
      <string name="gbk_summary">Если вы используете кодировку GBK, например, в Windows Explorer, выберите этот тип кодирования, чтобы избежать искажения текста на китайском языке</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="gbk_title">GBK</string>
      <string name="give_up_cleaning">Отмена</string>
      <string name="header_text_cleaned">мусора очищено</string>
@@ -126,8 +130,10 @@
      <string name="instruction">Адрес синхронизации:</string>
      <string name="instruction_pre">Обмен файлами с ПК или Mac по FTP через сеть Wi-Fi</string>
      <string name="item_name">Без имени</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="kuaipan_label">Kuaipan</string>
      <string name="kuaipan_over_space">В вашем KuaiPan нет больше свободного места</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="kuaipan_prompt">KuaiPan</string>
      <string name="kuaipan_prompt_message">"
  Идет обслуживание сервиса, пожалуйста, попробуйте позже…
@@ -139,6 +145,7 @@
      <string name="login_reg_content">KuaiPan позволяет хранить файлы и синхронизировать их между несколькими устройствами.</string>
      <string name="login_reg_content0">KuaiPan - ваш интернет диск</string>
      <string name="menu_item_cleanup">Очистка</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="menu_item_ftp">FTP</string>
      <string name="menu_item_search">Поиск</string>
      <string name="menu_item_sort">Сортировка</string>
@@ -223,6 +230,7 @@
      <string name="sd_size_label">Хранилище пользователя</string>
      <string name="search_hint">Введите часть или все имя файла</string>
      <string name="search_title">Поиск документов</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="send_to_midrive">KuaiPan</string>
      <string name="send_to_midrive_failed_message">Не удалось отправить в KuaiPan. Неверный формат файла.</string>
      <string name="server_control_advanced_settings">Расширенные настройки</string>
@@ -245,6 +253,7 @@
      <string name="sys_size">Всего: %1$s</string>
      <string name="sys_size_title">Полный объем</string>
      <string name="tab_category">Обзор</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="tab_networkdisk">KuaiPan</string>
      <string name="tab_phone">Телефон</string>
      <string name="temp_file_cleanup_indication">%s временнх файлов</string>

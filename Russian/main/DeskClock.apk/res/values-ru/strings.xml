@@ -59,6 +59,7 @@
      <string name="elapsed_time_format">(+%s)</string>
      <string name="enable_alarm">Включить будильник</string>
      <string name="every_day">каждый день</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="full_wday_month_day_no_year">EEEE, d MMMM</string>
      <string name="gallery_button_description">Галерея</string>
      <string name="hide_clock">Спрятать часы</string>

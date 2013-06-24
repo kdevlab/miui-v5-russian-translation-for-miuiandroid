@@ -68,6 +68,7 @@
      <string name="edit_event_show_all">Показать все</string>
      <string name="edit_event_to_label">До</string>
      <string name="edit_label">Изменить</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="email_guests_label">Email</string>
      <string name="email_picker_label">Email с</string>
      <string name="email_subject_prefix">"Re: "</string>

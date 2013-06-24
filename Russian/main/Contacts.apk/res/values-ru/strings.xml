@@ -391,6 +391,7 @@
      <string name="ic_menu_back">Назад</string>
      <string name="ic_menu_done">Готово</string>
      <string name="imLabelsGroup">Чат</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="imei">IMEI</string>
      <string name="import_all_vcard_string">Импорт всех файлов VCard</string>
      <string name="import_contact_card_button">Импорт</string>
@@ -454,6 +455,7 @@
      <string name="map_home">Просмотреть домашний адрес</string>
      <string name="map_other">Просмотр адреса</string>
      <string name="map_work">Просмотреть рабочий адрес</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="meid">MEID</string>
      <string name="menu_accounts">Аккаунты</string>
      <string name="menu_addStar">В избранные</string>
@@ -772,6 +774,7 @@
      <string name="resource_online">Онлайн %1$s</string>
      <string name="resource_price_format">(%1$s)</string>
      <string name="resource_price_free">Беспл.</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="resource_price_unit">MiCredit</string>
      <string name="resource_ringtone_default">Мелодии</string>
      <string name="resource_see_more">Подробнее</string>
@@ -858,6 +861,7 @@
      <string name="sms_home">SMS: домашний тел.</string>
      <string name="sms_isdn">SMS: номер ISDN</string>
      <string name="sms_main">SMS: основ. тел.</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="sms_mms">MMS</string>
      <string name="sms_mobile">SMS: мобильный</string>
      <string name="sms_other">Отправить SMS</string>

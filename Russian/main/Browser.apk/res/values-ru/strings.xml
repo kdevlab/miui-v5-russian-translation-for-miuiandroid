@@ -257,6 +257,7 @@
      <string name="page_info_view">Информация</string>
      <string name="password">Пароль</string>
      <string name="permission_preload_label">Загрузить результаты</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="picasa">Picasa</string>
      <string name="please_select_a_file_to_import">Пожалуйста, выберите файл с данными</string>
      <string name="popup_window_attempt">Открыть всплывающее окно с этого сайта?</string>
@@ -433,17 +434,23 @@
      <string name="save_file_already_exist_alert_title">Внимание</string>
      <string name="save_to_bookmarks">Добавить закладку</string>
      <string name="saving_snapshot">Сохраняется...</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="search_139">139</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="search_baidu">Baidu</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="search_bing">Bing</string>
      <string name="search_button_text">Поиск</string>
      <string name="search_cancel">Отмена</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="search_google">Google</string>
      <string name="search_hint">Поиск</string>
      <string name="search_label">Браузер</string>
      <string name="search_settings_description">Закладки и история поиска</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="search_sogou">Segou</string>
      <string name="search_the_web">Поиск в Интернете</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="search_yahoo">Yahoo</string>
      <string name="security_warning">Угроза безопасности</string>
      <string name="select_dot">Выбрать текст</string>

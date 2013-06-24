@@ -6,13 +6,14 @@
      <string name="airplane_error_msg">Невозможно использовать функцию Bluetooth в режиме полета.</string>
      <string name="airplane_error_title">Режим полета</string>
      <string name="app_name">Передача по Bluetooth</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="app_name_bpp">Bluetooth BPP</string>
      <string name="auth_notif_message">Введите ключ сеанса для %1$s</string>
      <string name="auth_notif_ticker">Запрос на аутентификацию Obex</string>
      <string name="auth_notif_title">Ключ сеанса</string>
      <string name="bpp_authentication_timeout_message">Время для ввода ключа сессии с %1$s истекло</string>
      <string name="bpp_cancel">Отменить</string>
-     <string name="bpp_main">Bluetooth Printing</string>
+     <string name="bpp_main">Bluetooth Печать</string>
      <string name="bpp_printing_button_text">Печать</string>
      <string name="bpp_session_key_dialog_header">Требуется ключ сеанса Bluetooth</string>
      <string name="bpp_session_key_dialog_title">Введите ключ сеанса для %1$s</string>

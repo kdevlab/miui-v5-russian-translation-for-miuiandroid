@@ -163,6 +163,7 @@
      <string name="internal_miui_capture_screen_folder_display_name">Скриншоты в памяти телефона</string>
      <string name="internal_sd_card">Внутренняя SD-карта</string>
      <string name="invalid_recipient_message">"Исправьте получателя (получателей) или они не будут получать сообщения."</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="iso">ISO</string>
      <string name="kick_sharer">Удалить получателя</string>
      <string name="kick_sharer_failed">Ошибка удаления получателя</string>
@@ -188,10 +189,12 @@
      <string name="menu_view_contact">Просмотр контакта</string>
      <string name="message_no_delete_access">Отказано в доступе. Невозможно удалить файл или папку: %s.</string>
      <string name="messagelist_sender_self">Я</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="miliao_folder_display_name">MiTalk</string>
      <string name="miliao_painting_folder_display_name">Рисунок MiTalk</string>
      <string name="miliao_saved_folder_display_name">Сохраненные MiTalk</string>
      <string name="mimetype">Тип MIME</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="mishop_saved_folder_display_name">MiShop</string>
      <string name="miui_capture_screen_folder_display_name">Скриншоты</string>
      <string name="model">Модель</string>

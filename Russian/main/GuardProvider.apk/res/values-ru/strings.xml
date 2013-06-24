@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Builded with CloudBuildr -->
 <resources>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="app_name">Tencent AV</string>
      <string name="hello_world">Привет мир!</string>
      <string name="menu_settings">Настройки</string>

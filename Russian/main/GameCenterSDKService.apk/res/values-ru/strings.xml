@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Builded with CloudBuildr -->
 <resources>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="app_name">Xiaomi SDK</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="crash_toast_text">testcrashtoasttext</string>
      <string name="hello">Hello World, Main!</string>
 </resources>

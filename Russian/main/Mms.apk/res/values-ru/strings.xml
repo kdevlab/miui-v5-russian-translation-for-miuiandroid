@@ -74,7 +74,6 @@
      <string name="context_menu_view_contact">Просмотр контактов</string>
      <string name="context_menu_view_mms">Просмотр MMS</string>
      <string name="conversation">Сообщения</string>
-     <string name="conversation_style">bubble</string>
      <string name="converting_to_picture_message">Преобразование в сообщение MMS...</string>
      <string name="converting_to_text_message">Преобразование в сообщение SMS...</string>
      <string name="copy_message_text">Скопировать текст</string>
@@ -117,6 +116,7 @@
      <string name="error_state_text">Переписки не соответствуют получателям. Сделайте снимок экрана и отправьте сообщение об ошибке через веб-сайт http://go/droidanizer</string>
      <string name="error_timed_msg">Невозможно запланировать время ранее текущего</string>
      <string name="ex_type_mx">Облачные сообщения</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="ex_type_sms">SMS</string>
      <string name="exceed_message_size_limitation">Достигнут максимальный размер сообщения</string>
      <string name="expire_on">Срок истекает: %s</string>
@@ -182,6 +182,7 @@
      <string name="message_too_big_for_video">Сообщение слишком велико, чтобы приложить видео</string>
      <string name="message_type_label">"Тип: "</string>
      <string name="messagelist_sender_self">Я</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="mms">MMS</string>
      <string name="move_down">Переместить вниз</string>
      <string name="move_up">Переместить вверх</string>

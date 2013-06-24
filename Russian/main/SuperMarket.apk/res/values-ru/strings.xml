@@ -5,6 +5,7 @@
      <string name="already_bottom">Конец</string>
      <string name="app_comments">Комментарии</string>
      <string name="app_comments_title">Комменатрии к: %1$s</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="app_name">MiStore</string>
      <string name="bad_comments">Плохие</string>
      <string name="button_refresh">Обновить</string>
@@ -28,6 +29,7 @@
      <string name="comment_upload_failed">Ошибка отправки</string>
      <string name="comment_upload_hint">Ваш комментарий появится после проверки</string>
      <string name="comment_upload_login_cancel">Отмена</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="comment_upload_login_ok">OK</string>
      <string name="comment_upload_need_login">Вы хотите войти в аккаунт, чтобы оставить комментарий?</string>
      <string name="comment_upload_not_logined">Пожалуйста, сначала войдите в аккаунт</string>

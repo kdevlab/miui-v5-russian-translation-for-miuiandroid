@@ -136,6 +136,7 @@
      <string name="HIPS_Perm_ROOT_Hint">%1$s приложения с правами суперпользователя</string>
      <string name="HIPS_Perm_ROOT_Title">получить права суперпользователя</string>
      <string name="HIPS_Perm_RejectAll">Запретить все</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="HIPS_Perm_SMS">SMS</string>
      <string name="HIPS_Perm_SMS_Access">Чтение входящих SMS</string>
      <string name="HIPS_Perm_SMS_Desc">Доступ к входящим SMS</string>
