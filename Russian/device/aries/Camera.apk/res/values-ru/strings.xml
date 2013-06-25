@@ -395,7 +395,7 @@
      <string name="toast_burst_snap_finished_start">Серийная съёмка завершена</string>
      <string name="toast_burst_snap_forbidden_when_audio_capture_open">Серийная съёмка невозможна при включённой записи звука</string>
      <string name="toast_burst_snap_forbidden_when_hdr_open">Серийная съёмка невозможна при включённом HDR</string>
-     <string name="toast_burst_snap_forbidden_when_iso_not_auto">Серийная съемка не поддерживается при автом. ISO</string>
+     <string name="toast_burst_snap_forbidden_when_iso_not_auto">Серийная съемка не поддерживается при не автом. ISO</string>
      <string name="toast_start_audio_capture">Похлопайте, чтобы сработал затвор</string>
      <string name="undo">НАЗАД</string>
      <string name="unit_mm">мм</string>
