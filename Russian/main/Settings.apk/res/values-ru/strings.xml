@@ -69,7 +69,7 @@
      <string name="accessibility_speak_password_title">Озвучивать пароли</string>
      <string name="accessibility_sync_disabled">Синхронизация отключена</string>
      <string name="accessibility_sync_enabled">Синхронизация включена</string>
-     <string name="accessibility_sync_error">Ошибка синхронизации.</string>
+     <string name="accessibility_sync_error">Ошибка синхронизации</string>
      <string name="accessibility_system_title">Система</string>
      <string name="accessibility_toggle_large_text_preference_title">Большой текст</string>
      <string name="accessibility_toggle_large_text_title">Большой текст</string>
@@ -83,9 +83,9 @@
      <string name="activating">Активация...</string>
      <string name="active_device_admin_msg">Администратор устройства</string>
      <string name="active_input_method_subtypes">Активные способы ввода</string>
-     <string name="activity_not_found">Приложение не установлено на телефоне.</string>
+     <string name="activity_not_found">Приложение не установлено на телефоне</string>
      <string name="activity_picker_label">Выбор действия</string>
-     <string name="adb_warning_message">Отладка по USB – это режим, который позволяет использовать ваше устройство как внешний накопитель: перемещать файлы (с компьютера и на компьютер), напрямую устанавливать приложения, а также просматривать системные журналы.</string>
+     <string name="adb_warning_message">Отладка по USB – это режим, который позволяет использовать Ваше устройство как внешний накопитель: перемещать файлы (с компьютера и на компьютер), напрямую устанавливать приложения, а также просматривать системные журналы</string>
      <string name="adb_warning_title">Разрешить отладку USB?</string>
      <string name="add_account_label">Добавить аккаунт</string>
      <string name="add_device_admin">Активировать</string>
@@ -458,7 +458,7 @@
      <string name="bssid_label">"BSSID: "</string>
      <string name="bugreport_in_power">Отчеты об ошибках</string>
      <string name="bugreport_in_power_summary">Показывать в меню опцию отправки отчета об ошибке</string>
-     <string name="bugreport_tool_log_toast">Лаг сохранен в %s</string>
+     <string name="bugreport_tool_log_toast">Лог сохранен в %s</string>
      <string name="bugreport_tool_log_toast_generate_bugreport">Создание отчета об ошибке</string>
      <string name="build_number">Номер сборки</string>
      <string name="builtin_keyboard_settings_summary">Настройки физической клавиатуры</string>
@@ -874,7 +874,7 @@
      <string name="gadget_toggle_wifi">Обновление настроек Wi-Fi</string>
      <string name="gadget_wifi">Wi-Fi</string>
      <string name="game_controller_settings_category">Игровой контроллер</string>
-     <string name="global_change_warning">Настройки будут изменены для всех пользователей устройства.</string>
+     <string name="global_change_warning">Настройки будут изменены для всех пользователей устройства</string>
      <string name="global_font_change_title">Измените размер шрифта</string>
      <string name="global_locale_change_title">Измените язык</string>
      <string name="haptic_feedback_enable_title">Виброотклик клавиш</string>
@@ -891,7 +891,7 @@
      <string name="header_category_system">Параметры системы</string>
      <string name="header_category_wireless_networks">Беспроводные сети</string>
      <string name="header_data_and_synchronization">Cинхронизация данных</string>
-     <string name="heavy_weight_stop_description">Это приложение не может быть безопасно остановлено. Если вы остановите его, вы можете потерять некоторые несохраненные данные.</string>
+     <string name="heavy_weight_stop_description">Это приложение не может быть безопасно остановлено. Если остановите его, Вы можете потерять некоторые несохраненные данные.</string>
      <string name="help_label">Помощь</string>
      <string name="help_url_accounts">""</string>
      <string name="help_url_backup_reset">""</string>
@@ -984,7 +984,7 @@
      <string name="local_backup_password_toast_confirmation_mismatch">Новый пароль и подтверждение не совпадают</string>
      <string name="local_backup_password_toast_success">Установлен новый пароль</string>
      <string name="local_backup_password_toast_validation_failure">Ошибка установки пароля</string>
-     <string name="location_access_summary">Разрешить приложениям использовать данные о вашем местоположении</string>
+     <string name="location_access_summary">Разрешить приложениям использовать данные о Вашем местоположении</string>
      <string name="location_access_title">Доступ к моим геоданным</string>
      <string name="location_gps">Спутники GPS</string>
      <string name="location_neighborhood_level">Использовать Wi-Fi и мобильные сети для определения местоположения</string>
@@ -1119,10 +1119,10 @@
      <string name="memory">ОЗУ</string>
      <string name="memory_apps_usage">Приложения</string>
      <string name="memory_available">Доступно</string>
-     <string name="memory_available_read_only">Доступно (только для чтения)</string>
+     <string name="memory_available_read_only">доступно (только для чтения)</string>
      <string name="memory_calculating_size">Подсчет…</string>
-     <string name="memory_clear_cache_message">Будут удалены данные всех приложений.</string>
-     <string name="memory_clear_cache_title">Очистить кэш?</string>
+     <string name="memory_clear_cache_message">Удалить данные всех приложений?</string>
+     <string name="memory_clear_cache_title">Очистка кэша</string>
      <string name="memory_dcim_usage">Изображения и видео</string>
      <string name="memory_downloads_usage">Загрузки</string>
      <string name="memory_media_cache_usage">Данные кэша</string>
@@ -1167,7 +1167,7 @@
      <string name="msd_install_status_undo">Установить драйвер</string>
      <string name="msd_install_succeed">Драйвер уже установлен</string>
      <string name="msd_install_windows_xp_step_2_1">1.Если появится Мастер Настройки, пожалуйста, следуйте его указаниям до окончания установки</string>
-     <string name="mtp_ptp_mode_summary">Функция MTP или PTP активирована</string>
+     <string name="mtp_ptp_mode_summary">Активирована функция MTP или PTP</string>
      <string name="multi_sim_settings_summary">Выбрать операторов для голосовых вызовов, передачи данных и SMS</string>
      <string name="multi_sim_settings_title">Настройка сим-карт</string>
      <string name="multi_touch_points_category_title">Точки мультитач</string>
@@ -1513,14 +1513,14 @@
      <string name="remove_from_frequently_fragment">Удалить \"%s\" из избранного?</string>
      <string name="reset_app_preferences">Сброс настроек приложений</string>
      <string name="reset_app_preferences_button">Сброс приложений</string>
-     <string name="reset_app_preferences_desc">"Это будет сбросит все настройки для:
+     <string name="reset_app_preferences_desc">"Это сбросит все настройки для:
 
 Отключенных приложений
-Отключенных уведомлений от приложений
-Приложения по умолчанию
-Ограничения фоновых данных для приложений
+Отключенных уведомлений приложений
+Приложений по умолчанию
+Ограничений фоновых данных приложений
 
-Вы не потеряете данных приложения."</string>
+Данные приложений потеряны не будут."</string>
      <string name="reset_app_preferences_title">Сбросить настройки приложений?</string>
      <string name="restore_default_apn">Восстановление настроек точек доступа по умолчанию</string>
      <string name="restore_default_apn_completed">Настройки по умолчанию восстановлены</string>
@@ -1646,7 +1646,7 @@
      <string name="security_passwords_title">Пароли</string>
      <string name="security_privacy_settings_title">Конфиденциальность</string>
      <string name="security_relative">Вопросы безопасности</string>
-     <string name="security_settings_billing_desc">Это приложение может списывать деньги с вашего счета:</string>
+     <string name="security_settings_billing_desc">Это приложение может списывать деньги с Вашего счета:</string>
      <string name="security_settings_desc">У этого приложения есть доступ к следующей информации на устройстве:</string>
      <string name="security_settings_desc_multi">Для увеличения быстродействия и уменьшения потребления памяти некоторые из разрешиний доступны %1$s, т.к. он запущен одним процессом с %2$s:</string>
      <string name="security_settings_premium_sms_desc">Отправить SMS?</string>
@@ -1696,7 +1696,7 @@
      <string name="show_background_processes">Показать процессы в кэше</string>
      <string name="show_cpu_usage">Показывать загрузку ЦП</string>
      <string name="show_cpu_usage_summary">Экран, показывающий текущую загрузку ЦП</string>
-     <string name="show_dev_already">Не нужно, вы уже разработчик.</string>
+     <string name="show_dev_already">Вы уже разработчик</string>
      <string name="show_dev_on">Вы стали разработчиком!</string>
      <string name="show_fc">Показывать критические ошибки</string>
      <string name="show_fc_summary">Показать информацию о критически закрытых приложениях</string>
@@ -1996,10 +1996,10 @@
 Пользователи могут разрешать обновления для любых аккаунтов на устройстве."</string>
      <string name="user_add_user_title">Добавить пользователя</string>
      <string name="user_adding_new_user">Добавление…</string>
-     <string name="user_cannot_manage_message">Только владелец может настроить устройство для других пользователей.</string>
+     <string name="user_cannot_manage_message">Только владелец может настроить устройство для других пользователей</string>
      <string name="user_confirm_remove_message">Удалить пользователя и все данные, связанные с ним?</string>
-     <string name="user_confirm_remove_self_message">Ваши данные, сохраненные на этом устройстве, будут удалены без возможности восстановления.</string>
-     <string name="user_confirm_remove_self_title">Удалить ваш аккаунт?</string>
+     <string name="user_confirm_remove_self_message">Удалить все Ваши данные, сохраненные на этом устройстве, без возможности восстановления?</string>
+     <string name="user_confirm_remove_self_title">Удаление аккаунта</string>
      <string name="user_confirm_remove_title">Удалить пользователя?</string>
      <string name="user_delete_button">Удалить</string>
      <string name="user_delete_user_description">Удалить пользователя</string>
@@ -2052,7 +2052,7 @@
      <string name="user_you_section">Вы</string>
      <string name="verify_applications">Проверка приложений</string>
      <string name="verify_applications_summary">Запретить или предупреждать перед установкой приложений, которые могут причинить вред</string>
-     <string name="verify_apps_over_usb_summary">Проверка приложений, установленных через ADB/ADT на подозрительное поведение.</string>
+     <string name="verify_apps_over_usb_summary">Проверка приложений, установленных через ADB/ADT на подозрительное поведение</string>
      <string name="verify_apps_over_usb_title">Проверка приложений через USB</string>
      <string name="version_text">Версия %1$s</string>
      <string name="vibrate_category_title">Вибрация</string>
@@ -2181,13 +2181,13 @@
      <string name="wifi_advanced_mac_address_title">MAC-адрес</string>
      <string name="wifi_advanced_settings_label">Настройки IP</string>
      <string name="wifi_advanced_titlebar">Дополнительно</string>
-     <string name="wifi_and_mobile_skipped_message">"ВНИМАНИЕ: Телефон не может проверить, что программное обеспечение в актуальном состоянии."</string>
+     <string name="wifi_and_mobile_skipped_message">ВНИМАНИЕ: устройство не может проверить, что программное обеспечение в актуальном состоянии</string>
      <string name="wifi_api_test">Wi-Fi API</string>
      <string name="wifi_cancel">Отмена</string>
      <string name="wifi_certificate">Сертификат</string>
      <string name="wifi_config_info">Настройки Wi-Fi</string>
      <string name="wifi_connect">Подключить</string>
-     <string name="wifi_connect_failed_message">Телефон не может подключиться к этой сети Wi-Fi.</string>
+     <string name="wifi_connect_failed_message">Устройство не может подключиться к этой Wi-Fi сети</string>
      <string name="wifi_context_menu_change_password">Изменить пароль</string>
      <string name="wifi_context_menu_change_wapi_certificate">Изменить сертификат WAPI</string>
      <string name="wifi_context_menu_connect">Подключиться к сети</string>
@@ -2198,9 +2198,9 @@
      <string name="wifi_disabled_password_failure">Ошибка аутентификации</string>
      <string name="wifi_display_available_devices">Доступные устройства</string>
      <string name="wifi_display_details">Настройка дисплея</string>
-     <string name="wifi_display_disconnect_text">Это будет конец вашей связи с:&lt;br>&lt;b>%1$s&lt;/b></string>
-     <string name="wifi_display_disconnect_title">Отключить?</string>
-     <string name="wifi_display_no_devices_found">Нет близлежащих беспроводных дисплеев.</string>
+     <string name="wifi_display_disconnect_text">Завершить Ваш сеанс связи с:&lt;br>&lt;b>%1$s&lt;/b>?</string>
+     <string name="wifi_display_disconnect_title">Отключение</string>
+     <string name="wifi_display_no_devices_found">Нет близлежащих беспроводных дисплеев</string>
      <string name="wifi_display_options_done">Готово</string>
      <string name="wifi_display_options_forget">Забыть</string>
      <string name="wifi_display_options_name">Имя</string>
@@ -2208,8 +2208,8 @@
      <string name="wifi_display_paired_devices">Сопряженные дисплеи</string>
      <string name="wifi_display_search_for_devices">Поиск дисплеев</string>
      <string name="wifi_display_searching_for_devices">Поиск…</string>
-     <string name="wifi_display_settings_empty_list_wifi_display_disabled">Беспроводной дисплей отключен, так как Wi-Fi недоступен.</string>
-     <string name="wifi_display_settings_empty_list_wifi_display_off">Для просмотра устройств, включите беспроводной дисплей.</string>
+     <string name="wifi_display_settings_empty_list_wifi_display_disabled">Беспроводной дисплей отключен, так как Wi-Fi недоступен</string>
+     <string name="wifi_display_settings_empty_list_wifi_display_off">Для просмотра устройств, включите беспроводной дисплей</string>
      <string name="wifi_display_settings_title">Беспроводной дисплей</string>
      <string name="wifi_display_status_available">Доступно</string>
      <string name="wifi_display_status_connected">Подключено</string>
@@ -2217,7 +2217,7 @@
      <string name="wifi_display_summary_disabled">Отключен</string>
      <string name="wifi_display_summary_off">Выкл</string>
      <string name="wifi_display_summary_on">Вкл</string>
-     <string name="wifi_dont_skip">"Не пропускать"</string>
+     <string name="wifi_dont_skip">Не пропускать</string>
      <string name="wifi_eap_anonymous">Неизвестный</string>
      <string name="wifi_eap_ca_cert">Сертификат центра сертификации</string>
      <string name="wifi_eap_identity">Пользователь</string>
@@ -2288,7 +2288,7 @@
      <string name="wifi_quick_toggle_summary">Включить Wi-Fi</string>
      <string name="wifi_quick_toggle_title">Wi-Fi</string>
      <string name="wifi_remembered">Сохранено</string>
-     <string name="wifi_required_info_text">Для завершения настройки, ваше устройство требует дотупа к Wi-Fi. После настройки, вы можете переключаться между мобильной сетью и Wi-Fi</string>
+     <string name="wifi_required_info_text">Для завершения настройки, Ваше устройство требует дотупа к Wi-Fi. После настройки, Вы можете переключаться между мобильной сетью и Wi-Fi.</string>
      <string name="wifi_save">Сохранить</string>
      <string name="wifi_secured_first_item">Защита %1$s</string>
      <string name="wifi_secured_second_item">, защита %1$s</string>
@@ -2339,7 +2339,7 @@
      <string name="wifi_show_password">Показывать пароль</string>
      <string name="wifi_signal">Уровень сигнала</string>
      <string name="wifi_skip_anyway">Пропустить</string>
-     <string name="wifi_skipped_message">"Внимание: Может взиматься дополнительная плата за подключение.
+     <string name="wifi_skipped_message">"Внимание: может взиматься дополнительная плата за подключение.
 
 Настройка телефона может потребовать значительных объемов трафика."</string>
      <string name="wifi_speed">Скорость связи</string>
@@ -2355,7 +2355,7 @@
      <string name="wifi_status_test">Статус Wi-Fi</string>
      <string name="wifi_stopping">Выключение Wi-Fi...</string>
      <string name="wifi_suspend_optimizations">Оптимизация Wi-Fi</string>
-     <string name="wifi_suspend_optimizations_summary">Минимизировать использование батареи при подключении Wi-Fi</string>
+     <string name="wifi_suspend_optimizations_summary">Минимизировать использование батареи при включенном Wi-Fi</string>
      <string name="wifi_tether_checkbox_text">Точка доступа Wi-Fi</string>
      <string name="wifi_tether_configure_ap_text">Настроить точку доступа Wi-Fi</string>
      <string name="wifi_tether_configure_ssid_default">Хот-спот Android</string>
