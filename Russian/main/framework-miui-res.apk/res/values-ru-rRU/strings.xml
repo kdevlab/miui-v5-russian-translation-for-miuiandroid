@@ -11,6 +11,7 @@
      <string name="autumn_equinox">""</string>
      <string name="callNoAnswerTimeFormat">Гудков: %s</string>
      <string name="call_record_or">или</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="call_record_sample_prefix_miui">Callrecording</string>
      <string name="caller_info_name_delimiter">или</string>
      <string name="check_phone_error_title">Не удалось открыть Синхронизацию</string>
@@ -255,6 +256,7 @@
      <string name="days">%d дн.</string>
      <string name="delete">Удалить</string>
      <string name="deprecated_alarm_message_12_hour_formate" />
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="device_xiaomi">Xiaomi Phone</string>
      <string name="double_seventh_day">""</string>
      <string name="emergency_call_string">Экстренные</string>
@@ -323,6 +325,7 @@ EEEE"</string>
      <string name="lockscreen_too_many_failed_attempts_countdown">Попробуйте снова через %d сек.</string>
      <string name="lockscreen_transport_next_description">Кнопка следующий трек</string>
      <string name="lockscreen_transport_play_description">Кнопка Играть</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="lockscreen_transport_prev_description">Previous track button</string>
      <string name="lockscreen_unlock_sim_via_puk">Используйте PUK-код, чтобы разблокировать SIM-карту</string>
      <string name="lunar_ba">八</string>
@@ -333,6 +336,7 @@ EEEE"</string>
      <string name="lunar_er_shi">二十</string>
      <string name="lunar_jiu">九</string>
      <string name="lunar_leap">闰</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="lunar_ling">O</string>
      <string name="lunar_liu">六</string>
      <string name="lunar_nian">廿</string>
@@ -353,6 +357,7 @@ EEEE"</string>
 Доступно: %2$s"</string>
      <string name="minutes">%d мин.</string>
      <string name="miui_copyright_title">Авторское право</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="miui_device_name">MIUI</string>
      <string name="miui_mibi_license_title">Лицензионное соглашение MiCredit</string>
      <string name="miui_privacy_policy_title">Политика конфиденциальности</string>
@@ -423,6 +428,7 @@ EEEE"</string>
      <string name="short_pincode_error_msg">Пожалуйста, введите 4-8 цифр</string>
      <string name="short_pukcode_error_msg">Пожалуйста, введите по меньшей мере 8 цифр</string>
      <string name="shutdown_confirm_title">Вы уверены, что хотите выключить устройство?</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="sim_account_name">SIM</string>
      <string name="sim_changed_reactivate_int_notice">Текущая SIM-карта не активирована. Необходима отправка международной SMS для активации услуги Xiaomi синхронизации. Активировать сейчас?</string>
      <string name="sim_changed_reactivate_notice">Текущая SIM-карта не активирована. Необходима отправка SMS для активации услуги Xiaomi синхронизации. Активировать сейчас?</string>
@@ -452,6 +458,7 @@ EEEE"</string>
      <string name="tomorrow">"Завтра "</string>
      <string name="unknown">Неизвестный номер</string>
      <string name="unknown_caller">Неизвестный абонент</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="unlock_string">OK</string>
      <string name="unlocking_sim_card">Разблокировка SIM-карты</string>
      <string name="unlockscreen_low_battery">Подключите зарядное устройство</string>
@@ -474,6 +481,7 @@ EEEE"</string>
      <string name="valentines_day">День Святого Валентина</string>
      <string name="vernal_equinox">""</string>
      <string name="volume_alarm">Будильник</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="volume_icon_description_bluetooth">Bluetooth</string>
      <string name="volume_icon_description_incall">Вызов</string>
      <string name="volume_icon_description_media">Медиа</string>
