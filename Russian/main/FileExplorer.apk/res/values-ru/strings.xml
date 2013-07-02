@@ -22,6 +22,7 @@
      <string name="cache_size_label">Кеш</string>
      <string name="cancel">Отмена</string>
      <string name="cancel_app_garbage_cleanup">Не очищать</string>
+     <string name="cancel_with_count_down">Отмена (%d)</string>
      <string name="category_all">Все</string>
      <string name="category_apk">Программы</string>
      <string name="category_document">Документы</string>
@@ -39,13 +40,17 @@
      <string name="clean_message">Удаление %1$s</string>
      <string name="clean_title">Удалять файлы из корзины, если они лежат там дольше 30 дней</string>
      <string name="clean_trash_box">Очистить корзину</string>
+     <string name="cleaned">Очищено</string>
+     <string name="cleaning">Очистка...</string>
      <string name="cleanup_complete">Готово</string>
+     <string name="cleanup_stopped">Очистка остановлена</string>
      <string name="close">Закрыть</string>
      <string name="compress_fail">Ошибка архивирования, файл уже существует</string>
      <string name="compress_message">Имя архива:</string>
      <string name="compress_title">Создание архива</string>
      <string name="confirm">OК</string>
      <string name="copy_failed">Ошибка копирования</string>
+     <string name="count_down_time">Начало через %d секунд</string>
      <string name="create_kuaipan_shortcut_pref">Создать ярлык на рабочем столе</string>
      <string name="create_new_folder_desctiption">Создание папки...</string>
      <string name="create_new_folder_failed">Не удалось создать папку %1$s</string>
@@ -88,6 +93,7 @@
      <string name="favorite_photo">Фотография</string>
      <string name="favorite_ringtone">Мелодии</string>
      <string name="favorite_screen_cap">Скриншоты</string>
+     <string name="file_cleanup">Очистка файлов</string>
      <string name="file_info_canread">Чтение:</string>
      <string name="file_info_canwrite">Запись:</string>
      <string name="file_info_ishidden">Скрытый:</string>
@@ -207,6 +213,7 @@
      <string name="rename_description">Переименовывается···</string>
      <string name="rename_failed">Переименование 《%1$s》 не удалось</string>
      <string name="restart_cleaning">Повтор</string>
+     <string name="scanned">Сканирование завершено</string>
      <string name="scanning" formatted="false">Сканирование %d из %d...</string>
      <string name="scanning_on_going">Сканирование...</string>
      <string name="sd_card_available">Свободно: %1$s</string>

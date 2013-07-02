@@ -11,8 +11,7 @@
      <string name="apply_lockscreen_paper_tips">Работает не стандартный экран блокировки, новые обои на нем могут не смениться</string>
      <string name="apply_theme_no_select_message">Пожалуйста, выберите компоненты</string>
      <string name="backup_preference_title">Резервное копирование</string>
-     <string name="backup_theme_dialog_message">"Тема будет сохранена в 
-%1$s"</string>
+     <string name="backup_theme_dialog_message">"Резервное копирование текущей темы"</string>
      <string name="backup_theme_dialog_ok">ОК</string>
      <string name="backup_theme_name">Моя тема</string>
      <string name="backup_theme_progress_message">Сохранение...</string>
@@ -158,8 +157,10 @@
      <string name="theme_component_title_ringtone">Мелодия</string>
      <string name="theme_component_title_statusbar">Статус-бар</string>
      <string name="theme_component_title_wallpaper">Обои</string>
+     <string name="theme_current_using_has_update">Текущая тема была обновлена, нажмите здесь, чтобы применить</string>
      <string name="theme_description_title_customized">Пользов.</string>
      <string name="theme_description_title_default">По умолчанию</string>
+     <string name="theme_immediately_apply_tip">Тема обновляется, применить после обновления?</string>
      <string name="theme_import_activity_label">Обновление тем</string>
      <string name="theme_import_data">Импорт информации</string>
      <string name="theme_import_fail">Ошибка импорта %1$s</string>
@@ -183,6 +184,7 @@
      <string name="theme_import_stoping">Остановка...</string>
      <string name="theme_importing">Импортирование темы…</string>
      <string name="theme_is_imported">Тема импортирована</string>
+     <string name="theme_name">%1$s</string>
      <string name="theme_sdcard_importing">Импортирование</string>
      <string name="theme_select_others">Прочее</string>
      <string name="theme_upgrade_request_cancel">Нет</string>

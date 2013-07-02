@@ -32,6 +32,8 @@
      <string name="aggregation_suggestion_join_dialog_message">Объединить текущий контакт с выбранным контактом?</string>
      <string name="all_list_empty">Нет контактов</string>
      <string name="all_resources">Все</string>
+     <string name="antispam_mark_my_contribution">Мой вклад в спам-фильтр</string>
+     <string name="antispam_provider_format">Поддержка спам-фильтра: %s</string>
      <string name="attach_photo_dialog_title">Фото контакта</string>
      <string name="audio_chat">Голосовой чат</string>
      <string name="auto_nickname">Авто</string>
@@ -164,6 +166,7 @@
      <string name="contact_editor_prompt_multiple_accounts">Выберите аккаунт, в который следует добавить новый контакт</string>
      <string name="contact_editor_prompt_one_account">Контакт будет добавлен в аккаунт %1$s</string>
      <string name="contact_editor_prompt_zero_accounts">Резервная копия нового контакта не будет сохранена. Добавить аккаунт для сохранения контактов в Интернете?</string>
+     <string name="contact_is_readOnly">Не удается отредактировать контакты только для чтения</string>
      <string name="contact_list_loading">Загрузка…</string>
      <string name="contact_pick_photo">Изображение</string>
      <string name="contact_read_only">Здесь доступно только для чтения</string>
@@ -406,6 +409,11 @@
      <string name="import_to_xiaomi_account_title">Вы уверены, что хотите импортировать контакты в аккаунт Xiaomi?</string>
      <string name="import_vcard_description">Импортирование контактов с SD-карты.</string>
      <string name="import_weibo_dialog_title">Импорт контактов sina weibo</string>
+     <string name="import_weibo_error_no_matched_contacts">Обновление контактов: нет совпадающих контактах</string>
+     <string name="import_weibo_error_no_network">Обновление контактов: ошибка сети</string>
+     <string name="import_weibo_error_no_xiaomi_phone">Обновление контактов: нет телефонов в аккаунте Xiaomi</string>
+     <string name="import_weibo_error_unknown">Обновление контактов: Неизвестная ошибка</string>
+     <string name="import_weibo_error_user_cancel">Обновление контактов: отменено пользователем</string>
      <string name="import_weibo_fetch_followers">Получение пользователей weibo…</string>
      <string name="import_weibo_notification_title_done">Обновлено контактов sina weibo: %s</string>
      <string name="import_weibo_progress_name">Совпадение \"%1$s\"…</string>
@@ -457,8 +465,9 @@
      <string name="menu_bar_group_add">Добавить</string>
      <string name="menu_bar_group_delete">Удалить группу</string>
      <string name="menu_bar_group_rename">Переименовать</string>
-     <string name="menu_bar_group_ringtone">Рингтон группы</string>
-     <string name="menu_bar_group_sms">SMS группе</string>
+     <string name="menu_bar_group_ringtone">Мелодия группы</string>
+     <string name="menu_bar_group_ringtone_largeui">Мелодия</string>
+     <string name="menu_bar_group_sms">Отправить SMS группе</string>
      <string name="menu_call">Позвонить</string>
      <string name="menu_callNumber">Вызов: %s</string>
      <string name="menu_call_ip_number">Вызов через IP (вызов %s)</string>
@@ -709,6 +718,7 @@
      <string name="private_num">Скрытый номер</string>
      <string name="processing">Обработка...</string>
      <string name="profile_display_name">Настроить профиль</string>
+     <string name="profile_name">Мой профиль</string>
      <string name="progress_notifier_message" formatted="false">Импорт %s/%s: %s</string>
      <string name="quickcontact_missing_app">Действие не поддерживается ни в одном приложении</string>
      <string name="quit_dialog_confirm_title">Выйти из объединения контактов?</string>
