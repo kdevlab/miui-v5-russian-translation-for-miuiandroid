@@ -421,7 +421,7 @@
      <string name="bluetooth_quick_toggle_summary">Включить Bluetooth</string>
      <string name="bluetooth_rename_button">Переименовать</string>
      <string name="bluetooth_rename_device">Переименовать телефон</string>
-     <string name="bluetooth_sap_acceptance_dialog_text">%1$s хочет получить доступ к вашей SIM карте. Разрешить доступ %2$s?</string>
+     <string name="bluetooth_sap_acceptance_dialog_text">%1$s хочет получить доступ к Вашей SIM карте. Разрешить доступ %2$s?</string>
      <string name="bluetooth_sap_connection_permission_request">Sap: запрос на подключение</string>
      <string name="bluetooth_sap_profile_summary_connected">Подключено к серверу доступа к SIM</string>
      <string name="bluetooth_sap_profile_summary_not_connected">Не подключено к серверу доступа к SIM</string>
