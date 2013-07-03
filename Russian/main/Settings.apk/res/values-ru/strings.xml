@@ -491,6 +491,8 @@
      <string name="cdma_security_settings_summary">Настройка функции \"Мое местоположение\", разблокировка экрана и блокировка хранилища регистрационных данных</string>
      <string name="cell_broadcast_settings">Широковещательные сообщения</string>
      <string name="cell_broadcast_settings_summary">Выбор типа уведомлений для отображения</string>
+     <string name="change_password">Сменить пароль</string>
+     <string name="change_security_lock">Попробуйте другие способы, чтобы разблокировать</string>
      <string name="checkbox_notification_same_as_incoming_call">Использовать этот уровень громкости также для уведомлений</string>
      <string name="choose_timezone">Выбрать часовой пояс</string>
      <string name="clear_activities">Удалить настройки по умолчанию</string>
@@ -1001,6 +1003,7 @@
 Чтобы начать, нажмите \"Далее\"."</string>
      <string name="lock_screen_unlock_show">Показать интерфейс ввода пароля</string>
      <string name="lock_screen_unlock_show_summary">Не используйте другие локскрины после включения, достаточно зайти в интерфейс для разблокировки экрана</string>
+     <string name="lock_settings_common_title">Настройка блокировки</string>
      <string name="lock_settings_picker_settings">Установить блокировку экрана</string>
      <string name="lock_settings_picker_title">Тип блокировки</string>
      <string name="lock_settings_title">Блокировка экрана</string>
@@ -1905,6 +1908,7 @@
      <string name="tts_settings_changed_demo">Ваши настройки изменены. Вот пример того, как это звучит.</string>
      <string name="tts_settings_title">Синтез речи</string>
      <string name="turn_off_radio">Отключить радио</string>
+     <string name="turn_off_security_lock">Отключить блокировку</string>
      <string name="turn_on_radio">Включить радио</string>
      <string name="under_keyguard">На экране блокировки</string>
      <string name="uninstall_all_users_text">Удалить для всех пользователей</string>

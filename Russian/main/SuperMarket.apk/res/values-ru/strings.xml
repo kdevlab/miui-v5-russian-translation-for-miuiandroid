@@ -4,6 +4,7 @@
      <string name="all_comments">Все</string>
      <string name="already_bottom">Конец</string>
      <string name="app_comments">Комментарии</string>
+     <string name="app_comments_footer">Пустые комментарии здесь не показаны.</string>
      <string name="app_comments_title">Комменатрии к: %1$s</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="app_name">MiStore</string>
@@ -15,9 +16,16 @@
      <string name="category_recommend_tag">Реком.</string>
      <string name="category_tag">Категории</string>
      <string name="clear_search_record_message">Очистить историю поиска?</string>
+     <string name="comment_1_star">1 звезда</string>
+     <string name="comment_2_star">2 звезды</string>
+     <string name="comment_3_star">3 звезды</string>
+     <string name="comment_4_star">4 звезды</string>
+     <string name="comment_5_star">5 звезд</string>
+     <string name="comment_average_score">Всего</string>
      <string name="comment_cannot_comment">Чтобы оставить комментарий, нужно сначала скачать это приложение.</string>
      <string name="comment_count">Всего %1$s оценок %2$s комментариев</string>
-     <string name="comment_description">%1$s комментарий к %2$s:%3$s:%4$s</string>
+     <string name="comment_current_version">Текущая версия</string>
+     <string name="comment_date">%1$02d-%2$02d</string>
      <string name="comment_invalid">Нажмите на звездочки, чтобы оценить.</string>
      <string name="comment_name_default">Пользователь %1$s</string>
      <string name="comment_publish">Отправить</string>
@@ -39,6 +47,7 @@
      <string name="data_save_mode_tip">Фотографии отключены</string>
      <string name="delta_update">Обновление %1$s</string>
      <string name="description_info">Описание</string>
+     <string name="developer_button">Показать еще</string>
      <string name="download_fail">Загрузка не завершена. Ошибка загрузки</string>
      <string name="download_manager_tag">Менеджер загрузок</string>
      <string name="download_manager_tag_with_nonzero_downloads">Загрузок(%1$s/%2$s)</string>

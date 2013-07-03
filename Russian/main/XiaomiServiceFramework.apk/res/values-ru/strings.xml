@@ -91,6 +91,7 @@
      <string name="find_password_on_web_msg">Пожалуйста, посетите account.xiaomi.com для получения пароля</string>
      <string name="forget_password">Забыли пароль?</string>
      <string name="frozen">(заморожен)</string>
+     <string name="get_back_pwd">Получить пароль учетной записи</string>
      <string name="giftcard_acitivity_and_denomination">Подарочная карта на %2$s MiCredit от %1$s</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="giftcard_denom">MiCredit</string>
@@ -112,6 +113,7 @@
      <string name="label_order_price">"Цена: "</string>
      <string name="login">Войти</string>
      <string name="login_failed">Неверное имя пользователя или пароль</string>
+     <string name="login_instead_reg">Войти с помощью этого телефона</string>
      <string name="login_notice">Авторизация, пожалуйста, подождите...</string>
      <string name="memu_refresh">Обновить</string>
      <string name="mibi_license_message">"Вы будете использовать сервис Xiaomi MiCredit.
