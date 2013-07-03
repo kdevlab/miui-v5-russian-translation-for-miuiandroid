@@ -1,5 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!--Merged and sorted with KDG BigBlackBox-->
+<!-- Builded with CloudBuildr -->
 <resources>
-	<string name="app_name">Alipay Mobile Security Pay</string>
+     <string name="agree">Принимаю</string>
+     <string name="app_label">Желтые страницы</string>
+     <string name="callrecordview_item_newcontact">Новый контакт</string>
+     <string name="callrecordview_item_op_time_minutes_seconds">%1$d мин. %2$d сек.</string>
+     <string name="callrecordview_item_op_time_missed">Не подключено</string>
+     <string name="callrecordview_item_op_time_only_minutes">%d мин.</string>
+     <string name="callrecordview_item_op_time_only_seconds">%d сек.</string>
+     <string name="callrecordview_item_op_time_rejected">Отклонен</string>
+     <string name="callrecordview_item_op_time_short_incoming">"Входящий: "</string>
+     <string name="callrecordview_item_op_time_short_outgoing">"Исходящий: "</string>
+     <string name="check_network">Посмотреть настройки сети</string>
+     <string name="confirm_delete_all_call_log_title">Подтвердите удаление все журналы вызовов</string>
+     <string name="confirm_delete_call_log_title">Удалить выбранные журналы вызовов?</string>
+     <string name="custom_mark_category">Пользовательский</string>
+     <string name="data_error">К сожалению, текущая услуга не доступна, повторите попытку позже</string>
+     <string name="delete">Удалить</string>
+     <string name="mark_number_custom_dialog_maintitle">Согласиться или исправить метку</string>
+     <string name="mark_number_dialog_maintitle">Отметить неизвестный номер и загрузить</string>
+     <string name="mark_number_dialog_subtitle">Разработана совместно с Sogou</string>
+     <string name="menu_about_yellow_page">О этой странице</string>
+     <string name="menu_add_black_list">Добавить в черный список</string>
+     <string name="menu_call_ip_number">IP вызов (набрать %s)</string>
+     <string name="menu_copy_text">Копировать в буфер обмена</string>
+     <string name="menu_delete_call_log">Удалить журналы вызовов</string>
+     <string name="menu_delete_one">Удалить это из журнала вызовов</string>
+     <string name="menu_refresh">Обновить</string>
+     <string name="network_unavaliable">Сеть не доступна, пожалуйста, проверьте настройки сети</string>
+     <string name="phone_info_divider">" ｜ "</string>
+     <string name="provider_tag">Источник данных</string>
+     <string name="selected_category_format">%1$s (%2$d людей отметили, нажмите для согласия)</string>
+     <string name="service_unavailiable">Текущая сеть имеет плохое подключение, повторите попытку позже</string>
+     <string name="smart_antispam">Идентификация неизвестного номера</string>
+     <string name="title_about_yellow_page">О программе</string>
+     <string name="toast_finish_delete_call_log">Журнал вызовов был удален</string>
+     <string name="toast_text_copied">Текст скопирован</string>
+     <string name="try_again">Попробуйте еще раз</string>
+     <string name="turn_on_smart_antispam_hint">После включения, номера будут определены. Если не определяются, вы можете пометить их, чтобы помочь определить мошенников.</string>
+     <string name="turn_on_smart_antispam_summary_off">Запрос только локальных запрограммированных номеров</string>
+     <string name="turn_on_smart_antispam_summary_on">Идентификация неизвестных номеров и загрузка из сети</string>
+     <string name="turn_on_smart_antispam_title">Идентификация неизвестных номеров</string>
+     <string name="user_notice_identify_summary_format">Идентификация неизвестных номеров представляет собой интернет-сервис, пожалуйста, прочитайте %1$s и %2$s перед использованием.</string>
+     <string name="user_notice_yp_detail_summary_format">Частичная информация этого желтой страницы должна быть обновлена ​​в Интернете, пожалуйста, прочитайте %1$s и %2$s, нажатие \"Принимаю\" означает, что вы соглашаетесь на вышеуказаное содержание и должны соблюдать соглашения, нажмите \"Отмена\" для просмотра кешированной информации.</string>
+     <string name="voicemail">Голосовая почта</string>
+     <string name="yellow_page_call_log_title">Журнал вызовов</string>
+     <string name="yellow_page_detail_title">О программе</string>
+     <string name="yellow_page_website">Официальный сайт</string>
 </resources>
