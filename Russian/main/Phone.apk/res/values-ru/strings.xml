@@ -152,11 +152,11 @@
      <string name="call_settings_miui">Настройки вызовов</string>
      <string name="call_title_redialing_with_times_miui">Повторный набор №%d</string>
      <string name="call_waiting_sum_miui">Сообщать мне о входящих звонках во время разговора</string>
-     <string name="call_waiting_tone_continuously_miui">Воспроизводить звук по кругу</string>
+     <string name="call_waiting_tone_continuously_miui">Воспроизводить по кругу</string>
      <string name="call_waiting_tone_stop_summary">(Нажмите кнопку громкости для отключения звука вручную)</string>
-     <string name="call_waiting_tone_title_miui">Звук ожидания звонка</string>
-     <string name="call_waiting_tone_twice_and_vibrate_miui">Воспроизвести звук и провибрировать дважды</string>
-     <string name="call_waiting_tone_twice_only_miui">Воспроизвести звук дважды</string>
+     <string name="call_waiting_tone_title_miui">Тон ожидания вызова</string>
+     <string name="call_waiting_tone_twice_and_vibrate_miui">Воспроизвести дважды и провибрировать</string>
+     <string name="call_waiting_tone_twice_only_miui">Воспроизвести дважды</string>
      <string name="caller_id_sum_miui">Скрыть/показать свой номер для исходящих звонков (если поддерживается сетью)</string>
      <string name="caller_id_title_miui">Автоопределение номера</string>
      <string name="caller_manage_header">Конференц-вызов: %s</string>
