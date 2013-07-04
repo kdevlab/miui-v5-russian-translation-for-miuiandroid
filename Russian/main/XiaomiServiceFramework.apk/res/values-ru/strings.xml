@@ -2,11 +2,18 @@
 <!-- Builded with CloudBuildr -->
 <resources>
      <string name="access_denied">доступ запрещен</string>
+     <string name="access_token_expired_warning">Аккаунт Weibo истек, пожалуйста, переподключите</string>
+     <string name="access_token_invalid_warning">Неверный аккаунт Weibo, пожалуйста, переподключите</string>
      <string name="account">Аккаунт</string>
      <string name="account_detail">Аккаунт Xiaomi: %1$s</string>
      <string name="account_dspt">С помощью аккаунта Xiaomi Вы сможете синхронизировать контакты, сообщения и другие личные данные</string>
      <string name="account_hint_text">Электронная почта</string>
      <string name="account_name">Аккаунт: %1$s</string>
+     <string name="activate_phone_failed_notif_title">Ошибка включения сервисов MiCloud</string>
+     <string name="activate_phone_send_sms_fail">Ошибка отправки SMS для активации, не возможно включить сервис синхронизации</string>
+     <string name="activate_phone_send_sms_failed_notif">Ошибка отправки активации через SMS</string>
+     <string name="activate_phone_server_error">Ошибка сервера, не возможно включить сервис синхронизации</string>
+     <string name="activate_phone_server_error_notif">Ошибка сервера</string>
      <string name="activating">Активация...</string>
      <string name="add_weibo_account">Добавить аккаунт</string>
      <string name="alert_title_remove_account">Удалить аккаунт</string>
@@ -45,6 +52,7 @@
      <string name="data_sync_notice">Использовать аккаунт Xiaomi для синхронизации контактов, сообщений и других данных</string>
      <string name="data_wipe_from_phone">Удалить из телефона</string>
      <string name="disable_find_device_error">%1$s, ошибка выключения поиска</string>
+     <string name="disable_micloud"><u>Не включать MiCloud</u></string>
      <string name="email_already_be_used">Этот адрес почты уже используется</string>
      <string name="enable_find_device_error">%1$s, ошибка включения поиска</string>
      <string name="enable_micloud">Включить облачные сервисы</string>
@@ -123,13 +131,21 @@
      <string name="mibi_license_title">Пользовательское соглашение</string>
      <string name="micloud_account">Аккаунт</string>
      <string name="micloud_account_label">Аккаунт: %1$s</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="micloud_account_name">Xiaomi</string>
      <string name="micloud_account_not_actived">Аккаунт не активирован</string>
+     <string name="micloud_activate_account_fail_notify_title">Ошибка активации аккаунта Xiaomi</string>
+     <string name="micloud_activate_account_success_notify_title">Успешно активирован аккаунт Xiaomi</string>
+     <string name="micloud_activate_back_btn">Отмена</string>
+     <string name="micloud_activate_retry_btn">Повторить</string>
+     <string name="micloud_activating_account_notify_info">Вы активируете аккаунт Xiaomi</string>
+     <string name="micloud_activating_account_notify_title">Активация аккаунта Xiaomi...</string>
+     <string name="micloud_active_alert_title">Активировать аккаунт</string>
      <string name="micloud_active_email_sent_1">Мы отправили Вам письмо с ссылкой активации на почту:</string>
      <string name="micloud_active_email_sent_2">""</string>
      <string name="micloud_active_email_visit">Посетите %s</string>
      <string name="micloud_activing_account">Активация аккаунта</string>
+     <string name="micloud_activing_account_delayed">Осталось около 30 секунд до завершения активации. Вы можете сделать что-то еще...</string>
+     <string name="micloud_activing_account_failed">Ошибка активации</string>
      <string name="micloud_click_email">Нажмите на ссылку в письме активации для активации аккаунта Xiaomi</string>
      <string name="micloud_click_email_to_valid">Нажмите на ссылку активации в почтовом ящике</string>
      <string name="micloud_delete_account">Удалить аккаунт</string>
@@ -151,6 +167,7 @@
      <string name="micloud_password_confirm_hint">Подтвердите пароль</string>
      <string name="micloud_password_error_inconsistent">Несоответсвие паролей</string>
      <string name="micloud_password_req_notice">8~16 символов, содержит цифры, буквы алфавита, с учетом регистра</string>
+     <string name="micloud_proceed">Продолжить</string>
      <string name="micloud_reg_new">Создать новый</string>
      <string name="micloud_resend_active_email">Повторно отправить письмо активации</string>
      <string name="micloud_summary">Войдите в аккаунт Xiaomi для синхронизации контактов, галереи и других функций</string>
@@ -234,6 +251,8 @@
      <string name="recharge_voucher_title">Карты MiCredit</string>
      <string name="reg_by_email_failure">Ошибка регистрации: %1$s</string>
      <string name="reg_failed">Ошибка регистрации</string>
+     <string name="reg_success">Регистрация завершена</string>
+     <string name="reg_success_summary">Ваш номер телефона %1$s уже назначен для MiLock, где вы можете использовать его, чтобы войти в систему и получить пароль.</string>
      <string name="reg_type_email">Регистрация по эл. почте</string>
      <string name="reg_type_phone">Регистрация по телефону (рекомендуется)</string>
      <string name="reging">Регистрация. Пожалуйста, подождите…</string>
@@ -245,6 +264,8 @@
      <string name="send_int_sms_for_sync_notice">Для активации синхронизации сообщений будет отправлено SMS. Продолжить?</string>
      <string name="send_sms_for_sync_notice">Для активации нужно отправить SMS. Продолжить?</string>
      <string name="send_sms_for_sync_title">Служба синхронизации не активирована</string>
+     <string name="service_error">Ошибка сервиса</string>
+     <string name="show_password">Показ пароля</string>
      <string name="sim_changed_notification_content">SIM-карта не активирована. Пожалуйста, активируйте.</string>
      <string name="skip_login">Пропустить</string>
      <string name="skip_setup_account_msg">С помощью аккаунта Xiaomi Вы сможете синхронизировать контакты, сообщения и другие личные данные</string>
