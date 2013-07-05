@@ -35,7 +35,7 @@
      <string name="nowifi_alert_dialog_message">Вы собираетесь смотреть видео через мобильную сеть. Уверены, что хотите продолжить?</string>
      <string name="nowifi_alert_dialog_title">Внимание!</string>
      <string name="temp_play_history_button_label">История плеера</string>
-     <string name="to_be_play_label_v5">Воспроизведение</string>
+     <string name="to_be_play_label_v5">"Воспроизводится "</string>
      <string name="toast_back_key_pressed_notice">Нажмите \"Назад\" еще раз для выхода</string>
      <string name="toast_message_continue_play_from">"Продолжение с "</string>
      <string name="toast_message_continue_play_hour">ч.</string>
