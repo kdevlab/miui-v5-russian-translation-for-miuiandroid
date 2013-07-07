@@ -9,9 +9,9 @@
      <string name="alipay_recharge_title">Пополнение через Alipay</string>
      <string name="all_cat_tag">Все</string>
      <string name="all_comments">Все</string>
-     <string name="already_bottom">Конец</string>
+     <string name="already_bottom">Больше ничего нет</string>
      <string name="app_comments">Комментарии</string>
-     <string name="app_comments_title">%1$s - комментарии</string>
+     <string name="app_comments_title">Комментариев: %1$s</string>
      <string name="app_detail_install">Установ.</string>
      <string name="app_name">Игры</string>
      <string name="bad_comments">Негативные</string>
@@ -38,7 +38,7 @@
      <string name="client_download_start">Загрузка</string>
      <string name="client_update_now">Обновить</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="comment_cannot_comment">Please use the application so you can comment.</string>
+     <string name="comment_cannot_comment">Чтобы оставить комментарий, скачайте приложение</string>
      <!-- The count of MNPS does not match! Now: 1 must: 2
 	%s: 1 must: 2
 	%d: 0 must: 0 -->
@@ -50,27 +50,27 @@
      <!-- Original string: %1$s comment on %2$s:%3$s:%4$s -->
      <string name="comment_description">%1$s%2$1s</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="comment_invalid">Please touch the stars to give a score</string>
-     <string name="comment_name_default">User %1$s</string>
+     <string name="comment_invalid">Нажмите на звезды, чтобы оценить</string>
+     <string name="comment_name_default">Пользователь %1$s</string>
      <string name="comment_publish">Отправить</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="comment_sending">Sending comment...</string>
-     <string name="comment_upload_account_need_activitied">Your account is not activated, set to active it now ?</string>
+     <string name="comment_sending">Отправка комментария...</string>
+     <string name="comment_upload_account_need_activitied">Ваш аккаунт не активирован. Хотите включить его?</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="comment_upload_account_not_activitied">Your account is not activated, please activate it and try again</string>
+     <string name="comment_upload_account_not_activitied">Ваш аккаунт не активирован. Включите его и повторите еще раз.</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="comment_upload_data_invalid">Sorry, the comment is invalid</string>
+     <string name="comment_upload_data_invalid">Ошибка добавления комментария</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="comment_upload_failed">Comment send failed</string>
+     <string name="comment_upload_failed">Ошибка отправки комментария</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="comment_upload_hint">Your comment will be displayed after the audit</string>
+     <string name="comment_upload_hint">Ваш комментарий будет показан после проверки</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="comment_upload_login_cancel">Cancel</string>
-     <string name="comment_upload_need_login">Do you want to login now to add a comment ?</string>
+     <string name="comment_upload_login_cancel">Отмена</string>
+     <string name="comment_upload_need_login">Хотите войти сейчас, чтобы добавить комментарий?</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="comment_upload_not_logined">Please login first</string>
-     <string name="comment_upload_success">Comment sent! It will be displayed after the audit</string>
-     <string name="comment_version_name">(%1$s version)</string>
+     <string name="comment_upload_not_logined">Сначала войдите</string>
+     <string name="comment_upload_success">Комментарий отправлен! Он будет показан после проверки.</string>
+     <string name="comment_version_name">(версия %1$s)</string>
      <string name="connect_fail">%1$s - установка не удалась: ошибка соединения, пожалуйста, проверьте сетевое соединение</string>
      <string name="connect_network_fail">Ошибка соединения</string>
      <string name="connect_network_hint">Game Center требуется доступ к сети. Включите мобильную сеть или Wi-Fi для загрузки данных.</string>
@@ -80,7 +80,7 @@
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="default_nick_name">KDev Group</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="description_info">Description</string>
+     <string name="description_info">Описание</string>
      <string name="dialog_birthday_title">Мой день рождения</string>
      <string name="dialog_constellation_title">Мой знак зодиака</string>
      <string name="dialog_gender_title">Я</string>
@@ -89,13 +89,13 @@
      <string name="downloadComplete">Загружено!</string>
      <string name="download_apk_no_sdk_content">Пожалуйста, установите SD-карту для установки игры</string>
      <string name="download_apk_no_sdk_title">SD-карта не найдена</string>
-     <string name="download_count">Download count %1$s</string>
+     <string name="download_count">Загрузок: %1$s</string>
      <string name="download_deleted_fail">%1$s - сбой установки: задача удалена</string>
      <string name="download_fail">%1$s - установка не удалась: ошибка скачивания</string>
      <string name="download_manager_tag">Загрузки</string>
      <string name="download_start_fail">%1$s - установка не удалась: не удалось создать задачу загрузки</string>
      <string name="edit_comment">Изменить комментарий</string>
-     <string name="edit_comment_title">%1$s - изменение комментария</string>
+     <string name="edit_comment_title">Редактирование: %1$s</string>
      <string name="edit_text_default">Пожалуйста, введите комментарий</string>
      <!-- The count of MNPS does not match! Now: 1 must: 1
 	%s: 1 must: 0
@@ -103,15 +103,15 @@
      <!-- Original string: %d Updates -->
      <string name="enable_updata_local_app">%1$s приложений можно обновить</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="expand_full_text">Expand</string>
-     <string name="expand_full_text_comment">Expand all text▼</string>
+     <string name="expand_full_text">Развернуть</string>
+     <string name="expand_full_text_comment">Развернуть весь текст▼</string>
      <string name="failed_to_add_photo">Ошибка добавления фотографии</string>
      <string name="game_date_version_name">%1$d-%2$d- релиз v%3$s</string>
      <string name="game_detail_title">Подробнее об игре</string>
      <string name="gender_female">Женщина</string>
      <string name="gender_male">Мужчина</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="good_comments">Positive</string>
+     <string name="good_comments">Позитивные</string>
      <string name="head_text_login">Войти в аккаунт XiaoMi</string>
      <string name="header_processing">Подготовка загрузки</string>
      <string name="header_waiting">Ожидание загрузки</string>
@@ -120,7 +120,7 @@
      <string name="hot_rank_tag">Топ рейтинга</string>
      <string name="install">уст.</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="install_all">Install all</string>
+     <string name="install_all">Уст. все</string>
      <string name="install_all_description">Установить игры %1$s и %2$s сейчас?</string>
      <string name="install_btn_cancel">отмн.</string>
      <string name="install_btn_continue">прдл.</string>
@@ -132,7 +132,7 @@
      <string name="install_inconsistent_fail">%1$s - установка не удалась: несоотвествие подписей</string>
      <string name="install_no_network_description">Ошибка сетевого соединения, повторите попытку соединения</string>
      <string name="install_no_permission">Ошибка загрузки, повторите еще раз</string>
-     <string name="install_on_data_description">Вы уверены, что хотите установить приложения %1$s %2$s？</string>
+     <string name="install_on_data_description">Вы уверены, что хотите установить приложения %1$s %2$s?</string>
      <string name="install_only_on_wifi_description">Вы можете скачать это приложение только через Wi-Fi</string>
      <string name="install_sign_not_same_btn_remove">Удалить и обновить</string>
      <string name="install_sign_not_same_message">%1$s файл обновления и текущее приложение имеют разные названия. Не удается обновить. Пожалуйста, удалите текущую версию, а затем установите последнюю версию.</string>
@@ -141,29 +141,29 @@
      <string name="installed">Установлено</string>
      <string name="installing">установка</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="integra_text">empiric</string>
-     <string name="integral_add_txt_down_app">Downloading now！ +%d points!</string>
-     <string name="integral_add_txt_open_app">Welcome back！+%d points!</string>
-     <string name="integral_add_txt_update_app">Updating now！ +%d points!</string>
+     <string name="integra_text">эмпирический</string>
+     <string name="integral_add_txt_down_app">Загрузка! +%d очков!</string>
+     <string name="integral_add_txt_open_app">С возвращением! +%d очков!</string>
+     <string name="integral_add_txt_update_app">Выгрузка! +%d очков!</string>
      <string name="kilobytes_unit">%1$s КБ</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="launch">Launch</string>
-     <string name="launch_failed_text">Failed to launch %1$s</string>
+     <string name="launch">Открыть</string>
+     <string name="launch_failed_text">Не удалось открыть %1$s</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="level_experience">Level and experience</string>
+     <string name="level_experience">Уровень и опыт</string>
      <string name="loading">Загрузка HD картинки…</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="loading_app_detail">Loading game detail...</string>
+     <string name="loading_app_detail">Загрузка сведений...</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="loading_app_list">Loading game list...</string>
+     <string name="loading_app_list">Загрузка списка игр...</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="loading_category_list">Loading category list...</string>
+     <string name="loading_category_list">Загрузка категорий...</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="loading_search_result">Loading search result...</string>
+     <string name="loading_search_result">Загрузка результатов поиска...</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="loading_subject_game_list">Loading subject game list...</string>
+     <string name="loading_subject_game_list">Загрузка, подождите...</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="loading_subject_list">Loading subject list...</string>
+     <string name="loading_subject_list">Загрузка, подождите...</string>
      <string name="local_game_head">Игр: %d</string>
      <string name="locations_overseas">Другой</string>
      <string name="login_fail">Не удалось войти</string>
@@ -181,37 +181,38 @@
      <string name="modify_nick_name_hint">Введите ник (2-12 символов, букв и цифр)</string>
      <string name="more_subjects">Просмотреть другие темы</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="my_account">My Account</string>
+     <string name="my_account">Мой аккаунт</string>
      <string name="my_account_mibi">%s Mibi</string>
      <string name="my_account_title">Мой профиль</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="my_account_unlogin">unlogin</string>
+     <string name="my_account_unlogin">выйти</string>
      <string name="my_favorites_title">Любимые категории</string>
      <string name="my_games_title">Мои игры</string>
      <string name="my_info_subtitle">Обо мне</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="my_xiaomi_account">Xiaomi Account</string>
+     <string name="my_xiaomi_account">Аккаунт Xiaomi</string>
      <string name="need_update_game">Войдите, чтобы управлять обновлениями</string>
      <string name="new_app_tag">Новые</string>
      <string name="new_cat_tag">Новые</string>
+	 <string name="no_average_score">Нет средней оценки</string>
      <string name="no_card_number">Номер карты не может быть пустым</string>
      <string name="no_card_psw">Пожалуйста, введите пароль</string>
      <string name="no_change_log">Нет списка изменений</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="no_comment">No comment</string>
+     <string name="no_comment">Нет комментариев</string>
      <string name="no_data">Не удалось получить данные, проверьте сеть</string>
      <string name="no_description">Нет описания</string>
      <string name="no_download_task">В настоящее время загрузок нет</string>
-     <string name="no_fitness">Oops! No fit games, try to search :)</string>
+     <string name="no_fitness">Извините, нет подходящих игр. Попробуйте поискать :)</string>
      <string name="no_local_apps">Нет установленных приложений</string>
-     <string name="no_local_game">Вы еще не установили ни одну игру</string>
-     <string name="no_network">No internet access, please check and try to refresh :)</string>
+     <string name="no_local_game">Нет установленных игр</string>
+     <string name="no_network">Нет доступа в интернет. Проверьте сеть и попробуйте обновить :)</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="no_network_no_comment">unable to use network</string>
+     <string name="no_network_no_comment">нет подключения к сети</string>
      <string name="no_purchase_record">Нет записей о Ваших покупках</string>
      <string name="no_sd_card">SD-карта недоступна</string>
      <string name="no_search">Приложения не найдены</string>
-     <string name="no_subject_info">К сожалению, нет никакой информации по этой теме</string>
+     <string name="no_subject_info">К сожалению, эта категория больше не существует</string>
      <string name="no_update">Нет обновлений</string>
      <string name="no_url">Не удалось найти адрес загрузки</string>
      <string name="none" />
@@ -225,13 +226,13 @@
      <string name="pending">ожидание</string>
      <string name="permission_button">Разрешения (%1$s)</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="permission_extra">Other access</string>
+     <string name="permission_extra">Другие</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="permission_risky_money">Not for free</string>
+     <string name="permission_risky_money">Платные услуги</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="permission_risky_privacy">Privacy related</string>
+     <string name="permission_risky_privacy">Конфиденциальность</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="permission_risky_security">Security related</string>
+     <string name="permission_risky_security">Безопасность</string>
      <string name="permissions_expand_title">Все разрешения</string>
      <string name="permissions_title">%1$s - разрешения</string>
      <string name="pref_clear_search_history_summary">Удалить Вашу историю поиска игр</string>
@@ -258,9 +259,9 @@
      <string name="price">Цена: ￥%1$s</string>
      <string name="psw_invalid">неверный пароль</string>
      <string name="publish_info">%1$s %2$s %3$s</string>
-     <string name="purchase_record_title">Запись покупки</string>
+     <string name="purchase_record_title">Записи покупок</string>
      <string name="purchase_record_type_all">Все</string>
-     <string name="purchase_record_type_suffix">%s payment</string>
+     <string name="purchase_record_type_suffix">%s платежей</string>
      <string name="purchase_record_type_thismonth">За месяц</string>
      <string name="purchase_record_type_today">За сегодня</string>
      <string name="rank_tag">Топ</string>
@@ -296,9 +297,9 @@
      <string name="txt_manager_game">Управление играми</string>
      <string name="txt_mibi_balance">Баланс MiBi:</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="txt_mibi_center">MiCredit</string>
+     <string name="txt_mibi_center">Центр MiBi</string>
      <string name="txt_other_recharge_method">Выбрать другой метод пополнения</string>
-     <string name="txt_purchase_record">Покупка</string>
+     <string name="txt_purchase_record">Покупки</string>
      <string name="txt_recharge_mibi">Пополнить MiBi</string>
      <string name="txt_recharge_now">Пополнить</string>
      <string name="txt_recharge_number_btn">Баланс платежной карты</string>
@@ -312,7 +313,7 @@
      <string name="update_date">%3$02d-%2$02d-%1$d</string>
      <string name="update_date_label">Обновлено:</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="update_info">Updates</string>
+     <string name="update_info">Что нового</string>
      <string name="update_result_new">Новых версий не найдено</string>
      <string name="upgrade_game_head">Обновить все (%d)</string>
      <string name="user_name_invalid">Имя пользователя не может быть пустым</string>
@@ -320,6 +321,6 @@
      <string name="usr_name_hint">Аккаунт XiaoMi/email/телефон</string>
      <string name="verifying">проверка</string>
      <string name="version_label">Версия:</string>
-     <string name="welcome_select_games">Пожалуйста, выберите одну игру и нажмите кнопку установки:)</string>
-     <string name="welcome_skip_button">пропустить</string>
+     <string name="welcome_select_games">Выберите хотя бы одну игру и нажмите кнопку установки :)</string>
+     <string name="welcome_skip_button">Далее</string>
 </resources>

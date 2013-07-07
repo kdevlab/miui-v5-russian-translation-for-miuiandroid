@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="application_name">Живые обои</string>
+    <string name="live_wallpaper_picker_title">Интерактивные обои</string>
+    <string name="live_wallpaper_preview_title">Предварительный просмотр обоев</string>
+    <string name="configure_wallpaper">Настройки</string>
+    <string name="wallpaper_instructions">Установить</string>
+    <string name="live_wallpaper_empty">Нет обоев</string>
+    <string name="live_wallpaper_loading">Загрузка живых обоев…</string>
+    <string name="picker_locktoo_sentence">Такие же обои будут выводиться на экране блокировки</string>
+    <string name="picker_nagative_button">Отмена</string>
+    <string name="netword_alert_donotshowagain">Не показывать снова</string>
+    <string name="batterydrain">Использование живых обоев может увеличить расход аккумулятора</string>
+    <string name="activity_not_found">Приложение не установлено</string>
+</resources>
