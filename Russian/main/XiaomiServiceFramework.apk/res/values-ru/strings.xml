@@ -2,17 +2,17 @@
 <!-- Builded with CloudBuildr -->
 <resources>
      <string name="access_denied">доступ запрещен</string>
-     <string name="access_token_expired_warning">Аккаунт Weibo истек, пожалуйста, переподключите</string>
-     <string name="access_token_invalid_warning">Неверный аккаунт Weibo, пожалуйста, переподключите</string>
+     <string name="access_token_expired_warning">Аккаунт Weibo истек. Пожалуйста, переподключите.</string>
+     <string name="access_token_invalid_warning">Неверный аккаунт Weibo. Пожалуйста, переподключите.</string>
      <string name="account">Аккаунт</string>
      <string name="account_detail">Аккаунт Xiaomi: %1$s</string>
      <string name="account_dspt">С помощью аккаунта Xiaomi Вы сможете синхронизировать контакты, сообщения и другие личные данные</string>
      <string name="account_hint_text">Электронная почта</string>
      <string name="account_name">Аккаунт: %1$s</string>
      <string name="activate_phone_failed_notif_title">Ошибка включения сервисов MiCloud</string>
-     <string name="activate_phone_send_sms_fail">Ошибка отправки SMS для активации, не возможно включить сервис синхронизации</string>
-     <string name="activate_phone_send_sms_failed_notif">Ошибка отправки активации через SMS</string>
-     <string name="activate_phone_server_error">Ошибка сервера, не возможно включить сервис синхронизации</string>
+     <string name="activate_phone_send_sms_fail">Ошибка отправки SMS для активации. Не возможно включить сервис синхронизации.</string>
+     <string name="activate_phone_send_sms_failed_notif">Ошибка отправки SMS для активации</string>
+     <string name="activate_phone_server_error">Ошибка сервера. Не возможно включить сервис синхронизации.</string>
      <string name="activate_phone_server_error_notif">Ошибка сервера</string>
      <string name="activating">Активация...</string>
      <string name="add_weibo_account">Добавить аккаунт</string>
@@ -102,9 +102,9 @@
      <string name="get_back_pwd">Получить пароль учетной записи</string>
      <string name="giftcard_acitivity_and_denomination">Подарочная карта на %2$s MiCredit от %1$s</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="giftcard_denom">MiCredit</string>
-     <string name="giftcard_denom_available">MiCredit доступно</string>
-     <string name="giftcard_denom_frozen">MiCredit заморжено</string>
+     <string name="giftcard_denom">MiCredit(s)</string>
+     <string name="giftcard_denom_available">MiCredit(s) доступно</string>
+     <string name="giftcard_denom_frozen">MiCredit(s) заморжено</string>
      <string name="giftcard_empty">Нет подарочной карты</string>
      <string name="giftcard_expire">%1$s-%2$s-%3$s истекло</string>
      <string name="giftcard_hint">На подарочную карту будут переведены MiCredit. Через определенный срок они будут недействительны.</string>
@@ -134,7 +134,7 @@
      <string name="micloud_account_name">Xiaomi</string>
      <string name="micloud_account_not_actived">Аккаунт не активирован</string>
      <string name="micloud_activate_account_fail_notify_title">Ошибка активации аккаунта Xiaomi</string>
-     <string name="micloud_activate_account_success_notify_title">Успешно активирован аккаунт Xiaomi</string>
+     <string name="micloud_activate_account_success_notify_title">Ваш аккаунт Xiaomi успешно активирован</string>
      <string name="micloud_activate_back_btn">Отмена</string>
      <string name="micloud_activate_retry_btn">Повторить</string>
      <string name="micloud_activating_account_notify_info">Вы активируете аккаунт Xiaomi</string>
@@ -144,7 +144,8 @@
      <string name="micloud_active_email_sent_2">""</string>
      <string name="micloud_active_email_visit">Посетите %s</string>
      <string name="micloud_activing_account">Активация аккаунта</string>
-     <string name="micloud_activing_account_delayed">Осталось около 30 секунд до завершения активации. Вы можете сделать что-то еще...</string>
+     <string name="micloud_activing_account_delayed">"До завершения активации осталось около 30 секунд.
+Вы можете сделать что-то еще..."</string>
      <string name="micloud_activing_account_failed">Ошибка активации</string>
      <string name="micloud_click_email">Нажмите на ссылку в письме активации для активации аккаунта Xiaomi</string>
      <string name="micloud_click_email_to_valid">Нажмите на ссылку активации в почтовом ящике</string>
@@ -229,7 +230,7 @@
      <string name="progress_success_pay_title">Оплата %1$s MiCredit завершена</string>
      <string name="progress_success_recharge_summary">Баланс: %1$s MiCredit</string>
      <string name="progress_success_recharge_title">Пополнение на %1$s MiCredit завершено</string>
-     <string name="progress_voucher_creating">Пополнение карты MiCredit...</string>
+     <string name="progress_voucher_creating">Пополнение карты MiCredit…</string>
      <string name="progress_warning_contact_server">"Платеж все еще не подтвержден. 
 1. Пожалуйста, свяжитесь со службой поддержки в Шеньчжоу: %1$s 
 2. Сообщите свой серийный номер: %2$s"</string>
@@ -237,7 +238,7 @@
      <string name="quick_login_title">Требуется войти в аккаунт. Пожалуйста, введите Ваш пароль.</string>
      <string name="recharge_alipay_summary">Пополнение Alipay</string>
      <string name="recharge_denomination">%1$s RMB</string>
-     <string name="recharge_hint">1 MiCredit = 5 RMB ~ 25 рублей</string>
+     <string name="recharge_hint">1 MiCredit = 1 юань ~ 5.50 рублей</string>
      <string name="recharge_notification">Пополнение на %1$s MiCredit</string>
      <string name="recharge_other">Другой способ оплаты</string>
      <string name="recharge_pcpay_summary">Поддерживается большее количество способов пополнения</string>
@@ -252,7 +253,7 @@
      <string name="reg_by_email_failure">Ошибка регистрации: %1$s</string>
      <string name="reg_failed">Ошибка регистрации</string>
      <string name="reg_success">Регистрация завершена</string>
-     <string name="reg_success_summary">Ваш номер телефона %1$s уже назначен для MiLock, где вы можете использовать его, чтобы войти в систему и получить пароль.</string>
+     <string name="reg_success_summary">Ваш номер телефона %1$s уже назначен для MiLock, где Вы можете использовать его, чтобы войти в систему и получить пароль</string>
      <string name="reg_type_email">Регистрация по эл. почте</string>
      <string name="reg_type_phone">Регистрация по телефону (рекомендуется)</string>
      <string name="reging">Регистрация. Пожалуйста, подождите…</string>
@@ -278,23 +279,23 @@
      <string name="sync_sub_int_dspt">Для активации сервиса будет отправлено международное SMS</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="title_mili_center">MiCredit</string>
-     <string name="title_pay">Оплата MiCredit</string>
+     <string name="title_pay">Оплата MiCredits</string>
      <string name="title_pay_record">%1$s - история пополнений</string>
      <string name="title_paytool">Пополнить через %1$s</string>
      <string name="title_prepaid">Пополнить через карту</string>
-     <string name="title_recharge">"Пополнить MiCredit"</string>
+     <string name="title_recharge">Пополнить MiCredits</string>
      <string name="title_recharge_record">История пополнения</string>
      <string name="title_reg">Регистрация в сети Xiaomi</string>
      <string name="title_voucher">Пополнить через карту MiCredit</string>
      <string name="unactivated_user">Не активирован</string>
      <string name="unbind">Отвязать</string>
      <string name="update_contacts">Обновление адресной книги</string>
-     <string name="update_contacts_description">Sina micro Fair обновит информацию контактов.</string>
+     <string name="update_contacts_description">Sina micro Fair обновит информацию контактов</string>
      <string name="updated_contacts">Обновлено контактов: %s</string>
-     <string name="user_agreement_p1">"Входя в аккаунт, вы соглашаетесь с
+     <string name="user_agreement_p1">"Входя в аккаунт, Вы соглашаетесь с
  "</string>
      <string name="user_agreement_p2">Условиями соглашения Xiaomi</string>
-     <string name="user_agreement_p3">" и "</string>
+     <string name="user_agreement_p3"> и </string>
      <string name="user_agreement_p4">Политикой безопасности</string>
      <string name="user_agreement_p5">"Регистрируясь, Вы соглашаетесь с
  "</string>
