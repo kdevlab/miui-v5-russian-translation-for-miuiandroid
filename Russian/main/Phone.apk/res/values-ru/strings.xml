@@ -296,7 +296,6 @@
      <string name="default_contacts_countrycode_hint_miui">Например: 7</string>
      <string name="default_contacts_countrycode_miui">Стандартный код города</string>
      <string name="default_contacts_countrycode_sum_miui">Редактирование стандартного кода города: %s</string>
-     <string name="default_notification_description">По-умолчанию (%1$s)</string>
      <string name="default_preference_summary">&lt;Не настроено></string>
      <string name="delete">Удалить</string>
      <string name="deleteAllSimEntries">Удалить все контакты с SIM</string>
@@ -612,7 +611,6 @@
      <string name="not_connected_miui">Не подключено</string>
      <string name="not_voice_capable">Голосовые вызовы не поддерживаются</string>
      <string name="notification_action_end_call">Повестить трубку</string>
-     <string name="notification_dialing">Вызов</string>
      <string name="notification_incoming_call">Входящий вызов</string>
      <string name="notification_missedCallTicker">Пропущенные вызовы от абонента %s</string>
      <string name="notification_missedCallTitle">Пропущенный вызов</string>

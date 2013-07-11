@@ -130,6 +130,7 @@
 Рекомендуется сделать резервную копию ваших данных."</string>
      <string name="system_backup_ok_text">Создать копию</string>
      <string name="top_secret_build">Секретная сборка</string>
+     <string name="unstable_build">Нестабильный</string>
      <string name="update_comment_hint">(опционально)</string>
      <string name="update_comment_title">У меня есть что сказать</string>
      <string name="update_feedback">Отзывы о прошивке</string>

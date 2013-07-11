@@ -25,8 +25,4 @@
         <item quantity="other">Пароль должен содержать заглавные буквы (не менее %d)</item>
         <item quantity="one">Пароль должен содержать хотя бы 1 заглавную букву</item>
      </plurals>
-     <plurals name="show_dev_countdown">
-        <item quantity="other">Вам осталось сделать %1$d шагов, чтобы стать разработчиком.</item>
-        <item quantity="one">Вам осталось сделать %1$d шаг, чтобы стать разработчиком.</item>
-     </plurals>
 </resources>

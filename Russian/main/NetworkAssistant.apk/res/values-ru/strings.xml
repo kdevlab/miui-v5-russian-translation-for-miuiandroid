@@ -136,14 +136,14 @@
      <!-- The count of MNPS does not match! Now: 0 must: 1
 	%s: 0 must: 1
 	%d: 0 must: 0 -->
-     <!-- Original string: %s
-Package -->
+     <!-- Original string: "%s
+Package" -->
      <string name="traffic_total">всего</string>
      <!-- The count of MNPS does not match! Now: 0 must: 1
 	%s: 0 must: 1
 	%d: 0 must: 0 -->
-     <!-- Original string: %s
-Used -->
+     <!-- Original string: "%s
+Used" -->
      <string name="traffic_used_status">использовано</string>
      <string name="unknown">Нет данных</string>
      <string name="unknown_free_traffic_hint">Если вы не знаете сколько предоставляется трафика на вашем тарфином плане, пожалуйста, обратитесь к оператору мобильной связи для выяснения подробностей.</string>
