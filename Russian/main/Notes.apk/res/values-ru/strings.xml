@@ -85,6 +85,7 @@
      <string name="search_setting_description">Текст в заметках</string>
      <string name="select_account_prompt">Синхронизация заметок</string>
      <string name="snippet_image_stub">[Картинка]</string>
+	 <string name="snippet_image_template">[Картинка %1$s]</string>
      <string name="success_sdcard_export">Экспорт завершен</string>
      <string name="time_picker_dialog_title">Установка времени напоминания</string>
      <string name="toast_message_add_image_fail">Не удалось вставить изображение!</string>
