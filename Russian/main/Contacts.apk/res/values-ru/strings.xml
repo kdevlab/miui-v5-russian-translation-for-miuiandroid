@@ -9,6 +9,7 @@
      <string name="account_type_format">Контакт %1$s</string>
      <string name="actionIncomingCall">Входящие вызовы</string>
      <string name="action_menu_overflow_description">Дополнительные опции</string>
+     <string name="activity_not_found_uri">Программа для открытия этого не найдена</string>
      <string name="activity_title_confirm_add_detail">Добавление данных</string>
      <string name="activity_title_contacts_filter">Фильтр контактов</string>
      <string name="activity_title_settings">Настройки</string>
@@ -146,6 +147,7 @@
      <string name="composer_not_initialized">Редактор vCard запущен некорректно</string>
      <string name="confirm_delete_contact_all_call_logs">Удалить все вызовы контакта \"%s\"?</string>
      <string name="confirm_delete_selected_all_call_logs">Удалить все вызовы?</string>
+     <string name="confirm_delete_sim_entry_miui">Удалить выбранные контакты (%d шт.) с UIM-карты?</string>
      <string name="confirm_export_message">Список контактов будет экспортирован в файл \"%s\"</string>
      <string name="confirm_export_title">Экспорт контактов</string>
      <string name="connections">Связи</string>
@@ -201,7 +203,11 @@
      <string name="delete_duplicate_message">Объединение контактов...</string>
      <string name="delete_group_dialog_message">Удалить группу \"%1$s\"? (контакты в ней удалены не будут)</string>
      <string name="delete_group_dialog_title">Удаление группы</string>
+     <string name="delete_selected_sim_entry_miui">Удалить выбранные контакты</string>
+     <string name="delete_sim_entries_finish">Контакты с SIM удалены</string>
+     <string name="delete_sim_entry_miui">Удалить</string>
      <string name="delete_unknown_contact_calllog_title">Удалить журнал вызовов неизвестных контактов?</string>
+     <string name="deleting_sim_entry_miui">Удаление контактов с SIM-карты</string>
      <string name="description_add_contact">Добавить контакт</string>
      <string name="description_author">Автор:</string>
      <string name="description_call">Позвонить: %1$s</string>
@@ -393,6 +399,7 @@
      <string name="ic_menu_back">Назад</string>
      <string name="ic_menu_done">Готово</string>
      <string name="imLabelsGroup">Чат</string>
+     <string name="import_all_sim_entries_miui">Импорт всех контактов</string>
      <string name="import_all_vcard_string">Импорт всех файлов VCard</string>
      <string name="import_contact_card_button">Импорт</string>
      <string name="import_failure_no_vcard_file">На SD-карте нет vCard</string>
@@ -402,6 +409,9 @@
      <string name="import_multiple_vcard_string">Импорт нескольких vCard</string>
      <string name="import_name">имя</string>
      <string name="import_one_vcard_string">Импорт файла vCard</string>
+     <string name="import_selected_sim_entries_miui">Импорт выбранных контактов</string>
+     <string name="import_sim_entries_finish">Импорт контактов с SIM завершен</string>
+     <string name="import_sim_entry_miui">Импорт</string>
      <string name="import_to_xiaomi_account_confirm">Импорт</string>
      <string name="import_to_xiaomi_account_progress_finish">Импорт завершен</string>
      <string name="import_to_xiaomi_account_progress_message">Импортирование...</string>
@@ -417,6 +427,7 @@
      <string name="import_weibo_fetch_followers">Получение пользователей weibo…</string>
      <string name="import_weibo_notification_title_done">Обновлено контактов sina weibo: %s</string>
      <string name="import_weibo_progress_name">Совпадение \"%1$s\"…</string>
+     <string name="importing_sim_contacts_miui">Импорт контактов с SIM...</string>
      <string name="importing_vcard_canceled_title">Импорт отменен: \"%s\"</string>
      <string name="importing_vcard_description">Импорт: %s</string>
      <string name="importing_vcard_finished_title">Импорт завершен: \"%s\"</string>
@@ -719,12 +730,14 @@
      <string name="processing">Обработка...</string>
      <string name="profile_display_name">Настроить профиль</string>
      <string name="profile_name">Мой профиль</string>
+     <string name="profile_name_photo">Я</string>
      <string name="progress_notifier_message" formatted="false">Импорт %s/%s: %s</string>
      <string name="quickcontact_missing_app">Действие не поддерживается ни в одном приложении</string>
      <string name="quit_dialog_confirm_title">Выйти из объединения контактов?</string>
      <string name="readOnlyContactDeleteConfirmation">Этот контакт содержит информацию из различных аккаунтов. Информация из аккаунтов, доступных только для чтения, будет скрыта в ваших списках контактов, но не удалена.</string>
      <string name="readOnlyContactDeleteConfirmationDetail">\"%s\" включает в себя информацию из нескольких аккаунтов. Информация только для чтения будет скрыта из списка, но не удалена</string>
      <string name="readOnlyContactWarning">Невозможно удалить контакты из аккаунта, доступного только для чтения, однако их можно скрыть в списках контактов</string>
+     <string name="readingSimContacts">Чтение информации с SIM-карты (займет некоторое время)…</string>
      <string name="reading_vcard_canceled_title">Чтение данных vCard отменено</string>
      <string name="reading_vcard_failed_title">Ошибка чтения vCard-файла</string>
      <string name="rebuild_t9_index_dialog_message">Перестроение данных индекса...</string>
@@ -830,10 +843,14 @@
      <string name="shortcutDialContact">Быстрый звонок</string>
      <string name="shortcutMessageContact">Быстрое SMS</string>
      <string name="showAllContactsJoinItem">Показать все контакты</string>
+     <string name="simContacts_airplaneMode">Отключите режим полета для импорта контактов с SIM-карты</string>
+     <string name="simContacts_empty">Нет контактов на SIM-карте</string>
      <string name="simContacts_emptyLoading">Загрузка контактов с SIM-карты…</string>
      <string name="simContacts_title">Контакты на SIM-карте</string>
      <string name="sim_card_no_free_space_message">Память SIM-карты заполнена. Пожалуйста, очистите SIM карту и попробуйте еще раз.</string>
      <string name="sim_card_no_free_space_title">SIM-карта заполнена!</string>
+     <string name="sim_contact_dropdown_menu_deselect_all_miui">Снять все</string>
+     <string name="sim_contact_dropdown_menu_select_all_miui">Выбрать все</string>
      <string name="sim_contact_search_error">Произошла ошибка при поиске контактов с SIM-карты</string>
      <string name="sim_contacts">Контакты на SIM-карте</string>
      <string name="sim_export_loading">SIM-карта считывается. Операция может занять несколько минут, пожалуйста, подождите...</string>
@@ -894,6 +911,8 @@
      <string name="title_other_devices">Другие доступные устройства</string>
      <string name="title_paired_devices">Сопряжение устройств</string>
      <string name="toast_call_detail_error">Не удается получить сведения о вызове</string>
+     <string name="toast_copy_done">Копирование завершено</string>
+     <string name="toast_copying">Копирование…</string>
      <string name="toast_displaying_all_contacts">Отображение всех контактов</string>
      <string name="toast_finish_delete_call_log">Журнал вызовов очищен</string>
      <string name="toast_for_failed_saving_nickname">Не удалось сохранить изменения</string>

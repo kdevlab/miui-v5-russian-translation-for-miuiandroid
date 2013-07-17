@@ -33,6 +33,11 @@
         <item quantity="other">Голосовые сообщения: %1$d</item>
         <item quantity="one">Голосовая почта</item>
      </plurals>
+     <plurals name="numSelectedSimContacts">
+        <item quantity="other">Выбрано контактов: %1$d</item>
+        <item quantity="zero">Выбрано контактов: %1$d</item>
+        <item quantity="one">Выбрано контактов: %1$d</item>
+     </plurals>
      <plurals name="num_contacts_in_group">
         <item quantity="other">%2$s. В группе %1$d чел.</item>
         <item quantity="one">%2$s. В группе %1$d чел.</item>
