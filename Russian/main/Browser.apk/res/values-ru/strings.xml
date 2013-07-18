@@ -101,10 +101,28 @@
      <string name="choosertitle_sharevia">Способ отправки</string>
      <string name="clear">Очистить</string>
      <string name="clear_history">Очистить историю</string>
-     <string name="clear_history_group">Очистить всю историю</string>
+     <string name="clear_history_group">Очистить всю историю (%s)</string>
      <string name="clip_dialog_title">Открыть скопированную ссылку?</string>
      <string name="close_all_tab_alert_message">Закрыть все вкладки?</string>
      <string name="close_all_tab_alert_title">Подтверждение закрытия</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="common_use_phrase_bottom_bar_cn_txt">.ru</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="common_use_phrase_bottom_bar_com_txt">.com</string>
+     <string name="common_use_phrase_bottom_bar_down_analytic_txt">Скрыть</string>
+     <string name="common_use_phrase_bottom_bar_https_txt">https://</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="common_use_phrase_bottom_bar_net_txt">.net</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="common_use_phrase_bottom_bar_org_txt">.org</string>
+     <string name="common_use_phrase_bottom_bar_paste_analytic_txt">Вставить</string>
+     <string name="common_use_phrase_bottom_bar_paste_txt">Вставить</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="common_use_phrase_bottom_bar_point_txt">.</string>
+     <string name="common_use_phrase_bottom_bar_slash_txt">/</string>
+     <string name="common_use_phrase_bottom_bar_up_analytic_txt">Открыть</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="common_use_phrase_bottom_bar_www_txt">www.</string>
      <string name="containing_folder">Добавить в</string>
      <string name="contextheader_folder_bookmarkcount">Закладок: %d</string>
      <string name="contextheader_folder_empty">Папка пуста</string>
@@ -133,14 +151,23 @@
      <string name="delete_folder">Удалить папку</string>
      <string name="delete_multi_bookmarks_alert_title">Вы уверены, что хотите удалить эти закладки (%1$s)?</string>
      <string name="disable_autofill">Отключить автозаполнение</string>
+     <string name="disk_space_available">доступно: %1$s</string>
+     <string name="disk_space_selected">выбрано: %1$s</string>
+     <string name="disk_space_used">используется: %1$s</string>
      <string name="do_not_save">Отмена</string>
+     <string name="download">Загрузить</string>
      <string name="download_complete">Загрузка файла завершена</string>
+     <string name="download_default_path_txt">Установить путь сохранения по умолчанию и больше не спрашивать</string>
      <string name="download_failed">Ошибка загрузки</string>
      <string name="download_no_sdcard_dlg_msg">Для загрузки файла %s требуется USB-накопитель.</string>
      <string name="download_no_sdcard_dlg_title">USB-накопитель недоступен</string>
      <string name="download_pending">Начинается загрузка...</string>
      <string name="download_sdcard_busy_dlg_msg">USB-накопитель занят. Чтобы разрешить загрузки, выберите \"Отключить USB-накопитель\" в уведомлении.</string>
      <string name="download_sdcard_busy_dlg_title">USB-накопитель недоступен</string>
+     <string name="download_video_alert_message">Текущая сеть тарифицируется, скачивание видео может повысить стоимость траффика, продолжить?</string>
+     <string name="download_video_alert_title">Предупреждение</string>
+     <string name="downloaded">Загружено</string>
+     <string name="downloading">Загрузка</string>
      <string name="dump_counters">Сбросить счетчики V8</string>
      <string name="dump_display_tree">Дамп дерева отображения в файл</string>
      <string name="dump_dom_tree">Дамп DOM в файл</string>
@@ -220,6 +247,7 @@
      <string name="js_engine_flags">Установить флаги JS</string>
      <string name="loadSuspended">Не удалось загрузить страницу: нет интернет-подключения</string>
      <string name="loadSuspendedTitle">Нет подключения</string>
+     <string name="loading_rest_candidates">Загрузка остальных кандидатов</string>
      <string name="loading_video">Загрузка видео...</string>
      <string name="local_bookmarks">Локальные</string>
      <string name="location">Адрес</string>
@@ -242,13 +270,14 @@
      <string name="new_incognito_tab">Новая вкладка (инкогнито)</string>
      <string name="new_tab">Новая вкладка</string>
      <string name="no_subfolders">Нет подпапок</string>
+     <string name="not_enough_disk_space_alert">Не хватает места на диске</string>
      <string name="not_remind_again">Больше не напоминать</string>
      <string name="notif_install_successful">Загрузка завершена</string>
      <string name="ok">ОК</string>
      <string name="open_all_bookmarks">Открыть все</string>
      <string name="open_all_in_new_window">Открыть все в новых вкладках</string>
      <string name="open_bookmark">Открыть</string>
-     <string name="open_history_group_in_new_window">Открыть всю историю</string>
+     <string name="open_history_group_in_new_window">Открыть все %s вкладок</string>
      <string name="open_history_most_visited_group_in_new_window">Открыть все часто посещаемые сайты</string>
      <string name="other_bookmarks">Другие закладки</string>
      <string name="page_info">Информация</string>
@@ -259,6 +288,8 @@
      <string name="please_select_a_file_to_import">Пожалуйста, выберите файл с данными</string>
      <string name="popup_window_attempt">Открыть всплывающее окно с этого сайта?</string>
      <string name="pref_accessibility_title">Спец. возможности</string>
+     <string name="pref_accessibility_url_shortcut_enter_summary">При вводе в адресную строку, общие комбинациями букв могут быть введены в одно нажатие</string>
+     <string name="pref_accessibility_url_shortcut_enter_title">Быстрый ввод URL</string>
      <string name="pref_allow_apptabs">Разрешить несколько вкладок в приложении</string>
      <string name="pref_autofill_enabled">Автозаполнение форм</string>
      <string name="pref_autofill_enabled_summary">Быстрое заполнение веб-форм</string>
@@ -310,7 +341,6 @@
      <string name="pref_development_trace">Включить трассировку</string>
      <string name="pref_development_viewport">Широкий экран</string>
      <string name="pref_development_visual_indicator">Включить визуальный индикатор</string>
-     <string name="pref_exit_on_closing_last_tab_enabled_summary">Закрывать вкладки при выходе из браузера. Снимите галочку, чтобы начинать с домашней страницы.</string>
      <string name="pref_exit_on_closing_last_tab_enabled_title">Закрытие вкладок</string>
      <string name="pref_extras_reset_default">Сброс настроек</string>
      <string name="pref_extras_reset_default_dlg">Восстановить настройки по умолчанию?</string>
@@ -319,6 +349,10 @@
      <string name="pref_extras_title">Расширенные</string>
      <string name="pref_extras_website_settings">Настройки веб-сайтов</string>
      <string name="pref_extras_website_settings_summary">Дополнительные настройки для отдельных сайтов</string>
+     <string name="pref_file_downlaod_save_is_reset_default_settings">Восстановить настройки по умолчанию для сохранения файла?</string>
+     <string name="pref_file_downlaod_save_reset_default_settings">Настройки по умолчанию</string>
+     <string name="pref_file_download_save_modify_default_path">Изменить путь сохранения</string>
+     <string name="pref_file_download_save_title">Загрузить и сохранить файл</string>
      <string name="pref_fling_on_border_enabled">Слайд по границе</string>
      <string name="pref_fling_on_border_enabled_title_summary">Слайд по границе экрана</string>
      <string name="pref_fling_on_border_operation">Функция при слайде</string>
@@ -424,6 +458,8 @@
      <string name="replace">Заменить</string>
      <string name="report_reading_mode_issue">Отправить ошибку режима чтения в MIUI</string>
      <string name="return_to_homepage">Домашняя страница</string>
+     <string name="same_bookmarks_warning">Эта закладка уже существует</string>
+     <string name="same_folder_name_warning">Эта папка уже существует</string>
      <string name="save">ОК</string>
      <string name="save_dialog_title">Сохранить</string>
      <string name="save_file_already_exist_alert_message">"Файл уже существует. 

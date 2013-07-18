@@ -106,6 +106,7 @@
      <string name="error_has_bought_title">Повторите покупку</string>
      <string name="error_illegal_order_summary">Произошла ошибка покупки. Пожалуйста, попробуйте снова.</string>
      <string name="error_illegal_order_title">Ошибка покупки!</string>
+     <string name="error_invalid_dev_id">Неверный ID устройства</string>
      <string name="error_mili_title">Не хватает MiCredit</string>
      <string name="error_network">Ошибка сети</string>
      <string name="error_network_summary">Ошибка сети. Пожалуйста, проверьте активность сети и попробуйте еще раз.</string>
@@ -118,7 +119,7 @@
      <string name="error_too_frequent_visits_summary">"Вы запрашиваете слишком часто. 
 Пожалуйста, попробуйте еще раз через пять минут"</string>
      <string name="error_too_frequent_visits_title">Слишком часто!</string>
-     <string name="error_unknown">Ошибка: %1$s</string>
+     <string name="error_unknown">Неизвестная ошибка</string>
      <string name="error_user_id_mismatch_summary">Пожалуйста, проверьте настройки аккаунта и попробуйте снова</string>
      <string name="error_user_id_mismatch_title">Ошибка аутентификации!</string>
      <string name="error_verify_summary">Приложение не имеет разрешения на запрос этого сервиса</string>

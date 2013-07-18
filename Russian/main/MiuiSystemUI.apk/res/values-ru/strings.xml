@@ -104,6 +104,9 @@
      <string name="ext_media_unmountable_notification_title">Поврежденное USB-хранилище</string>
      <string name="gps_notification_found_text">Местополож. определено по GPS</string>
      <string name="gps_notification_searching_text">Поиск GPS</string>
+     <string name="headset_custom">Настр.</string>
+     <string name="headset_info">Настройка кнопок</string>
+     <string name="headset_settings">Подключена гарнитура</string>
      <string name="invalid_charger">"Зарядка по USB порту не поддерживается.
 Используйте зарядное устройство из комплекта поставки."</string>
      <string name="key_position_custom">Расположение</string>
