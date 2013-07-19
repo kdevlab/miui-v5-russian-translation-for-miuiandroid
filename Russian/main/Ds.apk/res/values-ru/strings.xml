@@ -1,5 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Builded with CloudBuildr -->
+<!-- Generated with KDev Library -->
 <resources>
-     
+    <string name="remote_service_stopped">Служба остановлена</string>
+    <string name="app_name">DS</string>
+    <string name="name_widget_extra_large">Виджет профиля DS 6</string>
+    <string name="name_widget_large">Виджет профиля DS 3</string>
+    <string name="name_widget_small">Виджет включения DS</string>
+    <string name="movie">Кино</string>
+    <string name="music">Музыка</string>
+    <string name="game">Игра</string>
+    <string name="voice">Голос</string>
+    <string name="preset_1">Пользовательский 1</string>
+    <string name="preset_2">Пользовательский 2</string>
 </resources>
