@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="powerOn">ВКЛ</string>
+    <string name="powerOff">ВЫКЛ</string>
+    <string name="dolbyDigitalPlus">Dolby Digital Plus</string>
+    <string name="intelligent_equalizer">Интеллектуальный EQ:</string>
+    <string name="surround_virtualizer">Объемный звук</string>
+    <string name="dialogue_enhancer">Усиление голоса</string>
+    <string name="volume_leveler">Усиление музыки</string>
+    <string name="copyright">Dolby и double-D являются зарегистрированными товарными знаками Dolby Laboratories. ©2013 Dolby Laboratories. Все права защищены.</string>
+    <string name="movie">Фильм</string>
+    <string name="music">Музыка</string>
+    <string name="game">Игра</string>
+    <string name="voice">Голос</string>
+    <string name="preset_1">Пресет 1</string>
+    <string name="preset_2">Пресет 2</string>
+    <string name="bright">Яркий</string>
+    <string name="open">Открыть</string>
+    <string name="rich">Глубокий</string>
+    <string name="focused">Фокусированный</string>
+    <string name="off">Выкл</string>
+    <string name="custom">Вручную</string>
+    <string name="graphical_equalizer">Графический EQ:</string>
+    <string name="app_name">Dolby</string>
+    <string name="minimize_content_description">Свернуть кнопки</string>
+    <string name="instore_menu_text">Демо видео</string>
+    <string name="replay">Повторить</string>
+    <string name="stop">Стоп</string>
+    <string name="exit">Выход</string>
+    <string name="tooltip_eq_title">Интеллектуальный эквалайзер</string>
+    <string name="tooltip_eq_text">Интеллектуальный эквалайзер анализирует и динамически регулирует аудиопоток для соответствия желаемого тона. Выберите из четырех показанных пресетов, и затем нажмите Спектральный визуализатор для изменения настроек эквалайзера.</string>
+    <string name="tooltip_sv_title">Объемный звук</string>
+    <string name="tooltip_sv_text">Функция объемный звук создает реалистичный объемный звук для любых наушников и стерео динамиков. Используйте переключатель для управления эффектом объемного звучания.</string>
+    <string name="tooltip_de_title">Усиление голоса</string>
+    <string name="tooltip_de_text">Функция усиление голоса улучшает чистоту голоса в любом типе медиа. Используйте переключатель для управления эффектом усиления голоса.</string>
+    <string name="tooltip_vl_title">Усиление музыки</string>
+    <string name="tooltip_vl_text">Функция усиление музыки поддерживает соответствующий уровень громкости по всем приложениям на базе общего уровня громкости устройства. Используйте переключатель для управления эффектом усиления музыкиы.</string>
+</resources>
