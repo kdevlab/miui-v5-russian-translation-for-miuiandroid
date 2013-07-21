@@ -38,7 +38,7 @@
      <string name="confirm">ОК</string>
      <string name="correct_id3_by_internet">Автокорректировка ID3 через интернет</string>
      <string name="correct_id3_failed">Ошибка корректировки ID3!</string>
-     <string name="correct_id3_in_processing">Исправление тегов (ID3).</string>
+     <string name="correct_id3_in_processing">Исправление тегов (ID3)...</string>
      <string name="correct_id3_not_support">Коррекция ID3 не поддерживает этот тип файла</string>
      <string name="correct_id3_open_other_connect">Пожалуйста, включите корректировку ID3 с использованием мобильного интернета</string>
      <string name="correct_id3_settings">Корректировка ID3</string>
@@ -96,7 +96,7 @@
      <string name="id3_edit_failed">Не удалось отредактировать ID3</string>
      <string name="id3_modify_confirm_check">Сохранить изменения ID3?</string>
      <string name="id3_modify_confirm_text">Сохранить</string>
-     <string name="impunity_declaration">Онлайн музыка, которую Вы собираетесь слушать, предоставляется онлайн сервисом Baidu Music. Нажмите \"OK\", чтобы продолжить, нажмите кнопку \"Отмена\" для выхода.</string>
+     <string name="impunity_declaration">Онлайн музыка предоставляется сервисом Baidu Online Music. Нажмите \"Принимаю\", чтобы принять <a href="http://music.baidu.com/doc/agreement">Условия использования</a> и продолжить.</string>
      <string name="impunity_declaration_title">Примечание</string>
      <string name="keep_quit_position_settings">Запомнить позицию</string>
      <string name="keep_quit_position_summary">Возвращаться к состоянию на момент выхода. Рекомендуется включить.</string>
