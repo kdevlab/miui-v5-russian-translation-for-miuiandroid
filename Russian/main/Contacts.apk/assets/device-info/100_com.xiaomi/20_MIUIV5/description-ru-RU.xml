@@ -1,0 +1,16 @@
+<feature>
+    <name>MIUI V5</name>
+    <boolean>TRUE</boolean>
+    <title>
+Импорт контактов с устройств с MIUIv5:
+
+1.Откройте “Настройки”
+
+2.Откройте пункт “Bluetooth”
+
+3.Включите “Bluetooth”
+
+4.Нажмите на кнопку “Далее”
+    </title>
+    <header></header>
+</feature>
