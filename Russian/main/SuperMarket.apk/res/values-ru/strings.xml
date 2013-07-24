@@ -66,6 +66,7 @@
      <string name="hot_rank_tag">Топ рейтинга</string>
      <string name="install">Скачать</string>
      <string name="install_all_description">Установить приложения %1$s и %2$s сейчас？</string>
+     <string name="install_all_title">Установить все</string>
      <string name="install_btn_cancel">Отмена</string>
      <string name="install_btn_continue">Далее</string>
      <string name="install_btn_download_manager">Менеджер загрузок</string>
@@ -134,11 +135,17 @@
      <string name="no_network">Нет доступа в Интернет. Пожалуйста, проверьте настройки и попробуйте обновить :)</string>
      <string name="no_search">Приложений не найдено</string>
      <string name="no_update">Обновлений нет</string>
+     <string name="notif_auto_update_failed">Ошибка обновления некоторых приложений.</string>
+     <string name="notif_auto_update_successfull">%1$s авто-обновление не завершено</string>
+     <string name="notif_auto_update_via_wifi">Авто-обновление: %1$s</string>
      <string name="notif_delta_update_successful">Успешно обновлено. Для Вас сохранено %1$s, нажмите кнопку, чтобы запустить сейчас.</string>
+     <string name="notif_description_from_market">Из маркета Xiaomi</string>
      <string name="notif_install_failed">Сбой установки %1$s</string>
      <string name="notif_install_successful">%1$s успешно установлено</string>
      <string name="notif_install_successful_default">%1$s установлено</string>
      <string name="notif_installing">Установка “%1$s”...</string>
+     <string name="notif_summary_auto_update_failed">Нажмите сюда для продолжения.</string>
+     <string name="notif_summary_auto_update_successful">Авто-обновление %1$s приложений не завершено.</string>
      <string name="notif_title_update">Доступно обновление для %1$s!</string>
      <string name="paused">Пауза</string>
      <string name="pending">Ожидание...</string>
@@ -157,7 +164,10 @@
      <string name="pref_list_per_day">Ежедневно</string>
      <string name="pref_list_per_week">Еженедельно</string>
      <string name="pref_list_remind_me_after_download">Напомнить после загрузки</string>
+     <string name="pref_summary_auto_update_via_wifi">Авто-обновление через Wi-Fi при заблок. экране.</string>
      <string name="pref_title_auto_update_setting">Параметры автообновления</string>
+     <string name="pref_title_auto_update_via_wifi">Авто-обновление через Wi-Fi</string>
+     <string name="pref_title_auto_update_via_wifi_checkbox">Авто-обновление</string>
      <string name="pref_title_clear_search_record">Очистить историю поиска</string>
      <string name="pref_title_data_save_mode">Экономия трафика</string>
      <string name="pref_title_silent_install">Тихая установка</string>

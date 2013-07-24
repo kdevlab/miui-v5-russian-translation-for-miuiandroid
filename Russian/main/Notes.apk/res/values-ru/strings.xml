@@ -34,6 +34,7 @@
      <string name="dlg_title_confirm_alarm_silent">Отключить будильник в тихом режиме?</string>
      <string name="enable_sync">Синхронизация</string>
      <string name="enable_sync_desc">Заметки можно синхронизировать с вашим Xiaomi аккаунтом %1$s. Синхронизировать прямо сейчас?</string>
+     <string name="error_contact_not_exist">Контакт не существует</string>
      <string name="error_note_empty_for_clock">К сожалению, невозможно установить время для пустой заметки</string>
      <string name="error_note_empty_for_send_to_desktop">Пустые заметки нельзя отправить на рабочий стол</string>
      <string name="error_note_not_exist">Заметка отсутствует</string>

@@ -14,12 +14,13 @@
      <string name="check_network">Посмотреть настройки сети</string>
      <string name="confirm_delete_all_call_log_title">Подтвердите удаление все журналы вызовов</string>
      <string name="confirm_delete_call_log_title">Удалить выбранные журналы вызовов?</string>
+     <string name="contact_detail_calllog_call_note_tips">Заметка о вызове</string>
+     <string name="contact_detail_calllog_call_record_tips">Запись вызова</string>
      <string name="custom_mark_category">Пользовательский</string>
      <string name="data_error">К сожалению, текущая услуга не доступна, повторите попытку позже</string>
      <string name="delete">Удалить</string>
      <string name="mark_number_custom_dialog_maintitle">Согласиться или исправить метку</string>
      <string name="mark_number_dialog_maintitle">Отметить неизвестный номер и загрузить</string>
-     <string name="mark_number_dialog_subtitle">Разработано совместно с Sogou</string>
      <string name="menu_about_yellow_page">О этой странице</string>
      <string name="menu_add_black_list">Добавить в черный список</string>
      <string name="menu_call_ip_number">IP вызов (набрать %s)</string>

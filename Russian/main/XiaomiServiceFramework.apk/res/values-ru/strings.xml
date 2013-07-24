@@ -27,6 +27,7 @@
      <string name="bankcall_card">Банковская карта</string>
      <string name="bankcall_card_hint">Номер банковской карты</string>
      <string name="bankcall_card_type">%1$s-%2$s</string>
+     <string name="bankcall_card_type_tailnum">%1$s-%2$s (Номер карты %3$s)</string>
      <string name="bankcall_city">Город</string>
      <string name="bankcall_credit_card">Кредитная карта</string>
      <string name="bankcall_debit_card">Дебитовая карты</string>

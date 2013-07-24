@@ -173,24 +173,28 @@
         <item>OS X</item>
         <item>Linux</item>
      </string-array>
+     <!-- The size of the array does not match! Now: 5 must: 8 -->
      <string-array name="msd_pc_system_install_finish_summary">
         <item>Если вы установили этот драйвер\nМобильное устройство хранения MI-2 должно быть на вашем компьютере</item>
         <item>Для Windows Vista или новее,\nмузыкальный плеер MI-2 должен появится на вашем компьютере</item>
         <item>Если вы установили драйвер\nКомпьютер будет автоматически открывать и читать данные телефона</item>
         <item></item>
      </string-array>
+     <!-- The size of the array does not match! Now: 5 must: 8 -->
      <string-array name="msd_pc_system_install_start_summary">
         <item>Для Windows XP или старее,\nдрайвер должен быть установлен вручную</item>
         <item>Для Windows Vista или новее,\nмузыкальный плеер MI-2 появится на вашем компьютере</item>
         <item>Для операционной системы OS X,\nдрайвер должен быть установлен вручную</item>
         <item></item>
      </string-array>
+     <!-- The size of the array does not match! Now: 5 must: 8 -->
      <string-array name="msd_pc_system_install_step_1_summary">
         <item>(Пожалуйста, игнорируйте всплывающие окна мастера установки)\nзапоминающее устройство XIAOMI появится на вашем компьютере\nОткройте и выберите файл Setup.exe для установки</item>
         <item></item>
         <item>Запоминающее устройство XIAOMI появится на вашем компьютере\nткройте и выберите файл AndroidFileTransfer.dmg для установки</item>
         <item></item>
      </string-array>
+     <!-- The size of the array does not match! Now: 5 must: 7 -->
      <string-array name="msd_pc_system_install_step_2_summary">
         <item>2. Мобильное устройство хранения MI-2 появится на вашем компьютере\nТеперь вы можете передавать файлы</item>
         <item></item>

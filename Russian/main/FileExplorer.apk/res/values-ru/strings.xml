@@ -6,6 +6,7 @@
 Ваш аккаунт временно будет недоступен, пожалуйста подождите…"</string>
      <string name="add_task">Добавить задачи</string>
      <string name="adding_upload_tasks">Добавление задачи загрузки</string>
+     <string name="already_signin_description">Войти можно только один раз в день, приходите завтра :)</string>
      <string name="app_cache_cleanup_indication">%s кеша</string>
      <string name="app_cache_title">Кеш приложений</string>
      <string name="app_garbage_cleanup_indication">%s мусора</string>
@@ -209,7 +210,9 @@
      <string name="operation_unfavorite">Удалить из избранного</string>
      <string name="pan_settting">Настройки KuaiPan</string>
      <string name="paused">Пауза</string>
+     <string name="pull_to_signin">Перетащите вниз, чтобы войти в систему и получить свободное пространство</string>
      <string name="query_bind_state">Запрос состояния, пожалуйста, подождите…</string>
+     <string name="release_to_signin">Отпустите для входа</string>
      <string name="rename_description">Переименовывается···</string>
      <string name="rename_failed">Переименование 《%1$s》 не удалось</string>
      <string name="restart_cleaning">Повтор</string>
@@ -228,6 +231,10 @@
      <string name="server_control_settings">Настройки</string>
      <string name="share_link_failed">Ошибка создания внешней ссылки на папку</string>
      <string name="show_message">Файл не может быть открыт без загрузки, загрузить?</string>
+     <string name="sign_description">Подключение...</string>
+     <string name="signin_error">Нет сети или сеть нестабильна, не повторите попытку позже :)</string>
+     <string name="signin_success">"Вход успешен！
+Получить свободное место %1$s"</string>
      <string name="space_info">Объем в сети: %1$s доступно，всего: %2$s</string>
      <string name="space_usage">Использование хранилища</string>
      <string name="start_cleanup">Очистка</string>
@@ -262,6 +269,7 @@
      <string name="ui_bar_txt_upload_progress">Загрузка файлов (Осталось: %1$d)...</string>
      <string name="ui_filechange_btn_download">Скачать файлы</string>
      <string name="ui_filechange_btn_upload">Загрузить файлы</string>
+     <string name="ui_main_menu_option_sign_in">Вход</string>
      <string name="ui_main_menu_option_task_manage">Обмен файлами</string>
      <string name="ui_main_progress_txt_open_file">Загрузка...</string>
      <string name="ui_main_toast_favorite_removed">Избранное удалено</string>

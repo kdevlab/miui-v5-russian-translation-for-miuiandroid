@@ -310,6 +310,7 @@
      <string name="display_warn_remove_ungrouped">Вместе с группой \"%s\" перестанут синхронизироваться контакты, не добавленные в группы</string>
      <string name="download_failed">Ошибка загрузка</string>
      <string name="download_preview_failed">Не удалось загрузить изображение</string>
+     <string name="duplicate_group_name">Группа уже существует</string>
      <string name="editContactDescription">Изменить контакт</string>
      <string name="editGroupDescription">Редактировать группу</string>
      <string name="edit_contact">Изменить контакт</string>
