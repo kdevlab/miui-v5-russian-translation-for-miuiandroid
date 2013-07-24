@@ -30,8 +30,8 @@
      <string name="call_record_folder_name">Вызов заметки</string>
      <string name="close">Закрыть</string>
      <string name="default_folder_name">Заметки</string>
-     <string name="dlg_desc_confirm_alarm_silent">После отключения, сигналы будильника и заметок не будут играть в беззвучном режиме</string>
-     <string name="dlg_title_confirm_alarm_silent">Отключение сигналов в тихом режиме</string>
+     <string name="dlg_desc_confirm_alarm_silent">После отключения, сигналы будильника и заметок не будут играть в режиме \"Без звука\"</string>
+     <string name="dlg_title_confirm_alarm_silent">Отключение сигналов в режиме \"Без звука\"</string>
      <string name="enable_sync">Синхронизация</string>
      <string name="enable_sync_desc">Заметки можно синхронизировать с вашим Xiaomi аккаунтом %1$s. Синхронизировать прямо сейчас?</string>
      <string name="error_contact_not_exist">Контакт не существует</string>
@@ -75,7 +75,7 @@
      <string name="notify_alarm_action_mute">Без звука</string>
      <string name="notify_alarm_action_view">Просмотр</string>
      <string name="notify_alarm_title">Напоминание</string>
-     <string name="pref_desc_alarm_when_silent">Сигналы будильника и заметок будут играть в беззвучном режиме</string>
+     <string name="pref_desc_alarm_when_silent">Сигналы будильника и заметок будут играть в режиме \"Без звука\"</string>
      <string name="pref_desc_mode_grid">Сетка</string>
      <string name="pref_desc_mode_list">Список</string>
      <string name="pref_title_alarm_when_silent">Будильник в тихом режиме</string>
@@ -94,8 +94,8 @@
      <string name="time_picker_dialog_title">Установка времени напоминания</string>
      <string name="toast_message_add_image_fail">Не удалось вставить изображение!</string>
      <string name="toast_privacy_mode">Не удается отредактировать заметку в гостевом режиме</string>
-     <string name="toast_reach_text_limit_attachment">Содержание заметки слишком велико для добавления новых вложений.</string>
-     <string name="toast_reach_text_limit_truncate">"Содержание записки автоматически сократится по длине."</string>
+     <string name="toast_reach_text_limit_attachment">Содержание заметки слишком велико для добавления новых вложений</string>
+     <string name="toast_reach_text_limit_truncate">Содержание записки автоматически сократится по длине</string>
      <string name="widget_havenot_content">Нет заметок, нажмите сюда, чтобы создать заметку</string>
      <string name="widget_under_visit_mode">Не возможно просмотреть заметки, потому что включен гостевой режим</string>
 </resources>
