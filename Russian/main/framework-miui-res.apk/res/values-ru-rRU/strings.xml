@@ -255,12 +255,16 @@
      <string name="day_of_month">" %d"</string>
      <string name="days">%d дн.</string>
      <string name="delete">Удалить</string>
+     <string name="deprecated_49" />
+     <string name="deprecated_50" />
+     <string name="deprecated_51" />
+     <string name="deprecated_52" />
      <string name="deprecated_alarm_message_12_hour_formate" />
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="device_xiaomi">Телефон Xiaomi</string>
      <string name="device_hongmi">Телефон Hongmi</string>
+     <string name="device_xiaomi">Телефон Xiaomi</string>
      <string name="double_seventh_day">""</string>
      <string name="emergency_call_string">Экстренные</string>
+     <string name="err_resource_leak">К сожалению, \"%1$s\" остановлен для избежания утечки ресурсов.</string>
      <string name="error_forbidden">Ошибки в аккаунте. Синхронизация отключена.</string>
      <string name="error_not_acceptable">Ошибки на сервере. Синхронизация отключена.</string>
      <string name="error_title">Ошибка синхронизации для %s</string>
@@ -494,5 +498,4 @@ EEEE"</string>
      <string name="winter_begins">Зима</string>
      <string name="winter_solstice">""</string>
      <string name="yesterday">"Вчера "</string>
-     <string name="err_resource_leak">К сожалению, \"%1$s\" остановлен для избежания утечки ресурсов.</string>
 </resources>
