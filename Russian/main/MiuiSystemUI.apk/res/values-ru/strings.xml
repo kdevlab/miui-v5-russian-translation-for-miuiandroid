@@ -249,7 +249,8 @@ d MMMM yyyy"</string>
      <string name="status_bar_toggle_torch">Фонарик</string>
      <string name="status_bar_toggle_vibrate">Вибрация</string>
      <string name="status_bar_toggle_wifi">Wi-Fi</string>
-     <string name="status_bar_toggle_wifi_ap">Хотспот Wi-Fi</string>
+     <string name="status_bar_toggle_wifi_ap">"Хотспот
+Wi-Fi"</string>
      <string name="status_bar_use_physical_keyboard">Использование физической клавиатуры</string>
      <string name="tab_notifications_lable">Уведомления</string>
      <string name="tab_toggles_lable">Переключатели</string>
