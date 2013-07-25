@@ -12,7 +12,7 @@
      <string name="add_to_cloud_folder">В облако</string>
      <string name="adding_recipients">Добавление получателей…</string>
      <string name="album_name">Имя альбома</string>
-     <string name="album_quota_fulfiled">"Не удалось создать альбом, количество альбомов достигло предела.."</string>
+     <string name="album_quota_fulfiled">Не удалось создать альбом. Количество альбомов достигло предела.</string>
      <string name="album_share_kicked">Вы были удалены из альбома: %1$s</string>
      <string name="album_share_stat_content">Новые приглашения для альбома</string>
      <string name="album_share_subtitle_accepting">Принятие приглашения от %1$s...</string>
@@ -119,11 +119,11 @@
      <string name="email_picker_title">Добавить общий E-mail</string>
      <string name="empty_album">Нет фото/видео</string>
      <string name="enter_email_hint">Введите адрес E-mail</string>
-     <string name="error_invalid_link">Ссылка является недействительной. Пусть владелец создаст новую</string>
+     <string name="error_invalid_link">Ссылка является недействительной. Пусть владелец создаст новую.</string>
      <string name="error_repeat_apply">Вы уже поделились альбомом</string>
      <string name="error_should_not_select_image">Пожалуйста, не выбирайте файл изображения</string>
      <string name="error_should_not_select_video">Пожалуйста, не выбирайте видео файл</string>
-     <string name="error_socket_timeout">Сетевой тайм-аут. Повторите позже</string>
+     <string name="error_socket_timeout">Сетевой тайм-аут. Повторите позже.</string>
      <string name="exit_share">Закрыть альбом</string>
      <string name="exit_share_failed">Закрытие альбома &lt;%1$s> не удалось</string>
      <string name="exit_share_in_process">Попытка закрытия альбома, пожалуйста подождите</string>
@@ -168,7 +168,7 @@
      <string name="how_many_pics">Фотографий: %d</string>
      <string name="how_many_sub_folders">Папок: %d</string>
      <string name="how_many_videos">Видео: %d</string>
-     <string name="image_quota_fulfiled">"Не удается создать изображение, т.к. количество изображений в альбом уже достигло предела."</string>
+     <string name="image_quota_fulfiled">Не удается создать изображение, т.к. количество изображений в альбоме достигло предела</string>
      <string name="import_complete">Импорт завершен</string>
      <string name="import_fail">Сбой импорта</string>
      <string name="initial_cloud_button_text">Начать использование</string>
@@ -181,7 +181,7 @@
      <string name="kick_sharer">Удалить получателя</string>
      <string name="kick_sharer_failed">Ошибка удаления получателя</string>
      <string name="kick_sharer_successfully">Получатель удален</string>
-     <string name="landscape_mode">Включить ландшавтный режим</string>
+     <string name="landscape_mode">Включить ландшафтный режим</string>
      <string name="loading">Идет загрузка…</string>
      <string name="loading_failure">Не удалось загрузить фото</string>
      <string name="loading_thumbnail">Загрузка эскизов</string>
@@ -299,7 +299,7 @@
      <string name="share_by_email_start">Попробуйте поделиться &lt;%1$s> в фоновом режиме</string>
      <string name="share_by_email_successfully">Вы поделились через E-Mail &lt;%1$s></string>
      <string name="share_user_name">Имя</string>
-     <string name="sharer_quota_fulfiled">"Невозможно добавить пользователя, т.к. количество пользователей в этом альбоме уже достигло предела."</string>
+     <string name="sharer_quota_fulfiled">Невозможно добавить пользователя, т.к. количество пользователей в этом альбоме достигло предела</string>
      <string name="sharer_status_accepted">Принято</string>
      <string name="sharer_status_refused">Отклонено</string>
      <string name="sharer_status_waiting">Ожидание</string>
