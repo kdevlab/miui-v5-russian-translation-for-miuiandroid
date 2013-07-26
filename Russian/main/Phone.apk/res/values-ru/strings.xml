@@ -68,7 +68,7 @@
      <string name="auto_answer_setting_title_miui">Настройки автоответа</string>
      <string name="auto_answer_summary_delay">" (задержка: %s сек.)"</string>
      <string name="auto_answer_summary_not_enabled">Не включен</string>
-     <string name="auto_country_code_miui">Автоматический код города</string>
+     <string name="auto_country_code_miui">Автом. код города</string>
      <string name="auto_country_code_sum_miui">Автоматически добавляет код города при вызове</string>
      <string name="auto_ip_add_exception_numbers_miui">Добавить номера</string>
      <string name="auto_ip_exception_miui">Номера, которым не нужен префикс</string>
@@ -145,7 +145,7 @@
      <string name="call_record_sd_space_low_miui">Мало места на SD-карте</string>
      <string name="call_record_setting_miui">Настройки записи</string>
      <string name="call_recording_notification_summary_miui">Включить уведомления о начале и конце записи звонка</string>
-     <string name="call_recording_notification_title_miui">Уведомление записи разговоров</string>
+     <string name="call_recording_notification_title_miui">Уведомлять о записи</string>
      <string name="call_recording_prompt_miui">Открыть диктофон</string>
      <string name="call_settings">Настройки вызовов</string>
      <string name="call_settings_category_miui">Вызовы</string>
@@ -259,11 +259,11 @@
      <string name="confirm_no_countrycode_for_custom_location_miui">Пожалуйста введите номер без кода страны</string>
      <string name="confirm_pin2_hint_miui">Подтверждение PIN2</string>
      <string name="confirm_pin_hint_miui">Подтвердите новый PIN-код</string>
-     <string name="connect_disconnect_vibrate_none_miui">Не вибрировать</string>
-     <string name="connect_disconnect_vibrate_normal_miui">Нормальный</string>
+     <string name="connect_disconnect_vibrate_none_miui">Отключена</string>
+     <string name="connect_disconnect_vibrate_normal_miui">Включена</string>
      <string name="connect_disconnect_vibrate_summary_miui">""</string>
-     <string name="connect_disconnect_vibrate_title_miui">Уровень вибрации, при приеме/завершении звонка</string>
-     <string name="connect_disconnect_vibrate_weak_miui">Слабо вибрировать</string>
+     <string name="connect_disconnect_vibrate_title_miui">Вибрация при начале/завершении вызова</string>
+     <string name="connect_disconnect_vibrate_weak_miui">Слабая</string>
      <string name="connect_later">Не удается подключиться к этой сети. Повторите попытку позже.</string>
      <string name="contactAddFailed">Не удалось добавить контакт на SIM!!!</string>
      <string name="contactAddSuccess">Контакт успешно добавлен на SIM</string>
@@ -405,7 +405,7 @@
      <string name="enable_proximity_title_miui">Включить датчик приближения</string>
      <string name="enable_sim_pin">Включить запрос PIN SIM-карты</string>
      <string name="enable_sim_pin_miui">Включить запрос PIN SIM-карты</string>
-     <string name="enable_telocation_title_miui">Показать свойства для номера</string>
+     <string name="enable_telocation_title_miui">Пок. свойства номера</string>
      <string name="enforce_proximity_summary_miui">Предотвращение ошибки соединения, когда мобильный телефон в кармане брюк</string>
      <string name="enforce_proximity_title_miui">Включить датчик приближения</string>
      <string name="enterName">Введите имя:</string>
@@ -418,7 +418,7 @@
      <string name="exception_error">Ошибка сети или SIM-карты</string>
      <string name="exportAllcontatsFailed">Не удалось экспортировать все контакты с SIM-карты!</string>
      <string name="exportAllcontatsSuccess">Все контакты с SIM-карты успешно экспортированы</string>
-     <string name="exportContacts">Экспорт контактов на SIM карту…</string>
+     <string name="exportContacts">Экспорт контактов на SIM-карту…</string>
      <string name="fake_phone_activity_infoText_text">Входящий телефонный номер</string>
      <string name="fake_phone_activity_phoneNumber_text">+7 (123) 123-4567</string>
      <string name="fake_phone_activity_placeCall_text">Поддельный входящий звонок</string>
@@ -984,7 +984,7 @@
      <string name="t9_indexing_rebuilding_message">Обновление базы данных T9, пожалуйста, подождите...</string>
      <string name="technology_news_disable">Новости технологий отключены</string>
      <string name="technology_news_enable">Новости технологий включены</string>
-     <string name="telocation_setting_miui">Настройки положения</string>
+     <string name="telocation_setting_miui">Настройки местоположения</string>
      <string name="telocation_setting_summary_countrycode_off">Не добавлять код страны автоматически</string>
      <string name="telocation_setting_summary_countrycode_on">Автоматически добавлять код страны</string>
      <string name="telocation_setting_summary_teloc_off">Скрывать местонахождение</string>
