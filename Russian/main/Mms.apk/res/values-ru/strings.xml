@@ -254,7 +254,7 @@ SMS (%1$d), MMS (%2$d)"</string>
      <string name="pref_summary_mms_auto_retrieval">Автоматически загружать MMS-сообщения</string>
      <string name="pref_summary_mms_read_reports">Запрашивать отчет о прочтении для всех отправляемых сообщений</string>
      <string name="pref_summary_mms_retrieval_during_roaming">Автоматически загружать MMS-сообщения в роуминге</string>
-     <string name="pref_summary_new_message_popup">Отображение всплывающих окон при получении нового сообщения</string>
+     <string name="pref_summary_new_message_popup">Показывать всплывающее окно при получении нового сообщения</string>
      <string name="pref_summary_new_message_popup_when_secure">Всплывающие уведомления скрыты в режиме гостя</string>
      <string name="pref_summary_notification_body_enabled">Предварительный просмотр сообщения на экране блокировки и в строке состояния</string>
      <string name="pref_summary_notification_body_enabled_when_secure">Предварительный просмотр сообщений отключен при гостевом режиме</string>
@@ -274,7 +274,7 @@ SMS (%1$d), MMS (%2$d)"</string>
      <string name="pref_title_mms_read_reports">Отчёт о прочтении</string>
      <string name="pref_title_mms_retrieval_during_roaming">Автозагрузка в роуминге</string>
      <string name="pref_title_new_message_popup">Всплывающие окна</string>
-     <string name="pref_title_notification_body_enabled">Предварительный просмотр</string>
+     <string name="pref_title_notification_body_enabled">Предпросмотр сообщения</string>
      <string name="pref_title_ringtone_repeat">Количество напоминаний</string>
      <string name="pref_title_show_recent_contacts">Показать недавние контакты</string>
      <string name="pref_title_sms_delete">Максимальное количество SMS</string>
@@ -381,7 +381,7 @@ SMS (%1$d), MMS (%2$d)"</string>
      <string name="timed_message_in_total">... (всего: %d)</string>
      <string name="timed_message_to">для</string>
      <string name="title_date_type">Дата</string>
-     <string name="title_timed_message_dialog">Настройка времени отправки сообщения</string>
+     <string name="title_timed_message_dialog">Время отправки сообщения</string>
      <string name="to_address_label">"Кому: "</string>
      <string name="to_count">Всего: %d</string>
      <string name="to_label">"Кому: "</string>

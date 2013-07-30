@@ -141,7 +141,7 @@
      <string name="clear_default">Удалить настройки по умолчанию</string>
      <string name="click_close">Нажмите, чтобы закрыть</string>
      <string name="cloud_antispam_mark">Пометить</string>
-     <string name="cloud_antispam_title">Определять спам номера</string>
+     <string name="cloud_antispam_title">Идентификация номеров</string>
      <string name="composer_failed_to_get_database_infomation">База данных недоступна</string>
      <string name="composer_has_no_exportable_contact">Не найдены контакты для экспорта. Возможно, экспорт контактов с телефона не поддерживается поставщиком услуг передачи данных.</string>
      <string name="composer_not_initialized">Редактор vCard запущен некорректно</string>

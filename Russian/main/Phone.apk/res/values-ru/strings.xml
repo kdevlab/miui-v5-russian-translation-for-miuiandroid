@@ -69,7 +69,7 @@
      <string name="auto_answer_summary_delay">" (задержка: %s сек.)"</string>
      <string name="auto_answer_summary_not_enabled">Не включен</string>
      <string name="auto_country_code_miui">Автом. код города</string>
-     <string name="auto_country_code_sum_miui">Автоматически добавляет код города при вызове</string>
+     <string name="auto_country_code_sum_miui">Добавлять автоматически код города при вызове</string>
      <string name="auto_ip_add_exception_numbers_miui">Добавить номера</string>
      <string name="auto_ip_exception_miui">Номера, которым не нужен префикс</string>
      <string name="auto_ip_exception_summary_miui">%d всего</string>
@@ -88,7 +88,7 @@
      <string name="auto_record_whitelist_no_item_miui">Нажмите среднюю кнопку для добавления номеров в автозапись</string>
      <string name="auto_record_whitelist_summary_for_one_miui">1 номер</string>
      <string name="auto_record_whitelist_summary_miui">%d номеров</string>
-     <string name="auto_redial_pref_summary_miui">Если не удалось дозвониться, то система будет автоматически дозваниваться 10 раз</string>
+     <string name="auto_redial_pref_summary_miui">Дозваниваться автоматически 10 раз, если соединение не удалось</string>
      <string name="auto_redial_pref_title_miui">Автодозвон</string>
      <string name="auto_retry_mode_summary">Включить режим автодозвона</string>
      <string name="auto_retry_mode_summary_miui">Включить режим автодозвона</string>
@@ -563,8 +563,8 @@
      <string name="mhh_enable">Медицинские учреждения и больницы включены</string>
      <string name="mismatchPin">PIN коды не совпадают. Пожалуйста попробуйте еще раз.</string>
      <string name="mismatchPin2">Введенные коды PIN2 не совпадают. Повторите попытку</string>
-     <string name="mismatch_pin2_miui">PIN2-ы не совпадают. Пожалуйста, попробуйте еще раз</string>
-     <string name="mismatch_pin_miui">Введенные PIN-коды не совпадают. Пожалуйста, попробуйте еще раз</string>
+     <string name="mismatch_pin2_miui">Коды PIN2 не совпадают. Попробуйте еще раз.</string>
+     <string name="mismatch_pin_miui">Введенные PIN-коды не совпадают. Попробуйте еще раз.</string>
      <string name="missed_call_notify_five_times_miui">Пять раз</string>
      <string name="missed_call_notify_none_miui">Без напоминаний</string>
      <string name="missed_call_notify_once_miui">Один раз</string>
