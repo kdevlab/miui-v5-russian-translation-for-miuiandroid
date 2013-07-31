@@ -113,7 +113,7 @@
      <string name="android_beam_on_summary">Обмен данными по NFC</string>
      <string name="android_beam_witch_label">Включить Android Beam</string>
      <string name="animator_duration_scale_title">Шкала длительности анимации</string>
-     <string name="antispam_quiet_mode_title">Тихий режим</string>
+     <string name="antispam_quiet_mode_title">Не беспокоить</string>
      <string name="apn_auth_type">Тип аутентификации</string>
      <string name="apn_auth_type_none">Нет</string>
      <string name="apn_auth_type_pap_chap">PAP или CHAP</string>
@@ -2376,7 +2376,7 @@
      <string name="wifi_share_qrcode_summary">Используйте камеру MIUI для сканирования QR-кода</string>
      <string name="wifi_share_qrcode_title">Поделиться Wi-Fi</string>
      <string name="wifi_share_show_network">Показать сети</string>
-     <string name="wifi_share_summary1">Пользователи MIUI могут передавать публичные сети, защищенные Wi-Fi</string>
+     <string name="wifi_share_summary1">"Пользователи MIUI могут передавать публичные сети, защищенные Wi-Fi. "</string>
      <string name="wifi_share_summary2">Если другой пользователь MIUI делится сетями, вы можете напрямую подключиться к этой сети без использования пароля.</string>
      <string name="wifi_share_summary3">Верните, поделившись своим общественным Wi-Fi сетей с каждым.</string>
      <string name="wifi_share_turn_off">Отправка публичных Wi-Fi выключена</string>
