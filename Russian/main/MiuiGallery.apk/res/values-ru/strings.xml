@@ -77,10 +77,6 @@
 Альбомов:%s
 Фото: %s"</string>
      <string name="confirm_delete_cloud_all_item_page" formatted="false">%s фотографий в %s альбомах, вы уверены, что хотите удалить?</string>
-     <string name="confirm_delete_folders_and_pictures">Вы уверены, что хотите удалить %s?</string>
-     <string name="confirm_delete_folders_including" formatted="false">%s альбомов, включая %s фото</string>
-     <string name="confirm_delete_including_null">0 штук</string>
-     <string name="confirm_delete_items">%s штук</string>
      <string name="confirm_delete_pictures">%s фотографий</string>
      <string name="confirm_delete_system_album">%s - это системный альбом. Вы уверены, что хотите удалить?</string>
      <string name="confirm_delete_videos">%s видео</string>
@@ -103,11 +99,15 @@
      <string name="defalt_local_mobile">Мобильный</string>
      <string name="delete">Удалить</string>
      <string name="delete_fail_too_many_items">Ошибка удаления. Возможно выбрано слишком много пунктов.</string>
+     <string name="delete_file">Вы уверены, что хотите удалить выбранные файлы (%1$d)?</string>
+     <string name="delete_files_and_folders">Вы уверены, что хотите удалить %1$d выбранных файлов и %2$d выбранных папок?</string>
+     <string name="delete_folder">Вы уверены, что хотите удалить %1$d выбранных папок?</string>
      <string name="deleting_files">Удаление файлов...</string>
      <string name="demo_video_folder_display_name">Демо-видео</string>
      <string name="description">Описание</string>
      <string name="details">Сведения</string>
      <string name="details_title">%1$d из %2$d</string>
+     <string name="directory_info_divider">"  |  "</string>
      <string name="documentary">Документальные</string>
      <string name="done">Готово</string>
      <string name="doodle">Подмалевок</string>
@@ -173,6 +173,7 @@
      <string name="import_fail">Сбой импорта</string>
      <string name="initial_cloud_button_text">Начать использование</string>
      <string name="initial_cloud_text">Организовывайте и просматривайте свои фотографии</string>
+     <string name="initializing_cloud">Запуск облачного альбома...</string>
      <string name="input_cloudfolder_name">Название облачного альбома</string>
      <string name="internal_camera_folder_display_name">Фото в памяти телефона</string>
      <string name="internal_miui_capture_screen_folder_display_name">Скриншоты в памяти телефона</string>
@@ -233,6 +234,8 @@
      <string name="open">Открыть</string>
      <string name="open_single_image_failure">Ошибка загрузки изображения!</string>
      <string name="open_sync_title">Пожалуйста, включите синхронизацию</string>
+     <string name="operation_delete_confirm_message_folder">"Папки и файлы в них будут удалены одновременно.
+"</string>
      <string name="operation_refresh">Обновить</string>
      <string name="operation_rename">Переименовать</string>
      <string name="orientation">Ориентация</string>

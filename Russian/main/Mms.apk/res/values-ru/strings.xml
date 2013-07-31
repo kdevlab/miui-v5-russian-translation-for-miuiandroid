@@ -61,7 +61,11 @@
      <string name="confirm_dialog_title">Удаление</string>
      <string name="confirm_export_dialog_description">После удаления приватного контакта Ваша переписка восстановится в обычный режим. Продолжить?</string>
      <string name="confirm_export_dialog_title">Удаление приватного контакта</string>
+     <string name="confirm_no_block_positive">Не блокировать и восстановить</string>
+     <string name="confirm_no_block_title">Не блокировать этот номер и восстановить все сообщения?</string>
      <string name="confirm_rate_limit">Отправляется большое количество MMS. Продолжить?</string>
+     <string name="confirm_restore_positive">Восстановить</string>
+     <string name="confirm_restore_title">Восстановить все выбранные сообщения?</string>
      <string name="context_menu_add_contact">Добавить в контакты</string>
      <string name="context_menu_browse_web">Перейти</string>
      <string name="context_menu_call">Вызов</string>
@@ -223,6 +227,7 @@ SMS (%1$d), MMS (%2$d)"</string>
      <string name="new_phrase_hint">Введите текст</string>
      <string name="nickname_placeholder">Имя</string>
      <string name="no">Отмена</string>
+     <string name="no_block_button_msg">Не блокировать сообщения от этого номера</string>
      <string name="no_conversations">Нет сообщений</string>
      <string name="no_subject">(Без темы)</string>
      <string name="no_subject_view">(Без темы)</string>
@@ -311,6 +316,7 @@ SMS (%1$d), MMS (%2$d)"</string>
      <string name="replace_image">Заменить картинку</string>
      <string name="resent_message">Повторить</string>
      <string name="resize_image_error_information">Изображение слишком велико для отправки, даже после изменения размера</string>
+     <string name="restore_blocked_message">Восстановить сообщение</string>
      <string name="save">Сохранить</string>
      <string name="save_ringtone">Сохранить как мелодию звонка</string>
      <string name="save_to_sim">Сохранить на SIM-карту</string>

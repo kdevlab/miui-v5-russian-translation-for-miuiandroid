@@ -207,6 +207,7 @@
      <string name="delete_sim_entries_finish">Контакты с SIM удалены</string>
      <string name="delete_sim_entry_miui">Удалить</string>
      <string name="delete_unknown_contact_calllog_title">Удалить журнал вызовов неизвестных контактов?</string>
+     <string name="deleting">Удаление...</string>
      <string name="deleting_sim_entry_miui">Удаление контактов с SIM-карты</string>
      <string name="description_add_contact">Добавить контакт</string>
      <string name="description_author">Автор:</string>
@@ -308,6 +309,8 @@
      <string name="display_sim_contacts">Показать контакты SIM-карты</string>
      <string name="display_ungrouped">Все остальные контакты</string>
      <string name="display_warn_remove_ungrouped">Вместе с группой \"%s\" перестанут синхронизироваться контакты, не добавленные в группы</string>
+     <string name="dlg_add_blacklist">Вы действительно хотите добавить этот номер в черный список?</string>
+     <string name="dlg_remove_blacklist">Вы действительно хотите удалить этот номер из черного списка?</string>
      <string name="download_failed">Ошибка загрузка</string>
      <string name="download_preview_failed">Не удалось загрузить изображение</string>
      <string name="duplicate_group_name">Группа уже существует</string>
@@ -728,7 +731,6 @@
      <string name="preview_contact_card_title">Импортировать</string>
      <string name="previous">назад</string>
      <string name="private_num">Скрытый номер</string>
-     <string name="processing">Обработка...</string>
      <string name="profile_display_name">Настроить профиль</string>
      <string name="profile_name">Мой профиль</string>
      <string name="profile_name_photo">Я</string>
@@ -761,6 +763,7 @@
      <string name="remind_btn_ignore">Позже</string>
      <string name="remind_btn_sync_now">Сейчас</string>
      <string name="removePhoto">Удалить изображение</string>
+     <string name="remove_blacklist">Удалить из черного списка</string>
      <string name="remove_duplicate">"MIUI поможет Вам найти и объединить дублированные контакты. Они не будут объединены автоматически. Пожалуйста, объедините их вручную.
 
 Нажмите на объединение и немного подождите, пока автоматическое объединение не завершится."</string>
@@ -773,6 +776,8 @@
      <string name="resource_default_name">Ресурс</string>
      <string name="resource_delete_all">Удалить выбранные ресурсы (%1$d)?</string>
      <string name="resource_delete_confirm">Удалить эти ресурсы?</string>
+     <string name="resource_delta_update_failed">Ошибка обновления, нужно скачать полный ресурс</string>
+     <string name="resource_delta_update_successful">Обновление завершено, сохраняю %1$s.</string>
      <string name="resource_detail">Подробно</string>
      <string name="resource_download">Скачать</string>
      <string name="resource_downloaded_title">Скачанные</string>
@@ -782,6 +787,7 @@
      <string name="resource_get_auth_exceed_max_limit_title">Превышен предел авторизаций</string>
      <string name="resource_get_auth_missing">Тема скачана с неофициального маркета. Пожалуйста, скачайте аналогичную тему из официального маркета.</string>
      <string name="resource_get_auth_retrieving">Получение авторизации...</string>
+     <string name="resource_import_successful">Скачано.</string>
      <string name="resource_importing">Импорт...</string>
      <string name="resource_list_title">Последние</string>
      <string name="resource_local">Локальные %1$s</string>

@@ -375,6 +375,8 @@
      <string name="empty_alert">Поле \"%s\" не может быть пустым</string>
      <string name="empty_networks_list">Сети не найдены</string>
      <string name="enable">Включить</string>
+     <string name="enable_antispam_strange_summary">Отключить первый звонок с неизвестного номера</string>
+     <string name="enable_antispam_strange_title">Анти-незнакомый звонок</string>
      <string name="enable_disable_administrative">Административные функции</string>
      <string name="enable_disable_advertisements">Реклама</string>
      <string name="enable_disable_atr">Информация о пробках</string>
@@ -708,6 +710,7 @@
      <string name="phone_entered_ecm_text">Телефон переведен в режим экстренных обратных вызовов</string>
      <string name="phone_in_ecm_call_notification_text">Передача данных отключена</string>
      <string name="phone_in_ecm_notification_title">Режим экстренных обратных вызовов</string>
+     <string name="phone_info_divider">" ｜ "</string>
      <string name="phone_numbers">Введите телефонные номера</string>
      <string name="pick_outgoing_call_phone_type">Исходящий вызов</string>
      <string name="pick_outgoing_sip_phone">Аккаунт для интернет-вызовов:</string>

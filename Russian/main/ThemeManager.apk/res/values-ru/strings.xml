@@ -24,6 +24,7 @@
      <string name="component_lockstyle_personal_title">Настройки локскрина</string>
      <string name="component_select_title">%1$s элементов</string>
      <string name="component_settings_title">Текущая тема</string>
+     <string name="deleting">Удаление...</string>
      <string name="description_author">Автор:</string>
      <string name="description_designer">Дизайнер:</string>
      <string name="description_download">Скачано:</string>
@@ -47,7 +48,6 @@
      <string name="mi_wallpaper">Mi обои</string>
      <string name="online_no_network">Не удается подключиться к сети</string>
      <string name="online_search_hint">Введите ключевые слова</string>
-     <string name="processing">Обработка...</string>
      <string name="resource_alarm_default">Будильник</string>
      <string name="resource_app_name">Браузер ресурсов</string>
      <string name="resource_apply">Применить</string>
@@ -81,6 +81,8 @@
      <string name="resource_default_name">Ресурс</string>
      <string name="resource_delete_all">Вы уверены, что хотите удалить выбранные ресурсы (%1$d)?</string>
      <string name="resource_delete_confirm">Удалить выбранное?</string>
+     <string name="resource_delta_update_failed">Ошибка обновления, необходимо скачать полностью</string>
+     <string name="resource_delta_update_successful">Обновление завершено, сохраняю в %1$s.</string>
      <string name="resource_detail">Детали</string>
      <string name="resource_download">Скачать</string>
      <string name="resource_downloaded_title">Скачанные</string>
@@ -90,6 +92,7 @@
      <string name="resource_get_auth_exceed_max_limit_title">Превышен предел авторизаций</string>
      <string name="resource_get_auth_missing">Тема не скачана с официального маркета. Пожалуйста, скачайте аналогичную тему из официального маркета.</string>
      <string name="resource_get_auth_retrieving">Получение авторизации...</string>
+     <string name="resource_import_successful">Загрузка завершена.</string>
      <string name="resource_importing">Импортирование</string>
      <string name="resource_list_title">Последние</string>
      <string name="resource_local">Локально %1$s</string>

@@ -37,6 +37,7 @@
         <item>Ухмылка</item>
         <item>Ничего не выражающее лицо</item>
      </string-array>
+     <!-- The size of the array does not match! Now: 3 must: 4 -->
      <string-array name="entries_date_type">
         <item>Время получения</item>
         <item>Время отправки</item>

@@ -65,6 +65,7 @@
      <string name="btn_pay_large">Оплатить</string>
      <string name="btn_prev">Назад</string>
      <string name="btn_query">Узнать сейчас</string>
+     <string name="btn_recharge_confirm">Подтвердите покупку</string>
      <string name="btn_recharge_large">Пополнить</string>
      <string name="btn_recharge_other">Другие методы пополнения</string>
      <string name="btn_recharge_success">Пополнение завершено</string>
@@ -72,6 +73,8 @@
      <string name="btn_voucher">Карта MiCredit (%1$s)</string>
      <string name="btn_wait_call">Ожидание</string>
      <string name="btn_wait_call_count">Ожидание (%1$s)</string>
+     <string name="btn_wait_confirm">Ожидание</string>
+     <string name="btn_wait_confirm_count">Ожидание（%1$s）</string>
      <string name="button_cancel">Отмена</string>
      <string name="button_pay">Оплатить</string>
      <string name="button_recharge">Пополнить</string>
@@ -80,6 +83,8 @@
      <string name="check_phone_io_error">Ошибка сети</string>
      <string name="checking_account">Проверка аккаунта...</string>
      <string name="cloud_messaging">Облачные сообщения</string>
+     <string name="cmcc_data_sync_notice">Используйте свой аккаунт Xiaomi, чтобы синхронизировать сообщения, контакты и другие данные. Между тем, насладитесь облачных сервисов.</string>
+     <string name="cmcc_micloud_dspt">Облачные сервисы включают мобильную синхронизацию, обнаружение устройств и другие функции. Вы также можете управлять своими данными онлайн в любое время!</string>
      <string name="completed">Завершено</string>
      <string name="confirm">Подтвердить</string>
      <string name="current_account">Текущий аккаунт</string>
@@ -151,6 +156,29 @@
      <string name="giftcard_record">MiCredit получено</string>
      <string name="giftcard_value">(Подарочная карта на %1$s MiCredit)</string>
      <string name="header_data_and_synchronization">Данные и синхронизация</string>
+     <string name="hfb_app_name">话付宝</string>
+     <string name="hfb_dialog_exit_content">交易尚未完成，确定放弃交易？</string>
+     <string name="hfb_fail_label">购买失败</string>
+     <string name="hfb_fail_result">"此手机号码暂时无法完成支付，请稍后再试或使用其他支付方式购买，感谢您的支持！
+客服电话：4006125880"</string>
+     <string name="hfb_goods_price_value_format">&lt;font color=red>%1$s&lt;/font>(不含通信费)</string>
+     <string name="hfb_network_progress">正在请求订单，请保持网络通畅</string>
+     <string name="hfb_order_confirm">确认支付</string>
+     <string name="hfb_order_pay">订单支付</string>
+     <string name="hfb_return">返 回</string>
+     <string name="hfb_sms1_progress_label">正在以短信提交订单，请稍候......</string>
+     <string name="hfb_sms2_progress_label">正在以短信形式确认支付，请稍候......</string>
+     <string name="hfb_sms_error">短信发送失败！</string>
+     <string name="hfb_sms_pay">您的订单已提交，点击“确认支付”即同意再次向10658008发送短信以完成购买。</string>
+     <string name="hfb_succ_label">购买成功</string>
+     <string name="hfb_succ_result">"感谢您使用通信账户支付服务。
+购买【%1$s】费用为【%2$s元】
+客服电话：%3$s"</string>
+     <string name="hfb_trans_error_label">未查到支付结果，请保持网络通畅</string>
+     <string name="hfb_trans_result_progress_label">正在查询支付结果....</string>
+     <string name="hfb_umpay_info">* 10658008是中国移动通信账户支付专用短信特服号码</string>
+     <string name="hfb_upgrade_download_fail">新版本下载失败，请稍后再试.</string>
+     <string name="hfb_upgrade_download_sucess">新版本下载成功,开始安装.</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="i_know">OK</string>
      <string name="input_password_hint">Введите пароль</string>
@@ -355,19 +383,28 @@
      <string name="mili_center">MiCredit</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="msg_denomination_type">MiCredit</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="msg_error">SMS recharge failed</string>
+     <string name="msg_error">Ошибка пополнения через SMS</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="msg_picker_hint_1_1">1.</string>
-     <string name="msg_picker_hint_1_2">SMS recharge method costs more to charge, so 2 RMB = 1 MiCredit</string>
+     <string name="msg_picker_hint_1_2">Пополнение через SMS стоит дороже 2 RMB = 1 MiCredit</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="msg_picker_hint_2_1">2.</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="msg_picker_hint_2_2">With each SMS recharge, carriers charge 0.1 RMB service fee</string>
+     <string name="msg_picker_hint_2_2">С каждой оплатой по SMS, операторы снимают 0.1 RMB</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="msg_picker_hint_3_1">3.</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="msg_picker_hint_3_2">Maximum monthly recharge of 300 rmb only</string>
+     <string name="msg_picker_hint_3_2">Максимальное пополнение - 300 rmb за месяц</string>
+     <string name="msg_send_no_net_error">Не удалось отправить сообщение: Не удается подключиться к вашей сети провайдера.</string>
+     <string name="msg_send_no_sim_error">Не удалось отправить сообщение: попробуйте снова вставить карту оператора связи.</string>
+     <string name="msg_send_send_fail_error">Не удалось отправить сообщение</string>
+     <string name="msg_telecom_order_denom">%1s юаней（не включает в себя мобильную сеть）</string>
+     <string name="msg_telecom_order_denom_label">Сумма:</string>
+     <string name="msg_telecom_order_goods">%1sMiCredit</string>
+     <string name="msg_telecom_order_goods_label">Описание товара:</string>
+     <string name="msg_telecom_picker_hint_1_1">После касания Подтвердите покупку, ваш телефон будет</string>
+     <string name="msg_telecom_picker_hint_1_2">автоматически получить у поставщика услуг.</string>
+     <string name="msg_telecom_picker_hint_2_1">Ваша телефонная компания была уведомлена!</string>
+     <string name="msg_telecom_picker_hint_2_2">Вы получите текстовое подтверждение вскоре.</string>
+     <string name="msg_telecom_sending">Обращение к сети провайдера…</string>
      <string name="my_mili_record">Мой MiCredit</string>
      <string name="my_xiaomi_account">Мой аккаунт Xiaomi</string>
      <string name="next">Далее</string>
@@ -472,6 +509,7 @@
      <string name="sync_on">Вкл.</string>
      <string name="sync_sub_dspt">Для активации сервиса будет отправлено SMS</string>
      <string name="sync_sub_int_dspt">Для активации сервиса будет отправлено международное SMS</string>
+     <string name="title">название</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="title_mili_center">MiCredit</string>
      <string name="title_pay">Оплата MiCredits</string>
@@ -491,6 +529,7 @@
      <string name="user_agreement_p4">Политикой безопасности</string>
      <string name="user_agreement_p5">"Регистрируясь, Вы соглашаетесь с
  "</string>
+     <string name="value">Значение</string>
      <string name="voucher_edit_hint">Пароль</string>
      <string name="voucher_edit_limit">только цифры</string>
      <string name="voucher_error_code">Неверный пароль карты MiCredit</string>

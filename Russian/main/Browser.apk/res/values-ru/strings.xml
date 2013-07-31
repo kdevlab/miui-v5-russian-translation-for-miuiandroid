@@ -141,12 +141,14 @@
      <string name="contextmenu_set_wallpaper">Установить как фоновый рисунок</string>
      <string name="contextmenu_sharelink">Отправить ссылку</string>
      <string name="contextmenu_view_image">Просмотр изображения</string>
+     <string name="copy_link">копировать ссылку</string>
      <string name="copy_page_url">Скопировать URL страницы</string>
      <string name="crash_recovcery_message">Браузер был завершен с ошибкой. Вы хотите восстановить последнюю сессию?</string>
      <string name="create_shortcut_bookmark">Ярлык на рабочий стол</string>
      <string name="current_page">"на "</string>
      <string name="defaultBookmarksUpButton">Закладки</string>
      <string name="delete">Удалить</string>
+     <string name="delete_bookmark">удалить закладку</string>
      <string name="delete_bookmark_warning">Удалить закладку \"%s\"?</string>
      <string name="delete_folder">Удалить папку</string>
      <string name="delete_multi_bookmarks_alert_title">Вы уверены, что хотите удалить эти закладки (%1$s)?</string>
@@ -158,6 +160,10 @@
      <string name="download">Загрузить</string>
      <string name="download_complete">Загрузка файла завершена</string>
      <string name="download_default_path_txt">Установить путь сохранения по умолчанию и больше не спрашивать</string>
+     <string name="download_dialog_file_length_hint_txt">Размер шрифта:</string>
+     <string name="download_dialog_file_length_lessthan1kb">Менее чем 1K</string>
+     <string name="download_dialog_file_length_nolength_error_txt">Получить не удалось</string>
+     <string name="download_dialog_file_length_nolength_txt">Получение...</string>
      <string name="download_failed">Ошибка загрузки</string>
      <string name="download_no_sdcard_dlg_msg">Для загрузки файла %s требуется USB-накопитель.</string>
      <string name="download_no_sdcard_dlg_title">USB-накопитель недоступен</string>
@@ -252,12 +258,16 @@
      <string name="local_bookmarks">Локальные</string>
      <string name="location">Адрес</string>
      <string name="max_tabs_warning">Достигнут предел количества вкладок</string>
+     <string name="menu_addtodesk">Добавить на рабочий стол</string>
      <string name="menu_disable_night_mode">Выключить ночной режим</string>
      <string name="menu_enable_night_mode">Включить ночной режим</string>
      <string name="menu_exit">Выход</string>
+     <string name="menu_hv_swap">В ландшафтный режим</string>
+     <string name="menu_hv_swap2">В портретный режим</string>
      <string name="menu_preferences">Настройки</string>
      <string name="menu_save_snapshot">Сохранить страницу</string>
      <string name="menu_share_url">Отправить</string>
+     <string name="menu_theme_setting">Настройки темы</string>
      <string name="menu_view_download">Загрузки</string>
      <string name="move_to_up_folder">на уровень выше</string>
      <string name="multi_select_title">Выбрано %1$s закладок</string>
@@ -300,9 +310,11 @@
      <string name="pref_clear_cache_for_exit">Очищать кэш</string>
      <string name="pref_clear_history_for_exit">Очищать историю</string>
      <string name="pref_confirm_for_exit">Подтверждать выход</string>
+     <string name="pref_content_auto_light_mode">автоматическая яркость</string>
      <string name="pref_content_autofit">Мобильный вид</string>
      <string name="pref_content_autofit_summary">Подгонять веб-страницы под размер экрана</string>
      <string name="pref_content_block_popups">Блокировать всплывающие окна</string>
+     <string name="pref_content_fontsize_setting">Настройки шрифта</string>
      <string name="pref_content_homepage">Стартовая страница</string>
      <string name="pref_content_javascript">Разрешить JavaScript</string>
      <string name="pref_content_load_images">Загрузка графики</string>
@@ -444,7 +456,16 @@
      <string name="preview">Предварительный просмотр</string>
      <string name="progress_dialog_setting_wallpaper">Установка обоев...</string>
      <string name="quicklinks_management">Полезные сайты</string>
+     <string name="readmode_already_add_to_bookshelf">Уже добавлено на книжную полку</string>
+     <string name="readmode_login">аккаунт</string>
+     <string name="readmode_login_message">необходимо войти перед просмотром следующих глав</string>
+     <string name="readmode_page_load_error">Загрузка страницы не удалась, нажмите Обновить и попробуйте снова</string>
+     <string name="readmode_page_loading">Загрузка...</string>
+     <string name="readmode_pay">Подписаться на главу</string>
+     <string name="readmode_pay_message">Последующие главы требует абонентской платы для просмотра</string>
      <string name="readmode_reach_last_page">Достигнута последняя страница</string>
+     <string name="readmode_recommend">рекоммендуемые</string>
+     <string name="readmode_recommend_message">"Вы прочитали все разделы книги, переключитесь сейчас"</string>
      <string name="readmodelist_bookmarks_to_show">Список чтения</string>
      <string name="recover">Восстановить</string>
      <string name="recover_from_crash">Восстановить последнюю сессию</string>
@@ -461,26 +482,44 @@
      <string name="same_bookmarks_warning">Эта закладка уже существует</string>
      <string name="same_folder_name_warning">Эта папка уже существует</string>
      <string name="save">ОК</string>
+     <string name="save_bookmark">сохранить закладку</string>
      <string name="save_dialog_title">Сохранить</string>
      <string name="save_file_already_exist_alert_message">"Файл уже существует. 
 Перезаписать его?"</string>
      <string name="save_file_already_exist_alert_title">Внимание</string>
      <string name="save_to_bookmarks">Добавить закладку</string>
      <string name="saving_snapshot">Сохраняется...</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="search">Search</string>
      <string name="search_button_text">Поиск</string>
      <string name="search_cancel">Отмена</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="search_dianping">Cate</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="search_easou">Easou</string>
      <string name="search_hint">Поиск</string>
      <string name="search_label">Браузер</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="search_s139">139</string>
      <string name="search_settings_description">Закладки и история поиска</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="search_shipin">Video</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="search_sogou">Segou</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="search_taobao">Taobao</string>
      <string name="search_the_web">Поиск в Интернете</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="search_tupian">Image</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="search_yahoo">Yahoo</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="search_yicha">Yicha</string>
      <string name="security_warning">Угроза безопасности</string>
      <string name="select_dot">Выбрать текст</string>
      <string name="selection_all">Выбрать все</string>
      <string name="send_bookmark_to_home_screen">Создать ярлык на рабочем столе</string>
+     <string name="send_to_desktop">на рабочий стол</string>
      <string name="set_as_homepage">Сделать главной страницей</string>
      <string name="share_link">Поделиться</string>
      <string name="share_page">Поделиться ссылкой</string>
