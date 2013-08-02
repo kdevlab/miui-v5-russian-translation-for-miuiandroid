@@ -575,8 +575,8 @@
      <string name="missed_call_notify_times_summary_miui">Напоминать о звонке каждые пять минут</string>
      <string name="missed_call_notify_times_title_miui">Напоминать о пропущенных звонках</string>
      <string name="missed_call_notify_twice_miui">Два раза</string>
-     <string name="mmiCancelled">Код MMI отменен</string>
-     <string name="mmiStarted">Код MMI запущен</string>
+     <string name="mmiCancelled">Запрос отменен</string>
+     <string name="mmiStarted">Выполняется запрос</string>
      <string name="mobile_network_setting">Настройки мобильной сети</string>
      <string name="mobile_networks">Настройки сотовой сети</string>
      <string name="mobile_networks_miui">Мобильная сеть</string>
@@ -747,7 +747,7 @@
      <string name="preferred_network_mode_cdma_evdo_summary">Предпочтительная сеть: CDMA/EvDo</string>
      <string name="preferred_network_mode_cdma_only_summary">Предпочтительная сеть: только CDMA</string>
      <string name="preferred_network_mode_cdma_summary">Предпочтительная сеть: CDMA</string>
-     <string name="preferred_network_mode_dialogtitle">Предпочтительный режим сети</string>
+     <string name="preferred_network_mode_dialogtitle">Предпочтительные сети</string>
      <string name="preferred_network_mode_evdo_only_summary">Предпочтительная сеть: только EvDo</string>
      <string name="preferred_network_mode_global_summary">Предпочтительный тип сети: Глобальная</string>
      <string name="preferred_network_mode_gsm_only_summary">Предпочтительная сеть: только GSM</string>
