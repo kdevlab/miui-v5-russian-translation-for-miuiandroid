@@ -141,14 +141,14 @@
      <string name="contextmenu_set_wallpaper">Установить как фоновый рисунок</string>
      <string name="contextmenu_sharelink">Отправить ссылку</string>
      <string name="contextmenu_view_image">Просмотр изображения</string>
-     <string name="copy_link">копировать ссылку</string>
+     <string name="copy_link">ссылка</string>
      <string name="copy_page_url">Скопировать URL страницы</string>
      <string name="crash_recovcery_message">Браузер был завершен с ошибкой. Вы хотите восстановить последнюю сессию?</string>
      <string name="create_shortcut_bookmark">Ярлык на рабочий стол</string>
      <string name="current_page">"на "</string>
      <string name="defaultBookmarksUpButton">Закладки</string>
      <string name="delete">Удалить</string>
-     <string name="delete_bookmark">удалить закладку</string>
+     <string name="delete_bookmark">из избранного</string>
      <string name="delete_bookmark_warning">Удалить закладку \"%s\"?</string>
      <string name="delete_folder">Удалить папку</string>
      <string name="delete_multi_bookmarks_alert_title">Вы уверены, что хотите удалить эти закладки (%1$s)?</string>
@@ -482,7 +482,7 @@
      <string name="same_bookmarks_warning">Эта закладка уже существует</string>
      <string name="same_folder_name_warning">Эта папка уже существует</string>
      <string name="save">ОК</string>
-     <string name="save_bookmark">сохранить закладку</string>
+     <string name="save_bookmark">в избранное</string>
      <string name="save_dialog_title">Сохранить</string>
      <string name="save_file_already_exist_alert_message">"Файл уже существует. 
 Перезаписать его?"</string>
@@ -522,7 +522,7 @@
      <string name="send_to_desktop">на рабочий стол</string>
      <string name="set_as_homepage">Сделать главной страницей</string>
      <string name="share_link">Поделиться</string>
-     <string name="share_page">Поделиться ссылкой</string>
+     <string name="share_page">Поделиться</string>
      <string name="shortcut_bookmark">Закладка</string>
      <string name="shortcut_bookmark_title">Выберите закладку</string>
      <string name="sign_in_to" formatted="false">Войти в %s1 \"%s2\"</string>
