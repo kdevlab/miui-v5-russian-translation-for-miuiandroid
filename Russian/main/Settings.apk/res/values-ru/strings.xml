@@ -2361,24 +2361,24 @@
      <string name="wifi_share_action_turn_on_summary">Пожалуйста, войтите в аккаунт Xiaomi</string>
      <string name="wifi_share_add">Мои сети Wi-Fi</string>
      <string name="wifi_share_add_summary">"При совместном использовании общественных Wi-Fi сетей,
-вы можете использовать другие сети пользователей"</string>
+Вы можете использовать другие сети пользователей"</string>
      <string name="wifi_share_connect">Подключить</string>
      <string name="wifi_share_connected_summary">"Вы подключены к общественной Wi-Fi сети, которая доступна другим пользователем"</string>
      <string name="wifi_share_connected_title">Общая сеть Wi-Fi подключенная через MIUI</string>
      <string name="wifi_share_count">Вы поделились %d сетями</string>
      <string name="wifi_share_current_network">Текущая сеть</string>
      <string name="wifi_share_know">ОК</string>
-     <string name="wifi_share_login">Поделится паролем к этой Wi-Fi</string>
-     <string name="wifi_share_login_summary">Если это публичная сеть, вы можете поделиться ей с другими пользователями MIUI.</string>
-     <string name="wifi_share_notification_summary">MIUI подключил вас к защищенной паролем сети</string>
+     <string name="wifi_share_login">Поделиться паролем к этой Wi-Fi</string>
+     <string name="wifi_share_login_summary">Если это публичная сеть, Вы можете поделиться ею с другими пользователями MIUI</string>
+     <string name="wifi_share_notification_summary">MIUI подключила Вас к защищенной паролем сети</string>
      <string name="wifi_share_other_network">Другие сети</string>
      <string name="wifi_share_qrcode_finish">Готово</string>
      <string name="wifi_share_qrcode_summary">Используйте камеру MIUI для сканирования QR-кода</string>
      <string name="wifi_share_qrcode_title">Поделиться Wi-Fi</string>
      <string name="wifi_share_show_network">Показать сети</string>
-     <string name="wifi_share_summary1">"Пользователи MIUI могут делиться защищенными сетями Wi-Fi. "</string>
-     <string name="wifi_share_summary2">Если другой пользователь MIUI делится сетями, вы можете напрямую подключиться к этой сети без использования пароля.</string>
-     <string name="wifi_share_summary3">Верните, поделившись своим общественным Wi-Fi сетей с каждым.</string>
+     <string name="wifi_share_summary1">"Пользователи MIUI могут делиться защищенными сетями Wi-Fi "</string>
+     <string name="wifi_share_summary2">Если другой пользователь MIUI делится сетями, Вы можете напрямую подключиться к этой сети без использования пароля</string>
+     <string name="wifi_share_summary3">Верните, поделившись своим общественным Wi-Fi сетей с каждым</string>
      <string name="wifi_share_turn_off">выключено</string>
      <string name="wifi_share_turn_on">включено</string>
      <string name="wifi_share_upload">Поделиться</string>
