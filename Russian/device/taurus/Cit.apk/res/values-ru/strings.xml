@@ -114,6 +114,7 @@
      <string name="cit_lcdlight_brightness_max">Ярко</string>
      <string name="cit_lcdlight_brightness_min">Темно</string>
      <string name="cit_leds_check_summary">Проверка подсветки, индикатора и вспышки</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="cit_leds_check_title">LED</string>
      <string name="cit_light_sensor_check_summary">Датчик освещенности, уровень яркости окружающего пространства</string>
      <string name="cit_light_sensor_check_title">Проверка датчика освещенности</string>
@@ -164,6 +165,7 @@
      <string name="cit_sim_sim_operator">Код поставщика SIM:</string>
      <string name="cit_sim_sim_operator_name">Имя поставщика SIM:</string>
      <string name="cit_sim_state_absent">Нет SIM-карты</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="cit_sim_state_network_locked">PIN</string>
      <string name="cit_sim_state_pin_required">Требуется PIN-код</string>
      <string name="cit_sim_state_puk_required">Требуется PUK-код</string>
@@ -172,12 +174,14 @@
      <string name="cit_start_calibration">Начало калибровки</string>
      <string name="cit_stop_calibration">Конец калибровки</string>
      <string name="cit_tool">Инструменты</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="cit_tool_bluetooth">Bluetooth</string>
      <string name="cit_tool_bluetooth_mode">Режим</string>
      <string name="cit_tool_bluetooth_off">Выключить</string>
      <string name="cit_tool_bluetooth_on">Включить</string>
      <string name="cit_tool_log">Отчеты</string>
      <string name="cit_tool_log_bugreport">Отчет об ошибке</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="cit_tool_log_dmesg">DMESG</string>
      <string name="cit_tool_log_file_not_exist">файл %s не существует</string>
      <string name="cit_tool_log_generate_bugreport">Сообщение об ошибке генерируется...</string>
@@ -255,7 +259,9 @@
      <string name="cit_vibrator_check_title">Проверка виброзвонка</string>
      <string name="cit_vibrator_don_don_chat">Пульсация</string>
      <string name="cit_vibrator_haptic">Нарастающая вибрация</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="cit_vibrator_load_down_pattern">Down Pattern</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="cit_vibrator_load_up_pattern">UP Pattern</string>
      <string name="cit_vibrator_long">Длинные</string>
      <string name="cit_vibrator_play_touch_pattern">Шок (не нажимать)</string>

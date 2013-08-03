@@ -29,6 +29,7 @@
      <string name="confirm_location_message">Камера может сохранять отметки о Вашем местонахождении. Включить эту функцию?</string>
      <string name="confirm_restore_message">Восстановить настройки по умолчанию?</string>
      <string name="confirm_restore_title">Восстановить настройки по умолчанию</string>
+     <string name="connect_wifi">Подключиться к Wi-Fi</string>
      <string name="contact_address">Адрес</string>
      <string name="contact_birthday">День рождения</string>
      <string name="contact_company">Компания</string>
@@ -39,7 +40,7 @@
      <string name="contact_note">Заметка</string>
      <string name="contact_phone">Телефон</string>
      <string name="contact_title">Звание</string>
-     <string name="contact_web">Web</string>
+     <string name="contact_web">Интернет</string>
      <string name="copy_text">Копировать</string>
      <string name="copy_text_success">Успешно скопировано</string>
      <string name="crop_saved">Изображение сохранено в %s</string>
@@ -48,9 +49,12 @@
      <string name="description">Описание</string>
      <string name="details">Свойства</string>
      <string name="details_title">%1$d из %2$d:</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="dialog_ok">OK</string>
      <string name="disable_video_snapshot_hint">Невозможно сделать снимок при включенных эффектах</string>
      <string name="download_by_browser">Скачано через браузер</string>
+     <string name="download_qq">Загрузить QQ</string>
+     <string name="download_wechat">Загрузить WeChat</string>
      <string name="duration">Продолжительность</string>
      <string name="edit">Редактировать</string>
      <string name="effect_backdropper_disco">Диско</string>
@@ -76,8 +80,10 @@
      <string name="find_market_qrcode">Найден QR-код маркета</string>
      <string name="find_mecard_qrcode">Найден QR-код контакта</string>
      <string name="find_other_qrcode">Найден код</string>
+     <string name="find_qq_qrcode">Найден QR-код QQ</string>
      <string name="find_web_qrcode">Найден QR-код ссылки</string>
-     <string name="find_weixin_qrcode">Найден QR-код Weixin</string>
+     <string name="find_wechat_qrcode">Найден QR-код WeChat</string>
+     <string name="find_wifi_qrcode">Найден QR-код Wi-Fi</string>
      <string name="flash">Вспышка</string>
      <string name="flash_off">Вспышка выкл</string>
      <string name="flash_on">Вспышка вкл</string>
@@ -98,8 +104,11 @@
      <string name="import_complete">Импорт завершен</string>
      <string name="import_contact">Импорт контакта</string>
      <string name="import_fail">Импорт не удался</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="iso">ISO</string>
      <string name="launch_market">Запустить MiStore</string>
+     <string name="launch_qq">Запустить QQ через браузер</string>
+     <string name="launch_wechat">Запустить WeChat</string>
      <string name="loading">Загрузка…</string>
      <string name="loading_video">Загрузка видео…</string>
      <string name="location">Местоположение</string>
@@ -113,6 +122,7 @@
      <string name="no_thumbnail">Нет миниатюр</string>
      <string name="not_enough_space">Ваша SD-карта заполнена</string>
      <string name="not_selectable_in_scene_mode">Недоступно в режиме съёмки</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="ok">OK</string>
      <string name="orientation">Ориентация</string>
      <string name="pano_dialog_panorama_failed">Не удалось сохранить панораму</string>
@@ -131,10 +141,13 @@
      <string name="pref_camcorder_settings_category">Настройки видеокамеры</string>
      <string name="pref_camera_ae_bracket_hdr_default">Выкл</string>
      <string name="pref_camera_ae_bracket_hdr_entry_ae_bracket">AE-Bracket</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="pref_camera_ae_bracket_hdr_entry_hdr">HDR</string>
      <string name="pref_camera_ae_bracket_hdr_entry_off">Выкл</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="pref_camera_ae_bracket_hdr_title">HDR</string>
      <string name="pref_camera_ae_bracket_hdr_value_ae_bracket">AE-Bracket</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="pref_camera_ae_bracket_hdr_value_hdr">HDR</string>
      <string name="pref_camera_ae_bracket_hdr_value_off">Выкл</string>
      <string name="pref_camera_antibanding_entry_0">Выкл</string>
@@ -143,12 +156,16 @@
      <string name="pref_camera_antibanding_entry_3">Авто</string>
      <string name="pref_camera_antibanding_title">Устранение полос</string>
      <string name="pref_camera_audio_capture_title">Голос</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="pref_camera_audioencoder_default">aac</string>
      <string name="pref_camera_auto_focus_title_entry_off">Выкл</string>
      <string name="pref_camera_auto_focus_title_entry_on">Вкл</string>
      <string name="pref_camera_autoexposure_entry_centerweighted">Взвешенная по центру</string>
      <string name="pref_camera_autoexposure_entry_frameaverage">Средняя по кадру</string>
      <string name="pref_camera_autoexposure_entry_spotmetering">Точка</string>
      <string name="pref_camera_autoexposure_title">Выберите режим экспозиции</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="pref_camera_coloreffect_default">none</string>
      <string name="pref_camera_coloreffect_entry_aqua">Вода</string>
      <string name="pref_camera_coloreffect_entry_mono">Моно</string>
      <string name="pref_camera_coloreffect_entry_negative">Негатив</string>
@@ -156,13 +173,15 @@
      <string name="pref_camera_coloreffect_entry_posterize">Постер</string>
      <string name="pref_camera_coloreffect_entry_sepia">Сепия</string>
      <string name="pref_camera_coloreffect_title">Эффекты</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="pref_camera_contrast_default">5</string>
      <string name="pref_camera_contrast_entry_level0">Уровень 0</string>
      <string name="pref_camera_contrast_entry_level1">Уровень 1</string>
      <string name="pref_camera_contrast_entry_level10">Уровень 10</string>
      <string name="pref_camera_contrast_entry_level2">Уровень 2</string>
      <string name="pref_camera_contrast_entry_level3">Уровень 3</string>
      <string name="pref_camera_contrast_entry_level4">Уровень 4</string>
-     <string name="pref_camera_contrast_entry_level5">Уровень 5(по умолчанию)</string>
+     <string name="pref_camera_contrast_entry_level5">Уровень 5 (по умолчанию)</string>
      <string name="pref_camera_contrast_entry_level6">Уровень 6</string>
      <string name="pref_camera_contrast_entry_level7">Уровень 7</string>
      <string name="pref_camera_contrast_entry_level8">Уровень 8</string>
@@ -184,7 +203,7 @@
      <string name="pref_camera_focusmode_entry_macro">Макро</string>
      <string name="pref_camera_focusmode_entry_normal">Нормально</string>
      <string name="pref_camera_focusmode_title">Режим фокусировки</string>
-     <string name="pref_camera_hand_night_title">HHT</string>
+     <string name="pref_camera_hand_night_title">Сумерки</string>
      <string name="pref_camera_hfr_entry_off">Выкл</string>
      <string name="pref_camera_hfr_title">Частота кадров видео в режиме замедления</string>
      <string name="pref_camera_histogram_entry_disable">Выкл</string>
@@ -207,9 +226,9 @@
      <string name="pref_camera_movie_solid_value_on">Вкл</string>
      <string name="pref_camera_panoramamode_title">Панорама</string>
      <string name="pref_camera_picture_format_title">Формат изображений</string>
-     <string name="pref_camera_picturesize_entry_1280x720">0.9M Мегапикселей</string>
+     <string name="pref_camera_picturesize_entry_1280x720">0.9 Мегапикселей</string>
      <string name="pref_camera_picturesize_entry_1920x1080">2 Мегапикселей</string>
-     <string name="pref_camera_picturesize_entry_3200x1800">6M Мегапикселей</string>
+     <string name="pref_camera_picturesize_entry_3200x1800">6 Мегапикселей</string>
      <string name="pref_camera_picturesize_entry_3200x2400">8 Мегапикселей</string>
      <string name="pref_camera_picturesize_entry_4208x2368">Полный экран 16:9</string>
      <string name="pref_camera_picturesize_entry_4208x3120">13 Мегапикселей</string>
@@ -289,6 +308,7 @@
      <string name="pref_camera_touchafaec_entry_off">Выкл</string>
      <string name="pref_camera_touchafaec_entry_on">Вкл</string>
      <string name="pref_camera_touchafaec_title">АФ/АС по нажатию</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="pref_camera_video_duration_default">10</string>
      <string name="pref_camera_video_duration_entry_10">10 минут</string>
      <string name="pref_camera_video_duration_entry_120">2 часа</string>
@@ -300,11 +320,29 @@
      <string name="pref_camera_volumekey_function_entry_volume">Звук</string>
      <string name="pref_camera_volumekey_function_entry_zooming">Увеличение</string>
      <string name="pref_camera_volumekey_function_title">Настройка клавиш громкости</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="pref_camera_watermark_default">Off</string>
+     <string name="pref_camera_watermark_entry_off">Выкл.</string>
+     <string name="pref_camera_watermark_entry_on">Вкл.</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="pref_camera_watermark_entryvalue_off">Off</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="pref_camera_watermark_entryvalue_on">On</string>
+     <string name="pref_camera_watermark_title">Дата на фотографии</string>
      <string name="pref_camera_whitebalance_entry_auto">Авто</string>
      <string name="pref_camera_whitebalance_entry_cloudy">Пасмурно</string>
      <string name="pref_camera_whitebalance_entry_daylight">Дневной свет</string>
      <string name="pref_camera_whitebalance_entry_fluorescent">Лампа дневного света</string>
      <string name="pref_camera_whitebalance_entry_incandescent">Лампа накаливания</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="pref_camera_whitebalance_entryvalue_auto">auto</string>
+     <string name="pref_camera_whitebalance_entryvalue_cloudy">cloudy-daylight</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="pref_camera_whitebalance_entryvalue_daylight">daylight</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="pref_camera_whitebalance_entryvalue_fluorescent">fluorescent</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="pref_camera_whitebalance_entryvalue_incandescent">incandescent</string>
      <string name="pref_camera_whitebalance_k_value_title">Цветовая температура</string>
      <string name="pref_camera_whitebalance_title">Баланс белого</string>
      <string name="pref_camera_zsl_entry_off">Выкл</string>
@@ -318,10 +356,12 @@
      <string name="pref_grp_picture_settings">Настройки фотографий</string>
      <string name="pref_grp_restore_settings">Сброс настроек</string>
      <string name="pref_settings_mode">Режим камеры</string>
-     <string name="pref_video_captrue_ability_title">Возможность захвата</string>
-     <string name="pref_video_continuous_focus">Непрерывный фокус</string>
-     <string name="pref_video_continuous_focus_entry_off">Выкл</string>
-     <string name="pref_video_continuous_focus_entry_on">Вкл</string>
+     <string name="pref_video_captrue_ability_title">Фото при съемке</string>
+     <string name="pref_video_focusmode_entry_auto">Нажатие</string>
+     <string name="pref_video_focusmode_entry_continuous">Непрерывный</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="pref_video_focusmode_entryvalue_default">auto</string>
+     <string name="pref_video_focusmode_title">Режим фокусировки</string>
      <string name="pref_video_quality_title">Качество видео</string>
      <string name="pref_video_slow_speed_title_simple_mode">Замедление</string>
      <string name="pref_video_speed_entry_fast">Быстро</string>
@@ -343,6 +383,7 @@
      <string name="pref_video_time_lapse_frame_interval_entry_900">Интервал 30 секунд (900 раз)</string>
      <string name="pref_video_time_lapse_frame_interval_title">Интервал замедленной съемки</string>
      <string name="preparing_sd">Подготовка внутреннего хранилища…</string>
+     <string name="qq_details">QQ:</string>
      <string name="qr_code_details">Текст:</string>
      <string name="record_back_pressed_hint">Нажмите снова, чтобы остановить запись</string>
      <string name="resume_playing_message">Возобновить воспроизведение с %s ?</string>
@@ -386,7 +427,8 @@
      <string name="spaceIsLow_content">Место на Вашей SD-карте заканчивается. Измените настройки качества или удалите ненужные изображения и другие файлы.</string>
      <string name="success_message_import_from_account">Успешно импортировано</string>
      <string name="tags">Теги</string>
-     <string name="tap_to_focus">Нажмите для фокусировки</string>
+     <string name="tap_to_exposure">Ручная регулировка экспозиции</string>
+     <string name="tap_to_focus">Фокусировка</string>
      <string name="time">Время</string>
      <string name="time_lapse_error">Невозможно снять видео в режиме замедления при данном разрешении</string>
      <string name="times">Время</string>
@@ -408,10 +450,16 @@
      <string name="web_url_apk_warning">QR-код содержит приложение для загрузки, что может быть опасно. Мы рекомендуем Вам использовать маркет для поиска и установки приложений.</string>
      <string name="web_url_warning">Веб-сайт в QR-коде может быть опасен, браузер безопасно проверит его для вас. Соблюдайте осторожность.</string>
      <string name="website_details">Ссылка:</string>
-     <string name="weixin_details">Свойства Weixin:</string>
+     <string name="wechat_details">WeChat:</string>
      <string name="white_balance">Баланс белого</string>
      <string name="width">Ширина</string>
-     <string name="pref_camera_watermark_title">Дата на фотографии</string>
-     <string name="pref_camera_watermark_entry_off">Выкл.</string>
-     <string name="pref_camera_watermark_entry_on">Вкл.</string>
+     <string name="wifi_connect_fail">Время подключения к Wi-Fi вышло или произошла ошибка</string>
+     <string name="wifi_connect_success">Подключено к Wi-Fi</string>
+     <string name="wifi_connecting">Подключение к Wi-Fi...</string>
+     <string name="wifi_details">Wi-Fi:</string>
+     <string name="wifi_open_fail">Не возможно открыть Wi-Fi</string>
+     <string name="wifi_pwd">Пароль:</string>
+     <string name="wifi_security">Защита:</string>
+     <string name="wifi_ssid">SSID:</string>
+     <string name="wifi_warning">Пожалуйста, убедитесь, что это безопасно перед подключением к этой Wi-Fi</string>
 </resources>
