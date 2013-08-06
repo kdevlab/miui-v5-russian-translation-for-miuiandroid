@@ -238,6 +238,7 @@ SMS (%1$d), MMS (%2$d)"</string>
      <string name="notification_multiple">Непрочитанных сообщений: %s</string>
      <string name="notification_multiple_title">Новые сообщения</string>
      <string name="number_add_hint">Введите номер, чтобы добавить к частным контактам</string>
+     <string name="overwrite_edited_content">Перезапишет весь отредактированный контент, продолжить?</string>
      <string name="phrase_confirm_delete_message">Удалить шаблоны</string>
      <string name="phrase_empty">Нет фразы</string>
      <string name="phrase_from">От %1s</string>

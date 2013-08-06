@@ -52,7 +52,6 @@
      <string name="install_file_explorer">Пожалуйста, установите файловый мнеджер</string>
      <string name="install_qq">Установить Tencent weibo</string>
      <string name="install_rom_from_sd">Выбрать прошивку с SD-карты</string>
-     <string name="install_sina">Установить Sina weibo</string>
      <string name="install_whole_rom">Рекомендуется скачать полную прошивку</string>
      <string name="internal_build">внутренняя сборка</string>
      <string name="loading">Загрузка MIUI</string>
@@ -114,6 +113,11 @@
 Более %2$s пользователей установили MIUI %3$s."</string>
      <string name="sign_in_info_total_more">"Ваш номер рейтинга обновления более %1$s
 Более %2$s пользователей установили MIUI %3$s."</string>
+     <string name="sina_share_fail">Ошибка отправки!</string>
+     <string name="sina_share_pendding">Отправка...</string>
+     <string name="sina_share_success">Отправка завершена!</string>
+     <string name="sina_token_expired_warning">Срок аккаунта Weibo истек, переподключитесь</string>
+     <string name="sina_token_invalid_warning">Ошибка в аккаунте Weibo, переподключитесь</string>
      <string name="stable_build">стабильная</string>
      <string name="start_update">Начать обновление</string>
      <string name="submit">Отправить</string>

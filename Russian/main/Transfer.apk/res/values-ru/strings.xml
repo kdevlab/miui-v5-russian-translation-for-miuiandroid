@@ -20,6 +20,7 @@
      <string name="editmode_menu_delete">Удалить</string>
      <string name="editmode_menu_share">Поделиться</string>
      <string name="error_bad_file">Поврежденный файл</string>
+     <string name="error_connect_service">Не удается подключиться к службе передачи</string>
      <string name="error_download">Ошибка загрузки</string>
      <string name="error_general">Ошибка</string>
      <string name="error_network">Ошибка сети</string>
@@ -109,6 +110,7 @@
      <string name="title_step_three">3. Неограниченный обмен файлов с друзьями.</string>
      <string name="title_step_two">2. Пользователи других прошивок могут использовать приложение AnyShare.</string>
      <string name="transfer_history">История</string>
+     <string name="trasfer_list">Список передач</string>
      <string name="use_start">Начать</string>
      <string name="voice_assist_match">Быстрые автосоответствия</string>
      <string name="voice_match">Быстрые соответствия</string>

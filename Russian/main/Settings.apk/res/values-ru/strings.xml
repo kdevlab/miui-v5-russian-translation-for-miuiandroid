@@ -2368,6 +2368,7 @@
      <string name="wifi_share_count">Вы поделились %d сетями</string>
      <string name="wifi_share_current_network">Текущая сеть</string>
      <string name="wifi_share_know">ОК</string>
+     <string name="wifi_share_list_empty">Нет публичного Wi-Fi</string>
      <string name="wifi_share_login">Поделиться паролем к этой Wi-Fi</string>
      <string name="wifi_share_login_summary">Если это публичная сеть, Вы можете поделиться ею с другими пользователями MIUI</string>
      <string name="wifi_share_notification_summary">MIUI подключила Вас к защищенной паролем сети</string>

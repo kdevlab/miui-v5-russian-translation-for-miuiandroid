@@ -2,6 +2,7 @@
 <!-- Builded with CloudBuildr -->
 <resources>
      <string name="agree">Принимаю</string>
+     <string name="all_numbers">Все номера</string>
      <string name="app_label">Желтые страницы</string>
      <string name="callrecordview_item_newcontact">Новый контакт</string>
      <string name="callrecordview_item_op_time_minutes_seconds">%1$d мин. %2$d сек.</string>
