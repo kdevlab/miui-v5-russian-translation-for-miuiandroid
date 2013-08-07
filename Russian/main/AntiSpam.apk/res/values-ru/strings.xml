@@ -97,7 +97,9 @@
      <string name="st_mute_all">Вызовы и сообщения без звука</string>
      <string name="st_mute_block">Вызовы без звука и блокировка сообщений</string>
      <string name="st_mute_title">Не уведомлять, но не блокировать</string>
+     <string name="st_other_settings_group">Другие</string>
      <string name="st_settings_name">Настройки</string>
+     <string name="st_show_block_notification">Показывать уведомления</string>
      <string name="st_sms_group">При получении сообщения</string>
      <string name="tab_blacklist">Черный список</string>
      <string name="tab_block_log">Журнал</string>

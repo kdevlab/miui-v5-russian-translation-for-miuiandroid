@@ -150,6 +150,7 @@
      <string name="response_maybe">Возможно</string>
      <string name="response_no">Нет</string>
      <string name="response_yes">Да</string>
+     <string name="rest_day_indication">:)</string>
      <string name="save_label">Готово</string>
      <string name="saving_event">Мероприятие сохранено</string>
      <string name="saving_event_with_guest">Обновления</string>
@@ -180,6 +181,7 @@
      <string name="what_label">Что</string>
      <string name="when_label">Когда</string>
      <string name="where_label">Где</string>
+     <string name="work_day_indication">:(</string>
      <string name="yearly">Ежегодно (%s)</string>
      <string name="yearly_plain">Ежегодно</string>
 </resources>
