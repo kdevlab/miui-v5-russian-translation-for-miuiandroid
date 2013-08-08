@@ -136,7 +136,7 @@
      <string name="call_lost">Вызов был утрачен</string>
      <string name="call_number">Кому:</string>
      <string name="call_record_button_label">Запись %s</string>
-     <string name="call_record_notification_message_low_space_miui">Запись остановлена: ​​нет больше места.</string>
+     <string name="call_record_notification_message_low_space_miui">Запись остановлена. ​​Нет свободного места.</string>
      <string name="call_record_notification_message_miui">Нажмите, чтобы посмотреть файл %s</string>
      <string name="call_record_notification_message_sd_unmounted_miui">Запись остановлена, так как SD-карта не смонтирована</string>
      <string name="call_record_notification_title_error_miui">Запись разговоров не удалась</string>
