@@ -459,8 +459,8 @@
      <string name="hac_mode_summary_miui">Включить слуховой аппарат</string>
      <string name="hac_mode_title">Слуховые аппараты</string>
      <string name="hac_mode_title_miui">Слуховые аппараты</string>
-     <string name="handon_ringer_summary_miui">Бесполезно, когда вибрация включена для входящего вызова</string>
-     <string name="handon_ringer_title_miui">Затихать в руках</string>
+     <string name="handon_ringer_summary_miui">Телефон не будет вибрировать во время входящего звонка</string>
+     <string name="handon_ringer_title_miui">Не вибрировать</string>
      <string name="hangup_sms_miui">Отклонить с SMS</string>
      <string name="ignore_miui">Отклонить</string>
      <string name="importAllSimEntries">Импортировать все</string>
