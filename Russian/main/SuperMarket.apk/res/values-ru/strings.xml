@@ -69,7 +69,6 @@
      <string name="install_all_title">Установить все</string>
      <string name="install_btn_cancel">Отмена</string>
      <string name="install_btn_continue">Далее</string>
-     <string name="install_btn_download_manager">Менеджер загрузок</string>
      <string name="install_btn_ok">ОК</string>
      <string name="install_fail">Ошибка установки. Попробуйте снова.</string>
      <string name="install_google_base_button">Установить сейчас</string>
@@ -80,7 +79,6 @@
      <string name="install_missing_shared_library">В системе отсутствуют необходимые компоненты</string>
      <string name="install_no_network_description">Нет сетевого подключения, подключитесь и попробуйте еще раз</string>
      <string name="install_on_data_description">Загрузка по 2G/3G может чрезмерно потреблять трафик, продолжить загрузку приложений %1$s и %2$s?</string>
-     <string name="install_only_on_wifi_description">Невозможно начать загрузку, так как в настройках установлен режим \"Загружать только по Wi-Fi\".</string>
      <string name="install_parse_fail">Установка не удалась. Пожалуйста загрузите повторно.</string>
      <string name="install_patch_fail">Обновление не удалось. Загрузите повторно пакет.</string>
      <string name="install_sdcard_not_available">Установка не завершена. SD-карта недоступна.</string>

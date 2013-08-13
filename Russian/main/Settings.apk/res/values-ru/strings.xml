@@ -1209,6 +1209,7 @@
      <string name="no_nearby_wifi">Нет доступных сетей Wi-Fi, вы должны пересканировать сети или добавить сеть вручную</string>
      <string name="no_running_services">Ничего не запущено.</string>
      <string name="no_services">Неактивен</string>
+     <string name="noise_suppression">Подавление шума</string>
      <string name="normal_date_format">%s (по умолчанию)</string>
      <string name="not_installed">Не установлено</string>
      <string name="notification_pulse_title">Индикация</string>
@@ -1389,6 +1390,7 @@
      <string name="permission_manage_title">Разрешения %s</string>
      <string name="permissions_label">Разрешения</string>
      <string name="personal_data_section_title">Личные данные</string>
+     <string name="phone_call_noise_suppression">Подавление шума</string>
      <string name="phone_info_label">Информация о телефоне</string>
      <string name="phone_language">Язык</string>
      <string name="phone_language_summary">""</string>
@@ -2084,8 +2086,8 @@
      <!-- The count of MNPS does not match! Now: 1 must: 1
 	%s: 0 must: 0
 	%d: 1 must: 0 -->
-     <!-- Original string: % d software with risks, It is recommended to uninstall -->
-     <string name="virus_scan_app_find_risk">Возможно программа %d небезопасна, рекомендуется удалить.</string>
+     <!-- Original string: % d software with risks -->
+     <string name="virus_scan_app_find_risk">Возможно программа %d небезопасна</string>
      <string name="virus_scan_app_finish">Готово</string>
      <string name="virus_scan_app_force_stop">Сканирование остановлено</string>
      <string name="virus_scan_app_is_stop_scan">Остановить сканирование?</string>
@@ -2100,8 +2102,8 @@
      <!-- The count of MNPS does not match! Now: 1 must: 1
 	%s: 0 must: 0
 	%d: 1 must: 0 -->
-     <!-- Original string: Batch uninstall (% d) -->
-     <string name="virus_scan_app_uninstall">Пакетное удаление (%d)</string>
+     <!-- Original string: Remove (% d) -->
+     <string name="virus_scan_app_uninstall">Удалить (%d)</string>
      <string name="virus_scan_app_waiting">Подождите...</string>
      <string name="virus_scanner_auto_update">Автообновление</string>
      <string name="virus_scanner_lib_already_latest">Вирусная база уже обновлена</string>

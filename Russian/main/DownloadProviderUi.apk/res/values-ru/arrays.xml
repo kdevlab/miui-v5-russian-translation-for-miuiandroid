@@ -1,14 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Builded with CloudBuildr -->
 <resources>
-     <string-array name="download_filters">
-        <item>Все</item>
-        <item>Темы</item>
-        <item>Маркет</item>
-        <item>Браузер</item>
-        <item>Музыка</item>
-        <item>Другие</item>
-     </string-array>
      <string-array name="prefEntries_max_bytes_limit">
         <item>10МБ</item>
         <item>5МБ</item>
