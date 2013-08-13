@@ -6,13 +6,16 @@
      <string name="activating">Активация...</string>
      <string name="alwaysUsePrompt">Исполь. по умолчанию</string>
      <string name="android_lockscreen_glogin_instructions">Чтобы разблокировать, войдите в свой аккаунт</string>
+     <string name="app_no_notification">ничего</string>
+     <string name="app_notificaiton_on_notificationBar">Панель уведомлений</string>
+     <string name="app_notificaiton_on_statusBar_and_notificationBar">Строка состояния, панель уведомлений</string>
      <string name="arbor_day">""</string>
      <string name="autumn_begins">""</string>
      <string name="autumn_equinox">""</string>
      <string name="callNoAnswerTimeFormat">Гудков: %s</string>
      <string name="call_record_or">или</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="call_record_sample_prefix_miui">Callrecording</string>
+     <string name="call_record_sample_prefix_miui">Record</string>
      <string name="caller_info_name_delimiter">или</string>
      <string name="check_phone_error_title">Не удалось открыть Синхронизацию</string>
      <string name="check_phone_io_error">Ошибка сети</string>
@@ -256,9 +259,7 @@
      <string name="days">%d дн.</string>
      <string name="delete">Удалить</string>
      <string name="deprecated_49" />
-     <string name="deprecated_50" />
-     <string name="deprecated_51" />
-     <string name="deprecated_52" />
+     <string name="deprecated_53" />
      <string name="deprecated_alarm_message_12_hour_formate" />
      <string name="device_hongmi">Телефон Hongmi</string>
      <string name="device_xiaomi">Телефон Xiaomi</string>
@@ -324,14 +325,16 @@ EEEE"</string>
      <string name="lockscreen_access_pattern_detected">Шаблон завершен</string>
      <string name="lockscreen_access_pattern_start">Шаблон начат</string>
      <string name="lockscreen_emergency_call">Только экстренные</string>
+     <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">"%d раз был неправильно введен пароль. После %d неудачных попыток, вам будет предложено разблокировать телефон с помощью вашего аккаунта.
+
+ Попробуйте снова через %d секунд."</string>
      <string name="lockscreen_forgot_pattern_button_text">Вспомнить</string>
      <string name="lockscreen_pattern_instructions">Нарисуйте шаблон, чтобы разблокировать</string>
      <string name="lockscreen_pattern_wrong">Попробовать снова</string>
      <string name="lockscreen_too_many_failed_attempts_countdown">Попробуйте снова через %d сек.</string>
      <string name="lockscreen_transport_next_description">Кнопка следующий трек</string>
      <string name="lockscreen_transport_play_description">Кнопка Играть</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="lockscreen_transport_prev_description">Previous track button</string>
+     <string name="lockscreen_transport_prev_description">Кнопка предыдущий трек</string>
      <string name="lockscreen_unlock_sim_via_puk">Используйте PUK-код, чтобы разблокировать SIM-карту</string>
      <string name="lunar_ba">八</string>
      <string name="lunar_calendar">Лунный календарь</string>

@@ -28,6 +28,13 @@
      <string name="check_update_when_wifi_available">Обновления только через Wi-Fi</string>
      <string name="checking_for_updates">Проверка обновлений</string>
      <string name="choose_recommend">Пожалуйста, выберите рекомендуете или нет</string>
+     <string name="comment_invalid">Пожалуйста, нажмите на звездочки, чтобы выбрать оценку</string>
+     <string name="comment_publish">Отправить</string>
+     <string name="comment_sending">Отправка комментария...</string>
+     <string name="comment_upload_failed">Ошибка отправки комментария</string>
+     <string name="comment_upload_hint">Спасибо за ваш комментарий.</string>
+     <string name="comment_upload_not_logined">Пожалуйста, зайдите в аккаунт</string>
+     <string name="comment_upload_success">Комментарий отправлен!</string>
      <string name="confirm_download_cancelation_dialog_message">Вы уверены, что хотите отменить загрузку обновления?</string>
      <string name="copy_install_log">Копировать в буфер</string>
      <string name="current_version_text">"Текущая версия "</string>
@@ -40,6 +47,9 @@
      <string name="download_ota_rom">Обновление (%s)</string>
      <string name="download_whole_rom">Полный пакет (%s)</string>
      <string name="downloading_description">Загрузка...</string>
+     <string name="edit_comment">Добавить комментарии</string>
+     <string name="edit_comment_title">Редактирование комментария</string>
+     <string name="edit_text_default">Написать комментарий</string>
      <string name="emegency_build">Сборка:</string>
      <string name="exception_while_downloading">Произошла ошибка при загрузке обновления</string>
      <string name="expect">4. Ожидания</string>

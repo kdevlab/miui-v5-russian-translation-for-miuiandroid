@@ -213,6 +213,10 @@
         <item>Запрос</item>
         <item>Запретить</item>
      </string-array>
+     <string-array name="phone_call_noise_suppression_title">
+        <item>Подавление шума (Один микрофон)</item>
+        <item>Подавление шума (Два микрофона)</item>
+     </string-array>
      <string-array name="power_mode_entries">
         <item>Производительный</item>
         <item>Сбалансированный</item>

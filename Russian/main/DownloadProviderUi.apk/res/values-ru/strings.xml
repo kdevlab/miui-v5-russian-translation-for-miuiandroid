@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Builded with CloudBuildr -->
 <resources>
+     <string name="all_downloads">Все загрузки</string>
+     <string name="app_downloads">Загрузки от приложения: %s</string>
      <string name="app_label">Загрузки</string>
      <string name="button_sort_by_date">Сортировать по дате</string>
      <string name="button_sort_by_size">Сортировать по размеру</string>
