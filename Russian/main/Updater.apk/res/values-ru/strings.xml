@@ -23,7 +23,7 @@
      <string name="best_update">2. Лучшее обновление</string>
      <string name="boot_recovery">Перезагрузка в Recovery</string>
      <string name="cancel_download_buton_text">Отмена</string>
-     <string name="check_update">Проверить обновление</string>
+     <string name="check_update">Обновление</string>
      <string name="check_update_policy">Параметры обновления</string>
      <string name="check_update_when_wifi_available">Обновления только через Wi-Fi</string>
      <string name="checking_for_updates">Проверка обновлений</string>
@@ -47,7 +47,7 @@
      <string name="download_ota_rom">Обновление (%s)</string>
      <string name="download_whole_rom">Полный пакет (%s)</string>
      <string name="downloading_description">Загрузка...</string>
-     <string name="edit_comment">Добавить комментарии</string>
+     <string name="edit_comment">Комментарий</string>
      <string name="edit_comment_title">Редактирование комментария</string>
      <string name="edit_text_default">Написать комментарий</string>
      <string name="emegency_build">Сборка:</string>
