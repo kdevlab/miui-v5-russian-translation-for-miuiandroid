@@ -160,6 +160,7 @@
      <string name="download">Загрузить</string>
      <string name="download_complete">Загрузка файла завершена</string>
      <string name="download_default_path_txt">Установить путь сохранения по умолчанию и больше не спрашивать</string>
+     <string name="download_dialog_default_path_invalid">Путь для загрузки файла неверный. Будет использован стандартный путь</string>
      <string name="download_dialog_file_length_hint_txt">Размер файла:</string>
      <string name="download_dialog_file_length_lessthan1kb">Менее чем 1K</string>
      <string name="download_dialog_file_length_nolength_error_txt">Не удалось определить размер файла</string>

@@ -238,6 +238,8 @@
 "</string>
      <string name="operation_refresh">Обновить</string>
      <string name="operation_rename">Переименовать</string>
+     <string name="operation_set_as_screensaver">Как заставка</string>
+     <string name="operation_unset_as_screensaver">Отменить заставку</string>
      <string name="orientation">Ориентация</string>
      <string name="other_category">Другие настройки</string>
      <string name="path">Путь к файлу</string>
@@ -271,6 +273,12 @@
      <string name="saving_failure">Не удалось сохранить фото</string>
      <string name="saving_image">Сохранение картинки...</string>
      <string name="scan_qr_code">Пусть люди отсканируют QR-код, чтобы получить ссылку на общий альбом</string>
+     <string name="screensaver_activate_mode">Заставка слайдшоу</string>
+     <string name="screensaver_activate_only_charging">Активировать только при зарядке</string>
+     <string name="screensaver_category">Заставка</string>
+     <string name="screensaver_no_data">Нет изображений в альбоме.</string>
+     <string name="screensaver_path">Альбом заставки:</string>
+     <string name="screensaver_path_not_set">Не задан</string>
      <string name="sd_not_available">SD-карта размонтирована или недоступна</string>
      <string name="seconds">секунд</string>
      <string name="select_album">Выбрать альбомы</string>
@@ -291,6 +299,8 @@
      <string name="set_lock_or_wallpaper">Как фон</string>
      <string name="set_lockscreen">Экран блокировки</string>
      <string name="set_recent_album">Сделать новый альбом</string>
+     <string name="set_screensaver_path_message">Фотографии в этом альбоме будут показаны как заставка после 5 секунд выключенного экрана. Это сообщение не будет показано снова.</string>
+     <string name="set_screensaver_path_title">Заставка слайдшоу</string>
      <string name="set_wallpaper">Рабочий стол</string>
      <string name="settings">Настройки</string>
      <string name="settings_i_xiaomi_com">Войдите на сайт i.xiaomi.com, чтобы просмотреть ваши синхронизированные изображения на компьютере</string>
@@ -324,6 +334,8 @@
      <string name="slideshow_interval_dialog_title">Интервал слайд-шоу (в секундах)</string>
      <string name="slideshow_interval_invalid">Неверная настройка интервала времени, который должен быть от 1 до 3600.</string>
      <string name="slideshow_repeat_mode">Повторять</string>
+     <string name="slideshow_time_select_title">Выбор времени слайдшоу</string>
+     <string name="slideshow_time_title">Время слайдшоу</string>
      <string name="storage_all_volumes">Все накопители</string>
      <string name="storage_no_space">Не хватает памяти</string>
      <string name="straighten">Выравнивание</string>
