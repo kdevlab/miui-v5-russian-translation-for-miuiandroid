@@ -81,12 +81,15 @@
      <string name="qm_vip_list_custom_group">Мои VIP-персоны</string>
      <string name="qm_vip_list_group">VIP-список</string>
      <string name="quiet_mode">Не беспокоить</string>
-     <string name="st_bl_block_setting_title">Прием вызовов и сообщений</string>
-     <string name="st_bl_setting_group">Настройки черного списока</string>
+     <string name="st_advanced_setting_group">Дополнительно</string>
      <string name="st_block_all">Блокировка вызовов и сообщений</string>
      <string name="st_block_mute">Блокировка вызовов и отключения звука сообщения</string>
      <string name="st_block_private_call_button">Блокировать неопред. номера</string>
+     <string name="st_block_setting_group">Настройки черного списка</string>
+     <string name="st_block_setting_title">Звонки и сообщения</string>
      <string name="st_block_title">Блокировка и запись в журнал</string>
+     <string name="st_block_unknown_call">Блокировать все неизвестные звонки</string>
+     <string name="st_block_unknown_sms">Блокировать все неизвестные сообщения</string>
      <string name="st_call_group">При получении вызова</string>
      <string name="st_common_setting_group">Быстрый просмотр</string>
      <string name="st_filter_keywords_setting_summary1">Сообщения, отправленные неизвестными и содержащее следующие слова, будут заблокированы</string>
@@ -97,7 +100,7 @@
      <string name="st_mute_all">Вызовы и сообщения без звука</string>
      <string name="st_mute_block">Вызовы без звука и блокировка сообщений</string>
      <string name="st_mute_title">Не уведомлять, но не блокировать</string>
-     <string name="st_other_settings_group">Другие</string>
+     <string name="st_other_setting_group">Другие настройки</string>
      <string name="st_settings_name">Настройки</string>
      <string name="st_show_block_notification">Показывать уведомления</string>
      <string name="st_sms_group">При получении сообщения</string>
@@ -107,7 +110,7 @@
      <string name="tab_sms">Сообщения</string>
      <string name="tab_title">Антиспам</string>
      <string name="toast_keyword_blank">Нет ключевых слов</string>
-     <string name="toast_keyword_exist">Ключекое слово %s уже существует</string>
+     <string name="toast_keyword_exist">Ключевое слово сохранено</string>
      <string name="toast_keyword_invalid">Неверное ключевое слово</string>
      <string name="twelve_hour_time_format">a h:mm</string>
      <string name="twenty_four_hour_time_format">HH:mm</string>
