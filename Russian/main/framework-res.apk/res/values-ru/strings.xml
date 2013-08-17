@@ -1107,6 +1107,8 @@
      <string name="roamingText8">Роуминг – основной партнер</string>
      <string name="roamingText9">Роуминг – полная функциональность службы</string>
      <string name="roamingTextSearching">Поиск службы</string>
+     <string name="safe_media_volume_warning">"Повысить громкость выше допустимого уровня?
+Прослушивание на высокой громкости в течение длительного времени может привести к повреждению слуха."</string>
      <string name="safeMode">Безопасный режим</string>
      <string name="same_month_md1_md2">%3$s-%8$s %2$s</string>
      <string name="same_month_md1_time1_md2_time2">%5$s, %3$s %2$s - %10$s, %8$s %7$s</string>
