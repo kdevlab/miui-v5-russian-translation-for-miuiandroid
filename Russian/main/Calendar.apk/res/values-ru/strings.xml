@@ -71,7 +71,7 @@
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="email_guests_label">Email</string>
      <string name="email_picker_label">Email с</string>
-     <string name="empty_event">Нельзя создать мероприятие без данных</string>
+     <string name="empty_event">Пустое мероприятие</string>
      <string name="event_create">Новое мероприятие</string>
      <string name="event_delete">Удалить мероприятие</string>
      <string name="event_edit">Изменить мероприятие</string>

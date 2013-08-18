@@ -2,7 +2,7 @@
 <!-- Builded with CloudBuildr -->
 <resources>
      <string name="app_name">Антиспам</string>
-     <string name="bl_block_info" formatted="false">Заблокирован: %d, детали: %d</string>
+     <string name="bl_block_info" formatted="false">Вызовов: %d, Сообщений: %d</string>
      <string name="bl_no_blacklist">Черного списка пока нет</string>
      <string name="bl_no_block_call">Все заблокированные вызовы будут тут</string>
      <string name="bl_no_block_sms">Все заблокированные сообщения будут тут</string>
@@ -32,7 +32,7 @@
      <string name="dlg_retore">Вы уверены, что хотите восстановить это сообщение?</string>
      <string name="dlg_retore_ok">Восстановить</string>
      <string name="fw_blocked">Антиспам</string>
-     <string name="fw_blocked_count" formatted="false">Звонки: %d, SMS: %d</string>
+     <string name="fw_blocked_count" formatted="false">Вызовы: %d, SMS: %d</string>
      <string name="marked_by_others">%d пользователей отметили его как</string>
      <string name="marked_by_user">вы отметили его как</string>
      <string name="menu_add">Добавить</string>
