@@ -80,10 +80,12 @@
      <string name="loading_desktop">Загрузка рабочего стола...</string>
      <string name="menu_add">Добавить</string>
      <string name="menu_back_desktop">Домой</string>
+     <string name="menu_customize">Настройки</string>
      <string name="menu_edit">Режим редактирования</string>
      <string name="menu_exit_scene">Выход из MiSpace</string>
      <string name="menu_item_add_item">Добавить на основной экран</string>
      <string name="menu_launcher_setting">Рабочий стол</string>
+     <string name="menu_picktheme">Выбор темы</string>
      <string name="menu_reset_scene">Сбросить на стандарт</string>
      <string name="menu_search">Поиск</string>
      <string name="menu_settings">Настройки</string>
@@ -123,6 +125,7 @@
      <string name="screen_button_disabled_message">Кнопки внизу экрана отключены. Вы можете включить их снова, нажав клавиши \"Домой\" и \"Питание\".</string>
      <string name="screen_button_enabled_message">Кнопки на нижней части экрана включены</string>
      <string name="screen_rotation_freeze_message">Поворот экрана заблокирован в ландшафтном режиме</string>
+     <string name="scroll_tip_format_when_announce_accessibility">На странице: %1$d приложений: %2$d</string>
      <string name="select_frame">Рамка</string>
      <string name="select_photo">Фото</string>
      <string name="sort_by_abc">По имени</string>

@@ -2086,8 +2086,8 @@
      <!-- The count of MNPS does not match! Now: 1 must: 1
 	%s: 0 must: 0
 	%d: 1 must: 0 -->
-     <!-- Original string: % d software with risks -->
-     <string name="virus_scan_app_find_risk">Возможно программа %d небезопасна</string>
+     <!-- Original string: % d potential risks found -->
+     <string name="virus_scan_app_find_risk">Возможных опасностей: %d</string>
      <string name="virus_scan_app_finish">Готово</string>
      <string name="virus_scan_app_force_stop">Сканирование остановлено</string>
      <string name="virus_scan_app_is_stop_scan">Остановить сканирование?</string>

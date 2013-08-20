@@ -3,6 +3,7 @@
 <resources>
      <string name="activity_not_found">Не удается открыть вложение</string>
      <string name="activity_not_found_uri">Не удается найти приложение для этого типа файлов</string>
+     <string name="add_attachment">добавить вложение</string>
      <string name="add_bookmark">Избранные</string>
      <string name="add_contact">Контакт</string>
      <string name="add_festival">Поздравления</string>
@@ -29,6 +30,7 @@
      <string name="attach_subject">Тема</string>
      <string name="attach_take_photo">Сделать фото</string>
      <string name="attach_video">Видео</string>
+     <string name="back_to_message_list">вернутся к списку сообщений</string>
      <string name="batch_delete_confirm_dialog_message">Удалить выбранные сообщения (%1$s)?</string>
      <string name="batch_deleting_message_progress_message">Удалить выбранные сообщения</string>
      <string name="batch_deleting_progress_message">Удаление...</string>
@@ -81,6 +83,7 @@
      <string name="converting_to_picture_message">Преобразование в MMS сообщение...</string>
      <string name="converting_to_text_message">Преобразование в SMS сообщение...</string>
      <string name="copy_message_text">Скопировать текст</string>
+     <string name="copy_message_text_success">Текст скопирован</string>
      <string name="copy_to_sdcard">Сохранить вложение</string>
      <string name="copy_to_sdcard_fail">Файл не сохранен</string>
      <string name="copy_to_sdcard_success">Файл сохранен как %s</string>
@@ -337,10 +340,12 @@ SMS (%1$d), MMS (%2$d)"</string>
      <string name="select_link_title">Выбор действия</string>
      <string name="select_local_audio">Выбор аудио...</string>
      <string name="select_local_video">Выбор видео...</string>
+     <string name="select_recipient">выбор получателя</string>
      <string name="select_top_text">Текст вверху</string>
      <string name="send">Отправить</string>
      <string name="send_signature_confirm_dialog_message">Вы не ввели текст сообщения, вы хотите отправить его только с подписью?</string>
      <string name="send_signature_confirm_dialog_title">Отправить подтверждение</string>
+     <string name="send_sms">отправить сообщение</string>
      <string name="send_to">Для:</string>
      <string name="send_to_count">Успешно отправлено для %1$s</string>
      <string name="send_to_index_contact">Отправлено %1$s из %2$s</string>

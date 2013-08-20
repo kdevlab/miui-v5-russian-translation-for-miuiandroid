@@ -41,12 +41,11 @@
      </string-array>
      <string-array name="system_package_label">
         <item>Браузер</item>
-        <item>Приложение Файлы</item>
         <item>Галерея</item>
         <item>Безопасность</item>
         <item>Камера</item>
         <item>Монитор</item>
-        <item>Сервер погоды</item>
+        <item>Хранилище погоды</item>
         <item>Погода</item>
      </string-array>
 </resources>

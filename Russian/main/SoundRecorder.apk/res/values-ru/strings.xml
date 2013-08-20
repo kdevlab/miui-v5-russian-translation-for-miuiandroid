@@ -6,6 +6,7 @@
      <string name="audio_db_album_name">Аудиозаписи</string>
      <string name="audio_db_artist_name">Ваши записи</string>
      <string name="audio_db_playlist_name">Мои записи</string>
+     <string name="back">назад</string>
      <string name="button_ok">ОК</string>
      <string name="call_record">Запись вызова (%d)</string>
      <string name="call_record_or">или</string>
@@ -45,6 +46,8 @@
      <string name="notification_warning">Мало памяти (осталось менее %d мин.)...</string>
      <string name="open_file_explorer">Открыть Файлы</string>
      <string name="overwrite_dialog_message">%s уже существует. Вы хотите перезаписать его?</string>
+     <string name="pause">пауза</string>
+     <string name="play_record">проиграть</string>
      <string name="preference_led_indicator">Индикатор записи</string>
      <string name="preference_led_indicator_prompt">Мигать светодиодом при записи в заблокированном режиме</string>
      <string name="preference_record_type_dialog_title">Выбор типа файла для записи</string>
@@ -61,14 +64,18 @@
      <string name="rename_duplicate">Дубликат имени записи. Пожалуйста, переименуйте:</string>
      <string name="rename_illegal">Неверное имя записи. Пожалуйста, переименуйте:</string>
      <string name="sd_card_not_available">SD-карта не доступна</string>
+     <string name="search_for_recordings_in_folders">Поиск записей в папках</string>
      <string name="second">%d сек.</string>
      <string name="send_to">Отправить</string>
      <string name="sound_recorder_settings">Настройки</string>
+     <string name="start_recording">начало записи</string>
      <string name="status_bar_anti_disturb">Сторонние звуки отключены</string>
      <string name="status_bar_back">Нажмите, чтобы вернуться к записи</string>
      <string name="status_bar_recording">Запись...</string>
      <string name="status_bar_recording_pause">Пауза</string>
+     <string name="stop_recording">остановка записи</string>
      <string name="storage_is_full">Память заполнена</string>
      <string name="toast_max_record_time">Приложение: %1$s максимально поддерживает %2$s записей вложения</string>
      <string name="unknown_caller">Неизвестный вызов</string>
+     <string name="view_list_of_recordings">просмотр списка записей</string>
 </resources>
