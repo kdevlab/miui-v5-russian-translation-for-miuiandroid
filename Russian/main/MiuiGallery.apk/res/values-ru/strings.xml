@@ -182,7 +182,6 @@
      <string name="kick_sharer">Удалить получателя</string>
      <string name="kick_sharer_failed">Ошибка удаления получателя</string>
      <string name="kick_sharer_successfully">Получатель удален</string>
-     <string name="landscape_mode">Включить ландшафтный режим</string>
      <string name="loading">Идет загрузка…</string>
      <string name="loading_failure">Не удалось загрузить фото</string>
      <string name="loading_thumbnail">Загрузка эскизов</string>
@@ -244,6 +243,7 @@
      <string name="other_category">Другие настройки</string>
      <string name="path">Путь к файлу</string>
      <string name="people">Люди</string>
+     <string name="photo_page_always_rotate">Авто-поворот изображения</string>
      <string name="photo_page_save_image">Сохранить</string>
      <string name="photo_page_save_uri_image_fail">Не удалось сохранить фотографию</string>
      <string name="photo_page_save_uri_image_ok">Изображение сохранено в директорию фотокамеры</string>

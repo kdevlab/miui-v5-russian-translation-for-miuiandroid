@@ -125,15 +125,7 @@
      <string name="theme_batch_update_dlg_content">Вы уверены, что хотите обновить сейчас?</string>
      <string name="theme_batch_update_dlg_title">Обновить</string>
      <string name="theme_batch_updating_text">Обновляется тем: %1$d</string>
-     <!-- The count of MNPS does not match! Now: 0 must: 1
-	%s: 0 must: 1
-	%d: 0 must: 0 -->
-     <!-- Original string: Failed to apply %1$s theme. -->
      <string name="theme_changed_failed_message">Ошибка применения темы</string>
-     <!-- The count of MNPS does not match! Now: 0 must: 1
-	%s: 0 must: 1
-	%d: 0 must: 0 -->
-     <!-- Original string: Successfully applied %1$s. -->
      <string name="theme_changed_message">Успешно применено</string>
      <string name="theme_changing_dialog_title">Применение темы. Подождите...</string>
      <string name="theme_component_title_alarm">Будильник</string>

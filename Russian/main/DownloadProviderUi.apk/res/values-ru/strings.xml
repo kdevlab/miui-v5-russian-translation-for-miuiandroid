@@ -6,15 +6,11 @@
      <string name="app_label">Загрузки</string>
      <string name="button_sort_by_date">Сортировать по дате</string>
      <string name="button_sort_by_size">Сортировать по размеру</string>
-     <string name="cancel_download_notice">Отменить уведомление загрузки</string>
      <string name="cancel_running_download">Отмена</string>
      <string name="confirm_delete_downloads_message">"Очистить выбранные загрузки?
 
 Загрузок: %d"</string>
      <string name="confirm_delete_the_download_item_message">Скачанное содержимое будет удалено!</string>
-     <string name="confirm_disable_download_only_in_wifi_message">"Выключение этой функции может вызвать сильное потребление мобильного трафика.
-
-Вы уверены, что хотите выключить?"</string>
      <string name="delete_download">Удалить</string>
      <string name="delete_downloads_records">Удалить все загрузки</string>
      <string name="delete_the_downloaded_file">Удалить загруженные файлы</string>
@@ -30,7 +26,6 @@
      <string name="dialog_queued_body">Этот файл в очереди на скачивание</string>
      <string name="dialog_title_not_available">Ошибка загрузки</string>
      <string name="dialog_title_queued_body">Файл не доступен</string>
-     <string name="disable_download_only_in_wifi_title">Отключить загрузку только по Wi-Fi</string>
      <string name="download_complete">Скачанные</string>
      <string name="download_error">Ошибка</string>
      <string name="download_error_insufficient_space">Недостаточно места</string>
@@ -54,12 +49,10 @@
      <string name="keep_queued_download">Оставить</string>
      <string name="menu_enter_edit_mode">Редактировать</string>
      <string name="menu_preferences">Параметры</string>
-     <string name="might_lead_to_mobile_charge">После отмены, загрузки из сети оператора будут идти без запросов. Это может привести к расходам трафика.</string>
      <string name="missing_title">Неизвестно</string>
      <string name="no_downloads">Нет загрузок</string>
      <string name="open_download">Открыть</string>
      <string name="pause_download">Пауза</string>
-     <string name="pause_download_when_wifi_disconnected">Загружать только по Wi-Fi</string>
      <string name="paused_by_app">Приостановлено</string>
      <string name="paused_queued_for_wifi">Ожидание Wi-Fi</string>
      <string name="paused_unknown">Остановлено</string>
@@ -67,6 +60,7 @@
      <string name="paused_waiting_to_retry">Ожидание повтора</string>
      <string name="pref_dialog_title_max_bytes_limit">Превышение размера файла</string>
      <string name="pref_download_settings_title">Предупреждение о лимите</string>
+     <string name="pref_summary_any_bytes_popup">Всегда ставить в очередь для Wi-Fi сети</string>
      <string name="pref_summary_enable_max_bytes_popup">При использовании мобильных данных, предупредить перед истечением лимита</string>
      <string name="pref_summary_max_bytes_limit_format">Предупреждать при превышении размера файла: %s</string>
      <string name="pref_title_enable_max_bytes_popup">Предупреждать о лимите</string>
