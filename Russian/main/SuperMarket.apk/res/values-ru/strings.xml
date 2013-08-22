@@ -11,6 +11,7 @@
      <string name="bad_comments">Плохие</string>
      <string name="button_refresh">Обновить</string>
      <string name="button_search">Поиск</string>
+     <string name="button_search_in_market">Поиск в маркете</string>
      <string name="bytes_unit">%1$s байт</string>
      <string name="cancel">Отмена</string>
      <string name="category_recommend_tag">Реком.</string>
@@ -23,7 +24,6 @@
      <string name="comment_5_star">5 звезд</string>
      <string name="comment_average_score">Всего</string>
      <string name="comment_cannot_comment">Чтобы оставить комментарий, нужно сначала скачать это приложение.</string>
-     <string name="comment_count">Всего %1$s оценок %2$s комментариев</string>
      <string name="comment_current_version">Текущая версия</string>
      <string name="comment_date">%1$02d-%2$02d</string>
      <string name="comment_invalid">Нажмите на звездочки, чтобы оценить.</string>
@@ -49,8 +49,6 @@
      <string name="description_info">Описание</string>
      <string name="developer_button">Показать еще</string>
      <string name="download_fail">Загрузка не завершена. Ошибка загрузки.</string>
-     <string name="download_manager_tag">Менеджер загрузок</string>
-     <string name="download_manager_tag_with_nonzero_downloads">Загрузок(%1$s/%2$s)</string>
      <string name="download_start_fail">Загрузка не завершена. Ошибка создания задачи для загрузки.</string>
      <string name="edit_comment">Комментарий</string>
      <string name="edit_comment_title">Отправить отзыв %1$s</string>
@@ -61,8 +59,6 @@
      <string name="first_recommend_download">Установить все</string>
      <string name="first_recommend_enter">Пропустить</string>
      <string name="good_comments">Хорошие</string>
-     <string name="header_processing">Идет скачивание...</string>
-     <string name="header_waiting">Ожидание скачивания...</string>
      <string name="hot_rank_tag">Топ рейтинга</string>
      <string name="install">Скачать</string>
      <string name="install_all_description">Установить приложения %1$s и %2$s сейчас？</string>
@@ -71,7 +67,6 @@
      <string name="install_btn_continue">Далее</string>
      <string name="install_btn_ok">ОК</string>
      <string name="install_fail">Ошибка установки. Попробуйте снова.</string>
-     <string name="install_google_base_button">Установить сейчас</string>
      <string name="install_google_base_message">“%1$s” для запуска требует сервисы Google</string>
      <string name="install_google_base_title">Установить сервисы Google</string>
      <string name="install_hash_fail">Ошибка установки. Загрузите пакет снова.</string>
@@ -127,7 +122,6 @@
      <string name="no_comment">Нет комментариев</string>
      <string name="no_data">Нет данных, проверьте сеть</string>
      <string name="no_description">Нет приложений</string>
-     <string name="no_download_task">Нет загрузок</string>
      <string name="no_fitness">Упс! Нет подходящих программ, попробуйте поискать :)</string>
      <string name="no_local_apps">Нет установленных приложений</string>
      <string name="no_network">Нет доступа в Интернет. Пожалуйста, проверьте настройки и попробуйте обновить :)</string>
@@ -147,7 +141,6 @@
      <string name="notif_title_update">Доступно обновление для %1$s!</string>
      <string name="paused">Пауза</string>
      <string name="pending">Ожидание...</string>
-     <string name="permission_button">Необходимые разрешения (%1$s)</string>
      <string name="permission_extra">Другие разрешения</string>
      <string name="permission_risky_money">Отправка SMS</string>
      <string name="permission_risky_privacy">Конфиденциальность</string>
@@ -188,13 +181,14 @@
      <string name="share_text">Вот приложение, которое я думаю, тебе может понравиться: %1$s，вот ссылка ：%2$s</string>
      <string name="show_all_local_app">Показать все</string>
      <string name="show_all_local_app_with_count">Все приложения (%1$d)</string>
-     <string name="status_downloading">Скачивание： %1$s%%</string>
      <string name="system_app_sign_not_match_fail">Несовместимая подпись системного приложения. Невозможно обновить.</string>
      <string name="update">Обновить</string>
      <string name="update_all">Обновить все</string>
      <string name="update_date">%3$s, %2$s, %1$s</string>
      <string name="update_date_label">Загружен：</string>
      <string name="update_info">Изменения</string>
+     <string name="upgrade_all_description">Обновить %1$s и %2$s приложений сейчас?</string>
+     <string name="upgrade_all_title">Обновить все</string>
      <string name="verifying">Проверка на вирусы...</string>
      <string name="version_label">Версия：</string>
      <string name="version_name">Версия: %1$s</string>

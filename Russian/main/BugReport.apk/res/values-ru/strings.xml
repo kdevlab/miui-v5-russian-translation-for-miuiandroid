@@ -4,6 +4,7 @@
      <string name="action_submit">Отправить</string>
      <string name="app_label">Отзывы</string>
      <string name="btn_send">Отправить</string>
+     <string name="bugreport_feedback_from">От: %s</string>
      <string name="description">Описание (обязательно)</string>
      <string name="discard_draft_dialog_button_cancel">Отмена</string>
      <string name="discard_draft_dialog_content">Отчет изменен, нажмите OK для удаления черновика.</string>
