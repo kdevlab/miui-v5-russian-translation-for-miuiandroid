@@ -2,12 +2,12 @@
 <!-- Builded with CloudBuildr -->
 <resources>
      <string-array name="prefEntries_max_bytes_limit">
+        <item>20МБ</item>
         <item>10МБ</item>
         <item>5МБ</item>
         <item>2МБ</item>
         <item>1МБ</item>
-        <item>500КБ</item>
-        <item>200КБ</item>
-        <item>100КБ</item>
+        <item>512КБ</item>
+        <item>Любой размер</item>
      </string-array>
 </resources>
