@@ -59,16 +59,8 @@
      <string name="account_settings_vibrate_when_never">Никогда</string>
      <string name="account_settings_vibrate_when_silent">В режиме \"Без звука\"</string>
      <string name="account_settings_vibrate_when_summary">Вибрировать при получении сообщения</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="account_setup_account_type_exchange_action">Exchange</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="account_setup_account_type_exchange_action_alternate">Microsoft Exchange ActiveSync</string>
      <string name="account_setup_account_type_headline">Тип аккаунта</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="account_setup_account_type_imap_action">IMAP</string>
      <string name="account_setup_account_type_instructions">Выберите тип аккаунта</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="account_setup_account_type_pop_action">POP3</string>
      <string name="account_setup_account_type_title">Тип аккаунта</string>
      <string name="account_setup_basic_description_label">Имя акаунта (опционально)</string>
      <string name="account_setup_basic_label">Пожалуйста, заполните информацию для %s почтового ящика :</string>
@@ -237,13 +229,6 @@
      <string name="copy_email">Скопировать адрес эл. почты</string>
      <string name="copy_number">Скопировать номер телефона</string>
      <string name="create_action">Создать</string>
-     <string name="debug_clear_webview_cache">Очистить кэш WebView</string>
-     <string name="debug_disable_graphics_acceleration_label">Отключить аппаратное ускорение графики</string>
-     <string name="debug_enable_debug_logging_label">Включить журнал дополнительной отладки?</string>
-     <string name="debug_enable_exchange_file_logging_label">Включить обмен sd карта журнала?</string>
-     <string name="debug_enable_exchange_logging_label">Включить протоколирование анализатора exchange?</string>
-     <string name="debug_enable_strict_mode_label">Строгий режим (с регистрацией)</string>
-     <string name="debug_force_one_minute_refresh_label">Обновление в 1-минуту усилино для POP/IMAP</string>
      <string name="debug_title">Выполнить отладку</string>
      <string name="debug_version_fmt">Версия: %s</string>
      <string name="default_signature">Отправлено с MIUI Phone</string>
@@ -299,7 +284,6 @@
      <string name="header_label_general_preferences">Общие</string>
      <string name="login_failed_ticker">Ошибка авторизации %s</string>
      <string name="login_failed_title">Не удалось войти в аккаунт</string>
-     <string name="long_string">длинная строка</string>
      <string name="mailbox_list_account_selector_account_header">Аккаунты</string>
      <string name="mailbox_list_account_selector_combined_view">Комбинированный режим</string>
      <string name="mailbox_list_account_selector_mailbox_header_fmt">Последние папки (%s)</string>

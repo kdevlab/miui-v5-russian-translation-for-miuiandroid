@@ -533,7 +533,7 @@
      <string name="missing_name">(без имени)</string>
      <string name="move_and_resize">Изменение размера и положения</string>
      <string name="multipleContactDeleteConfirmation">Удаление этого контакта приведет к потере данных из нескольких аккаунтов</string>
-     <string name="multipleContactDeleteConfirmationDetail">\"%1$s\" содержит информацию из нескольких аккаунтов. Удаление \"%2$s\" удалит информацию из всех аккаунтов.</string>
+     <string name="multipleContactDeleteConfirmationDetail">Контакт содержит информацию из нескольких аккаунтов. Удаление \"%s\" удалит информацию из всех аккаунтов.</string>
      <string name="my_phone_not_provider_bluetooth">нет провайдера bluetooth</string>
      <string name="my_phone_provider_bluetooth">мой провайдер bluetooth</string>
      <string name="nameLabelsGroup">Имя</string>
