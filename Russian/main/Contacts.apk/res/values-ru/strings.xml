@@ -147,9 +147,9 @@
      <string name="composer_failed_to_get_database_infomation">База данных недоступна</string>
      <string name="composer_has_no_exportable_contact">Не найдены контакты для экспорта. Возможно, экспорт контактов с телефона не поддерживается поставщиком услуг передачи данных.</string>
      <string name="composer_not_initialized">Редактор vCard запущен некорректно</string>
-     <string name="confirm_delete_contact_all_call_logs">Удалить журналы вызовов?</string>
-     <string name="confirm_delete_selected_all_call_logs">Удалить все вызовы?</string>
-     <string name="confirm_delete_sim_entry_miui">Удалить выбранные контакты (%d шт.) с SIM-карты?</string>
+     <string name="confirm_delete_contact_all_call_logs">Удалить из журнала вызовов?</string>
+     <string name="confirm_delete_selected_all_call_logs">Удалить из журанала вызовов?</string>
+     <string name="confirm_delete_sim_entry_miui">Удалить выбранные контакты с SIM-карты? (%d шт.)</string>
      <string name="confirm_export_message">Список контактов будет экспортирован в файл \"%s\"</string>
      <string name="confirm_export_title">Экспорт контактов</string>
      <string name="connections">Связи</string>
@@ -925,7 +925,7 @@
      <string name="toast_copy_done">Копирование завершено</string>
      <string name="toast_copying">Копирование…</string>
      <string name="toast_displaying_all_contacts">Отображение всех контактов</string>
-     <string name="toast_finish_delete_call_log">Журнал вызовов очищен</string>
+     <string name="toast_finish_delete_call_log">Вызов удален из журнала</string>
      <string name="toast_for_failed_saving_nickname">Не удалось сохранить изменения</string>
      <string name="toast_for_saving_nickname">Изменения сохранены</string>
      <string name="toast_join_with_empty_contact">Укажите имя контакта, который хотите объединить</string>
