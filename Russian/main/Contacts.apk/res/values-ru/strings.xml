@@ -148,7 +148,7 @@
      <string name="composer_has_no_exportable_contact">Не найдены контакты для экспорта. Возможно, экспорт контактов с телефона не поддерживается поставщиком услуг передачи данных.</string>
      <string name="composer_not_initialized">Редактор vCard запущен некорректно</string>
      <string name="confirm_delete_contact_all_call_logs">Удалить из журнала вызовов?</string>
-     <string name="confirm_delete_selected_all_call_logs">Удалить из журанала вызовов?</string>
+     <string name="confirm_delete_selected_all_call_logs">Удалить из журнала вызовов?</string>
      <string name="confirm_delete_sim_entry_miui">Удалить выбранные контакты с SIM-карты? (%d шт.)</string>
      <string name="confirm_export_message">Список контактов будет экспортирован в файл \"%s\"</string>
      <string name="confirm_export_title">Экспорт контактов</string>
