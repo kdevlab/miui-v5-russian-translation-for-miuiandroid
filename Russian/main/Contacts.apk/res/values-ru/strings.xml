@@ -100,6 +100,10 @@
      <string name="callrecordview_menu_delete_accepted">Удалить входящие вызовы</string>
      <string name="callrecordview_menu_delete_all">Очистить журнал</string>
      <string name="callrecordview_menu_delete_called">Удалить исходящие вызовы</string>
+     <!-- The count of MNPS does not match! Now: 0 must: 1
+	%s: 0 must: 1
+	%d: 0 must: 0 -->
+     <!-- Original string: Confirm %s? -->
      <string name="callrecordview_menu_delete_confirm">Очистить все журналы вызовов?</string>
      <string name="callrecordview_menu_delete_missed">Удалить пропущенные вызовы</string>
      <string name="callrecordview_menu_delete_new">Удалить новые контакты</string>
@@ -738,7 +742,6 @@
      <string name="profile_display_name">Настроить профиль</string>
      <string name="profile_name">Мой профиль</string>
      <string name="profile_name_photo">Я</string>
-     <string name="progress_notifier_message" formatted="false">Импорт %s/%s: %s</string>
      <string name="quickcontact_missing_app">Действие не поддерживается ни в одном приложении</string>
      <string name="quit_dialog_confirm_title">Выйти из объединения контактов?</string>
      <string name="readOnlyContactDeleteConfirmation">Этот контакт содержит информацию из различных аккаунтов. Информация из аккаунтов, доступных только для чтения, будет скрыта в ваших списках контактов, но не удалена.</string>

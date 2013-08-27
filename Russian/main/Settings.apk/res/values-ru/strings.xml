@@ -707,6 +707,7 @@
      <string name="dirac_mode_earbuds">Гарнитура</string>
      <string name="dirac_mode_in_ear">"Наушники Xiaomi"</string>
      <string name="dirac_mode_off">Отключено</string>
+     <string name="dirac_mode_piston_100">Наушники Xiaomi (\"затычки\")</string>
      <string name="disable_overlays">Отключить HW оверлеи</string>
      <string name="disable_overlays_summary">Всегда использовать GPU для отрисовки экрана</string>
      <string name="disable_power_key_long_press_under_keyguard">Отключить клавишу питания</string>

@@ -66,6 +66,7 @@
      <string name="confirm_no_block_positive">Не блокировать и восстановить</string>
      <string name="confirm_no_block_title">Не блокировать этот номер и восстановить все сообщения?</string>
      <string name="confirm_rate_limit">Отправляется большое количество MMS. Продолжить?</string>
+     <string name="confirm_restore_all_title">Восстановить все сообщения от этого номера？</string>
      <string name="confirm_restore_positive">Восстановить</string>
      <string name="confirm_restore_title">Восстановить все выбранные сообщения?</string>
      <string name="context_menu_add_contact">Добавить в контакты</string>
@@ -320,6 +321,7 @@ SMS (%1$d), MMS (%2$d)"</string>
      <string name="replace_image">Заменить картинку</string>
      <string name="resent_message">Повторить</string>
      <string name="resize_image_error_information">Изображение слишком велико для отправки, даже после изменения размера</string>
+     <string name="restore_all_button_msg">Восстановить всё</string>
      <string name="restore_blocked_message">Восстановить сообщение</string>
      <string name="save">Сохранить</string>
      <string name="save_ringtone">Сохранить как мелодию звонка</string>

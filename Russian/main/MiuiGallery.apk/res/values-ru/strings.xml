@@ -27,6 +27,9 @@
      <string name="alert">Внимание</string>
      <string name="alert_message_initial_cloud">Система будет автоматически загружать старые и новые фотографии и скриншоты только при Wi-Fi соединение</string>
      <string name="alert_message_open_sync">Необходима синхронизация. Вы хотите включить ее сейчас?</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="android_tencent_tencent_weibo">Tencent Weibo</string>
+     <string name="androidesk_wallpapers">Обои Android</string>
      <string name="aperture">Диафрагма</string>
      <string name="app_name">Галерея</string>
      <string name="appwidget_empty_text">Нет фотографий</string>
@@ -36,6 +39,14 @@
      <string name="auto_create_recent_album_confirm">После отключения этой функции, галерея очистит созданные данные последних альбомов. Последние альбомы, установленные пользователем, не будут затронуты. Кроме того, можно установить это вручную, долгим нажатием на альбом.</string>
      <string name="auto_create_recent_album_over_ten_times">Создает избранный альбом после захода в него более 10 раз</string>
      <string name="autofix">Авто</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="autohomemain">Autohomemain</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="baidu_bdmobile_downloads">Baidu Mobile</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="baidu_flyflow_downloads">Baidu Browser</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="beautyphone">Beauty Phone</string>
      <string name="big_screen_alertdialog_title">Проектор</string>
      <string name="bigscrren_slide_exit">Выйти из слайд-шоу через TV</string>
      <string name="browse_category">Просмотр изображений</string>
@@ -96,6 +107,12 @@
      <string name="crossprocess">Кросс-обработка</string>
      <string name="cut">Обрезать</string>
      <string name="damaged_file">Файл поврежден</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="dcim_100media">Taobao TMall</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="dcim_opaipic">Opaipic</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="dcim_viva_pics">VIVA</string>
      <string name="defalt_local_mobile">Мобильный</string>
      <string name="delete">Удалить</string>
      <string name="delete_fail_too_many_items">Ошибка удаления. Возможно выбрано слишком много пунктов.</string>
@@ -169,6 +186,8 @@
      <string name="how_many_sub_folders">Папок: %d</string>
      <string name="how_many_videos">Видео: %d</string>
      <string name="image_quota_fulfiled">Не удается создать изображение, т.к. количество изображений в альбоме достигло предела</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="immomo_camera">Immomo</string>
      <string name="import_complete">Импорт завершен</string>
      <string name="import_fail">Сбой импорта</string>
      <string name="initial_cloud_button_text">Начать использование</string>
@@ -205,6 +224,8 @@
      <string name="message_no_delete_access_with_count">Невозможно удалить файл(ы) или папку(и) (%d). Возможно они не существуют или доступ к ним запрещен.</string>
      <string name="messagelist_sender_self">Я</string>
      <string name="miliao_painting_folder_display_name">Рисунок MiTalk</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="miliao_saved">Miliao</string>
      <string name="miliao_saved_folder_display_name">Сохраненные MiTalk</string>
      <string name="mimetype">Тип MIME</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
@@ -215,9 +236,15 @@
      <string name="modify_disallow_hint">Добавление новых фотографий в альбом запрещено</string>
      <string name="more">Еще</string>
      <string name="move_to_cloud_album">Переместить</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mtgif">MTGIF</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mtxx">MTXX</string>
      <string name="multiface_crop_help">Нажмите на лицо, чтобы начать</string>
      <string name="must_pick_file">Выберите изображение</string>
      <string name="negative">Негатив</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="netease_newsreader_netease_down_pic">Netease Newsreader</string>
      <string name="no">Нет</string>
      <string name="no_albums_alert">Нет доступных альбомов</string>
      <string name="no_connectivity">Не удалось найти все места из-за проблем с подключением</string>
@@ -252,13 +279,21 @@
      <string name="photos">фото</string>
      <string name="pick_too_many_recipients">Слишком много получателей</string>
      <string name="posterize">Постеризация</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="ppmm_gallery">PPMM</string>
      <string name="projection">Проекция</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="qqbrowser_img">QQ Browser</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="qsbk_save">QSBK</string>
      <string name="redeye">Красные глаза</string>
      <string name="redeye_tooltip">Нажмите для устранения эффекта красных глаз</string>
      <string name="remove_hidden_album">Отменить скрытие</string>
      <string name="remove_recent_album">Удалить из последних альбомов</string>
      <string name="rename_failed">Не удалось переименовать</string>
      <string name="rename_failed_duplicated_name">Имя уже существует</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="renren_image">RenRen</string>
      <string name="request_qr_code">Получения QR-кода, подождите...</string>
      <string name="request_qr_code_failed">Ошибка получения QR-кода, нажмите для повторения</string>
      <string name="request_sms_url_failed">Не удалось запросить URL для обмена по SMS</string>
@@ -285,6 +320,7 @@
      <string name="select_all">Выбрать все</string>
      <string name="select_image">Выбрать фото</string>
      <string name="select_item">Выбрать файлы</string>
+     <string name="select_too_much_to_send_tips">Выбранных фотографий слишком много, чтобы отправить. Максимум: %d.</string>
      <string name="select_video">Выбрать видео</string>
      <string name="send">Отправить</string>
      <string name="send_multiple_files_hint_format">Отправить несколько файлов (%s)</string>
@@ -324,6 +360,8 @@
      <string name="show_images_only">Только изображения</string>
      <string name="show_on_map">Показать на карте</string>
      <string name="show_videos_only">Только видео</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="sina_weibo_save">Weibo</string>
      <string name="size_above">%1$s или более</string>
      <string name="size_below">%1$s или менее</string>
      <string name="size_between">между %1$s и %2$s</string>
@@ -352,6 +390,14 @@
      <string name="tab_wallpaper_text">Рабочий стол</string>
      <string name="tags">Теги</string>
      <string name="temperature">Тепло</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="tencent_mobile_qq_img_save">QQ2012</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="tencent_qq_hd_pic">QQ HD</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="tencent_qzonepic">Qzone</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="tieba">Tie Ba</string>
      <string name="time">Время</string>
      <string name="times">Даты</string>
      <string name="tint">Оттенок</string>
@@ -361,12 +407,16 @@
      <string name="try_to_send">Отправить</string>
      <string name="turn_left">Повернуть</string>
      <string name="turn_right">Повернуть</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="ucdownloads_screenshot">UC Browser</string>
      <string name="unit_mm">мм</string>
      <string name="untagged">Без тегов</string>
      <string name="video_err">Не удалось воспроизвести видео</string>
      <string name="vignette">Виньетка</string>
      <string name="wallpaper">Рабочий стол</string>
      <string name="warn">Внимание</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="weikan_weikan">Weikan TV</string>
      <string name="white_balance">Баланс белого</string>
      <string name="widget_type">Выбор изображений</string>
      <string name="widget_type_album">Выбрать альбом</string>

@@ -50,8 +50,10 @@
      <string name="play_record">проиграть</string>
      <string name="preference_led_indicator">Индикатор записи</string>
      <string name="preference_led_indicator_prompt">Мигать светодиодом при записи в заблокированном режиме</string>
+     <string name="preference_record_scenes_dialog_title">Выбор режима записи</string>
      <string name="preference_record_type_dialog_title">Выбор типа файла для записи</string>
      <string name="preference_record_type_title">Тип записи</string>
+     <string name="preference_scenes">Режим записи</string>
      <string name="preference_silent_mode">Запись в режиме \"Без звука\"</string>
      <string name="record_list">Список записей</string>
      <string name="record_loading">Загрузка записей, пожалуйста, подождите.</string>

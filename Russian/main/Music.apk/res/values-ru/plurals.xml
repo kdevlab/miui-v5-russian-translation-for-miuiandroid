@@ -49,6 +49,10 @@
         <item quantity="other">плейлисты</item>
         <item quantity="one">плейлист</item>
      </plurals>
+     <plurals name="Nsearch_results">
+        <item quantity="other">Результатов: %d</item>
+        <item quantity="one">Результатов: %d</item>
+     </plurals>
      <plurals name="Ntrack_in_sdcard_format">
         <item quantity="other">Треков на SD-карте: %d</item>
         <item quantity="one">Треков на SD-карте: 1</item>
