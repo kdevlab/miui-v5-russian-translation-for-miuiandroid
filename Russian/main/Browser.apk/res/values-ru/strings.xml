@@ -270,16 +270,24 @@
      <string name="max_tabs_warning">Достигнут предел количества вкладок</string>
      <string name="menu_addtodesk">Добавить на рабочий стол</string>
      <string name="menu_disable_night_mode">Выключить ночной режим</string>
+     <string name="menu_disable_save_bandwidth_mode">Отключить ограничение интернета</string>
      <string name="menu_download_video">Загруженные видео</string>
      <string name="menu_enable_night_mode">Включить ночной режим</string>
+     <string name="menu_enable_save_bandwidth_mode">Ограничить интернет</string>
      <string name="menu_exit">Выход</string>
      <string name="menu_hv_swap">В ландшафтный режим</string>
      <string name="menu_hv_swap2">В портретный режим</string>
      <string name="menu_preferences">Настройки</string>
+     <string name="menu_save_bandwidth_mode_close_toast">Ограничение интернета отключено</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="menu_save_bandwidth_mode_first_clicked_positive_btn_txt">OK</string>
+     <string name="menu_save_bandwidth_mode_first_clicked_txt">"Не использовать мобильные сети для предварительной загрузки страниц или для автоматического показа изображений"</string>
+     <string name="menu_save_bandwidth_mode_open_toast">Ограничение интернета включено</string>
      <string name="menu_save_snapshot">Сохранить страницу</string>
      <string name="menu_share_url">Отправить</string>
      <string name="menu_theme_setting">Настройки темы</string>
      <string name="menu_view_download">Загрузки</string>
+     <string name="modify_download_path_no_sdcard_dlg_msg">Требуется USB накопитель для изменения.</string>
      <string name="move_to_up_folder">на уровень выше</string>
      <string name="multi_select_title">Выбрано %1$s закладок</string>
      <string name="name">Ярлык</string>
@@ -336,7 +344,6 @@
      <string name="pref_content_open_in_background">Фоновый режим</string>
      <string name="pref_content_open_in_background_summary">Открывать новые вкладки перед текущей</string>
      <string name="pref_content_plugins">Разрешить плагины</string>
-     <string name="pref_content_preload_title">Предварительная загрузка</string>
      <string name="pref_content_search_engine">Поисковая система</string>
      <string name="pref_content_search_engine_summary">Выберите поисковую систему</string>
      <string name="pref_content_title">Содержание страницы</string>
@@ -388,7 +395,6 @@
      <string name="pref_general_sync_title">Синхронизация</string>
      <string name="pref_general_title">Общие</string>
      <string name="pref_gesture_title">Жесты</string>
-     <string name="pref_image_display_control">Отображение изображений</string>
      <string name="pref_images_preload_dialogtitle">Предзагрузка изображений</string>
      <string name="pref_images_preload_summary">" разрешить браузеру предварительно загружать изображения, если позволяет сервер"</string>
      <string name="pref_images_preload_title">Предзагрузка изображений</string>
@@ -440,6 +446,8 @@
      <string name="pref_privacy_security_title">Личные данные</string>
      <string name="pref_reading_mode_enabled_title">Режим чтения</string>
      <string name="pref_reading_mode_enabled_title_summary">Необходим JavaScript</string>
+     <string name="pref_save_bandwidth_mode_summary">Если эта функция включена, браузер не будет использовать вашу мобильную сеть для предварительной загрузки страниц или для автоматического показа изображений</string>
+     <string name="pref_save_bandwidth_mode_title">Использование мобильных данных</string>
      <string name="pref_security_accept_cookies">Разрешить cookie</string>
      <string name="pref_security_accept_cookies_summary">Разрешить сайтам сохранять и читать файлы cookie</string>
      <string name="pref_security_passwords_title">Пароли</string>
