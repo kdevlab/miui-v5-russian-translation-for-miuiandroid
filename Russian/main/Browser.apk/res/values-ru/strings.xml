@@ -213,6 +213,7 @@
      <string name="filename_illegal_alert_message">Имя файла содержит недопустимые символы, они будут автоматически удалены.</string>
      <string name="find_on_page">Найти на странице</string>
      <string name="folder_name">Имя папки</string>
+     <string name="folder_name_too_long">Папка имеет слишком длинное имя</string>
      <string name="forward">Вперед</string>
      <string name="geolocation_permissions_prompt_dont_share">Отклонить</string>
      <string name="geolocation_permissions_prompt_message">%s запрашивает данные о вашем местоположении</string>
