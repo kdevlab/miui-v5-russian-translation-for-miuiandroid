@@ -93,9 +93,9 @@
         <item>27</item>
      </integer-array>
      <string-array name="haptic_feedback_level_entries">
-        <item>Слабый</item>
-        <item>Средний</item>
         <item>Сильный</item>
+        <item>Средний</item>
+        <item>Слабый</item>
      </string-array>
      <string-array name="hdcp_checking_summaries">
         <item>Не использовать проверку HDCP</item>
