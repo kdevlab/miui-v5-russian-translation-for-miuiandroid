@@ -133,12 +133,12 @@ version:1370985495
           "hide" : 0,
           "phone" : "+78007008000"
         },
-        { "contactName" : "Провайдер",
+    { "contactName" : "Провайдер",
           "contactName_py" : "Билайн",
           "hide" : 0,
           "phone" : "+78007005060"
         },
-        { "contactName" : "Провайдер",
+    { "contactName" : "Провайдер",
           "contactName_py" : "Билайн",
           "hide" : 0,
           "phone" : "+78001000628"
@@ -235,12 +235,12 @@ version:1370985495
           "hide" : 0,
           "phone" : "+78002000000"
         },
-        { "contactName" : "Банк",
+    { "contactName" : "Банк",
           "contactName_py" : "Альфа-банк",
           "hide" : 0,
           "phone" : "+78001007733"
         },
-        { "contactName" : "Банк",
+    { "contactName" : "Банк",
           "contactName_py" : "Альфа-банк",
           "hide" : 0,
           "phone" : "+78002003030"
@@ -268,7 +268,7 @@ version:1370985495
           "hide" : 0,
           "phone" : "+78002000022"
         },
-        { "contactName" : "Банк",
+    { "contactName" : "Банк",
           "contactName_py" : "Хоум-Кредит",
           "hide" : 0,
           "phone" : "+78007008006"
