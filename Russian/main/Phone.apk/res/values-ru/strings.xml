@@ -615,7 +615,7 @@
      <string name="not_allowed">Установленная SIM-карта не может подключиться к этой сети.</string>
      <string name="not_connected_miui">Не подключено</string>
      <string name="not_voice_capable">Голосовые вызовы не поддерживаются</string>
-     <string name="notification_action_end_call">Завершить звонок</string>
+     <string name="notification_action_end_call">Завершить вызов</string>
      <string name="notification_incoming_call">Входящий вызов</string>
      <string name="notification_missedCallTicker">Пропущенные вызовы от абонента %s</string>
      <string name="notification_missedCallTitle">Пропущенный вызов</string>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PopupuiReceiver</string>
+    <string name="btn_text_yes">OK</string>
+    <string name="btn_text_no">Отмена</string>
+    <string name="text_discription">"Network doesn't provide date and time information. Go to date and time settings and set manually"</string>
+    <string name="timezone_toast">Настройка часового пояса до установки времени</string>
+    <string name="popup_name">Уведомление</string>
+    <string name="sound_off_toast">Unable to adjust volume while all sound is off. You can turn on sound by going to accessibility settings</string>
+    <string name="ear_protect_toast">Прослушивание музыки на большой громкости в течение длительного времени может повредить Ваш слух</string>
+    <string name="btn_text_Done">Готово</string>
+    <string name="title_customizable_key">Customizable key</string>
+    <string name="description_customizable_key">You can use this key to quickly access a function on your phone that you choose. Would you like to select the function for this key now?</string>
+    <string name="btn_text_assign">Assign</string>
+    <string name="do_not_show">Больше не показывать</string>
+    <string name="no_network_connection">Нет интернет соединения</string>
+    <string name="network_err_flight_mode_on">Unable to connect to mobile networks while Flight mode is enabled. Connect to Wi-Fi network instead, or disable Flight mode and try again</string>
+    <string name="network_err_flight_mode_on_without_Wifi">Unable to connect to mobile networks while Flight mode is enabled. Disable Flight mode and try again</string>
+    <string name="disable_flight_mode">Disable Flight mode</string>
+    <string name="network_err_mobile_data_off">Mobile data is disabled. Connect to Wi-Fi network instead, or enable mobile data and try again</string>
+    <string name="network_err_mobile_data_off_without_Wifi">Mobile data is disabled. Enable mobile data and try again</string>
+    <string name="network_err_data_roaming_off">Data roaming is disabled. Connect to Wi-Fi network instead, or enable data roaming and try again</string>
+    <string name="network_err_data_roaming_off_without_Wifi">Data roaming is disabled. Enable data roaming and try again</string>
+    <string name="enable_data_roaming">Enable data roaming</string>
+    <string name="enable_data_roaming_att">Allow data roaming</string>
+    <string name="allow_data_roaming">Using mobile data when roaming will incur extra charges</string>
+    <string name="mobile_data_disabled">Мобильный интернет отключен</string>
+    <string name="network_err_reached_data_limit">"You've reached your specified data usage limit 
+
+If you re-enable data, you may be charged by the operator"</string>
+    <string name="re_enable_data">Re-enable data</string>
+    <string name="network_err_no_signal">Нет сигнала для мобильных сетей</string>
+    <string name="btn_text_retry">Повторить</string>
+    <string name="btn_text_later">Потом</string>
+    <string name="allow_data_roaming_att">International data roaming charges apply to data usage outside of the U.S., Puerto Rico and U.S.V.I.</string>
+    <string name="network_err_no_signal_no_sim">Wi-Fi connection required. Connect to Wi-Fi network and try again</string>
+    <string name="open_app_info">О приложении</string>
+    <string name="disabled_app">Отключенное приложение</string>
+    <string name="disabled_app_description">Не удается открыть это приложение поскольку оно отключено</string>
+</resources>
