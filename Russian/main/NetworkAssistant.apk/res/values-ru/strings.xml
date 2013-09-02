@@ -25,7 +25,7 @@
      <string name="app_detail_internet_control_category">Управление сетью</string>
      <string name="app_detail_title">О программе</string>
      <string name="app_detail_version">Версия: %s</string>
-     <string name="app_has_deleted">%s удалено.</string>
+     <string name="app_has_deleted">%s удалено</string>
      <string name="app_name">Монитор</string>
      <string name="app_traffic_detail">" трафик(%s)"</string>
      <string name="apply_rules_failed">Не удалось включить брандмауэр, попробуйте еще раз (%s)</string>
@@ -52,19 +52,20 @@
      <string name="disable_background_mobile_connect">Отключить фоновые соединения</string>
      <string name="edit_frame_free_traffic_title">Изменить учет трафика</string>
      <string name="edit_frame_month_start_title">Дата начала учета</string>
-     <string name="edit_frame_warning_title">"Порог предупреждения "</string>
+     <string name="edit_frame_warning_title">Порог предупреждения</string>
      <string name="finish_traffic_settings_hint">Настройки сохранены</string>
-     <string name="finish_traffic_settings_message">Использовано %s трафика. Данные верны? Если нет, то вы можете изменить настройки.</string>
-     <string name="finish_traffic_settings_title">Настройки трафика</string>
+     <string name="finish_traffic_settings_message">"Использовано %s трафика. Данные верны? 
+Если нет, то Вы можете настроить их ниже."</string>
+     <string name="finish_traffic_settings_title">Настройка трафика</string>
      <string name="fire_rule_program_list">Список приложений</string>
      <string name="fire_wall_is_closed">Брэндмауер не включен</string>
-     <string name="force_stop_dlg_text">Завершение работы приложения может вызвать ошибки</string>
-     <string name="force_stop_dlg_title">Закрыть приложение?</string>
+     <string name="force_stop_dlg_text">Завершение работы приложения может вызвать ошибки. Продолжить?</string>
+     <string name="force_stop_dlg_title">Закрытие приложения</string>
      <string name="i_known_button">ОК</string>
      <string name="input_hint">Пожалуйста, введите</string>
      <string name="loading_app">Загрузка...</string>
      <string name="manual_input_used_traffic_hint">Использовано трафика</string>
-     <string name="manual_input_used_traffic_title">Ручная настройка</string>
+     <string name="manual_input_used_traffic_title">Введите использованный трафик</string>
      <string name="menu_display_system_app">Показать системные приложения</string>
      <string name="menu_display_wifi">Показать Wi-Fi трафик</string>
      <string name="menu_hide_system_app">Скрыть системные приложения</string>
@@ -93,14 +94,14 @@
      <string name="pref_category_adjust_traffic">Регулировка трафика</string>
      <string name="pref_connect_settings_enable_backgroung">Фоновые службы</string>
      <string name="pref_connect_settings_enable_backgroung_hint">Разрешить автоматическое подключение к сети приложениям, которые работают в фоновом режиме</string>
-     <string name="pref_connect_settings_exceed_limit">Отключать передачу данных</string>
-     <string name="pref_connect_settings_exceed_limit_hint">Предупреждать меня и отключить передачу данных при превышении ежемесячного лимита трафика</string>
+     <string name="pref_connect_settings_exceed_limit">Отключать данные</string>
+     <string name="pref_connect_settings_exceed_limit_hint">Предупредить меня и отключить передачу данных при превышении ежемесячного лимита трафика</string>
      <string name="pref_connect_settings_notify_in_statusbar">Отображать трафик</string>
      <string name="pref_connect_settings_title">Настройки монитора</string>
      <string name="pref_network_speed_internal_title">Интервал обновления</string>
      <string name="pref_network_speed_settings">Скорость сети</string>
-     <string name="pref_network_status_bar">Панель состояния</string>
-     <string name="pref_netwotk_speed_internal_summary">Обновлять скорость сети каждые %d сек</string>
+     <string name="pref_network_status_bar">Статус-бар</string>
+     <string name="pref_netwotk_speed_internal_summary">Обновлять скорость сети каждые %d сек.</string>
      <string name="pref_traffic_adjust_title">Регулировка трафика</string>
      <string name="pref_traffic_daily_limit_settings">Настройки ежедневного лимита</string>
      <string name="pref_traffic_settings">Тарифный план</string>
@@ -108,10 +109,8 @@
      <string name="retry">Повторить</string>
      <string name="save">Сохранить</string>
      <string name="settings_page_adjust_summary_no_carrier">Оператор не настроен, авторегуировка трафика отключена</string>
-     <string name="settings_page_traffic_summary">"Доступно: %1$s
-Порог предупреждения: %2$s
-Дата начала учета: %3$d"</string>
-     <string name="settings_page_traffic_summary_no_settings">Пакет не установлен. Дата последнего пополнения: %d.</string>
+     <string name="settings_page_traffic_summary">Доступно: %1$s, Порог: %2$s, Дата учета: %3$d</string>
+     <string name="settings_page_traffic_summary_no_settings">Пакет не установлен. Дата учета: %d.</string>
      <string name="sms_match_fail">ошибка SMS</string>
      <string name="sms_template_match_fail">Ошибка сопоставления шаблона SMS</string>
      <string name="sms_template_updated_label">"Обновлено: "</string>
@@ -128,7 +127,7 @@
      <string name="sync_traffic_success">Информация о пакетах трафика получена, настройки обновлены</string>
      <string name="text_done">Готово</string>
      <string name="text_save">Сохранить</string>
-     <string name="traffic_none">Нет данных</string>
+     <string name="traffic_none">Н/д</string>
      <string name="traffic_remain">Осталось</string>
      <string name="traffic_settings_error">Ошибка в настройках ежемесячного разрешенного трафика. Согласно вашему оператору, размер вашего трафика: %1$s и осталось: %2$s.</string>
      <string name="traffic_suffix">Трафик</string>
@@ -138,8 +137,8 @@
      <string name="traffic_used_status">"%s
 использовано"</string>
      <string name="unknown">Нет данных</string>
-     <string name="unknown_free_traffic_hint">Если вы не знаете сколько предоставляется трафика на вашем тарфином плане, пожалуйста, обратитесь к оператору мобильной связи для выяснения подробностей.</string>
-     <string name="unknown_free_traffic_text">Я не знаю об ограничениях трафика</string>
+     <string name="unknown_free_traffic_hint">Если Вы не знаете сколько предоставляется трафика на тарфином плане, пожалуйста, обратитесь к оператору мобильной связи для выяснения подробностей</string>
+     <string name="unknown_free_traffic_text">Я не знаю свой обьем трафика</string>
      <string name="unknown_free_traffic_title">Предупреждение</string>
      <string name="unknown_location">Неизвестное местоположение</string>
      <string name="unknown_traffic_hint">Лимит трафика не установлен. Хотите установить его прямо сейчас?</string>
@@ -149,7 +148,7 @@
      <string name="update_success">Успешно обновлено</string>
      <string name="updating">Обновление...</string>
      <string name="used_flux">Трафик</string>
-     <string name="version_label">"Версия: "</string>
+     <string name="version_label">Версия:</string>
      <string name="warning_settings_toast">%1$d%% %2$d МБ</string>
      <string name="warning_title">Предупреждение</string>
      <string name="wifi_traffic">Wi-Fi: %s</string>

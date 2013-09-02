@@ -33,6 +33,6 @@
      <string name="traffic_protection_label">Монитор трафика</string>
      <string name="traffic_protection_summary">С помощью приложения \"Монитор\" Вы сможете установить лимит на мобильный трафик</string>
      <string name="traffic_protection_text_hint">Введите лимит трафика</string>
-     <string name="traffic_protection_unknown">Пропустить</string>
+     <string name="traffic_protection_unknown"><u>Пропустить</u></string>
      <string name="use_data">Передача данных</string>
 </resources>
