@@ -71,6 +71,7 @@
      <string name="block">Заблокировать</string>
      <string name="bookmark_add_to">Добавить в</string>
      <string name="bookmark_cannot_save_url">Невозможно добавить в закладки эту страницу</string>
+     <string name="bookmark_folder_needs_title">Папка должна иметь имя.</string>
      <string name="bookmark_list_view">Список</string>
      <string name="bookmark_needs_title">Необходимо указать имя закладки</string>
      <string name="bookmark_needs_url">Необходимо указать место закладки</string>

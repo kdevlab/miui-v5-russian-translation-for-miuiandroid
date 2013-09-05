@@ -152,6 +152,7 @@
      <string name="importing_progress_private_message">Импорт сообщений в приватный ящик...</string>
      <string name="in_sms">Сообщение</string>
      <string name="insufficient_drm_rights">Обнаруженных прав DRM недостаточно</string>
+     <string name="invalid_conversation">Неверная цепочка</string>
      <string name="invalid_destination">Неверный адрес получателя</string>
      <string name="invalid_recipient_message">Убедитесь, что все получатели указаны правильно</string>
      <string name="kilobyte">КБ</string>

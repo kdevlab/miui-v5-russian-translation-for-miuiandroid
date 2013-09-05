@@ -15,5 +15,7 @@
      <string name="rightParenDesc">Правая скобка</string>
      <string name="scientific">Научный</string>
      <string name="sqrtDesc">Квадратный корень</string>
+     <string name="switch_to_scientific_pad">переключиться в научный режим</string>
+     <string name="switch_to_standard_pad">переключиться в стандартный режим</string>
      <string name="text_copied_toast">Текст скопирован</string>
 </resources>
