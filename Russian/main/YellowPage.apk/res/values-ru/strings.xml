@@ -57,7 +57,7 @@
      <string name="recharge_pay_hint">Поддержка предоставлена Xiaomi</string>
      <string name="recharge_pay_hint_license">Уведомление о пополнении</string>
      <string name="recharge_payment_result_failed_summary">Пожалуйста, попробуйте еще раз</string>
-     <string name="recharge_payment_result_failed_title">Ошибка пополнение</string>
+     <string name="recharge_payment_result_failed_title">Ошибка пополнения</string>
      <string name="recharge_payment_result_ok_summary">Подтвердите, что эта сумма есть на Вашем счету</string>
      <string name="recharge_payment_result_ok_title">Добавлено %s RMB</string>
      <string name="recharge_payment_result_progress_summary">Проверка результата пополнения…</string>
