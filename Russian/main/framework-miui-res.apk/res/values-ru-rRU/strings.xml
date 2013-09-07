@@ -495,6 +495,7 @@ EEEE"</string>
      <string name="volume_icon_description_media">Медиа</string>
      <string name="volume_icon_description_notification">Уведомления</string>
      <string name="volume_icon_description_ringer">Мелодия</string>
+	 <string name="volume_ring_description">Мелодия и уведомления</string>
      <string name="wake_alarm_message">"Будильник зазвонит
 %s"</string>
      <string name="white_dews">""</string>
