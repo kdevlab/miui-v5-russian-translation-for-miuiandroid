@@ -81,8 +81,8 @@
      <string name="resource_default_name">Ресурс</string>
      <string name="resource_delete_all">Вы уверены, что хотите удалить выбранные ресурсы (%1$d)?</string>
      <string name="resource_delete_confirm">Удалить выбранное?</string>
-     <string name="resource_delta_update_failed">Ошибка обновления, необходимо скачать полностью</string>
-     <string name="resource_delta_update_successful">Обновление завершено, сохраняю в %1$s.</string>
+     <string name="resource_delta_update_failed">Ошибка обновления. Необходимо скачать полностью.</string>
+     <string name="resource_delta_update_successful">Обновление завершено. Сохраняю в %1$s.</string>
      <string name="resource_detail">Детали</string>
      <string name="resource_download">Скачать</string>
      <string name="resource_downloaded_title">Скачанные</string>
@@ -92,7 +92,7 @@
      <string name="resource_get_auth_exceed_max_limit_title">Превышен предел авторизаций</string>
      <string name="resource_get_auth_missing">Тема не скачана с официального маркета. Пожалуйста, скачайте аналогичную тему из официального маркета.</string>
      <string name="resource_get_auth_retrieving">Получение авторизации...</string>
-     <string name="resource_import_successful">Загрузка завершена.</string>
+     <string name="resource_import_successful">Загрузка завершена</string>
      <string name="resource_importing">Импортирование</string>
      <string name="resource_list_title">Последние</string>
      <string name="resource_local">Локально %1$s</string>
@@ -110,7 +110,7 @@
      <string name="resource_switch_account">Переключить</string>
      <string name="resource_system_title">Системные</string>
      <string name="resource_tip_select_ringtone">Мелодия не выбрана</string>
-     <string name="resource_title">Дополнительные</string>
+     <string name="resource_title">Сведения</string>
      <string name="resource_title_select_ringtone">Выберите мелодию</string>
      <string name="resource_update">Обновить</string>
      <string name="resource_waiting_download">Ожидание</string>
