@@ -3,10 +3,10 @@
     <string name="app_name">PopupuiReceiver</string>
     <string name="btn_text_yes">OK</string>
     <string name="btn_text_no">Отмена</string>
-    <string name="text_discription">"Network doesn't provide date and time information. Go to date and time settings and set manually"</string>
-    <string name="timezone_toast">Настройка часового пояса до установки времени</string>
+    <string name="text_discription">Сеть не предоставляет информацию даты и времени. Перейти к дате и времени, чтобы установить вручную.</string>
+    <string name="timezone_toast">Настройте часовой пояс до установки времени</string>
     <string name="popup_name">Уведомление</string>
-    <string name="sound_off_toast">Unable to adjust volume while all sound is off. You can turn on sound by going to accessibility settings</string>
+    <string name="sound_off_toast">Невозможно регулировать громкость, т.к. все звуки отключены. Вы можете включить звук, зайдя в настройки доступности.</string>
     <string name="ear_protect_toast">Прослушивание музыки на большой громкости в течение длительного времени может повредить Ваш слух</string>
     <string name="btn_text_Done">Готово</string>
     <string name="title_customizable_key">Customizable key</string>
