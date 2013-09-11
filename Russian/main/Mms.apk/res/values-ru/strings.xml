@@ -3,6 +3,7 @@
 <resources>
      <string name="activity_not_found">Не удается открыть вложение</string>
      <string name="activity_not_found_uri">Не удается найти приложение для этого типа файлов</string>
+	 <string name="addBlackList">Добавить в черный список</string>
      <string name="add_attachment">добавить вложение</string>
      <string name="add_bookmark">Избранные</string>
      <string name="add_contact">Контакт</string>
@@ -31,6 +32,7 @@
      <string name="attach_take_photo">Сделать фото</string>
      <string name="attach_video">Видео</string>
      <string name="back_to_message_list">вернутся к списку сообщений</string>
+	 <string name="batch_adding_progress_message">Добавление...</string>
      <string name="batch_delete_confirm_dialog_message">Удалить выбранные сообщения (%1$s)?</string>
      <string name="batch_deleting_message_progress_message">Удалить выбранные сообщения</string>
      <string name="batch_deleting_progress_message">Удаление...</string>
@@ -52,6 +54,7 @@
      <string name="close">Закрыть</string>
      <string name="compressing">Картинка слишком большая. Выполняется сжатие…</string>
      <string name="confirm">Подтвердить</string>
+	 <string name="confirm_add_blacklist_dialog_dspt">Добавить номер в черный список?</string>
      <string name="confirm_delete_SIM_message">Вы уверены, что хотите удалить это сообщение с SIM-карты?</string>
      <string name="confirm_delete_all_SIM_messages">Вы уверены, что хотите удалить все сообщения с SIM-карты?</string>
      <string name="confirm_delete_all_conversations">Вы уверены, что хотите удалить все переписки?</string>
@@ -135,6 +138,7 @@
      <string name="festival">Поздравления</string>
      <string name="festival_sms_category_count_format">(%s)</string>
      <string name="festival_sms_loading">Загрузка...</string>
+	 <string name="file_share_message_description">Я хочу поделиться с Вами файлами</string>
      <string name="forward_prefix">"От: "</string>
      <string name="found_old_messages">Найдено сообщений от предыдущего аккаунта: %1$s. Вы хотите загрузить их в текущий аккаунт %2$s?</string>
      <string name="found_old_messages_title">Загрузка сообщений</string>
