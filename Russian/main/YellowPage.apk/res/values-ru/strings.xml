@@ -50,9 +50,15 @@
      <string name="payment_unknown_status_title">Нет информации об оплате</string>
      <string name="phone_info_divider">" ｜ "</string>
      <string name="provider_tag">Источник данных</string>
+     <string name="recharge_actual_price">Цена:</string>
      <string name="recharge_charge_range">Цена: ¥%1$s-%2$s</string>
      <string name="recharge_charge_value">Цена: ¥%s</string>
+     <string name="recharge_history">История пополнений</string>
      <string name="recharge_input_phone_title">Введите номер телефона (China mobile, China Unicom, или China Telecom)</string>
+     <string name="recharge_order_actual_price">¥%s</string>
+     <string name="recharge_order_id">Order ID：</string>
+     <string name="recharge_order_original_price">RMB%s</string>
+     <string name="recharge_order_pay">Оплатить</string>
      <string name="recharge_pay">Пополнить сейчас</string>
      <string name="recharge_pay_hint">Поддержка предоставлена Xiaomi</string>
      <string name="recharge_pay_hint_license">Уведомление о пополнении</string>
@@ -63,6 +69,7 @@
      <string name="recharge_payment_result_progress_summary">Проверка результата пополнения…</string>
      <string name="recharge_phone_number_error">Неверный номер телефона</string>
      <string name="recharge_select_money_title">Выберите размер пополнения</string>
+     <string name="recharge_status_description">Статус:</string>
      <string name="recharge_title">Пополнение</string>
      <string name="recharge_user_confirm_summary">"Вы пополнили %1$s на %2$s RMB！
 

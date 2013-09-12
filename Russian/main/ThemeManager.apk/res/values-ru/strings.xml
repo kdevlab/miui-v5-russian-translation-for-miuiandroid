@@ -21,10 +21,9 @@
      <string name="component_category_finest_title">Основные</string>
      <string name="component_category_more_title">Дополнительные</string>
      <string name="component_include_title">Элементов: %1$s</string>
-     <string name="component_lockstyle_personal_title">Настройки локскрина</string>
      <string name="component_select_title">%1$s элементов</string>
      <string name="component_settings_title">Текущая тема</string>
-	 <string name="default_name">По умол.</string>
+     <string name="default_name">По умол.</string>
      <string name="deleting">Удаление...</string>
      <string name="description_author">Автор:</string>
      <string name="description_designer">Дизайнер:</string>
@@ -45,7 +44,7 @@
      <string name="lockscreen_wallpaper">Экран блокировки</string>
      <string name="lockstyle_personal_settings">Изменить</string>
      <string name="long_ringtone_resource">Длинные</string>
-	 <string name="maml_component_customization_title">Настройки компонентов</string>
+     <string name="maml_component_customization_title">Настройки компонентов</string>
      <string name="menu_refresh">Обновить</string>
      <string name="mi_wallpaper">Mi обои</string>
      <string name="online_no_network">Не удается подключиться к сети</string>

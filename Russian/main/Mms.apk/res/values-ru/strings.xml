@@ -3,7 +3,7 @@
 <resources>
      <string name="activity_not_found">Не удается открыть вложение</string>
      <string name="activity_not_found_uri">Не удается найти приложение для этого типа файлов</string>
-	 <string name="addBlackList">Добавить в черный список</string>
+     <string name="addBlackList">Добавить в черный список</string>
      <string name="add_attachment">добавить вложение</string>
      <string name="add_bookmark">Избранные</string>
      <string name="add_contact">Контакт</string>
@@ -32,7 +32,7 @@
      <string name="attach_take_photo">Сделать фото</string>
      <string name="attach_video">Видео</string>
      <string name="back_to_message_list">вернутся к списку сообщений</string>
-	 <string name="batch_adding_progress_message">Добавление...</string>
+     <string name="batch_adding_progress_message">Добавление...</string>
      <string name="batch_delete_confirm_dialog_message">Удалить выбранные сообщения (%1$s)?</string>
      <string name="batch_deleting_message_progress_message">Удалить выбранные сообщения</string>
      <string name="batch_deleting_progress_message">Удаление...</string>
@@ -54,7 +54,7 @@
      <string name="close">Закрыть</string>
      <string name="compressing">Картинка слишком большая. Выполняется сжатие…</string>
      <string name="confirm">Подтвердить</string>
-	 <string name="confirm_add_blacklist_dialog_dspt">Добавить номер в черный список?</string>
+     <string name="confirm_add_blacklist_dialog_dspt">Добавить номер в черный список?</string>
      <string name="confirm_delete_SIM_message">Вы уверены, что хотите удалить это сообщение с SIM-карты?</string>
      <string name="confirm_delete_all_SIM_messages">Вы уверены, что хотите удалить все сообщения с SIM-карты?</string>
      <string name="confirm_delete_all_conversations">Вы уверены, что хотите удалить все переписки?</string>
@@ -138,11 +138,11 @@
      <string name="festival">Поздравления</string>
      <string name="festival_sms_category_count_format">(%s)</string>
      <string name="festival_sms_loading">Загрузка...</string>
-	 <string name="file_share_message_description">Я хочу поделиться с Вами файлами</string>
+     <string name="file_share_message_description">Я хочу поделиться с Вами файлами</string>
      <string name="forward_prefix">"От: "</string>
      <string name="found_old_messages">Найдено сообщений от предыдущего аккаунта: %1$s. Вы хотите загрузить их в текущий аккаунт %2$s?</string>
      <string name="found_old_messages_title">Загрузка сообщений</string>
-     <string name="found_wild_messages">В облаке найдено %s сообщений с других SIM-карт. Вы хотите загрузить их?</string>
+     <string name="found_wild_messages">Загрузить облачные сообщения с других ваших SIM-карт?</string>
      <string name="found_wild_messages_title">Скачка сообщений</string>
      <string name="from_label">"От: "</string>
      <string name="group_message">Групповое сообщение</string>
@@ -404,6 +404,10 @@ SMS (%1$d), MMS (%2$d)"</string>
      <string name="to_address_label">"Кому: "</string>
      <string name="to_count">Всего: %d</string>
      <string name="to_label">"Кому: "</string>
+     <!-- The count of MNPS does not match! Now: 1 must: 1
+	%s: 1 must: 0
+	%d: 0 must: 0 -->
+     <!-- Original string: Will send at %.s -->
      <string name="to_send_wrapper">Сообщение запланировано на: %s</string>
      <string name="too_many_attachments">Для вложений установлено ограничение: %1$s. Будет добавлено вложений: %2$s.</string>
      <string name="too_many_recipients">Указано слишком много получателей (%1$s). Разрешено не более %2$s.</string>

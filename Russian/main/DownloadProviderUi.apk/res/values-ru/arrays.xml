@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Builded with CloudBuildr -->
 <resources>
+     <!-- The size of the array does not match! Now: 13 must: 8 -->
      <string-array name="prefEntries_max_bytes_limit">
         <item>1 ГБ</item>
         <item>100 МБ</item>
@@ -14,8 +15,9 @@
         <item>200 КБ</item>
         <item>100 КБ</item>
         <item>Только по Wi-Fi</item>
-   </string-array>
-   <string-array name="prefValues_max_bytes_limit">
+     </string-array>
+     <!-- The size of the array does not match! Now: 13 must: 8 -->
+     <string-array name="prefValues_max_bytes_limit">
         <item>1048576000</item>
         <item>104857600</item>
         <item>52428800</item>
@@ -28,5 +30,5 @@
         <item>204800</item>
         <item>102400</item>
         <item>0</item>
-   </string-array>
+     </string-array>
 </resources>
