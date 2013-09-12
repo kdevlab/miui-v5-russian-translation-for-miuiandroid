@@ -18,7 +18,7 @@
      </string-array>
      <!-- The size of the array does not match! Now: 13 must: 8 -->
      <string-array name="prefValues_max_bytes_limit">
-        <item>1048576000</item>
+        <item>1073741824</item>
         <item>104857600</item>
         <item>52428800</item>
         <item>20971520</item>
