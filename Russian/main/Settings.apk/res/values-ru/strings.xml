@@ -1689,7 +1689,7 @@
      <string name="service_client_name">Нажмите, чтобы изменить %1$s</string>
      <string name="service_foreground_processes">%1$s занято</string>
      <string name="service_manage">Настройки</string>
-     <string name="service_manage_description">%1$s в настоящий момент используется. Нажмите \"Настройки\" для управления.</string>
+     <string name="service_manage_description">%1$s в настоящий момент используется. Нажмите \"Параметры\" для управления.</string>
      <string name="service_process_name">Процесс: %1$s</string>
      <string name="service_restarting">Перезапуск</string>
      <string name="service_started_by_app">Запущено приложением</string>
