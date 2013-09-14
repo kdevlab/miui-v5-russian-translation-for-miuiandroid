@@ -40,6 +40,16 @@
      <string name="close_txt">Закрыть</string>
      <string name="control_app_internet">Использование сети</string>
      <string name="current_warning_value">Предупреждать при достижении: %s</string>
+     <string name="custom_adjust_command">Текст отправителя</string>
+     <string name="custom_adjust_command_hit">текст для отправки</string>
+     <string name="custom_adjust_is_empty">%s пуст!</string>
+     <string name="custom_adjust_receiver">Номер получателя</string>
+     <string name="custom_adjust_receiver_hint">номер оператора для отправки информации</string>
+     <string name="custom_adjust_recevier_same_with_sender">одинаковый с отправителем номер</string>
+     <string name="custom_adjust_sender">Номер отправителя</string>
+     <string name="custom_adjust_sender_hint">номер оператора, используемый для приема запроса информации от пользователя</string>
+     <string name="custom_adjust_summary">%1$s, %2$s, %3$s</string>
+     <string name="custom_adjust_title">Пользовательские настройки</string>
      <string name="daily_limit_dialog_disconnect_hint">Отключать интернет при превышении лимита трафика</string>
      <string name="daily_limit_dialog_hint">Ежедневный лимит (пусто или 0 - без ограничений)</string>
      <string name="daily_limit_result">Предупреждать меня и отключать интернет при превышении ежедневного трафика (%dMB)</string>
@@ -123,6 +133,7 @@
      <string name="sync_traffic_fail_title">Синхронизация не удалась</string>
      <string name="sync_traffic_ing">Синхронизация с оператором, подождите...</string>
      <string name="sync_traffic_no_cmd_detail">Укажите Ваш город, провинцию, ICC и оператора связи здесь: http://www.miui.com/forum-172-1.html. Спасибо.</string>
+     <string name="sync_traffic_no_cmd_detail_custom_config">"Вы можете: 1.Параметры >> Настроить трафик >> Пользовательские настройки, или на главной странице Настроить трафик >> Пользовательские настроки; 2.Укажите Ваш город, провинцию, ICC и оператора связи здесь: http://www.miui.com/forum-172-1.html. Спасибо."</string>
      <string name="sync_traffic_no_cmd_title">Нет шаблона</string>
      <string name="sync_traffic_success">Информация о пакетах трафика получена, настройки обновлены</string>
      <string name="text_done">Готово</string>
