@@ -725,8 +725,8 @@
      <string name="dlg_error_unmount_text">Не удалось отключить SD-карту. Повторите попытку позже.</string>
      <string name="dlg_ok">ОК</string>
      <string name="dndm_auto_button_title">Время</string>
-     <string name="dndm_auto_setting_group">Запланировано</string>
-     <string name="dndm_auto_time_setting">Настройки времени</string>
+     <string name="dndm_auto_setting_group">Включение по времени</string>
+     <string name="dndm_auto_time_setting">Выбор времени</string>
      <string name="dndm_auto_time_setting_summary">с %1$s до %2$s</string>
      <string name="dndm_auto_time_turn_off">До</string>
      <string name="dndm_auto_time_turn_off_title">Автоматическое отключение функции Не беспокоить</string>
@@ -736,7 +736,7 @@
      <string name="dndm_dlg_remove_vip">Удалить из списка исключений?</string>
      <string name="dndm_menu_add_vip_custom">Добавить исключение</string>
      <string name="dndm_mute_all">Отключить звонки и сообщения</string>
-     <string name="dndm_notification">Режим Не беспокоить включен</string>
+     <string name="dndm_notification">Не беспокоить</string>
      <string name="dndm_open">Не беспокоить</string>
      <string name="dndm_repeated_call_setting_title">Повторные звонки</string>
      <string name="dndm_repeated_call_summary_3min">Второй вызов от того же человека в течение трех минут не будет отключен</string>
@@ -745,8 +745,7 @@
      <string name="dndm_summary">После включения режима не беспокоить, входящие звонки и сообщения будут без звука</string>
      <string name="dndm_twelve_hour_time_format">a h:mm</string>
      <string name="dndm_twenty_four_hour_time_format">HH:mm</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="dndm_vip_call_button_title">Разрешить вызовы из списка исключений</string>
+     <string name="dndm_vip_call_button_title">Разрешить из списка исключений</string>
      <string name="dndm_vip_call_setting_title">Настрока исключений</string>
      <string name="dndm_vip_call_summary_contact">Все контакты</string>
      <string name="dndm_vip_call_summary_custom">Исключений: %d</string>
