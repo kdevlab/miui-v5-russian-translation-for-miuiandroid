@@ -29,6 +29,7 @@
      <string name="comment_invalid">Нажмите на звездочки, чтобы оценить.</string>
      <string name="comment_name_default">Пользователь %1$s</string>
      <string name="comment_publish">Отправить</string>
+     <string name="comment_score_count">пользователей: %1$s</string>
      <string name="comment_sending">Отправка...</string>
      <string name="comment_upload_account_need_activitied">Ваш аккаунт не активирован, включить его сейчас?</string>
      <string name="comment_upload_account_not_activitied">Ваш аккаунт не активирован, пожалуйста, активируйте и попробуйте еще раз</string>
@@ -199,6 +200,7 @@
      <string name="share_button">Поделиться</string>
      <string name="share_subject">Отправить： %1$s</string>
      <string name="share_text">Вот приложение, которое я думаю, тебе может понравиться: %1$s，вот ссылка ：%2$s</string>
+     <string name="share_to_weibo">Отправить в sina weibo</string>
      <string name="show_all_local_app">Показать все</string>
      <string name="show_all_local_app_with_count">Все приложения (%1$d)</string>
      <string name="size_interval">%1$d~%2$dM</string>
