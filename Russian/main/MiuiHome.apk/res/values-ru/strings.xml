@@ -9,7 +9,7 @@
      <string name="aqi_quality_index_light_pollution">Легкое загрязнение</string>
      <string name="aqi_quality_index_moderate">Умеренно</string>
      <string name="aqi_quality_index_unhealthy">Вредно</string>
-     <string name="buffering">Буферизация...</string>
+     <string name="buffering">Буферизация…</string>
      <string name="cancel_action">Отмена</string>
      <string name="cancel_btn_label">Отменить</string>
      <string name="cant_remove_folder">Удаление невозможно, т.к. папка не пуста</string>
@@ -54,11 +54,11 @@
      <string name="gadget_clock_24_label">Часы</string>
      <string name="gadget_error_text">Проблема загрузки виджета</string>
      <string name="gadget_google_search_label">Поиск Google</string>
-     <string name="gadget_load_error">Ошибка загрузки виджета...</string>
+     <string name="gadget_load_error">Ошибка загрузки виджета…</string>
      <string name="gadget_photo_22_label">Фоторамка</string>
      <string name="gadget_photo_24_label">Фоторамка</string>
      <string name="gadget_photo_44_label">Фоторамка</string>
-     <string name="gadget_weather_app_not_installed">Нажмите для установки Погоды MIUI</string>
+     <string name="gadget_weather_app_not_installed">Нажмите для установки погоды MIUI</string>
      <string name="gadget_weather_aqi_title">Качество воздуха</string>
      <string name="gadget_weather_download_message">Необходимо скачать тему: %1$s. размер: %2$s. Пожалуйста, выберите снова после завершения скачивания.</string>
      <string name="gadget_weather_download_start">начать</string>
@@ -80,7 +80,7 @@
      <string name="guide_tips_editing_mode">Удерживая виджет, перетащите его на экран</string>
      <string name="install">Установить</string>
      <string name="invalid_contact_shortcut">Недопустимый ярлык</string>
-     <string name="loading_desktop">Загрузка рабочего стола...</string>
+     <string name="loading_desktop">Загрузка рабочего стола…</string>
      <string name="maml_component_customization_title">Настройки компонентов</string>
      <string name="menu_add">Добавить</string>
      <string name="menu_back_desktop">Домой</string>
@@ -113,8 +113,8 @@
      <string name="pref_cell_layout_size">Сетка рабочего стола</string>
      <string name="pref_enable_drawing_cache_summary">Отключите, чтобы освободить больше памяти. Возможно притормаживание системы.</string>
      <string name="pref_enable_drawing_cache_title">Кэш графики</string>
-     <string name="pref_icon_shadow_summary">Добавление эффекта тени для значков на рабочем столе</string>
-     <string name="pref_icon_shadow_title">Тень от значков</string>
+     <string name="pref_icon_shadow_summary">Добавляет иконкам эффект тени и отражения</string>
+     <string name="pref_icon_shadow_title">Тень иконок</string>
      <string name="pref_keep_in_memory_summary">Запрет выгрузки данного приложения из оперативной памяти</string>
      <string name="pref_keep_in_memory_title">Держать в памяти</string>
      <string name="pref_keep_layout_summary">Переключение сетки рабочего стола может нарушить положение иконок. Включите для сохранения положения иконок.</string>
@@ -137,7 +137,7 @@
      <string name="sort_by_frequency">По популярности</string>
      <string name="sort_by_not_defined">По порядку</string>
      <string name="start_activity_failed">Не удалось запустить. Пожалуйста, попробуйте снова.</string>
-     <string name="starting_preset_app">Запуск...</string>
+     <string name="starting_preset_app">Запуск…</string>
      <string name="status_bar_toggle_ac">Доступ</string>
      <string name="status_bar_toggle_auto_brightness">Автоподсв.</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
