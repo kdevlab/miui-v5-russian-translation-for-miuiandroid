@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- weather -->
+<Icon version="1" frameRate="30" width="136" height="136" screenWidth="720" >
+
+        <Image x="68" y="68" align="center" alignV="center"  src="sound.png"  /> 
+        <Image x="91" y="65" align="center" alignV="center" centerX="25" centerY="25" src="sou_big.png" > 
+        <RotationAnimation>
+           <Rotation angle="0" time="0"/>
+           <Rotation angle="360" time="4000"/> 
+        </RotationAnimation>
+       </Image>
+        <Image x="39" y="65" align="center" alignV="center" centerX="18" centerY="18" src="sou_small.png"  > 
+        <RotationAnimation>
+           <Rotation angle="0" time="0"/>
+           <Rotation angle="360" time="4000"/> 
+        </RotationAnimation>
+       </Image>
+</Icon>
