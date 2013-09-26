@@ -293,6 +293,7 @@
      <string name="custom_location_location_no_item_miui">"Нажмите кнопку 'Добавить', чтобы добавить пользовательские атрибуции"</string>
      <string name="custom_location_number_hint_miui">Код города, такие как 010, номер группы, такие как 68#####</string>
      <string name="cw_title_miui">Ожидание вызова</string>
+     <string name="data_connected_change">Невозможно сменить сеть при использовании сети. Остановить использование сети и переключиться на другую?</string>
      <string name="data_enable_summary">Разрешить передачу данных по сети мобильной связи</string>
      <string name="data_enabled">Передача данных</string>
      <string name="deact_all_sub_not_supported">Деактивация обоих подписок не поддерживается.</string>
@@ -364,6 +365,7 @@
      <string name="dtmf_tones_summary_miui">Настроить длительность тональных сигналов DTMF</string>
      <string name="dtmf_tones_title">Тональные сигналы DTMF</string>
      <string name="dtmf_tones_title_miui">Тональные сигналы DTMF</string>
+     <string name="duringcall">Эта операция не допускается во время вызова</string>
      <string name="editContact">Изменить</string>
      <string name="edit_custom_location_title_miui">Настройка региональных приставок</string>
      <string name="edit_fdn_contact">Изменить номер ограниченного набора</string>
@@ -493,6 +495,7 @@
      <string name="incall_screen_background_summary_miui">Использовать обои, если нет аватарки</string>
      <string name="incall_screen_background_title_miui">Фон при звонке</string>
      <string name="incall_status_dialed_mmi">Запуск последовательности MMI...</string>
+     <string name="information">Информация</string>
      <string name="international_disable">Международные новости отключены</string>
      <string name="international_enable">Международные новости включены</string>
      <string name="internet_phone">Интернет-вызов</string>

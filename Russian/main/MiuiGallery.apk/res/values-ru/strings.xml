@@ -15,6 +15,7 @@
      <string name="add_to_cloud_file_exist_message">Фото уже существует в выбранном альбоме</string>
      <string name="add_to_cloud_file_not_exist_message">Файл не существует</string>
      <string name="add_to_cloud_folder">В облако</string>
+     <string name="add_to_cloud_local_space_full_message">Накопитель полный или не подключен.</string>
      <string name="add_to_cloud_reasons" />
      <string name="add_to_cloud_space_full_message">Облачный альбом заполнен</string>
      <string name="add_to_cloud_successfully_message">Успешно добавлено</string>
@@ -153,6 +154,8 @@
      <string name="deny">Отклонить</string>
      <string name="description">Описание</string>
      <string name="details">Сведения</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="details_sharer">Отправитель</string>
      <string name="details_title">%1$d из %2$d</string>
      <string name="directory_info_divider">"  |  "</string>
      <string name="documentary">Документальные</string>
@@ -164,13 +167,17 @@
      <string name="edit">Изменить</string>
      <string name="edited_photo_bucket_name">Измененные</string>
      <string name="email_picker_title">Добавить общий E-mail</string>
-     <string name="empty_album">Доступно O изображений/видео.</string>
+     <string name="enable_cloud_for_sharing">Вам необходимо включить облачный альбом, чтобы просмотреть общие фотографии.</string>
      <string name="enter_email_hint">Введите адрес E-mail</string>
+     <string name="error_album_not_exist">Альбома не существует.</string>
+     <string name="error_cloud_not_active">Облачный альбом не используется</string>
      <string name="error_invalid_link">Ссылка является недействительной. Пусть владелец создаст новую.</string>
      <string name="error_repeat_apply">Вы уже поделились альбомом</string>
      <string name="error_should_not_select_image">Пожалуйста, не выбирайте файл изображения</string>
      <string name="error_should_not_select_video">Пожалуйста, не выбирайте видео файл</string>
      <string name="error_socket_timeout">Сетевой тайм-аут. Повторите позже.</string>
+     <string name="error_unknown_host">Сеть не обнаружена</string>
+     <string name="exit">Выход</string>
      <string name="exit_share">Закрыть альбом</string>
      <string name="exit_share_failed">Закрытие альбома &lt;%1$s> не удалось</string>
      <string name="exit_share_in_process">Попытка закрытия альбома, пожалуйста подождите</string>
@@ -202,6 +209,7 @@
      <string name="frame_white">Белый</string>
      <string name="gallery_cloud_provider_name">Галерея</string>
      <string name="gallery_setting">Настройки</string>
+     <string name="get_album_info_in_process">"Запрос свойств облачного альбома…"</string>
      <string name="global_setting">Настройки</string>
      <string name="grain">Зернистость</string>
      <string name="grayscale">Ч/Б</string>
@@ -359,7 +367,6 @@
      <string name="save_photo">Сохранить изменения?</string>
      <string name="saving_failure">Не удалось сохранить фото</string>
      <string name="saving_image">Сохранение картинки...</string>
-     <string name="scan_barcode">Сканировать QR-код</string>
      <string name="scan_barcode_guide">Чтобы получить QR-код альбома, нажмите иконку Share в верхнем правом углу</string>
      <string name="scan_barcode_to_join">Отсканируйте QR-код, чтобы присоединиться к альбому</string>
      <string name="scan_qr_code_buttom_text">Отсканируйте QR-код, чтобы посмотреть этом альбом</string>

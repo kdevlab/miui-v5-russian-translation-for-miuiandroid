@@ -327,6 +327,7 @@
      <string name="pref_autofill_profile_editor">Текст автозаполнения</string>
      <string name="pref_autofill_profile_editor_summary">Настроить текст для автозаполнения веб-форм</string>
      <string name="pref_autologin_progress">Вход на сайты Google с помощью аккаунта %s</string>
+     <string name="pref_autologin_progress_in_background">Вход на сайты Google используя %s в фоне</string>
      <string name="pref_autologin_title">Автоматический вход в систему</string>
      <string name="pref_clear_cache_for_exit">Очищать кэш</string>
      <string name="pref_clear_history_for_exit">Очищать историю</string>
@@ -478,6 +479,7 @@
      <string name="progress_dialog_setting_wallpaper">Установка обоев...</string>
      <string name="quicklinks_management">Полезные сайты</string>
      <string name="readmode_already_add_to_bookshelf">Уже добавлено на книжную полку</string>
+     <string name="readmode_battery">Батарея </string>
      <string name="readmode_login">Войти</string>
      <string name="readmode_login_message">Для продолжения чтения необходимо войти в аккаунт</string>
      <string name="readmode_page_load_error">Не удалось загрузить страницу. Нажмите кнопку обновить, чтобы попробовать еще раз.</string>

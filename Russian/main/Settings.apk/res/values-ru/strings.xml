@@ -2226,6 +2226,8 @@
      <string name="wfd_disconnect_diag_msg">Если вы выключите Wi-Fi Display, ваше подключение с %1$s завершится</string>
      <string name="wfd_disconnect_diag_title">Завершить подключение?</string>
      <string name="wfd_disconnect_multiple_diag_message">Если вы выключите Wi-Fi Display, ваше подключение с %1$s и %2$s другими устройствами завершится</string>
+     <string name="wfd_enable_wifi_diag_title">Вы можете использовать только Wi-Fi, когда дисплей Wi-Fi включен. Включить сейчас?</string>
+     <string name="wfd_enabler_title">Включить дисплей Wi-Fi</string>
      <string name="wfd_menu_search">Поиск устройств</string>
      <string name="wfd_menu_searching">Поиск…</string>
      <string name="wfd_menu_teardown">Разъединить</string>
