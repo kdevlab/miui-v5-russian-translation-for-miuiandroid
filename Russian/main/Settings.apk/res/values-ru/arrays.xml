@@ -86,12 +86,6 @@
         <item>Крупный</item>
         <item>Огромный</item>
      </string-array>
-     <integer-array name="font_size_preference_preview_size">
-        <item>14</item>
-        <item>18</item>
-        <item>22</item>
-        <item>27</item>
-     </integer-array>
      <string-array name="haptic_feedback_level_entries">
         <item>Сильный</item>
         <item>Средний</item>
@@ -115,15 +109,6 @@
         <item>Голубой</item>
         <item>Белый</item>
         <item>Фиолетовый</item>
-     </string-array>
-     <string-array name="led_color_values">
-        <item>blue</item>
-        <item>red</item>
-        <item>yellow</item>
-        <item>green</item>
-        <item>cyan</item>
-        <item>white</item>
-        <item>\#FFAA00AA</item>
      </string-array>
      <string-array name="led_freq_entries">
         <item>2 сек.</item>
@@ -158,14 +143,6 @@
         <item>Розовый</item>
         <item>Лиловый</item>
         <item>Фиолетовый</item>
-     </string-array>
-     <string-array name="mi1_led_color_values">
-        <item>blue</item>
-        <item>red</item>
-        <item>green</item>
-        <item>\#FFFF0033</item>
-        <item>\#FF5500FF</item>
-        <item>\#FFAA00AA</item>
      </string-array>
      <string-array name="msd_pc_system">
         <item>Windows XP или старее</item>
@@ -203,10 +180,10 @@
      </string-array>
      <string-array name="overlay_display_devices_entries">
         <item>Нет</item>
-        <item>720x480 mdpi</item>
-        <item>1280x720 tvdpi</item>
-        <item>1920x1080 xhdpi</item>
-        <item>1280x720 tvdpi and 1920x1080 xhdpi</item>
+        <item>720x480</item>
+        <item>1280x720</item>
+        <item>1920x1080</item>
+        <item>1280x720 и 1920x1080</item>
      </string-array>
      <string-array name="perm_hips_action">
         <item>Разрешить</item>
@@ -307,7 +284,7 @@
      <string-array name="usb_connection_mode_entries">
         <item>Запрос при подключении</item>
         <item>Только зарядка</item>
-        <item>Подключить SD-карту</item>
+        <item>Подключать SD-карту</item>
      </string-array>
      <string-array name="user_content_ratings_entries">
         <item>Высший разум</item>
@@ -318,8 +295,8 @@
      </string-array>
      <string-array name="vpn_states">
         <item>Отключено</item>
-        <item>Инициализация...</item>
-        <item>Подключение...</item>
+        <item>Инициализация…</item>
+        <item>Подключение…</item>
         <item>Подключено</item>
         <item>Таймаут</item>
         <item>Подключение не удалось</item>
@@ -333,23 +310,17 @@
         <item>IPSec VPN with certificates and hybrid authentication</item>
      </string-array>
      <string-array name="wfd_status">
-        <item>Устройство подключено, создание сессии...</item>
+        <item>Устройство подключено, создание сессии…</item>
         <item>Сессия создана</item>
-        <item>Сессия сорвана...</item>
+        <item>Сессия сорвана…</item>
         <item>Сессия не создана</item>
-        <item>Истекло время ожидания, повтор...</item>
+        <item>Истекло время ожидания, повтор…</item>
         <item>Устройство подключено</item>
      </string-array>
      <string-array name="wifi_ap_security">
         <item>Без шифрования</item>
         <item>WPA PSK</item>
         <item>WPA2 PSK</item>
-     </string-array>
-     <string-array name="wifi_eap_method">
-        <item>PEAP</item>
-        <item>TLS</item>
-        <item>TTLS</item>
-        <item>PWD</item>
      </string-array>
      <string-array name="wifi_frequency_band_entries">
         <item>Автоматически</item>
@@ -407,13 +378,13 @@
      </string-array>
      <string-array name="wifi_status">
         <item></item>
-        <item>Поиск...</item>
-        <item>Подключение...</item>
-        <item>Аутентификация...</item>
-        <item>Получение IP-адреса...</item>
+        <item>Поиск…</item>
+        <item>Подключение…</item>
+        <item>Аутентификация…</item>
+        <item>Получение IP-адреса…</item>
         <item>Подключено</item>
         <item>Приостановлено</item>
-        <item>Отключение...</item>
+        <item>Отключение…</item>
         <item>Нет подключения</item>
         <item>Сбой</item>
         <item>Заблокировано</item>
@@ -421,9 +392,9 @@
      </string-array>
      <string-array name="wifi_status_with_ssid">
         <item></item>
-        <item>Поиск...</item>
+        <item>Поиск…</item>
         <item>Соединение с сетью %1$s…</item>
-        <item>Аутентификация в сети %1$s...</item>
+        <item>Аутентификация в сети %1$s…</item>
         <item>Получение IP-адреса от %1$s…</item>
         <item>Подключено к %1$s</item>
         <item>Приостановлено</item>

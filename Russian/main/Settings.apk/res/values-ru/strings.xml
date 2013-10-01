@@ -511,7 +511,7 @@
      <string name="configure_input_method">Настройка методов ввода</string>
      <string name="confirm_erase">Удалить</string>
      <string name="confirm_new_backup_pw_prompt">Подтвердите пароль</string>
-     <string name="connected_wifi">Подключенный Wi-Fi</string>
+     <string name="connected_wifi">Подключенные сети</string>
      <string name="contributors_title">Участники</string>
      <string name="controls_label">Элементы управления</string>
      <string name="controls_subtitle">Режим энергопотребления</string>
@@ -1223,7 +1223,7 @@
      <string name="multi_touch_points_category_title">Точки мультитач</string>
      <string name="multi_touch_points_preference">Перезагрузить для применения</string>
      <string name="musicfx_title">Звуковые эффекты</string>
-     <string name="nearby_wifi">Доступные сети Wi-Fi</string>
+     <string name="nearby_wifi">Доступные сети</string>
      <string name="network_detail">Свойства сети %s</string>
      <string name="network_settings_title">Мобильная сеть</string>
      <string name="network_state_label">"Состояние Сети: "</string>
@@ -2345,7 +2345,7 @@
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="wifi_p2p_wps_setup">WPS</string>
      <string name="wifi_password">Пароль</string>
-     <string name="wifi_poor_network_detection">Избегать плохой связи</string>
+     <string name="wifi_poor_network_detection">Избегать плохого сигнала</string>
      <string name="wifi_poor_network_detection_summary">Не использовать Wi-Fi сеть пока не будет стабильного интернет-соединения</string>
      <string name="wifi_quick_toggle_summary">Включить Wi-Fi</string>
      <string name="wifi_quick_toggle_title">Wi-Fi</string>
