@@ -54,6 +54,10 @@
      <string name="delete_playlist_menu">Удалить</string>
      <string name="delete_song_desc">Удалить %s?</string>
      <string name="deselect_all">Отмена</string>
+     <string name="dirac_mode_earbuds">Гарнитура</string>
+     <string name="dirac_mode_in_ear">"Наушники Xiaomi"</string>
+     <string name="dirac_mode_off">Отключено</string>
+     <string name="dirac_mode_piston_100">Наушники Xiaomi (\"затычки\")</string>
      <string name="download">Загрузить</string>
      <string name="download_album_settings">Загрузка обложек</string>
      <string name="download_album_summary">Может требовать большой расход трафика. Рекомендуется отключить.</string>
@@ -68,6 +72,26 @@
      <string name="empty_track_list">Нет списка треков</string>
      <string name="emptyplaylist">Плейлист пуст</string>
      <string name="enter_sleep_mode">Спящий режим</string>
+     <string name="eq_auto">Пользовательский</string>
+     <string name="eq_blues">Блюз</string>
+     <string name="eq_classical">Классика</string>
+     <string name="eq_country">Кантри</string>
+     <string name="eq_dance">Танцевальная</string>
+     <string name="eq_delete">Удалить</string>
+     <string name="eq_delete_success">Удаление завершено</string>
+     <string name="eq_electronic">Электроника</string>
+     <string name="eq_flat">По умолчанию</string>
+     <string name="eq_hiphop">Хип-хоп</string>
+     <string name="eq_jazz">Джаз</string>
+     <string name="eq_metal">Металл</string>
+     <string name="eq_pop">Поп</string>
+     <string name="eq_preset_create">Создать</string>
+     <string name="eq_preset_format">Индивидуальный %d</string>
+     <string name="eq_preset_hint">Пожалуйста, введите имя предустановки</string>
+     <string name="eq_preset_rename">Переименовать</string>
+     <string name="eq_preset_select">Пожалуйста, выберите пресет</string>
+     <string name="eq_rb">R &amp; B</string>
+     <string name="eq_rock">Рок</string>
      <string name="equalizer">Эквалайзер</string>
      <string name="equalizer_delete">Сбросить</string>
      <string name="equalizer_delete_success">Профиль удален</string>
@@ -92,6 +116,7 @@
      <string name="filter_notification">Был применен фильтр по размеру. Вы можете изменить его размер в настройках.</string>
      <string name="folders_title">"Папки "</string>
      <string name="frequentlyplayed_title">Часто проигрываемые</string>
+     <string name="headphone_settings">Настройка типа наушников</string>
      <string name="hot_artists">Популярные исполнители</string>
      <string name="id3_edit">Изменить ID3 информацию</string>
      <string name="id3_edit_failed">Не удалось отредактировать ID3</string>
@@ -128,6 +153,10 @@
      <string name="lyric_open_other_connect">Загрузка текста песен, с помощью мобильного подключения к интернету</string>
      <string name="lyric_picker_not_found">Файловый менеджер, не найден на устройстве</string>
      <string name="mediaplaybacklabel">Музыка</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mi_effect">MiSound</string>
+     <string name="mi_effect_summary">Всегда использовать усилитель MiSound при использовании динамиков</string>
+     <string name="mi_effect_title">Использовать усилитель MiSound</string>
      <string name="mobile_connect_settings">Мобильная сеть</string>
      <string name="modify_id3_for_list">Будет отредактирована информация ID3 треков из текущего списка</string>
      <string name="modify_id3_for_selected">Будет отредактирована информация ID3 выбранных треков</string>
@@ -137,6 +166,7 @@
      <string name="music_browser_label">Музыка</string>
      <string name="music_filter">Фильтрация музыкальных файлов</string>
      <string name="music_filter_helper">Чтобы скрывать файлы, которые не связаны с музыкой, применяется размер фильтра 800 КБ. Порог можно настроить в меню Настройки/Файловый фильтр.</string>
+     <string name="music_not_loaded">Музыка не загружена</string>
      <string name="music_open_other_connect">Скачать музыку с помощью мобильного подключения к интернету</string>
      <string name="music_picker_title">Выберите трек</string>
      <string name="music_settings">Настройки</string>

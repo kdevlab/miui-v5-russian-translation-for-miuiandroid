@@ -45,9 +45,11 @@
      <string name="notification_stopped">Запись остановлена</string>
      <string name="notification_warning">Мало памяти (осталось менее %d мин.)...</string>
      <string name="open_file_explorer">Открыть Файлы</string>
-     <string name="overwrite_dialog_message">%s уже существует. Вы хотите перезаписать его?</string>
+     <string name="overwrite_dialog_message">Запись с таким именем уже существует. Хотите переписать ее?</string>
      <string name="pause">пауза</string>
      <string name="play_record">проиграть</string>
+     <string name="preference_enable_earpiece_summary">Использовать динамик телефона для проигрывания</string>
+     <string name="preference_enable_earpiece_title">Динамик телефона</string>
      <string name="preference_led_indicator">Индикатор записи</string>
      <string name="preference_led_indicator_prompt">Мигать светодиодом при записи в заблокированном режиме</string>
      <string name="preference_record_scenes_dialog_title">Выбор режима записи</string>

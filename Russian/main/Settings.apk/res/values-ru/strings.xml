@@ -111,6 +111,7 @@
 Просто разместите устройства поблизости (например, совместите их задние панели) и коснитесь экрана. Передаваемые данные зависят от приложения."</string>
      <string name="android_beam_off_summary">Отключено</string>
      <string name="android_beam_on_summary">Обмен данными по NFC</string>
+     <string name="android_beam_tips">Убедитесь, что оба устройства соприкасаются и затем нажмите на контент, который хотите передать.</string>
      <string name="android_beam_witch_label">Включить Android Beam</string>
      <string name="animator_duration_scale_title">Шкала длительности анимации</string>
      <string name="apn_auth_type">Тип аутентификации</string>
@@ -447,6 +448,7 @@
      <string name="bluetooth_visibility">Видимость</string>
      <string name="bluetooth_visibility_timeout">Тайм-аут видимости</string>
      <string name="bluetooth_visibility_timeout_summary">Укажите, в течение какого времени устройство будет видимым</string>
+     <string name="breathing_light_color_menu_title">Светлый цвет</string>
      <string name="breathing_light_color_summary">Цвет светодиода для уведомлений</string>
      <string name="breathing_light_color_title">" (цвет)"</string>
      <string name="breathing_light_freq_summary">Интервал мигания светодиода</string>
@@ -820,26 +822,6 @@
      <string name="enforce_read_external_summary">Приложения должны запросить разрешение для доступа к USB накопителю</string>
      <string name="enforce_read_external_title">Защита USB хранилища</string>
      <string name="enter_password">Введите пароль для расшифровки данных хранилища</string>
-     <string name="eq_auto">Пользовательский</string>
-     <string name="eq_blues">Блюз</string>
-     <string name="eq_classical">Классика</string>
-     <string name="eq_country">Кантри</string>
-     <string name="eq_dance">Танцевальная</string>
-     <string name="eq_delete">Удалить</string>
-     <string name="eq_delete_success">Удаление завершено</string>
-     <string name="eq_electronic">Электроника</string>
-     <string name="eq_flat">По умолчанию</string>
-     <string name="eq_hiphop">Хип-хоп</string>
-     <string name="eq_jazz">Джаз</string>
-     <string name="eq_metal">Металл</string>
-     <string name="eq_pop">Поп</string>
-     <string name="eq_preset_create">Создать</string>
-     <string name="eq_preset_format">Индивидуальный %d</string>
-     <string name="eq_preset_hint">Пожалуйста, введите имя предустановки</string>
-     <string name="eq_preset_rename">Переименовать</string>
-     <string name="eq_preset_select">Пожалуйста, выберите пресет</string>
-     <string name="eq_rb">R &amp; B</string>
-     <string name="eq_rock">Рок</string>
      <string name="equalizer">Эквалайзер</string>
      <string name="erase_application">Удаление приложений</string>
      <string name="erase_application_description">Удаление установленных приложений</string>

@@ -405,10 +405,6 @@ SMS (%1$d), MMS (%2$d)"</string>
      <string name="to_address_label">"Кому: "</string>
      <string name="to_count">Всего: %d</string>
      <string name="to_label">"Кому: "</string>
-     <!-- The count of MNPS does not match! Now: 1 must: 1
-	%s: 1 must: 0
-	%d: 0 must: 0 -->
-     <!-- Original string: Will send at %.s -->
      <string name="to_send_wrapper">Сообщение запланировано на: %s</string>
      <string name="too_many_attachments">Для вложений установлено ограничение: %1$s. Будет добавлено вложений: %2$s.</string>
      <string name="too_many_recipients">Указано слишком много получателей (%1$s). Разрешено не более %2$s.</string>

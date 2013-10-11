@@ -57,6 +57,9 @@
      <string name="file_not_found_error_message">Файл не существует или к нему нет доступа, попробуйте еще раз</string>
      <string name="finish">Готово</string>
      <string name="finish_download">Загрузка завершена</string>
+     <string name="fourgrid_hint_text">Благодарим вас за использование MIUI для разработчиков. Расскажите, пожалуйста, что вы думаете и помогите нам сделать MIUI лучше.</string>
+     <string name="fourgrid_no_notificaiont">"Не показывать в статус баре"</string>
+     <string name="fourgrid_notificaiont">Показывать в статус баре</string>
      <string name="get_update_error">Ошибка получения информации</string>
      <string name="install_email">Пожалуйста, установите программное обеспечение для электронной почты</string>
      <string name="install_file_explorer">Пожалуйста, установите файловый мнеджер</string>

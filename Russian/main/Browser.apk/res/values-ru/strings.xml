@@ -91,6 +91,9 @@
      <string name="bookmarks_management">Закладки</string>
      <string name="bookmarks_root_folder">Корневая папка</string>
      <string name="bookmarks_search">Браузер</string>
+     <string name="bottom_bar_tabs_long_click_down_tip_txt">Проведите вниз, чтобы закрыть</string>
+     <string name="bottom_bar_tabs_long_click_last_tab_tip_txt">Последняя закладка</string>
+     <string name="bottom_bar_tabs_long_click_up_tip_txt">Проведите вверх, чтобы закрыть</string>
      <string name="browserFrameFileErrorLabel">Проблема с файлом</string>
      <string name="browserFrameFormResubmitMessage">Страница, которую Вы пытаетесь открыть, содержит уже отправленные данные (POSTDATA). В случае их повторной отправки повторятся все действия, выполненные на странице после заполнения формы (например, поиск или покупка)</string>
      <string name="browserFrameNetworkErrorLabel">Ошибка подключения</string>
@@ -103,6 +106,7 @@
      <string name="clear">Очистить</string>
      <string name="clear_history">Очистить историю</string>
      <string name="clear_history_group">Очистить всю историю (%s)</string>
+     <string name="clear_search_history">Очистить историю</string>
      <string name="clip_dialog_title">Открыть скопированную ссылку?</string>
      <string name="close_all_tab_alert_message">Закрыть все вкладки?</string>
      <string name="close_all_tab_alert_title">Подтверждение закрытия</string>
@@ -216,6 +220,10 @@
      <string name="folder_name">Имя папки</string>
      <string name="folder_name_too_long">Папка имеет слишком длинное имя</string>
      <string name="forward">Вперед</string>
+     <string name="general_set_default_browser_dialog_close_txt">Закрыть</string>
+     <string name="general_set_default_browser_dialog_ok_txt">Подтвердить</string>
+     <string name="general_set_default_browser_dialog_summary">Используйте приложения MIUI для лучшей производительности производительности</string>
+     <string name="general_set_default_browser_title">Сделать браузером по-умолчанию</string>
      <string name="geolocation_permissions_prompt_dont_share">Отклонить</string>
      <string name="geolocation_permissions_prompt_message">%s запрашивает данные о вашем местоположении</string>
      <string name="geolocation_permissions_prompt_remember">Запомнить настройки</string>
