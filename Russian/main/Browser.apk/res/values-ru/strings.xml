@@ -222,8 +222,8 @@
      <string name="forward">Вперед</string>
      <string name="general_set_default_browser_dialog_close_txt">Закрыть</string>
      <string name="general_set_default_browser_dialog_ok_txt">Подтвердить</string>
-     <string name="general_set_default_browser_dialog_summary">Используйте приложения MIUI для лучшей производительности производительности</string>
-     <string name="general_set_default_browser_title">Сделать браузером по-умолчанию</string>
+     <string name="general_set_default_browser_dialog_summary">Используйте приложения MIUI для лучшей производительности</string>
+     <string name="general_set_default_browser_title">Браузер по-умолчанию</string>
      <string name="geolocation_permissions_prompt_dont_share">Отклонить</string>
      <string name="geolocation_permissions_prompt_message">%s запрашивает данные о вашем местоположении</string>
      <string name="geolocation_permissions_prompt_remember">Запомнить настройки</string>
