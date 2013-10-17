@@ -80,7 +80,6 @@
      <string name="stop_recording">остановка записи</string>
      <string name="storage_is_full">Память заполнена</string>
      <string name="toast_max_record_time">Приложение: %1$s максимально поддерживает %2$s записей вложения</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="toast_uninstall_fileexplorer">Приложение файлы не установлено</string>
      <string name="unknown_caller">Неизвестный вызов</string>
      <string name="view_list_of_recordings">просмотр списка записей</string>

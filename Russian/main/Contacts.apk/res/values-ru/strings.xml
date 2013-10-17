@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Builded with CloudBuildr -->
 <resources>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="accessibility_calllog_detail">Журнал</string>
      <string name="account_abnormal_state">Неверная информация об учетной записи. Попробуйте войти снова или повторите попытку позже!</string>
      <string name="account_container_title">Из аккаунта</string>
@@ -697,7 +696,6 @@
      <string name="pref_key_photo_word_title">Фото для контакта</string>
      <string name="pref_key_rebuild_t9_index_message">Обновить индекс контактов для поиска с помощью T9</string>
      <string name="pref_key_rebuild_t9_index_title">Обновление индекса</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="pref_key_sim_manage">Управление SIM</string>
      <string name="pref_summary_import_from_account">Импорт контактов из аккаунта Google в аккаунт Xiaomi</string>
      <string name="pref_title_account_import">Импорт из аккаунта</string>
@@ -841,7 +839,6 @@
      <string name="searching_vcard_message">Поиск данных vCard на SD-карте...</string>
      <string name="select_all">Выбрать все</string>
      <string name="select_device">выберите устройство для подключения</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="select_groups">Выбор групп</string>
      <string name="select_new_photo_from_photo_package">Выбрать из фото пакета</string>
      <string name="select_none">Выберите хотя бы один контакт</string>
@@ -867,35 +864,24 @@
      <string name="simContacts_empty">Нет контактов на SIM-карте</string>
      <string name="simContacts_emptyLoading">Загрузка контактов с SIM-карты…</string>
      <string name="simContacts_title">Контакты на SIM-карте</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="sim_capacity">Размер SIM</string>
      <string name="sim_capacity_content" formatted="false">Всего %d, использовано %d</string>
      <string name="sim_card_no_free_space_message">Память SIM-карты заполнена. Пожалуйста, очистите SIM карту и попробуйте еще раз.</string>
      <string name="sim_card_no_free_space_title">SIM-карта заполнена!</string>
      <string name="sim_contact_dropdown_menu_deselect_all_miui">Снять все</string>
      <string name="sim_contact_dropdown_menu_select_all_miui">Выбрать все</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="sim_contact_existing">Этот контакт SIM уже существует.</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="sim_contact_number_missing">Контакт SIM не содержит номера.</string>
      <string name="sim_contact_search_error">Произошла ошибка при поиске контактов с SIM-карты</string>
      <string name="sim_contacts">Контакты на SIM-карте</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="sim_error_anr_full">Хранилище номеров заполнено.</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="sim_error_email_full">Хранилище почтовых адресов заполнено.</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="sim_error_email_too_long">E-mail слишком длинный.</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="sim_error_generic_failure">Ошибка</string>
      <string name="sim_error_not_ready">Загрузка контактов SIM, пожалуйста, подождите…</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="sim_error_number_too_long">Номер слишком длинный.</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="sim_error_password_error">Ошибка пароля.</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="sim_error_storage_full">Хранилище заполнено.</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="sim_error_text_too_long">Имя слишком длинное.</string>
      <string name="sim_export_loading">SIM-карта считывается. Операция может занять несколько минут, пожалуйста, подождите...</string>
      <string name="sim_indexed_contact_not_exist">Позиция %1$d не является допустимой на SIM-карте, должна быть между %2$d и %3$d</string>

@@ -74,7 +74,6 @@
      <string name="confirm_restore_positive">Восстановить</string>
      <string name="confirm_restore_title">Восстановить все выбранные сообщения?</string>
      <string name="context_menu_add_contact">Добавить в контакты</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="context_menu_add_to_browser_favorite">Добавить в избранное браузера</string>
      <string name="context_menu_browse_web">Перейти</string>
      <string name="context_menu_call">Вызов</string>
@@ -261,7 +260,6 @@ SMS (%1$d), MMS (%2$d)"</string>
      <string name="play">Воспроизвести</string>
      <string name="pref_advanced_settings_title">Дополнительно</string>
      <string name="pref_edit_smsc_address">Номер SMS-центра</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="pref_forward_title">Вперед</string>
      <string name="pref_messages_to_save">Установить количество сообщений в переписке для хранения</string>
      <string name="pref_mms_settings_title">Настройки MMS</string>
@@ -288,14 +286,11 @@ SMS (%1$d), MMS (%2$d)"</string>
      <string name="pref_time_auto_group_summary">Группировка сообщений по времени</string>
      <string name="pref_time_auto_group_title">Группировать</string>
      <string name="pref_title_allow_si_sl_push">Разрешить WAP Push</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="pref_title_card_format">Формат карты</string>
      <string name="pref_title_delivery_reports">Отчёт о доставке</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="pref_title_fwd_sender_info">Информацию о отправителе</string>
      <string name="pref_title_hide_festival">Скрыть вкладку \"Поздравления\"</string>
      <string name="pref_title_manage_sim_messages">Сообщения на SIM-карте</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="pref_title_miui_card">Отправить через карту MIUI</string>
      <string name="pref_title_mms_auto_retrieval">Автозагрузка</string>
      <string name="pref_title_mms_delete">Максимальное количество MMS</string>
@@ -307,7 +302,6 @@ SMS (%1$d), MMS (%2$d)"</string>
      <string name="pref_title_show_recent_contacts">Показать недавние контакты</string>
      <string name="pref_title_sms_delete">Максимальное количество SMS</string>
      <string name="pref_title_system_mms_priority">Приоритет для \"Сообщения\"</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="pref_title_vcard">Отправить через vCard</string>
      <string name="pref_title_wake_up_screen">Включать экран</string>
      <string name="preferences_title">Настройки</string>
@@ -343,18 +337,15 @@ SMS (%1$d), MMS (%2$d)"</string>
      <string name="resize_image_error_information">Изображение слишком велико для отправки, даже после изменения размера</string>
      <string name="restore_all_button_msg">Восстановить всё</string>
      <string name="restore_blocked_message">Восстановить сообщение</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="restore_to_phone_memory_failed">Не удалось восстановить</string>
      <string name="restored_to_phone_memory">Восстановлено ​​в память телефона</string>
      <string name="save">Сохранить</string>
      <string name="save_ringtone">Сохранить как мелодию звонка</string>
      <string name="save_to_sim">Сохранить на SIM-карту</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="save_to_sim_failed">Не удалось сохранить</string>
      <string name="saved_label">"Сохранено: "</string>
      <string name="saved_ringtone">Рингтон сохранен</string>
      <string name="saved_ringtone_fail">Рингтон не сохранен</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="saved_to_sim">Сохранено</string>
      <string name="search">SMS/MMS</string>
      <string name="search_empty">Ничего не найдено</string>
@@ -383,12 +374,9 @@ SMS (%1$d), MMS (%2$d)"</string>
      <string name="service_network_problem">Не удалось отправить сообщение из-за ошибки сети</string>
      <string name="service_not_activated">Услуга не активирована в сети</string>
      <string name="set">Сохранить</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="set_smsc_address_title_miui">Установить номер центра SMS</string>
      <string name="show_all_messages">Показать все сообщения</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="sim_card1">SIM Карта 1</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="sim_card2">SIM Карта 2</string>
      <string name="sim_card_cloud">%s (Облачное сообщение)</string>
      <string name="sim_copy_to_phone_memory">Копировать в память телефона</string>

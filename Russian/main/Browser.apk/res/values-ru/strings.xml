@@ -485,16 +485,12 @@
      <string name="pref_zoom_on_double_tap">Увеличение двойным нажатием</string>
      <string name="preview">Предварительный просмотр</string>
      <string name="progress_dialog_setting_wallpaper">Установка обоев...</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="quicklink_user_define_webpage_title">Имя</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="quicklink_user_define_webpage_url">URL</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="quicklinks_group_default_subtitle">Пусто</string>
      <string name="quicklinks_management">Полезные сайты</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="quicklinks_most_visited">Добавлять недавно посещенные веб-сайты на стартовую страницу</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="quicklinks_most_visited_subtitle">Показать недавно посещенные сайты на странице быстрого доступа</string>
      <string name="readmode_already_add_to_bookshelf">Уже добавлено на книжную полку</string>
      <string name="readmode_battery">Батарея </string>
@@ -531,7 +527,6 @@
      <string name="save_file_already_exist_alert_title">Внимание</string>
      <string name="save_to_bookmarks">Добавить закладку</string>
      <string name="saving_snapshot">Сохраняется...</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="search">Поиск</string>
      <string name="search_button_text">Поиск</string>
      <string name="search_cancel">Отмена</string>
@@ -604,9 +599,7 @@
      <string name="uploads_disabled">Добавление файлов отключено</string>
      <string name="url_copy_done">URL скопирован</string>
      <string name="url_hint">Введите URL</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="user_defined_webpage">Добавить страницу</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="user_defined_webpage_title">Добавить на стартовую страницу</string>
      <string name="username">Имя</string>
      <string name="view_certificate">Сертификат</string>
