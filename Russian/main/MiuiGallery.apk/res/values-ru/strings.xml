@@ -38,7 +38,6 @@
      <string name="album_share_title_new_album">Делиться новым альбомом</string>
      <string name="albums">альбомы</string>
      <string name="alert">Внимание</string>
-     <string name="alert_message_initial_cloud">Система будет автоматически загружать старые и новые фотографии и скриншоты только при Wi-Fi соединение</string>
      <string name="alert_message_open_sync">Необходима синхронизация. Вы хотите включить ее сейчас?</string>
      <string name="already_apply_album">Открыть %1$s?</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
@@ -46,7 +45,6 @@
      <string name="androidesk_wallpapers">Обои Android</string>
      <string name="aperture">Диафрагма</string>
      <string name="app_name">Галерея</string>
-     <string name="apply_successfully">Присоединение прошло успешно</string>
      <string name="appwidget_empty_text">Нет фотографий</string>
      <string name="appwidget_title">Фотогалерея</string>
      <string name="auto">Авто</string>
@@ -63,7 +61,10 @@
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="beautyphone">Beauty Phone</string>
      <string name="big_screen_alertdialog_title">Проектор</string>
-     <string name="bigscrren_slide_exit">Выйти из слайд-шоу через TV</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="bigscreen_slide_exit">Выход из слайдшоу</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="bigscreen_slide_fail_cause_loading">Повторите попытку, чтобы начать слайд-шоу после загрузки изображения.</string>
      <string name="browse_category">Просмотр изображений</string>
      <string name="by_email">Почта</string>
      <string name="by_sms">Сообщение</string>
@@ -72,7 +73,6 @@
      <string name="camera_folder_display_name">Фотографии с камеры</string>
      <string name="camera_setas_wallpaper">Обои</string>
      <string name="camera_view_none_message">Фотографии будут отображаться здесь</string>
-     <string name="can_modified">Разрешить получателю добавлять картинки</string>
      <string name="cancel">Отмена</string>
      <string name="cancel_hint">Операция отменена</string>
      <string name="cannot_delete_sharer_photo">Нельзя удалить %s элементов, загруженные другими пользователями</string>
@@ -125,8 +125,6 @@
      <string name="context_menu_add_contact">Добавить в контакты</string>
      <string name="context_menu_copy">Копировать</string>
      <string name="context_menu_copy_notice">Выделенный текст скопирован в буфер</string>
-     <string name="context_menu_new_contact">Новый контакт</string>
-     <string name="context_menu_view_contact">Посмотреть контакт</string>
      <string name="contrast">Контраст</string>
      <string name="create_new_cloud_folder">Создать новый облачный альбом</string>
      <string name="crop">Кадрировать</string>
@@ -145,7 +143,6 @@
      <string name="dcim_viva_pics">VIVA</string>
      <string name="defalt_local_mobile">Мобильный</string>
      <string name="delete">Удалить</string>
-     <string name="delete_fail_too_many_items">Ошибка удаления. Возможно выбрано слишком много пунктов.</string>
      <string name="delete_file">Вы уверены, что хотите удалить выбранные файлы (%1$d)?</string>
      <string name="delete_files_and_folders">Вы уверены, что хотите удалить %1$d выбранных файлов и %2$d выбранных папок?</string>
      <string name="delete_folder">Вы уверены, что хотите удалить %1$d выбранных папок?</string>
@@ -188,7 +185,6 @@
      <string name="facetan">Загар</string>
      <string name="fail_hint">Сбой операции</string>
      <string name="fail_init_gallery_db_helper">Ошибка открытия базы данных галереи. Диск полон.</string>
-     <string name="fail_to_apply">Не удалось присоединиться к альбому</string>
      <string name="fail_to_pick_email">Не выбрано допустимых E-Mail</string>
      <string name="fail_to_sync_album">Не удалось синхронизировать альбом с сервером. Проверьте подключение к сети!</string>
      <string name="file_size">Размер файла</string>
@@ -276,8 +272,6 @@
      <string name="mishop_saved_folder_display_name">MiShop</string>
      <string name="miui_capture_screen_folder_display_name">Скриншоты</string>
      <string name="model">Модель</string>
-     <string name="modify_allow_hint">Добавление новых фотографий в альбом разрешено</string>
-     <string name="modify_disallow_hint">Добавление новых фотографий в альбом запрещено</string>
      <string name="more">Еще</string>
      <string name="move_to_cloud_album">Переместить</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
@@ -351,7 +345,6 @@
      <string name="rename_failed_duplicated_name">Имя уже существует</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="renren_image">RenRen</string>
-     <string name="request_qr_code">Получения QR-кода, подождите...</string>
      <string name="request_qr_code_failed">Ошибка получения QR-кода, нажмите для повторения</string>
      <string name="request_sms_url_failed">Не удалось запросить URL для обмена по SMS</string>
      <string name="request_sms_url_msg">Запрос URL для обмена через SMS</string>
@@ -374,7 +367,6 @@
      <string name="screensaver_activate_mode">Заставка слайдшоу</string>
      <string name="screensaver_activate_only_charging">Активировать только при зарядке</string>
      <string name="screensaver_category">Заставка</string>
-     <string name="screensaver_no_data">Нет изображений в альбоме.</string>
      <string name="screensaver_path">Альбом заставки:</string>
      <string name="screensaver_path_not_set">Не задан</string>
      <string name="sd_not_available">SD-карта размонтирована или недоступна</string>
@@ -388,7 +380,6 @@
      <string name="send">Отправить</string>
      <string name="send_multiple_files_hint_format">Отправить несколько файлов (%s)</string>
      <string name="send_public_url">Отправить ссылку альбома</string>
-     <string name="send_to_cloud_failed_message">Этот пункт не может быть добавлен в облачные альбомы</string>
      <string name="sepia">Сепия</string>
      <string name="set_hidden_album">Скрыть альбомы</string>
      <string name="set_image">Применить</string>
@@ -408,13 +399,11 @@
      <string name="shadow">Затенение</string>
      <string name="share_album">Отправить альбом</string>
      <string name="share_album_owner">Владелец</string>
-     <string name="share_album_qr_code">QR-код</string>
      <string name="share_album_space_full">Этот общий альбом полон. Удалите некоторые ненужные снимки.</string>
      <string name="share_by_email_start">Попробуйте поделиться %1$s в фоновом режиме</string>
      <string name="share_by_email_successfully">Вы поделились %1$s через E-Mail</string>
      <string name="share_current_album">Отправить текущий альбом</string>
      <string name="share_public_url_text">Я поделился альбомом %1$s. Посмотри тут %2$s.</string>
-     <string name="share_user_name">Имя</string>
      <string name="sharer_quota_fulfiled">Невозможно добавить пользователя, т.к. количество пользователей в этом альбоме достигло предела</string>
      <string name="sharpen">Резкость</string>
      <string name="show_all">Изображения и видео</string>
@@ -463,6 +452,8 @@
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="tencent_qzonepic">Qzone</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="there_is_no_image">Нет изображений</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="tieba">Tie Ba</string>
      <string name="time">Время</string>
      <string name="times">Даты</string>
@@ -471,8 +462,6 @@
      <string name="to_count">%d во всех</string>
      <string name="too_many_recipients">Сообщение имеет слишком много получателей (%1$s). Существует предел на %2$s получателей.</string>
      <string name="try_to_send">Отправить</string>
-     <string name="turn_left">Повернуть</string>
-     <string name="turn_right">Повернуть</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="ucdownloads_screenshot">UC Browser</string>
      <string name="unit_mm">мм</string>

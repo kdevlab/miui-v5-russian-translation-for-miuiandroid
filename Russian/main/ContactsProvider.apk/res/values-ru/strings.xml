@@ -13,6 +13,7 @@
      <string name="read_write_all_voicemail_label">Доступ ко всей голосовой почте</string>
      <string name="send_sms">Отправить сообщение</string>
      <string name="sharedUserLabel">Приложения ядра Android</string>
+     <string name="third_party_delete_contact_info">\"%s\" удаляет ваши контакты XiaoMi, пожалуйста, используйте приложение контакты для безопасности.</string>
      <string name="upgrade_msg">Обновление базы данных контактов...</string>
      <string name="upgrade_out_of_memory_notification_text">Нажмите, чтобы завершить обновление</string>
      <string name="upgrade_out_of_memory_notification_ticker">Для обновления контакта требуется больше памяти</string>

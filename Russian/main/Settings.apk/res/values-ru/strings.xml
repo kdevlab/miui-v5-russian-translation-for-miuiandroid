@@ -697,6 +697,7 @@
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="device_miui_version">MIUI</string>
      <string name="device_name">Имя устройства</string>
+     <string name="device_name_input_error">Не удалось сохранить имя устройства, пожалуйста, введите еще ​​раз</string>
      <string name="device_name_input_hint">Введите имя устройства</string>
      <string name="device_name_usage_point">Имя вашего устройства, которое будет отображаться при различных соединениях.</string>
      <string name="device_picker">Выбор устройства Bluetooth</string>
@@ -1237,6 +1238,9 @@
      <string name="nsd_quick_toggle_title">Обнаружение сетевых служб</string>
      <string name="oem_radio_info_label">OEM Информация/Настройки</string>
      <string name="onscreen_keyboard_settings_summary">Настройки экранной клавиатуры</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="open_wifi_connect_summary">Нажмите, чтобы настроить</string>
+     <string name="open_wifi_connect_title">Подключение к открытой сети %1$s</string>
      <string name="other_relative">Другие разрешения</string>
      <string name="overlay_display_devices_title">Эмуляция доп. экранов</string>
      <string name="owner_info_settings_edit_text_hint">Введите текст для показа на экране блокировки</string>
@@ -2105,7 +2109,7 @@
      <!-- The count of MNPS does not match! Now: 1 must: 1
 	%s: 0 must: 0
 	%d: 1 must: 0 -->
-     <!-- Original string: % d potential risks found -->
+     <!-- Original string: % d risks found -->
      <string name="virus_scan_app_find_risk">Возможных опасностей: %d</string>
      <string name="virus_scan_app_finish">Готово</string>
      <string name="virus_scan_app_force_stop">Сканирование остановлено</string>
