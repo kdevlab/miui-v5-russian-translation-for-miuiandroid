@@ -687,11 +687,11 @@
      <string name="current_use_uicc_se">Using secure element on SIM card</string>
      <string name="custom_build_version">Custom build version</string>
      <string name="custom_theme_name">New [%1$s]</string>
-     <string name="data_conn_category_title">Data connection</string>
+     <string name="data_conn_category_title">Мобильный интернет</string>
      <string name="data_connection_dialog_title">Data Connection Change</string>
      <string name="data_enabler_summary">Enable data access over Mobile network</string>
-     <string name="data_enabler_title">Data enabled</string>
-     <string name="data_enabler_waiting_message">Please wait…</string>
+     <string name="data_enabler_title">Передача данных включена</string>
+     <string name="data_enabler_waiting_message">Ждите…</string>
      <string name="data_size_label">Данные</string>
      <string name="data_summary">Выбрать оператора для передачи данных</string>
      <string name="data_title">Данные вызова</string>
@@ -962,7 +962,7 @@
      <string name="enable_gps">Enable gps</string>
      <string name="enable_gps_confirm_message">It needs a wireless data connection to acquire GPS assistance data (EPO, A-GPS) that may cause extra network fee. Are you sure to turn on GPS?</string>
      <string name="enable_opengl_traces_title">Вкл. трассировку OpenGL</string>
-     <string name="enable_sim">Enable</string>
+     <string name="enable_sim">Включить</string>
      <string name="enable_snapshot_screenlock">Камера кнопкой \"НАЗАД\"</string>
      <string name="enable_text">Включить</string>
      <string name="enable_traces_dialog_title">Выбрать трассировки</string>
@@ -971,7 +971,7 @@
      <string name="enable_traces_summary_num">%1$d включенных трассировок</string>
      <string name="enable_traces_title">Включить трассировку</string>
      <string name="enable_wifi_display">Включить Wi-Fi Display</string>
-     <string name="enable_wifi_tether">Enable WLAN hotspot</string>
+     <string name="enable_wifi_tether">Включитьточку доступа WLAN</string>
      <string name="enforce_read_external_confirm_message">"Когда включена защита USB хранилища, приложения должны запрашивать разрешения на чтение данных.
 
 Некоторые приложения могут перестать работать, пока не будут обновлены разработчиками."</string>
