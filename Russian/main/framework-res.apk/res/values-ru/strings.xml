@@ -1321,4 +1321,7 @@
      <string name="years">г.</string>
      <string name="yes">ОК</string>
      <string name="yesterday">Вчера</string>
+     <string name="global_action_reboot">Перезагрузка</string>
+     <string name="reboot_confirm">Телефон будет перезагружен.</string>
+     <string name="reboot_confirm_question">Хотите перезагрузить телефон?</string>
 </resources>
