@@ -5,7 +5,7 @@
     <string name="alert_title_new_station">Новая радиостанция</string>
     <string name="alert_title_save_station">Сохранить радиостанцию</string>
     <string name="app_name">Радио</string>
-    <string name="dlg_noantenna_title">Подключите наушники</string></string>
+    <string name="dlg_noantenna_title">Подключите наушники</string>
     <string name="edit_station">Редактировать</string>
     <string name="fmradio_clear_confirm_msg">Сохраненные радиостанции будут удалены, продолжить сканирование?</string>
     <string name="frequency_already_exist">Частота уже существует</string>
@@ -31,7 +31,8 @@
     <string name="toast_save_station">%sМГц сохранена</string>
 	<string name="menu_edit">Редактировать</string>
 	<string name="menu_delete">Удалить</string>
-	<string name="exit_fm">Выход</string>
+    <string name="exit_fm">Выход</string>
+    <string name="optmenu_exit">Выход</string>
 	<string name="menu_settings">Настройки</string>
     <string name="menu_record_start">Начать запись</string>
     <string name="menu_record_stop">Остановить запись</string>
