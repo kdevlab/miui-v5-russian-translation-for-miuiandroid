@@ -1309,10 +1309,10 @@ Are you sure to use GPS provided time?"</string>
      <string name="led_settings">Индикация</string>
      <string name="legal_information">Правовая информация</string>
      <string name="license_title">Лицензия</string>
-     <string name="line_breaking_summary">optimize paragraph line breaking</string>
-     <string name="line_breaking_title">Paragraph text optimization</string>
+     <string name="line_breaking_summary">оптимизировать разрывы строк в абзаце</string>
+     <string name="line_breaking_title">Оптимизация текста абзаца</string>
      <string name="link_speed_label">"Скорость: "</string>
-     <string name="loading">Loading...</string>
+     <string name="loading">Загрузка...</string>
      <string name="local_backup_password_summary_change">Выберите этот параметр, чтобы изменить или удалить пароль для резервного копирования</string>
      <string name="local_backup_password_summary_none">Полные резервные копии в настоящее время не защищены</string>
      <string name="local_backup_password_title">Пароль для резервного копирования</string>
@@ -1535,7 +1535,7 @@ Are you sure to use GPS provided time?"</string>
      <string name="multi_touch_points_preference">Перезагрузить для применения</string>
      <string name="music_app_name">Music</string>
      <string name="music_command_summary_format">You can say %1$s and %2$s to control music playing.</string>
-     <string name="music_plus_summary">Audio enhancer for earphone</string>
+     <string name="music_plus_summary">Улучшение аудио в наушниках</string>
      <string name="music_plus_title">BesAudEnh</string>
      <string name="musicfx_title">Звуковые эффекты</string>
      <string name="nearby_wifi">Доступные сети</string>
@@ -1989,11 +1989,11 @@ Are you sure to use GPS provided time?"</string>
      <string name="sd_format">Очистить USB накопитель</string>
      <string name="sd_format_summary">Удаляет все данные с USB накопителя, например музыку и фотографии</string>
      <string name="sd_insert_summary">Вставьте USB накопитель для подключения</string>
-     <string name="sd_insert_usb_summary">Insert USB storage for mounting</string>
+     <string name="sd_insert_usb_summary">Вставьте USB накопитель для подключения</string>
      <string name="sd_memory">USB накопитель</string>
      <string name="sd_mount">Подключить USB накопитель</string>
      <string name="sd_mount_summary">""</string>
-     <string name="sd_mount_usbstorage">Mount USB storage</string>
+     <string name="sd_mount_usbstorage">Подключить USB накопитель</string>
      <string name="sdcard_changes_instructions">Изменения вступят в силу после повторного подключения USB-кабеля</string>
      <string name="sdcard_format">Очистить USB накопитель</string>
      <string name="sdcard_setting">USB накопитель</string>
@@ -2184,7 +2184,7 @@ Are you sure to use GPS provided time?"</string>
      <string name="sound_effects_enable_title">Звук нажатия на экран</string>
      <string name="sound_enhancement_title">Sound enhancement</string>
      <string name="sound_settings">Звук</string>
-     <string name="sound_switch">Sound Switch</string>
+     <string name="sound_switch">Переключение звука</string>
      <string name="spellchecker_language">Язык</string>
      <string name="spellchecker_quick_settings">Параметры</string>
      <string name="spellchecker_security_warning">Для проверки орфографии будет использоваться приложение %1$s, которое может собирать все вводимые данные, в том числе пароли и номера кредитных карт. Продолжить?</string>
