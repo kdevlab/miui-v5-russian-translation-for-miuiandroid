@@ -2176,13 +2176,13 @@ Are you sure to use GPS provided time?"</string>
      <string name="sort_order_size">Упорядочить по размеру</string>
      <string name="sound_category_call_ringtone_vibrate_title">Звуки</string>
      <string name="sound_category_calls_and_notification_title">Мелодия и уведомления</string>
-     <string name="sound_category_calls_title">Incoming calls</string>
-     <string name="sound_category_feedback_title">System</string>
+     <string name="sound_category_calls_title">Входящие звонки</string>
+     <string name="sound_category_feedback_title">Система</string>
      <string name="sound_category_notification_title">Оповещения</string>
      <string name="sound_category_sound_title">Общие</string>
      <string name="sound_category_system_title">Система</string>
      <string name="sound_effects_enable_title">Звук нажатия на экран</string>
-     <string name="sound_enhancement_title">Sound enhancement</string>
+     <string name="sound_enhancement_title">Улучшение звука</string>
      <string name="sound_settings">Звук</string>
      <string name="sound_switch">Переключение звука</string>
      <string name="spellchecker_language">Язык</string>
