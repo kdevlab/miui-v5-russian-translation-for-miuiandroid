@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Builded with CloudBuildr -->
+<resources>
+     <string-array name="alarm_in_future">
+        <item>Будильник менее чем через минуту</item>
+        <item>Будильник через %1$s</item>
+        <item>Будильник через %2$s</item>
+        <item>Будильник через %1$s %2$s</item>
+        <item>Будильник через %3$s</item>
+        <item>Будильник через %1$s %3$s</item>
+        <item>Будильник через %2$s %3$s</item>
+        <item>Будильник через %1$s %2$s %3$s</item>
+     </string-array>
+     <!-- The size of the array does not match! Now: 30 must: 28 -->
+     <string-array name="alphabet_table">
+        <item>\#</item>
+        <item>А</item>
+        <item>Б</item>
+        <item>В</item>
+        <item>Г</item>
+        <item>Д</item>
+        <item>Е</item>
+        <item>Ж</item>
+        <item>З</item>
+        <item>И</item>
+        <item>К</item>
+        <item>Л</item>
+        <item>М</item>
+        <item>Н</item>
+        <item>О</item>
+        <item>П</item>
+        <item>Р</item>
+        <item>С</item>
+        <item>Т</item>
+        <item>У</item>
+        <item>Ф</item>
+        <item>Х</item>
+        <item>Ц</item>
+        <item>Ч</item>
+        <item>Ш</item>
+        <item>Щ</item>
+        <item>Э</item>
+        <item>Ю</item>
+        <item>Я</item>
+     </string-array>
+     <!-- The size of the array does not match! Now: 31 must: 29 -->
+     <string-array name="alphabet_table_with_starred">
+        <item>!</item>
+        <item>\#</item>
+        <item>А</item>
+        <item>Б</item>
+        <item>В</item>
+        <item>Г</item>
+        <item>Д</item>
+        <item>Е</item>
+        <item>Ж</item>
+        <item>З</item>
+        <item>И</item>
+        <item>К</item>
+        <item>Л</item>
+        <item>М</item>
+        <item>Н</item>
+        <item>О</item>
+        <item>П</item>
+        <item>Р</item>
+        <item>С</item>
+        <item>Т</item>
+        <item>У</item>
+        <item>Ф</item>
+        <item>Х</item>
+        <item>Ц</item>
+        <item>Ч</item>
+        <item>Ш</item>
+        <item>Щ</item>
+        <item>Э</item>
+        <item>Ю</item>
+        <item>Я</item>
+     </string-array>
+     <string-array name="contact_entries">
+        <item>Имя</item>
+        <item>Ник</item>
+        <item>Телефон</item>
+        <item>E-Mail</item>
+        <item>Организация</item>
+        <item>IM</item>
+        <item>SIP-телефон</item>
+        <item>День рождения</item>
+        <item>Сайт</item>
+        <item>Адрес</item>
+        <item>Заметка</item>
+    </string-array>
+    <string-array name="mobile_operator_display_names">
+        <item>"МТС"</item>
+        <item>"Мегафон"</item>
+        <item>"Билайн"</item>
+    </string-array>
+    <string-array name="mobile_operator_numeric_equivalencies">
+        <item>"25001"</item>
+        <item>"25002"</item>
+        <item>"25099"</item>
+    </string-array>
+</resources>
