@@ -490,8 +490,8 @@
      <string name="quicklink_user_define_webpage_url">URL</string>
      <string name="quicklinks_group_default_subtitle">Пусто</string>
      <string name="quicklinks_management">Полезные сайты</string>
-     <string name="quicklinks_most_visited">Добавлять недавно посещенные веб-сайты на стартовую страницу</string>
-     <string name="quicklinks_most_visited_subtitle">Показать недавно посещенные сайты на странице быстрого доступа</string>
+     <string name="quicklinks_most_visited">Добавить сайт на главную</string>
+     <string name="quicklinks_most_visited_subtitle">Добавить плитку вашего сайта на главный экран</string>
      <string name="readmode_already_add_to_bookshelf">Уже добавлено на книжную полку</string>
      <string name="readmode_battery">Батарея </string>
      <string name="readmode_login">Войти</string>
