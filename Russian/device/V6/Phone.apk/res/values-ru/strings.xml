@@ -714,7 +714,7 @@
      <string name="manage_fdn_list_miui">Разрешенные номера</string>
      <string name="manage_fdn_list_sum_miui">Управление списком номеров</string>
      <string name="manual_select_dialog_msg">The mobile phone will not select other operators for you in manual selection mode. Sometimes you have to do manual selection again or change back to automatic selection mode when you lost the service of the selected operator. We recommend that you use the \"Select automatically\". Do you want to select network manually?</string>
-     <string name="manual_select_title">Select manually</string>
+     <string name="manual_select_title">Выбирать вручную</string>
      <string name="meid">MEID</string>
      <string name="menu_add">Добавить контакт</string>
      <string name="menu_delete">Удалить контакт</string>
@@ -978,7 +978,7 @@ Are you sure to allow mobile data service preferred?"</string>
      <string name="place_a_call1">Подписка 1</string>
      <string name="place_a_call2">Подписка 2</string>
      <string name="plmn_list_setting_add_plmn">New PLMN</string>
-     <string name="plmn_list_setting_title">Preferred networks</string>
+     <string name="plmn_list_setting_title">Предпочтительные сети</string>
      <string name="port_title">Номер порта</string>
      <string name="pref_camera_coloreffect_entry_aqua">Aqua</string>
      <string name="pref_camera_coloreffect_entry_blackboard">Blackboard</string>
