@@ -270,7 +270,7 @@
      <string name="pref_camera_settings_title">Настройки</string>
      <string name="pref_camera_sharpness_entry_high">Высокая</string>
      <string name="pref_camera_sharpness_entry_low">Низкая</string>
-     <string name="pref_camera_sharpness_entry_middle">Средняя(Default)</string>
+     <string name="pref_camera_sharpness_entry_middle">Средняя(по умолчанию)</string>
      <string name="pref_camera_sharpness_title">Чeткость</string>
      <string name="pref_camera_skinToneEnhancement_entry_auto">Автоматически</string>
      <string name="pref_camera_skinToneEnhancement_entry_disable">Выключено</string>
