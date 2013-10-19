@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Builded with CloudBuildr -->
+<resources>
+     <plurals name="group_add_success_toast">
+        <item quantity="other">Успешно добавлено %1$d контактов</item>
+        <item quantity="one">Успешно добавлен %1$d контакт</item>
+     </plurals>
+     <plurals name="group_list_num_contacts_in_group">
+        <item quantity="other">Номеров: %1$d</item>
+        <item quantity="one">Номеров: %1$d</item>
+     </plurals>
+     <plurals name="group_list_num_numbers_in_group">
+        <item quantity="other">номеров: %1$d</item>
+        <item quantity="one">номеров: %1$d</item>
+     </plurals>
+     <plurals name="listFoundAllContacts">
+        <item quantity="other">Найдено: %d</item>
+        <item quantity="one">Найдено: 1</item>
+     </plurals>
+     <plurals name="listTotalAllContacts">
+        <item quantity="other">Контактов: %d</item>
+        <item quantity="one">Контактов: 1</item>
+     </plurals>
+     <plurals name="listTotalPhoneContacts">
+        <item quantity="other">Контакты с номерами телефонов: %d</item>
+        <item quantity="one">Контакты с номерами телефона: 1</item>
+     </plurals>
+     <plurals name="merge_info">
+        <item quantity="other">объединено из нескольких источников (%0$d)</item>
+        <item quantity="one">не объединен</item>
+     </plurals>
+     <plurals name="notification_voicemail_title">
+        <item quantity="other">Голосовые сообщения: %1$d</item>
+        <item quantity="one">Голосовая почта</item>
+     </plurals>
+     <plurals name="numSelectedSimContacts">
+        <item quantity="other">Выбрано контактов: %1$d</item>
+        <item quantity="zero">Выбрано контактов: %1$d</item>
+        <item quantity="one">Выбрано контактов: %1$d</item>
+     </plurals>
+     <plurals name="num_contacts_in_group">
+        <item quantity="other">%2$s. В группе %1$d чел.</item>
+        <item quantity="one">%2$s. В группе %1$d чел.</item>
+     </plurals>
+     <plurals name="num_groups_in_account">
+        <item quantity="other">Групп: %0$d</item>
+        <item quantity="one">Одна группа</item>
+     </plurals>
+     <plurals name="number_of_items_selected">
+        <item quantity="other">Выбрано: %1$d</item>
+        <item quantity="one">Выбрано: %1$d</item>
+     </plurals>
+     <plurals name="searchFoundContacts">
+        <item quantity="other">Найдено: %d</item>
+        <item quantity="one">Найдено: 1</item>
+     </plurals>
+     <plurals name="smart_group_member_count">
+        <item quantity="other">Контактов: %1$d</item>
+        <item quantity="one">Контактов: 1</item>
+     </plurals>
+</resources>
