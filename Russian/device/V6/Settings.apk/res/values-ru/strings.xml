@@ -2291,7 +2291,7 @@ Are you sure to use GPS provided time?"</string>
      <string name="touch_sensitive_title">Glove mode</string>
      <string name="touch_sensitive_turn_off_summary">Do you want to turn off Prevent pocket dials?</string>
      <string name="touch_sensitive_turn_off_title">Turn off Glove mode</string>
-     <string name="touch_title">Touch</string>
+     <string name="touch_title">Нажатия</string>
      <string name="track_frame_time">Профиль GPU рендеринга</string>
      <string name="track_frame_time_summary">Вычислять время отрисовки в adb shell dumpsys gfxinfo</string>
      <string name="trackball_settings">Трекбол</string>
