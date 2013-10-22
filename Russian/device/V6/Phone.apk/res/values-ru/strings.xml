@@ -678,10 +678,10 @@
      <string name="label_sdp">Разблокировка SIM с помощью PIN-кода</string>
      <string name="label_spdp">Разблокировка поставщика услуг с помощью PIN-кода</string>
      <string name="label_subscription">Подписка для</string>
-     <string name="lable_all_incoming">Все входящие вызовы</string>
-     <string name="lable_all_out_except">Международные исходящие вызовы, кроме домашней ССОП</string>
-     <string name="lable_all_outgoing">Все исходящие вызовы</string>
-     <string name="lable_all_outgoing_international">Международные исходящие вызовы</string>
+     <string name="lable_all_incoming">Все входящие</string>
+     <string name="lable_all_out_except">Международные исходящие, кроме домашней ССОП</string>
+     <string name="lable_all_outgoing">Все исходящие</string>
+     <string name="lable_all_outgoing_international">Международные исходящие</string>
      <string name="lable_call_barring">Запрет вызовов</string>
      <string name="lable_data">DATA</string>
      <string name="lable_data_async">DATA-ASYNC</string>
@@ -689,7 +689,7 @@
      <string name="lable_disable">Выкл.</string>
      <string name="lable_enable">Вкл.</string>
      <string name="lable_fax">FAX</string>
-     <string name="lable_incoming_calls_except">Incoming calls while roaming</string>
+     <string name="lable_incoming_calls_except">Входящие в роуминге</string>
      <string name="lable_packet">PACKET</string>
      <string name="lable_pad">PAD</string>
      <string name="lable_sim_not_ready">SIM Toolkit is not ready or unsupported</string>
@@ -1376,7 +1376,7 @@ Are you sure to allow mobile data service preferred?"</string>
      <string name="voice_command_notification_message">Voice control is enabled for Phone</string>
      <string name="voice_command_notification_ticker" formatted="false">You can say \"%s\" or \"%s\" to answer or ignore an incoming call</string>
      <string name="voice_command_notification_title">Voice control</string>
-     <string name="voice_mail">Voicemail</string>
+     <string name="voice_mail">Голосовая почта</string>
      <string name="voice_mail_dialog_text">You have new voicemail from %s. Do you want to get them now?</string>
      <string name="voice_privacy">Конфиденциальность разговоров</string>
      <string name="voice_privacy_miui">Конфиденциальность разговоров</string>
