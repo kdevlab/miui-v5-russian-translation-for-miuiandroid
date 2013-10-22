@@ -353,7 +353,7 @@
 Контактов: %d"</string>
      <string name="export_to_sdcard">На SD-карту</string>
      <string name="export_to_sim">На SIM-карту</string>
-     <string name="export_to_sim2">Export to SIM card 2</string>
+     <string name="export_to_sim2">На SIM-карту 2</string>
      <string name="export_to_sim_title">Экспорт на SIM-карту...</string>
      <string name="export_vcard_description">Экспортировать vCard на SD-карту</string>
      <string name="exporting_contact_failed_message">"Не удалось экспортировать данные.
@@ -875,7 +875,7 @@
      <string name="simContacts_empty">Нет контактов на SIM-карте</string>
      <string name="simContacts_emptyLoading">Загрузка контактов с SIM-карты…</string>
      <string name="simContacts_title">Контакты на SIM-карте</string>
-     <string name="sim_capacity">View SIM Card Capacity</string>
+     <string name="sim_capacity">Показать емкость SIM карты</string>
      <string name="sim_capacity_content" formatted="false">phone number book Storage Capacity %d，has been used %d。</string>
      <string name="sim_card_no_free_space_message">Память SIM-карты заполнена. Пожалуйста, очистите SIM карту и попробуйте еще раз.</string>
      <string name="sim_card_no_free_space_title">SIM-карта заполнена!</string>
