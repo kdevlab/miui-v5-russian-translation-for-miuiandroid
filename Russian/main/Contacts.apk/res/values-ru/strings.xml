@@ -893,31 +893,31 @@
      <string name="resource_no_result">Нет результатов</string>
      <string name="resource_notification_default">Уведомления</string>
      <string name="resource_online">Онлайн %1$s</string>
-     <string name="resource_pack_confirm">You have already purchased %1$d items, but current price is still more favorable than purchase individually for left items, continue?</string>
-     <string name="resource_pack_discount_info">%1$s Saved!</string>
-     <string name="resource_pack_price_info">%1$s Original</string>
-     <string name="resource_pack_warning">Attention, you have already purchased %1$d items, current price is no more favorable for left items, please purchase them individually.</string>
+     <string name="resource_pack_confirm">Вы уже приобрели %1$d элементов. Но текущая цена имеет скидку, чем покупка по отдельности. Продолжить?</string>
+     <string name="resource_pack_discount_info">%1$s скидка!</string>
+     <string name="resource_pack_price_info">%1$s обычная</string>
+     <string name="resource_pack_warning">Внимание. Вы уже приобрели %1$d элементов. Текущая цена больше не актуальна. Купите их по отдельности.</string>
      <string name="resource_price_free">Беспл.</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="resource_price_unit">MiCredit</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="resource_ranking">Popular</string>
+     <string name="resource_ranking">Топ</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="resource_ranking_free">Free</string>
+     <string name="resource_ranking_free">Беспл.</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="resource_ranking_purchase">Paid</string>
+     <string name="resource_ranking_purchase">Платные</string>
      <string name="resource_ringtone_default">Мелодии</string>
      <string name="resource_see_more">Подробнее</string>
      <string name="resource_select">Выбрать</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="resource_selected">Featured</string>
+     <string name="resource_selected">Лучшее</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="resource_server_alert_dialog_title">Out of service</string>
+     <string name="resource_server_alert_dialog_title">Технические неполадки</string>
      <string name="resource_server_out_of_service">Сервис не доступен. Попробуйте позже.</string>
-     <string name="resource_share_subject">Share theme: %1$s</string>
-     <string name="resource_share_text">Here is a theme I thought you might like: %1$s! Link: %2$s</string>
+     <string name="resource_share_subject">Поделиться: %1$s</string>
+     <string name="resource_share_text">Вот тема, которая Вам понравится: %1$s! Ссылка: %2$s.</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="resource_share_title">Share</string>
+     <string name="resource_share_title">Отправить</string>
      <string name="resource_switch_account">Перекл.</string>
      <string name="resource_system_title">Системные</string>
      <string name="resource_tip_select_ringtone">Мелодия не выбрана</string>
@@ -929,7 +929,7 @@
      <string name="returnCall">Обратный вызов</string>
      <string name="ringLabelsGroup">Мелодия</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="ringtone_volume_mute">Your ringtone is currently silenced.</string>
+     <string name="ringtone_volume_mute">Мелодия звонка отключена</string>
      <string name="save_photo_progress">Сохранение фотографии...</string>
      <string name="savingContact">Контакт сохраняется...</string>
      <string name="savingDisplayGroups">Варианты отображения сохраняются...</string>
@@ -939,10 +939,10 @@
      <string name="scanning">поиск устройств...</string>
      <string name="scanning_sdcard_failed_message">Не удалось просканировать SD-карту. Причина: %s.</string>
      <string name="scanning_sdcard_failed_title">SD-карта не просканирована</string>
-     <string name="sdcard_not_mounted_dialog_message">"Insert SD card now.
+     <string name="sdcard_not_mounted_dialog_message">"Вставьте SD-карту.
 "</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="sdcard_not_mounted_dialog_title">No SD card detected</string>
+     <string name="sdcard_not_mounted_dialog_title">SD-карта не обнаружена</string>
      <string name="searchHint">Поиск контактов</string>
      <string name="search_results_searching">Поиск...</string>
      <string name="search_settings_description">Имена контактов</string>

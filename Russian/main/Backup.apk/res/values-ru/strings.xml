@@ -3,7 +3,7 @@
 <resources>
      <string name="account_contact_backup_info">Данные аккаунтов и контакты</string>
      <string name="account_login">Войти в систему</string>
-     <string name="account_summary">- Настройки аккаунта</string>
+     <string name="account_summary">- настройки аккаунта</string>
      <string name="already_enable_encrypt">Включить шифрование</string>
      <string name="app_name">Бэкап</string>
      <string name="auto_backup">Автоматически</string>
@@ -14,7 +14,7 @@
      <string name="auto_backup_date">Частота копирования</string>
      <string name="auto_backup_only_wifi">Только по Wi-Fi</string>
      <string name="auto_backup_open">Автокопирование</string>
-     <string name="auto_backup_progress">Создание авто-бэкапа, пожалуйста подождите...</string>
+     <string name="auto_backup_progress">Создание авто-бэкапа, подождите…</string>
      <string name="auto_backup_select_user_apps">Выбор приложений</string>
      <string name="auto_backup_selected_user_apps">Выбранные приложения</string>
      <string name="auto_backup_setting">Настройка бэкапа по расписанию</string>
@@ -35,7 +35,7 @@
      <string name="backup_items_app_tailer">" - данные приложений "</string>
      <string name="backup_items_sysdata_tailer">" - системные данные, "</string>
      <string name="backup_new">Новый</string>
-     <string name="backup_progress">Выполняется резервная копия...</string>
+     <string name="backup_progress">Выполняется резервная копия…</string>
      <string name="backup_recently">(последний)</string>
      <string name="backup_report">Отчет</string>
      <string name="backup_update">Обновить</string>
@@ -55,9 +55,9 @@
      <string name="cancel">Отмена</string>
      <string name="cancel_backup">Отмена</string>
      <string name="cancel_restore">Отменить</string>
-     <string name="cloud_app_backup_date">"Backed up "</string>
-     <string name="cloud_app_backup_pending">Waiting…</string>
-     <string name="cloud_app_backup_progress">Backing up…</string>
+     <string name="cloud_app_backup_date">"Сохранено "</string>
+     <string name="cloud_app_backup_pending">В очереди…</string>
+     <string name="cloud_app_backup_progress">Резервное копировнаие…</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="cloud_app_backup_summary">Автоматическое резервное копирование приложений и пользовательских данных, когда телефон заряжается и подключен к Wi-Fi</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
@@ -65,18 +65,18 @@
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="cloud_app_current_device">Текущее устройство</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="cloud_app_data_in_other_devices">Не сохранено на этом устройстве.</string>
+     <string name="cloud_app_data_in_other_devices">Не сохранено на этом устройстве</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="cloud_app_delete_data">Удалить копию</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="cloud_app_device">Устройство</string>
-     <string name="cloud_app_dont_restore">"Не восстанавливать"</string>
-     <string name="cloud_app_find_backup_prompt_1">Перед восстановлением, вы хотите сохранить локальные данные?</string>
+     <string name="cloud_app_dont_restore">Не восстанавливать</string>
+     <string name="cloud_app_find_backup_prompt_1">Вы хотите сохранить локальные данные перед восстановлением?</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="cloud_app_find_backup_prompt_2">Если вы откажитесь сейчас, она будет перезаписана при восстановлении.</string>
+     <string name="cloud_app_find_backup_prompt_2">Если Вы откажитесь сейчас, она будет перезаписана при восстановлении</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="cloud_app_function_summary">При создании резервной копии ваших данных в облаке, вы можете быстро восстановить его на любом устройстве.</string>
-     <string name="cloud_app_invalid_op">Вы не можете просматривать облако данных во время его резервное копирование или восстановление.</string>
+     <string name="cloud_app_function_summary">При создании резервных копий Ваших данных в облаке, Вы можете быстро восстановить их на любом устройстве</string>
+     <string name="cloud_app_invalid_op">Вы не можете просматривать облако данных во время резервного копирования или восстановления</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="cloud_app_just_show_in_current_device">Показывать только приложения на этом устройстве</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
@@ -87,7 +87,7 @@
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="cloud_app_other_devices">Другие устройства</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="cloud_app_remove_error">Не удалось удалить.</string>
+     <string name="cloud_app_remove_error">Ошибка удаления</string>
      <string name="cloud_app_remove_pending">Ожидание…</string>
      <string name="cloud_app_remove_progress">Удаление…</string>
      <string name="cloud_app_remove_prompt">%1$s данные будут удалены. Продолжить?</string>
@@ -99,20 +99,20 @@
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="cloud_app_restore_data_title">Восстановить данные пользователя</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="cloud_app_restore_error">Восстановление не удалось.</string>
+     <string name="cloud_app_restore_error">Восстановление не удалось</string>
      <string name="cloud_app_restore_pending">Ожидание…</string>
      <string name="cloud_app_restore_progress">Восстановление…</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="cloud_app_restore_prompt">Процесс восстановления удалит все локальные данные пользователя с данными, которые были в облаке.</string>
-     <string name="cloud_app_restore_query_error_prompt">"Не удалось получить данные из облака. Приложения и пользовательские данные будут восстановлены автоматически, когда устройство сможет получить доступ к данным."</string>
+     <string name="cloud_app_restore_prompt">Процесс восстановления удалит все локальные пользовательские с данные, которые были в облаке</string>
+     <string name="cloud_app_restore_query_error_prompt">Не удалось получить данные из облака. Приложения и пользовательские данные будут восстановлены автоматически, когда устройство сможет получить доступ к данным.</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="cloud_app_restore_success">Приложений восстановлено.</string>
+     <string name="cloud_app_restore_success">Приложений восстановлено</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="cloud_app_restore_summary">Восстановить ранее установленные приложения и связать с ними данные пользователя</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="cloud_app_restore_wifi_prompt">Вам необходимо подключиться к Интернету через Wi-Fi для восстановления приложений и пользовательских данных.</string>
      <string name="cloud_app_total_size">Размер копии: %1$s</string>
-     <string name="cloud_app_version_size">Версия: %1$s, Размер:%2$s</string>
+     <string name="cloud_app_version_size">Версия: %1$s, Размер: %2$s</string>
      <string name="cloud_backup_hint">Вы должны войти в систему для онлайн резервного копирования</string>
      <string name="cloud_backup_login">Войти в MIUI</string>
      <string name="cloud_backup_window_title">Облако</string>
@@ -132,11 +132,11 @@
      <string name="current_sim">Текущая SIM-карта</string>
      <string name="customization"><u>Настроить</u></string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="customization_under_wifi_prompt">Поддерживается только при подключении через Wi-Fi</string>
+     <string name="customization_under_wifi_prompt">Поддерживается только по Wi-Fi</string>
      <string name="data_no_enough_space">Не хватает памяти</string>
      <string name="data_no_enough_space_message">Резервное копирование может завершиться с ошибкой. Освободите место на внутренней памяти.</string>
      <string name="delete">Удалить</string>
-     <string name="delete_backup_process">Выполняется удаление, пожалуйста, подождите...</string>
+     <string name="delete_backup_process">Выполняется удаление, пожалуйста, подождите…</string>
      <string name="delete_failed_backup_confirm">Резервная копия имеет ошибки. Не возможно восстановить.</string>
      <string name="disable_encrypt_title">Отключить шифрование</string>
      <string name="enable_encrypt">Включить сейчас</string>
@@ -159,7 +159,7 @@
      <string name="import_from_xiaomi_account_hint2">Примечание: Перейдите к следующему шагу, если резервная копия уже существует</string>
      <string name="import_from_xiaomi_account_hint_title">Используйте MiTalk для резервного копирования контактов на других устройствах</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="just_support_op_with_wifi_connected">Поддерживается только при подключении через Wi-Fi</string>
+     <string name="just_support_op_with_wifi_connected">Поддерживается только по Wi-Fi</string>
      <string name="local_app_name">Резервное копирование</string>
      <string name="local_backup_window_title">Локальное</string>
      <string name="local_home_title">Локальное</string>
@@ -180,11 +180,11 @@
      <string name="no_network">Нет сетевого соединения. Проверьте сеть и попробуйте еще раз.</string>
      <string name="note_title">Заметки</string>
      <string name="nothing_searched">Ничего не найдено</string>
-     <string name="progress_backup_hint">Резервное копирование...</string>
-     <string name="progress_restore_hint">Восстановление данных...</string>
-     <string name="prompt_reading">Чтение...</string>
-     <string name="prompt_sending">Отправка...</string>
-     <string name="prompt_writing">Запись...</string>
+     <string name="progress_backup_hint">Резервное копирование…</string>
+     <string name="progress_restore_hint">Восстановление данных…</string>
+     <string name="prompt_reading">Чтение…</string>
+     <string name="prompt_sending">Отправка…</string>
+     <string name="prompt_writing">Запись…</string>
      <string name="read_encrypt_fail">Не удалось расшифровать</string>
      <string name="refresh">Обновление</string>
      <string name="restore">Восстановление</string>
@@ -195,8 +195,8 @@
      <string name="restore_data">Восстановить</string>
      <string name="restore_failed">Ошибка восстановления</string>
      <string name="restore_finished">Восстановление выполнено</string>
-     <string name="restore_launcher_layout_hit">- Заменит расположение значков</string>
-     <string name="restore_progress">Идет восстановление данных...</string>
+     <string name="restore_launcher_layout_hit">- заменит расположение значков</string>
+     <string name="restore_progress">Идет восстановление данных…</string>
      <string name="restore_report">Журнал восстановления</string>
      <string name="restore_telephony_hit">Примечание: процесс восстановления перезагрузит приложение</string>
      <string name="retry">Повторить</string>
@@ -216,7 +216,7 @@
      <string name="select_all">Все</string>
      <string name="select_backup_item">Выбор бэкапа</string>
      <string name="service_stoped">Служба остановилась</string>
-     <string name="settings_summary">- Настройки телефона и сообщений</string>
+     <string name="settings_summary">- настройки телефона и сообщений</string>
      <string name="sms_title">Сообщения</string>
      <string name="software_backup_info">Пользовательские приложения с данными</string>
      <string name="start_backup">Начать</string>
@@ -224,7 +224,7 @@
      <string name="succeed">Успешно завершено</string>
      <string name="system_backup">Бэкап</string>
      <string name="system_backup_info">Настройки всех системных приложений</string>
-     <string name="task_backup_cancel_progress">Остановка процесса...</string>
+     <string name="task_backup_cancel_progress">Остановка процесса…</string>
      <string name="task_backup_finished_local">Резервное копирование выполнено успешно!</string>
      <string name="task_canceled">Отменено</string>
      <string name="task_canceled_all_local">Все задачи отменены</string>
@@ -238,12 +238,12 @@
      <string name="task_local_backup_cancel_dialog">"Резервное копирование не было завершено.
 Нажмите кнопку OK, чтобы удалить эту резервную копию."</string>
      <string name="task_pending">В ожидании</string>
-     <string name="task_post_running">Пост-обработка...</string>
+     <string name="task_post_running">Пост-обработка…</string>
      <string name="task_pre_running">Подготовка</string>
      <string name="task_progress">Прогресс</string>
      <string name="task_restore_cancel_dialog">"Вы собираетесь отменить операцию.
 Это может привести к потере данных!"</string>
-     <string name="task_restore_cancel_progress">Остановка процесса...</string>
+     <string name="task_restore_cancel_progress">Остановка процесса…</string>
      <string name="task_restore_finished_local">Восстановление завершено</string>
      <string name="task_restore_none">Не нуждается в восстановлении</string>
      <string name="task_running_backup_dialog">Резервное копирование в процессе. Нажмите кнопку OK для просмотра.</string>
