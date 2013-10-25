@@ -55,32 +55,25 @@
      <string name="resource_apply">Применить</string>
      <string name="resource_buy">"Купить "</string>
      <string name="resource_can_not_selected">%1$s не может быть выбран!</string>
-	 <string name="resource_category">Категория</string>
+     <string name="resource_category">Категория</string>
      <string name="resource_comment_1_star">1 звезда</string>
      <string name="resource_comment_2_star">2 звезды</string>
      <string name="resource_comment_3_star">3 звезды</string>
      <string name="resource_comment_4_star">4 звезды</string>
      <string name="resource_comment_5_star">5 звезд</string>
      <string name="resource_comment_account_need_activitied">Ваш аккаунт не активирован. Хотите активировать сейчас?</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="resource_comment_all_comments">Все</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="resource_comment_average_score">Средние</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="resource_comment_bad_comments">Плохие</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="resource_comment_current_version">Текущая версия</string>
+     <string name="resource_comment_date">%1$02d-%2$02d</string>
      <string name="resource_comment_edit_comment">Добавить отзыв</string>
      <string name="resource_comment_edit_comment_waiting">Проверка Ваших отзывов…</string>
      <string name="resource_comment_edit_text_default">Написать отзыв</string>
      <string name="resource_comment_edit_title">Отзывы к \"%1$s\"</string>
-     <!-- The count of MNPS does not match! Now: 1 must: 0
-	%s: 1 must: 0
-	%d: 0 must: 0 -->
-     <!-- Original string: View comments -->
      <string name="resource_comment_entry_tips">Посмотреть отзывы</string>
      <string name="resource_comment_expand_full_text">Показать весь текст▼</string>
-	 <string name="resource_comment_footer">Пустые комментарии не отображаются</string>
+     <string name="resource_comment_footer">Пустые комментарии не отображаются</string>
      <string name="resource_comment_good_comments">Хорошие</string>
      <string name="resource_comment_invalid">Нажмите на звездочку, чтобы оценить</string>
      <string name="resource_comment_name_default">Пользователь %1$s</string>
@@ -92,7 +85,6 @@
      <string name="resource_comment_title">Отзывы к \"%1$s\"</string>
      <string name="resource_comment_upload_data_invalid">Ошибка отправки отзыва</string>
      <string name="resource_comment_upload_failed">Ошибка сохранения отзыва</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="resource_comment_upload_hint">Ваш комментарий будет показан после краткого обзора</string>
      <string name="resource_comment_upload_not_bought">Прежде чем оставить отзыв, Вы должны применить тему</string>
      <string name="resource_comment_upload_not_logined">Пожалуйста, войдите в аккаунт</string>
@@ -102,25 +94,20 @@
      <string name="resource_delete_all">Вы уверены, что хотите удалить выбранные ресурсы (%1$d)?</string>
      <string name="resource_delete_confirm">Удалить выбранное?</string>
      <string name="resource_delta_update_failed">Ошибка обновления. Необходимо скачать полностью.</string>
-     <!-- The count of MNPS does not match! Now: 1 must: 0
-	%s: 1 must: 0
-	%d: 0 must: 0 -->
-     <!-- Original string: Update successful -->
      <string name="resource_delta_update_successful">Обновление завершено</string>
      <string name="resource_delta_update_total">%1$d обновлений сохранено %2$s для вас</string>
      <string name="resource_detail">Сведения</string>
-	<string name="resource_detail_comment_title">Коментарии</string>
-    <string name="resource_detail_jump_to_online_title">Онлайн</string>
-    <string name="resource_detail_jump_to_same_author_title">Тот же автор</string>
-    <string name="resource_detail_recommend_desiner_other_themes">Другие темы разработанные %1$s</string>
-    <string name="resource_detail_recommend_desiner_themes">темы: %1$s</string>
-    <string name="resource_detail_recommend_other_themes">Пользователям также понравилось</string>
-    <string name="resource_detail_update_log_title">Обновления</string>
-    <string name="resource_detail_window_title">%1$s свойства</string>
+     <string name="resource_detail_comment_title">Коментарии</string>
+     <string name="resource_detail_jump_to_online_title">Онлайн</string>
+     <string name="resource_detail_jump_to_same_author_title">Тот же автор</string>
+     <string name="resource_detail_recommend_desiner_other_themes">Другие темы разработанные %1$s</string>
+     <string name="resource_detail_recommend_desiner_themes">темы: %1$s</string>
+     <string name="resource_detail_recommend_other_themes">Пользователям также понравилось</string>
+     <string name="resource_detail_update_log_title">Обновления</string>
+     <string name="resource_detail_window_title">%1$s свойства</string>
      <string name="resource_download">Скачать</string>
      <string name="resource_downloaded_title">Скачанные</string>
      <string name="resource_downloading">Скачивание</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="resource_expand_full_text">Раскрыть</string>
      <string name="resource_get_auth_checking">Проверка авторизации…</string>
      <string name="resource_get_auth_exceed_max_limit_tips">Тема не может работать на текущем устройстве с Вашего аккаунта, т.к. ограничение составляет до 10 мобильных устройств каждый год. Пожалуйста, попробуйте другие аккаунты Xiaomi.</string>
@@ -132,7 +119,6 @@
      <string name="resource_list_title">Последние</string>
      <string name="resource_local">Локально %1$s</string>
      <string name="resource_mute">Нет</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="resource_my">Телефон</string>
      <string name="resource_no_result">Нет результата</string>
      <string name="resource_notification_default">Уведомл.</string>
@@ -144,13 +130,13 @@
      <string name="resource_preview">Просмотр</string>
      <string name="resource_price_free">Бесплатно</string>
      <string name="resource_price_unit">" MiCredit"</string>
-	 <string name="resource_ranking">Топ</string>
+     <string name="resource_ranking">Топ</string>
      <string name="resource_ranking_free">Беспл.</string>
      <string name="resource_ranking_purchase">Платные</string>
      <string name="resource_ringtone_default">Мелодии</string>
      <string name="resource_see_more">Подробнее</string>
      <string name="resource_select">Выбрать</string>
-	 <string name="resource_selected">Лучшее</string>
+     <string name="resource_selected">Лучшее</string>
      <string name="resource_server_alert_dialog_title">Технические неполадки</string>
      <string name="resource_server_out_of_service">Сервис не доступен. Попробуйте позже.</string>
      <string name="resource_share_subject">Поделиться: %1$s</string>

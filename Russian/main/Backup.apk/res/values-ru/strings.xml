@@ -58,58 +58,37 @@
      <string name="cloud_app_backup_date">"Сохранено "</string>
      <string name="cloud_app_backup_pending">В очереди…</string>
      <string name="cloud_app_backup_progress">Резервное копировнаие…</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="cloud_app_backup_summary">Автоматическое резервное копирование приложений и пользовательских данных, когда телефон заряжается и подключен к Wi-Fi</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="cloud_app_backup_title">Резервное копирование в облако</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="cloud_app_current_device">Текущее устройство</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="cloud_app_data_in_other_devices">Не сохранено на этом устройстве</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="cloud_app_delete_data">Удалить копию</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="cloud_app_device">Устройство</string>
      <string name="cloud_app_dont_restore">Не восстанавливать</string>
      <string name="cloud_app_find_backup_prompt_1">Вы хотите сохранить локальные данные перед восстановлением?</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="cloud_app_find_backup_prompt_2">Если Вы откажитесь сейчас, она будет перезаписана при восстановлении</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="cloud_app_function_summary">При создании резервных копий Ваших данных в облаке, Вы можете быстро восстановить их на любом устройстве</string>
      <string name="cloud_app_invalid_op">Вы не можете просматривать облако данных во время резервного копирования или восстановления</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="cloud_app_just_show_in_current_device">Показывать только приложения на этом устройстве</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="cloud_app_mine">Загруженные приложения</string>
      <string name="cloud_app_name">Облако</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="cloud_app_no_data">Нет данных</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="cloud_app_other_devices">Другие устройства</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="cloud_app_remove_error">Ошибка удаления</string>
      <string name="cloud_app_remove_pending">Ожидание…</string>
      <string name="cloud_app_remove_progress">Удаление…</string>
      <string name="cloud_app_remove_prompt">%1$s данные будут удалены. Продолжить?</string>
      <string name="cloud_app_restore_action_bar_title">%1$s данных было скопировано</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="cloud_app_restore_app_and_data">Восстановление приложений и пользовательских данных</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="cloud_app_restore_data">Восстановление ранее установленных приложений</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="cloud_app_restore_data_title">Восстановить данные пользователя</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="cloud_app_restore_error">Восстановление не удалось</string>
      <string name="cloud_app_restore_pending">Ожидание…</string>
      <string name="cloud_app_restore_progress">Восстановление…</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="cloud_app_restore_prompt">Процесс восстановления удалит все локальные пользовательские с данные, которые были в облаке</string>
      <string name="cloud_app_restore_query_error_prompt">Не удалось получить данные из облака. Приложения и пользовательские данные будут восстановлены автоматически, когда устройство сможет получить доступ к данным.</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="cloud_app_restore_success">Приложений восстановлено</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="cloud_app_restore_summary">Восстановить ранее установленные приложения и связать с ними данные пользователя</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="cloud_app_restore_wifi_prompt">Вам необходимо подключиться к Интернету через Wi-Fi для восстановления приложений и пользовательских данных.</string>
      <string name="cloud_app_total_size">Размер копии: %1$s</string>
      <string name="cloud_app_version_size">Версия: %1$s, Размер: %2$s</string>
@@ -131,7 +110,6 @@
      <string name="current_account">Аккаунт %s</string>
      <string name="current_sim">Текущая SIM-карта</string>
      <string name="customization"><u>Настроить</u></string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="customization_under_wifi_prompt">Поддерживается только по Wi-Fi</string>
      <string name="data_no_enough_space">Не хватает памяти</string>
      <string name="data_no_enough_space_message">Резервное копирование может завершиться с ошибкой. Освободите место на внутренней памяти.</string>
@@ -158,7 +136,6 @@
 3. Зайдите в настройки MiTalk и выберите Создать резервную копию контактов в аккаунт Xiaomi"</string>
      <string name="import_from_xiaomi_account_hint2">Примечание: Перейдите к следующему шагу, если резервная копия уже существует</string>
      <string name="import_from_xiaomi_account_hint_title">Используйте MiTalk для резервного копирования контактов на других устройствах</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="just_support_op_with_wifi_connected">Поддерживается только по Wi-Fi</string>
      <string name="local_app_name">Резервное копирование</string>
      <string name="local_backup_window_title">Локальное</string>
@@ -174,7 +151,6 @@
      <string name="miliao_account_login">Войти в MiTalk</string>
      <string name="mms_title">Сообщения MMS</string>
      <string name="multi_select_title">Выбрано: %1$s</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="my_phone">Мой телефон</string>
      <string name="no_encrypt_password">Нет шифрования пароля</string>
      <string name="no_network">Нет сетевого соединения. Проверьте сеть и попробуйте еще раз.</string>
