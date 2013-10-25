@@ -929,7 +929,7 @@
      <string name="returnCall">Обратный вызов</string>
      <string name="ringLabelsGroup">Мелодия</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="ringtone_volume_mute">Включен режим беззвука</string>
+     <string name="ringtone_volume_mute">Мелодия звонка отключена</string>
      <string name="save_photo_progress">Сохранение фотографии...</string>
      <string name="savingContact">Контакт сохраняется...</string>
      <string name="savingDisplayGroups">Варианты отображения сохраняются...</string>
