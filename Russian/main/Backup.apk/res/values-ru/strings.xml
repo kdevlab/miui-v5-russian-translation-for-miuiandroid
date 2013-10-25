@@ -132,7 +132,7 @@
      <string name="current_sim">Текущая SIM-карта</string>
      <string name="customization"><u>Настроить</u></string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="customization_under_wifi_prompt">Поддерживается только по через Wi-Fi</string>
+     <string name="customization_under_wifi_prompt">Поддерживается только по Wi-Fi</string>
      <string name="data_no_enough_space">Не хватает памяти</string>
      <string name="data_no_enough_space_message">Резервное копирование может завершиться с ошибкой. Освободите место на внутренней памяти.</string>
      <string name="delete">Удалить</string>
