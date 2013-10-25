@@ -32,6 +32,7 @@
      <string name="description_summary">Инфо:</string>
      <string name="description_uploadtime">Обновление:</string>
      <string name="description_version">Версия:</string>
+     <string name="description_version_szie">Version: %1$s Size: %2$s</string>
      <string name="desktop_wallpaper">Рабочий стол</string>
      <string name="download_failed">Ошибка загрузки</string>
      <string name="download_preview_failed">Не удалось загрузить изображение</string>
@@ -54,40 +55,89 @@
      <string name="resource_apply">Применить</string>
      <string name="resource_buy">"Купить "</string>
      <string name="resource_can_not_selected">%1$s не может быть выбран!</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="resource_category">Category</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="resource_comment_1_star">1 Star</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="resource_comment_2_star">2 Stars</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="resource_comment_3_star">3 Stars</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="resource_comment_4_star">4 Stars</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="resource_comment_5_star">5 Stars</string>
      <string name="resource_comment_account_need_activitied">Ваш аккаунт не активирован. Хотите активировать сейчас?</string>
-     <string name="resource_comment_count">"Рейтинг: %1$s 
-Отзывов: %2$s 
-Версия: %3$s"</string>
-     <string name="resource_comment_description">%1$s отзыв %2$s:%3$s:%4$s</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="resource_comment_all_comments">All</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="resource_comment_average_score">Average</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="resource_comment_bad_comments">Negative</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="resource_comment_current_version">Current version</string>
+     <string name="resource_comment_date">%1$02d-%2$02d</string>
      <string name="resource_comment_edit_comment">Добавить отзыв</string>
      <string name="resource_comment_edit_comment_waiting">Проверка Ваших отзывов к этой теме...</string>
      <string name="resource_comment_edit_text_default">Написать отзыв</string>
      <string name="resource_comment_edit_title">Отзывы к \"%1$s\"</string>
+     <!-- The count of MNPS does not match! Now: 1 must: 0
+	%s: 1 must: 0
+	%d: 0 must: 0 -->
+     <!-- Original string: View comments -->
      <string name="resource_comment_entry_tips">"Отзывов: %1$s. 
 Нажмите, чтобы посмотреть."</string>
      <string name="resource_comment_expand_full_text">Показать весь текст▼</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="resource_comment_footer">Empty comments are not displayed.</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="resource_comment_good_comments">Positive</string>
      <string name="resource_comment_invalid">Нажмите на звездочку, чтобы оценить</string>
      <string name="resource_comment_name_default">Пользователь %1$s</string>
+     <string name="resource_comment_no_average_score">-.-</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="resource_comment_no_comment">No comments.</string>
      <string name="resource_comment_publish">Отправить</string>
      <string name="resource_comment_rate">Рейтинг:</string>
      <string name="resource_comment_sending">Отправка отзыва...</string>
      <string name="resource_comment_title">Отзывы к \"%1$s\"</string>
      <string name="resource_comment_upload_data_invalid">Ошибка отправки отзыва</string>
      <string name="resource_comment_upload_failed">Ошибка сохранения отзыва</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="resource_comment_upload_hint">Your comment will be displayed after a brief review.</string>
      <string name="resource_comment_upload_not_bought">Прежде чем оставить отзыв, Вы должны применить тему</string>
      <string name="resource_comment_upload_not_logined">Пожалуйста, войдите в аккаунт</string>
      <string name="resource_comment_upload_success">Отзыв отправлен!</string>
-     <string name="resource_comment_version_name">(версия: %1$s)</string>
      <string name="resource_default">Стандартная мелодия</string>
      <string name="resource_default_name">Ресурс</string>
      <string name="resource_delete_all">Вы уверены, что хотите удалить выбранные ресурсы (%1$d)?</string>
      <string name="resource_delete_confirm">Удалить выбранное?</string>
      <string name="resource_delta_update_failed">Ошибка обновления. Необходимо скачать полностью.</string>
+     <!-- The count of MNPS does not match! Now: 1 must: 0
+	%s: 1 must: 0
+	%d: 0 must: 0 -->
+     <!-- Original string: Update successful -->
      <string name="resource_delta_update_successful">Обновление завершено. Сохраняю в %1$s.</string>
+     <string name="resource_delta_update_total">%1$d delta updates saved %2$s for you</string>
      <string name="resource_detail">Детали</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="resource_detail_comment_title">Comments</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="resource_detail_jump_to_online_title">Online</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="resource_detail_jump_to_same_author_title">Same author</string>
+     <string name="resource_detail_recommend_desiner_other_themes">Other themes designed by %1$s</string>
+     <string name="resource_detail_recommend_desiner_themes">%1$s themes</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="resource_detail_recommend_other_themes">Users also liked</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="resource_detail_update_log_title">Updates</string>
+     <string name="resource_detail_window_title">%1$s details</string>
      <string name="resource_download">Скачать</string>
      <string name="resource_downloaded_title">Скачанные</string>
      <string name="resource_downloading">Скачивание</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="resource_expand_full_text">Expand</string>
      <string name="resource_get_auth_checking">Проверка авторизации...</string>
      <string name="resource_get_auth_exceed_max_limit_tips">Тема не может работать на текущем устройстве с Вашего аккаунта, т.к. ограничение составляет до 10 мобильных устройств каждый год. Пожалуйста, попробуйте другие аккаунты Xiaomi.</string>
      <string name="resource_get_auth_exceed_max_limit_title">Превышен предел авторизаций</string>
@@ -98,16 +148,36 @@
      <string name="resource_list_title">Последние</string>
      <string name="resource_local">Локально %1$s</string>
      <string name="resource_mute">Нет</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="resource_my">Local</string>
      <string name="resource_no_result">Нет результата</string>
      <string name="resource_notification_default">Уведомл.</string>
      <string name="resource_online">Онлайн %1$s</string>
+     <string name="resource_pack_confirm">You have already purchased %1$d items, but current price is still more favorable than purchase individually for left items, continue?</string>
+     <string name="resource_pack_discount_info">%1$s Saved!</string>
+     <string name="resource_pack_price_info">%1$s Original</string>
+     <string name="resource_pack_warning">Attention, you have already purchased %1$d items, current price is no more favorable for left items, please purchase them individually.</string>
      <string name="resource_preview">Просмотр</string>
      <string name="resource_price_free">Бесплатно</string>
      <string name="resource_price_unit">" MiCredit"</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="resource_ranking">Popular</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="resource_ranking_free">Free</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="resource_ranking_purchase">Paid</string>
      <string name="resource_ringtone_default">Мелодии</string>
      <string name="resource_see_more">Подробнее</string>
      <string name="resource_select">Выбрать</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="resource_selected">Featured</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="resource_server_alert_dialog_title">Out of service</string>
      <string name="resource_server_out_of_service">Сервис не доступен. Попробуйте позже.</string>
+     <string name="resource_share_subject">Share theme: %1$s</string>
+     <string name="resource_share_text">Here is a theme I thought you might like: %1$s! Link: %2$s</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="resource_share_title">Share</string>
      <string name="resource_switch_account">Переключить</string>
      <string name="resource_system_title">Системные</string>
      <string name="resource_tip_select_ringtone">Мелодия не выбрана</string>
@@ -116,14 +186,20 @@
      <string name="resource_update">Обновить</string>
      <string name="resource_waiting_download">Ожидание</string>
      <string name="restore_default_theme_alert">Вы можете стать жертвой подделки темы. Перейдите в магазин тем, чтобы купить или повторно загрузить тему.</string>
-     <string name="sdcard_status_changed_dialog_message">"Требуется выход.
-Пожалуйста, откройте это приложение еще раз, для обновления ресурсов."</string>
-     <string name="sdcard_status_changed_dialog_title">Статус SD-карты изменился</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="ringtone_volume_mute">Your ringtone is currently silenced.</string>
+     <string name="sdcard_not_mounted_dialog_message">"Insert SD card now.
+"</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="sdcard_not_mounted_dialog_title">No SD card detected</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="selected_resource_file_invalid">Selected file is invalid.</string>
      <string name="short_ringtone_resource">Короткие</string>
      <string name="theme_another_import_running">Процесс импорта уже запущен. Попробуйте позже.</string>
      <string name="theme_batch_has_update_text">Тем для обновления: %1$d</string>
      <string name="theme_batch_update_all">Обновить все</string>
      <string name="theme_batch_update_dlg_content">Вы уверены, что хотите обновить сейчас?</string>
+     <string name="theme_batch_update_dlg_content_single">Update now?</string>
      <string name="theme_batch_update_dlg_title">Обновить</string>
      <string name="theme_batch_updating_text">Обновляется тем: %1$d</string>
      <string name="theme_changed_failed_message">Ошибка применения темы</string>

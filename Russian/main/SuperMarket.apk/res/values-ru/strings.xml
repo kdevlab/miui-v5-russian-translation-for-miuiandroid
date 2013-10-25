@@ -16,6 +16,11 @@
      <string name="cancel">Отмена</string>
      <string name="category_recommend_tag">Реком.</string>
      <string name="category_tag">Категории</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="clear_cache_failed">Clear cache failed, please try later.</string>
+     <string name="clear_cache_message">Clear cache?</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="clear_cache_succeed">Cache cleared</string>
      <string name="clear_search_record_message">Очистить историю поиска?</string>
      <string name="comment_1_star">1 звезда</string>
      <string name="comment_2_star">2 звезды</string>
@@ -53,6 +58,32 @@
      <string name="delta_update">Обновление %1$s</string>
      <string name="description_info">Описание</string>
      <string name="developer_button">Показать еще</string>
+     <string name="diagnostics_btn_processing">Diagnosing…</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="diagnostics_btn_start">Diagnose</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="diagnostics_btn_upload">Upload log</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="diagnostics_cdn_ip">4.The IP address of CDN</string>
+     <string name="diagnostics_content_hint">Diagnostic:</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="diagnostics_data_cost_hint">Diagnostic will use about 100KB of cellular data</string>
+     <string name="diagnostics_data_sending">Sending log…</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="diagnostics_data_upload_failed">Upload failed, please try again</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="diagnostics_data_upload_success">Upload succeed</string>
+     <string name="diagnostics_desc">Diagnostic application will help you resolving network connecting problems. A private-free log file will be generated and uploaded for debugging use</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="diagnostics_dns_ip">2.The IP address resolved by DNS</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="diagnostics_gateway_ip">3.The IP address of Gateway</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="diagnostics_local_ip">1.local IP address</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="diagnostics_test_download">5.Measure download speed</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="diagnostics_title">Network Diagnostic</string>
      <string name="download_fail">Загрузка не завершена. Ошибка загрузки.</string>
      <string name="download_start_fail">Загрузка не завершена. Ошибка создания задачи для загрузки.</string>
      <string name="edit_comment">Комментарий</string>
@@ -105,7 +136,9 @@
      <string name="loading_category_list">Загрузка категорий...</string>
      <string name="loading_collection_list">Загрузка списка коллекций...</string>
      <string name="loading_installed_list">Загрузка установленных приложений...</string>
+     <string name="loading_recommend_list">Loading recommend list…</string>
      <string name="loading_search_result">Загрузка результатов поиска...</string>
+     <string name="loading_update_history_list">Loading update records…</string>
      <string name="loading_update_list">Загрузка списка обновлений...</string>
      <string name="login_active">Активировать</string>
      <string name="login_active_title">Ваш аккаунт не активирован. Хотите активировтаь его сейчас?</string>
@@ -117,6 +150,8 @@
      <string name="megabytes_unit">%1$sМБ</string>
      <string name="menu_account">Аккаунт</string>
      <string name="menu_clear_search_history">Очистить историю поиска</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="menu_clear_update_history">Clear update records</string>
      <string name="menu_detail">Подробнее</string>
      <string name="menu_download_manager">Менеджер загрузок</string>
      <string name="menu_ignore">Позже</string>
@@ -142,6 +177,8 @@
      <string name="no_network">Нет доступа в Интернет. Пожалуйста, проверьте настройки и попробуйте обновить :)</string>
      <string name="no_search">Приложений не найдено</string>
      <string name="no_update">Обновлений нет</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="no_update_records">No update records</string>
      <string name="notif_auto_update_failed">Ошибка обновления некоторых приложений.</string>
      <string name="notif_auto_update_successfull">%1$s авто-обновление не завершено</string>
      <string name="notif_auto_update_via_wifi">Авто-обновление: %1$s</string>
@@ -164,27 +201,30 @@
      <string name="permission_risky_security">Безопасность</string>
      <string name="permissions_expand_title">Другие разрешения</string>
      <string name="permissions_title">Разрешения для %1$s</string>
-     <string name="pref_list_auto_update">Автообновление</string>
-     <string name="pref_list_data_save_mode_always">Никогда</string>
-     <string name="pref_list_data_save_mode_network">Только через Wi-Fi</string>
-     <string name="pref_list_data_save_mode_never">Всегда</string>
-     <string name="pref_list_disable">Отключено</string>
-     <string name="pref_list_per_day">Ежедневно</string>
-     <string name="pref_list_per_week">Еженедельно</string>
-     <string name="pref_list_remind_me_after_download">Напомнить после загрузки</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="pref_category_title_notification">Notification</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="pref_category_title_other">Other</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="pref_category_title_version">Version</string>
      <string name="pref_list_use_dev_staging_server">Используйте Dev-промежуточный сервер</string>
      <string name="pref_list_use_online_server">Использовать сервер продукта</string>
      <string name="pref_list_use_staging_server">Использование промежуточного сервера</string>
      <string name="pref_summary_auto_update_via_wifi">Авто-обновление через Wi-Fi при заблок. экране.</string>
-     <string name="pref_title_auto_update_setting">Параметры автообновления</string>
+     <string name="pref_summary_data_save">"Won't show pictures over data network"</string>
      <string name="pref_title_auto_update_via_wifi">Авто-обновление через Wi-Fi</string>
      <string name="pref_title_auto_update_via_wifi_checkbox">Авто-обновление</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="pref_title_clear_cache">Clear cache</string>
      <string name="pref_title_clear_search_record">Очистить историю поиска</string>
-     <string name="pref_title_data_save_mode">Экономия трафика</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="pref_title_data_save">Show pictures</string>
      <string name="pref_title_hotsubjects_notification">Сообщите мне о последней теме</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="pref_title_network_diagnostics">Network Diagnostic</string>
      <string name="pref_title_silent_install">Тихая установка</string>
-     <string name="pref_title_update_notify_mode">Уведомления обновлений</string>
-     <string name="pref_title_update_onlyby_wifi">Автообновление только по Wi-Fi</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="pref_title_update_notification">Updates</string>
      <string name="pref_title_use_staging">Для использования промежуточного сервера</string>
      <string name="publish_info">%1$s %2$s %3$s</string>
      <string name="quicksearchbox_description">Поиск маркета для приложений</string>
@@ -197,6 +237,19 @@
      <string name="search_local_app_text_hint">Поиск в приложениях: %1$d</string>
      <string name="search_not_found">\"%1$s\" не найдено</string>
      <string name="search_other_market">Поиск в другом маркете</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="search_recommend_hint">You may like these</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="search_recommend_ingore">Ignore</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="search_recommend_ingored_text">Do not recommend</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="search_recommend_no_data">No applications recommended</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="search_recommend_no_net">Network unavailable, please try later</string>
+     <string name="search_recommend_source">Based on %1$s</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="search_recommend_source_default">Most popular</string>
      <string name="share_button">Поделиться</string>
      <string name="share_subject">Отправить： %1$s</string>
      <string name="share_text">Вот приложение, которое я думаю, тебе может понравиться: %1$s，вот ссылка ：%2$s</string>
@@ -210,7 +263,13 @@
      <string name="update_all">Обновить все</string>
      <string name="update_date">%3$s, %2$s, %1$s</string>
      <string name="update_date_label">Загружен：</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="update_history_cleared">Your update history has been cleared.</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="update_history_title">Update history</string>
      <string name="update_info">Изменения</string>
+     <string name="update_log_hint">Updates:</string>
+     <string name="update_time">%1$s-%2$s</string>
      <string name="upgrade_all_description">Обновить %1$s и %2$s приложений сейчас?</string>
      <string name="upgrade_all_title">Обновить все</string>
      <string name="verifying">Проверка на вирусы...</string>

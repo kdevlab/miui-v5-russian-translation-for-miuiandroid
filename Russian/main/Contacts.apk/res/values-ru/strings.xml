@@ -97,6 +97,8 @@
      <string name="callrecordview_item_op_time_rejected">Отклонен</string>
      <string name="callrecordview_item_op_time_short_incoming">" | "</string>
      <string name="callrecordview_item_op_time_short_outgoing">" | "</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="callrecordview_menu_add_call_note">Добавить заметку о вызове</string>
      <string name="callrecordview_menu_delete">Удалить вызов</string>
      <string name="callrecordview_menu_delete_accepted">Удалить входящие вызовы</string>
      <string name="callrecordview_menu_delete_all">Очистить журнал</string>
@@ -110,6 +112,8 @@
      <string name="callrecordview_menu_delete_new">Удалить новые контакты</string>
      <string name="callrecordview_menu_delete_one">Удалить из журнала вызовов</string>
      <string name="callrecordview_menu_delete_stranger">Удалить неизвестные вызовы</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="callrecordview_menu_edit_call_note">Изменить заметку о вызове</string>
      <string name="callrecordview_menu_paste">Вставить</string>
      <string name="callrecordview_menu_settings">Настройки</string>
      <string name="callrecordview_menu_show">Отображение вызовов</string>
@@ -256,6 +260,7 @@
      <string name="description_summary">Инфо:</string>
      <string name="description_uploadtime">Обновлено:</string>
      <string name="description_version">Версия:</string>
+     <string name="description_version_szie">Версия: %1$s Размер: %2$s</string>
      <string name="description_view_contact">Просмотреть данные: %1$s</string>
      <string name="description_view_contact_detail">Данные контакта</string>
      <string name="description_voicemail_button">голосовая почта</string>
@@ -374,6 +379,8 @@
      <string name="fail_reason_too_many_vcard">Слишком много файлов VCard на SD-карте</string>
      <string name="fail_reason_unknown">Неизвестная ошибка</string>
      <string name="fail_reason_vcard_parse_error">Не возможно открыть vCard по неизвестным причинам</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="fail_to_add_account">Не удалось добавить аккаунт.</string>
      <string name="favoritesFrequentCalled">Часто вызываемые</string>
      <string name="favoritesFrequentContacted">Часто набираемые</string>
      <string name="favorites_list_empty">Нет избранных</string>
@@ -519,6 +526,8 @@
      <string name="menu_new_group_action_bar">Новая группа</string>
      <string name="menu_not_redirect_calls_to_vm">Включить голосовую почту</string>
      <string name="menu_redirect_calls_to_vm">Выключить голосовую почту</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="menu_refresh">Обновить</string>
      <string name="menu_removeStar">Из избранных</string>
      <string name="menu_search">Поиск</string>
      <string name="menu_select_all">Выбрать все</string>
@@ -781,16 +790,94 @@
      <string name="resource_apply">Применить</string>
      <string name="resource_buy">Купить</string>
      <string name="resource_can_not_selected">%1$s не может быть выбран!</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="resource_category">Категория</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="resource_comment_1_star">1 звезда</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="resource_comment_2_star">2 звезды</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="resource_comment_3_star">3 звезды</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="resource_comment_4_star">4 звезды</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="resource_comment_5_star">5 звезд</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="resource_comment_account_need_activitied">Активируйте аккаунт Xiaomi сейчас.</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="resource_comment_all_comments">Все</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="resource_comment_average_score">Среднее</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="resource_comment_bad_comments">Негативно</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="resource_comment_current_version">Текущая версия</string>
+     <string name="resource_comment_date">%1$02d-%2$02d</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="resource_comment_edit_comment">Добавить комментарий</string>
+     <string name="resource_comment_edit_comment_waiting">Проверка истории…</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="resource_comment_edit_text_default">Написать комментарий</string>
+     <string name="resource_comment_edit_title">Изменить комментарий: %1$s</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="resource_comment_entry_tips">Просмотр комментариев</string>
+     <string name="resource_comment_expand_full_text">Развернуть ▼</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="resource_comment_footer">Пустые комментарии не отображаются.</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="resource_comment_good_comments">Позитивно</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="resource_comment_invalid">Нажмите на звезды для рейтинга</string>
+     <string name="resource_comment_name_default">Пользователь %1$s</string>
+     <string name="resource_comment_no_average_score">-.-</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="resource_comment_no_comment">Нет комментариев.</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="resource_comment_publish">Отправить</string>
+     <string name="resource_comment_rate">Рейтинг:</string>
+     <string name="resource_comment_sending">Отправка комментария…</string>
+     <string name="resource_comment_title">Комментарии: %1$s</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="resource_comment_upload_data_invalid">Ошибка коментария.</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="resource_comment_upload_failed">Ошибка отправки коментария.</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="resource_comment_upload_hint">Ваш комментарий будет отображаться после краткого обзора.</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="resource_comment_upload_not_bought">Вы должны использовать эту тему, прежде чем комментировать.</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="resource_comment_upload_not_logined">Пожалуйста, зарегистрируйтесь</string>
+     <string name="resource_comment_upload_success">Комментарий отправлен! Ваш комментарий будет отображаться после краткого обзора.</string>
      <string name="resource_default">Стандарт</string>
      <string name="resource_default_name">Ресурс</string>
      <string name="resource_delete_all">Удалить выбранные ресурсы (%1$d)?</string>
      <string name="resource_delete_confirm">Удалить эти ресурсы?</string>
      <string name="resource_delta_update_failed">Ошибка обновления, нужно скачать полный ресурс</string>
-     <string name="resource_delta_update_successful">Обновление завершено, сохраняю %1$s.</string>
+     <!-- The count of MNPS does not match! Now: 1 must: 0
+	%s: 1 must: 0
+	%d: 0 must: 0 -->
+     <!-- Original string: Update successful -->
+     <string name="resource_delta_update_successful">Обновление завершено</string>
+     <string name="resource_delta_update_total">%1$d обновлений сохранено %2$s для вас</string>
      <string name="resource_detail">Подробно</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="resource_detail_comment_title">Коментарии</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="resource_detail_jump_to_online_title">Онлайн</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="resource_detail_jump_to_same_author_title">Тот же автор</string>
+     <string name="resource_detail_recommend_desiner_other_themes">Другие темы разработанные %1$s</string>
+     <string name="resource_detail_recommend_desiner_themes">темы: %1$s</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="resource_detail_recommend_other_themes">Пользователям также понравилась</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="resource_detail_update_log_title">Обновления</string>
+     <string name="resource_detail_window_title">%1$s свойства</string>
      <string name="resource_download">Скачать</string>
      <string name="resource_downloaded_title">Скачанные</string>
      <string name="resource_downloading">Скачивание</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="resource_expand_full_text">Раскрыть</string>
      <string name="resource_get_auth_checking">Проверка...</string>
      <string name="resource_get_auth_exceed_max_limit_tips">Тема не может работать на текущем устройстве с Вашего аккаунта, т.к. ограничение составляет до 10 мобильных устройств каждый год. Пожалуйста, попробуйте другие аккаунты Xiaomi.</string>
      <string name="resource_get_auth_exceed_max_limit_title">Превышен предел авторизаций</string>
@@ -801,16 +888,36 @@
      <string name="resource_list_title">Последние</string>
      <string name="resource_local">Локальные %1$s</string>
      <string name="resource_mute">Без звука</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="resource_my">Локально</string>
      <string name="resource_no_result">Нет результатов</string>
      <string name="resource_notification_default">Уведомления</string>
      <string name="resource_online">Онлайн %1$s</string>
+     <string name="resource_pack_confirm">You have already purchased %1$d items, but current price is still more favorable than purchase individually for left items, continue?</string>
+     <string name="resource_pack_discount_info">%1$s Saved!</string>
+     <string name="resource_pack_price_info">%1$s Original</string>
+     <string name="resource_pack_warning">Attention, you have already purchased %1$d items, current price is no more favorable for left items, please purchase them individually.</string>
      <string name="resource_price_free">Беспл.</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="resource_price_unit">MiCredit</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="resource_ranking">Popular</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="resource_ranking_free">Free</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="resource_ranking_purchase">Paid</string>
      <string name="resource_ringtone_default">Мелодии</string>
      <string name="resource_see_more">Подробнее</string>
      <string name="resource_select">Выбрать</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="resource_selected">Featured</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="resource_server_alert_dialog_title">Out of service</string>
      <string name="resource_server_out_of_service">Сервис не доступен. Попробуйте позже.</string>
+     <string name="resource_share_subject">Share theme: %1$s</string>
+     <string name="resource_share_text">Here is a theme I thought you might like: %1$s! Link: %2$s</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="resource_share_title">Share</string>
      <string name="resource_switch_account">Перекл.</string>
      <string name="resource_system_title">Системные</string>
      <string name="resource_tip_select_ringtone">Мелодия не выбрана</string>
@@ -821,6 +928,8 @@
      <string name="restore_nickname">Восстановить</string>
      <string name="returnCall">Обратный вызов</string>
      <string name="ringLabelsGroup">Мелодия</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="ringtone_volume_mute">Your ringtone is currently silenced.</string>
      <string name="save_photo_progress">Сохранение фотографии...</string>
      <string name="savingContact">Контакт сохраняется...</string>
      <string name="savingDisplayGroups">Варианты отображения сохраняются...</string>
@@ -830,9 +939,10 @@
      <string name="scanning">поиск устройств...</string>
      <string name="scanning_sdcard_failed_message">Не удалось просканировать SD-карту. Причина: %s.</string>
      <string name="scanning_sdcard_failed_title">SD-карта не просканирована</string>
-     <string name="sdcard_status_changed_dialog_message">"Требуется выход.
-Пожалуйста, откройте это приложение еще раз, для обновления ресурсов."</string>
-     <string name="sdcard_status_changed_dialog_title">Изменился статус SD-карты</string>
+     <string name="sdcard_not_mounted_dialog_message">"Insert SD card now.
+"</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="sdcard_not_mounted_dialog_title">No SD card detected</string>
      <string name="searchHint">Поиск контактов</string>
      <string name="search_results_searching">Поиск...</string>
      <string name="search_settings_description">Имена контактов</string>
