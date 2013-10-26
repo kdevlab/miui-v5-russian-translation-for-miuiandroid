@@ -13,7 +13,7 @@
      <string name="default_record_name">запись без названия</string>
      <string name="delete">Удалить</string>
      <string name="delete_dialog_message">Вы уверены, что хотите удалить текущую запись?</string>
-     <string name="deleting_message">Удаление...</string>
+     <string name="deleting_message">Удаление…</string>
      <string name="dialog_content_storage_full">Из-за нехватки места для сохранения, запись была остановлена. Открыть файловый менеджер для очистки ненужных файлов?</string>
      <string name="dialog_play">Играть</string>
      <string name="dialog_send">Отправить</string>
@@ -40,10 +40,10 @@
      <string name="message_file_size_error">Запись достигла максимальной длины записи (%s)</string>
      <string name="minute">%d мин.</string>
      <string name="no_file">Нет записей</string>
-     <string name="notification_playback">Воспроизведение...</string>
-     <string name="notification_recording">Запись...</string>
+     <string name="notification_playback">Воспроизведение…</string>
+     <string name="notification_recording">Запись…</string>
      <string name="notification_stopped">Запись остановлена</string>
-     <string name="notification_warning">Мало памяти (осталось менее %d мин.)...</string>
+     <string name="notification_warning">Мало памяти (осталось менее %d мин.)…</string>
      <string name="open_file_explorer">Открыть Файлы</string>
      <string name="overwrite_dialog_message">Запись с таким именем уже существует. Хотите переписать ее?</string>
      <string name="pause">пауза</string>
@@ -61,7 +61,7 @@
      <string name="record_loading">Загрузка записей, пожалуйста, подождите.</string>
      <string name="record_picker_title">Выберите запись</string>
      <string name="record_saving">Сохранение записи, пожалуйста, подождите.</string>
-     <string name="recording">Запись...</string>
+     <string name="recording">Запись…</string>
      <string name="recording_stopped">Запись остановлена</string>
      <string name="rename">Переименовать</string>
      <string name="rename_dialog_title">Переименование файла</string>

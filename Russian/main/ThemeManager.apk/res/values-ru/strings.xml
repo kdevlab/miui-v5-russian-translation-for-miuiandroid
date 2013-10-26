@@ -55,7 +55,7 @@
      <string name="resource_apply">Применить</string>
      <string name="resource_buy">"Купить "</string>
      <string name="resource_can_not_selected">%1$s не может быть выбран!</string>
-     <string name="resource_category">Категория</string>
+     <string name="resource_category">Категории</string>
      <string name="resource_comment_1_star">1 звезда</string>
      <string name="resource_comment_2_star">2 звезды</string>
      <string name="resource_comment_3_star">3 звезды</string>
@@ -63,7 +63,7 @@
      <string name="resource_comment_5_star">5 звезд</string>
      <string name="resource_comment_account_need_activitied">Ваш аккаунт не активирован. Хотите активировать сейчас?</string>
      <string name="resource_comment_all_comments">Все</string>
-     <string name="resource_comment_average_score">Средние</string>
+     <string name="resource_comment_average_score">Средняя</string>
      <string name="resource_comment_bad_comments">Плохие</string>
      <string name="resource_comment_current_version">Текущая версия</string>
      <string name="resource_comment_date">%1$02d-%2$02d</string>
@@ -71,7 +71,7 @@
      <string name="resource_comment_edit_comment_waiting">Проверка Ваших отзывов…</string>
      <string name="resource_comment_edit_text_default">Написать отзыв</string>
      <string name="resource_comment_edit_title">Отзывы к \"%1$s\"</string>
-     <string name="resource_comment_entry_tips">Посмотреть отзывы</string>
+     <string name="resource_comment_entry_tips">Посмотреть все</string>
      <string name="resource_comment_expand_full_text">Показать весь текст▼</string>
      <string name="resource_comment_footer">Пустые комментарии не отображаются</string>
      <string name="resource_comment_good_comments">Хорошие</string>
@@ -100,11 +100,11 @@
      <string name="resource_detail_comment_title">Коментарии</string>
      <string name="resource_detail_jump_to_online_title">Онлайн</string>
      <string name="resource_detail_jump_to_same_author_title">Тот же автор</string>
-     <string name="resource_detail_recommend_desiner_other_themes">Другие темы разработанные %1$s</string>
+     <string name="resource_detail_recommend_desiner_other_themes">Другие темы от %1$s</string>
      <string name="resource_detail_recommend_desiner_themes">темы: %1$s</string>
      <string name="resource_detail_recommend_other_themes">Пользователям также понравилось</string>
      <string name="resource_detail_update_log_title">Обновления</string>
-     <string name="resource_detail_window_title">%1$s свойства</string>
+     <string name="resource_detail_window_title">Информация %1$s</string>
      <string name="resource_download">Скачать</string>
      <string name="resource_downloaded_title">Скачанные</string>
      <string name="resource_downloading">Скачивание</string>
@@ -113,7 +113,7 @@
      <string name="resource_get_auth_exceed_max_limit_tips">Тема не может работать на текущем устройстве с Вашего аккаунта, т.к. ограничение составляет до 10 мобильных устройств каждый год. Пожалуйста, попробуйте другие аккаунты Xiaomi.</string>
      <string name="resource_get_auth_exceed_max_limit_title">Превышен предел авторизаций</string>
      <string name="resource_get_auth_missing">Тема не скачана с официального маркета. Пожалуйста, скачайте аналогичную тему из официального маркета.</string>
-     <string name="resource_get_auth_retrieving">Получение авторизации...</string>
+     <string name="resource_get_auth_retrieving">Получение авторизации…</string>
      <string name="resource_import_successful">Загрузка завершена</string>
      <string name="resource_importing">Импортирование</string>
      <string name="resource_list_title">Последние</string>
@@ -131,7 +131,7 @@
      <string name="resource_price_free">Бесплатно</string>
      <string name="resource_price_unit">" MiCredit"</string>
      <string name="resource_ranking">Топ</string>
-     <string name="resource_ranking_free">Беспл.</string>
+     <string name="resource_ranking_free">Бесплатные</string>
      <string name="resource_ranking_purchase">Платные</string>
      <string name="resource_ringtone_default">Мелодии</string>
      <string name="resource_see_more">Подробнее</string>

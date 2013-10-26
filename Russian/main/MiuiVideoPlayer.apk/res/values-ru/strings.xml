@@ -10,12 +10,12 @@
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="airkan_device_xiaomi_phone">Xiaomi</string>
      <string name="airkan_video_playing">Трансляция</string>
-     <string name="airkan_video_playing_in">Видео проигрывается...</string>
+     <string name="airkan_video_playing_in">Видео проигрывается…</string>
      <string name="app_name">Видео</string>
-     <string name="buffering">Буферизация...</string>
-     <string name="buffering_video_netplay_label_v5">Буферизация...</string>
-     <string name="loading_video_netplay_label">Загрузка, пожалуйста подождите...</string>
-     <string name="loading_video_netplay_label_v5">Загрузка, пожалуйста подождите...</string>
+     <string name="buffering">Буферизация…</string>
+     <string name="buffering_video_netplay_label_v5">Буферизация…</string>
+     <string name="loading_video_netplay_label">Загрузка, пожалуйста подождите…</string>
+     <string name="loading_video_netplay_label_v5">Загрузка, пожалуйста подождите…</string>
      <string name="menu_item_about_label">О программе</string>
      <string name="menu_item_hide_media_info_label">Скрыть информацию</string>
      <string name="menu_item_media_info_label">Показать информацию</string>

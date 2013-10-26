@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Builded with CloudBuildr -->
 <resources>
-     <string name="about_smart_antispam_summary">О идентификации номеров</string>
-     <string name="about_telephone_fraud">Будьте в курсе телефонного мошенничества</string>
+     <string name="about_smart_antispam_summary">О идентификации</string>
+     <string name="about_telephone_fraud">Будьте в курсе</string>
      <string name="agree">Принимаю</string>
      <string name="all_numbers">Все номера</string>
      <string name="app_label">Желтые страницы</string>
@@ -15,7 +15,7 @@
      <string name="callrecordview_item_op_time_short_incoming">"Входящий: "</string>
      <string name="callrecordview_item_op_time_short_outgoing">"Исходящий: "</string>
      <string name="check_network">Посмотреть настройки сети</string>
-     <string name="confirm_delete_all_call_log_title">Подтвердите удаление все журналы вызовов</string>
+     <string name="confirm_delete_all_call_log_title">Удалить все журналы вызовов?</string>
      <string name="confirm_delete_call_log_title">Удалить выбранные журналы вызовов?</string>
      <string name="confirm_to_add_blacklist">Блокировать этот номер?</string>
      <string name="confirm_to_remove_blacklist">Разблокировать этот номер?</string>

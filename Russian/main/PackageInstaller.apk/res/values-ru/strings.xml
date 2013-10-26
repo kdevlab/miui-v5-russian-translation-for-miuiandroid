@@ -38,7 +38,7 @@
      <string name="install_failed_older_sdk">Этот пакет поддерживается только в системе Android более поздних версий</string>
      <string name="install_failed_verify_failed">Пакет не проверен и не может быть установлен</string>
      <string name="install_failed_verify_timeout">Не удалось проверить пакет. Попробуйте установить его позже.</string>
-     <string name="installing">Установка...</string>
+     <string name="installing">Установка…</string>
      <string name="launch">Открыть</string>
      <string name="lift_ban">Снять запрет</string>
      <string name="low_risk_perms">Разрешения низкого риска</string>
@@ -77,7 +77,7 @@
      <string name="uninstall_failed_retained_app_msg">Приложение, измененное оператором, не может быть удалено</string>
      <string name="uninstall_update_text">Будет восстановлена исходная версия приложения</string>
      <string name="uninstall_update_title">Удаление обновления</string>
-     <string name="uninstalling">Удаление...</string>
+     <string name="uninstalling">Удаление…</string>
      <string name="unknown">Неизвестно</string>
      <string name="unknown_apps_dlg_text">Для обеспечения безопасности на вашем телефоне заблокирована установка приложений, полученных не из Google Play</string>
      <string name="unknown_apps_dlg_title">Установка заблокирована</string>
