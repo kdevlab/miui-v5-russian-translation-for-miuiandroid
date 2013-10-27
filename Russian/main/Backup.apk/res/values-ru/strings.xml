@@ -58,8 +58,8 @@
      <string name="cloud_app_backup_date">"Сохранено "</string>
      <string name="cloud_app_backup_pending">В очереди…</string>
      <string name="cloud_app_backup_progress">Резервное копировнаие…</string>
-     <string name="cloud_app_backup_summary">Автоматическое резервное копирование приложений и пользовательских данных, когда телефон заряжается и подключен к Wi-Fi</string>
-     <string name="cloud_app_backup_title">Резервное копирование в облако</string>
+     <string name="cloud_app_backup_summary">Автоматический бэкап приложений и данных, когда телефон заряжается и подключен к Wi-Fi</string>
+     <string name="cloud_app_backup_title">Облачный бэкап</string>
      <string name="cloud_app_current_device">Текущее устройство</string>
      <string name="cloud_app_data_in_other_devices">Не сохранено на этом устройстве</string>
      <string name="cloud_app_delete_data">Удалить копию</string>
@@ -67,9 +67,9 @@
      <string name="cloud_app_dont_restore">Не восстанавливать</string>
      <string name="cloud_app_find_backup_prompt_1">Вы хотите сохранить локальные данные перед восстановлением?</string>
      <string name="cloud_app_find_backup_prompt_2">Если Вы откажитесь сейчас, она будет перезаписана при восстановлении</string>
-     <string name="cloud_app_function_summary">При создании резервных копий Ваших данных в облаке, Вы можете быстро восстановить их на любом устройстве</string>
+     <string name="cloud_app_function_summary">Созданные резервные копии в облаке, Вы сможете быстро восстановить потом на любом устройстве</string>
      <string name="cloud_app_invalid_op">Вы не можете просматривать облако данных во время резервного копирования или восстановления</string>
-     <string name="cloud_app_just_show_in_current_device">Показывать только приложения на этом устройстве</string>
+     <string name="cloud_app_just_show_in_current_device">Приложения устройства</string>
      <string name="cloud_app_mine">Загруженные приложения</string>
      <string name="cloud_app_name">Облако</string>
      <string name="cloud_app_no_data">Нет данных</string>

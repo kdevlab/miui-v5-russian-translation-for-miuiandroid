@@ -54,7 +54,7 @@
      <string name="comment_name_default">Пользователь %1$s</string>
      <string name="comment_publish">Отправить</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="comment_sending">Отправка комментария...</string>
+     <string name="comment_sending">Отправка комментария…</string>
      <string name="comment_upload_account_need_activitied">Ваш аккаунт не активирован. Хотите включить его?</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="comment_upload_account_not_activitied">Ваш аккаунт не активирован. Включите его и повторите еще раз.</string>
@@ -153,17 +153,17 @@
      <string name="level_experience">Уровень и опыт</string>
      <string name="loading">Загрузка HD картинки…</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="loading_app_detail">Загрузка сведений...</string>
+     <string name="loading_app_detail">Загрузка сведений…</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="loading_app_list">Загрузка списка игр...</string>
+     <string name="loading_app_list">Загрузка списка игр…</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="loading_category_list">Загрузка категорий...</string>
+     <string name="loading_category_list">Загрузка категорий…</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="loading_search_result">Загрузка результатов поиска...</string>
+     <string name="loading_search_result">Загрузка результатов поиска…</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="loading_subject_game_list">Загрузка, подождите...</string>
+     <string name="loading_subject_game_list">Загрузка, подождите…</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="loading_subject_list">Загрузка, подождите...</string>
+     <string name="loading_subject_list">Загрузка, подождите…</string>
      <string name="local_game_head">Игр: %d</string>
      <string name="locations_overseas">Другой</string>
      <string name="login_fail">Не удалось войти</string>

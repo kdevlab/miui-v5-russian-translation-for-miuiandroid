@@ -3,7 +3,7 @@
 <resources>
      <string name="activate">Включить</string>
      <string name="activate_fail_notification_title">Пожалуйста, активируйте повторно услугу Xiaomi синхронизации</string>
-     <string name="activating">Активация...</string>
+     <string name="activating">Активация…</string>
      <string name="alwaysUsePrompt">Исполь. по умолчанию</string>
      <string name="android_lockscreen_glogin_instructions">Чтобы разблокировать, войдите в свой аккаунт</string>
      <string name="app_no_notification">ничего</string>
@@ -17,7 +17,7 @@
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="call_record_sample_prefix_miui">Record</string>
      <string name="caller_info_name_delimiter">или</string>
-     <string name="check_phone_error_title">Не удалось открыть Синхронизацию</string>
+     <string name="check_phone_error_title">Не удалось открыть синхронизацию</string>
      <string name="check_phone_io_error">Ошибка сети</string>
      <string name="childrens_day">""</string>
      <string name="chinese_youth_day">""</string>
@@ -265,7 +265,7 @@
      <string name="device_xiaomi">Телефон Xiaomi</string>
      <string name="double_seventh_day">""</string>
      <string name="emergency_call_string">Экстренные</string>
-     <string name="err_resource_leak">К сожалению, \"%1$s\" остановлен для избежания утечки ресурсов.</string>
+     <string name="err_resource_leak">К сожалению, \"%1$s\" остановлен для избежания утечки ресурсов</string>
      <string name="error_forbidden">Ошибки в аккаунте. Синхронизация отключена.</string>
      <string name="error_not_acceptable">Ошибки на сервере. Синхронизация отключена.</string>
      <string name="error_title">Ошибка синхронизации для %s</string>
@@ -274,7 +274,7 @@
      <string name="experimental_validate">Проверить</string>
      <string name="experimental_validate_fail">Проверка не удалась, попробуйте еще раз</string>
      <string name="experimental_validate_password">Пароль</string>
-     <string name="experimental_validate_progress">Проверка. Пожалуйста, подождите...</string>
+     <string name="experimental_validate_progress">Проверка. Пожалуйста, подождите…</string>
      <string name="experimental_validate_thanks">Спасибо!</string>
      <string name="experimental_validate_username">Логин Xiaomi</string>
      <string name="experimental_validate_warning">Каждое Ваше исследование помогает стать MIUI лучше!</string>
@@ -406,15 +406,15 @@ EEEE"</string>
      <string name="perm_use_find_device">Обнаружение устройства</string>
      <string name="permdesc_accessNote">Приложение сможет считывать и изменять заметки, которые хранятся на вашем телефоне. Вредоносные программы могут использовать эту возможность для передачи заметок другим людям или удаления всех заметок.</string>
      <string name="permlab_accessNote">Доступ к заметкам</string>
-     <string name="pin_operation_failed">PIN - операция не удалась.</string>
+     <string name="pin_operation_failed">PIN - операция не удалась</string>
      <string name="pincode_set_to_default_msg">PIN-код установлен в 1234. Пожалуйста, сбросьте PIN-код здесь.</string>
      <string name="private_num">Приватный номер</string>
      <string name="provider_114">号码信息由114号码百事通提供</string>
      <string name="provider_sougou">由搜狗号码通用户标注</string>
-     <string name="puk_operation_failed">PUK - операция не удалась.</string>
+     <string name="puk_operation_failed">PUK - операция не удалась</string>
      <string name="reboot_confirm">Телефон будет перезагружен</string>
      <string name="reboot_confirm_title">Вы уверены, что хотите перезагрузить телефон?</string>
-     <string name="reboot_progress">Перезагрузка...</string>
+     <string name="reboot_progress">Перезагрузка…</string>
      <string name="return_to_me_message">Пожалуйста, верните, если я потерял</string>
      <string name="reverse_all">Очистить выделение</string>
      <string name="safetylegal_activity_unreachable">Ваш телефон не подключен к сети. Для просмотра этой информации в настоящее время, перейдите к %s с любого компьютера.</string>

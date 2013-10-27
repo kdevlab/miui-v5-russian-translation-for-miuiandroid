@@ -29,9 +29,9 @@
      <string name="continue_to_send">Продолжить</string>
      <string name="defalut_nameofnewfile">Новая папка</string>
      <string name="delete">Удалить</string>
-     <string name="delete_history_message">Действительно удалить всю историю?</string>
+     <string name="delete_history_message">Удалить всю историю?</string>
      <string name="device_name">Имя устройства</string>
-     <string name="device_name_tip">Имя устройства можно задать в пункте настроек \"О телефоне\".</string>
+     <string name="device_name_tip">Имя устройства можно задать в пункте настроек \"О телефоне\"</string>
      <string name="doc">Файлы</string>
      <string name="download">Скачать</string>
      <string name="download_complete">%1$s | %2$s скачано с: %3$s</string>
@@ -80,7 +80,7 @@
      <string name="history_send">История отправки</string>
      <string name="init_xiaomi_account">Инициализация аккаунта Xiaomi…</string>
      <string name="input_device_name">Имя устройства</string>
-     <string name="input_device_name_tip">Введите имя устройства, которое будут видеть пользователи.</string>
+     <string name="input_device_name_tip">Введите имя устройства, которое будут видеть пользователи</string>
      <string name="load_file_error">Ошибка загрузки файла!</string>
      <string name="loading_file">Загрузка файла…</string>
      <string name="login_failed">Не удалось войти в аккаунт Xiaomi!</string>
@@ -126,7 +126,7 @@
      <string name="receive_from">Прием от:</string>
      <string name="receive_history">История получения</string>
      <string name="receive_store">Сохранить файл в:</string>
-     <string name="receive_tip">Для быстрого спаривания и получения очереди передачи.</string>
+     <string name="receive_tip">Для быстрого спаривания и получения очереди передачи</string>
      <string name="receive_uncompleted">Прием не завершен</string>
      <string name="received">Принято</string>
      <string name="received_fileinfo">Всего из %1$d файлов %2$s</string>
@@ -150,12 +150,12 @@
      <string name="sdcard_invalid">SD-карта недоступна!</string>
      <string name="sdcard_unavailable">SD-карта недоступна</string>
      <string name="select_all">Выбрать все</string>
-     <string name="select_file_to_share">Выберите файлы</string>
+     <string name="select_file_to_share">Выберите файл</string>
      <string name="send">Отправить</string>
      <string name="send_2d_code">Отправить с 2D-кодом</string>
      <string name="send_cancel_tip">Вы уверены, что хотите остановить передачу?</string>
      <string name="send_cancel_tip2">Передача отменена. Отправлено %1$d из %2$d файлов.</string>
-     <string name="send_file_to_friends_by_net">Отправить через интернет</string>
+     <string name="send_file_to_friends_by_net">Отправка через интернет</string>
      <string name="send_files">Отправка файлов: %1$d</string>
      <string name="send_finish">Файл отправлен!</string>
      <string name="send_finish_tip">Отправлено файлов: %1$d на </string>
@@ -163,9 +163,9 @@
      <string name="send_nfc">Отправить через NFC</string>
      <string name="send_share_link">Отправить ссылку</string>
      <string name="send_sound">Отправить со звуком</string>
-     <string name="send_tip">Пакетная передача фото, музыки, контактов.</string>
+     <string name="send_tip">Пакетная передача фото, музыки, контактов</string>
      <string name="send_to">Отправить:</string>
-     <string name="send_uncompleted">Трансфер не завершен</string>
+     <string name="send_uncompleted">Передача не завершена</string>
      <string name="sent">Отправлено</string>
      <string name="settings_auto_pair_sender_summary">Автоматическое звуковое сопряжение с получателем/отправителем</string>
      <string name="settings_auto_pair_sender_title">Звуковое автосопряжение</string>
@@ -181,19 +181,19 @@
      <string name="share_history">Истария отправки</string>
      <string name="share_item_not_found">Файл не существует</string>
      <string name="share_message">%1$s отправлено</string>
-     <string name="share_msg_model">"Я поделился с тобой файлом
+     <string name="share_msg_model">"Я поделился с Вами файлом:
 [Скачать] %1$s"</string>
      <string name="share_text">MIUIv5 поддерживает передачу файлов без интернет соединения. Кто не является пользователем MIUIv5, может скачать приложение: %1$s</string>
      <string name="shortmessage">Короткое сообщение</string>
      <string name="start">Начать</string>
-     <string name="summary_step_one">Возможность отправить фотографии, музыку, контакты и другие файлы.</string>
+     <string name="summary_step_one">Возможность отправить фотографии, музыку, контакты и другие файлы</string>
      <string name="summary_step_two">Поделиться информацией о приложении AnyShare</string>
      <string name="support_tip">Техническая поддержка: AnyShare</string>
      <string name="title_createfolder">Новая папка</string>
      <string name="title_selectfile_num">Выбрано файлов: %s</string>
-     <string name="title_step_one">1. Файлы можно передавать без использования сетевого подключения.</string>
-     <string name="title_step_three">3. Неограниченный обмен файлов с друзьями.</string>
-     <string name="title_step_two">2. Пользователи других прошивок могут использовать приложение AnyShare.</string>
+     <string name="title_step_one">1. Файлы можно передавать без использования сетевого подключения</string>
+     <string name="title_step_three">3. Неограниченный обмен файлами с друзьями</string>
+     <string name="title_step_two">2. Пользователи других прошивок могут использовать приложение AnyShare</string>
      <string name="trans_complete">Передача завершена!</string>
      <string name="trans_failed">Передача не удалась!</string>
      <string name="trans_paused">Передеча приостановлена</string>
@@ -218,7 +218,7 @@
      <string name="waiting_receive">Ожидание отправителя…</string>
      <string name="waitting">Ожидание…</string>
      <string name="wanna_receive">Получить</string>
-     <string name="welcome_tip1">Быстрая передача файлов с минимальным потреблением трафика сети.</string>
-     <string name="welcome_tip2">Быстро передавать фотографии, музыку, контакты и многое другое!</string>
-     <string name="you_can">Я могу</string>
+     <string name="welcome_tip1">Быстрая передача файлов с минимальным потреблением трафика сети</string>
+     <string name="welcome_tip2">Быстрая передача фотографий, музыки, контактов и многого другого</string>
+     <string name="you_can">OK</string>
 </resources>
