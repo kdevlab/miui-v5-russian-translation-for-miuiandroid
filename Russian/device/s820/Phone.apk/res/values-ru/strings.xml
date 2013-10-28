@@ -152,9 +152,9 @@
      <string name="callFailed_unobtainable_number">Неправильный номер</string>
      <string name="callFailed_userBusy">Линия занята</string>
      <string name="callUnanswered_forwarded">Звонок не принят и переадресован</string>
-     <string name="call_additional_sum">Others</string>
+     <string name="call_additional_sum">Другие</string>
      <string name="call_assistant_miui">Упрощение вызова</string>
-     <string name="call_barring_sum">Voice call barring settings</string>
+     <string name="call_barring_sum">Настройки запрета голосовых вызовов</string>
      <string name="call_forwarding_number_hint_miui">Пожалуйста, введите номер для переадресации</string>
      <string name="call_forwarding_settings">Настройки переадресации вызова</string>
      <string name="call_forwarding_settings_miui">Настройки переадресации вызова</string>
@@ -291,7 +291,7 @@
      <string name="cfnry_title_miui">Переслать, когда без ответа</string>
      <string name="cfu_title_miui">Всегда переадресовать</string>
      <string name="change_num">Обновить</string>
-     <string name="change_password">Change barring password</string>
+     <string name="change_password">Изменить пароль для запретов</string>
      <string name="change_pin">Изменить PIN SIM-карты</string>
      <string name="change_pin2">Изменить PIN2</string>
      <string name="change_pin2_miui">Изменить PIN2</string>
@@ -365,7 +365,7 @@
      <string name="data_enable_summary">Разрешить передачу данных по сети мобильной связи</string>
      <string name="data_enabled">Передача данных</string>
      <string name="deact_all_sub_not_supported">Деактивация обоих подписок не поддерживается.</string>
-     <string name="deactivate_all">Cancel all</string>
+     <string name="deactivate_all">Отменить все</string>
      <string name="default_contacts_countrycode_hint_miui">Например: 7</string>
      <string name="default_contacts_countrycode_miui">Стандартный код города</string>
      <string name="default_contacts_countrycode_sum_miui">Редактирование стандартного кода города: %s</string>
@@ -678,18 +678,18 @@
      <string name="label_sdp">Разблокировка SIM с помощью PIN-кода</string>
      <string name="label_spdp">Разблокировка поставщика услуг с помощью PIN-кода</string>
      <string name="label_subscription">Подписка для</string>
-     <string name="lable_all_incoming">All incoming calls</string>
-     <string name="lable_all_out_except">International outgoing calls except to home PLMN</string>
-     <string name="lable_all_outgoing">All outgoing calls</string>
-     <string name="lable_all_outgoing_international">International outgoing calls</string>
-     <string name="lable_call_barring">Call barring</string>
+     <string name="lable_all_incoming">Все входящие</string>
+     <string name="lable_all_out_except">Международные исходящие, кроме домашней ССОП</string>
+     <string name="lable_all_outgoing">Все исходящие</string>
+     <string name="lable_all_outgoing_international">Международные исходящие</string>
+     <string name="lable_call_barring">Запрет вызовов</string>
      <string name="lable_data">DATA</string>
      <string name="lable_data_async">DATA-ASYNC</string>
      <string name="lable_data_sync">DATA-SYNC</string>
-     <string name="lable_disable">Disabled</string>
-     <string name="lable_enable">Enabled</string>
+     <string name="lable_disable">Выкл.</string>
+     <string name="lable_enable">Вкл.</string>
      <string name="lable_fax">FAX</string>
-     <string name="lable_incoming_calls_except">Incoming calls while roaming</string>
+     <string name="lable_incoming_calls_except">Входящие в роуминге</string>
      <string name="lable_packet">PACKET</string>
      <string name="lable_pad">PAD</string>
      <string name="lable_sim_not_ready">SIM Toolkit is not ready or unsupported</string>
@@ -840,7 +840,7 @@ We recommend that you use the \"Select automatically\", or you can manually sele
      <string name="notification_ongoing_call">Текущий вызов</string>
      <string name="notification_ongoing_call_format">Current call (%s)</string>
      <string name="notification_ongoing_calling_format_miui">Вызываю</string>
-     <string name="notification_voicemail">Voicemail</string>
+     <string name="notification_voicemail">Голосовая почта</string>
      <string name="notification_voicemail_no_vm_number">Номер голосовой почты неизвестен</string>
      <string name="notification_voicemail_text_format">Набор %s</string>
      <string name="notification_voicemail_title">Новое сообщение голосовой почты</string>
@@ -1297,9 +1297,9 @@ Are you sure to allow mobile data service preferred?"</string>
      <string name="sum_select_automatically">Автоматически выбирать предпочтительную сеть</string>
      <string name="sum_select_automatically_option_miui">Автоматический выбор мобильной сети: %s</string>
      <string name="sum_show_caller_id">Номер, отображающийся при исходящих вызовах</string>
-     <string name="sum_video_call">Video call related settings</string>
-     <string name="sum_voice_call">Voice call related settings</string>
-     <string name="sum_voice_mail">Voicemail service and number</string>
+     <string name="sum_video_call">Настройки видеозвонков</string>
+     <string name="sum_voice_call">Настройки голосовых звонков</string>
+     <string name="sum_voice_mail">Служба и номер голосовой почты</string>
      <string name="sum_voicemail_choose_provider">Выберите службу голосовой почты</string>
      <string name="sum_xdivert_disabled">X-Переадресация выключена</string>
      <string name="sum_xdivert_enabled">X-Переадресация включена</string>
@@ -1376,7 +1376,7 @@ Are you sure to allow mobile data service preferred?"</string>
      <string name="voice_command_notification_message">Voice control is enabled for Phone</string>
      <string name="voice_command_notification_ticker" formatted="false">You can say \"%s\" or \"%s\" to answer or ignore an incoming call</string>
      <string name="voice_command_notification_title">Voice control</string>
-     <string name="voice_mail">Voicemail</string>
+     <string name="voice_mail">Голосовая почта</string>
      <string name="voice_mail_dialog_text">You have new voicemail from %s. Do you want to get them now?</string>
      <string name="voice_privacy">Конфиденциальность разговоров</string>
      <string name="voice_privacy_miui">Конфиденциальность разговоров</string>
