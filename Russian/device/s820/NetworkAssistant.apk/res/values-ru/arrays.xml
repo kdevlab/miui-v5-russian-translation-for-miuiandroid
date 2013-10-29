@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Builded with CloudBuildr -->
+<resources>
+     <string-array name="date_of_app">
+        <item>За вчера</item>
+        <item>За сегодня</item>
+        <item>За месяц</item>
+     </string-array>
+     <string-array name="date_of_app_all">
+        <item>За вчера: 2G/3G</item>
+        <item>За сегодня: 2G/3G</item>
+        <item>За месяц: 2G/3G</item>
+        <item>За вчера: Wi-Fi</item>
+        <item>За сегодня: Wi-Fi</item>
+        <item>За месяц: Wi-Fi</item>
+     </string-array>
+     <string-array name="date_of_traffic">
+        <item>Трафик за вчера</item>
+        <item>Трафик за сегодня</item>
+        <item>Трафик за месяц</item>
+     </string-array>
+     <string-array name="network_speed_update_internals">
+        <item>3 секунды</item>
+        <item>4 секунды</item>
+        <item>5 секунд</item>
+        <item>6 секунд</item>
+        <item>7 секунд</item>
+        <item>8 секунд</item>
+        <item>9 секунд</item>
+     </string-array>
+     <string-array name="traffic_uints">
+        <item>" байт"</item>
+        <item>КБ</item>
+        <item>МБ</item>
+        <item>ГБ</item>
+     </string-array>
+</resources>
