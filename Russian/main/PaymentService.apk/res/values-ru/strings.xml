@@ -11,9 +11,12 @@
     <string name="progress_loading">Обработка…</string>
     <string name="button_cancel">Отмена</string>
     <string name="button_retry">Повтор</string>
+	<string name="cancel">Отмена</string>
+    <string name="change_security_lock">Изменить блокировку</string>
     <string name="button_call">Звонок</string>
     <string name="button_pay">Оплатить</string>
     <string name="button_recharge">Пополнить</string>
+	<string name="button_recharge_pay">Пополнить</string>
     <string name="balance_payment">%1$s MiCredits</string>
     <string name="balance_giftcard_payment">%1$s MiCredits（%2$s-MiCredit подарочная карта）</string>
     <string name="balance">Баланс: %1$s MiCredits</string>
@@ -60,6 +63,9 @@
     <string name="recharge_bankcall_title">Банковская карта</string>
     <string name="recharge_message_title">Сообщение</string>
     <string name="recharge_voucher_title">Карта MiCredit</string>
+	<string name="security_setting">Настройки безопасности</string>
+    <string name="summary_lockpattern">Уникальный шаблон блокировки для Micredit</string>
+    <string name="title_change_lockpattern">Смена шаблона</string>
     <string name="recharge_pcpay_title">Компьютер</string>
     <string name="account_detail">"Аккаунт Xiaomi:
 %1$s"</string>
@@ -105,6 +111,7 @@
     <string name="voucher_input_password_prompt">Введите код</string>
     <string name="voucher_edit_hint">Код</string>
     <string name="voucher_edit_limit">знаков</string>
+	<string name="voucher_error_password">Неверный код!</string>
     <string name="voucher_error_password_empty">Пустой код</string>
     <string name="progress_voucher_creating">Пополнение карты MiCredit…</string>
     <string name="msg_picker_hint_1_1">1.</string>
@@ -123,7 +130,8 @@
     <string name="msg_telecom_order_goods">%1s MiCredits</string>
     <string name="msg_telecom_order_denom_label">Сумма долга:</string>
     <string name="msg_telecom_order_denom">%1s￥ （не включая передачу данных）</string>
-    <string name="msg_telecom_sending">Contacting network provider…</string>
+    <string name="msg_telecom_sending">Ожидание провайдера сети…</string>
+	<string name="onemore_click_exit">Нажмите еще раз, чтобы выйти</string>
     <string name="btn_recharge_confirm">Подтвердить покупку</string>
     <string name="btn_wait_confirm">Ожидание</string>
     <string name="btn_wait_confirm_count">Ожидание （%1$s）</string>
@@ -182,6 +190,7 @@
     <string name="progress_success_pay_summary">Оплата завершена! :)</string>
     <string name="progress_error_recharge_title">Ошибка пополнения</string>
     <string name="progress_error_pay_title">Ошибка оплаты</string>
+	<string name="progress_error_recharge_summary">Пополенение не удалось. Попробуйте позже.</string>
     <string name="progress_warning_waiting">Еще не подтвержден. Пожалуйста, повторите попытку позже.</string>
     <string name="progress_warning_contact_server">"Платеж все еще не подтвержден. 
 1. Пожалуйста, свяжитесь со службой поддержки в Шеньчжоу: %1$s 
@@ -192,22 +201,35 @@
     <string name="btn_recharge_other">Другие методы пополнения</string>
     <string name="btn_call">Позвонить</string>
     <string name="recharge_notification">Пополнение: %1$s MiCredits</string>
+	<string name="recharge_novalid_method">Нет действующего пополнения</string>
     <string name="giftcard_push_notification_prime_title">Вы получили подарочный сертификат</string>
     <string name="giftcard_push_notification_sub_title">%1$s: %2$s MiCredit получено</string>
     <string name="recharge_push_notification_prime_title">%1$d добавил %2$s MiCredits на Ваш счет</string>
     <string name="recharge_push_notification_sub_title">Пополнение завершено</string>
     <string name="title_mili_center">MiCredits</string>
+	<string name="title_myaccount">Мой аккаунт: %s</string>
+    <string name="title_nopassword">Не требовать для мелких платежей</string>
+    <string name="title_nopassword_dialog">Суточный лимит</string>
+    <string name="title_password">Пароль</string>
+    <string name="title_password_threshold">Суточный лимит = %1$s юань</string>
     <string name="title_recharge_record">История пополнений</string>
     <string name="title_pay_record">История платежей</string>
     <string name="title_transaction">Операции</string>
+	<string name="title_visible_pattern">Сделать шаблон видимым</string>
     <string name="title_giftcard">Акции</string>
+	<string name="title_lockpattern">Введите шаблон блокировки</string>
     <string name="giftcard_record">Подарочные карты</string>
     <string name="title_discounts">Скидки</string>
+	<string name="title_gesture">Шаблон блокировки</string>
     <string name="btn_mili_center_recharge">Пополнить MiCredit</string>
     <string name="fee">%1$s MiCredit</string>
+	<string name="forget_password">&lt;u&gt;Забыли пароль?&lt;/u&gt;</string>
+    <string name="format_date">MMM. dd, yyyy</string>
+    <string name="format_time">MMM dd, yyyy hh:mmaa</string>
     <string name="recharge_record_empty">Нет записей</string>
     <string name="pay_record_empty">Нет записей</string>
     <string name="progress_downloading">Загрузка…</string>
+	<string name="progress_error_pay_summary">Добавлено %1$s MiCredits. Но платеж не удался! Попробуйте позже.</string>
     <string name="btn_net_connection_retry">Повторить</string>
     <string name="pay_record_typeall">Все</string>
     <string name="mibi_license_title">Пользовательское соглашение</string>
@@ -265,6 +287,29 @@
     <string name="linkpay_unicom_msg_pay">联通短信支付</string>
     <string name="linkpay_wo_money_pay">WO币支付</string>
     <string name="linkpay_zhifubao">支付宝</string>
+	<string name="lockpassword_choose_your_pattern_header">Выберите шаблон</string>
+    <string name="lockpassword_confirm_your_pattern_header">Подтвердите шаблон</string>
+    <string name="lockpassword_input_your_pattern_header">Подтвердите шаблон</string>
+    <string name="lockpattern_confirm_button_text">Дальше</string>
+    <string name="lockpattern_continue_button_text">Дальше</string>
+    <string name="lockpattern_need_to_confirm">Подтвердите шаблон:</string>
+    <string name="lockpattern_need_to_confirm_wrong">Не соответствует! Пожалуйста, введите еще раз:</string>
+    <string name="lockpattern_need_to_unlock_footer"/>
+    <string name="lockpattern_need_to_unlock_wrong">&lt;font color=red&gt;Неверный пароль. Осталось попыток: %d.&lt;/font&gt;</string>
+    <string name="lockpattern_need_to_unlock_wrong_footer"/>
+    <string name="lockpattern_pattern_confirmed_header">Ваш новый шаблон разблокировки:</string>
+    <string name="lockpattern_pattern_entered_header">Шаблон сохранен</string>
+    <string name="lockpattern_recording_incorrect_too_short">Соедините минимум %d точек. Попробуйте еще раз:</string>
+    <string name="lockpattern_recording_inprogress">Отпустите палец, когда закончите</string>
+    <string name="lockpattern_recording_intro_header">Нарисуйте шаблон разблокировки:</string>
+    <string name="lockpattern_retry_text">&lt;u&gt;Сбросить пароль&lt;/u&gt;</string>
+    <string name="lockpattern_settings_help_how_to_record">Как нарисовать шаблон</string>
+    <string name="lockpattern_too_many_failed_confirmation_attempts_footer">Попробуйте еще раз через %d секнуд</string>
+    <string name="lockpattern_too_many_failed_confirmation_attempts_header">&lt;font color=red&gt;Слишком много неудачных попыток!&lt;/font&gt;</string>
+    <string name="lockpattern_tutorial_cancel_label">Отмена</string>
+    <string name="lockpattern_tutorial_continue_label">Далее</string>
+    <string name="lockscreen_forgot_pattern_button_text">&lt;u&gt;Забыли пароль?&lt;/u&gt;</string>
+    <string name="login">Войти</string>
     <string name="linkpay_consumer_records">消费记录</string>
     <string name="linkpay_dear_user">亲爱的用户：</string>
     <string name="linkpay_you_will_pay">您将支付</string>

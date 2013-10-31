@@ -9,6 +9,7 @@
      <string name="account_hint_text">Электронная почта</string>
      <string name="account_name">Аккаунт: %1$s</string>
      <string name="activate_phone_failed_notif_title">Ошибка включения сервисов MiCloud</string>
+	 <string name="activate_phone_failed_notif_title_msim">Ошибка включения MiCloud для SIM-карты %s</string>
      <string name="activate_phone_send_sms_fail">Ошибка отправки SMS для активации. Не возможно включить сервис синхронизации.</string>
      <string name="activate_phone_send_sms_failed_notif">Ошибка отправки SMS для активации</string>
      <string name="activate_phone_server_error">Ошибка сервера. Не возможно включить сервис синхронизации.</string>

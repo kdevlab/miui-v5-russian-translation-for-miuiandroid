@@ -83,11 +83,13 @@
      <string name="auto_record_call_title_miui">Автоматическая запись</string>
      <string name="auto_record_scenario_enteries_always_miui">Автозапись для всех номеров</string>
      <string name="auto_record_scenario_enteries_whitelist_miui">Автозапись определенных номеров</string>
-     <string name="auto_record_scenario_title_miui">Автозапись</string>
+     <string name="auto_record_scenario_title_miui">Автоматическая запись</string>
+	 <string name="auto_record_unknown_miui">Неизвестные номера</string>
      <string name="auto_record_whitelist_miui">Выбрать номера</string>
      <string name="auto_record_whitelist_no_item_miui">Нажмите среднюю кнопку для добавления номеров в автозапись</string>
      <string name="auto_record_whitelist_summary_for_one_miui">1 номер</string>
      <string name="auto_record_whitelist_summary_miui">%d номеров</string>
+	 <string name="auto_record_yellowpage_miui">Желтые страницы</string>
      <string name="auto_redial_pref_summary_miui">Дозваниваться автоматически 10 раз, если соединение не удалось</string>
      <string name="auto_redial_pref_title_miui">Автодозвон</string>
      <string name="auto_retry_mode_summary">Включить режим автодозвона</string>
