@@ -301,20 +301,20 @@
      <string name="lockpattern_need_to_confirm">Подтвердите шаблон:</string>
      <string name="lockpattern_need_to_confirm_wrong">Не соответствует! Пожалуйста, введите еще раз:</string>
      <string name="lockpattern_need_to_unlock_footer" />
-     <string name="lockpattern_need_to_unlock_wrong">&lt;font color=red&gt;Неверный пароль. Осталось попыток: %d.&lt;/font&gt;</string>
+     <string name="lockpattern_need_to_unlock_wrong">&lt;font color=red>Неверный пароль. Осталось попыток: %d.&lt;/font></string>
      <string name="lockpattern_need_to_unlock_wrong_footer" />
      <string name="lockpattern_pattern_confirmed_header">Ваш новый шаблон разблокировки:</string>
      <string name="lockpattern_pattern_entered_header">Шаблон сохранен</string>
      <string name="lockpattern_recording_incorrect_too_short">Соедините минимум %d точек. Попробуйте еще раз:</string>
      <string name="lockpattern_recording_inprogress">Отпустите палец, когда закончите</string>
-     <string name="lockpattern_recording_intro_header">Нарисуйте шаблон разблокировки:</string>
-     <string name="lockpattern_retry_text">&lt;u&gt;Сбросить пароль&lt;/u&gt;</string>
+     <string name="lockpattern_recording_intro_header">Нарисуйте ключ разблокировки:</string>
+     <string name="lockpattern_retry_text"><u>Сбросить пароль</u></string>
      <string name="lockpattern_settings_help_how_to_record">Как нарисовать шаблон</string>
      <string name="lockpattern_too_many_failed_confirmation_attempts_footer">Попробуйте еще раз через %d секнуд</string>
-     <string name="lockpattern_too_many_failed_confirmation_attempts_header">&lt;font color=red&gt;Слишком много неудачных попыток!&lt;/font&gt;</string>
+     <string name="lockpattern_too_many_failed_confirmation_attempts_header">&lt;font color=red>Слишком много неудачных попыток!&lt;/font></string>
      <string name="lockpattern_tutorial_cancel_label">Отмена</string>
      <string name="lockpattern_tutorial_continue_label">Далее</string>
-     <string name="lockscreen_forgot_pattern_button_text">&lt;u&gt;Забыли пароль?&lt;/u&gt;</string>
+     <string name="lockscreen_forgot_pattern_button_text"><u>Забыли пароль?</u></string>
      <string name="login">Войти</string>
      <string name="memu_refresh">Обновить</string>
      <string name="mibi_license_message">Нажмите OK, если согласны с правилами и условиями, описанными в %1$s</string>
@@ -331,7 +331,7 @@
 	%s: 0 must: 0
 	%d: 0 must: 2 -->
      <!-- Original string: Topping up via text maybe more expensive: &lt;font color=red>￥%1$d = %2$d MiCredit&lt;/font> -->
-     <string name="msg_picker_hint_1_2">Пополнение через СМС, может быть дороже: &lt;font color=red>2￥ = 1 MiCredit&lt;/font></string>
+     <string name="msg_picker_hint_1_2">Пополнение через СМС, может быть дороже: &lt;font color=red>%1$d￥ = %2$d MiCredit&lt;/font></string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="msg_picker_hint_2_1">2.</string>
      <string name="msg_picker_hint_2_2">Взимается плата за обслуживание в размере 0.1￥</string>
@@ -341,7 +341,7 @@
 	%s: 0 must: 1
 	%d: 0 must: 0 -->
      <!-- Original string: Maximum monthly top-up: ￥%1$s -->
-     <string name="msg_picker_hint_3_2">Максимальное месячное пополнение: 300￥</string>
+     <string name="msg_picker_hint_3_2">Максимальное месячное пополнение: %1$s￥</string>
      <string name="msg_send_no_net_error">Ошибка отправки сообщения: поставщик услуг недоступен</string>
      <string name="msg_send_no_sim_error">Ошибка отправки сообщения: проверьте SIM-карту</string>
      <string name="msg_send_send_fail_error">Ошибка отправки сообщения</string>
@@ -428,12 +428,12 @@
      <string name="recharge_record_empty">Нет записей</string>
      <string name="recharge_voucher_title">Карта MiCredit</string>
      <string name="security_setting">Настройки безопасности</string>
-     <string name="summary_lockpattern">Уникальный шаблон блокировки для Micredit</string>
-     <string name="title_change_lockpattern">Смена шаблона</string>
+     <string name="summary_lockpattern">Защита Micredit ключем блокировки</string>
+     <string name="title_change_lockpattern">Сменить ключ</string>
      <string name="title_discounts">Скидки</string>
-     <string name="title_gesture">Шаблон блокировки</string>
+     <string name="title_gesture">Графический ключ</string>
      <string name="title_giftcard">Акции</string>
-     <string name="title_lockpattern">Введите шаблон блокировки</string>
+     <string name="title_lockpattern">Включить блокировку</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="title_mili_center">MiCredits</string>
      <string name="title_myaccount">Мой аккаунт: %s</string>
