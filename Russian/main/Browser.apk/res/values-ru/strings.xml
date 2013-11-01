@@ -40,7 +40,7 @@
      <string name="added_to_bookmarks">Добавлено в закладки</string>
      <string name="alert_tips">Этот сайт может содержать вредоносные ресурсы, будьте осторожны!</string>
      <string name="allow">Разрешить</string>
-	 <string name="already_in_top_level">Закладка уже в самом верху</string>
+     <string name="already_in_top_level">Закладка уже в самом верху</string>
      <string name="app_new_version">Загрузка завершена. Последняя версия приложения установлена.</string>
      <string name="app_update_install">Загрузка завершена. Обновление готово к установке.</string>
      <string name="application_name">Браузер</string>
@@ -158,7 +158,7 @@
      <string name="delete_bookmark_warning">Удалить закладку \"%s\"?</string>
      <string name="delete_folder">Удалить папку</string>
      <string name="delete_multi_bookmarks_alert_title">Вы уверены, что хотите удалить эти закладки (%1$s)?</string>
-	 <string name="dialog_geolocation_reject">Отклонить</string>
+     <string name="dialog_geolocation_reject">Отклонить</string>
      <string name="dialog_geolocation_share">Поделиться</string>
      <string name="disable_autofill">Отключить автозаполнение</string>
      <string name="disk_space_available">доступно: %1$s</string>
@@ -607,11 +607,10 @@
      <string name="username">Имя</string>
      <string name="view_certificate">Сертификат</string>
      <string name="warning">Внимание</string>
-	 <string name="webapp_add_to_desktop">Добавить на стол</string>
+     <string name="webapp_add_to_desktop">Добавить на стол</string>
      <string name="webapp_addtodeskpop_append">Добавлено</string>
      <string name="webapp_app_name">MiMarket Web Store</string>
      <string name="webapp_bottom_bar_addtodesk">На стол</string>
-     <string name="webapp_bottom_bar_already_addtodesk">Уже добавлено</string>
      <string name="webapp_bottom_bar_exit">Выход</string>
      <string name="webapp_bottom_bar_hidebar">Скрыть бар</string>
      <string name="webapp_bottom_bar_openbrowser">Открыть в браузере</string>

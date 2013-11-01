@@ -9,13 +9,76 @@
      <string name="account_hint_text">Электронная почта</string>
      <string name="account_name">Аккаунт: %1$s</string>
      <string name="activate_phone_failed_notif_title">Ошибка включения сервисов MiCloud</string>
-	 <string name="activate_phone_failed_notif_title_msim">Ошибка включения MiCloud для SIM-карты %s</string>
+     <string name="activate_phone_failed_notif_title_msim">Ошибка включения MiCloud для SIM-карты %s</string>
      <string name="activate_phone_send_sms_fail">Ошибка отправки SMS для активации. Не возможно включить сервис синхронизации.</string>
      <string name="activate_phone_send_sms_failed_notif">Ошибка отправки SMS для активации</string>
      <string name="activate_phone_server_error">Ошибка сервера. Не возможно включить сервис синхронизации.</string>
      <string name="activate_phone_server_error_notif">Ошибка сервера</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="activate_status_desc_acquire_phone_number">Acquiring phone number from server</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="activate_status_desc_acquire_phone_number_server_error">Server error while acquiring phone number.</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="activate_status_desc_acquire_phone_number_server_error_wait">Server error while acquiring phone number. Waiting for retry...</string>
+     <string name="activate_status_desc_acquire_phone_number_server_io_error">Server I/O error while acquiring phone number due.</string>
+     <string name="activate_status_desc_acquire_phone_number_server_io_error_wait">Server I/O error while acquiring phone number. Waiting for retry...</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="activate_status_desc_acquire_phone_number_server_no_info">Cannot get phone number.</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="activate_status_desc_acquire_phone_number_server_no_info_wait">Cannot get phone number. Waiting for retry...</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="activate_status_desc_acquire_sim_pass_token">Acquiring security info from server</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="activate_status_desc_acquire_sim_pass_token_password_error">Cannot get security info due to wrong token</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="activate_status_desc_acquire_sim_pass_token_server_error">Server error while acquiring security info</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="activate_status_desc_acquire_sim_pass_token_server_error_wait">Server error while acquiring security info. Waiting for retry...</string>
+     <string name="activate_status_desc_acquire_sim_pass_token_server_io_error">Server I/O error while acquiring security info</string>
+     <string name="activate_status_desc_acquire_sim_pass_token_server_io_error_wait">Server I/O error while acquiring security info. Waiting for retry...</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="activate_status_desc_acquire_sim_pass_token_server_no_info">Cannot get security info</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="activate_status_desc_acquire_sim_pass_token_server_no_info_wait">Cannot get security info. Waiting for retry...</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="activate_status_desc_acquire_sim_user_id">Acquiring registration info from server</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="activate_status_desc_acquire_sim_user_id_server_error">Server error while acquiring registration info</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="activate_status_desc_acquire_sim_user_id_server_error_wait">Server error while acquiring registration info. Waiting for retry...</string>
+     <string name="activate_status_desc_acquire_sim_user_id_server_io_error">Server I/O error while acquiring registration info</string>
+     <string name="activate_status_desc_acquire_sim_user_id_server_io_error_wait">Server I/O error while acquiring registration info. Waiting for retry...</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="activate_status_desc_acquire_sim_user_id_server_no_info">Cannot get registration info</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="activate_status_desc_acquire_sim_user_id_server_no_info_wait">Cannot get registration info. Waiting for retry...</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="activate_status_desc_failed_getting_device_info">Failed to get device info</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="activate_status_desc_failed_getting_gateway">Failed to get SMS Gateway</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="activate_status_desc_failed_getting_sim_info">Failed to get SIM card info</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="activate_status_desc_getting_device_info">Getting device info</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="activate_status_desc_getting_gateway">Getting SMS Gateway</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="activate_status_desc_getting_sim_info">Getting SIM card info</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="activate_status_desc_prepare_sending_sms">Prepare sending activation SMS to Gateway</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="activate_status_desc_sending_sms">Sending activate SMS to Gateway</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="activate_status_desc_sim_absent">SIM card is unplugged</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="activate_status_desc_sms_sent">Activation SMS was sent successfully</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="activate_status_title_activating">Activating your SIM card</string>
+     <string name="activate_status_title_activating_msim">Activating your SIM card %s</string>
      <string name="activating">Активация...</string>
      <string name="add_weibo_account">Добавить аккаунт</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="alert_notif_title_dspt">Proposes to restore synchronization to ensure data security</string>
      <string name="alert_title_remove_account">Удалить аккаунт</string>
      <string name="app_name">Менеджер аккаунтов Xiaomi</string>
      <string name="available_functionality">Доступные функции</string>
@@ -25,9 +88,13 @@
      <string name="binded">Связан</string>
      <string name="btn_activate">Активировать</string>
      <string name="button_cancel">Отмена</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="captcha">Captcha code</string>
      <string name="check_phone_error_title">Ошибка синхронизации</string>
      <string name="check_phone_io_error">Ошибка сети</string>
      <string name="checking_account">Проверка аккаунта...</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="checking_input">Checking input...</string>
      <string name="cloud_messaging">Облачные сообщения</string>
      <string name="cmcc_data_sync_notice">Используйте свой аккаунт Xiaomi, чтобы синхронизировать сообщения, контакты и другие данные. Между тем, насладитесь облачных сервисов.</string>
      <string name="cmcc_micloud_dspt">Облачные сервисы включают мобильную синхронизацию, обнаружение устройств и другие функции. Вы также можете управлять своими данными онлайн в любое время!</string>
@@ -37,9 +104,14 @@
      <string name="data_keep_in_phone">Оставить в телефоне</string>
      <string name="data_sync_notice">Использовать аккаунт Xiaomi для синхронизации контактов, сообщений и других данных</string>
      <string name="data_wipe_from_phone">Удалить из телефона</string>
+     <string name="dirty_contacts_count">%d contact(s)</string>
+     <string name="dirty_mms_count">%d message(s)</string>
+     <string name="dirty_note_count">%d note(s)</string>
      <string name="disable_find_device_error">%1$s, ошибка выключения поиска</string>
      <string name="disable_micloud"><u>Не включать MiCloud</u></string>
      <string name="email_already_be_used">Этот адрес почты уже используется</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="enableAll">Enable All</string>
      <string name="enable_find_device_error">%1$s, ошибка включения поиска</string>
      <string name="enable_micloud">Включить облачные сервисы</string>
      <string name="error_dup_phone">Телефон уже зарегистрирован</string>
@@ -49,6 +121,8 @@
      <string name="error_server">Ошибка сервера</string>
      <string name="error_sim_not_ready">SIM-карта не готова</string>
      <string name="error_unknown">Неизвестная ошибка</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="error_user_name">Invalid user name.</string>
      <string name="failed_to_send_activate_email">Невозможно отправить активацию по почте</string>
      <string name="find_device">Поиск устройства</string>
      <string name="find_device_check_phone_error_title">Ошибка включения поиска устройств</string>
@@ -67,7 +141,13 @@
      <string name="header_data_and_synchronization">Данные и синхронизация</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="i_know">OK</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="input_captcha_hint">Enter captcha</string>
      <string name="input_password_hint">Введите пароль</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="input_vcode_hint">Enter verfication code</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="input_vcode_prompt">Enter verification code</string>
      <string name="int_phone_user_notice">При авторизации в Xiaomi аккаунте с помощью мобильного номера, указывайте код страны. Например: +7</string>
      <string name="internet_comm">Сервис сообщений</string>
      <string name="internet_message">Облачные сообщения</string>
@@ -75,6 +155,10 @@
      <string name="login_failed">Неверное имя пользователя или пароль</string>
      <string name="login_instead_reg">Войти с помощью этого телефона</string>
      <string name="login_notice">Авторизация, пожалуйста, подождите...</string>
+     <string name="master_alert_notif_dspt" formatted="false">"During this period added %s name phone contacts, %s SMS, %s photos, %s of notes and other data. 
+
+ If your phone is lost or erased, these data will be permanently lost. Recommended that you restore synchronization to ensure data security"</string>
+     <string name="master_alert_notif_title">The data is not synchronized outside %s days</string>
      <string name="memu_refresh">Обновить</string>
      <string name="micloud_account">Аккаунт</string>
      <string name="micloud_account_label">Аккаунт: %1$s</string>
@@ -101,8 +185,12 @@
      <string name="micloud_dspt">Облачные сервисы включают облачные сообщения, синхронизацию, поиск устройства и другое. Вы также можете управлять своими данными онлайн в любое время!</string>
      <string name="micloud_email">Почта</string>
      <string name="micloud_error_email">Неверный e-mail</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="micloud_error_empty_captcha_code">Enter captcha code.</string>
      <string name="micloud_error_empty_pwd">Нет пароля</string>
      <string name="micloud_error_empty_username">Нет имени</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="micloud_error_empty_vcode">Enter verification code.</string>
      <string name="micloud_error_illegal_pwd">Неверный пароль</string>
      <string name="micloud_input_password_prompt">Введите пароль</string>
      <string name="micloud_intro_01_part_01">Экономия на затратах SMS</string>
@@ -128,11 +216,15 @@
      <string name="mili_center">MiCredit</string>
      <string name="my_xiaomi_account">Мой аккаунт Xiaomi</string>
      <string name="next">Далее</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="noRemind">Not Remind</string>
      <string name="nobind">Не связан</string>
      <string name="other_settings">Дополнительные параметры</string>
      <string name="password">Пароль</string>
      <string name="prev">Назад</string>
      <string name="process_result">Результат обработки:</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="quick_login_step2_title">Login Protection</string>
      <string name="quick_login_title">Требуется войти в аккаунт. Пожалуйста, введите Ваш пароль.</string>
      <string name="reg_by_email_failure">Ошибка регистрации: %1$s</string>
      <string name="reg_failed">Ошибка регистрации</string>
@@ -146,6 +238,8 @@
      <string name="remove_confirm">Удалить</string>
      <string name="remove_unactivated_account_notice">Аккаунт Xiaomi не активирован. Удалить его?</string>
      <string name="removing_account">Удаление аккаунта...</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="restoreSync">Restore</string>
      <string name="send_int_sms_for_sync_notice">Для активации синхронизации сообщений будет отправлено SMS. Продолжить?</string>
      <string name="send_sms_for_sync_notice">Для активации нужно отправить SMS. Продолжить?</string>
      <string name="send_sms_for_sync_title">Служба синхронизации не активирована</string>
@@ -153,15 +247,23 @@
      <string name="show_password">Показ пароля</string>
      <string name="sim_changed_notification_content">SIM-карта не активирована. Пожалуйста, активируйте.</string>
      <string name="skip_login">Пропустить</string>
+     <string name="skip_login_u"><u>Skip login</u></string>
      <string name="skip_setup_account_msg">С помощью аккаунта Xiaomi Вы сможете синхронизировать контакты, сообщения и другие личные данные</string>
      <string name="skip_setup_account_title">Настройка аккаунта</string>
      <string name="start_micloud">Начать</string>
+     <string name="sub_alert_notif_dspt" formatted="false">"You have %s name local phone contacts, %s SMS, %s photos, %s of notes and other data is not synchronized. 
+
+ If your phone is lost or erased, these data will be permanently lost. Recommended that you start the synchronization to ensure data security"</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="sub_alert_notif_title">Key synchronization service has not been enabled</string>
      <string name="sync_dspt">Использовать аккаунт Xiaomi</string>
      <string name="sync_off">Выкл.</string>
      <string name="sync_on">Вкл.</string>
      <string name="sync_sub_dspt">Для активации сервиса будет отправлено SMS</string>
      <string name="sync_sub_int_dspt">Для активации сервиса будет отправлено международное SMS</string>
      <string name="title_reg">Регистрация в сети Xiaomi</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="trust_device">I trust this device</string>
      <string name="unactivated_user">Не активирован</string>
      <string name="unbind">Отвязать</string>
      <string name="update_contacts">Обновление адресной книги</string>
@@ -175,4 +277,17 @@
      <string name="user_agreement_p4">Политикой безопасности</string>
      <string name="user_agreement_p5">"Регистрируясь, Вы соглашаетесь с
  "</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="vcode">Verification code</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="vcode_notification_title">Your login verification is incomplete</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="vcode_prompt_long">Please enter verification code generated by Xiaomi security token</string>
+     <string name="wipe_data_dialog_msg">%s that have not been synced (this data will be lost if you continue).</string>
+     <string name="wipe_data_dialog_msg_separator">, </string>
+     <string name="wipe_data_dialog_title">"Some items haven't been synced."</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="wrong_captcha">Wrong captcha code</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="wrong_vcode">Wrong vcode</string>
 </resources>

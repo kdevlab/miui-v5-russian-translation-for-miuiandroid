@@ -6,7 +6,7 @@
      <string name="agree">Принимаю</string>
      <string name="all_numbers">Все номера</string>
      <string name="app_label">Желтые страницы</string>
-	 <string name="balance_inquiry_default_sp_name">Оператор</string>
+     <string name="balance_inquiry_default_sp_name">Оператор</string>
      <string name="balance_inquiry_send_sms_hint">Будет отправлено бесплатные сообщение для запроса баланса</string>
      <string name="balance_inquiry_title">Состояние баланса</string>
      <string name="callrecordview_item_newcontact">Новый контакт</string>
@@ -27,16 +27,15 @@
      <string name="custom_mark_category">Пользовательский</string>
      <string name="data_error">К сожалению, текущая услуга не доступна, повторите попытку позже</string>
      <string name="delete">Удалить</string>
-	 <string name="express_inqiury_select_logistics">Выберите курьера</string>
+     <string name="express_inqiury_select_logistics">Выберите курьера</string>
      <string name="express_inquiry">Отслеживание</string>
      <string name="express_inquiry_button_text">Отследить</string>
      <string name="express_inquiry_data_owner">Отслеживание информации: %s</string>
-     <string name="express_inquiry_indication">Отслеживание номера</string>
-	 <string name="express_inquiry_logistics_indication">Имя курьера</string>
+     <string name="express_inquiry_logistics_indication">Имя курьера</string>
      <string name="express_inquiry_no_result">Нет результатов</string>
-	 <string name="express_inquiry_serial_number_indication">Номер отслеживания</string>
+     <string name="express_inquiry_serial_number_indication">Номер отслеживания</string>
      <string name="express_inquiry_serial_number_prefix">"Номер: "</string>
-	 <string name="expresss_inquiry_all_logistics">Все</string>
+     <string name="expresss_inquiry_all_logistics">Все</string>
      <string name="expresss_inquiry_frequently_used_logistics">Частые</string>
      <string name="login_before_recharging">Перед пополнением баланса войдите в аккаунт</string>
      <string name="login_ok">Войти</string>
@@ -52,9 +51,8 @@
      <string name="menu_refresh">Обновить</string>
      <string name="menu_remove_black_list">Удалить из черного списка</string>
      <string name="mishop_web_payment_title">Оформить заказ MiStore</string>
-     <string name="module_sms_sent">Текстовое сообщение отправлено</string>
      <string name="network_unavaliable">Сеть не доступна. Пожалуйста, проверьте настройки сети.</string>
-	 <string name="packages_no_package">Нет подходящего пакета трафика</string>
+     <string name="packages_no_package">Нет подходящего пакета трафика</string>
      <string name="packages_pay">Купить</string>
      <string name="packages_pay_confirm">Подтверждаю</string>
      <string name="packages_pay_hint">Отправить бесплатное сообщение</string>
@@ -103,13 +101,10 @@
 Органы общественной безопасности, почтового сектора, электронной коммерции компании и курьерские компании не запрашивают информацию о банковыских картах и паролях."</string>
      <string name="remind_user_suspect_number_title">Остерегайтесь мошенников</string>
      <string name="scan">Сканировать</string>
-	 <string name="select_package_before_buy">Выберите пакет для покупки</string>
+     <string name="select_package_before_buy">Выберите пакет для покупки</string>
      <string name="selected_category_format">%1$s (%2$d людей отметили, нажмите для согласия)</string>
      <string name="service_unavailiable">Текущая сеть имеет плохое подключение. Повторите попытку позже.</string>
      <string name="smart_antispam">Идентификация номеров</string>
-     <string name="sms_disabled_in_privacy_mode">Не удается отправить сообщение в гостевом режиме</string>
-     <string name="sms_send_failed">Не удалось отправить текстовое сообщение</string>
-     <string name="sms_sending">Отправка…</string>
      <string name="title_about_yellow_page">О программе</string>
      <string name="toast_finish_delete_call_log">Журнал вызовов был удален</string>
      <string name="toast_text_copied">Текст скопирован</string>
@@ -118,7 +113,6 @@
      <string name="turn_on_smart_antispam_summary_off">Запрос только локальных запрограммированных номеров</string>
      <string name="turn_on_smart_antispam_summary_on">Идентифицировать неизвестные номера и загружать из сети</string>
      <string name="turn_on_smart_antispam_title">Идентификация номеров</string>
-     <string name="unable_send_sms">Невозможно отправить текстовое сообщение</string>
      <string name="user_notice_identify_summary_format">Идентификация неизвестных номеров представляет собой интернет-сервис. Пожалуйста, прочитайте %1$s и %2$s перед использованием.</string>
      <string name="user_notice_yp_detail_summary_format">Частичная информация этой желтой страницы должна быть обновлена ​​в интернете. Пожалуйста, прочитайте %1$s и %2$s. Нажимая \"Принимаю\", Вы соглашаетесь на вышеуказаное содержание и должны соблюдать соглашения, нажмите \"Отмена\" для просмотра кешированной информации.</string>
      <string name="voicemail">Голосовая почта</string>
