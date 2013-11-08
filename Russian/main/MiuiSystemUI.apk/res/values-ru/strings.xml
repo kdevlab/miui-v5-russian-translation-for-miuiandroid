@@ -282,4 +282,7 @@ d MMMM yyyy"</string>
      <string name="user_guide_for_notification">При получении нового уведомления, можно раскрыть панель состояния для получения дополнительных сведений</string>
      <string name="user_guide_for_toggle">Список переключателей можно прокручивать по горизонтали</string>
      <string name="user_guide_for_toggle_list">Нажмите, чтобы настроить список переключателей</string>
+     <string name="audio_effect_settings">Тип наушников</string>
+     <string name="audio_effect_info">Улучшение звука</string>
+     <string name="audio_effect_custom">Настройки</string>
 </resources>

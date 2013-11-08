@@ -449,4 +449,5 @@ SMS (%1$d), MMS (%2$d)"</string>
      <string name="view_message_details">Подробности</string>
      <string name="wap_push_title">"[Push-сообщение] "</string>
      <string name="yes">ОК</string>
+     <string name="invalid_private_contact">Неверный контакт</string>
 </resources>
