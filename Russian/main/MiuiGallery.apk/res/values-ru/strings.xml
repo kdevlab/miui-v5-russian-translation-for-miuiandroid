@@ -299,6 +299,7 @@
      <string name="open_public_title">Публичный альбом</string>
      <string name="open_single_image_failure">Ошибка загрузки изображения!</string>
      <string name="open_sync_title">Пожалуйста, включите синхронизацию</string>
+	 <string name="operation_add_picture">Добавить изображения</string>
      <string name="operation_delete_confirm_message_folder">"Папки и файлы в них будут удалены одновременно.
 "</string>
      <string name="operation_failed">Операция не удалась!</string>
@@ -323,9 +324,15 @@
      <string name="photoeditor_name">Фотостудия</string>
      <string name="photos">фото</string>
      <string name="pick_too_many_recipients">Слишком много получателей</string>
+	 <string name="pick_too_much_tips">Слишком много элементов (макс. %d)</string>
+     <string name="picker_no_album_selected">Альбом не выбран</string>
+     <string name="picker_no_items_selected">Ничего не выбрано</string>
+     <string name="picker_select_album_title_empty">Выберите альбом</string>
+     <string name="picker_tab_camera">Камера</string>
      <string name="posterize">Постеризация</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="ppmm_gallery">PPMM</string>
+	 <string name="preparing_data_to_delete">Подготовка к удалению данных…</string>
      <string name="projection">Проекция</string>
      <string name="public_url_descript">Любой человек может получить доступ к альбому с помощью этой ссылки</string>
      <string name="publish_failed">Ошибка публикации</string>
@@ -467,7 +474,10 @@
      <string name="unpublishing">Отмена публикации, подождите…</string>
      <string name="untagged">Без тегов</string>
      <string name="user_alias_self">Я</string>
+	 <string name="video_download_in_process">Видео загружается. Пожалуйста, подождите.</string>
+     <string name="video_download_start">Началась загрузка</string>
      <string name="video_err">Не удалось воспроизвести видео</string>
+	 <string name="video_not_exist">Видео не существует!</string>
      <string name="view_sharers">Посмотреть поделившихся</string>
      <string name="vignette">Виньетка</string>
      <string name="wallpaper">Рабочий стол</string>
