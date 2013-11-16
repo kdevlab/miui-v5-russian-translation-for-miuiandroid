@@ -68,7 +68,7 @@
      <string name="install_whole_rom">Рекомендуется скачать полную прошивку</string>
      <string name="internal_build">внутренняя сборка</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="later">Reboot later</string>
+     <string name="later">Позже</string>
      <string name="loading">Загрузка MIUI</string>
      <string name="md5_check_cancelled">Проверка MD5 отменена</string>
      <string name="mione_update_fail_description">Пожалуйста, обновите снова</string>
@@ -98,7 +98,7 @@
      <string name="no_updates_warning2">Нет новых версий</string>
      <string name="not_recommend">Не рекомендую</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="now">Reboot now</string>
+     <string name="now">Сейчас</string>
      <string name="paused_queued_for_network">Ожидание подключения</string>
      <string name="paused_queued_for_wifi">Ожидание подключения Wi-Fi</string>
      <string name="previous">Назад</string>

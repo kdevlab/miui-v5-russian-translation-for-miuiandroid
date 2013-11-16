@@ -33,8 +33,8 @@
      <string name="express_inquiry_data_owner">Отслеживание информации: %s</string>
      <string name="express_inquiry_delivered">Доставлено</string>
      <string name="express_inquiry_history">История</string>
-     <string name="express_inquiry_internal_failure">"Error occurred.
-Please check tracking number"</string>
+     <string name="express_inquiry_internal_failure">"Произошла ошибка.
+Проверьте номер отслеживания."</string>
      <string name="express_inquiry_logistics_indication">Имя курьера</string>
      <string name="express_inquiry_no_history">Пусто</string>
      <string name="express_inquiry_no_result">Нет результатов</string>

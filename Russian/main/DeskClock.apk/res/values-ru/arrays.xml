@@ -19,10 +19,10 @@
         <item>Выбрать дни</item>
      </string-array>
      <string-array name="alarm_repeat_type_no_workdays">
-        <item>Once</item>
-        <item>Daily</item>
-        <item>Mon to Fri</item>
-        <item>Custom</item>
+        <item>Один раз</item>
+        <item>Ежедневно</item>
+        <item>Понедельник-пятница</item>
+        <item>Выбрать дни</item>
      </string-array>
      <string-array name="alarm_set">
         <item>Будильник зазвонит менее чем через минуту</item>
