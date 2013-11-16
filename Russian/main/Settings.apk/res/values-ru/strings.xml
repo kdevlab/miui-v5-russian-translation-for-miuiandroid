@@ -628,7 +628,7 @@
      <string name="data_title">Данные вызова</string>
      <string name="data_usage_app_restrict_background">Ограничить фон. режим</string>
      <string name="data_usage_app_restrict_background_summary">Отключить фоновый режим для мобильных сетей. Использовать WiFi.</string>
-     <string name="data_usage_app_restrict_background_summary_disabled">Сначала установите лимит для мобильного трафика.</string>
+     <string name="data_usage_app_restrict_background_summary_disabled">Сначала установите лимит для мобильного трафика</string>
      <string name="data_usage_app_restrict_dialog">"Если отсутствует доступ к Wi-Fi, функция может приостановить приложения, использующие фоновый режим обмена данными.
 
 Более подходящие параметры можно найти в настройках этих приложений."</string>
@@ -643,7 +643,7 @@
 
 Для выбора данных для синхронизации перейдите в Настройки > Аккаунты."</string>
      <string name="data_usage_auto_sync_on_dialog_title">Включить автосинхронизацию данных?</string>
-     <string name="data_usage_change_cycle">Изменить…</string>
+     <string name="data_usage_change_cycle">Изменение цикла…</string>
      <string name="data_usage_cycle">Период статистики</string>
      <string name="data_usage_cycle_editor_positive">Сохранить</string>
      <string name="data_usage_cycle_editor_subtitle">День месяца:</string>
@@ -659,9 +659,7 @@
      <string name="data_usage_enable_mobile">Мобильный трафик</string>
      <string name="data_usage_label_background">Фоновый режим</string>
      <string name="data_usage_label_foreground">Активный режим</string>
-     <string name="data_usage_limit_dialog_mobile">"Ваше мобильное подключение для передачи данных будет отключено, когда указанный предел будет достигнут.
-
-Использование данных измеряется с помощью телефона, а Ваш оператор может объяснить использование по разному, рассмотрите возможность использования консервативного предела."</string>
+     <string name="data_usage_limit_dialog_mobile">"Ваше мобильное подключение для передачи данных будет отключено, когда указанный предел будет достигнут."</string>
      <string name="data_usage_limit_dialog_title">Объем трафика ограничен</string>
      <string name="data_usage_limit_editor_title">Лимитирование трафика</string>
      <string name="data_usage_list_mobile">Мобильные сети</string>
@@ -681,11 +679,8 @@
      <string name="data_usage_pick_cycle_day">День месяца, когда сбрасывается цикл использования данных:</string>
      <string name="data_usage_received_sent">Получено: %1$s; отправлено: %2$s</string>
      <string name="data_usage_restrict_background">Если ограничить передачу данных в фоновом режиме, некоторые приложения и службы не будут работать без подключения к сети Wi-Fi</string>
-     <string name="data_usage_restrict_background_multiuser">"Если ограничить передачу данных в фоновом режиме, некоторые приложения и службы не будут работать без подключения к сети Wi-Fi.
-
-Настройки будут изменены для всех пользователей устройства."</string>
      <string name="data_usage_restrict_background_title">Ограничение фонового режима</string>
-     <string name="data_usage_restrict_denied_dialog">Ограничение фонового режима возможно только при лимитировании мобильного трафика.</string>
+     <string name="data_usage_restrict_denied_dialog">Ограничение фонового режима возможно только при лимитировании мобильного трафика</string>
      <string name="data_usage_summary_title">Передача данных</string>
      <string name="data_usage_sweep_limit">"<font size="21">^1</font> <font size="9">^2</font>
 <font size="12">лимит</font>"</string>
@@ -696,8 +691,7 @@
      <string name="data_usage_total_during_range">Трафик за период %2$s: %1$s</string>
      <string name="data_usage_total_during_range_mobile">%2$s: около %1$s использовано. Данные оператора сети могут отличаться.</string>
      <string name="data_usage_uninstalled_apps">Удаленные приложения</string>
-     <string name="data_usage_uninstalled_apps_users">Удаленные приложения и пользователи</string>
-     <string name="data_usage_warning_editor_title">Настройка предупреждения</string>
+     <string name="data_usage_warning_editor_title">Настроить предупреждение</string>
      <string name="date_and_time">Настройки даты и времени</string>
      <string name="date_and_time_settings_summary">Установка даты, времени, часового пояса и формата</string>
      <string name="date_and_time_settings_title">Дата и время</string>
@@ -724,10 +718,16 @@
      <string name="debug_layout_summary">Показывать границы, поля и т.д.</string>
      <string name="debug_log">Журнал отладки</string>
      <string name="debug_monitoring_category">Мониторинг</string>
+	 <string name="deep_clean_tips_cache">"iconНекоторые приложения используют файлы кэша для загрузки дополнительных данных (например, тексты песен, музыки, изображений и т.д.). Будьте осторожны при очистке этих файлов."</string>
+     <string name="deep_clean_tips_large_file">iconОчистка указывает лишь на большие файлы (больше 10 МБ), которые хранятся устройстве. Вы можете решить, нужны они Вам или нет.</string>
+     <string name="deep_clean_tips_residual">"iconОстаточные файлы представляют собой файлы (например видео, обои, музыка и т.д.), которые были загружены на SD-карту устройства приложениями, которые уже удалены. Будьте осторожны при очистки, так как некоторые из этих файлов возможно нужны Вам."</string>
+     <string name="deep_clean_title_cache">Кэш</string>
+     <string name="deep_clean_title_large_file">Большие файлы</string>
+     <string name="deep_clean_title_residual">Остаточные файлы</string>
+     <string name="deep_cleaning">Дополнительно</string>
      <string name="default_input_method">Выбор метода ввода по умолчанию</string>
      <string name="default_usb_mode">Режим USB</string>
      <string name="delete">Удалить</string>
-     <string name="deny">Запретить</string>
      <string name="details_subtitle">Расход батареи</string>
      <string name="details_title">Расход батареи</string>
      <string name="dev_settings_warning_message">Эти настройки только для разработчиков. Они могут вызвать нестабильность работы устройства и приложений.</string>
@@ -750,10 +750,8 @@
      <string name="device_info_label">Сведения об устройстве</string>
      <string name="device_info_not_available">Недоступно</string>
      <string name="device_info_settings">Состояние телефона</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="device_internal_memory">ROM</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="device_miui_version">MIUI</string>
+     <string name="device_internal_memory">Память</string>
+     <string name="device_miui_version">Версия MIUI</string>
      <string name="device_name">Имя устройства</string>
      <string name="device_name_input_error">Не удалось сохранить имя устройства, пожалуйста, введите еще ​​раз</string>
      <string name="device_name_input_hint">Введите имя устройства</string>
@@ -769,6 +767,9 @@
      <string name="dirac_mode_in_ear">"Наушники Xiaomi"</string>
      <string name="dirac_mode_off">Отключено</string>
      <string name="dirac_mode_piston_100">Наушники Xiaomi (\"затычки\")</string>
+	 <string name="disable_adb_debug_summary">Отключить USB отладку</string>
+     <string name="disable_anti_spam_summary">Фильтр сообщений отключен</string>
+     <string name="disable_app_permission_summary">Мониторинг разрешений отключен</string>
      <string name="disable_overlays">Отключить HW оверлеи</string>
      <string name="disable_overlays_summary">Всегда использовать GPU для отрисовки экрана</string>
      <string name="disable_power_key_long_press_under_keyguard">Отключить клавишу питания</string>
@@ -782,8 +783,8 @@
      <string name="display_settings_title">Экран</string>
      <string name="dlg_cancel">Отмена</string>
      <string name="dlg_confirm_unmount_text">Если отключить USB накопитель, некоторые приложения перестанут работать и могут оставаться недоступными до его подключения.</string>
-     <string name="dlg_confirm_unmount_title">Отключить SD-карту?</string>
-     <string name="dlg_error_unmount_text">Не удалось отключить SD-карту. Повторите попытку позже.</string>
+     <string name="dlg_confirm_unmount_title">Отключить USB накопитель?</string>
+     <string name="dlg_error_unmount_text">Не удалось отключить USB накопитель. Повторите попытку позже.</string>
      <string name="dlg_ok">ОК</string>
      <string name="dndm_auto_button_title">Время</string>
      <string name="dndm_auto_setting_group">Включение по времени</string>
@@ -832,8 +833,8 @@
      <string name="does_not_exist">Приложение не установлено</string>
      <string name="dolby_dialogue_enhancer">Усилитель диалога</string>
      <string name="dolby_effects">Эффекты Dolby</string>
-     <string name="dolby_eq_enter_alert_msg">Вы можете использовать только эквалайзер в даном режиме. Включить?</string>
-     <string name="dolby_eq_enter_alert_title">Включен Dolby music</string>
+     <string name="dolby_eq_enter_alert_msg">Вы можете использовать только эквалайзер в данном режиме. Включить?</string>
+     <string name="dolby_eq_enter_alert_title">Dolby Music</string>
      <string name="dolby_ieq_flat">Выкл</string>
      <string name="dolby_ieq_focused">Фокусированный</string>
      <string name="dolby_ieq_open">Открытый</string>
@@ -841,12 +842,13 @@
      <string name="dolby_mode_movie">Фильм</string>
      <string name="dolby_mode_music">Музыка</string>
      <string name="dolby_mode_off">Выключить</string>
-     <string name="dolby_preset_select">Пожалуйста, выберите Интеллектуальный режим эквалайзера</string>
+     <string name="dolby_preset_select">Выберите предуставноку</string>
      <string name="dolby_surround_virtualizer">Объемная визуализация</string>
      <string name="dolby_volume_leveler">Громкость звука</string>
+	 <string name="downloaded_rom_title">Пакеты обновления</string>
      <string name="drive_mode">Режим вождения</string>
      <string name="drive_mode_auto_reply">Автоответ</string>
-     <string name="drive_mode_auto_sms_reply_content">Извините, я сейчас за рулем. Я свяжусь с вами позже.</string>
+     <string name="drive_mode_auto_sms_reply_content">Извините, я сейчас за рулем. Я свяжусь с Вами позже.</string>
      <string name="drive_mode_auto_sms_reply_content_title">Содержание сообщения</string>
      <string name="drive_mode_calling_auto_sms_reply">Автоответ через SMS</string>
      <string name="drive_mode_invert_stop_report">Переверните, чтобы остановить отчет</string>
@@ -858,22 +860,31 @@
      <string name="drive_mode_title">Настроить голосовые отчеты и автоответ</string>
      <string name="drive_mode_voice_report">Голосовой отчет</string>
      <string name="dtmf_tone_enable_title">Звук номеронабирателя</string>
+	 <string name="edit_blacklist">Изменить</string>
+     <string name="edit_whitelist">Изменить</string>
      <string name="emergency_tone_summary">Настроить режим работы при экстренном вызове</string>
      <string name="emergency_tone_title">Тональный сигнал экстренного вызова</string>
-     <string name="empty_list_msg">Нет приложений сторонних разработчиков.</string>
+     <string name="empty_list_msg">Нет приложений сторонних разработчиков</string>
+	 <string name="emptylist_fwlog_call">Заблокированные звонки будут записываться здесь</string>
+     <string name="emptylist_fwlog_ms">Заблокированные сообщения будут записываться здесь</string>
      <string name="enable_adb">Отладка по USB</string>
+	 <string name="enable_adb_debug_summary">При USB подключении, используйте ADB команды</string>
+     <string name="enable_adb_debug_title">Включить USB отладку</string>
      <string name="enable_adb_summary">Включить режим отладки при подключении к компьютеру по USB</string>
+	 <string name="enable_anti_spam_summary">Включена фильтрация сообщений</string>
+     <string name="enable_anti_spam_title">Фильтрировать сообщения</string>
+     <string name="enable_app_permission_summary">Наблюдаются 23 приложения</string>
+     <string name="enable_app_permission_title">Включен мониторинг разрешений</string>
      <string name="enable_compatibility">Масштабировать приложения</string>
      <string name="enable_drive_mode">Включить режим вождения</string>
-     <string name="enable_opengl_traces_title">Вкл. трассировку OpenGL</string>
+     <string name="enable_firewall">Блокировать вызовы</string>
      <string name="enable_snapshot_screenlock">Камера кнопкой \"НАЗАД\"</string>
      <string name="enable_text">Включить</string>
-     <string name="enable_traces_dialog_title">Выбрать трассировки</string>
+     <string name="enable_traces_dialog_title">Выберите трассировки</string>
      <string name="enable_traces_summary_all">Все трассировки активированы</string>
      <string name="enable_traces_summary_none">Нет включеной трассировки</string>
      <string name="enable_traces_summary_num">%1$d включенных трассировок</string>
      <string name="enable_traces_title">Включить трассировку</string>
-     <string name="enable_wifi_display">Включить Wi-Fi Display</string>
      <string name="enforce_read_external_confirm_message">"Когда включена защита USB хранилища, приложения должны запрашивать разрешения на чтение данных.
 
 Некоторые приложения могут перестать работать, пока не будут обновлены разработчиками."</string>
