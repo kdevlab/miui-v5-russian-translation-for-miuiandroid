@@ -51,7 +51,6 @@
      <string name="menu_delete">Удалить</string>
      <string name="menu_discard">Отменить все действия</string>
      <string name="menu_folder_change_name">Переименовать</string>
-     <string name="menu_font_size">Размер шрифта</string>
      <string name="menu_move">Переместить</string>
      <string name="menu_move_parent_folder">Назад</string>
      <string name="menu_rename_folder">Переименовать папку</string>
@@ -79,7 +78,7 @@
      <string name="pref_title_alarm_when_silent">Оповещения в тихом режиме</string>
      <string name="pref_title_common">Общие настройки</string>
      <string name="pref_title_data_export_to_sdcard">Экспортировать на SD-карту</string>
-	 <string name="pref_title_font_size">Размер шрифта</string>
+     <string name="pref_title_font_size">Размер шрифта</string>
      <string name="pref_title_note_style">Стиль заметок</string>
      <string name="preferences_bg_random_appear_title">Случайный цвет</string>
      <string name="preferences_title">Настройки</string>

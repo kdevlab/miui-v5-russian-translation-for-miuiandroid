@@ -49,6 +49,9 @@
      <string name="always_use_accessory">Использовать по умолчанию для этого USB-аксессуара</string>
      <string name="always_use_device">Использовать по умолчанию для этого USB-устройства</string>
      <string name="app_label">Графический интерфейс системы</string>
+     <string name="audio_effect_custom">Настройки</string>
+     <string name="audio_effect_info">Улучшение звука</string>
+     <string name="audio_effect_settings">Тип наушников</string>
      <string name="battery_low_percent_format">Осталось %d%%</string>
      <string name="battery_low_subtitle">Батарея разряжается</string>
      <string name="battery_low_title">Низкий заряд батареи. Подключите зарядное устройство.</string>
@@ -282,7 +285,4 @@ d MMMM yyyy"</string>
      <string name="user_guide_for_notification">При получении нового уведомления, можно раскрыть панель состояния для получения дополнительных сведений</string>
      <string name="user_guide_for_toggle">Список переключателей можно прокручивать по горизонтали</string>
      <string name="user_guide_for_toggle_list">Нажмите, чтобы настроить список переключателей</string>
-     <string name="audio_effect_settings">Тип наушников</string>
-     <string name="audio_effect_info">Улучшение звука</string>
-     <string name="audio_effect_custom">Настройки</string>
 </resources>

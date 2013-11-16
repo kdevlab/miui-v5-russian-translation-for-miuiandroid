@@ -85,11 +85,8 @@
      <string name="map_notif_title">Запрос ключа сессии для MAP</string>
      <string name="map_session_key_dialog_header">Требуется ключ сессии для Bluetooth сеанса</string>
      <string name="map_session_key_dialog_title">Введите ключ сессии для %1$s</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="miui_transfer_history_title">Передачи Bluetooth</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="miui_transfer_inbound_title">Принятые</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="miui_transfer_outbound_title">Отправленные</string>
      <string name="no_transfers">История передач пуста</string>
      <string name="not_exist_file">Файл не существует</string>

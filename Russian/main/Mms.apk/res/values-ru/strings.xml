@@ -161,6 +161,7 @@
      <string name="insufficient_drm_rights">Обнаруженных прав DRM недостаточно</string>
      <string name="invalid_conversation">Неверная цепочка</string>
      <string name="invalid_destination">Неверный адрес получателя</string>
+     <string name="invalid_private_contact">Неверный контакт</string>
      <string name="invalid_recipient_message">Убедитесь, что все получатели указаны правильно</string>
      <string name="kilobyte">КБ</string>
      <string name="layout_selector_title">"Макет слайд-шоу "</string>
@@ -259,7 +260,7 @@ SMS (%1$d), MMS (%2$d)"</string>
      <string name="pick_too_many_recipients">Слишком много получателей</string>
      <string name="play">Воспроизвести</string>
      <string name="pref_advanced_settings_title">Дополнительно</string>
-	 <string name="pref_collapse_sp_messages_summary">Сервисные сообщения от поставщиков услуг, банков и т.д.</string>
+     <string name="pref_collapse_sp_messages_summary">Сервисные сообщения от поставщиков услуг, банков и т.д.</string>
      <string name="pref_edit_smsc_address">Номер SMS-центра</string>
      <string name="pref_forward_title">Вперед</string>
      <string name="pref_messages_to_save">Установить количество сообщений в переписке для хранения</string>
@@ -395,7 +396,7 @@ SMS (%1$d), MMS (%2$d)"</string>
      <string name="sms_full_title">Память для текстовых сообщений переполнена</string>
      <string name="sms_rejected_body">Входящее сообщение отклонено по неизвестной причине</string>
      <string name="sms_rejected_title">Сообщение отклонено</string>
-	 <string name="sp_conversation_title">Уведомления</string>
+     <string name="sp_conversation_title">Уведомления</string>
      <string name="sp_mark_as_read">Пометить все сообщения как прочитанные?</string>
      <string name="sp_mark_as_read_progress">Обработка, подождите…</string>
      <string name="sp_mark_as_read_title">Отметка сообщений прочитанными</string>
@@ -421,7 +422,7 @@ SMS (%1$d), MMS (%2$d)"</string>
      <string name="timed_message_expired_title_2">Вы хотите отправить их сейчас?</string>
      <string name="timed_message_in_total">… (всего: %d)</string>
      <string name="timed_message_to">для</string>
-	 <string name="title_collapse_sp_messages">Сервисные сообщения</string>
+     <string name="title_collapse_sp_messages">Сервисные сообщения</string>
      <string name="title_date_type">Дата</string>
      <string name="title_timed_message_dialog">Время отправки сообщения</string>
      <string name="to_address_label">"Кому: "</string>
@@ -455,5 +456,4 @@ SMS (%1$d), MMS (%2$d)"</string>
      <string name="view_message_details">Подробности</string>
      <string name="wap_push_title">"[Push-сообщение] "</string>
      <string name="yes">ОК</string>
-     <string name="invalid_private_contact">Неверный контакт</string>
 </resources>

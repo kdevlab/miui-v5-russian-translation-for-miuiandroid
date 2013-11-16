@@ -91,7 +91,7 @@
      <string name="menu_traffic_adjust">Регулировка трафика</string>
      <string name="menu_traffic_settings">Тарифный план</string>
      <string name="month_traffic_settings_title">Ежемесячный трафик</string>
-	 <string name="network_control_service_notification_text">Управление трафиком</string>
+     <string name="network_control_service_notification_text">Управление трафиком</string>
      <string name="network_control_service_notification_title_mutiple">%1$d прил. запрещены к подключению %2$s</string>
      <string name="network_control_service_notification_title_nettype_mobile">Моб. интернет</string>
      <string name="network_control_service_notification_title_nettype_wifi">Wi-Fi</string>
@@ -111,7 +111,7 @@
      <string name="pref_connect_settings_enable_backgroung_hint">Разрешить автоматическое подключение к сети приложениям, которые работают в фоновом режиме</string>
      <string name="pref_connect_settings_exceed_limit">Отключать данные</string>
      <string name="pref_connect_settings_exceed_limit_hint">Предупредить меня и отключить передачу данных при превышении ежемесячного лимита трафика</string>
-	 <string name="pref_connect_settings_monitor_running_app">Уведомления запретов</string>
+     <string name="pref_connect_settings_monitor_running_app">Уведомления запретов</string>
      <string name="pref_connect_settings_monitor_running_app_summary">Показывать уведомления, если сеть запрещена для приложения</string>
      <string name="pref_connect_settings_notify_in_statusbar">Отображать трафик</string>
      <string name="pref_connect_settings_title">Настройки монитора</string>
@@ -124,7 +124,7 @@
      <string name="pref_traffic_settings">Тарифный план</string>
      <string name="process_kernel_label">Андроид</string>
      <string name="retry">Повторить</string>
-	 <string name="running_apps_activity_title">Запущенные приложения</string>
+     <string name="running_apps_activity_title">Запущенные приложения</string>
      <string name="save">Сохранить</string>
      <string name="settings_page_adjust_summary_no_carrier">Оператор не настроен, авторегуировка трафика отключена</string>
      <string name="settings_page_traffic_summary">Доступно: %1$s, Порог: %2$s, Дата учета: %3$d</string>

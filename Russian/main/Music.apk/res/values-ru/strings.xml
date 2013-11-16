@@ -3,7 +3,7 @@
 <resources>
      <string name="account_and_synchronization">Аккаунт и синхр.</string>
      <string name="account_setting">Настройки аккаунта</string>
-	 <string name="add">Добавить</string>
+     <string name="add">Добавить</string>
      <string name="add_to">Добавить в</string>
      <string name="add_to_favorite">В избранное</string>
      <string name="add_to_playlist">В плейлист</string>
@@ -29,7 +29,7 @@
      <string name="auto_correct_id3_summary">Алгоритм поиска корректных ID3 тегов при проигрывании</string>
      <string name="batch_correct_id3_completed">Групповая коррекция ID3 завершена!</string>
      <string name="billboard">Анонсы</string>
-	 <string name="bind_baidu_account_setting">Связать с Baidu</string>
+     <string name="bind_baidu_account_setting">Связать с Baidu</string>
      <string name="bind_baidu_account_summary">Добавить плейлисты и другие услуги привязав аккаунт Baidu</string>
      <string name="buffering">Кэширование…</string>
      <string name="cancel">Отмена</string>
@@ -182,7 +182,7 @@
      <string name="new_playlist_name_template">Новый плейлист %d</string>
      <string name="no_effect">Отключен</string>
      <string name="no_song_downloaded">Нет треков для загрузки</string>
-	 <string name="not_login">Войти</string>
+     <string name="not_login">Войти</string>
      <string name="not_selected">Пожалуйста, выберите трек</string>
      <string name="online_search_hint">Поиск музыки онлайн</string>
      <string name="online_title">Онлайн</string>
@@ -267,7 +267,7 @@
      <string name="start_to_download_album">Загрузка обложек для библиотеки треков</string>
      <string name="start_to_download_avatar">Загрузка аватара исполнителя…</string>
      <string name="streamloadingtext">Подключение к %s</string>
-	 <string name="synchronize_playlist_setting">Синхр. плейлисты</string>
+     <string name="synchronize_playlist_setting">Синхр. плейлисты</string>
      <string name="synchronize_playlist_summary">Синхронизировать плейлисты в MiCloud</string>
      <string name="track_edit">Трек</string>
      <string name="tracks_title">"Все треки "</string>
@@ -275,5 +275,5 @@
      <string name="unknown_artist_name">Неизвестный исполнитель</string>
      <string name="use_local_album">Установить обложку альбома</string>
      <string name="use_local_lyric">Присвоить текст песни</string>
-	 <string name="xiaomi_account_setting">Аккаунт Xiaomi</string>
+     <string name="xiaomi_account_setting">Аккаунт Xiaomi</string>
 </resources>

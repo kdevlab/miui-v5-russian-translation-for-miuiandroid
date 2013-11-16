@@ -327,20 +327,12 @@
      <string name="msg_error">Ошибка пополнения</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="msg_picker_hint_1_1">1.</string>
-     <!-- The count of MNPS does not match! Now: 0 must: 2
-	%s: 0 must: 0
-	%d: 0 must: 2 -->
-     <!-- Original string: Topping up via text maybe more expensive: &lt;font color=red>￥%1$d = %2$d MiCredit&lt;/font> -->
      <string name="msg_picker_hint_1_2">Пополнение через СМС, может быть дороже: &lt;font color=red>%1$d￥ = %2$d MiCredit&lt;/font></string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="msg_picker_hint_2_1">2.</string>
      <string name="msg_picker_hint_2_2">Взимается плата за обслуживание в размере 0.1￥</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="msg_picker_hint_3_1">3.</string>
-     <!-- The count of MNPS does not match! Now: 0 must: 1
-	%s: 0 must: 1
-	%d: 0 must: 0 -->
-     <!-- Original string: Maximum monthly top-up: ￥%1$s -->
      <string name="msg_picker_hint_3_2">Максимальное месячное пополнение: %1$s￥</string>
      <string name="msg_send_no_net_error">Ошибка отправки сообщения: поставщик услуг недоступен</string>
      <string name="msg_send_no_sim_error">Ошибка отправки сообщения: проверьте SIM-карту</string>

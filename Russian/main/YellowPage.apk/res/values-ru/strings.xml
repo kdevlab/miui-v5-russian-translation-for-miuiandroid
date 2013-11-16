@@ -31,10 +31,12 @@
      <string name="express_inquiry">Отслеживание</string>
      <string name="express_inquiry_button_text">Отследить</string>
      <string name="express_inquiry_data_owner">Отслеживание информации: %s</string>
-	 <string name="express_inquiry_delivered">Доставлено</string>
+     <string name="express_inquiry_delivered">Доставлено</string>
      <string name="express_inquiry_history">История</string>
+     <string name="express_inquiry_internal_failure">"Error occurred.
+Please check tracking number"</string>
      <string name="express_inquiry_logistics_indication">Имя курьера</string>
-	 <string name="express_inquiry_no_history">Пусто</string>
+     <string name="express_inquiry_no_history">Пусто</string>
      <string name="express_inquiry_no_result">Нет результатов</string>
      <string name="express_inquiry_serial_number_indication">Номер отслеживания</string>
      <string name="express_inquiry_serial_number_prefix">"Номер: "</string>
@@ -44,7 +46,7 @@
      <string name="login_ok">Войти</string>
      <string name="mark_number_custom_dialog_maintitle">Согласиться или исправить метку</string>
      <string name="mark_number_dialog_maintitle">Отметить неизвестный номер и загрузить</string>
-	 <string name="mark_title_null_hint">Ввод не может быть пустым</string>
+     <string name="mark_title_null_hint">Ввод не может быть пустым</string>
      <string name="menu_about_yellow_page">О этой странице</string>
      <string name="menu_add_black_list">Добавить в черный список</string>
      <string name="menu_call_ip_number">IP вызов (набрать %s)</string>
@@ -76,7 +78,7 @@
      <string name="recharge_charge_range">Цена: ¥%1$s-%2$s</string>
      <string name="recharge_charge_value">Цена: ¥%s</string>
      <string name="recharge_history">История пополнений</string>
-	 <string name="recharge_history_empty">История пуста</string>
+     <string name="recharge_history_empty">История пуста</string>
      <string name="recharge_input_phone_title">Введите номер телефона (China mobile, China Unicom, или China Telecom)</string>
      <string name="recharge_order_actual_price">¥%s</string>
      <string name="recharge_order_id">ID заказа：</string>
