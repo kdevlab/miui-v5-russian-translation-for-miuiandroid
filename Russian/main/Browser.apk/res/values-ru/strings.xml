@@ -130,9 +130,9 @@
      <string name="contextmenu_add_contact">Добавить контакт</string>
      <string name="contextmenu_copy">Копировать</string>
      <string name="contextmenu_copylink">Копировать URL ссылки</string>
-     <string name="contextmenu_dial_dot">Набор номера...</string>
+     <string name="contextmenu_dial_dot">Набор номера…</string>
      <string name="contextmenu_download_image">Сохранить изображение</string>
-     <string name="contextmenu_download_image_as">Сохранить изображение как...</string>
+     <string name="contextmenu_download_image_as">Сохранить изображение как…</string>
      <string name="contextmenu_map">Карта</string>
      <string name="contextmenu_openlink">Открыть</string>
      <string name="contextmenu_openlink_newwindow">Открыть в новой вкладке</string>
@@ -171,7 +171,7 @@
      <string name="download_failed">Ошибка загрузки</string>
      <string name="download_no_sdcard_dlg_msg">Для загрузки файла %s требуется USB-накопитель.</string>
      <string name="download_no_sdcard_dlg_title">USB-накопитель недоступен</string>
-     <string name="download_pending">Начинается загрузка...</string>
+     <string name="download_pending">Начинается загрузка…</string>
      <string name="download_sdcard_busy_dlg_msg">USB-накопитель занят. Чтобы разрешить загрузки, выберите \"Отключить USB-накопитель\" в уведомлении.</string>
      <string name="download_sdcard_busy_dlg_title">USB-накопитель недоступен</string>
      <string name="download_video_alert_message">Текущая сеть тарифицируется, скачивание видео может повысить стоимость траффика, продолжить?</string>
@@ -179,9 +179,9 @@
      <string name="download_video_menu_dialog_positive_txt">Установить</string>
      <string name="download_video_menu_dialog_summary">Вам нужно установить приложение для проигрывания видео перед использованием этой функции</string>
      <string name="download_video_menu_dialog_title">Установка…</string>
-     <string name="download_video_menu_video_version_low">Вам нужно обновить приложение Видео.</string>
+     <string name="download_video_menu_video_version_low">Вам нужно обновить приложение Видео</string>
      <string name="download_video_no_title_default_name">Безымянное видео</string>
-     <string name="download_video_please_download_market">Вам нужно установить MiApps.</string>
+     <string name="download_video_please_download_market">Вам нужно установить MiApps</string>
      <string name="download_video_please_select_video">Выберите видео</string>
      <string name="download_video_start_down_toast">Скачивание %1$s видеофайлов</string>
      <string name="download_video_unseleted_all">Снять все</string>
@@ -261,25 +261,25 @@
      <string name="loadSuspended">Не удалось загрузить страницу: нет интернет-подключения</string>
      <string name="loadSuspendedTitle">Нет подключения</string>
      <string name="loading_rest_candidates">Загрузка остальных кандидатов</string>
-     <string name="loading_video">Загрузка видео...</string>
+     <string name="loading_video">Загрузка видео…</string>
      <string name="local_bookmarks">Локальные</string>
      <string name="location">Адрес</string>
      <string name="max_tabs_warning">Достигнут предел количества вкладок</string>
      <string name="menu_addtodesk">Добавить на рабочий стол</string>
      <string name="menu_disable_night_mode">Выключить ночной режим</string>
-     <string name="menu_disable_save_bandwidth_mode">Отключить ограничение интернета</string>
+     <string name="menu_disable_save_bandwidth_mode">Отключить мобильный интернет</string>
      <string name="menu_download_video">Загруженные видео</string>
      <string name="menu_enable_night_mode">Включить ночной режим</string>
-     <string name="menu_enable_save_bandwidth_mode">Ограничить интернет</string>
+     <string name="menu_enable_save_bandwidth_mode">Включить мобильный интернет</string>
      <string name="menu_exit">Выход</string>
      <string name="menu_hv_swap">В ландшафтный режим</string>
      <string name="menu_hv_swap2">В портретный режим</string>
      <string name="menu_preferences">Настройки</string>
-     <string name="menu_save_bandwidth_mode_close_toast">Ограничение интернета отключено</string>
+     <string name="menu_save_bandwidth_mode_close_toast">Мобильный интернет отключен</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="menu_save_bandwidth_mode_first_clicked_positive_btn_txt">OK</string>
-     <string name="menu_save_bandwidth_mode_first_clicked_txt">"Не использовать мобильные сети для предварительной загрузки страниц или для автоматического показа изображений"</string>
-     <string name="menu_save_bandwidth_mode_open_toast">Ограничение интернета включено</string>
+     <string name="menu_save_bandwidth_mode_first_clicked_txt">"Не использовать мобильные сети для предварительной загрузки страниц и показа изображений"</string>
+     <string name="menu_save_bandwidth_mode_open_toast">Включен мобильный интернет</string>
      <string name="menu_save_snapshot">Сохранить страницу</string>
      <string name="menu_share_url">Отправить</string>
      <string name="menu_theme_setting">Настройки темы</string>
@@ -443,8 +443,8 @@
      <string name="pref_privacy_security_title">Личные данные</string>
      <string name="pref_reading_mode_enabled_title">Режим чтения</string>
      <string name="pref_reading_mode_enabled_title_summary">Необходим JavaScript</string>
-     <string name="pref_save_bandwidth_mode_summary">Если эта функция включена, браузер не будет использовать вашу мобильную сеть для предварительной загрузки страниц или для автоматического показа изображений</string>
-     <string name="pref_save_bandwidth_mode_title">Использование мобильных данных</string>
+     <string name="pref_save_bandwidth_mode_summary">Браузер не будет использовать мобильную сеть для предварительной загрузки страниц или автоматического показа изображений</string>
+     <string name="pref_save_bandwidth_mode_title">Мобильный интернет</string>
      <string name="pref_security_accept_cookies">Разрешить cookie</string>
      <string name="pref_security_accept_cookies_summary">Разрешить сайтам сохранять и читать файлы cookie</string>
      <string name="pref_security_passwords_title">Пароли</string>
@@ -483,7 +483,7 @@
      <string name="readmode_login">Войти</string>
      <string name="readmode_login_message">Для продолжения чтения необходимо войти в аккаунт</string>
      <string name="readmode_page_load_error">Не удалось загрузить страницу. Нажмите кнопку обновить, чтобы попробовать еще раз.</string>
-     <string name="readmode_page_loading">Загрузка...</string>
+     <string name="readmode_page_loading">Загрузка…</string>
      <string name="readmode_pay">Подписаться на главу</string>
      <string name="readmode_pay_message">Последующие главы требует абонентской платы для просмотра</string>
      <string name="readmode_reach_last_page">Достигнута последняя страница</string>
@@ -512,7 +512,7 @@
 Перезаписать его?"</string>
      <string name="save_file_already_exist_alert_title">Внимание</string>
      <string name="save_to_bookmarks">Добавить закладку</string>
-     <string name="saving_snapshot">Сохраняется...</string>
+     <string name="saving_snapshot">Сохраняется…</string>
      <string name="search">Поиск</string>
      <string name="search_button_text">Поиск</string>
      <string name="search_cancel">Отмена</string>
@@ -531,7 +531,7 @@
      <string name="search_sogou">Segou</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="search_taobao">Taobao</string>
-     <string name="search_the_web">Поиск в Интернете</string>
+     <string name="search_the_web">Поиск в интернете</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="search_tupian">Image</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
@@ -562,7 +562,7 @@
      <string name="ssl_warnings_header">У этого сайта проблемы с сертификатом безопасности</string>
      <string name="stop">Стоп</string>
      <string name="stop_loading">Стоп</string>
-     <string name="stopping">Остановка...</string>
+     <string name="stopping">Остановка…</string>
      <string name="storage_internal">Внутренняя память</string>
      <string name="storage_sd_card">SD-карта</string>
      <string name="storage_usb">USB-накопитель</string>
@@ -572,7 +572,7 @@
      <string name="tab_quicklinks">Ссылки</string>
      <string name="tab_snapshots">Сохраненные страницы</string>
      <string name="tab_yellowpage">Категории</string>
-     <string name="title_bar_loading">Загрузка...</string>
+     <string name="title_bar_loading">Загрузка…</string>
      <string name="too_many_subwindows_dialog_message">Можно открыть только одно всплывающее окно</string>
      <string name="too_many_subwindows_dialog_title">Всплывающее окно уже открыто</string>
      <string name="too_many_windows_dialog_message">Невозможно открыть новую вкладку: закройте хотя бы одну</string>

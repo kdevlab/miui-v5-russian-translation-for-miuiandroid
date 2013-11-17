@@ -701,7 +701,7 @@
      <string name="pref_key_photo_word_title">Фото для контакта</string>
      <string name="pref_key_rebuild_t9_index_message">Обновить индекс контактов для поиска с помощью T9</string>
      <string name="pref_key_rebuild_t9_index_title">Обновление индекса</string>
-     <string name="pref_key_sim_manage">Управление SIM</string>
+     <string name="pref_key_sim_manage">Контакты SIM-карты</string>
      <string name="pref_summary_import_from_account">Импорт контактов из аккаунта Google в аккаунт Xiaomi</string>
      <string name="pref_title_account_import">Импорт из аккаунта</string>
      <string name="pref_title_import_from_account">В аккаунт Xiaomi</string>
@@ -936,7 +936,7 @@
      <string name="sim_contact_existing">Этот контакт SIM уже существует</string>
      <string name="sim_contact_number_missing">Контакт SIM не содержит номера</string>
      <string name="sim_contact_search_error">Произошла ошибка при поиске контактов с SIM-карты</string>
-     <string name="sim_contacts">Контакты на SIM-карте</string>
+     <string name="sim_contacts">Контакт на SIM-карте</string>
      <string name="sim_error_anr_full">Хранилище номеров заполнено</string>
      <string name="sim_error_email_full">Хранилище почтовых адресов заполнено</string>
      <string name="sim_error_email_too_long">E-mail слишком длинный</string>
