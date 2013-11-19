@@ -7,7 +7,7 @@
      <string name="bugreport_feedback_from">От: %s</string>
      <string name="description">Описание (обязательно)</string>
      <string name="discard_draft_dialog_button_cancel">Отмена</string>
-     <string name="discard_draft_dialog_content">Отчет изменен, нажмите OK для удаления черновика.</string>
+     <string name="discard_draft_dialog_content">Отчет изменен. Нажмите OK для удаления черновика</string>
      <string name="discard_draft_dialog_title">Удалить черновик</string>
      <string name="err_type">Тип отчета</string>
      <string name="err_type_call">Вызовы</string>
@@ -39,7 +39,7 @@
      <string name="toast_report_sent_failed">Ошибка отправки отчета</string>
      <string name="toast_report_sent_succeed">Отчет был успешно отправлен</string>
      <string name="user_feedback">Отзывы</string>
-     <string name="wlan_unavailable_dialog_button_sent">Отправить сейсас</string>
-     <string name="wlan_unavailable_dialog_content">%s требуется (2G/3G), нажмите OK для отправки только с помощью WLAN сетей</string>
-     <string name="wlan_unavailable_dialog_title">WLAN подключение отсутствует</string>
+     <string name="wlan_unavailable_dialog_button_sent">Отправить</string>
+     <string name="wlan_unavailable_dialog_content">Требуется %s мобильного трафика. Нажмите OK для отправки позже по Wi-Fi.</string>
+     <string name="wlan_unavailable_dialog_title">Отсутствует Wi-Fi</string>
 </resources>
