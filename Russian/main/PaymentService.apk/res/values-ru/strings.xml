@@ -103,7 +103,7 @@
 	%s: 3 must: 1
 	%d: 0 must: 0 -->
      <!-- Original string: %1$s expired -->
-     <string name="giftcard_expire">%1$s-%2$s-%3$s истекло</string>
+     <string name="giftcard_expire">%1$s истекло</string>
      <string name="giftcard_hint">На подарочную карту будут переведены MiCredit. Через определенный срок они будут недействительны.</string>
      <string name="giftcard_push_notification_prime_title">Вы получили подарочный сертификат</string>
      <string name="giftcard_push_notification_sub_title">%1$s: %2$s MiCredit получено</string>
