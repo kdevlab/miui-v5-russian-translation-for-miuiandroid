@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="uid_label">Media</string>
+    <string name="app_label">Хранилище медиа</string>
+    <string name="upgrade_msg">Обновление базы данных медиа</string>
+    <string name="artist_label">Исполнитель</string>
+    <string name="drm_licensed_message">Невозможно установить защищеный DRM контент в качестве сигнала вызова или уведомления</string>
+</resources>
