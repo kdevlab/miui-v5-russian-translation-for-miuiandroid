@@ -1,0 +1,425 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Builded with CloudBuildr -->
+<resources>
+     <string-array name="animator_duration_scale_entries">
+        <item>Анимация отключена</item>
+        <item>Анимация (масштаб: 0,5x)</item>
+        <item>Анимация (масштаб: 1x)</item>
+        <item>Анимация (масштаб: 1,5x)</item>
+        <item>Анимация (масштаб: 2x)</item>
+        <item>Анимация (масштаб: 5x)</item>
+        <item>Анимация (масштаб: 10x)</item>
+     </string-array>
+     <string-array name="apn_auth_entries">
+        <item>Нет</item>
+        <item>PAP</item>
+        <item>CHAP</item>
+        <item>PAP или CHAP</item>
+     </string-array>
+     <string-array name="app_install_location_entries">
+        <item>Память устройства</item>
+        <item>Съемная SD карта</item>
+        <item>Автоматически</item>
+     </string-array>
+     <string-array name="app_process_limit_entries">
+        <item>Стандартное ограничение</item>
+        <item>Без фоновых процессов</item>
+        <item>Не более одного процесса</item>
+        <item>Не более 2 процессов</item>
+        <item>Не более 3 процессов</item>
+        <item>Не более 4 процессов</item>
+     </string-array>
+     <string-array name="battery_indicator_style_entries">
+        <item>Графический</item>
+        <item>Процентный</item>
+        <item>Полоса в строке состояния</item>
+     </string-array>
+     <string-array name="bearer_entries">
+        <item>LTE</item>
+        <item>eHRPD</item>
+        <item>Не указано</item>
+     </string-array>
+     <string-array name="bluetooth_visibility_timeout_entries">
+        <item>2 минуты</item>
+        <item>5 минут</item>
+        <item>1 час</item>
+        <item>Всегда</item>
+     </string-array>
+     <string-array name="button_light_timeout_entries">
+        <item>1 сек.</item>
+        <item>2 сек.</item>
+        <item>5 сек.</item>
+        <item>10 сек.</item>
+        <item>20 сек.</item>
+        <item>Всегда</item>
+     </string-array>
+     <string-array name="change_security_lock_picker">
+        <item>Фейс-контроль</item>
+        <item>Графический ключ</item>
+        <item>Цифровой пароль</item>
+        <item>Смешанный пароль</item>
+     </string-array>
+     <string-array name="dream_timeout_entries">
+        <item>Никогда</item>
+        <item>15 сек.</item>
+        <item>30 сек.</item>
+        <item>1 мин.</item>
+        <item>2 мин.</item>
+        <item>5 мин.</item>
+        <item>10 мин.</item>
+        <item>30 мин.</item>
+     </string-array>
+     <string-array name="emergency_tone_entries">
+        <item>Отключено</item>
+        <item>Сигнал</item>
+        <item>Вибрация</item>
+     </string-array>
+     <string-array name="enable_opengl_traces_entries">
+        <item>Нет</item>
+        <item>Logcat</item>
+        <item>Systrace (Graphics)</item>
+        <item>Call stack on glGetError</item>
+     </string-array>
+     <string-array name="entries_font_size">
+        <item>Мелкий</item>
+        <item>Обычный</item>
+        <item>Крупный</item>
+        <item>Огромный</item>
+     </string-array>
+     <string-array name="haptic_feedback_level_entries">
+        <item>Сильный</item>
+        <item>Средний</item>
+        <item>Слабый</item>
+     </string-array>
+     <string-array name="hdcp_checking_summaries">
+        <item>Не использовать проверку HDCP</item>
+        <item>Использовать проверку HDCP только для содержания DRM</item>
+        <item>Всегда использовать проверку HDCP</item>
+     </string-array>
+     <string-array name="hdcp_checking_titles">
+        <item>Никогда не проверять</item>
+        <item>Проверять только содержание DRM</item>
+        <item>Всегда проверять</item>
+     </string-array>
+     <string-array name="led_color_entries">
+        <item>Синий</item>
+        <item>Красный</item>
+        <item>Желтый</item>
+        <item>Зеленый</item>
+        <item>Голубой</item>
+        <item>Белый</item>
+        <item>Фиолетовый</item>
+     </string-array>
+     <string-array name="led_freq_entries">
+        <item>2 сек.</item>
+        <item>3 сек.</item>
+        <item>4 сек.</item>
+        <item>5 сек.</item>
+        <item>6 сек.</item>
+        <item>7 сек.</item>
+        <item>8 сек.</item>
+        <item>9 сек.</item>
+     </string-array>
+     <string-array name="lock_after_timeout_entries">
+        <item>Сразу</item>
+        <item>5 сек.</item>
+        <item>15 сек.</item>
+        <item>30 сек.</item>
+        <item>1 мин.</item>
+        <item>2 мин.</item>
+        <item>5 мин.</item>
+        <item>10 мин.</item>
+        <item>30 мин.</item>
+     </string-array>
+     <string-array name="long_press_timeout_selector_titles">
+        <item>Небольшая</item>
+        <item>Средняя</item>
+        <item>Большая</item>
+     </string-array>
+     <string-array name="mi1_led_color_entries">
+        <item>Синий</item>
+        <item>Красный</item>
+        <item>Зеленый</item>
+        <item>Розовый</item>
+        <item>Лиловый</item>
+        <item>Фиолетовый</item>
+     </string-array>
+     <string-array name="msd_pc_system">
+        <item>Windows XP или старее</item>
+        <item>Windows Vista или новее</item>
+        <item>OS X</item>
+        <item>Linux</item>
+     </string-array>
+     <!-- The size of the array does not match! Now: 5 must: 8 -->
+     <string-array name="msd_pc_system_install_finish_summary">
+        <item>Если вы установили этот драйвер\nМобильное устройство хранения MI-2 должно быть на вашем компьютере</item>
+        <item>Для Windows Vista или новее,\nмузыкальный плеер MI-2 должен появится на вашем компьютере</item>
+        <item>Если вы установили драйвер\nКомпьютер будет автоматически открывать и читать данные телефона</item>
+        <item></item>
+     </string-array>
+     <!-- The size of the array does not match! Now: 5 must: 8 -->
+     <string-array name="msd_pc_system_install_start_summary">
+        <item>Для Windows XP или старее,\nдрайвер должен быть установлен вручную</item>
+        <item>Для Windows Vista или новее,\nмузыкальный плеер MI-2 появится на вашем компьютере</item>
+        <item>Для операционной системы OS X,\nдрайвер должен быть установлен вручную</item>
+        <item></item>
+     </string-array>
+     <!-- The size of the array does not match! Now: 5 must: 8 -->
+     <string-array name="msd_pc_system_install_step_1_summary">
+        <item>(Пожалуйста, игнорируйте всплывающие окна мастера установки)\nзапоминающее устройство XIAOMI появится на вашем компьютере\nОткройте и выберите файл Setup.exe для установки</item>
+        <item></item>
+        <item>Запоминающее устройство XIAOMI появится на вашем компьютере\nткройте и выберите файл AndroidFileTransfer.dmg для установки</item>
+        <item></item>
+     </string-array>
+     <!-- The size of the array does not match! Now: 5 must: 7 -->
+     <string-array name="msd_pc_system_install_step_2_summary">
+        <item>2. Мобильное устройство хранения MI-2 появится на вашем компьютере\nТеперь вы можете передавать файлы</item>
+        <item></item>
+        <item>Компьютер будет автоматически открывать и читать данные телефона\nТеперь вы можете передавать файлы</item>
+        <item></item>
+     </string-array>
+     <string-array name="overlay_display_devices_entries">
+        <item>Нет</item>
+        <item>720x480</item>
+        <item>1280x720</item>
+        <item>1920x1080</item>
+        <item>1280x720 и 1920x1080</item>
+     </string-array>
+     <string-array name="perm_hips_action">
+        <item>Разрешить</item>
+        <item>Запрос</item>
+        <item>Запретить</item>
+     </string-array>
+     <string-array name="phone_call_noise_suppression_title">
+        <item>Один микрофон</item>
+        <item>Два микрофона</item>
+     </string-array>
+     <string-array name="power_mode_entries">
+        <item>Производительный</item>
+        <item>Сбалансированный</item>
+        <item>Энергосберегающий</item>
+     </string-array>
+     <string-array name="screen_color_title">
+        <item>Теплый тон</item>
+        <item>Натуральный тон</item>
+        <item>Холодный тон</item>
+     </string-array>
+     <string-array name="screen_key_long_press_action">
+        <item>Нет действий</item>
+        <item>Недавние приложения</item>
+        <item>Голосовой помощник</item>
+        <item>Google Now</item>
+        <item>Закрыть текущее приложение</item>
+     </string-array>
+     <string-array name="screen_key_long_press_timeout">
+        <item>0.5 сек.</item>
+        <item>1 сек.</item>
+        <item>1.5 сек.</item>
+        <item>2 сек.</item>
+     </string-array>
+     <string-array name="screen_saturation_title">
+        <item>Яркий режим</item>
+        <item>Стандартный режим</item>
+     </string-array>
+     <!-- The size of the array does not match! Now: 8 must: 7 -->
+     <string-array name="screen_timeout_entries">
+        <item>15 сек.</item>
+        <item>30 сек.</item>
+        <item>1 мин.</item>
+        <item>2 мин.</item>
+        <item>5 мин.</item>
+        <item>10 мин.</item>
+        <item>Никогда</item>
+     </string-array>
+     <string-array name="security_settings_premium_sms_values">
+        <item>Спрашивать</item>
+        <item>Запретить</item>
+        <item>Разрешить</item>
+     </string-array>
+	 <string-array name="slideshow_time_entries">
+        <item>1 минута</item>
+        <item>3 минуты</item>
+        <item>5 минут</item>
+        <item>15 минут</item>
+        <item>30 минут</item>
+        <item>1 час</item>
+        <item>Бесконечно</item>
+    </string-array>
+     <string-array name="special_locale_names">
+        <item>Китайский (упрощенный)</item>
+        <item>Китайский (традиционный)</item>
+     </string-array>
+     <string-array name="startup_hips_action">
+        <item>Разрешить</item>
+        <item>Запретить</item>
+     </string-array>
+     <string-array name="timezone_filters">
+        <item>Америка</item>
+        <item>Европа</item>
+        <item>Африка</item>
+        <item>Азия</item>
+        <item>Австралия</item>
+        <item>Тихий океан</item>
+        <item>Все</item>
+     </string-array>
+     <string-array name="transition_animation_scale_entries">
+        <item>Отключено</item>
+        <item>0.5x</item>
+        <item>1x</item>
+        <item>1.5x</item>
+        <item>2x</item>
+        <item>5x</item>
+        <item>10x</item>
+     </string-array>
+     <string-array name="tts_pitch_entries">
+        <item>Очень низкий</item>
+        <item>Низкий</item>
+        <item>Обычный</item>
+        <item>Высокий</item>
+        <item>Очень высокий</item>
+     </string-array>
+     <string-array name="tts_rate_entries">
+        <item>Очень медленная</item>
+        <item>Медленная</item>
+        <item>Обычная</item>
+        <item>Быстрая</item>
+        <item>Очень быстрая</item>
+     </string-array>
+     <string-array name="usage_stats_display_order_types">
+        <item>Время использования</item>
+        <item>Количество запусков</item>
+        <item>Название приложения</item>
+     </string-array>
+     <string-array name="usb_connection_mode_entries">
+        <item>Запрос при подключении</item>
+        <item>Только зарядка</item>
+        <item>Подключать SD-карту</item>
+     </string-array>
+     <string-array name="user_content_ratings_entries">
+        <item>Высший разум</item>
+        <item>Человек</item>
+        <item>Неандерталец</item>
+        <item>Шимпанзе</item>
+        <item>Обезьяна</item>
+     </string-array>
+     <string-array name="vpn_states">
+        <item>Отключено</item>
+        <item>Инициализация…</item>
+        <item>Подключение…</item>
+        <item>Подключено</item>
+        <item>Таймаут</item>
+        <item>Подключение не удалось</item>
+     </string-array>
+     <string-array name="vpn_types_long">
+        <item>PPTP VPN</item>
+        <item>L2TP/IPSec VPN with pre-shared keys</item>
+        <item>L2TP/IPSec VPN with certificates</item>
+        <item>IPSec VPN with pre-shared keys and Xauth authentication</item>
+        <item>IPSec VPN with certificates and Xauth authentication</item>
+        <item>IPSec VPN with certificates and hybrid authentication</item>
+     </string-array>
+     <string-array name="wfd_status">
+        <item>Устройство подключено, создание сессии…</item>
+        <item>Сессия создана</item>
+        <item>Сессия сорвана…</item>
+        <item>Сессия не создана</item>
+        <item>Истекло время ожидания, повтор…</item>
+        <item>Устройство подключено</item>
+     </string-array>
+     <string-array name="wifi_ap_security">
+        <item>Без шифрования</item>
+        <item>WPA PSK</item>
+        <item>WPA2 PSK</item>
+     </string-array>
+     <string-array name="wifi_frequency_band_entries">
+        <item>Автоматически</item>
+        <item>5 ГГц</item>
+        <item>2.4 ГГц</item>
+     </string-array>
+     <string-array name="wifi_ip_settings">
+        <item>Автоматически (DHCP)</item>
+        <item>Статический</item>
+     </string-array>
+     <string-array name="wifi_p2p_status">
+        <item>Подключено</item>
+        <item>Приглашено</item>
+        <item>Сбой</item>
+        <item>Доступно</item>
+        <item>Вне диапазона</item>
+     </string-array>
+     <string-array name="wifi_p2p_wps_setup">
+        <item>Push-кнопка</item>
+        <item>PIN-код с обнаруженного устройства</item>
+        <item>PIN-код этого устройства</item>
+     </string-array>
+     <string-array name="wifi_phase2_entries">
+        <item>Нет</item>
+        <item>PAP</item>
+        <item>MSCHAP</item>
+        <item>MSCHAPV2</item>
+        <item>GTC</item>
+     </string-array>
+     <string-array name="wifi_proxy_settings">
+        <item>Нет</item>
+        <item>Вручную</item>
+     </string-array>
+     <string-array name="wifi_security">
+        <item>@string/wifi_security_none</item>
+        <item>@string/wifi_security_wep</item>
+        <item>@string/wifi_security_psk_generic</item>
+        <item>@string/wifi_security_eap</item>
+     </string-array>
+     <string-array name="wifi_signal">
+        <item>Слабый</item>
+        <item>Средний</item>
+        <item>Хороший</item>
+        <item>Отличный</item>
+     </string-array>
+     <string-array name="wifi_sleep_policy_entries">
+        <item>Включен (высокое энергопотребление)</item>
+        <item>Включен, если подключено питание</item>
+        <item>Выключен (энергосбережение)</item>
+     </string-array>
+     <string-array name="wifi_sleep_policy_entries_wifi_only">
+        <item>Включен (высокое энергопотребление)</item>
+        <item>Включен, если подключено питание</item>
+        <item>Выключен (энергосбережение)</item>
+     </string-array>
+     <string-array name="wifi_status">
+        <item></item>
+        <item>Поиск…</item>
+        <item>Подключение…</item>
+        <item>Аутентификация…</item>
+        <item>Получение IP-адреса…</item>
+        <item>Подключено</item>
+        <item>Приостановлено</item>
+        <item>Отключение…</item>
+        <item>Нет подключения</item>
+        <item>Сбой</item>
+        <item>Заблокировано</item>
+        <item>Избежание слабого сигнала</item>
+     </string-array>
+     <string-array name="wifi_status_with_ssid">
+        <item></item>
+        <item>Поиск…</item>
+        <item>Соединение с сетью %1$s…</item>
+        <item>Аутентификация в сети %1$s…</item>
+        <item>Получение IP-адреса от %1$s…</item>
+        <item>Подключено к %1$s</item>
+        <item>Приостановлено</item>
+        <item>Отключение от %1$s…</item>
+        <item>Нет подключения</item>
+        <item>Сбой</item>
+        <item>Заблокировано</item>
+        <item>Избежание слабого сигнала</item>
+     </string-array>
+     <string-array name="window_animation_scale_entries">
+        <item>Отключено</item>
+        <item>0.5x</item>
+        <item>1x</item>
+        <item>1.5x</item>
+        <item>2x</item>
+        <item>5x</item>
+        <item>10x</item>
+     </string-array>
+</resources>

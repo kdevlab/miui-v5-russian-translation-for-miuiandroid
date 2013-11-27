@@ -28,6 +28,7 @@
      <string name="add_bookmark_short">Добавить</string>
      <string name="add_folder">Новая папка</string>
      <string name="add_new_bookmark">Добавить закладку</string>
+	 <string name="add_quicklink_to_popular">Добавить на главную</string>
      <string name="add_to_bookmarks_menu_option">Закладки</string>
      <string name="add_to_homescreen_menu_option">Главный экран</string>
      <string name="add_to_other_folder_menu_option">Другая папка</string>
@@ -470,14 +471,15 @@
      <string name="pref_volume_key_operation">Функция клавиш громкости</string>
      <string name="pref_zoom_on_double_tap">Увеличение двойным нажатием</string>
      <string name="preview">Предварительный просмотр</string>
-     <string name="progress_dialog_setting_wallpaper">Установка обоев...</string>
+     <string name="progress_dialog_setting_wallpaper">Установка обоев…</string>
+	 <string name="quicklink_saved_before">Сайт добавлен на стартовую страницу</string>
      <string name="quicklink_user_define_webpage_title">Имя</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="quicklink_user_define_webpage_url">URL</string>
      <string name="quicklinks_group_default_subtitle">Пусто</string>
      <string name="quicklinks_management">Полезные сайты</string>
      <string name="quicklinks_most_visited">Добавить сайт на главную</string>
      <string name="quicklinks_most_visited_subtitle">Добавить плитку вашего сайта на главный экран</string>
+	 <string name="quicklinks_most_visited_title">Добавить на стартовую</string>
      <string name="readmode_already_add_to_bookshelf">Уже добавлено на книжную полку</string>
      <string name="readmode_battery">Батарея </string>
      <string name="readmode_login">Войти</string>
@@ -541,7 +543,8 @@
      <string name="security_warning">Угроза безопасности</string>
      <string name="select_dot">Выбрать текст</string>
      <string name="send_bookmark_to_home_screen">Создать ярлык на рабочем столе</string>
-     <string name="send_to_desktop">на рабочий стол</string>
+     <string name="send_to_desktop">На стол</string>
+	 <string name="send_to_popular">В избранные</string>
      <string name="set_as_homepage">Сделать главной страницей</string>
      <string name="share_link">Поделиться</string>
      <string name="share_page">Поделиться</string>

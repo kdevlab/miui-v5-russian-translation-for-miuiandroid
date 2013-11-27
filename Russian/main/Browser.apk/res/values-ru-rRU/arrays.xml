@@ -70,8 +70,7 @@
         <item>Переключение вкладок</item>
      </string-array>
      <string-array name="pref_homepage_choices">
-        <item>Начальная страница</item>
-        <item>Часто посещаемые веб-сайты</item>
+        <item>Браузер откроет на эту страницу</item>
         <item>Другая</item>
      </string-array>
      <string-array name="pref_images_preload_choices">
