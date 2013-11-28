@@ -19,6 +19,8 @@
      <string name="name_credential_dialog_title">Введите имя сертификата</string>
      <string name="name_empty_error">Введите имя.</string>
      <string name="no_cert_file_found">На SD-карте отсутствует файл сертификата.</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="no_cert_file_found_sd">No certificate file found on SD card</string>
      <string name="no_cert_to_saved">Нет сертификата для установки.</string>
      <string name="one_cacrt">один CA-сертификат</string>
      <string name="one_usercrt">один пользовательский сертификат</string>
@@ -33,6 +35,8 @@
      <string name="pkcs12_file_password_dialog_title">Извлечь из %s</string>
      <string name="pkcs12_password_dialog_title">Извлечение сертификата</string>
      <string name="sdcard_not_present">Карта SD отсутствует.</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="sdcard_not_present_sd">No SD card found</string>
      <string name="storage_error">Не удалось сохранить сертификат. Нажмите «OK», чтобы повторить попытку.</string>
      <string name="unable_to_save_cert">Не удалось сохранить сертификат. Хранилище учетных данных не активировано или неправильно инициализировано.</string>
 </resources>

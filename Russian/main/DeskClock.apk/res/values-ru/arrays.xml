@@ -24,6 +24,19 @@
         <item>Понедельник-пятница</item>
         <item>Выбрать дни</item>
      </string-array>
+     <integer-array name="alarm_repeat_type_no_workdays_values">
+        <item>0</item>
+        <item>1</item>
+        <item>3</item>
+        <item>4</item>
+     </integer-array>
+     <integer-array name="alarm_repeat_type_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+     </integer-array>
      <string-array name="alarm_set">
         <item>Будильник зазвонит менее чем через минуту</item>
         <item>Будильник зазвонит через %1$s</item>

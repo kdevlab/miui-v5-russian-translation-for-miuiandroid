@@ -85,6 +85,8 @@
      <string name="diagnostics_title">Диагностика сети</string>
      <string name="download_fail">Загрузка не удалась</string>
      <string name="download_start_fail">Загрузка не удалась</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="downloading">Pause</string>
      <string name="edit_comment">Добавить комментарий</string>
      <string name="edit_comment_title">Комментариев: %1$s</string>
      <string name="edit_text_default">Введите комментарий</string>
@@ -264,6 +266,8 @@
      <string name="remove_package_fail">Failed to install: process timed out.</string>
      <string name="result_notice">Результаты предоставляемые Baidu App Center</string>
      <string name="result_of_clear_history">История очищена</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="resume">Resume</string>
      <string name="search_local_app_text_hint">Поиск приложений в %1$d установленных</string>
      <string name="search_not_found">\"%1$s\" не найдено</string>
      <string name="search_other_market">Похожие</string>

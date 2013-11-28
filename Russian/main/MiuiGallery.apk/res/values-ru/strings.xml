@@ -15,6 +15,8 @@
      <string name="add_to_cloud_file_exist_message">Фото уже существует в выбранном альбоме</string>
      <string name="add_to_cloud_file_not_exist_message">Файл не существует</string>
      <string name="add_to_cloud_folder">В облако</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="add_to_cloud_image_limit_exceeded_message">Image limit exceeded.</string>
      <string name="add_to_cloud_local_space_full_message">Накопитель полный или не подключен.</string>
      <string name="add_to_cloud_reasons" />
      <string name="add_to_cloud_space_full_message">Облачный альбом заполнен</string>
@@ -65,6 +67,8 @@
      <string name="bigscreen_slide_fail_cause_loading">Повторите попытку, чтобы начать слайд-шоу после загрузки изображения.</string>
      <string name="browse_category">Просмотр изображений</string>
      <string name="by_email">Почта</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="by_others">Others</string>
      <string name="by_sms">Сообщение</string>
      <string name="camera_connected">Камера подключена</string>
      <string name="camera_disconnected">Камера отключена</string>
@@ -157,6 +161,8 @@
      <string name="done">Готово</string>
      <string name="doodle">Подмалевок</string>
      <string name="doodle_tooltip">Рисуйте на фото пальцем</string>
+     <string name="dummy_fs">precision mediump float; uniform mat4 mg_TextureMatrix; uniform sampler2D mg_Texture0, mg_Texture1; uniform vec4 mg_Color; uniform float mg_Texture0_Weight, mg_Texture1_Weight, mg_Color_Weight; uniform vec4 mg_Texture0_Modulate, mg_Texture1_Modulate; varying vec2 mg_UV0, mg_UV1; vec2 transform_uv(vec2 uv) { vec4 v = vec4(uv, 0, 1); v = mg_TextureMatrix * v; return v.xy; } void main() { vec4 col = vec4(0, 0, 0, 0); if(mg_Texture0_Weight > 0.05) { col += mg_Texture0_Modulate * texture2D(mg_Texture0, transform_uv(mg_UV0)) * mg_Texture0_Weight; } if(mg_Texture1_Weight > 0.05) { col += mg_Texture1_Modulate * texture2D(mg_Texture1, transform_uv(mg_UV1)) * mg_Texture1_Weight; } if(mg_Color_Weight > 0.05) { col += mg_Color * mg_Color_Weight; } gl_FragColor = col; }</string>
+     <string name="dummy_vs">uniform mat4 mg_ModelView, mg_Projection; attribute vec2 mg_TexCoord0, mg_TexCoord1; attribute vec3 mg_Vertex; varying vec2 mg_UV0, mg_UV1; void main() { gl_Position = mg_Projection * mg_ModelView * vec4(mg_Vertex, 1); mg_UV0 = mg_TexCoord0; mg_UV1 = mg_TexCoord1; }</string>
      <string name="duotone">Двойной тон</string>
      <string name="duration">Длительность</string>
      <string name="edit">Изменить</string>

@@ -1,82 +1,76 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Builded with CloudBuildr -->
 <resources>
-  <!--Translated by KDev Group (main repository)-->
-  <!--Fixed, merged and deleted duplicates by KDG Translation Suite-->
-  <string name="account">Аккаунт</string>
-  <string name="account_error">Не удалось получить данные аккаунта.</string>
-  <string name="album_title_hint">Введите название альбома</string>
-  <string name="application_name">Мои загрузки</string>
-  <string name="cancel">Отмена</string>
-  <string name="create">Создать</string>
-  <string name="creating">Идет создание альбома...</string>
-  <string name="creating_failed">При попытке создания альбома возникла проблема.</string>
-  <string name="destination_format">%1$s \"%2$s\"</string>
-  <string name="dialog_first_cleanup">Все завершенные и неудавшиеся загрузки будут удалены из списка.</string>
-  <string name="dialog_first_cleanup_title">Очистка</string>
-  <string name="dialog_first_wifi">Большие файлы будут загружаться только по соединению Wi-Fi.</string>
-  <string name="dialog_first_wifi_title">Загрузка большого файла</string>
-  <string name="drop_box_name">Альбом без названия</string>
-  <string name="enter_a_title">Введите название альбома.</string>
-  <string name="failed_bad_response">Ошибка службы</string>
-  <string name="failed_network_error">Ошибка сети</string>
-  <string name="failed_no_file">Файл не найден</string>
-  <string name="failed_server_auth">Не удалось выполнить аутентификацию</string>
-  <string name="manager_cancel">Отмена</string>
-  <string name="manager_cleanup">Очистка</string>
-  <string name="manager_empty">Список загрузки пуст.</string>
-  <string name="manager_pause">Приостановить загрузку</string>
-  <string name="manager_resume">Продолжить загрузку</string>
-  <string name="manager_retry">Повторить попытку</string>
-  <string name="manager_toast_canceled">Загрузка отменена</string>
-  <string name="manager_toast_not_canceled">Загрузка уже завершена</string>
-  <string name="new_album_label">Создать альбом</string>
-  <string name="notify_paused">Загрузка приостановлена</string>
-  <string name="notify_resolved">Загрузка завершена</string>
-  <string name="notify_uploads">Мои загрузки</string>
-  <string name="picasa_album">Альбом</string>
-  <string name="picasa_caption">Подпись</string>
-  <string name="picasa_confirmation_multiple">Фотографии будут добавлены. Ход выполнения отображается на панели уведомлений.</string>
-  <string name="picasa_confirmation_single">Фотография будет добавлена. Ход выполнения отображается на панели уведомлений.</string>
-  <string name="picasa_preview">Просмотреть</string>
-  <string name="picasa_title_for_multiple">Добавить %d фотографий</string>
-  <string name="picasa_title_for_single">Добавить фотографию</string>
-  <string name="picasa_toast_file_too_large">Нельзя загружать фотографии размером более 20 МБ.</string>
-  <string name="public_album">Для всех</string>
-  <string name="retry_in_1min">1 минута</string>
-  <string name="retry_in_2min">2 минуты</string>
-  <string name="retry_in_5min">5 минут</string>
-  <string name="retry_no_data">Подключение для передачи данных отсутствует</string>
-  <string name="state_completed">Завершено</string>
-  <string name="state_failed">Не удалось выполнить загрузку</string>
-  <string name="state_paused">Приостановлено</string>
-  <string name="state_queued">В очереди</string>
-  <string name="state_uploading">Загрузка</string>
-  <string name="state_waiting_retry">Ожидание повторной попытки</string>
-  <string name="state_waiting_wifi">Ожидание WiFi</string>
-  <string name="toast_failed_auth">Не удалось войти в ваш аккаунт.</string>
-  <string name="toast_file_error">Файл недоступен.</string>
-  <string name="toast_intent_error">Сбой инициализации загрузки</string>
-  <string name="unlisted_album">Частный альбом</string>
-  <string name="upload">Добавить</string>
-  <string name="upload_failed_notfound">Ошибка при загрузке: альбом не существует.</string>
-  <string name="uploading_for">" для пользователя "</string>
-  <string name="uploading_to">Загрузка на </string>
-  <string name="yt_confirmation_multiple">Видеоролики будут добавлены. Ход выполнения отображается на панели уведомлений.</string>
-  <string name="yt_confirmation_single">Видеоролик будет добавлен. Ход выполнения отображается на панели уведомлений.</string>
-  <string name="yt_country_restricted">Загрузка видео на YouTube недоступна в вашей стране.</string>
-  <string name="yt_default_description">Видео загружено с телефона Android.</string>
-  <string name="yt_description">Описание</string>
-  <string name="yt_more_details">Подробнее</string>
-  <string name="yt_no_location">Местоположение недоступно.</string>
-  <string name="yt_private_access">Закрытое</string>
-  <string name="yt_public_access">Общедоступное</string>
-  <string name="yt_status_private">закрыто для пользователя %s</string>
-  <string name="yt_status_public">открыто для пользователя %s</string>
-  <string name="yt_tags">Метки</string>
-  <string name="yt_terms">Загружая файлы, вы принимаете </string>
-  <string name="yt_title_for_multiple">Добавить %d видео</string>
-  <string name="yt_title_for_single">Добавить видео</string>
-  <string name="yt_toast_file_too_large">Нельзя загружать видео больше 1 ГБ.</string>
-  <string name="yt_use_location">Отправлять данные о местоположении</string>
-  <string name="yt_video_title_hint">Укажите заголовок здесь</string>
+     <string name="album_title_hint">Введите название альбома</string>
+     <string name="cancel">Отмена</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="create_album">Create</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="creating_album">Creating the album...</string>
+     <string name="creating_album_done">"Album '%1$s' created."</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="creating_album_failed">There was a problem trying to create the album.</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="new_album_dialog_title">Create album</string>
+     <string name="picasa_title_for_multiple">Добавить %d фотографий</string>
+     <string name="picasa_title_for_single">Добавить фотографию</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="picasa_upload">Picasa Uploader</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="picasa_upload_account">Account</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="picasa_upload_account_error">Failed to retrieve account information.</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="picasa_upload_actionbar_tab_active_uploads">Active uploads</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="picasa_upload_actionbar_tab_history">History</string>
+     <string name="picasa_upload_add_account">Need to sign in your Google Account to upload photos/videos.</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="picasa_upload_album">Album</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="picasa_upload_caption">Caption</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="picasa_upload_done">Uploads completed</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="picasa_upload_get_album_list_error">Failed to get the album list.</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="picasa_upload_paused">Upload paused. Will retry shortly</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="picasa_upload_paused_auth">Authentication failed.</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="picasa_upload_paused_missing_sdcard">SD card not present.</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="picasa_upload_paused_network">Waiting for network.</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="picasa_upload_paused_quota_exceeded">Quota exceeded.</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="picasa_upload_paused_server_error">Server error. Will retry shortly.</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="picasa_upload_state_cancelled">Cancelled</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="picasa_upload_state_cancelling">Cancelling</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="picasa_upload_state_duplicate">Duplicate</string>
+     <string name="picasa_upload_state_empty" />
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="picasa_upload_state_failed">Upload failed</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="picasa_upload_state_invalid_metadata">Invalid request</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="picasa_upload_state_queued">Queued</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="picasa_upload_state_quota_exceeded">Quota exceeded</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="picasa_upload_state_unauthorized">Authorization needed</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="picasa_upload_toast_no_file_to_upload">No file to upload.</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="picasa_upload_upload">Upload</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="picasa_upload_upload_start">Start uploading to Picasa.</string>
+     <string name="picasa_upload_uploading_to">Uploading %d to Picasa</string>
+     <string name="public_album">Для всех</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="share_to_picasa">Picasa</string>
+     <string name="unlisted_album">Частный альбом</string>
 </resources>
