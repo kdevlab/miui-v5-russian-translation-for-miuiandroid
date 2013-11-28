@@ -24,7 +24,6 @@
      <string name="duration_format_second">%sс</string>
      <string name="error_app_internal">Внутренняя ошибка приложения</string>
      <string name="error_app_internal_title">Ошибка диктофона</string>
-	 <string name="error_filename_illegal_char">Имя файла содержит недопустимые символы</string>
      <string name="error_filename_too_long">Слишком длинное име файла</string>
      <string name="error_mediadb_new_record">Не удалось сохранить аудиозапись</string>
      <string name="error_sdcard_access">Не удалось получить доступ к SD-карте</string>
