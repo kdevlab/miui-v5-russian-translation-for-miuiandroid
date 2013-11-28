@@ -99,6 +99,20 @@
         <item>Прокрутка страницы</item>
         <item>Переключение вкладок</item>
      </string-array>
+	 <string-array name="pref_ua_choices">
+        <item>Android</item>
+        <item>ПК</item>
+        <item>iPhone</item>
+        <item>iPad</item>
+    </string-array>
+	<string-array name="mail_ru">
+        <item>\@MAIL.RU</item>
+        <item>mail.ru</item>
+        <item>http://img.go.mail.ru/favicon.ico</item>
+        <item>http://go.mail.ru/search?q={searchTerms}</item>
+        <item>windows-1251</item>
+        <item></item>
+    </string-array>
      <string-array name="search_engines">
         <item>google</item>
         <item>yandex_ru</item>

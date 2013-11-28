@@ -31,6 +31,8 @@
      <string name="express_inquiry">Отслеживание</string>
      <string name="express_inquiry_button_text">Отследить</string>
      <string name="express_inquiry_data_owner">Отслеживание информации: %s</string>
+     <string name="express_inquiry_delete_warning_multiple">Удалить %d выбранных записей?</string>
+     <string name="express_inquiry_delete_warning_single">Удалить выбранные записи?</string>
      <string name="express_inquiry_delivered">Доставлено</string>
      <string name="express_inquiry_history">История</string>
      <string name="express_inquiry_internal_failure">"Произошла ошибка.
@@ -42,8 +44,7 @@
      <string name="express_inquiry_serial_number_prefix">"Номер: "</string>
      <string name="expresss_inquiry_all_logistics">Все</string>
      <string name="expresss_inquiry_frequently_used_logistics">Частые</string>
-     <string name="login_before_recharging">Перед пополнением баланса войдите в аккаунт</string>
-	 <string name="login_before_use">Перед использованием войдите в аккаунт</string>
+     <string name="login_before_use">Перед использованием войдите в аккаунт</string>
      <string name="login_ok">Войти</string>
      <string name="mark_number_custom_dialog_maintitle">Согласиться или исправить метку</string>
      <string name="mark_number_dialog_maintitle">Отметить неизвестный номер и загрузить</string>
@@ -102,7 +103,6 @@
 Всего RMB: %3$s."</string>
      <string name="recharge_user_confirm_title">Подтвердить</string>
      <string name="remind_another_time">Не вводите этот номер</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="remind_user_confirm">OK</string>
      <string name="remind_user_suspect_number_message">"Преступники могут украсть номера чужих телефонов. В случае сомнений, пожалуйста, перезвоните, чтобы проверить.
 

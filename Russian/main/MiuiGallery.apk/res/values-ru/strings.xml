@@ -11,13 +11,12 @@
      <string name="add_to_cloud_album">В облако</string>
      <string name="add_to_cloud_exceeded_the_size_message">Размер файла слишком велик для облака</string>
      <string name="add_to_cloud_fail_too_many_items">Ошибка завершения операции. Возможно выбрано слишком много пунктов.</string>
-     <string name="add_to_cloud_failed_message_with_count">%2$s фотографий не могут быть добавлены в облачный альбом: %1$s.</string>
+     <string name="add_to_cloud_failed_message_with_count">%2$s фотографий не могут быть добавлены в облачный альбом %1$s</string>
      <string name="add_to_cloud_file_exist_message">Фото уже существует в выбранном альбоме</string>
      <string name="add_to_cloud_file_not_exist_message">Файл не существует</string>
      <string name="add_to_cloud_folder">В облако</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="add_to_cloud_image_limit_exceeded_message">Image limit exceeded.</string>
-     <string name="add_to_cloud_local_space_full_message">Накопитель полный или не подключен.</string>
+     <string name="add_to_cloud_image_limit_exceeded_message">Превышен лимит изображений</string>
+     <string name="add_to_cloud_local_space_full_message">Накопитель полный или не подключен</string>
      <string name="add_to_cloud_reasons" />
      <string name="add_to_cloud_space_full_message">Облачный альбом заполнен</string>
      <string name="add_to_cloud_successfully_message">Успешно добавлено</string>
@@ -42,7 +41,6 @@
      <string name="alert">Внимание</string>
      <string name="alert_message_open_sync">Необходима синхронизация. Вы хотите включить ее сейчас?</string>
      <string name="already_apply_album">Открыть %1$s?</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="android_tencent_tencent_weibo">Tencent Weibo</string>
      <string name="androidesk_wallpapers">Обои Android</string>
      <string name="aperture">Диафрагма</string>
@@ -67,8 +65,7 @@
      <string name="bigscreen_slide_fail_cause_loading">Повторите попытку, чтобы начать слайд-шоу после загрузки изображения.</string>
      <string name="browse_category">Просмотр изображений</string>
      <string name="by_email">Почта</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="by_others">Others</string>
+     <string name="by_others">Другое</string>
      <string name="by_sms">Сообщение</string>
      <string name="camera_connected">Камера подключена</string>
      <string name="camera_disconnected">Камера отключена</string>
@@ -91,7 +88,7 @@
      <string name="cloud_album_more_settings">Облачные альбомы</string>
      <string name="cloud_album_set_create">Новый</string>
      <string name="cloud_album_set_scan_qr_code">QR-код</string>
-     <string name="cloud_albums">Облачные альбомы</string>
+     <string name="cloud_albums">Облако</string>
      <string name="cloud_be_shared_guide_message">Вы можете просматривать фотографии друзей и добавлять свои фотографии в альбом, чтобы поделиться с другими</string>
      <string name="cloud_be_shared_guide_title">Этот альбом был прислан другом</string>
      <string name="cloud_camera_display_name">Не отсортированные</string>
@@ -248,7 +245,7 @@
      <string name="loading">Идет загрузка…</string>
      <string name="loading_failure">Не удалось загрузить фото</string>
      <string name="loading_thumbnail">Загрузка эскизов</string>
-     <string name="local_albums">Локальные альбомы</string>
+     <string name="local_albums">Альбомы</string>
      <string name="location">Место съемки</string>
      <string name="locations">Места</string>
      <string name="lomoish">Ломо</string>

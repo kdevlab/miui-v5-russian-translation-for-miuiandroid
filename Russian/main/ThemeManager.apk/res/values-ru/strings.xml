@@ -1,10 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Builded with CloudBuildr -->
 <resources>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="account_info">My account</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="account_unactivated">Account not activated.</string>
+     <string name="account_info">Мой аккаунт</string>
+     <string name="account_unactivated">Аккаунт не активирован</string>
      <string name="all_resources">Все</string>
      <string name="all_ringtone_resource">Все</string>
      <string name="app_name">Темы</string>
@@ -13,16 +11,14 @@
      <string name="apply_font_tip">Тема содержит шрифт, требуется перезагрузка</string>
      <string name="apply_lockscreen_paper_tips">Работает не стандартный экран блокировки, новые обои на нем могут не смениться</string>
      <string name="apply_theme_no_select_message">Пожалуйста, выберите компоненты</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="apply_theme_with_ringtones">Apply theme with ringtones</string>
+     <string name="apply_theme_with_ringtones">Применить тему с рингтонами</string>
      <string name="backup_preference_title">Резервное копирование</string>
      <string name="backup_theme_dialog_message">"Резервное копирование текущей темы"</string>
      <string name="backup_theme_dialog_ok">ОК</string>
      <string name="backup_theme_name">Моя тема</string>
      <string name="backup_theme_progress_message">Сохранение…</string>
      <string name="backup_theme_success_message">Сохранение текущей темы завершено</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="basic_info">Basic Information</string>
+     <string name="basic_info">Информация</string>
      <string name="change_wallpaper">Обои</string>
      <string name="close">Закрыть</string>
      <string name="component_category_finest_title">Основные</string>
@@ -36,7 +32,7 @@
      <string name="description_designer">Дизайнер:</string>
      <string name="description_download">Скачано:</string>
      <string name="description_size">Размер:</string>
-     <string name="description_summary">Инфо:</string>
+     <string name="description_summary">Описание:</string>
      <string name="description_uploadtime">Обновление:</string>
      <string name="description_version">Версия:</string>
      <string name="description_version_szie">Версия: %1$s Размер: %2$s</string>
@@ -56,20 +52,14 @@
      <string name="mi_wallpaper">Mi обои</string>
      <string name="online_no_network">Не удается подключиться к сети</string>
      <string name="online_search_hint">Введите ключевые слова</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="payment_info">MiCredits Center</string>
-     <string name="resource_account_abnormal_state">Account error: Try again later.</string>
-     <string name="resource_account_current">Account: %1$s</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="resource_account_fail_to_add">Failed to add account.</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="resource_account_login">Sign In</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="resource_account_login_before_action">You need to sign in to your Xiaomi Account first.</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="resource_account_login_title">Sign In</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="resource_account_switch">Switch</string>
+     <string name="payment_info">Мой Mi</string>
+     <string name="resource_account_abnormal_state">Ошибка аккаунт. Попробуйте позже.</string>
+     <string name="resource_account_current">Аккаунт: %1$s</string>
+     <string name="resource_account_fail_to_add">Ошибка добавления аккаунта!</string>
+     <string name="resource_account_login">Войти</string>
+     <string name="resource_account_login_before_action">Войдите в свой аккаунт Xiaomi</string>
+     <string name="resource_account_login_title">Вход</string>
+     <string name="resource_account_switch">Сменить аккаунт</string>
      <string name="resource_alarm_default">Будильник</string>
      <string name="resource_app_name">Браузер ресурсов</string>
      <string name="resource_apply">Применить</string>
@@ -97,7 +87,6 @@
      <string name="resource_comment_invalid">Нажмите на звездочку, чтобы оценить</string>
      <string name="resource_comment_loading_list">Loading…</string>
      <string name="resource_comment_name_default">Пользователь %1$s</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="resource_comment_no_average_score">0.0</string>
      <string name="resource_comment_no_comment">Нет комментариев</string>
      <string name="resource_comment_publish">Отправить</string>
@@ -130,49 +119,36 @@
      <string name="resource_download">Скачать</string>
      <string name="resource_downloaded_title">Скачанные</string>
      <string name="resource_downloading">Скачивание</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="resource_exchange">Redeem</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="resource_exchange_confirm">Confirm</string>
-     <string name="resource_exchange_empty_format">Enter gift code!</string>
-     <string name="resource_exchange_has_bought">"You've already purchased this theme."</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="resource_exchange_has_expired">The code you entered has expired.</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="resource_exchange_has_used">The code you entered has already been used.</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="resource_exchange_hint">Enter your gift code</string>
-     <string name="resource_exchange_purchase_unkown_error">Yikes! An unknown error occurred. Sign in at http://market.xiaomi.com to view your payment status.</string>
-     <string name="resource_exchange_share_code_content">You received a gift code for the theme %1$s on the MIUI Theme Store. The code number is: %2$s. Touch %3$s to use it now.</string>
-     <string name="resource_exchange_share_code_dlg_content">The gift code you purchased for the theme %1$sis: %2$s. When you send it to another MIUI user, he or she can use it to download this theme.</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="resource_exchange_share_code_dlg_title">Sending</string>
-     <string name="resource_exchange_success">Enjoy! :)</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="resource_exchange_unavailable">The theme associated with the code you entered is not available.</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="resource_exchange_universal_finish">Use this code to download a theme from the MIUI Theme Store.</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="resource_exchange_universal_goon">This code can be used to download any theme in the store.</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="resource_exchange_window_title">Redeem</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="resource_exchange_wrong_format_by_local">The format of the code you entered is incorrect.</string>
-     <string name="resource_exchange_wrong_format_by_server">"Code was not verified. Make sure you've entered it correctly."</string>
+     <string name="resource_exchange">Принять</string>
+     <string name="resource_exchange_confirm">ОК</string>
+     <string name="resource_exchange_empty_format">Введите код!</string>
+     <string name="resource_exchange_has_bought">Вы уже купили эту тему</string>
+     <string name="resource_exchange_has_expired">Этот код истек</string>
+     <string name="resource_exchange_has_used">Этот код уже использован</string>
+     <string name="resource_exchange_hint">Введите код</string>
+     <string name="resource_exchange_purchase_unkown_error">Неизвестная ошибка. Войдите в аккаунт на http://market.xiaomi.com для простотра статуса оплаты.</string>
+     <string name="resource_exchange_share_code_content">Вы получили код на %1$s в магазине MIUI. Ваш MiCredit код: %2$s. Нажмите %3$s, чтобы использовать сейчас.</string>
+     <string name="resource_exchange_share_code_dlg_content">Приобретен код для %1$s: %2$s. Теперь Вы можете поделиться этим с друзьями.</string>
+     <string name="resource_exchange_share_code_dlg_title">Отправка кода</string>
+     <string name="resource_exchange_success">Наслаждайтесь! :)</string>
+     <string name="resource_exchange_unavailable">Код недоступен для этой темы</string>
+     <string name="resource_exchange_universal_finish">Используйте этот код для загрузки темы с магазина тем MIUI</string>
+     <string name="resource_exchange_universal_goon">Этот код может быть использован для загрузки любой темы из магазина MIUI</string>
+     <string name="resource_exchange_window_title">Принять</string>
+     <string name="resource_exchange_wrong_format_by_local">Введен неправильный код</string>
+     <string name="resource_exchange_wrong_format_by_server">Код не может быть подтвержден. Проверьте его и попробуйте еще раз.</string>
      <string name="resource_expand_full_text">Раскрыть</string>
      <string name="resource_get_auth_checking">Проверка авторизации…</string>
      <string name="resource_get_auth_exceed_max_limit_tips">Тема не может работать на текущем устройстве с Вашего аккаунта, т.к. ограничение составляет до 10 мобильных устройств каждый год. Пожалуйста, попробуйте другие аккаунты Xiaomi.</string>
      <string name="resource_get_auth_exceed_max_limit_title">Превышен предел авторизаций</string>
      <string name="resource_get_auth_missing">Тема не скачана с официального маркета. Пожалуйста, скачайте аналогичную тему из официального маркета.</string>
      <string name="resource_get_auth_retrieving">Получение авторизации…</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="resource_hint">Alert</string>
      <string name="resource_import_successful">Загрузка завершена</string>
      <string name="resource_importing">Импортирование</string>
      <string name="resource_list_title">Последние</string>
      <string name="resource_local">Локально %1$s</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="resource_menu_refresh">Refresh</string>
+     <string name="resource_menu_refresh">Обновить</string>
      <string name="resource_mute">Нет</string>
      <string name="resource_my">Телефон</string>
      <string name="resource_no_result">Нет результата</string>
@@ -182,27 +158,23 @@
      <string name="resource_pack_discount_info">%1$s скидка!</string>
      <string name="resource_pack_price_info">%1$s обычная</string>
      <string name="resource_pack_warning">Внимание. Вы уже приобрели %1$d элементов. Текущая цена больше не актуальна. Необходимо приобрести их по отдельности.</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="resource_present">Gift</string>
+     <string name="resource_present">Подарок</string>
      <string name="resource_preview">Просмотр</string>
      <string name="resource_price_free">Бесплатно</string>
-     <string name="resource_price_unit">" MiCredit"</string>
-     <string name="resource_purchase_getting_order">Retrieving order info…</string>
-     <string name="resource_purchase_verifying_payment">Verifying payment info…</string>
-     <string name="resource_purchase_waiting_payment">Waiting for payment info…</string>
+     <string name="resource_price_unit">" Mi"</string>
+     <string name="resource_purchase_getting_order">Получение даннных заказа…</string>
+     <string name="resource_purchase_verifying_payment">Проверка оплаты…</string>
+     <string name="resource_purchase_waiting_payment">Ожидание проверки оплаты…</string>
      <string name="resource_ranking">Топ</string>
      <string name="resource_ranking_free">Бесплатные</string>
      <string name="resource_ranking_purchase">Платные</string>
      <string name="resource_ringtone_default">Мелодии</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="resource_ringtone_volume_mute">Your ringer is currently silenced.</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="resource_save_to_note">Save to Notes</string>
+     <string name="resource_ringtone_volume_mute">Громкость мелодии отключена</string>
+     <string name="resource_save_to_note">Сохранить в заметки</string>
      <string name="resource_see_more">Подробнее</string>
      <string name="resource_select">Выбрать</string>
      <string name="resource_selected">Лучшее</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="resource_send">Send</string>
+     <string name="resource_send">Отправить</string>
      <string name="resource_server_alert_dialog_title">Технические неполадки</string>
      <string name="resource_server_out_of_service">Сервис не доступен. Попробуйте позже.</string>
      <string name="resource_share_subject">Поделиться: %1$s</string>
@@ -212,20 +184,17 @@
      <string name="resource_tip_select_ringtone">Мелодия не выбрана</string>
      <string name="resource_title">Сведения</string>
      <string name="resource_title_select_ringtone">Выберите мелодию</string>
-     <string name="resource_unable_to_access">"We're sorry
-the content you're looking for is not currently available in your region."</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="resource_unknow_error">Unkown error.</string>
+     <string name="resource_unable_to_access">"К сожалению,
+контент который Вы сейчас смотрите, в настоящее время недоступен в Вашем регионе"</string>
+     <string name="resource_unknow_error">Неизвестная ошибка</string>
      <string name="resource_update">Обновить</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="resource_user_know">OK</string>
      <string name="resource_waiting_download">Ожидание</string>
      <string name="restore_default_theme_alert">Вы можете стать жертвой подделки темы. Перейдите в магазин тем, чтобы купить или повторно загрузить тему.</string>
      <string name="sdcard_not_mounted_dialog_message">"Вставьте SD-карту"</string>
      <string name="sdcard_not_mounted_dialog_title">SD-карта не обнаружена</string>
      <string name="selected_resource_file_invalid">Выбранный файл неверный</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="settings">Setting</string>
+     <string name="settings">Настройки</string>
      <string name="short_ringtone_resource">Короткие</string>
      <string name="theme_batch_has_update_text">Тем для обновления: %1$d</string>
      <string name="theme_batch_update_all">Обновить все</string>
@@ -271,8 +240,7 @@ the content you're looking for is not currently available in your region."</stri
      <string name="title_local">Телефон</string>
      <string name="title_online">Онлайн</string>
      <string name="title_system_resource">Системные</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="to_activate_the_account">Activate your Xiaomi account now.</string>
+     <string name="to_activate_the_account">Активируйте свой аккаунт Xiaomi</string>
      <string name="wallpaper_crop">Обрезать</string>
      <string name="wallpaper_decoded_error">Ошибка</string>
      <string name="wallpaper_loading_text">Загрузка…</string>

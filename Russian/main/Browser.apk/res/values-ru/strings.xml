@@ -28,7 +28,8 @@
      <string name="add_bookmark_short">Добавить</string>
      <string name="add_folder">Новая папка</string>
      <string name="add_new_bookmark">Добавить закладку</string>
-	 <string name="add_quicklink_to_popular">Добавить на главную</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="add_quicklink_to_popular">Добавить на стартовую</string>
      <string name="add_to_bookmarks_menu_option">Закладки</string>
      <string name="add_to_homescreen_menu_option">Главный экран</string>
      <string name="add_to_other_folder_menu_option">Другая папка</string>
@@ -472,14 +473,17 @@
      <string name="pref_zoom_on_double_tap">Увеличение двойным нажатием</string>
      <string name="preview">Предварительный просмотр</string>
      <string name="progress_dialog_setting_wallpaper">Установка обоев…</string>
-	 <string name="quicklink_saved_before">Сайт добавлен на стартовую страницу</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="quicklink_saved_before">Сайт уже добавлен</string>
      <string name="quicklink_user_define_webpage_title">Имя</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="quicklink_user_define_webpage_url">URL</string>
      <string name="quicklinks_group_default_subtitle">Пусто</string>
      <string name="quicklinks_management">Полезные сайты</string>
      <string name="quicklinks_most_visited">Добавить сайт на главную</string>
      <string name="quicklinks_most_visited_subtitle">Добавить плитку вашего сайта на главный экран</string>
-	 <string name="quicklinks_most_visited_title">Добавить на стартовую</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="quicklinks_most_visited_title">Добавить на стартовую</string>
      <string name="readmode_already_add_to_bookshelf">Уже добавлено на книжную полку</string>
      <string name="readmode_battery">Батарея </string>
      <string name="readmode_login">Войти</string>
@@ -543,8 +547,8 @@
      <string name="security_warning">Угроза безопасности</string>
      <string name="select_dot">Выбрать текст</string>
      <string name="send_bookmark_to_home_screen">Создать ярлык на рабочем столе</string>
-     <string name="send_to_desktop">На стол</string>
-	 <string name="send_to_popular">В избранные</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="send_to_popular">В популярные</string>
      <string name="set_as_homepage">Сделать главной страницей</string>
      <string name="share_link">Поделиться</string>
      <string name="share_page">Поделиться</string>
@@ -591,13 +595,23 @@
      <string name="warning">Внимание</string>
      <string name="webapp_add_to_desktop">Добавить на стол</string>
      <string name="webapp_addtodeskpop_append">Добавлено</string>
+     <string name="webapp_app0">miui.browser.webapps.app.WebApps$App0</string>
+     <string name="webapp_app1">miui.browser.webapps.app.WebApps$App1</string>
+     <string name="webapp_app2">miui.browser.webapps.app.WebApps$App2</string>
+     <string name="webapp_app3">miui.browser.webapps.app.WebApps$App3</string>
+     <string name="webapp_app4">miui.browser.webapps.app.WebApps$App4</string>
+     <string name="webapp_app5">miui.browser.webapps.app.WebApps$App5</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="webapp_app_name">MiMarket Web Store</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="webapp_autohority">miui.browser.webapps</string>
      <string name="webapp_bottom_bar_addtodesk">На стол</string>
      <string name="webapp_bottom_bar_exit">Выход</string>
      <string name="webapp_bottom_bar_hidebar">Скрыть бар</string>
      <string name="webapp_bottom_bar_openbrowser">Открыть в браузере</string>
      <string name="webapp_bottom_bar_showbar">Показать бар</string>
      <string name="webapp_dialog_title">Добавить приложение на рабочий стол?</string>
+     <string name="webapp_pref_addtodesktop_popover">webapp_pref_addtodesktop_popover</string>
      <string name="webapp_splashview_loading">Загрузка, подождите…</string>
      <string name="webapp_web_forward">Вперед</string>
      <string name="webapp_web_goback">Назад</string>

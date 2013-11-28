@@ -214,18 +214,15 @@
      <string name="mx_activate_int_hint_malformed_info">Ваши личные данные повреждены. Требуется отправка международного SMS для повторной активации облачных сообщений. Активировать?</string>
      <string name="mx_activate_int_hint_server">Сервер отклонил запрос активации. Требуется отправка международного SMS для повторной активации облачных сообщений. Активировать?</string>
      <string name="mx_activate_int_hint_sim_change">SIM карта изменилась. Требуется отправка международного SMS для повторной активации облачных сообщений. Активировать?</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="mx_activate_int_popup_msg">Messaging enables MIUI users to send messages amongst themselves without using mobile data.</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="mx_activate_popup_msg">Cloud messaging enables MIUI users to send messages amongst themselves without using mobile data.</string>
+     <string name="mx_activate_int_popup_msg">MiMessaging позволяет пользователям MIUI отправлять друг другу сообщения без использования мобильного интернета</string>
+     <string name="mx_activate_popup_msg">Облачные сообщения позволяют пользователям MIUI отправлять друг другу сообщения без использования мобильного интернета</string>
      <string name="mx_activation_done">Облачные сообщения включены</string>
      <string name="mx_auto_resend_mms">Отправить как MMS</string>
      <string name="mx_auto_resend_mms_summary">Отправлять сообщения как MMS, когда облачные сообщения не доступны</string>
      <string name="mx_auto_resend_sms">Отправить как SMS</string>
      <string name="mx_auto_resend_sms_summary">Отправлять сообщения как SMS, когда облачные сообщения не доступны</string>
      <string name="mx_btn_enable">Включить</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="mx_btn_enable_now">Enable</string>
+     <string name="mx_btn_enable_now">Включить</string>
      <string name="mx_count_dspt">"Облачных сообщений отправлено: 
 SMS (%1$d), MMS (%2$d)"</string>
      <string name="mx_current_status">Статус: в сети</string>
@@ -330,8 +327,7 @@ SMS (%1$d), MMS (%2$d)"</string>
      <string name="rate_limit_surpassed">Подтвердить</string>
      <string name="received_label">"Получено: "</string>
      <string name="recipient_label">"Получатель: "</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="refill_now">Refill now</string>
+     <string name="refill_now">Пополнить</string>
      <string name="refresh">Обновить</string>
      <string name="refresh_failed">Обновление не выполнено</string>
      <string name="refreshing">Обновление…</string>
