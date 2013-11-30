@@ -59,14 +59,6 @@
         <item>Цифровой пароль</item>
         <item>Смешанный пароль</item>
      </string-array>
-     <string-array name="dndm_auto_time_trun_on_off">
-        <item>@string/dndm_auto_time_turn_on</item>
-        <item>@string/dndm_auto_time_turn_off</item>
-     </string-array>
-     <string-array name="dndm_vip_list_group_array">
-        <item>@string/dndm_vip_list_custom</item>
-        <item>@string/dndm_vip_list_contact</item>
-     </string-array>
      <string-array name="dream_timeout_entries">
         <item>Никогда</item>
         <item>15 сек.</item>
@@ -94,12 +86,6 @@
         <item>Крупный</item>
         <item>Огромный</item>
      </string-array>
-     <integer-array name="font_size_preference_preview_size">
-        <item>14</item>
-        <item>18</item>
-        <item>22</item>
-        <item>27</item>
-     </integer-array>
      <string-array name="haptic_feedback_level_entries">
         <item>Сильный</item>
         <item>Средний</item>
