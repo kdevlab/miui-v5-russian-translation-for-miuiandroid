@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Wi-Fi дислей</string>
+    <string name="miracast_hdmi_title">HDMI</string>
+    <string name="miracast_hdmi_unavailable">Недоступен из-за активного Wi-Fi дислей</string>
+    <string name="miracast_hdcp_title">Ошибка проверки подлинности %1$s</string>
+    <string name="miracast_hdcp_failure_text">Премиум содержимое не может быть отображено</string>
+    <string name="miracast_connection_status_discovery">"Поиск "</string>
+    <string name="miracast_connection_status_progress">"Подключение к "</string>
+    <string name="miracast_connection_status_connected">"Транслируется на "</string>
+    <string name="miracast_connection_status_warning_conn_failed">"Не удалось найти "</string>
+    <string name="miracast_connection_status_warning_conn_lost">"Потеряно подключение к "</string>
+    <string name="miracast_connection_status_warning_auth_failed">"Проблема аутентификации с "</string>
+    <string name="miracast_access_settings_title">Доступ Wi-Fi дислей</string>
+</resources>

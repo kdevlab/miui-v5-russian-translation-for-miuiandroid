@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Местоположение сети</string>
+    <string name="location_warning_title">Автогеопозиционирование</string>
+    <string name="location_warning_message">Разрешить службе автогеопозиционирования собирать анонимные данные о местоположении? Некоторые из них могут храниться на устройстве. Сбор сведений может проходить даже тогда, когда ни одно из приложений не запущено.</string>
+    <string name="agree">Принимаю</string>
+    <string name="disagree">Не принимаю</string>
+</resources>
