@@ -1,80 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!-- Builded with CloudBuildr -->
 <resources>
-    <string-array name="sleep_duration_values">
-        <item>15 минут</item>
-        <item>30 минут</item>
-        <item>45 минут</item>
-        <item>1 час</item>
-    </string-array>
-    <string-array name="search_category_rbds_entries">
-        <item>Все станции</item>
-        <item>Старые хиты</item>
-        <item>Классика</item>
-        <item>Классический рок</item>
-        <item>Колледж</item>
-        <item>Кантри</item>
-        <item>Энергичные</item>
-        <item>Энергичные Test</item>
-        <item>Иностранные</item>
-        <item>Информационные</item>
-        <item>Джаз</item>
-        <item>Новости</item>
-        <item>Ностальгия</item>
-        <item>Старые песни</item>
-        <item>Персональные</item>
-        <item>Общественные</item>
-        <item>Религиозная музыка</item>
-        <item>Религиозные разговоры</item>
-        <item>Ритм и блюз</item>
-        <item>Рок</item>
-        <item>Софт</item>
-        <item>Софт рок</item>
-        <item>Софт ритм и блюз</item>
-        <item>Спортивные</item>
-        <item>Разговоры</item>
-        <item>Топ 40</item>
-        <item>Погода</item>
-    </string-array>
-    <string-array name="search_category_rds_entries">
-        <item>Все станции</item>
-        <item>Культура</item>
-        <item>Текущие вопросы</item>
-        <item>Детские станции</item>
-        <item>Кантри</item>
-        <item>Документальные</item>
-        <item>Драма</item>
-        <item>Спокойная музыка</item>
-        <item>Образование</item>
-        <item>Энергия</item>
-        <item>Энергия тест</item>
-        <item>Финансы</item>
-        <item>Народная музыка</item>
-        <item>Информационные</item>
-        <item>Джазовая музыка</item>
-        <item>Легкая классика</item>
-        <item>Досуг</item>
-        <item>Новости</item>
-        <item>Национальная музыка</item>
-        <item>Прочая музыка</item>
-        <item>Старая музыка</item>
-        <item>Телефонная</item>
-        <item>Поп-музыка</item>
-        <item>Религия</item>
-        <item>Рок-музыка</item>
-        <item>Наука</item>
-        <item>Строгая классика</item>
-        <item>Социальные вопросы</item>
-        <item>Спорт</item>
-        <item>Путешествия</item>
-        <item>Разные</item>
-        <item>Погода</item>
-    </string-array>
-    <string-array name="presetlist_edit_category">
+     <string-array name="cfg_rf">
+        <item>Установить FM RSSI Delta</item>
+        <item>Установить порог сигнала</item>
+        <item>Статистика RF</item>
+     </string-array>
+     <string-array name="presetlist_edit_category">
         <item>Переименовать</item>
         <item>Автовыбор</item>
         <item>Удалить</item>
-    </string-array>
-    <string-array name="regional_band_entries">
+     </string-array>
+     <string-array name="regional_band_entries">
         <item>Северная Америка</item>
         <item>Европа</item>
         <item>Япония</item>
@@ -111,8 +48,8 @@
         <item>Турция</item>
         <item>Соединенное Королевство</item>
         <item>Соединенные Штаты Америки</item>
-    </string-array>
-    <string-array name="regional_band_summary">
+     </string-array>
+     <string-array name="regional_band_summary">
         <item>Северная Америка (87,5 МГц до 108.0 МГц с шагом 200 кГц)</item>
         <item>Европа (87,5 МГц до 108.0 МГц с шагом 100 кГц)</item>
         <item>Япония (76.0 МГц до 90.0 МГц с шагом 100 кГц)</item>
@@ -149,22 +86,86 @@
         <item>Турция (87,5 МГц до 108.0 МГц с шагом 100 кГц)</item>
         <item>Соединенное Королевство (87,5 МГц до 108.0 МГц с шагом 100 кГц)</item>
         <item>Соединенные Штаты Америки (88,1 МГц до 107,9 МГц с шагом 200 кГц)</item>
-    </string-array>
-    <string-array name="rf_cfg">
+     </string-array>
+     <string-array name="rf_cfg">
         <item>Получить текущие параметры станции</item>
         <item>Получить параметры станции с повтором 20 раз</item>
         <item>Получить параметры поиска станции</item>
         <item>Получить информацию исполнителей</item>
         <item>Настроить параметры поиска FM</item>
-    </string-array>
-    <string-array name="cfg_rf">
-        <item>Установить FM RSSI Delta</item>
-        <item>Установить порог сигнала</item>
-        <item>Статистика RF</item>
-    </string-array>
-    <string-array name="stats_options">
+     </string-array>
+     <string-array name="search_category_rbds_entries">
+        <item>Все станции</item>
+        <item>Старые хиты</item>
+        <item>Классика</item>
+        <item>Классический рок</item>
+        <item>Колледж</item>
+        <item>Кантри</item>
+        <item>Энергичные</item>
+        <item>Энергичные Test</item>
+        <item>Иностранные</item>
+        <item>Информационные</item>
+        <item>Джаз</item>
+        <item>Новости</item>
+        <item>Ностальгия</item>
+        <item>Старые песни</item>
+        <item>Персональные</item>
+        <item>Общественные</item>
+        <item>Религиозная музыка</item>
+        <item>Религиозные разговоры</item>
+        <item>Ритм и блюз</item>
+        <item>Рок</item>
+        <item>Софт</item>
+        <item>Софт рок</item>
+        <item>Софт ритм и блюз</item>
+        <item>Спортивные</item>
+        <item>Разговоры</item>
+        <item>Топ 40</item>
+        <item>Погода</item>
+     </string-array>
+     <string-array name="search_category_rds_entries">
+        <item>Все станции</item>
+        <item>Культура</item>
+        <item>Текущие вопросы</item>
+        <item>Детские станции</item>
+        <item>Кантри</item>
+        <item>Документальные</item>
+        <item>Драма</item>
+        <item>Спокойная музыка</item>
+        <item>Образование</item>
+        <item>Энергия</item>
+        <item>Энергия тест</item>
+        <item>Финансы</item>
+        <item>Народная музыка</item>
+        <item>Информационные</item>
+        <item>Джазовая музыка</item>
+        <item>Легкая классика</item>
+        <item>Досуг</item>
+        <item>Новости</item>
+        <item>Национальная музыка</item>
+        <item>Прочая музыка</item>
+        <item>Старая музыка</item>
+        <item>Телефонная</item>
+        <item>Поп-музыка</item>
+        <item>Религия</item>
+        <item>Рок-музыка</item>
+        <item>Наука</item>
+        <item>Строгая классика</item>
+        <item>Социальные вопросы</item>
+        <item>Спорт</item>
+        <item>Путешествия</item>
+        <item>Разные</item>
+        <item>Погода</item>
+     </string-array>
+     <string-array name="sleep_duration_values">
+        <item>15 минут</item>
+        <item>30 минут</item>
+        <item>45 минут</item>
+        <item>1 час</item>
+     </string-array>
+     <string-array name="stats_options">
         <item>Выберите параметр</item>
         <item>Настройки поиска FM</item>
         <item>Статистика RF</item>
-    </string-array>
+     </string-array>
 </resources>
