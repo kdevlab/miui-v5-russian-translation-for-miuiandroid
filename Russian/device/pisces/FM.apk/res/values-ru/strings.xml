@@ -109,7 +109,7 @@
     <string name="alert_title_delete">Удаление станции</string>
     <string name="alert_message_delete_station">Удалить радиостанцию?</string>
     <string name="toast_delete_station">%sМГц удалена</string>
-    <string name="msg_noantenna_message">Подключите наушники</string>
+    <string name="msg_noantenna_message">Для улучшения качества звука подключите наушники</string>
     <string name="msg_do_not_support_fm">FM радио не поддерживается на этом устройстве</string>
     <string name="exit_fm">Выход</string>
     <string name="toast_sleep_mode">Радио будет отключено через %s</string>
