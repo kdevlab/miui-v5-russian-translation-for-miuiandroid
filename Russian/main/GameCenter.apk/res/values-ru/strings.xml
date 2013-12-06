@@ -39,16 +39,8 @@
      <string name="client_update_now">Обновить</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="comment_cannot_comment">Чтобы оставить комментарий, скачайте приложение</string>
-     <!-- The count of MNPS does not match! Now: 1 must: 2
-	%s: 1 must: 2
-	%d: 0 must: 0 -->
-     <!-- Original string: %1$s scores %2$s comments in total -->
-     <string name="comment_count">Коментариев: %1$s</string>
-     <!-- The count of MNPS does not match! Now: 2 must: 4
-	%s: 1 must: 4
-	%d: 0 must: 0 -->
-     <!-- Original string: %1$s comment on %2$s:%3$s:%4$s -->
-     <string name="comment_description">%1$s%2$1s</string>
+     <string name="comment_count">Оценок: %1$s Коментариев: %2$s</string>
+     <string name="comment_description">%1$s комментакрий к %2$s:%3$s:%4$s</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="comment_invalid">Нажмите на звезды, чтобы оценить</string>
      <string name="comment_name_default">Пользователь %1$s</string>
@@ -97,11 +89,7 @@
      <string name="edit_comment">Изменить комментарий</string>
      <string name="edit_comment_title">Редактирование: %1$s</string>
      <string name="edit_text_default">Пожалуйста, введите комментарий</string>
-     <!-- The count of MNPS does not match! Now: 1 must: 1
-	%s: 1 must: 0
-	%d: 0 must: 1 -->
-     <!-- Original string: %d Updates -->
-     <string name="enable_updata_local_app">%1$s приложений можно обновить</string>
+     <string name="enable_updata_local_app">%d приложений можно обновить</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="expand_full_text">Развернуть</string>
      <string name="expand_full_text_comment">Развернуть весь текст▼</string>

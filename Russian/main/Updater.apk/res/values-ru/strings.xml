@@ -19,20 +19,20 @@
      <string name="apply_upload_info_message">Нажмите «Обновить», телефон будет автоматически перезагружен для применения обновлений</string>
      <string name="apply_upload_info_message_manually">Вы можете сами установить обновление с SD-карты (%s)</string>
      <string name="applying_rom_message">Применение обновления</string>
-     <string name="applying_update">Применение обновления...%s</string>
+     <string name="applying_update">Применение обновления… %s</string>
      <string name="best_update">2. Лучшее обновление</string>
      <string name="boot_recovery">Перезагрузка в Recovery</string>
      <string name="cancel_download_buton_text">Отмена</string>
      <string name="check_update">Обновление</string>
-     <string name="check_update_policy">Параметры обновления</string>
-     <string name="check_update_when_wifi_available">Обновления только через Wi-Fi</string>
+     <string name="check_update_policy">Настройки обновления</string>
+     <string name="check_update_when_wifi_available">Обновлять только по Wi-Fi</string>
      <string name="checking_for_updates">Проверка обновлений</string>
      <string name="choose_recommend">Пожалуйста, выберите рекомендуете или нет</string>
      <string name="comment_invalid">Пожалуйста, нажмите на звездочки, чтобы выбрать оценку</string>
      <string name="comment_publish">Отправить</string>
-     <string name="comment_sending">Отправка комментария...</string>
+     <string name="comment_sending">Отправка комментария…</string>
      <string name="comment_upload_failed">Ошибка отправки комментария</string>
-     <string name="comment_upload_hint">Спасибо за ваш комментарий.</string>
+     <string name="comment_upload_hint">Спасибо за Ваш комментарий</string>
      <string name="comment_upload_not_logined">Пожалуйста, зайдите в аккаунт</string>
      <string name="comment_upload_success">Комментарий отправлен!</string>
      <string name="confirm_download_cancelation_dialog_message">Вы уверены, что хотите отменить загрузку обновления?</string>
@@ -46,7 +46,7 @@
      <string name="download_current_rom">Загрузить прошивку</string>
      <string name="download_ota_rom">Обновление (%s)</string>
      <string name="download_whole_rom">Полный пакет (%s)</string>
-     <string name="downloading_description">Загрузка...</string>
+     <string name="downloading_description">Загрузка…</string>
      <string name="edit_comment">Комментарий</string>
      <string name="edit_comment_title">Редактирование комментария</string>
      <string name="edit_text_default">Написать комментарий</string>
@@ -57,7 +57,7 @@
      <string name="file_not_found_error_message">Файл не существует или к нему нет доступа, попробуйте еще раз</string>
      <string name="finish">Готово</string>
      <string name="finish_download">Загрузка завершена</string>
-     <string name="fourgrid_hint_text">Благодарим вас за использование MIUI для разработчиков. Расскажите, пожалуйста, что вы думаете и помогите нам сделать MIUI лучше.</string>
+     <string name="fourgrid_hint_text">Благодарим вас за использование MIUI для разработчиков. Расскажите, пожалуйста, что Вы думаете и помогите нам сделать MIUI лучше.</string>
      <string name="fourgrid_no_notificaiont">"Не показывать в статус баре"</string>
      <string name="fourgrid_notificaiont">Показывать в статус баре</string>
      <string name="get_update_error">Ошибка получения информации</string>
@@ -124,12 +124,12 @@
      <string name="sign_in_info">"Рейтинг обновления: %1$s%%
 %2$s
 Версия: %3$s"</string>
-     <string name="sign_in_info_rank_more">"Ваш номер рейтинга обновления более %1$s
+     <string name="sign_in_info_rank_more">"Ваш рейтинг обновления более %1$s
 Более %2$s пользователей установили MIUI %3$s."</string>
-     <string name="sign_in_info_total_more">"Ваш номер рейтинга обновления более %1$s
+     <string name="sign_in_info_total_more">"Ваш рейтинг обновления более %1$s
 Более %2$s пользователей установили MIUI %3$s."</string>
      <string name="sina_share_fail">Ошибка отправки!</string>
-     <string name="sina_share_pendding">Отправка...</string>
+     <string name="sina_share_pendding">Отправка…</string>
      <string name="sina_share_success">Отправка завершена!</string>
      <string name="sina_token_expired_warning">Срок аккаунта Weibo истек, переподключитесь</string>
      <string name="sina_token_invalid_warning">Ошибка в аккаунте Weibo, переподключитесь</string>
@@ -137,7 +137,7 @@
      <string name="start_update">Начать обновление</string>
      <string name="submit">Отправить</string>
      <string name="submit_fail">Ошибка отправки</string>
-     <string name="submit_progress">Отправка...</string>
+     <string name="submit_progress">Отправка…</string>
      <string name="submit_success">Отправлено!</string>
      <string name="system_backup_apply_helper">Устройство автоматически перезагрузится после применения обновления. </string>
      <string name="system_backup_ask">Спрашивать снова</string>
@@ -163,8 +163,7 @@
      <string name="update_success">Обновление успешно завершено!</string>
      <string name="update_success_body">Обновлено до %s</string>
      <string name="update_success_title">Обновление</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="updater_finish_download">Download ROM completed</string>
+     <string name="updater_finish_download">Загрузка прошивки завершена</string>
      <string name="upgrade_close">Закрыть</string>
      <string name="upgrade_kernel">Обновления ядра</string>
      <string name="upgrade_kernel_msg">"Ваше ядро несовместимо с прошивкой MIUI. Вы должны обновить его вручную. Зайтите на сайт, чтобы узнать как обновить ядро:

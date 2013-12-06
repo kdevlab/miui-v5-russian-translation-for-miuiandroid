@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Builded with CloudBuildr -->
 <resources>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="account_not_activated">Your account is not activated, please activate it and try again</string>
-     <string name="activate_now">activate_now</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="account_not_activated">Аккаунт не активирован. Активируйте и попробуйте еще раз.</string>
      <string name="ad_indicator">AD</string>
      <string name="all_comments">Все</string>
      <string name="already_bottom">Конец</string>
@@ -25,7 +22,7 @@
      <string name="clear_cache_message">Очистить кэш?</string>
      <string name="clear_cache_succeed">Кэш очищен</string>
      <string name="clear_search_record_message">Очистить историю поиска?</string>
-     <string name="clear_session_message">Clear session?</string>
+     <string name="clear_session_message">Очистить сессию?</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="comment_1_star">1</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
@@ -74,8 +71,7 @@
      <string name="diagnostics_content_hint">Диагностика:</string>
      <string name="diagnostics_data_cost_hint">Диагностика будет использовать около 100 Кб трафика мобильного интернета</string>
      <string name="diagnostics_data_sending">Отправка журнала…</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="diagnostics_data_upload_failed">Upload failed, please try again</string>
+     <string name="diagnostics_data_upload_failed">Загрузка не удалась. Повторите еще раз.</string>
      <string name="diagnostics_data_upload_success">Отправка завершена</string>
      <string name="diagnostics_desc">Диагности поможет избежать проблемы сети. Будет создан журнал отладки и отправлен разработчикам.</string>
      <string name="diagnostics_dns_ip">2.IP адрес разрешен по DNS</string>
@@ -85,8 +81,7 @@
      <string name="diagnostics_title">Диагностика сети</string>
      <string name="download_fail">Загрузка не удалась</string>
      <string name="download_start_fail">Загрузка не удалась</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="downloading">Pause</string>
+     <string name="downloading">Пауза</string>
      <string name="edit_comment">Добавить комментарий</string>
      <string name="edit_comment_title">Комментариев: %1$s</string>
      <string name="edit_text_default">Введите комментарий</string>
@@ -163,8 +158,7 @@
      <string name="login_active_title">Ваш аккаунт не активирован, активировать его сейчас?</string>
      <string name="login_download_title">Вход в аккаунт Xiaomi</string>
      <string name="login_first_install_title">Вход в аккаунт Xiaomi</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="login_now">login now</string>
+     <string name="login_now">Войти</string>
      <string name="login_ok">Вход</string>
      <string name="login_skip">Пропустить</string>
      <string name="management_tag">Мои</string>
@@ -186,52 +180,40 @@
      <string name="menu_update">Обновить</string>
      <string name="more_app">Что топового</string>
      <string name="more_subject">Колекции</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="my_app">My apps</string>
+     <string name="my_app">Мои приложения</string>
      <string name="new_app_tag">Новый</string>
      <string name="no_average_score">Нет средней оценки</string>
      <string name="no_change_log">Нет подробностей обновления</string>
      <string name="no_comment">Нет комментариев</string>
      <string name="no_data">Ошибка сети, проверьте соединение</string>
      <string name="no_description">Нет подробностей</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="no_favorites">You have no collections</string>
+     <string name="no_favorites">Пусто</string>
      <string name="no_fitness">Упс! Нет нужных приложений, попробуйте поиск :)</string>
      <string name="no_local_apps">Нет установленных приложений</string>
      <string name="no_network">Нет доступа к интернету. Проверьте подключение и повторите заново :)</string>
      <string name="no_search">Невозможно найти приложение</string>
      <string name="no_update">Нет доступных обновлений</string>
      <string name="no_update_records">Нет истории обновлений</string>
-     <string name="notif_auto_update_failed">Автоматическое обновление приложений не удалось.</string>
-     <string name="notif_auto_update_successfull">Выполняется втоматическое обновление приложения: %1$s.</string>
+     <string name="notif_auto_update_failed">Автоматическое обновление приложений не удалось</string>
+     <string name="notif_auto_update_successfull">Выполняется автоматическое обновление приложения: %1$s</string>
      <string name="notif_auto_update_via_wifi">Обновлено: %1$s</string>
      <string name="notif_delta_update_successful">Дельта обновление %1$s завершено.</string>
-     <string name="notif_delta_update_successful_default">Delta updated，saving %1$s…</string>
+     <string name="notif_delta_update_successful_default">Обновлено，сохранение %1$s…</string>
      <string name="notif_description_from_market">Через Xiaomi market</string>
      <string name="notif_install_failed">%1$s ошибка установки</string>
-     <!-- The count of MNPS does not match! Now: 1 must: 0
-	%s: 1 must: 0
-	%d: 0 must: 0 -->
-     <!-- Original string: Installed. -->
-     <string name="notif_install_successful">Установлено: %1$s</string>
-     <!-- The count of MNPS does not match! Now: 1 must: 0
-	%s: 1 must: 0
-	%d: 0 must: 0 -->
-     <!-- Original string: Installed. -->
-     <string name="notif_install_successful_default">%1$s установлено</string>
+     <string name="notif_install_successful">Установлено</string>
+     <string name="notif_install_successful_default">Установлено</string>
      <string name="notif_installing">Установка %1$s…</string>
      <string name="notif_summary_auto_update_failed">Нажмите для продолжения.</string>
      <string name="notif_summary_auto_update_successful">Обновлено: %1$s.</string>
      <string name="notif_title_update">%1$s обновлений</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="notif_update_successful">Updated.</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="notif_update_successful_default">Updated.</string>
+     <string name="notif_update_successful">Обновлено</string>
+     <string name="notif_update_successful_default">Обновлено</string>
      <string name="package_size">Размер: %1$s Мб</string>
      <string name="package_size_calculating">Вычисление размера…</string>
      <string name="paused">Ожидание</string>
      <string name="pending">Ожидание</string>
-     <string name="permission_button">Permissions(%1$s)</string>
+     <string name="permission_button">Разрешения(%1$s)</string>
      <string name="permission_extra">Прочий доступ</string>
      <string name="permission_risky_money">Платно</string>
      <string name="permission_risky_privacy">Доступ к приватным настройкам</string>
@@ -250,8 +232,7 @@
      <string name="pref_title_auto_update_via_wifi_checkbox">Автообновление</string>
      <string name="pref_title_clear_cache">Очистить кэш</string>
      <string name="pref_title_clear_search_record">Очистить историю поиска</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="pref_title_clear_session">Clear session</string>
+     <string name="pref_title_clear_session">Очистка сессии</string>
      <string name="pref_title_data_save">Отображение изображений</string>
      <string name="pref_title_hotsubjects_notification">Сообщить о последней теме</string>
      <string name="pref_title_network_diagnostics">Диагностика сети</string>
@@ -263,11 +244,10 @@
      <string name="rank_tag">Рейтинг</string>
      <string name="rating_button">Оценок: %1$s</string>
      <string name="recommendation_tag">Топ</string>
-     <string name="remove_package_fail">Failed to install: process timed out.</string>
+     <string name="remove_package_fail">Ошибка установки: process timed out.</string>
      <string name="result_notice">Результаты предоставляемые Baidu App Center</string>
      <string name="result_of_clear_history">История очищена</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="resume">Resume</string>
+     <string name="resume">Продложить</string>
      <string name="search_local_app_text_hint">Поиск приложений в %1$d установленных</string>
      <string name="search_not_found">\"%1$s\" не найдено</string>
      <string name="search_other_market">Похожие</string>
@@ -284,15 +264,12 @@
      <string name="share_to_weibo">Отправить в sina weibo</string>
      <string name="show_all_local_app">Показать все установленные</string>
      <string name="show_all_local_app_with_count">Показать все установленные (%1$d)</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="show_report_data">Show report data</string>
+     <string name="show_report_data">Показать отчет</string>
      <string name="size_interval">%1$d~%2$d Мб</string>
      <string name="size_more_than_one_hundred">Более 100 МБ</string>
      <string name="system_app_sign_not_match_fail">Ошибка обновления: некорректная подпись приложения</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="tab_favorites">Favorites</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="tab_local_apps">Local apps</string>
+     <string name="tab_favorites">Избранные</string>
+     <string name="tab_local_apps">Телефон</string>
      <string name="temporarily_invalid_report_data">Oops! The report is temporarily invalid!</string>
      <string name="update">Обновить</string>
      <string name="update_all">Обновить все</string>
