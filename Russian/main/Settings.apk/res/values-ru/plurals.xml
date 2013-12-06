@@ -25,4 +25,16 @@
         <item quantity="other">Пароль должен содержать заглавные буквы (не менее %d)</item>
         <item quantity="one">Пароль должен содержать хотя бы 1 заглавную букву</item>
      </plurals>
+     <plurals name="power_center_battery_day">
+        <item quantity="other">"%d дн. "</item>
+        <item quantity="one">"%d дн. "</item>
+     </plurals>
+     <plurals name="power_center_battery_hour">
+        <item quantity="other">"%d ч. "</item>
+        <item quantity="one">"%d ч. "</item>
+     </plurals>
+     <plurals name="power_center_battery_minute">
+        <item quantity="other">"%d мин. "</item>
+        <item quantity="one">"%d мин. "</item>
+     </plurals>
 </resources>
