@@ -88,7 +88,7 @@
      <string name="error_user_id_mismatch_title">Ошибка аутентификации</string>
      <string name="error_verify_summary">Приложение не имеет разрешения на запрос этого сервиса</string>
      <string name="error_verify_title">Нет доступа</string>
-     <string name="forget_password">&lt;u&gt;Забыли пароль?&lt;/u&gt;</string>
+     <string name="forget_password"><u>Забыли пароль?</u></string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="format_date">MMM. dd, yyyy</string>
      <string name="format_time">MMM dd, yyyy hh:mmaa</string>
@@ -171,12 +171,9 @@ You have purchased [%1$s] for a value of [%2$s yuan]. Customer Service Phone: %3
      <string name="linkpay_account_cannot_be_null">Linkpay account is required</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="linkpay_achieve_charge">Complete payment</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="linkpay_app_name">Linkpay</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="linkpay_back_game">Back to game</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="linkpay_cancel">Cancel</string>
+     <string name="linkpay_back_game">Назад в игру</string>
+     <string name="linkpay_cancel">Отмена</string>
      <string name="linkpay_charge_account">Topup account:</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="linkpay_charge_game">Topup game</string>
@@ -425,17 +422,13 @@ You have purchased [%1$s] for a value of [%2$s yuan]. Customer Service Phone: %3
      <string name="msg_error">Ошибка пополнения</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="msg_picker_hint_1_1">1.</string>
-     <string name="msg_picker_hint_1_2">Пополнение через СМС, может быть дороже: &lt;font color=red>%1$d￥ = %2$d MiCredit&lt;/font></string>
+     <string name="msg_picker_hint_1_2">Пополнение через СМС, может быть дороже: &lt;font color=red>%1$d юань = %2$d MiCredit&lt;/font></string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="msg_picker_hint_2_1">2.</string>
-     <!-- The count of MNPS does not match! Now: 0 must: 1
-	%s: 0 must: 1
-	%d: 0 must: 0 -->
-     <!-- Original string: Carriers charge a ￥%1$s service fee per top-up -->
-     <string name="msg_picker_hint_2_2">Взимается плата за обслуживание в размере 0.1￥</string>
+     <string name="msg_picker_hint_2_2">Взимается плата за обслуживание в размере %1$s юань</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="msg_picker_hint_3_1">3.</string>
-     <string name="msg_picker_hint_3_2">Максимальное месячное пополнение: %1$s￥</string>
+     <string name="msg_picker_hint_3_2">Максимальное месячное пополнение: %1$s юань</string>
      <string name="msg_send_no_net_error">Ошибка отправки сообщения: поставщик услуг недоступен</string>
      <string name="msg_send_no_sim_error">Ошибка отправки сообщения: проверьте SIM-карту</string>
      <string name="msg_send_send_fail_error">Ошибка отправки сообщения</string>
@@ -487,15 +480,11 @@ You have purchased [%1$s] for a value of [%2$s yuan]. Customer Service Phone: %3
      <string name="progress_submit_hint">Пополнение будет зачислено в течение 3х минут</string>
      <string name="progress_submit_recharge_summary">Пополнение: %1$s MiCredits</string>
      <string name="progress_submit_title">Запрос подтвержден</string>
-     <!-- The count of MNPS does not match! Now: 0 must: 2
-	%s: 0 must: 2
-	%d: 0 must: 0 -->
-     <!-- Original string: %1$s MiCredits recharged，%2$s MiCredits paied -->
-     <string name="progress_success_pay_summary">Оплата завершена! :)</string>
+     <string name="progress_success_pay_summary">Добавлено MiCredits: %1$s, куплено: %2$s MiCredits</string>
      <string name="progress_success_pay_title">Оплата %1$s MiCredit завершена</string>
      <string name="progress_success_recharge_summary">Баланс: %1$s MiCredits</string>
      <string name="progress_success_recharge_title">Пополнение на %1$s MiCredit завершено</string>
-     <string name="progress_voucher_creating">Пополнение карты MiCredit…</string>
+     <string name="progress_voucher_creating">Пополнение баланаса картой MiCredit…</string>
      <string name="progress_warning_check">"Пока не проверено.
 Мы проверим в течение двух рабочих дней."</string>
      <string name="progress_warning_contact_server">"Платеж все еще не подтвержден. 
@@ -503,11 +492,11 @@ You have purchased [%1$s] for a value of [%2$s yuan]. Customer Service Phone: %3
 2. Сообщите свой серийный номер: %2$s"</string>
      <string name="progress_warning_waiting">Еще не подтвержден. Пожалуйста, повторите попытку позже.</string>
      <string name="recharge_bankcall_title">Банковская карта</string>
-     <string name="recharge_denomination">%1$s ￥</string>
-     <string name="recharge_grid_edit_hint">Размер (￥)</string>
-     <string name="recharge_grid_edit_limit">%1$s~%2$s ￥</string>
-     <string name="recharge_grid_edit_upper_limit">Не может превышать %1$s ￥</string>
-     <string name="recharge_grid_error_denomination">Введите правильный размер пополнения между %1$s~%2$s ￥</string>
+     <string name="recharge_denomination">%1$s юань</string>
+     <string name="recharge_grid_edit_hint">Размер (юань)</string>
+     <string name="recharge_grid_edit_limit">%1$s~%2$s юань</string>
+     <string name="recharge_grid_edit_upper_limit">Не может превышать %1$s юань</string>
+     <string name="recharge_grid_error_denomination">Введите правильный размер пополнения между %1$s~%2$s юань</string>
      <string name="recharge_grid_picker_hint">Выберите размер пополнения</string>
      <string name="recharge_group_favorite">Используемые методы пополнения</string>
      <string name="recharge_group_others">Другие методы пополнения</string>

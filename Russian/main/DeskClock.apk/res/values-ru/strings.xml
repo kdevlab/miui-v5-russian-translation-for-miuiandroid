@@ -74,7 +74,7 @@
      <string name="legal_workday_invalidate">Данные просрочены (сейчас будильник звонит с пон. по пят.)</string>
      <string name="legal_workday_invalidate_message">(обновите базу)</string>
      <string name="legal_workday_message"> (выключен в праздники)</string>
-     <string name="loading_ringtone">Загрузка мелодии звонка...</string>
+     <string name="loading_ringtone">Загрузка мелодии звонка…</string>
      <string name="menu_add_worldclock">Добавить</string>
      <string name="menu_alarmclock_edit">Редактировать</string>
      <string name="menu_delete">Удалить</string>
@@ -109,7 +109,7 @@
      <string name="stopwatch_title">Секундомер</string>
      <string name="system_time_setting">Настройки</string>
      <string name="time">Время</string>
-     <string name="timer_alert_alert_silenced">Таймер без звука после %d минут</string>
+     <string name="timer_alert_alert_silenced">Таймер без звука после %d мин.</string>
      <string name="timer_continue">Далее</string>
      <string name="timer_got_it">Закрыть</string>
      <string name="timer_hour">ч</string>
@@ -121,10 +121,10 @@
      <string name="timer_tutorial">Установка таймера</string>
      <string name="timezone_exist_error_message">Часовой пояс уже существует</string>
      <string name="timezone_search_hint">Поиск города</string>
-     <string name="volume_button_dialog_title">Клавиши громкости</string>
-     <string name="volume_button_setting_summary">Функция клавиш громкости во время срабатывания будильника</string>
-     <string name="volume_button_setting_title">Клавиши громкости</string>
-     <string name="wait_when_operating_data_message">Обработка...</string>
+     <string name="volume_button_dialog_title">Функция клавиши</string>
+     <string name="volume_button_setting_summary">Функция клавиши во время срабатывания будильника</string>
+     <string name="volume_button_setting_title">Клавиша громкости</string>
+     <string name="wait_when_operating_data_message">Обработка…</string>
      <string name="weather_fetch_failure">Информация о погоде сейчас недоступна</string>
      <string name="weekend_alarm_clock">По выходным дням</string>
      <string name="workday_alarm_clock">По рабочим дням</string>

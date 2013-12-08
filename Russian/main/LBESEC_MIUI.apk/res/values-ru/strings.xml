@@ -33,7 +33,7 @@
      <string name="Dashboard_Perm_SU_Switch">Разрешения суперпользователя</string>
      <string name="Dashboard_Su_Enable_Content">Включение позволит приложениям запрашивать доступ от суперпользователя. Примечание: приложения с разрешениями могут вызвать нестабильность системы, потерю персональных данных, повреждение системы или аппаратной части, будьте осторожны. Вы уверены, что хотите сделать это?</string>
      <string name="Dashboard_Su_Enable_Title">Разрешения суперпользователя</string>
-     <string name="Generic_Canceling">Отмена...</string>
+     <string name="Generic_Canceling">Отмена…</string>
      <string name="Generic_Check">Проверка</string>
      <string name="Generic_Clean">Очистка</string>
      <string name="Generic_Configuration">Параметры</string>
@@ -43,9 +43,9 @@
      <string name="Generic_Good">Хорошо</string>
      <string name="Generic_HideSystemApp">Скрыть системные приложения</string>
      <string name="Generic_InvalidInput">Неверный ввод</string>
-     <string name="Generic_Loading">Загрузка...</string>
+     <string name="Generic_Loading">Загрузка…</string>
      <string name="Generic_MonitoredApp">Управляемые приложения (%1$d)</string>
-     <string name="Generic_Operating">В процессе...</string>
+     <string name="Generic_Operating">В процессе…</string>
      <string name="Generic_Optimize">Оптимизировать</string>
      <string name="Generic_Service_Disabled">Сервис выключен</string>
      <string name="Generic_Service_Enabled">Сервис включен</string>
@@ -187,5 +187,5 @@
      <string name="SysOpt_Boost_AutoStart_Group">Автозагрузка</string>
      <string name="SysOpt_Boost_Boot">Загрузка</string>
      <string name="SysOpt_Boost_Receiver">Фоновые</string>
-     <string name="app_name">Безопасность</string>
+     <string name="app_name">Суперпользователь</string>
 </resources>

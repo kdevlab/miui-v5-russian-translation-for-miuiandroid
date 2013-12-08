@@ -67,12 +67,12 @@
      <string name="decompress_to_here">Распаковать в текущую папку</string>
      <string name="delete_failed">Ошибка удаления</string>
      <string name="delete_file">Вы уверены, что хотите удалить этот файл?</string>
-     <string name="delete_files">Вы уверены, что хотите удалить выбранные файлы (%1$d)?</string>
-     <string name="delete_files_and_folders">Вы уверены, что хотите удалить выбранные файлы (%1$d) и папки (%2$d)?</string>
+     <string name="delete_files">Удалить выбранные файлы (%1$d)?</string>
+     <string name="delete_files_and_folders">Удалить выбранные файлы (%1$d) и папки (%2$d)?</string>
      <string name="delete_folder">Вы уверены, что хотите удалить?</string>
      <string name="delete_folders">Вы уверены, что хотите удалить выбранные папки (%1$d)?</string>
      <string name="des_running_trans">Эти %1$d файлы ожидают отправки</string>
-     <string name="dialog_select_type">Выбрать тип файла</string>
+     <string name="dialog_select_type">Выберите тип файла</string>
      <string name="dialog_type_audio">Аудио</string>
      <string name="dialog_type_image">Изображения</string>
      <string name="dialog_type_text">Текст</string>
@@ -82,8 +82,8 @@
      <string name="download_failed">Ошибка загрузки</string>
      <string name="download_link_completed">Я поделился %1$s через KuaiPan. Нажмите ссылку внизу для просмотра:</string>
      <string name="downloading">Загрузка</string>
-     <string name="empty_dir_cleanup_indication">%s пустых папок</string>
-     <string name="empty_dir_title">Пустые папки</string>
+     <string name="empty_dir_cleanup_indication">Пустых папок: %s</string>
+     <string name="empty_dir_title">Пустые каталоги</string>
      <string name="enable_sd_card">В настоящий момента SD-карта подключена к компьютеру и используется, чтобы видеть ее содержимое, отключите режим накопителя</string>
      <string name="error_filename_too_long">Имя файла слишком длинное</string>
      <string name="error_info_cant_send_folder">Папка не может быть передана</string>
@@ -116,7 +116,7 @@
      <string name="ftp_username_and_passworld">Имя пользователя и пароль</string>
      <string name="ftp_username_hint">Имя пользователя</string>
      <string name="garbage_size_metric">"%s
-Мусор"</string>
+мусора"</string>
      <string name="gbk_summary">Если вы используете кодировку GBK, например, в Windows Explorer, выберите этот тип кодирования, чтобы избежать искажения текста на китайском языке</string>
      <string name="give_up_cleaning">Отмена</string>
      <string name="header_text_cleaned">мусора очищено</string>
@@ -164,7 +164,7 @@
      <string name="no_more_space">Не хватает места на диске</string>
      <string name="no_tasks">Задач нет</string>
      <string name="no_temp_file_indication">Нет временных файлов</string>
-     <string name="no_thumbnail_indication">Нет файлов эскизов</string>
+     <string name="no_thumbnail_indication">Нет кэша миниатюр</string>
      <string name="no_wifi">Нет Wi-Fi сети</string>
      <string name="no_wifi_hint">Нет Wi-Fi соединения</string>
      <string name="notif_server_starting">Синхронизация включена</string>
@@ -220,7 +220,7 @@
      <string name="scanning" formatted="false">Сканирование %d из %d…</string>
      <string name="scanning_on_going">Сканирование…</string>
      <string name="sd_card_available">Свободно: %1$s</string>
-     <string name="sd_card_size">SD-карта: %1$s</string>
+     <string name="sd_card_size">Всего: %1$s</string>
      <string name="sd_full">SD-карта полна</string>
      <string name="sd_size_label">Хранилище пользователя</string>
      <string name="search_hint">Введите часть или все имя файла</string>
@@ -265,8 +265,8 @@
      <string name="trash_box_link">Посетите pan.xiaomi.com для очистки корзины</string>
      <string name="trash_box_message1">Вы можете удалить не нужные файлы для освобождения места</string>
      <string name="trash_box_message2">Вы можете удалить не нужные файлы или очистить корзину для освобождения места</string>
-     <string name="ui_bar_txt_download_progress">Скачивание файлов (Осталось: %1$d)…</string>
-     <string name="ui_bar_txt_upload_progress">Загрузка файлов (Осталось: %1$d)…</string>
+     <string name="ui_bar_txt_download_progress">Скачивание файлов (осталось: %1$d)…</string>
+     <string name="ui_bar_txt_upload_progress">Загрузка файлов (осталось: %1$d)…</string>
      <string name="ui_filechange_btn_download">Скачать файлы</string>
      <string name="ui_filechange_btn_upload">Загрузить файлы</string>
      <string name="ui_main_menu_option_sign_in">Войти</string>
@@ -300,5 +300,5 @@
      <string name="wangpan_root_path">Мой диск</string>
      <string name="wifi_state">Статус Wi-Fi</string>
      <string name="xiaomi_account">Аккаунт Xiaomi</string>
-     <string name="yes">Да</string>
+     <string name="yes">OK</string>
 </resources>

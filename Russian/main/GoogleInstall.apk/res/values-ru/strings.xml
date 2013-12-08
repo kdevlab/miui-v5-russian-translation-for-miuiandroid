@@ -30,11 +30,7 @@
      <string name="category_recommend_tag">Реком.</string>
      <string name="category_tag">Категории</string>
      <string name="clear_search_record_message">Очистить историю поиска?</string>
-     <!-- The count of MNPS does not match! Now: 2 must: 3
-	%s: 2 must: 3
-	%d: 0 must: 0 -->
-     <!-- Original string: %1$s scores %2$s comments in total(%3$s version) -->
-     <string name="comment_count">Всего %1$s оценок %2$s комментариев</string>
+     <string name="comment_count">Всего %1$s оценок %2$s комментариев (версия %3$s)</string>
      <string name="comment_description">%1$s комментарий к %2$s:%3$s:%4$s</string>
      <string name="comment_invalid">Нажмите на звездочки, чтобы оценить</string>
      <string name="comment_name_default">Пользователь %1$s</string>
@@ -181,7 +177,7 @@
      <string name="notif_installing">Установка “%1$s”…</string>
      <string name="notif_title_update">Доступно обновление для %1$s!</string>
      <string name="password">Пароль</string>
-     <string name="password_hint_text">6~16 chars</string>
+     <string name="password_hint_text">6~16 знаков</string>
      <string name="paused">Пауза</string>
      <string name="pending">Ожидание…</string>
      <string name="permission_button">Необходимые разрешения (%1$s)</string>
@@ -198,10 +194,10 @@
      <string name="pref_list_per_day">Ежедневно</string>
      <string name="pref_list_per_week">Еженедельно</string>
      <string name="pref_list_remind_me_after_download">Напомнить после загрузки</string>
-     <string name="pref_summary_auto_update_setting">Notify me after download completes</string>
+     <string name="pref_summary_auto_update_setting">Сообщать о завершении загрузки</string>
      <string name="pref_summary_clear_search_record">Очистить историю поиска</string>
      <string name="pref_summary_data_save_mode">Не загружать картинки</string>
-     <string name="pref_summary_notification_frequency">Set notifications frequency</string>
+     <string name="pref_summary_notification_frequency">Частота уведомлений</string>
      <string name="pref_title_auto_update_setting">Параметры автообновления</string>
      <string name="pref_title_clear_search_record">Очистить историю поиска</string>
      <string name="pref_title_data_save_mode">Экономия трафика</string>

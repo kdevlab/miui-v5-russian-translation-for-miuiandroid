@@ -98,31 +98,31 @@
      <string name="noti_wait_send">"Ожидание приема. Убедитесь, что отправитель имеет возможность передавать файлы "</string>
      <string name="notify_after_download">Сообщить после загрузки</string>
      <string name="notify_after_restore">Сообщить после восстановления</string>
-     <string name="ok">Подтвердить</string>
+     <string name="ok">OK</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="online_file">MiDrive</string>
      <string name="only_support_single_share">Поддерживается отправка только одного файла</string>
      <string name="open">Открыть</string>
      <string name="operation_delete">Удалить</string>
-     <string name="operation_goto_folder">"Открыть в папке "</string>
-     <string name="operation_info">Детали</string>
+     <string name="operation_goto_folder">Открыть папку с файлом</string>
+     <string name="operation_info">Сведения</string>
      <string name="operation_send">Отправить</string>
      <string name="pause">Пауза</string>
      <string name="pic">Изображения</string>
-     <string name="picker_title">Выберите APK</string>
+     <string name="picker_title">Выберите файл</string>
      <string name="please_select_share">Выберите файл</string>
      <string name="press_to_handle">Добавить</string>
      <string name="press_to_view">Посмотреть</string>
      <string name="press_to_view_receive_history">История получения</string>
      <string name="press_to_view_send_history">История отправки</string>
      <string name="receive">Прием</string>
-     <string name="receive_cancel_tip">Вы уверены, что хотите остановить передачу?</string>
+     <string name="receive_cancel_tip">Остановить передачу?</string>
      <string name="receive_cancel_tip2">Передача отменена. Получено %1$d из %2$d файлов.</string>
      <string name="receive_canceled">Отменено</string>
      <string name="receive_cannot_created_file">Ошибка создания файла</string>
      <string name="receive_files">Прием файлов</string>
      <string name="receive_finish">Прием завершен!</string>
-     <string name="receive_finish_tip">Получено файлов: $1%d </string>
+     <string name="receive_finish_tip">Получено файлов: $1%d</string>
      <string name="receive_from">Прием от:</string>
      <string name="receive_history">История получения</string>
      <string name="receive_store">Сохранить файл в:</string>
@@ -144,7 +144,7 @@
      <string name="scan_2d_code">Сканировать 2D-код</string>
      <string name="scan_file">Обзор файлов</string>
      <string name="scan_tip">"Убедитесь, что получатель имеет
-возможность принять файлы."</string>
+возможность принять файлы"</string>
      <string name="scan_title">Пожалуйста, сфокусируйтесь на 2D-коде</string>
      <string name="scanning">Сканирование…</string>
      <string name="sdcard_invalid">SD-карта недоступна!</string>
@@ -153,12 +153,12 @@
      <string name="select_file_to_share">Выберите файл</string>
      <string name="send">Отправить</string>
      <string name="send_2d_code">Отправить с 2D-кодом</string>
-     <string name="send_cancel_tip">Вы уверены, что хотите остановить передачу?</string>
+     <string name="send_cancel_tip">Остановить передачу?</string>
      <string name="send_cancel_tip2">Передача отменена. Отправлено %1$d из %2$d файлов.</string>
      <string name="send_file_to_friends_by_net">Отправка через интернет</string>
      <string name="send_files">Отправка файлов: %1$d</string>
      <string name="send_finish">Файл отправлен!</string>
-     <string name="send_finish_tip">Отправлено файлов: %1$d на </string>
+     <string name="send_finish_tip">Отправлено файлов: %1$d на</string>
      <string name="send_history_deleted">История загрузок удалена</string>
      <string name="send_nfc">Отправить через NFC</string>
      <string name="send_share_link">Отправить ссылку</string>
@@ -220,6 +220,5 @@
      <string name="wanna_receive">Получить</string>
      <string name="welcome_tip1">Быстрая передача файлов с минимальным потреблением трафика сети</string>
      <string name="welcome_tip2">Быстрая передача фотографий, музыки, контактов и многого другого</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="you_can">OK</string>
 </resources>

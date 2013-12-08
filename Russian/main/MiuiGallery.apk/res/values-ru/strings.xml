@@ -85,7 +85,7 @@
      <string name="clear_thumbnail_cache_summary">Очистить эскизы изображений, созданных при просмотре изображений в галерее</string>
      <string name="click_top_right">Нажмите на иконку вверху справа</string>
      <string name="close">Закрыть</string>
-     <string name="cloud_album_more_settings">Облачные альбомы</string>
+     <string name="cloud_album_more_settings">Синхронизация MiCloud</string>
      <string name="cloud_album_set_create">Новый</string>
      <string name="cloud_album_set_scan_qr_code">QR-код</string>
      <string name="cloud_albums">Облако</string>
@@ -110,16 +110,15 @@
      <string name="cloudfolder_name_cannot_empty">Введите название папки</string>
      <string name="cloudfolder_name_reserved">Имя папки занято</string>
      <string name="comfirm_delete_current_album">Удалить текущий альбом?</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="confirm">OK</string>
-     <string name="confirm_delete">Вы действительно хотите удалить выбранное (%s)?</string>
+     <string name="confirm_delete">Удалить выбранные файлы (%s)?</string>
      <string name="confirm_delete_album" formatted="false">"Удалить выбранные альбомы с фото?
 
 Альбомов:%s
 Фото: %s"</string>
      <string name="confirm_delete_cloud_all_item_page" formatted="false">%s фотографий в %s альбомах, вы уверены, что хотите удалить?</string>
      <string name="confirm_delete_pictures">%s фотографий</string>
-     <string name="confirm_delete_system_album">%s - это системный альбом. Вы уверены, что хотите удалить?</string>
+     <string name="confirm_delete_system_album">%s системный альбом. Вы уверены, что хотите удалить?</string>
      <string name="confirm_delete_videos">%s видео</string>
      <string name="contact_photo">Фото контакта</string>
      <string name="context_menu_add_contact">Добавить в контакты</string>
@@ -143,9 +142,9 @@
      <string name="dcim_viva_pics">VIVA</string>
      <string name="defalt_local_mobile">Мобильный</string>
      <string name="delete">Удалить</string>
-     <string name="delete_file">Вы уверены, что хотите удалить выбранные файлы (%1$d)?</string>
-     <string name="delete_files_and_folders">Вы уверены, что хотите удалить %1$d выбранных файлов и %2$d выбранных папок?</string>
-     <string name="delete_folder">Вы уверены, что хотите удалить %1$d выбранных папок?</string>
+     <string name="delete_file">Удалить выбранные файлы: %1$d?</string>
+     <string name="delete_files_and_folders">Удалить выбранные файлы: %1$d и папки: %2$d?</string>
+     <string name="delete_folder">Удалить выбранные папки: %1$d?</string>
      <string name="deleting_files">Удаление файлов…</string>
      <string name="demo_video_folder_display_name">Демо-видео</string>
      <string name="deny">Отклонить</string>
@@ -165,9 +164,9 @@
      <string name="edit">Изменить</string>
      <string name="edited_photo_bucket_name">Измененные</string>
      <string name="email_picker_title">Добавить общий E-mail</string>
-     <string name="enable_cloud_for_sharing">Вам необходимо включить облачный альбом, чтобы просмотреть общие фотографии.</string>
+     <string name="enable_cloud_for_sharing">Вам необходимо включить облачный альбом, чтобы просмотреть общие фотографии</string>
      <string name="enter_email_hint">Введите адрес E-mail</string>
-     <string name="error_album_not_exist">Альбома не существует.</string>
+     <string name="error_album_not_exist">Альбом не существует</string>
      <string name="error_cloud_not_active">Облачный альбом не используется</string>
      <string name="error_invalid_link">Ссылка является недействительной. Пусть владелец создаст новую.</string>
      <string name="error_repeat_apply">Вы уже поделились альбомом</string>
@@ -198,12 +197,12 @@
      <string name="flip">Отразить</string>
      <string name="flip_tooltip">Чтобы отразить фото, перетащите его край</string>
      <string name="focal_length">Фокус. расст.</string>
-     <string name="frame_black">Черный</string>
+     <string name="frame_black">Черная</string>
      <string name="frame_button">Рамка</string>
      <string name="frame_classic">Классическая</string>
      <string name="frame_movie">Фильм</string>
      <string name="frame_semicircle">Полукруг</string>
-     <string name="frame_white">Белый</string>
+     <string name="frame_white">Белая</string>
      <string name="gallery_cloud_provider_name">Галерея</string>
      <string name="gallery_setting">Настройки</string>
      <string name="get_album_info_in_process">"Запрос свойств облачного альбома…"</string>
@@ -390,21 +389,21 @@
      <string name="send_multiple_files_hint_format">Отправить несколько файлов (%s)</string>
      <string name="send_public_url">Отправить ссылку альбома</string>
      <string name="sepia">Сепия</string>
-     <string name="set_hidden_album">Скрыть альбомы</string>
+     <string name="set_hidden_album">Скрыть альбом</string>
      <string name="set_image">Применить</string>
      <string name="set_label_all_albums">Все альбомы</string>
      <string name="set_label_local_albums">Офлайн-альбомы</string>
      <string name="set_label_mtp_devices">MTP-устройства</string>
      <string name="set_lock_and_wallpaper">Установка обоев…</string>
-     <string name="set_lock_or_wallpaper">Как фон</string>
-     <string name="set_lockscreen">Экран блокировки</string>
+     <string name="set_lock_or_wallpaper">Применить</string>
+     <string name="set_lockscreen">Установка на экран блокировки…</string>
      <string name="set_recent_album">Сделать новый альбом</string>
      <string name="set_screensaver_path_message">Изображения в этом альбоме будут показаны как заставка после 5 секунд выключенного экрана. Это сообщение не будет показано снова.</string>
      <string name="set_screensaver_path_message_if_only_charging">Изображения в этом альбоме будет отображаться в качестве заставки только при зарядке устройства</string>
      <string name="set_screensaver_path_title">Заставка слайдшоу</string>
-     <string name="set_wallpaper">Рабочий стол</string>
+     <string name="set_wallpaper">Установка на рабочий стол…</string>
      <string name="settings">Настройки</string>
-     <string name="settings_i_xiaomi_com">Войдите на сайт i.xiaomi.com, чтобы просмотреть ваши синхронизированные изображения на компьютере</string>
+     <string name="settings_i_xiaomi_com">Зайдите на i.xiaomi.com, чтобы смотреть свои облачные альбомы в любое время</string>
      <string name="shadow">Затенение</string>
      <string name="share_album">Отправить альбом</string>
      <string name="share_album_owner">Владелец</string>
@@ -430,8 +429,8 @@
      <string name="slideshow_category">Слайд-шоу</string>
      <string name="slideshow_dream_name">Слайд-шоу</string>
      <string name="slideshow_interval">Интервал слайд-шоу</string>
-     <string name="slideshow_interval_dialog_title">Интервал слайд-шоу (в секундах)</string>
-     <string name="slideshow_interval_invalid">Неверная настройка интервала времени, который должен быть от 1 до 3600.</string>
+     <string name="slideshow_interval_dialog_title">Промежуток времени в секундах</string>
+     <string name="slideshow_interval_invalid">Неверная настройка интервала времени</string>
      <string name="slideshow_repeat_mode">Повторять</string>
      <string name="slideshow_time_select_title">Выбор времени слайдшоу</string>
      <string name="slideshow_time_title">Время слайдшоу</string>
@@ -444,14 +443,14 @@
      <string name="sync_album_in_proecess">Синхронизация альбома. Пожалуйста, подождите…</string>
      <string name="sync_album_set_error">Не удалось загрузить альбомы. Повторите попытку позже.</string>
      <string name="sync_album_summary">Синхронизировать фотографии и скриншоты с MiCloud</string>
-     <string name="sync_history_power_on">Синхр. во время зарядки</string>
+     <string name="sync_history_power_on">Во время зарядки</string>
      <string name="sync_only_in_wifi">Только по Wi-Fi</string>
      <string name="sync_only_in_wifi_alert">Отключение загрузки только через Wi-Fi может потреблять сетевой трафик. Продолжить?</string>
-     <string name="sync_only_in_wifi_summary">Рекомендуется включить, иначе возможно чрезмерное потребление мобильного трафика</string>
+     <string name="sync_only_in_wifi_summary">Синхронизировать фотографии и скриншоты только при Wi-Fi соединении</string>
      <string name="system_album">Системный альбом</string>
      <string name="tab_all_text">На все</string>
-     <string name="tab_lockscreen_text">Экран блокировки</string>
-     <string name="tab_wallpaper_text">Рабочий стол</string>
+     <string name="tab_lockscreen_text">На локскрин</string>
+     <string name="tab_wallpaper_text">На стол</string>
      <string name="tags">Теги</string>
      <string name="temperature">Тепло</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
