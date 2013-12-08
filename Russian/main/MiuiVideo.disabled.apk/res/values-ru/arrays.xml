@@ -10,8 +10,12 @@
         <item>Топ</item>
         <item>Последние</item>
     </string-array>
+    <string-array name="home_tabs">
+        <item>Онлайн</item>
+        <item>Телефон</item>
+    </string-array>
     <string-array name="series_detail_tabs">
-        <item>剧集</item>
-        <item>Введение</item>
+        <item>Эпизод</item>
+        <item>Описание</item>
     </string-array>
 </resources>
