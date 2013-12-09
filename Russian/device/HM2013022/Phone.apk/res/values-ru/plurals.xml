@@ -19,7 +19,7 @@
         <item quantity="one">Подключение для передачи данных отсутствует %s мин.</item>
      </plurals>
      <plurals name="sim_picker_timer_miui">
-        <item quantity="other">(%1$d seconds)</item>
-        <item quantity="one">(%1$d second)</item>
+        <item quantity="other">Секунд: %1$d</item>
+        <item quantity="one">Секунд: %1$d</item>
      </plurals>
 </resources>
