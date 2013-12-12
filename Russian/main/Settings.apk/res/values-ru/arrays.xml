@@ -238,7 +238,7 @@
      </string-array>
      <string-array name="power_dialog_cpu_state_items">
         <item>Производительность</item>
-        <item>Умеренный</item>
+        <item>Сбалансированный</item>
         <item>Энергосбережение</item>
      </string-array>
      <string-array name="power_dialog_sleep_items">
@@ -252,13 +252,24 @@
      </string-array>
      <string-array name="power_dialog_vibration_items">
         <item>Никогда</item>
-        <item>Вибрация если звонок беззвука</item>
+        <item>В режиме \"Без звука\"</item>
         <item>Всегда</item>
      </string-array>
      <string-array name="power_mode_entries">
         <item>Производительный</item>
         <item>Сбалансированный</item>
         <item>Энергосберегающий</item>
+     </string-array>
+	 <string-array name="preferred_app_entries">
+        <item>Рабочий стол</item>
+        <item>Телефон</item>
+        <item>Сообщения</item>
+        <item>Браузер</item>
+        <item>Камера</item>
+        <item>Галерея</item>
+        <item>Музыка</item>
+        <item>Видео</item>
+        <item>Почта</item>
      </string-array>
      <string-array name="score_descriptions">
         <item>Черный список выключен</item>

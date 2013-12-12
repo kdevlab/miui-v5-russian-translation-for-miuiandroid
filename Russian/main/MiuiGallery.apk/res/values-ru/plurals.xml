@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Builded with CloudBuildr -->
 <resources>
-     <plurals name="number_of_cloudimages">
+     <plurals name="number_of_images">
         <item quantity="other">Изображений: %1$d</item>
         <item quantity="zero">Изображений: %1$d</item>
         <item quantity="one">Изображений: %1$d</item>
