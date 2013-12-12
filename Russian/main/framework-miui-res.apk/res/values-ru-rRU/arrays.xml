@@ -89,14 +89,4 @@
         <item>Адрес</item>
         <item>Заметка</item>
     </string-array>
-    <string-array name="mobile_operator_display_names">
-        <item>"МТС"</item>
-        <item>"Мегафон"</item>
-        <item>"Билайн"</item>
-    </string-array>
-    <string-array name="mobile_operator_numeric_equivalencies">
-        <item>"25001"</item>
-        <item>"25002"</item>
-        <item>"25099"</item>
-    </string-array>
 </resources>
