@@ -162,7 +162,7 @@
      <string name="apn_mms_port">Порт MMS</string>
      <string name="apn_mms_proxy">Прокси-сервер MMS</string>
      <string name="apn_name">Имя</string>
-     <string name="apn_new">Новая точка доступа</string>
+     <string name="apn_new">Создать</string>
      <string name="apn_not_set">Не задано</string>
      <string name="apn_password">Пароль</string>
      <string name="apn_protocol">Протокол APN</string>
@@ -170,7 +170,7 @@
      <string name="apn_save">Сохранить точку доступа?</string>
      <string name="apn_save_msg">Настройки изменены, сохранить?</string>
      <string name="apn_server">Сервер</string>
-     <string name="apn_settings">Точки доступа (APN)</string>
+     <string name="apn_settings">Точки доступа интернет</string>
      <string name="apn_type">Тип APN</string>
      <string name="apn_user">Имя пользователя</string>
      <string name="app_disable_dlg_text">Отключение встроенного приложения может нарушить работу других приложений. Продолжить?</string>
@@ -520,12 +520,12 @@
      <string name="button_text_delete">Удалить</string>
      <string name="button_text_done">Готово</string>
      <string name="button_text_fix">Исправить</string>
-     <string name="button_text_security">Безопасность</string>
+     <string name="button_text_security">Безопасно</string>
      <string name="button_text_view">Посмотреть</string>
      <string name="cache_garbage">Кэш</string>
      <string name="cache_header_label">Кэш</string>
      <string name="cache_list_empty_hints">Нет кешированных файлов</string>
-     <string name="cache_manage_title">Можно очистить: %1$d, освободится: %2$s </string>
+     <string name="cache_manage_title">К очистке: %1$d | освободится: %2$s</string>
      <string name="cache_manager_actionbar_title">Системный кэш</string>
      <string name="cache_size_label">Кэш</string>
      <string name="cached">Кэшированный фоновый процесс</string>
@@ -580,7 +580,6 @@
      <string name="clear_failed_dlg_title">Стереть данные</string>
      <string name="clear_user_data_text">Стереть данные</string>
      <string name="close_rule">Отключить правила брэндмаузера</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="comfirm">OK</string>
      <string name="comfirm_exit">Выйти?</string>
      <string name="common_settings">Избранное</string>
@@ -588,7 +587,6 @@
      <string name="computing_size">Вычисление…</string>
      <string name="config_list_label">Настроенные сети</string>
      <string name="configure_input_method">Настройка методов ввода</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="confirm">OK</string>
      <string name="confirm_clear_blacklist">Очистить черный список?</string>
      <string name="confirm_clear_whitelist">Очистить белый список?</string>
@@ -991,7 +989,7 @@
      <string name="force_stop_dlg_text">Принудительное закрытие приложения может отразиться на его функциональности</string>
      <string name="force_stop_dlg_title">Принудительная остановка</string>
      <string name="forget_wifi_message">Забыть эту Wi-Fi сеть? Для подключения вы будете должны ввести пароль</string>
-     <string name="free_ram">Использовано</string>
+     <string name="free_ram">Память</string>
      <string name="frequently_fragment_delete">Удалить</string>
      <string name="frequently_fragment_tempty">Часто используемые элементы будут перечислены здесь</string>
      <string name="fw_action_settings">Настройки фильтра</string>
@@ -1003,7 +1001,7 @@
      <string name="fw_blacklist">Антиспам</string>
      <string name="fw_blacklist_hint">Звонки и сообщения будут блокироваться по умолчанию</string>
      <string name="fw_blocked">Журнал</string>
-     <string name="fw_blocked_count" formatted="false">Перехвачено вызовов: %d и сообщений: %d</string>
+     <string name="fw_blocked_count" formatted="false">Перехвачено вызовов: %d | сообщений: %d</string>
      <string name="fw_call" formatted="false">Время вызова: %s (%d)</string>
      <string name="fw_call_imported">Импорт журнала вызовов</string>
      <string name="fw_call_muted">Вызов беззвучен</string>
@@ -1180,13 +1178,12 @@
      <string name="language_settings_category">Языковые настройки</string>
      <string name="large_font">Большой</string>
      <string name="last_check_canceled">Предыдущая проверка отменена</string>
-     <string name="last_check_date_today">Последняя проверка: сегодня</string>
-     <string name="last_check_date_yesterday">Последняя проверка: вчера</string>
+     <string name="last_check_date_today">"Последняя проверка: сегодня в "</string>
+     <string name="last_check_date_yesterday">"Последняя проверка: вчера в "</string>
      <string name="last_check_never_checked">Рекомендуется проверить</string>
      <string name="last_checked_date">Проверки не было больше 30 дней</string>
      <string name="last_checked_date2">Последняя проверка: %d дн. назад</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="last_checked_date_mark">pts</string>
+     <string name="last_checked_date_mark">" %"</string>
      <string name="last_checked_default">Последняя проверка: %s дн. назад</string>
      <string name="last_synced">Последняя синхронизация %1$s</string>
      <string name="launch_count_label">Подсчет</string>
@@ -1472,10 +1469,7 @@
      <string name="opt_restore_perm">Восстановлено разрешений по умолчанию для %d приложений</string>
      <string name="opt_resume_desc">Продолжить</string>
      <string name="opt_scanning">Сканирование…:</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="opt_score">83</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="opt_score_desc">pts</string>
+     <string name="opt_score_desc">" %"</string>
      <string name="opt_state_done">Готово</string>
      <string name="opt_state_pause">Пауза</string>
      <string name="opt_state_running">Оптимизация…</string>
@@ -1492,12 +1486,12 @@
      <string name="optimize_large_file_header_left">Больших файлов: %d</string>
      <string name="optimize_large_file_list_empty_content">Большие файлы не найдены</string>
      <string name="optimize_now">Начать</string>
-     <string name="optimize_residual_header_left">Остаточные файлы: %d</string>
+     <string name="optimize_residual_header_left">Остаточных файлов: %d</string>
      <string name="optimize_residual_list_empty_content">Остаточных файлов не найдено</string>
      <string name="optimize_tips_ad">iconРеклама - файлы, содержащие в себе разного рода рекламу (картинки, текст и т.д.)</string>
      <string name="optimize_tips_apk">iconПриложения -  все приложения установленные на Вашем устройстве</string>
      <string name="optimize_tips_cache">iconКеш - временные файлы приложений и процессов (например миниатюры)</string>
-     <string name="optimize_tips_residual">iconМусор  - например, видео, обои, музыка и т.д., которые были загружены на устройство приложениями, которые уже удалены. Рекомендуем использовать расширенные возможности при очистке, т.к. некоторые из этих файлов возможно Вам все еще нужны.</string>
+     <string name="optimize_tips_residual">iconМусор  - файлы видео, музыки и т.д., загруженые на устройство приложениями, которые уже удалены. Рекомендуем использовать расширенную очистку, т.к. некоторые из этих файлов возможно Вам все еще нужны.</string>
      <string name="optimize_tips_title">Помощь</string>
      <string name="optimize_title_ad">Реклама</string>
      <string name="optimize_title_apk">Файлы</string>
@@ -1659,7 +1653,7 @@
      <string name="perm_su_enable_content">"Включение позволит приложениям запрашивать доступ от суперпользователя.
 Внимание: приложения с разрешениями могут вызвать нестабильность системы, потерю персональных данных, повреждение системы или аппаратной части, будьте осторожны. Вы уверены что хотите сделать это?"</string>
      <string name="perm_su_enable_dialog">%1$s пытается получить права суперпользователя, что отключено по умолчанию для обеспечения безопасности системы. Если Вам нужно включить его, пожалуйста перейдите к настройкам в диспетчере разрешений.</string>
-     <string name="perm_su_enable_summary">Приложения могут получить разрешения суперпользователя</string>
+     <string name="perm_su_enable_summary">Приложения смогут получать разрешения суперпользователя</string>
      <string name="perm_su_enable_title">Суперпользователь</string>
      <string name="perm_su_switch">Суперпользователь</string>
      <string name="perm_summary_disabled">Выкл</string>
@@ -1675,10 +1669,10 @@
      <string name="perm_update">Обновление программного обеспечения</string>
      <string name="perm_user_app">Загруженных приложений (%d)</string>
      <string name="perm_version">Версия: %1$s</string>
-     <string name="permission_detail_info">Разрешения</string>
-     <string name="permission_detail_info_summary">безопасные: %1$d, приватные %2$d, прочие %3$d</string>
+     <string name="permission_detail_info">Сведения о разрешениях</string>
+     <string name="permission_detail_info_summary">Разрешения: безопасности %1$d | конфид. %2$d | другие %3$d</string>
      <string name="permission_manage">Управление разрешениями</string>
-     <string name="permission_manage_summary">Автозапуск, приватность, разрешения</string>
+     <string name="permission_manage_summary">Управление автозапуском, приватностью, разрешениями</string>
      <string name="permission_manage_title">Разрешения %s</string>
      <string name="permission_mgr">Разрешения</string>
      <string name="permissions_label">Разрешения</string>
@@ -1847,7 +1841,7 @@
      <string name="power_settings_category_title">Стиль батареи</string>
      <string name="power_settings_number">Проценты</string>
      <string name="power_settings_shape">Графический</string>
-     <string name="power_settings_title">Выбрать</string>
+     <string name="power_settings_title">Выберите стиль батареи</string>
      <string name="power_settings_top">Полоса в баре</string>
      <string name="power_usage_history">Использование батареи</string>
      <string name="power_usage_level_and_status">%1$s – %2$s</string>
@@ -1857,52 +1851,24 @@
      <string name="power_usage_summary">На что расходуется заряд батареи</string>
      <string name="power_usage_summary_title">Батарея</string>
      <string name="power_used_hours">ч.</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="power_used_hours_test">8</string>
      <string name="power_used_mins">мин.</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="power_used_mins_test">23</string>
      <string name="power_used_prefix">Используется</string>
      <string name="power_wifi">Wi-Fi</string>
      <string name="pref_button_light">Подсветка клавиш</string>
      <string name="pref_button_light_summary">Подсветка клавиш \"Меню\", \"Назад\", \"Домой\"</string>
-     <string name="pref_key_last_check_canceled">last_check_canceled</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="pref_key_last_scan_data">lastScanDate</string>
-     <string name="pref_key_latest_optimize_date">latest_optimize_date</string>
-     <string name="pref_key_need_update_app_count">need_update_app_count</string>
-     <string name="pref_key_package_synced">package_synced</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="pref_key_risk_amount">riskAmount</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="pref_key_scan_type">scanType</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="pref_key_virus_amount">virusAmount</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="pref_key_virus_auto_update_lib">virusAutoUpdate</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="pref_key_virus_auto_update_lib_time">virusAutoUpdateTime</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="pref_key_virus_cloud">virusScanCloud</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="pref_key_virus_install">virusScanInstall</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="pref_key_virus_is_update">virusScanIsUpdate</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="pref_key_virus_lib_version">virusLibVersion</string>
      <string name="pref_operational_key">Клавиши</string>
      <string name="pref_volume_wake_summary">Нажатие клавиш регулировки громкости в заблокированном состоянии разбудит устройство</string>
      <string name="pref_volume_wake_title">Пробуждать устройство</string>
      <string name="preference_change_password_title">Изменить пароль</string>
 	 <string name="preferred_app_settings">Приложения по умолчанию</string>
      <string name="preferred_app_settings_default">По умолчанию</string>
-     <string name="preferred_app_settings_reset">Сбросить</string>
+     <string name="preferred_app_settings_reset">Сбросить настройки</string>
      <string name="preferred_app_settings_reset_message">Восстановить все значения настроек приложений по умолчанию?</string>
      <string name="preferred_application_title">По умолчанию: %s</string>
      <string name="preferred_application_warning_message">Замена приложения \"%1$s\" может увеличить энергопотребление, снизить скорость работы устройства и подвергнуть систему риску. \nРекомендуется использовать приложение \"%2$s\".</string>
      <string name="preferred_application_warning_replace">Заменить</string>
-     <string name="preferred_application_warning_title">Замена приложения \"%s\"</string>
-     <string name="preferred_application_warning_use_system">Использовать \"%s\"</string>
+     <string name="preferred_application_warning_title">Замена \"%s\"</string>
+     <string name="preferred_application_warning_use_system">\"%s\"</string>
      <string name="preferred_launcher_title">Выбор рабочего стола</string>
      <string name="preferred_media_app_summary">Выберите музыкальный проигрыватель</string>
      <string name="privacy_mode_enable_sum">Скрыть журнал вызовов, сообщения и другую личную информацию</string>
@@ -1916,8 +1882,8 @@
      <string name="private_sms_reset_by_account">Войдите в аккаунт Xiaomi для восстановления пароля</string>
      <string name="process_kernel_label">Ядро Android</string>
      <string name="process_list_empty_hints">Нет процессов</string>
-     <string name="process_manage_title">Можно очистить: %1$d, освободится: %2$s мб</string>
-     <string name="process_manager_actionbar_title">Память</string>
+     <string name="process_manage_title">К очистке: %1$d | освободится: %2$s мб</string>
+     <string name="process_manager_actionbar_title">Использование памяти</string>
      <string name="process_mediaserver_label">Сервер медиа</string>
      <string name="process_provider_in_use_description">Провайдер %1$s используется</string>
      <string name="process_service_in_use_description">Служба %1$s используется</string>
@@ -2034,8 +2000,8 @@
      <string name="remove_inf">Удалить информацию?</string>
      <string name="remove_keyword">Удалить ключевое слово?</string>
      <string name="remove_sms">Удалить все журналы сообщений?</string>
-     <string name="reset_app_preferences">Сброс настроек приложений</string>
-     <string name="reset_app_preferences_button">Сброс приложений</string>
+     <string name="reset_app_preferences">Сбросить настройки приложений</string>
+     <string name="reset_app_preferences_button">Сбросить</string>
      <string name="reset_app_preferences_desc">"Это сбросит все настройки для:
 
 Отключенных приложений
@@ -2043,14 +2009,14 @@
 Приложений по умолчанию
 Ограничений фоновых данных приложений
 
-Данные приложений потеряны не будут."</string>
+Данные приложений потеряны не будут"</string>
      <string name="reset_app_preferences_title">Сбросить настройки приложений?</string>
      <string name="residual_cancel">Отмена</string>
      <string name="residual_clean">Удалить</string>
      <string name="residual_tips_hints">На SD-карте найдено остаточных файлов: %s</string>
-     <string name="restore_default_apn">Восстановление настроек точек доступа по умолчанию</string>
+     <string name="restore_default_apn">Восстановление настроек…</string>
      <string name="restore_default_apn_completed">Настройки по умолчанию восстановлены</string>
-     <string name="restore_default_settings">Восстановить настройки по умолчанию</string>
+     <string name="restore_default_settings">Сбросить настройки</string>
      <string name="retry">Повторить</string>
      <string name="ring_volume_title">Громкость звонка</string>
      <string name="ringtone_summary">""</string>
@@ -2659,24 +2625,24 @@
      <string name="virus_scan_app_stop">Остановить</string>
      <string name="virus_scan_app_stop_scan">Остановить сканирование</string>
      <string name="virus_scan_app_uninstall">Удалить (%d)</string>
-     <string name="virus_scan_app_waiting">Подождите…</string>
+     <string name="virus_scan_app_waiting">Ожидание…</string>
      <string name="virus_scan_can_use_wifi">Использовать облачную базу данных</string>
      <string name="virus_scan_clear">Удалить</string>
      <string name="virus_scan_dangerous">Риск</string>
      <string name="virus_scan_description">Это приложение является одним из основных рисков для безопасности устройства</string>
-     <string name="virus_scan_file_type_risk_apk">Подозрительное приложение (установить)</string>
-     <string name="virus_scan_file_type_risk_installed">Подозрительное приложение (установлено)</string>
-     <string name="virus_scan_file_type_virus_apk">Вирус (установить)</string>
-     <string name="virus_scan_file_type_virus_installed">Вирус (установлено)</string>
+     <string name="virus_scan_file_type_risk_apk">Обнаружена угроза (apk)</string>
+     <string name="virus_scan_file_type_risk_installed">Обнаружена угроза (приложение)</string>
+     <string name="virus_scan_file_type_virus_apk">Обнаружен вирус (apk)</string>
+     <string name="virus_scan_file_type_virus_installed">Обнаружен вирус (приложение)</string>
      <string name="virus_scan_find">Обнаружено угроз: %d</string>
      <string name="virus_scan_finish">Готово</string>
      <string name="virus_scan_finish_text">Теперь все в порядке :)</string>
      <string name="virus_scan_guard_provider_missed">Антивирус был взломан. Вам нужно выполнить полный сброс телефона.</string>
-     <string name="virus_scan_installed_package">%s (установлено)</string>
+     <string name="virus_scan_installed_package">%s (приложение)</string>
      <string name="virus_scan_is_cloud_scanning">Облачное сканирование…</string>
      <string name="virus_scan_is_scanning">Сканирование…</string>
      <string name="virus_scan_judge_is_virus">Проверять приложения на вирусы перед установкой</string>
-     <string name="virus_scan_last_risk">Подозрительные приложения, обнаруженные в последней проверке не были удалены</string>
+     <string name="virus_scan_last_risk">Подозрительные файлы не были удалены</string>
      <string name="virus_scan_last_scan_date">Последняя проверка: %d дн. назад</string>
      <string name="virus_scan_last_scan_today">"Последняя проверка: сегодня в "</string>
      <string name="virus_scan_last_scan_yesterday">"Последняя проверка: вчера "</string>
@@ -2687,7 +2653,7 @@
      <string name="virus_scan_lib_update_time">Обновлено: %s</string>
      <string name="virus_scan_link_wifi_to_update_lib">Обновлять автоматически</string>
      <string name="virus_scan_list_empty_content">Ничего не найдено</string>
-     <string name="virus_scan_list_item_risk">Подозрелельные файлы</string>
+     <string name="virus_scan_list_item_risk">Подозрительные файлы</string>
      <string name="virus_scan_list_item_virus">Зараженные файлы</string>
      <string name="virus_scan_list_loading_hits">Сканирование…</string>
      <string name="virus_scan_monitoring">Установить защиту</string>
@@ -2699,14 +2665,14 @@
      <string name="virus_scan_parpare">Запуск…</string>
      <string name="virus_scan_risk_button_name">Угрозы</string>
      <string name="virus_scan_risk_list_empty">Ничего не найдено</string>
-     <string name="virus_scan_risk_title">Подозрительных приложений: %d</string>
+     <string name="virus_scan_risk_title">Подозрительных файлов: %d</string>
      <string name="virus_scan_safe">Система защищена</string>
      <string name="virus_scan_settings">Настройки</string>
      <string name="virus_scan_settings_title">Настройки базы данных</string>
      <string name="virus_scan_start">Сканировать</string>
      <string name="virus_scan_stop">Остановить</string>
      <string name="virus_scan_support">Разработанно Tencent</string>
-     <string name="virus_scan_uninstalled_package">%s (установить)</string>
+     <string name="virus_scan_uninstalled_package">%s (apk)</string>
      <string name="virus_scan_unknown_virus_name">Неизвестный</string>
      <string name="virus_scan_update_lib">Обновить базу данных автоматически</string>
      <string name="virus_scan_update_now">Обновить</string>
@@ -2715,13 +2681,11 @@
      <string name="virus_scan_virus_title">Найдено вирусов: %d</string>
      <string name="virus_scan_viruslib_version">База данных: %s</string>
      <string name="virus_scanner_auto_update">Автообновление</string>
-	 <string name="virus_scanner_date_formater">d MMMM yyyy</string>
      <string name="virus_scanner_lib_already_latest">Вирусная база уже обновлена</string>
      <string name="virus_scanner_lib_update_failed">Ошибка обновления</string>
      <string name="virus_scanner_lib_update_success">Вирусная база данных обновлена автоматически</string>
      <string name="virus_scanner_lib_updating">Обновление…</string>
      <string name="virus_scanner_manual_update">Обновление на %s</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="virus_scanner_module">Tencent</string>
      <string name="virus_scanner_provider">Разработано: %s</string>
      <string name="virus_scanner_scan">Антивирус</string>
@@ -2735,10 +2699,10 @@
      <string name="virus_scanner_stop_title">Остановить</string>
      <string name="virus_scanner_title">Антивирус</string>
      <string name="virus_scanner_update_lib">Обновление баз антивируса</string>
-     <string name="virus_single_app_file_date">Создан:</string>
+     <string name="virus_single_app_file_date">Дата создания:</string>
      <string name="virus_single_app_install_date">Установлен:</string>
      <string name="virus_single_riskapk_title">Сведения</string>
-     <string name="virus_single_virus_description">Описание:</string>
+     <string name="virus_single_virus_description">Краткое описание:</string>
      <string name="virus_single_virus_name">Название:</string>
      <string name="virus_single_virusapk_button_clear">Удалить</string>
      <string name="virus_single_virusapk_title">Сведения</string>
