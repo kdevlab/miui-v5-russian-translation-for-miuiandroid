@@ -1611,7 +1611,7 @@
      <string name="perm_hips_wifi_network_desc">Wi-Fi сеть</string>
      <string name="perm_hips_wifi_network_hint">%1$s программы имеют доступ в Интернет через Wi-Fi сеть</string>
      <string name="perm_invalid_input">Неверный ввод</string>
-     <string name="perm_loading">Загрузка...</string>
+     <string name="perm_loading">Загрузка…</string>
      <string name="perm_log">Журналы</string>
      <string name="perm_log_clear_content">Все журналы будут удалены. Продолжить?</string>
      <string name="perm_log_clear_title">Очистить журналы</string>
@@ -1619,8 +1619,7 @@
      <string name="perm_manage_tab_title">Разрешения</string>
      <string name="perm_mian_name">Разрешения</string>
      <string name="perm_monitored_app">Мониторинг приложений (%1$d)</string>
-     <string name="perm_notice">Оповещение безопасности</string>
-     <string name="perm_operating">Обработка...</string>
+     <string name="perm_operating">Обработка…</string>
      <string name="perm_optimize">Оптимизировать</string>
      <string name="perm_privacy_app_count">%1$d разрешений</string>
      <string name="perm_privacy_app_finish">Завершить</string>

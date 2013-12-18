@@ -30,7 +30,8 @@
      <string name="express_inqiury_select_logistics">Выберите курьера</string>
      <string name="express_inquiry">Отслеживание</string>
      <string name="express_inquiry_button_text">Отследить</string>
-     <string name="express_inquiry_data_owner">Отслеживание информации: %s</string>
+     <string name="express_inquiry_data_owner_prefix">Отслеживание информации:</string>
+     <string name="express_inquiry_data_owner_suffix" />
      <string name="express_inquiry_delete_warning_multiple">Удалить %d выбранных записей?</string>
      <string name="express_inquiry_delete_warning_single">Удалить выбранные записи?</string>
      <string name="express_inquiry_delivered">Доставлено</string>
@@ -59,7 +60,18 @@
      <string name="menu_refresh">Обновить</string>
      <string name="menu_remove_black_list">Удалить из черного списка</string>
      <string name="mishop_web_payment_title">Оформить заказ MiStore</string>
-     <string name="network_unavaliable">Сеть не доступна. Пожалуйста, проверьте настройки сети.</string>
+	 <string name="navigation_search_all_cities">Все</string>
+     <string name="navigation_search_automatically_positioned_city">Текущий</string>
+     <string name="navigation_search_hot_cities">Популярные</string>
+     <string name="navigation_search_no_city_list">Город не найден</string>
+     <string name="navigation_search_positioning">Поиск местоположения…</string>
+     <string name="navigation_search_positioning_failed">Выберите город</string>
+     <string name="network_unavaliable">Сеть не доступна. Проверьте настройки сети.</string>
+	 <string name="order_empty_hint">Нет заказов</string>
+     <string name="order_id">ID заказа:%s</string>
+     <string name="order_merchant_title">Мои заказы - %s</string>
+     <string name="order_price">%s</string>
+     <string name="order_status">%s</string>
      <string name="packages_no_package">Нет подходящего пакета трафика</string>
      <string name="packages_pay">Купить</string>
      <string name="packages_pay_confirm">Подтверждаю</string>
@@ -75,6 +87,7 @@
      <string name="payment_unknown_status_summary">Проверьте подключение к сети и попробуйте снова</string>
      <string name="payment_unknown_status_title">Нет информации об оплате</string>
      <string name="phone_info_divider">" ｜ "</string>
+	 <string name="provider">Опознано с помощью %s</string>
      <string name="provider_tag">Источник данных</string>
      <string name="recharge_actual_price">Цена:</string>
      <string name="recharge_charge_range">Цена: ¥%1$s-%2$s</string>
@@ -98,9 +111,9 @@
      <string name="recharge_select_money_title">Выберите размер пополнения</string>
      <string name="recharge_status_description">Статус:</string>
      <string name="recharge_title">Пополнение</string>
-     <string name="recharge_user_confirm_summary">"Вы пополнили %1$s на %2$s RMB！
+     <string name="recharge_user_confirm_summary">"Вы пополнили %1$s на %2$s юань！
 
-Всего RMB: %3$s."</string>
+Всего: %3$s юань."</string>
      <string name="recharge_user_confirm_title">Подтвердить</string>
      <string name="remind_another_time">Не вводите этот номер</string>
      <string name="remind_user_confirm">OK</string>

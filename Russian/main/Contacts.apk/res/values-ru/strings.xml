@@ -478,6 +478,8 @@
      <string name="local_profile_title">Мой профиль</string>
      <string name="local_search_label">Все контакты</string>
      <string name="locale_change_in_progress">Список контактов обновится после смены языка интерфейса</string>
+	 <string name="login_before_recharging">Перед пополнением нужно войти в аккаунт</string>
+     <string name="login_ok">Войти</string>
      <string name="lunarBirthdayLabelsGroup">Лунный день рождения</string>
      <string name="make_primary">Запомнить выбранное</string>
      <string name="map_custom">Просмотр адреса: %s</string>
@@ -768,6 +770,7 @@
      <string name="recent_updates">Недавние обновления</string>
      <string name="redirect_calls_to_vm_confirm_message">Если Вы не применили это у оператора, пожалуйста не включайте. Иначе, возможно, Вы не сможете получать вызовы от этого контакта.</string>
      <string name="redirect_calls_to_vm_confirm_text">Включить</string>
+	 <string name="refresh">Обновить</string>
      <string name="relationLabelsGroup">Отношения</string>
      <string name="remind_btn_ignore">Позже</string>
      <string name="remind_btn_sync_now">Сейчас</string>
@@ -958,26 +961,26 @@
      <string name="simContacts_empty">Нет контактов на SIM-карте</string>
      <string name="simContacts_emptyLoading">Загрузка контактов с SIM-карты…</string>
      <string name="simContacts_title">Контакты на SIM-карте</string>
-     <string name="sim_capacity">Размер SIM</string>
+     <string name="sim_capacity">Размер SIM-карты</string>
      <string name="sim_capacity_content" formatted="false">Всего %d, использовано %d</string>
      <string name="sim_card_no_free_space_message">Память SIM-карты заполнена. Пожалуйста, очистите SIM карту и попробуйте еще раз.</string>
      <string name="sim_card_no_free_space_title">SIM-карта заполнена!</string>
      <string name="sim_contact_dropdown_menu_deselect_all_miui">Снять все</string>
      <string name="sim_contact_dropdown_menu_select_all_miui">Выбрать все</string>
      <string name="sim_contact_existing">Этот контакт SIM уже существует</string>
-     <string name="sim_contact_number_missing">Контакт SIM не содержит номера</string>
+	 <string name="sim_contact_invalid">Неверный контакт SIM-карты</string>
      <string name="sim_contact_search_error">Произошла ошибка при поиске контактов с SIM-карты</string>
      <string name="sim_contacts">Контакт на SIM-карте</string>
      <string name="sim_error_anr_full">Хранилище номеров заполнено</string>
      <string name="sim_error_email_full">Хранилище почтовых адресов заполнено</string>
      <string name="sim_error_email_too_long">E-mail слишком длинный</string>
      <string name="sim_error_generic_failure">Ошибка</string>
-     <string name="sim_error_not_ready">Загрузка контактов SIM, пожалуйста, подождите…</string>
+     <string name="sim_error_not_ready">Загрузка контактов SIM-карты. Подождите…</string>
      <string name="sim_error_number_too_long">Номер слишком длинный</string>
      <string name="sim_error_password_error">Ошибка пароля</string>
      <string name="sim_error_storage_full">Хранилище заполнено</string>
      <string name="sim_error_text_too_long">Имя слишком длинное</string>
-     <string name="sim_export_loading">SIM-карта считывается. Операция может занять несколько минут, пожалуйста, подождите…</string>
+     <string name="sim_export_loading">SIM-карта считывается. Операция может занять несколько минут…</string>
      <string name="sim_indexed_contact_not_exist">Позиция %1$d не является допустимой на SIM-карте, должна быть между %2$d и %3$d</string>
      <string name="sim_no_contact">Нет контактов на SIM-карте</string>
      <string name="single_group_list_empty">Нет контактов в группе</string>
@@ -1028,7 +1031,8 @@
      <string name="strequentList">Избранные</string>
      <string name="success_message_import_from_account">Импорт завершен</string>
      <string name="summary_kind_title">Основная информация</string>
-     <string name="t9_search_guide">Введите номер телефона или найдите контакт с помощью T9</string>
+     <string name="t9_search_guide_pinyin">Введите номер или найдите контакт с помощью T9</string>
+     <string name="t9_search_guide_zhuyin">Введите номер или найдите контакт с помощью T9</string>
      <string name="take_new_photo">Сделать фотографию</string>
      <string name="take_photo">Сделать фотографию</string>
      <string name="titleJoinContactDataWith">Объединить контакты</string>
@@ -1092,5 +1096,12 @@
      <string name="voicemail_status_voicemail_not_available">Нет подключения к серверу гол. почты</string>
      <string name="websiteLabelsGroup">Веб-сайт</string>
      <string name="wipe_data">Очистить данные</string>
+	 <string name="yellowPageNavigationIconLabel">Категории</string>
+     <string name="yellowPageNavigationLabel">Категории</string>
+     <string name="yellowpage_navigation_no_content">Ничего не найдено</string>
+     <string name="yellowpage_navigation_search_city_name_hint">Город</string>
+     <string name="yellowpage_navigation_search_hint">Поиск</string>
+     <string name="yellowpage_navigation_search_offline_hint">Нет доступа в интерент</string>
+     <string name="yellowpage_navigation_search_select_city">Выберите город</string>
      <string name="zero_items_selected">Выберите контакты</string>
 </resources>

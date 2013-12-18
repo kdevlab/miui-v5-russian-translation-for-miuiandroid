@@ -53,12 +53,33 @@
      <string name="btn_wait_confirm_count">Ожидание （%1$s）</string>
      <string name="button_call">Звонок</string>
      <string name="button_cancel">Отмена</string>
+	 <string name="button_confirm">OK</string>
+     <string name="button_next">Далее</string>
      <string name="button_pay">Оплатить</string>
      <string name="button_recharge">Пополнить</string>
      <string name="button_recharge_pay">Пополнить</string>
      <string name="button_retry">Повтор</string>
      <string name="cancel">Отмена</string>
      <string name="change_security_lock">Изменить блокировку</string>
+	 <string name="colon">": "</string>
+     <string name="detail_consume_account">ID покупки</string>
+     <string name="detail_consume_amount">Количество</string>
+     <string name="detail_consume_name">Продукт</string>
+     <string name="detail_consume_order">ID платежа</string>
+     <string name="detail_consume_time">Время</string>
+     <string name="detail_consume_title">Записи оплаты</string>
+     <string name="detail_giftcard_activity">Подарочные карты</string>
+     <string name="detail_giftcard_expired_time">Дата окончания</string>
+     <string name="detail_giftcard_theme">Покупка тем</string>
+     <string name="detail_giftcard_title">Сведения о карте</string>
+     <string name="detail_giftcard_total">Всего карт</string>
+     <string name="detail_pay_account">ID платежа</string>
+     <string name="detail_recharge_account">ID пополнения</string>
+     <string name="detail_recharge_amount">Сумма</string>
+     <string name="detail_recharge_method">Метод</string>
+     <string name="detail_recharge_order">Номер заказа пополнения</string>
+     <string name="detail_recharge_time">Время</string>
+     <string name="detail_recharge_title">Записи поплнения</string>
      <string name="error_account_changed_summary">"Изменилась информация об аккаунте.
 Пожалуйста, войдите занова."</string>
      <string name="error_account_changed_title">Аккаунт изменен</string>
@@ -432,7 +453,7 @@ You have purchased [%1$s] for a value of [%2$s yuan]. Customer Service Phone: %3
      <string name="msg_send_no_net_error">Ошибка отправки сообщения: поставщик услуг недоступен</string>
      <string name="msg_send_no_sim_error">Ошибка отправки сообщения: проверьте SIM-карту</string>
      <string name="msg_send_send_fail_error">Ошибка отправки сообщения</string>
-     <string name="msg_telecom_order_denom">%1s￥ （не включая передачу данных）</string>
+     <string name="msg_telecom_order_denom">%1s юань （не включая передачу данных）</string>
      <string name="msg_telecom_order_denom_label">Сумма долга:</string>
      <string name="msg_telecom_order_goods">%1s MiCredits</string>
      <string name="msg_telecom_order_goods_label">О заказе:</string>
@@ -441,7 +462,6 @@ You have purchased [%1$s] for a value of [%2$s yuan]. Customer Service Phone: %3
      <string name="msg_telecom_picker_hint_2_1">Успешно отправлено!</string>
      <string name="msg_telecom_picker_hint_2_2">В ближайшее время Вы получите текстовое подтверждение</string>
      <string name="msg_telecom_sending">Ожидание провайдера сети…</string>
-     <string name="onemore_click_exit">Нажмите еще раз, чтобы выйти</string>
      <string name="order_price">%1$s MiCredits</string>
      <string name="password_error">Неверный пароль</string>
      <string name="password_hint">Введите пароль от аккаунта</string>
@@ -510,6 +530,9 @@ You have purchased [%1$s] for a value of [%2$s yuan]. Customer Service Phone: %3
      <string name="recharge_push_notification_sub_title">Пополнение завершено</string>
      <string name="recharge_record_empty">Нет записей</string>
      <string name="recharge_voucher_title">Карта MiCredit</string>
+	 <string name="scan_prompt_number">Сканировать номер карты предоплаты %1$s</string>
+     <string name="scan_prompt_password">Сканировать пароль карты предоплаты %1$s</string>
+     <string name="scan_prompt_voucher">Сканировать пароль MiCredit</string>
      <string name="security_setting">Настройки безопасности</string>
      <string name="summary_lockpattern">Защита Micredit ключем блокировки</string>
      <string name="title_change_lockpattern">Сменить ключ</string>
@@ -517,8 +540,7 @@ You have purchased [%1$s] for a value of [%2$s yuan]. Customer Service Phone: %3
      <string name="title_gesture">Графический ключ</string>
      <string name="title_giftcard">Акции</string>
      <string name="title_lockpattern">Включить блокировку</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="title_mili_center">MiCredits</string>
+     <string name="title_mili_center">Мои MiCredits</string>
      <string name="title_myaccount">Мой аккаунт: %s</string>
      <string name="title_nopassword">Не требовать для мелких платежей</string>
      <string name="title_nopassword_dialog">Суточный лимит</string>

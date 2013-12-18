@@ -41,7 +41,7 @@
      <string name="error_unsupport_content">Эта заметка содержит неподдерживаемые данные, нажмите для обновления системы</string>
      <string name="error_widget_exist_for_send_to_desktop">Эта заметка уже есть на рабочем столе</string>
      <string name="failed_sdcard_export">Экспорт прерван!</string>
-     <string name="folder_exist">Папка %1$s уже существует, введите другое имя</string>
+     <string name="folder_exist">Папка с таким именем уже существует</string>
      <string name="format_exported_file_location">Заметки экспортированы в файл /%1$s/ в папке %2$s на SD-карте</string>
      <string name="format_move_notes_to_folder">Заметки %1$d перемещены в %2$s</string>
      <string name="hint_foler_name">Введите имя</string>

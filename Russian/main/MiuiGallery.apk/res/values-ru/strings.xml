@@ -13,7 +13,6 @@
      <string name="add_to_cloud_fail_too_many_items">Ошибка завершения операции. Возможно выбрано слишком много пунктов.</string>
      <string name="add_to_cloud_failed_message_with_count">%2$s фотографий не могут быть добавлены в облачный альбом %1$s</string>
      <string name="add_to_cloud_file_exist_message">Фото уже существует в выбранном альбоме</string>
-     <string name="add_to_cloud_file_not_exist_message">Файл не существует</string>
      <string name="add_to_cloud_folder">В облако</string>
      <string name="add_to_cloud_image_limit_exceeded_message">Превышен лимит изображений</string>
      <string name="add_to_cloud_local_space_full_message">Накопитель полный или не подключен</string>
@@ -119,6 +118,8 @@
      <string name="confirm_delete_cloud_all_item_page" formatted="false">%s фотографий в %s альбомах, вы уверены, что хотите удалить?</string>
      <string name="confirm_delete_pictures">%s фотографий</string>
      <string name="confirm_delete_system_album">%s системный альбом. Вы уверены, что хотите удалить?</string>
+	 <string name="confirm_delete_this_picture">Удалить это изображение?</string>
+     <string name="confirm_delete_this_video">Удалить это видео?</string>
      <string name="confirm_delete_videos">%s видео</string>
 	 <string name="confirm_download">Вам необходимо скачать %s. Подсказка не будет больше показана.</string>
      <string name="contact_photo">Фото контакта</string>
@@ -249,7 +250,8 @@
      <string name="kick_sharer_successfully">Получатель удален</string>
      <string name="loading">Идет загрузка…</string>
      <string name="loading_failure">Не удалось загрузить фото</string>
-     <string name="loading_thumbnail">Загрузка эскизов</string>
+     <string name="loading_members">Загрузка пользователей…</string>
+     <string name="loading_thumbnail">Загрузка эскизов…</string>
      <string name="local_albums">Альбомы</string>
      <string name="location">Место съемки</string>
      <string name="locations">Места</string>
@@ -379,7 +381,6 @@
      <string name="scan_barcode_to_join">Отсканируйте QR-код, чтобы присоединиться к альбому</string>
      <string name="scan_qr_code_buttom_text">Отсканируйте QR-код, чтобы посмотреть этом альбом</string>
      <string name="scan_qr_code_failure">Не удалось отсканировать QR-код</string>
-     <string name="scan_qr_code_top_text">Пользователи могут просматривать и добавлять фотографии</string>
      <string name="screensaver_activate_mode">Заставка слайдшоу</string>
      <string name="screensaver_activate_only_charging">Активировать только при зарядке</string>
      <string name="screensaver_category">Заставка</string>
@@ -468,7 +469,6 @@
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="tencent_qzonepic">Qzone</string>
      <string name="there_is_no_image">Нет изображений</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="tieba">Tie Ba</string>
      <string name="time">Время</string>
      <string name="times">Даты</string>
@@ -477,7 +477,6 @@
      <string name="to_count">%d во всех</string>
      <string name="too_many_recipients">Сообщение имеет слишком много получателей (%1$s). Существует предел на %2$s получателей.</string>
      <string name="try_to_send">Отправить</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="ucdownloads_screenshot">UC Browser</string>
      <string name="unit_mm">мм</string>
      <string name="unpublish_failed">Не удалось отменить публикацию!</string>
@@ -485,12 +484,14 @@
      <string name="unpublishing">Отмена публикации, подождите…</string>
      <string name="untagged">Без тегов</string>
      <string name="user_alias_self">Я</string>
+	 <string name="video_download_in_process">Загрузка видео</string>
+     <string name="video_download_start">Начало загрузки</string>
      <string name="video_err">Не удалось воспроизвести видео</string>
+	 <string name="video_not_exist">Видео не существует</string>
      <string name="view_sharers">Посмотреть поделившихся</string>
      <string name="vignette">Виньетка</string>
      <string name="wallpaper">Рабочий стол</string>
      <string name="warn">Внимание</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="weikan_weikan">Weikan TV</string>
      <string name="where_is_barcode">Где QR код?</string>
      <string name="white_balance">Баланс белого</string>
