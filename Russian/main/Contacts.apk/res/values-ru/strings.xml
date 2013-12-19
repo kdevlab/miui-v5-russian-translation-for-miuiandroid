@@ -1096,8 +1096,8 @@
      <string name="voicemail_status_voicemail_not_available">Нет подключения к серверу гол. почты</string>
      <string name="websiteLabelsGroup">Веб-сайт</string>
      <string name="wipe_data">Очистить данные</string>
-	 <string name="yellowPageNavigationIconLabel">Категории</string>
-     <string name="yellowPageNavigationLabel">Категории</string>
+	 <string name="yellowPageNavigationIconLabel">Сервисы</string>
+     <string name="yellowPageNavigationLabel">Сервисы</string>
      <string name="yellowpage_navigation_no_content">Ничего не найдено</string>
      <string name="yellowpage_navigation_search_city_name_hint">Город</string>
      <string name="yellowpage_navigation_search_hint">Поиск</string>
