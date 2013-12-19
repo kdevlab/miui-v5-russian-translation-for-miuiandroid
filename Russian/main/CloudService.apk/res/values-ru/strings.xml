@@ -10,5 +10,5 @@
      <string name="sub_sync_item_sms_summary">Рекомендуется включить, иначе возможно чрезмерное потребление трафика</string>
      <string name="sub_sync_item_sms_title_wifi_only">Только по Wi-Fi</string>
      <string name="sync_item_sms_summary">Прочитанные SMS сообщения будут автоматически синхронизированы</string>
-     <string name="sync_item_sms_title">Синхронизация SMS</string>
+     <string name="sync_item_sms_title">Синхронизация сообщений</string>
 </resources>

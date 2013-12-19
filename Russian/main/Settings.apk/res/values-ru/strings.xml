@@ -231,7 +231,7 @@
      <string name="auto_startup_dialog_msg">"Система позволит приложению запускаться автоматически. Это может привести к потреблению трафика или батареи.
 Разрешить автозапуск?"</string>
      <string name="automatic_brightness">Автоподсветка</string>
-     <string name="available_size">%s (доступно)</string>
+     <string name="available_size">свободно %s</string>
      <string name="awake">Время включения устройства</string>
      <string name="back_key">Клавиша \"НАЗАД\"</string>
      <string name="background_data">Фоновый режим</string>
@@ -250,11 +250,11 @@
      <string name="backup_pw_set_button_text">Сохранить пароль</string>
      <string name="backup_section_title">Бэкап и восстановление</string>
      <string name="band_mode_failed">Сбой</string>
-     <string name="band_mode_loading">Загрузка списка частот...</string>
+     <string name="band_mode_loading">Загрузка списка частот…</string>
      <string name="band_mode_set">Настроить</string>
      <string name="band_mode_succeeded">Успешно</string>
      <string name="band_mode_title">Настроить частоту GSM/UMTS</string>
-     <string name="baseband_version">Модем</string>
+     <string name="baseband_version">Версия модема:</string>
      <string name="battery_action_app_details">О приложении</string>
      <string name="battery_action_app_settings">Настройки приложения</string>
      <string name="battery_action_bluetooth">Настройки Bluetooth</string>
@@ -346,12 +346,12 @@
      <string name="bluetooth_ask_lasting_discovery">Одному из приложений нужно, чтобы Ваш устройство было доступно для поиска на других устройствах. Включить Bluetooth?</string>
      <string name="bluetooth_auto_connect">Автоматическое подключение</string>
      <string name="bluetooth_confirm_passkey_msg">Для подключения к устройству&lt;br>&lt;b>%1$s&lt;/b>&lt;br>&lt;br>на нем должен отображаться этот код доступа:&lt;br>&lt;b>%2$s</string>
-     <string name="bluetooth_connect_specific_profiles_title">Подключить к...</string>
+     <string name="bluetooth_connect_specific_profiles_title">Подключить к…</string>
      <string name="bluetooth_connected">Подключено</string>
      <string name="bluetooth_connected_no_a2dp">Подключено (кроме A2DP)</string>
      <string name="bluetooth_connected_no_headset">Подключено (кроме HSP/HFP)</string>
      <string name="bluetooth_connected_no_headset_no_a2dp">Подключено (кроме HSP/HFP/A2DP)</string>
-     <string name="bluetooth_connecting">Подключение...</string>
+     <string name="bluetooth_connecting">Подключение…</string>
      <string name="bluetooth_connecting_error_message">Возникла неполадка при подключении к %1$s</string>
      <string name="bluetooth_connection_dialog_text">Подключиться к устройству \"%1$s\"?</string>
      <string name="bluetooth_connection_notif_message">Нажмите, чтобы подключиться к устройству \"%1$s\"</string>
@@ -383,7 +383,7 @@
      <string name="bluetooth_disconnect_pan_user_profile">Доступ в интернет через устройство %1$s будет отключен</string>
      <string name="bluetooth_disconnect_title">Отключиться?</string>
      <string name="bluetooth_disconnected">Отключено</string>
-     <string name="bluetooth_disconnecting">Отключение...</string>
+     <string name="bluetooth_disconnecting">Отключение…</string>
      <string name="bluetooth_display_passkey_pin_msg">Для подключения к устройству &lt;br>&lt;b>%1$s&lt;/b>&lt;br>&lt;br> введите на нем код &lt;br>&lt;b>%2$s&lt;/b>, а затем нажмите клавишу Return или Enter.</string>
      <string name="bluetooth_dock_settings">Настройки док-станции</string>
      <string name="bluetooth_dock_settings_a2dp">Для музыки и мультимедиа</string>
@@ -768,7 +768,7 @@
      <string name="device_admin_status">Администратор активирован и разрешает приложению %1$s выполнять следующие операции:</string>
      <string name="device_admin_title">Администрирование устройства</string>
      <string name="device_admin_warning">Активация этого администратора позволит приложению \"%1$s\" выполнять следующие операции:</string>
-     <string name="device_cpu">Процессор</string>
+     <string name="device_cpu">Процессор:</string>
      <string name="device_cpu2_info">"2 ядра "</string>
      <string name="device_cpu4_info">"4 ядра "</string>
      <string name="device_edit_title">Смена имени устройства</string>
@@ -776,8 +776,9 @@
      <string name="device_info_label">Сведения об устройстве</string>
      <string name="device_info_not_available">Недоступно</string>
      <string name="device_info_settings">Состояние телефона</string>
-     <string name="device_internal_memory">Память</string>
-     <string name="device_miui_version">Версия MIUI</string>
+     <string name="device_internal_memory">Внутренняя память:</string>
+	 <string name="device_memory">Память RAM:</string>
+     <string name="device_miui_version">Версия MIUI:</string>
      <string name="device_name">Имя устройства</string>
      <string name="device_name_input_error">Не удалось сохранить имя устройства, пожалуйста, введите еще ​​раз</string>
      <string name="device_name_input_hint">Введите имя устройства</string>
@@ -812,29 +813,29 @@
      <string name="dlg_confirm_unmount_title">Отключить USB накопитель?</string>
      <string name="dlg_error_unmount_text">Не удалось отключить USB накопитель. Повторите попытку позже.</string>
      <string name="dlg_ok">ОК</string>
-     <string name="dndm_auto_button_title">Время</string>
-     <string name="dndm_auto_setting_group">Включение по времени</string>
-     <string name="dndm_auto_time_setting">Выбор времени</string>
-     <string name="dndm_auto_time_setting_summary">с %1$s до %2$s</string>
+     <string name="dndm_auto_button_title">По времени</string>
+     <string name="dndm_auto_setting_group">Автоматическое включение</string>
+     <string name="dndm_auto_time_setting">В период</string>
+     <string name="dndm_auto_time_setting_summary">С %1$s до %2$s</string>
      <string name="dndm_auto_time_turn_off">До</string>
-     <string name="dndm_auto_time_turn_off_title">Автоматическое отключение функции Не беспокоить</string>
+     <string name="dndm_auto_time_turn_off_title">Автоматическое отключение тихого режима</string>
      <string name="dndm_auto_time_turn_on">С</string>
-     <string name="dndm_auto_time_turn_on_title">Автоматическое включение функции Не беспокоить</string>
+     <string name="dndm_auto_time_turn_on_title">Автоматическое включение тихого режима</string>
      <string name="dndm_dlg_remove_ok">Удалить</string>
      <string name="dndm_dlg_remove_vip">Удалить из списка исключений?</string>
-     <string name="dndm_menu_add_vip_custom">Добавить исключение</string>
-     <string name="dndm_mute_all">Отключить звонки и сообщения</string>
-     <string name="dndm_notification">Не беспокоить</string>
-     <string name="dndm_open">Не беспокоить</string>
+     <string name="dndm_menu_add_vip_custom">Добавить</string>
+     <string name="dndm_mute_all">Звонки и сообщения беззвучны</string>
+     <string name="dndm_notification">Активен тихий режим</string>
+     <string name="dndm_open">Включить режим</string>
      <string name="dndm_repeated_call_setting_title">Повторные звонки</string>
      <string name="dndm_repeated_call_summary_3min">Второй вызов от того же человека в течение трех минут не будет отключен</string>
      <string name="dndm_repeated_call_summary_none">Не делать исключения для повторных вызовов</string>
-     <string name="dndm_special_call_setting_group">Исключения</string>
-     <string name="dndm_summary">После включения режима не беспокоить, входящие звонки и сообщения будут без звука</string>
+     <string name="dndm_special_call_setting_group">Настройки исключений</string>
+     <string name="dndm_summary">После включения тихого режима, входящие звонки и сообщения будут без звука</string>
      <string name="dndm_twelve_hour_time_format">a h:mm</string>
      <string name="dndm_twenty_four_hour_time_format">HH:mm</string>
-     <string name="dndm_vip_call_button_title">Разрешить из списка исключений</string>
-     <string name="dndm_vip_call_setting_title">Настрока исключений</string>
+     <string name="dndm_vip_call_button_title">Из списка исключений</string>
+     <string name="dndm_vip_call_setting_title">Настройка исключений</string>
      <string name="dndm_vip_call_summary_contact">Все контакты</string>
      <string name="dndm_vip_call_summary_custom">Исключений: %d</string>
      <string name="dndm_vip_call_summary_none">Нажмите для настройки</string>
@@ -842,7 +843,7 @@
      <string name="dndm_vip_list_custom">Исключения</string>
      <string name="dndm_vip_list_custom_group">Исключения</string>
      <string name="dndm_vip_list_group">Список исключений</string>
-     <string name="do_not_disturb_mode">Не беспокоить</string>
+     <string name="do_not_disturb_mode">Тихий режим</string>
      <string name="dock_audio_settings_title">Аудио</string>
      <string name="dock_audio_summary_car">Настройки док-станции автомобиля</string>
      <string name="dock_audio_summary_desk">Настройки подключенной настольной док-станции</string>
@@ -970,8 +971,7 @@
      <string name="firewall_log">Журнал</string>
      <string name="firewall_settings">Настройки режима не беспокоить</string>
      <string name="firewall_settings_tab_title">Правила</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="firmware_version">Android</string>
+     <string name="firmware_version">Версия Android:</string>
      <string name="floating_window_switch_label">Всплывающие окна</string>
      <string name="floating_window_switch_label_disable">Скрыть всплывающее окно</string>
      <string name="font_size_huge">Огромный</string>
@@ -1036,7 +1036,7 @@
      <string name="fw_no_effect">Гостевой режим не включен. Хотите включить его сейчас?</string>
      <string name="fw_notes_hint">Заметка</string>
      <string name="fw_notification_settings">Настройки уведомлений</string>
-     <string name="fw_on">Включен режим не беспокоить</string>
+     <string name="fw_on">Включен тихий режим</string>
      <string name="fw_period">Установить время</string>
      <string name="fw_restore_ms">Восстановить сообщения</string>
      <string name="fw_set_keyword">Настроить фильтр</string>
@@ -1353,7 +1353,7 @@
      <string name="memory_media_usage">Мультимедиа</string>
      <string name="memory_music_usage">Аудио (музыка, мелодии, подкасты и т. п.)</string>
      <string name="memory_size">Всего места</string>
-     <string name="memory_title">Доступно %1$s\u0009\u0009Всего %2$s</string>
+     <string name="memory_title">Доступно: %1$s\u0009\u0009Всего: %2$s</string>
      <string name="menu_cancel">Отменить</string>
      <string name="menu_delete">Удалить</string>
      <string name="menu_edit">Изменить</string>
@@ -2349,7 +2349,7 @@
 %1$s"</string>
      <string name="sync_plug">"Добро пожаловать в Google Sync! 
 Технология Google синхронизации данных позволяет получать данные о контактах, встречах и многом другом с любого устройства."</string>
-     <string name="sync_settings">Аккаунты и синхронизация</string>
+     <string name="sync_settings">Синхронизация</string>
      <string name="sync_wifi_label">Настройки Wi-Fi</string>
      <string name="sync_wifi_only">Только Wi-Fi</string>
      <string name="system">Система</string>
@@ -2378,10 +2378,8 @@
      <string name="title_data_flow_yes">Контроль трафика включен</string>
      <string name="title_dolby_control">Настройки Dolby Mobile</string>
      <string name="title_font_size">Размер шрифта</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="title_install_virus_no">Install monitor off</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="title_install_virus_yes">Install monitor on</string>
+     <string name="title_install_virus_no">Защита отключена</string>
+     <string name="title_install_virus_yes">Защита включена</string>
      <string name="title_miui_update_no">Обновления MIUI: %s</string>
      <string name="title_miui_update_yes">MIUI обновлена</string>
      <string name="title_mms_no">Фильтрация сообщений отключена</string>
@@ -2395,9 +2393,9 @@
      <string name="title_virus_update_yes">Автообновление вирусной базы данных включено</string>
      <string name="title_virus_yes">Вирусов не обнаружено</string>
      <string name="toast_qucik_scan_list_empty">Чистка не требуется</string>
-     <string name="total_size">%s (всего)</string>
+     <string name="total_size">"всего %s   "</string>
      <string name="total_size_label">Всего</string>
-     <string name="track_frame_time">Профиль GPU рендеринга</string>
+     <string name="track_frame_time">Время отрисовки</string>
      <string name="track_frame_time_summary">Вычислять время отрисовки в adb shell dumpsys gfxinfo</string>
      <string name="trackball_settings">Трекбол</string>
      <string name="trackball_wake_title">Пробуждение от трекбола</string>

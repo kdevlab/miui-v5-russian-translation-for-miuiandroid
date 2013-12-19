@@ -160,8 +160,8 @@
      <string name="screenshot_saving_text">Скриншот сохранен</string>
      <string name="screenshot_saving_ticker">"Скриншот сохраняется "</string>
      <string name="screenshot_saving_title">"Скриншот сохраняется "</string>
-     <string name="settings_all_app_display_loading">Идет загрузка, пожалуйста, подождите</string>
-     <string name="settings_custom_notification">Пользовательские уведомления</string>
+     <string name="settings_all_app_display_loading">Загрузка, подождите…</string>
+     <string name="settings_custom_notification">Настроить уведомления</string>
      <string name="settings_expandable_under_fullscreen">Полноэкранные приложения</string>
      <string name="settings_expandable_under_fullscreen_summary">Возможность доступа к панели состояния при работе с полноэкранными приложениями</string>
      <string name="settings_expandable_under_keyguard">Заблокированный экран</string>
@@ -170,16 +170,16 @@
      <string name="settings_notification_bar">Панель уведомлений</string>
      <string name="settings_screenshot_notification_disabled">Скрывать скриншоты</string>
      <string name="settings_show_flow_info">Отображать трафик</string>
-     <string name="settings_show_network_speed">Отображать скорость сети</string>
-     <string name="settings_show_notificationBar_notification">Показать уведомления панели уведомлений</string>
-     <string name="settings_show_statusBar_notification">Показать уведомления строки состояния</string>
+     <string name="settings_show_network_speed">Скорость сети</string>
+     <string name="settings_show_notificationBar_notification">Уведомления в панели</string>
+     <string name="settings_show_statusBar_notification">Уведомления в строке</string>
      <string name="settings_status_bar">Панель уведомлений</string>
      <string name="settings_toggle_collapse_after_clicked">Свернуть после нажатия</string>
      <string name="settings_toggle_layout_style">Стиль панели</string>
-     <string name="settings_toggle_layout_style_applying">Изменение стиля переключателей…</string>
+     <string name="settings_toggle_layout_style_applying">Применение стиля…</string>
      <string name="settings_toggle_layout_style_compact">Компакт</string>
      <string name="settings_toggle_layout_style_single_page">Сетка</string>
-     <string name="settings_toggle_position">Расположение переключателей</string>
+     <string name="settings_toggle_position">Настроить переключатели</string>
      <string name="settings_toggle_position_divider_list">Переключатели выше - показываются</string>
      <string name="settings_toggle_position_divider_page">%1$d переключателей выше - показываются</string>
      <string name="settings_toggle_position_reset">Сброс переключателей</string>
@@ -188,7 +188,7 @@
 d MMMM yyyy"</string>
      <string name="status_bar_input_method_settings_configure_input_methods">Настройка методов ввода</string>
      <string name="status_bar_network_flow">Сегодня: %1$s | Осталось: %2$s | Всего: %3$s</string>
-     <string name="status_bar_network_flow_exceed">Сегодня: %1$s | Превышение: %2$s | Пакет: %3$s</string>
+     <string name="status_bar_network_flow_exceed">Сегодня: %1$s | Превышение: %2$s | Всего: %3$s</string>
      <string name="status_bar_network_flow_today">Сегодня: %1$s</string>
      <string name="status_bar_no_recent_apps">Нет недавних приложений</string>
      <string name="status_bar_notification_inspect_item_title">О приложении</string>
@@ -208,7 +208,7 @@ d MMMM yyyy"</string>
      <string name="status_bar_settings_signal_meter_disconnected">Нет подключения к интернету</string>
      <string name="status_bar_settings_signal_meter_wifi_nossid">Wi-Fi подключен</string>
      <string name="status_bar_settings_wifi_button">Wi-Fi</string>
-     <string name="status_bar_style_settings">Панель состояния</string>
+     <string name="status_bar_style_settings">Настройки панели</string>
      <string name="status_bar_toggle_ac">Доступ</string>
      <string name="status_bar_toggle_auto_brightness">Автоподсв.</string>
      <string name="status_bar_toggle_bluetooth">Bluetooth</string>
@@ -225,7 +225,7 @@ d MMMM yyyy"</string>
      <string name="status_bar_toggle_power_mid">Баланс</string>
      <string name="status_bar_toggle_power_mode">Режим питания</string>
      <string name="status_bar_toggle_privacy_mode">Гость</string>
-     <string name="status_bar_toggle_quiet_mode">Не беспокоить</string>
+     <string name="status_bar_toggle_quiet_mode">Тихий режим</string>
      <string name="status_bar_toggle_reboot">Перезагрузка</string>
      <string name="status_bar_toggle_ring">Звук</string>
      <string name="status_bar_toggle_ringtone">Мелодия</string>
