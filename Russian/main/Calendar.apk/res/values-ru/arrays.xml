@@ -189,4 +189,8 @@
         <item>Закрытое</item>
         <item>Для всех</item>
      </string-array>
+	 <string-array name="widget_style_list">
+        <item>Черный прозрачный</item>
+        <item>Белый</item>
+     </string-array>
 </resources>

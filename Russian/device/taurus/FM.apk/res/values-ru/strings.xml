@@ -84,6 +84,7 @@
      <string name="preset_tune">Настроить</string>
      <string name="presetlist_autoselect_title">Подтвердить автовыбор</string>
      <string name="radio_text_string">Это слишком длинный текст, который нужен для прокрутки</string>
+	 <string name="record_completed">Запись завершена</string>
      <string name="record_error_unknown">Запись остановлена. Неизвестная ошибка во время записи.</string>
      <string name="record_fail">Запись не удалась</string>
      <string name="record_file_format">%1$s_%2$s</string>

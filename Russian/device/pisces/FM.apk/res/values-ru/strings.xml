@@ -69,6 +69,7 @@
     <string name="search_dialog_title">Сканировать станции</string>
     <string name="fmradio_clear_confirm_msg">Сохраненные радиостанции будут удалены. Продолжить сканирование?</string>
     <string name="radio_text_string">Это длинное текстовое сообщение, которое нужно прокрутить</string>
+	<string name="record_completed">Запись завершена</string>
     <string name="frequency_string" />
     <string name="fm_command_timeout_title">Время ожидания вышло</string>
     <string name="fm_tune_timeout_msg">Попробуйте перезагрузить телефон</string>

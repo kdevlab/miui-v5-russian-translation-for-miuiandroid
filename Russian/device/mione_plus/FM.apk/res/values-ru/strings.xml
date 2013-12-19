@@ -27,6 +27,7 @@
      <string name="fmradio_scan_begin_msg">Сканирование радиостанций</string>
      <string name="fmradio_service_label">Радио</string>
      <string name="fmradio_waiting_for_power_on">Радио включено, пожалуйста, подождите...</string>
+	 <string name="record_completed">Запись завершена</string>
      <string name="frequency">Частота:</string>
      <string name="frequency_already_exist">Частота уже существует</string>
      <string name="frequency_out_of_range">(%1$s~%2$s) Частота вне диапозона</string>

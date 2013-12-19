@@ -99,6 +99,7 @@
      <string name="preset_tune">Мелодия</string>
      <string name="presetlist_autoselect_title">Автоматический выбор</string>
      <string name="radio_text_string">Это длинное текстовое сообщение, которое нужно прокрутить</string>
+	 <string name="record_completed">Запись завершена</string>
      <string name="record_error_file_removed">Запись удалена. Произошла неизвестная ошибка.</string>
      <string name="record_error_unknown">Запись остановлена. Произошла неизвестная ошибка.</string>
      <string name="record_fail">Ошибка записи</string>
