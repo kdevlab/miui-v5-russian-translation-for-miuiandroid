@@ -405,13 +405,14 @@
     <string name="unknown">Неизвестный номер</string>
     <string name="unknown_caller">Неизвестный абонент</string>
     <string name="user_agreement1">Вы будете использовать системы и интернет-услуги, предоставляемые Xiaomi, пожалуйста, прочитайте</string>
-    <string name="user_agreement2">" Пользовательское соглашение"</string>
+    <string name="user_agreement2">" Пользовательское соглашение "</string>
     <string name="user_agreement3">" и "</string>
     <string name="user_agreement4">Политику конфиденциальности</string>
     <string name="user_agreement5">, Нажимая ОК, Вы соглашаетесь с вышеуказанным. Нажмите Отмена для выхода.</string>
     <string name="v5_date_picker_label_day" />
     <string name="v5_date_picker_label_month" />
     <string name="v5_date_picker_label_year" />
+	<string name="v5_date_time_picker_dialog_title">Время напоминания</string>
     <string name="v5_deselect_all">Отменить все</string>
     <string name="v5_edit_mode_title_empty">Выберите позиции</string>
     <string name="v5_icon_menu_bar_more_item_label">Еще</string>
@@ -426,7 +427,7 @@
     <string name="volume_icon_description_media">Медиа</string>
     <string name="volume_icon_description_notification">Уведомления</string>
     <string name="volume_icon_description_ringer">Рингтон</string>
-    <string name="wake_alarm_message">Уведомление об отключении прозвучит через %s</string>
+    <string name="wake_alarm_message">Уведомление о отключении через %s</string>
     <string name="white_dews" />
     <string name="winter_begins">Зима</string>
     <string name="winter_solstice" />
@@ -465,7 +466,7 @@
     <string name="return_to_me_message">Пожалуйста, верните, если я потерял</string>
     <string name="unlock_string">OK</string>
     <string name="open_wifi_settings">Открытое подключение к сети</string>
-    <string name="lock_screen_date">"dd MMMM yyyy
+    <string name="lock_screen_date">"d MMMM yyyy
 EEEE"</string>
     <string name="unlockscreen_low_battery">Подключите зарядное устройство</string>
     <string name="send">Отправить</string>
