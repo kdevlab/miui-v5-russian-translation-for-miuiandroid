@@ -53,7 +53,8 @@
      <string name="btn_wait_confirm_count">Ожидание （%1$s）</string>
      <string name="button_call">Звонок</string>
      <string name="button_cancel">Отмена</string>
-	 <string name="button_confirm">OK</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="button_confirm">OK</string>
      <string name="button_next">Далее</string>
      <string name="button_pay">Оплатить</string>
      <string name="button_recharge">Пополнить</string>
@@ -61,7 +62,7 @@
      <string name="button_retry">Повтор</string>
      <string name="cancel">Отмена</string>
      <string name="change_security_lock">Изменить блокировку</string>
-	 <string name="colon">": "</string>
+     <string name="colon">": "</string>
      <string name="detail_consume_account">ID покупки</string>
      <string name="detail_consume_amount">Количество</string>
      <string name="detail_consume_name">Продукт</string>
@@ -192,6 +193,7 @@ You have purchased [%1$s] for a value of [%2$s yuan]. Customer Service Phone: %3
      <string name="linkpay_account_cannot_be_null">Linkpay account is required</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="linkpay_achieve_charge">Complete payment</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="linkpay_app_name">Linkpay</string>
      <string name="linkpay_back_game">Назад в игру</string>
      <string name="linkpay_cancel">Отмена</string>
@@ -530,7 +532,7 @@ You have purchased [%1$s] for a value of [%2$s yuan]. Customer Service Phone: %3
      <string name="recharge_push_notification_sub_title">Пополнение завершено</string>
      <string name="recharge_record_empty">Нет записей</string>
      <string name="recharge_voucher_title">Карта MiCredit</string>
-	 <string name="scan_prompt_number">Сканировать номер карты предоплаты %1$s</string>
+     <string name="scan_prompt_number">Сканировать номер карты предоплаты %1$s</string>
      <string name="scan_prompt_password">Сканировать пароль карты предоплаты %1$s</string>
      <string name="scan_prompt_voucher">Сканировать пароль MiCredit</string>
      <string name="security_setting">Настройки безопасности</string>

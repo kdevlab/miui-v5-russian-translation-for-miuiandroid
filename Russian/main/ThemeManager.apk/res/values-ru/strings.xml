@@ -87,6 +87,7 @@
      <string name="resource_comment_invalid">Нажмите на звездочку, чтобы оценить</string>
      <string name="resource_comment_loading_list">Loading…</string>
      <string name="resource_comment_name_default">Пользователь %1$s</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="resource_comment_no_average_score">0.0</string>
      <string name="resource_comment_no_comment">Нет комментариев</string>
      <string name="resource_comment_publish">Отправить</string>
@@ -143,6 +144,7 @@
      <string name="resource_get_auth_exceed_max_limit_title">Превышен предел авторизаций</string>
      <string name="resource_get_auth_missing">Тема не скачана с официального маркета. Пожалуйста, скачайте аналогичную тему из официального маркета.</string>
      <string name="resource_get_auth_retrieving">Получение авторизации…</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="resource_hint">Alert</string>
      <string name="resource_import_successful">Загрузка завершена</string>
      <string name="resource_importing">Импортирование</string>
@@ -188,6 +190,7 @@
 контент который Вы сейчас смотрите, в настоящее время недоступен в Вашем регионе"</string>
      <string name="resource_unknow_error">Неизвестная ошибка</string>
      <string name="resource_update">Обновить</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="resource_user_know">OK</string>
      <string name="resource_waiting_download">Ожидание</string>
      <string name="restore_default_theme_alert">Вы можете стать жертвой подделки темы. Перейдите в магазин тем, чтобы купить или повторно загрузить тему.</string>

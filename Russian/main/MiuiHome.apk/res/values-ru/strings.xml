@@ -183,6 +183,7 @@
      <string name="transformation_type_leftpage">Перелистывание</string>
      <string name="transformation_type_rotate">Вращение</string>
      <string name="transformation_type_stack">Каскад</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="uninstall">OK</string>
      <string name="uninstall_dialog_message">Удалить это приложение?</string>
      <string name="uninstall_dialog_title_format">\"%s\"</string>

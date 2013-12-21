@@ -60,14 +60,14 @@
      <string name="menu_refresh">Обновить</string>
      <string name="menu_remove_black_list">Удалить из черного списка</string>
      <string name="mishop_web_payment_title">Оформить заказ MiStore</string>
-	 <string name="navigation_search_all_cities">Все</string>
+     <string name="navigation_search_all_cities">Все</string>
      <string name="navigation_search_automatically_positioned_city">Текущий</string>
      <string name="navigation_search_hot_cities">Популярные</string>
      <string name="navigation_search_no_city_list">Город не найден</string>
      <string name="navigation_search_positioning">Поиск местоположения…</string>
      <string name="navigation_search_positioning_failed">Выберите город</string>
      <string name="network_unavaliable">Сеть не доступна. Проверьте настройки сети.</string>
-	 <string name="order_empty_hint">Нет заказов</string>
+     <string name="order_empty_hint">Нет заказов</string>
      <string name="order_id">ID заказа:%s</string>
      <string name="order_merchant_title">Мои заказы - %s</string>
      <string name="order_price">%s</string>
@@ -87,7 +87,7 @@
      <string name="payment_unknown_status_summary">Проверьте подключение к сети и попробуйте снова</string>
      <string name="payment_unknown_status_title">Нет информации об оплате</string>
      <string name="phone_info_divider">" ｜ "</string>
-	 <string name="provider">Опознано с помощью %s</string>
+     <string name="provider">Опознано с помощью %s</string>
      <string name="provider_tag">Источник данных</string>
      <string name="recharge_actual_price">Цена:</string>
      <string name="recharge_charge_range">Цена: ¥%1$s-%2$s</string>
@@ -116,6 +116,7 @@
 Всего: %3$s юань."</string>
      <string name="recharge_user_confirm_title">Подтвердить</string>
      <string name="remind_another_time">Не вводите этот номер</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="remind_user_confirm">OK</string>
      <string name="remind_user_suspect_number_message">"Преступники могут украсть номера чужих телефонов. В случае сомнений, пожалуйста, перезвоните, чтобы проверить.
 

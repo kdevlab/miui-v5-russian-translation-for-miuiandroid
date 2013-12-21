@@ -300,5 +300,6 @@
      <string name="wangpan_root_path">Мой диск</string>
      <string name="wifi_state">Статус Wi-Fi</string>
      <string name="xiaomi_account">Аккаунт Xiaomi</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="yes">OK</string>
 </resources>

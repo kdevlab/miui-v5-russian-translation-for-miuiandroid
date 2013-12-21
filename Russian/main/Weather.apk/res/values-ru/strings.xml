@@ -1,122 +1,144 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!-- Builded with CloudBuildr -->
 <resources>
-    <string name="sina_share_pendding">Отправка…</string>
-    <string name="sina_share_success">Успешно отправлено!</string>
-    <string name="sina_share_fail">Ошибка отправки!</string>
-    <string name="sina_token_expired_warning">Weibo account has expired, please rebind</string>
-    <string name="sina_token_invalid_warning">Weibo account is invalid, please rebind</string>
-    <string name="app_name">Погода</string>
-    <string name="weather_notification">Уведомления погоды</string>
-    <string name="location_notification">Уведомления о погоде</string>
-    <string name="enable_notification">Включить уведомления</string>
-    <string name="enable_notification_summary">Уведомлять меня при изменении погоды</string>
-    <string name="enable_notification_city">Уведомления о дожде, снеге, температуре при их критическом значении включено для %s</string>
-    <string name="sms_notification">Отправить по смс</string>
-    <string name="send_sms_notification">Пересылка информации о погоде</string>
-    <string name="send_sms_notification_summary">Поделитесь данными о сегодняшней погоде с семьей и друзьями по СМС</string>
-    <string name="location_management">Управление городами</string>
-    <string name="enable_gps">GPS</string>
-    <string name="add_city">Добавить город</string>
-    <string name="cancel">Отмена</string>
-    <string name="menu_send_sms">Отправить</string>
-    <string name="app_love_sms_title">Содержание смс</string>
-    <string name="app_love_view_title">Предпросмотр</string>
-    <string name="app_love_font_lng">%s</string>
-    <string name="app_nohave_net">Нет сетевого подключения</string>
-    <string name="app_unquiet_net">Сеть нестабильна, повторите попытку позже</string>
-    <string name="widget_loading">Нет данных о погоде</string>
-    <string name="act_find_city_hot_title">Популярные города</string>
-    <string name="act_find_city_title">Добавить город</string>
-    <string name="act_find_city_null_data">Город не найден</string>
-    <string name="act_find_city_hint">Поиск</string>
-    <string name="act_set_city_find_side_on">Включить местоположение</string>
-    <string name="act_set_city_find_side">Поиск города…</string>
-    <string name="local_city">Города</string>
-    <string name="act_set_city_re_find_side">Определение…</string>
-    <string name="act_set_city_find_side_error">Ошибка определения положения</string>
-    <string name="act_city_find_gps_error">Выберите город из списка</string>
-    <string name="act_weather_main_data_null">Нет данных о погоде, нажмите для обновления</string>
-    <string name="act_weather_cycle_update">Обновление…</string>
-    <string name="act_weather_update_time">Обновлено %s</string>
-    <string name="act_weather_cycle_low_temp">low</string>
-    <string name="act_weather_range_title">Погода в окрестностях</string>
-    <string name="act_weather_range_select">Выберите город</string>
-    <string name="menu_around">Рядом</string>
-    <string name="menu_location">Местоположение</string>
-    <string name="menu_notification">Уведомления</string>
-    <string name="menu_reload">Обновить</string>
-    <string name="menu_reloading">Обновление…</string>
-    <string name="menu_share">Поделиться</string>
-    <string name="menu_main">Индекс</string>
-    <string name="menu_trend">Тенденция</string>
-    <string name="menu_settings">Настройки</string>
-    <string name="menu_about">О программе</string>
-    <string name="share_weather_title">Share weather data</string>
-    <string name="share_sina">Отправить через Sina Weibo</string>
-    <string name="share_qq">Отправить через Tencent Weibo</string>
-    <string name="install_tencent">Скачать Weibo</string>
-    <string name="share_content">\#Погода MIUI#</string>
-    <string name="share_weather_content">"\#Погода MIUI#
-Сегодня %1$s's погода %2$s, %3$s, %4$s. %5$s."</string>
-    <string name="share_aqi_content">"\#Погода MIUI#
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="act_aqi_no2_title">NO2</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="act_aqi_pm10_title">PM10</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="act_aqi_pm25_title">PM2.5</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="act_aqi_so2_title">SO2</string>
+     <string name="act_city_find_gps_error">Выберите город из списка</string>
+     <string name="act_find_city_hint">Поиск</string>
+     <string name="act_find_city_hot_title">Популярные города</string>
+     <string name="act_find_city_null_data">Город не найден</string>
+     <string name="act_find_city_title">Добавить город</string>
+     <string name="act_init_dialog_finish">Информация о погоде добавлена</string>
+     <string name="act_set_city_find_side">Поиск города…</string>
+     <string name="act_set_city_find_side_error">Ошибка определения положения</string>
+     <string name="act_set_city_find_side_on">Включить местоположение</string>
+     <string name="act_set_city_re_find_side">Определение…</string>
+     <string name="act_weather_aqi_share">Поделиться</string>
+     <string name="act_weather_aqi_title">Индекс чистота воздуха</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="act_weather_cycle_low_temp">low</string>
+     <string name="act_weather_cycle_update">Обновление…</string>
+     <string name="act_weather_find_city_connect_net">Проверьте сеть и повторите еще раз</string>
+     <string name="act_weather_find_city_search_online">Поиск онлайн</string>
+     <string name="act_weather_find_city_searching">Поиск…</string>
+     <string name="act_weather_main_aqi_index">Чистота воздуха: %s</string>
+     <string name="act_weather_main_data_null">Нет данных о погоде, нажмите для обновления</string>
+     <string name="act_weather_range_select">Выберите город</string>
+     <string name="act_weather_range_title">Погода в окрестностях</string>
+     <string name="act_weather_update_time">Обновлено %s</string>
+     <string name="add_city">Добавить город</string>
+     <string name="alert_message_delete">Удалить выбранные города? (%d)</string>
+     <string name="alert_provider_message">Разрешите приложению использовать Ваше текущее местоположение</string>
+     <string name="alert_provider_title">Уведомление местоположения</string>
+     <string name="alert_title_delete">Удалить</string>
+     <string name="app_love_font_lng">%s</string>
+     <string name="app_love_sms_title">Содержание смс</string>
+     <string name="app_love_view_title">Предпросмотр</string>
+     <string name="app_name">Погода</string>
+     <string name="app_nohave_net">Нет сетевого подключения</string>
+     <string name="app_unquiet_net">Сеть нестабильна, повторите попытку позже</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="aqi_details_dangerous">People with heart or lung disease, older adults, and children should avoid all physical activity outdoors. Everyone else should avoid prolonged or heavy exertion.</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="aqi_details_fine">Unusually sensitive people should consider reducing prolonged or heavy exertion.</string>
+     <string name="aqi_details_good">Хорошая погода для прогулок на улице</string>
+     <string name="aqi_details_hazardous">Avoid all physical activity outdoors; people with heart or lung disease, older adults, and children should remain indoors and keep activity levels low.</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="aqi_details_light_pollution">People with heart or lung disease, older adults, and children should reduce prolonged or heavy exertion.</string>
+     <string name="aqi_details_unhealthy">People with heart or lung disease, older adults, and children should avoid prolonged or heavy exertion; everyone else should reduce prolonged or heavy exertion.</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="aqi_quality_index_dangerous">dangerous</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="aqi_quality_index_good">good</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="aqi_quality_index_hazardous">hazardous</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="aqi_quality_index_light_pollution">light pollution</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="aqi_quality_index_moderate">moderate</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="aqi_quality_index_pure">excellent</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="aqi_quality_index_unhealthy">unhealthy</string>
+     <string name="button_allow">Разрешить</string>
+     <string name="button_not_allow">Запретить</string>
+     <string name="cancel">Отмена</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="enable_gps">GPS</string>
+     <string name="enable_notification">Включить уведомления</string>
+     <string name="enable_notification_city">Уведомления о дожде, снеге, температуре при их критическом значении включено для %s</string>
+     <string name="enable_notification_summary">Уведомлять меня при изменении погоды</string>
+     <string name="first_start_network_toast_text">Доступ к сети для получения информации о погоде</string>
+     <string name="format_date_md">M/d kk:mm</string>
+     <string name="format_date_trend_md">M/d</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="format_date_week">EEE</string>
+     <string name="format_date_wmd">M/d EEE</string>
+     <string name="install_tencent">Скачать Weibo</string>
+     <string name="loading_weather">Загрузка погоды…</string>
+     <string name="local_city">Города</string>
+     <string name="location_allow_err">Не удалось определить местоположение</string>
+     <string name="location_management">Управление городами</string>
+     <string name="location_notification">Уведомления о погоде</string>
+     <string name="menu_about">О программе</string>
+     <string name="menu_around">Рядом</string>
+     <string name="menu_delete">Удалить</string>
+     <string name="menu_location">Местоположение</string>
+     <string name="menu_main">Индекс</string>
+     <string name="menu_notification">Уведомления</string>
+     <string name="menu_reload">Обновить</string>
+     <string name="menu_reloading">Обновление…</string>
+     <string name="menu_send_sms">Отправить</string>
+     <string name="menu_settings">Настройки</string>
+     <string name="menu_share">Поделиться</string>
+     <string name="menu_trend">Тенденция</string>
+     <string name="save_screen_shot_failed">Ошибка сохранения скриншота</string>
+     <string name="selected_format">Выбрано: %d</string>
+     <string name="send_sms_notification">Пересылка информации о погоде</string>
+     <string name="send_sms_notification_summary">Поделитесь данными о сегодняшней погоде с семьей и друзьями по СМС</string>
+     <string name="send_weather_sms_cycle">%1$s прогноз погоды:%2$s</string>
+     <string name="send_weather_sms_error">Нет информации о погоде</string>
+     <string name="send_weather_sms_main">%1$s %2$s,%3$s %4$s %5$s</string>
+     <string name="settings_weather_about">О программе</string>
+     <string name="settings_weather_animation">Анимация погоды</string>
+     <string name="settings_weather_play_ani_summary">Анимировать погоду на главном экране</string>
+     <string name="settings_weather_play_ani_title">Анимация</string>
+     <string name="settings_weather_pre_title">Погода</string>
+     <string name="settings_weather_preview">Просмотр анимации погоды</string>
+     <string name="settings_weather_title">Настройки</string>
+     <string name="share_aqi_content">"\#Погода MIUI#
 Сегодня %1$s's чистота воздуха: %2$s, %3$s. %4$s %5$s."</string>
-    <string name="save_screen_shot_failed">Ошибка сохранения скриншота</string>
-    <string name="trend_weather_today">Сегодня</string>
-    <string name="trend_weather_tomorrow">Завтра</string>
-    <string name="settings_weather_title">Настройки</string>
-    <string name="settings_weather_animation">Анимация погоды</string>
-    <string name="settings_weather_play_ani_title">Анимация</string>
-    <string name="settings_weather_play_ani_summary">Анимировать погоду на главном экране</string>
-    <string name="settings_weather_about">О программе</string>
-    <string name="settings_weather_pre_title">Погода</string>
-    <string name="settings_weather_preview">Просмотр анимации погоды</string>
-    <string name="menu_delete">Удалить</string>
-    <string name="selected_format">Выбрано: %d</string>
-    <string name="alert_title_delete">Удалить</string>
-    <string name="alert_message_delete">Удалить выбранные города? (%d)</string>
-    <string name="send_weather_sms_cycle">%1$s прогноз погоды:%2$s</string>
-    <string name="send_weather_sms_main">%1$s %2$s,%3$s %4$s %5$s</string>
-    <string name="send_weather_sms_error">Нет информации о погоде</string>
-    <string name="tip_weather">MIUI weather notification</string>
-    <string name="tip_weather_info_title_1">%1$s ожидается разность температур в %2$d градусов</string>
-    <string name="tip_weather_info_content_1">Bring layers!</string>
-    <string name="tip_weather_info_title_2">%1$s температура сегодня оценивается в %2$s</string>
-    <string name="alert_provider_title">Уведомление местоположения</string>
-    <string name="alert_provider_message">Разрешите приложению использовать Ваше текущее местоположение</string>
-    <string name="button_allow">Разрешить</string>
-    <string name="button_not_allow">Запретить</string>
-    <string name="location_allow_err">Не удалось определить местоположение</string>
-    <string name="format_date_wmd">M/d EEE</string>
-    <string name="format_date_md">M/d kk:mm</string>
-    <string name="format_date_week">EEE</string>
-    <string name="format_date_trend_md">M/d</string>
-    <string name="act_weather_aqi_title">Индекс чистота воздуха</string>
-    <string name="act_weather_main_aqi_index">Чистота воздуха: %s</string>
-    <string name="act_weather_aqi_share">Поделиться</string>
-    <string name="aqi_quality_index_pure">excellent</string>
-    <string name="aqi_quality_index_good">good</string>
-    <string name="aqi_quality_index_moderate">moderate</string>
-    <string name="aqi_quality_index_light_pollution">light pollution</string>
-    <string name="aqi_quality_index_unhealthy">unhealthy</string>
-    <string name="aqi_quality_index_dangerous">dangerous</string>
-    <string name="aqi_quality_index_hazardous">hazardous</string>
-    <string name="aqi_details_good">Хорошая погода для прогулок на улице</string>
-    <string name="aqi_details_fine">Unusually sensitive people should consider reducing prolonged or heavy exertion.</string>
-    <string name="aqi_details_light_pollution">People with heart or lung disease, older adults, and children should reduce prolonged or heavy exertion.</string>
-    <string name="aqi_details_unhealthy">People with heart or lung disease, older adults, and children should avoid prolonged or heavy exertion; everyone else should reduce prolonged or heavy exertion.</string>
-    <string name="aqi_details_dangerous">People with heart or lung disease, older adults, and children should avoid all physical activity outdoors. Everyone else should avoid prolonged or heavy exertion.</string>
-    <string name="aqi_details_hazardous">Avoid all physical activity outdoors; people with heart or lung disease, older adults, and children should remain indoors and keep activity levels low.</string>
-    <string name="act_aqi_pm25_title">PM2.5</string>
-    <string name="act_aqi_pm10_title">PM10</string>
-    <string name="act_aqi_so2_title">SO2</string>
-    <string name="act_aqi_no2_title">NO2</string>
-    <string name="first_start_network_toast_text">Доступ к сети для получения информации о погоде</string>
-    <string name="act_weather_find_city_search_online">Поиск онлайн</string>
-    <string name="act_weather_find_city_connect_net">Проверьте сеть и повторите еще раз</string>
-    <string name="weather_unit">°</string>
-    <string name="weather_unit_middle">~</string>
-    <string name="weather_unit_with_c">°C</string>
-    <string name="act_weather_find_city_searching">Поиск…</string>
-    <string name="act_init_dialog_finish">Информация о погоде добавлена</string>
-    <string name="loading_weather">Загрузка погоды…</string>
+     <string name="share_content">\#Погода MIUI#</string>
+     <string name="share_qq">Отправить через Tencent Weibo</string>
+     <string name="share_sina">Отправить через Sina Weibo</string>
+     <string name="share_weather_content">"\#Погода MIUI#
+Сегодня %1$s's погода %2$s, %3$s, %4$s. %5$s."</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="share_weather_title">Share weather data</string>
+     <string name="sina_share_fail">Ошибка отправки!</string>
+     <string name="sina_share_pendding">Отправка…</string>
+     <string name="sina_share_success">Успешно отправлено!</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="sina_token_expired_warning">Weibo account has expired, please rebind</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="sina_token_invalid_warning">Weibo account is invalid, please rebind</string>
+     <string name="sms_notification">Отправить по смс</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="tip_weather">MIUI weather notification</string>
+     <string name="tip_weather_info_content_1">Bring layers!</string>
+     <string name="tip_weather_info_title_1">%1$s ожидается разность температур в %2$d градусов</string>
+     <string name="tip_weather_info_title_2">%1$s температура сегодня оценивается в %2$s</string>
+     <string name="trend_weather_today">Сегодня</string>
+     <string name="trend_weather_tomorrow">Завтра</string>
+     <string name="weather_notification">Уведомления погоды</string>
+     <string name="weather_unit">°</string>
+     <string name="weather_unit_middle">~</string>
+     <string name="weather_unit_with_c">°C</string>
+     <string name="widget_loading">Нет данных о погоде</string>
 </resources>

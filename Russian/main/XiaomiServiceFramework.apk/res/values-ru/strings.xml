@@ -14,7 +14,7 @@
      <string name="activate_phone_send_sms_failed_notif">Ошибка отправки SMS для активации</string>
      <string name="activate_phone_server_error">Ошибка сервера. Не возможно включить сервис синхронизации.</string>
      <string name="activate_phone_server_error_notif">Ошибка сервера</string>
-	<string name="activate_status_desc_acquire_phone_number">Получение номера телефона с сервера</string>
+     <string name="activate_status_desc_acquire_phone_number">Получение номера телефона с сервера</string>
      <string name="activate_status_desc_acquire_phone_number_server_error">Ошибка сервера при полученни номера телефона</string>
      <string name="activate_status_desc_acquire_phone_number_server_error_wait">Ошибка сервера при получении телефонного номера. Ожидание повтора…</string>
      <string name="activate_status_desc_acquire_phone_number_server_io_error">Ошибка сервера при получении телефонного номера</string>
@@ -50,7 +50,7 @@
      <string name="activate_status_title_activating_msim">Активация SIM-карты %s</string>
      <string name="activating">Активация…</string>
      <string name="add_weibo_account">Добавить аккаунт</string>
-	 <string name="alert_notif_title_dspt">Предлагаем восстановить синхронизацию для обеспечения безопасности данных</string>
+     <string name="alert_notif_title_dspt">Предлагаем восстановить синхронизацию для обеспечения безопасности данных</string>
      <string name="alert_title_remove_account">Удалить аккаунт</string>
      <string name="app_name">Менеджер аккаунтов Xiaomi</string>
      <string name="available_functionality">Доступные функции</string>
@@ -60,7 +60,7 @@
      <string name="binded">Связан</string>
      <string name="btn_activate">Активировать</string>
      <string name="button_cancel">Отмена</string>
-	 <string name="captcha">Код с картинки</string>
+     <string name="captcha">Код с картинки</string>
      <string name="check_phone_error_title">Ошибка синхронизации</string>
      <string name="check_phone_io_error">Ошибка сети</string>
      <string name="checking_account">Проверка аккаунта…</string>
@@ -107,8 +107,9 @@
      <string name="forget_password">Забыли пароль?</string>
      <string name="get_back_pwd">Получить пароль</string>
      <string name="header_data_and_synchronization">Данные и синхронизация</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="i_know">OK</string>
-	 <string name="input_captcha_hint">Введите код</string>
+     <string name="input_captcha_hint">Введите код</string>
      <string name="input_password_hint">Введите пароль</string>
      <string name="input_vcode_hint">Введите проверочный код</string>
      <string name="input_vcode_prompt">Введите проверочный код</string>
@@ -173,6 +174,7 @@
      <string name="micloud_via_int_sms_alert">Будет отправлено международное сообщение для подтверждения Вашего телефонного номера. Продолжить?</string>
      <string name="micloud_via_sms_alert">Будет отправлено сообщение для подтверждения Вашего телефонного номера. Продолжить?</string>
      <string name="micloud_welcome_skip_login"><u>Пропустить этот шаг</u></string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="mili_center">MiCredit</string>
      <string name="my_xiaomi_account">Мой аккаунт Xiaomi</string>
      <string name="next">Далее</string>

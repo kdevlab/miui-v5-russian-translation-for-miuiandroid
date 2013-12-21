@@ -40,6 +40,7 @@
      <string name="alert">Внимание</string>
      <string name="alert_message_open_sync">Необходима синхронизация. Вы хотите включить ее сейчас?</string>
      <string name="already_apply_album">Открыть %1$s?</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="android_tencent_tencent_weibo">Tencent Weibo</string>
      <string name="androidesk_wallpapers">Обои Android</string>
      <string name="aperture">Диафрагма</string>
@@ -109,6 +110,7 @@
      <string name="cloudfolder_name_cannot_empty">Введите название папки</string>
      <string name="cloudfolder_name_reserved">Имя папки занято</string>
      <string name="comfirm_delete_current_album">Удалить текущий альбом?</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="confirm">OK</string>
      <string name="confirm_delete">Удалить выбранные файлы (%s)?</string>
      <string name="confirm_delete_album" formatted="false">"Удалить выбранные альбомы с фото?
@@ -118,10 +120,10 @@
      <string name="confirm_delete_cloud_all_item_page" formatted="false">%s фотографий в %s альбомах, вы уверены, что хотите удалить?</string>
      <string name="confirm_delete_pictures">%s фотографий</string>
      <string name="confirm_delete_system_album">%s системный альбом. Вы уверены, что хотите удалить?</string>
-	 <string name="confirm_delete_this_picture">Удалить это изображение?</string>
+     <string name="confirm_delete_this_picture">Удалить это изображение?</string>
      <string name="confirm_delete_this_video">Удалить это видео?</string>
      <string name="confirm_delete_videos">%s видео</string>
-	 <string name="confirm_download">Вам необходимо скачать %s. Подсказка не будет больше показана.</string>
+     <string name="confirm_download">Вам необходимо скачать %s. Подсказка не будет больше показана.</string>
      <string name="contact_photo">Фото контакта</string>
      <string name="context_menu_add_contact">Добавить в контакты</string>
      <string name="context_menu_copy">Копировать</string>
@@ -147,7 +149,7 @@
      <string name="delete_file">Удалить выбранные файлы: %1$d?</string>
      <string name="delete_files_and_folders">Удалить выбранные файлы: %1$d и папки: %2$d?</string>
      <string name="delete_folder">Удалить выбранные папки: %1$d?</string>
-	 <string name="delete_smb_file_fail">Ошибка удаления smb файла</string>
+     <string name="delete_smb_file_fail">Ошибка удаления smb файла</string>
      <string name="deleting_files">Удаление файлов…</string>
      <string name="demo_video_folder_display_name">Демо-видео</string>
      <string name="deny">Отклонить</string>
@@ -160,7 +162,7 @@
      <string name="done">Готово</string>
      <string name="doodle">Подмалевок</string>
      <string name="doodle_tooltip">Рисуйте на фото пальцем</string>
-	 <string name="download">Скачать</string>
+     <string name="download">Скачать</string>
      <string name="download_fail">Ошибка загрузки</string>
      <string name="download_fail_confirm_continue">Не удалось загрузить %s. Продолжить?</string>
      <string name="dummy_fs">precision mediump float; uniform mat4 mg_TextureMatrix; uniform sampler2D mg_Texture0, mg_Texture1; uniform vec4 mg_Color; uniform float mg_Texture0_Weight, mg_Texture1_Weight, mg_Color_Weight; uniform vec4 mg_Texture0_Modulate, mg_Texture1_Modulate; varying vec2 mg_UV0, mg_UV1; vec2 transform_uv(vec2 uv) { vec4 v = vec4(uv, 0, 1); v = mg_TextureMatrix * v; return v.xy; } void main() { vec4 col = vec4(0, 0, 0, 0); if(mg_Texture0_Weight > 0.05) { col += mg_Texture0_Modulate * texture2D(mg_Texture0, transform_uv(mg_UV0)) * mg_Texture0_Weight; } if(mg_Texture1_Weight > 0.05) { col += mg_Texture1_Modulate * texture2D(mg_Texture1, transform_uv(mg_UV1)) * mg_Texture1_Weight; } if(mg_Color_Weight > 0.05) { col += mg_Color * mg_Color_Weight; } gl_FragColor = col; }</string>
@@ -194,7 +196,7 @@
      <string name="fail_init_gallery_db_helper">Ошибка открытия базы данных галереи. Диск полон.</string>
      <string name="fail_to_pick_email">Не выбрано допустимых E-Mail</string>
      <string name="fail_to_sync_album">Не удалось синхронизировать альбом с сервером. Проверьте подключение к сети!</string>
-	 <string name="file_not_exist_message">Файл не существует</string>
+     <string name="file_not_exist_message">Файл не существует</string>
      <string name="file_size">Размер файла</string>
      <string name="filllight">Осветление</string>
      <string name="fisheye">Рыбий глаз</string>
@@ -256,7 +258,7 @@
      <string name="location">Место съемки</string>
      <string name="locations">Места</string>
      <string name="lomoish">Ломо</string>
-	 <string name="make_download_dir_fail">Не удалось создать каталог для хранения файлов</string>
+     <string name="make_download_dir_fail">Не удалось создать каталог для хранения файлов</string>
      <string name="maker">Устройство</string>
      <string name="manual">Вручную</string>
      <string name="me">я</string>
@@ -293,7 +295,7 @@
      <string name="negative">Негатив</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="netease_newsreader_netease_down_pic">Netease Newsreader</string>
-	 <string name="new_device_tips">Найдено новое устройство. Нажмите, чтобы посмотреть.</string>
+     <string name="new_device_tips">Найдено новое устройство. Нажмите, чтобы посмотреть.</string>
      <string name="no">Нет</string>
      <string name="no_albums_alert">Нет доступных альбомов</string>
      <string name="no_connectivity">Не удалось найти все места из-за проблем с подключением</string>
@@ -469,6 +471,7 @@
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="tencent_qzonepic">Qzone</string>
      <string name="there_is_no_image">Нет изображений</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="tieba">Tie Ba</string>
      <string name="time">Время</string>
      <string name="times">Даты</string>
@@ -477,6 +480,7 @@
      <string name="to_count">%d во всех</string>
      <string name="too_many_recipients">Сообщение имеет слишком много получателей (%1$s). Существует предел на %2$s получателей.</string>
      <string name="try_to_send">Отправить</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="ucdownloads_screenshot">UC Browser</string>
      <string name="unit_mm">мм</string>
      <string name="unpublish_failed">Не удалось отменить публикацию!</string>
@@ -484,14 +488,15 @@
      <string name="unpublishing">Отмена публикации, подождите…</string>
      <string name="untagged">Без тегов</string>
      <string name="user_alias_self">Я</string>
-	 <string name="video_download_in_process">Загрузка видео</string>
+     <string name="video_download_in_process">Загрузка видео</string>
      <string name="video_download_start">Начало загрузки</string>
      <string name="video_err">Не удалось воспроизвести видео</string>
-	 <string name="video_not_exist">Видео не существует</string>
+     <string name="video_not_exist">Видео не существует</string>
      <string name="view_sharers">Посмотреть поделившихся</string>
      <string name="vignette">Виньетка</string>
      <string name="wallpaper">Рабочий стол</string>
      <string name="warn">Внимание</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="weikan_weikan">Weikan TV</string>
      <string name="where_is_barcode">Где QR код?</string>
      <string name="white_balance">Баланс белого</string>

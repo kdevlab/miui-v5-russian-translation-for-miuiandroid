@@ -478,7 +478,7 @@
      <string name="local_profile_title">Мой профиль</string>
      <string name="local_search_label">Все контакты</string>
      <string name="locale_change_in_progress">Список контактов обновится после смены языка интерфейса</string>
-	 <string name="login_before_recharging">Перед пополнением нужно войти в аккаунт</string>
+     <string name="login_before_recharging">Перед пополнением нужно войти в аккаунт</string>
      <string name="login_ok">Войти</string>
      <string name="lunarBirthdayLabelsGroup">Лунный день рождения</string>
      <string name="make_primary">Запомнить выбранное</string>
@@ -770,7 +770,7 @@
      <string name="recent_updates">Недавние обновления</string>
      <string name="redirect_calls_to_vm_confirm_message">Если Вы не применили это у оператора, пожалуйста не включайте. Иначе, возможно, Вы не сможете получать вызовы от этого контакта.</string>
      <string name="redirect_calls_to_vm_confirm_text">Включить</string>
-	 <string name="refresh">Обновить</string>
+     <string name="refresh">Обновить</string>
      <string name="relationLabelsGroup">Отношения</string>
      <string name="remind_btn_ignore">Позже</string>
      <string name="remind_btn_sync_now">Сейчас</string>
@@ -846,6 +846,7 @@
      <string name="resource_downloaded_title">Скачанные</string>
      <string name="resource_downloading">Скачивание</string>
      <string name="resource_exchange">Принять</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="resource_exchange_confirm">OK</string>
      <string name="resource_exchange_empty_format">Введите код!</string>
      <string name="resource_exchange_has_bought">Вы уже купили эту тему</string>
@@ -869,6 +870,7 @@
      <string name="resource_get_auth_exceed_max_limit_title">Превышен предел авторизаций</string>
      <string name="resource_get_auth_missing">Тема скачана с неофициального маркета. Пожалуйста, скачайте аналогичную тему из официального маркета.</string>
      <string name="resource_get_auth_retrieving">Получение авторизации…</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="resource_hint">Alert</string>
      <string name="resource_import_successful">Скачано</string>
      <string name="resource_importing">Импорт…</string>
@@ -913,6 +915,7 @@
 контент который Вы сейчас смотрите, в настоящее время недоступен в Вашем регионе"</string>
      <string name="resource_unknow_error">Неизвестная ошибка</string>
      <string name="resource_update">Обн.</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="resource_user_know">OK</string>
      <string name="resource_waiting_download">Ожидание</string>
      <string name="restore_nickname">Восстановить</string>
@@ -968,7 +971,7 @@
      <string name="sim_contact_dropdown_menu_deselect_all_miui">Снять все</string>
      <string name="sim_contact_dropdown_menu_select_all_miui">Выбрать все</string>
      <string name="sim_contact_existing">Этот контакт SIM уже существует</string>
-	 <string name="sim_contact_invalid">Неверный контакт SIM-карты</string>
+     <string name="sim_contact_invalid">Неверный контакт SIM-карты</string>
      <string name="sim_contact_search_error">Произошла ошибка при поиске контактов с SIM-карты</string>
      <string name="sim_contacts">Контакт на SIM-карте</string>
      <string name="sim_error_anr_full">Хранилище номеров заполнено</string>
@@ -1096,7 +1099,7 @@
      <string name="voicemail_status_voicemail_not_available">Нет подключения к серверу гол. почты</string>
      <string name="websiteLabelsGroup">Веб-сайт</string>
      <string name="wipe_data">Очистить данные</string>
-	 <string name="yellowPageNavigationIconLabel">Сервисы</string>
+     <string name="yellowPageNavigationIconLabel">Сервисы</string>
      <string name="yellowPageNavigationLabel">Сервисы</string>
      <string name="yellowpage_navigation_no_content">Ничего не найдено</string>
      <string name="yellowpage_navigation_search_city_name_hint">Город</string>

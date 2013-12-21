@@ -98,6 +98,7 @@
      <string name="noti_wait_send">"Ожидание приема. Убедитесь, что отправитель имеет возможность передавать файлы "</string>
      <string name="notify_after_download">Сообщить после загрузки</string>
      <string name="notify_after_restore">Сообщить после восстановления</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="ok">OK</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="online_file">MiDrive</string>
@@ -220,5 +221,6 @@
      <string name="wanna_receive">Получить</string>
      <string name="welcome_tip1">Быстрая передача файлов с минимальным потреблением трафика сети</string>
      <string name="welcome_tip2">Быстрая передача фотографий, музыки, контактов и многого другого</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="you_can">OK</string>
 </resources>

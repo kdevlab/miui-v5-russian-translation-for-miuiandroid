@@ -136,7 +136,7 @@
      <string name="failed_to_add_media">Невозможно добавить этот объект (%1$s)</string>
      <string name="failed_to_resize_image">Не удалось изменить размер рисунка</string>
      <string name="fdn_check_failure">Вы можете отправлять сообщения только на номера из своего списка разрешенных номеров</string>
-	 <string name="feedback_description_hint">Оставьте свое мнение (обязательно)</string>
+     <string name="feedback_description_hint">Оставьте свое мнение (обязательно)</string>
      <string name="feedback_submit">Отправить</string>
      <string name="festival">Поздравления</string>
      <string name="festival_sms_category_count_format">(%s)</string>
@@ -267,7 +267,7 @@ SMS (%1$d), MMS (%2$d)"</string>
      <string name="pref_collapse_sp_messages_summary">Сообщения от поставщиков услуг, банков и т.д. будут собираться в специальный раздел</string>
      <string name="pref_edit_smsc_address">Номер SMS-центра</string>
      <string name="pref_forward_title">Вперед</string>
-	 <string name="pref_key_mx_feedback">Обратная связь</string>
+     <string name="pref_key_mx_feedback">Обратная связь</string>
      <string name="pref_messages_to_save">Установить количество сообщений в переписке для хранения</string>
      <string name="pref_mms_settings_title">Настройки MMS</string>
      <string name="pref_notification_settings_title">Уведомления</string>
@@ -281,7 +281,7 @@ SMS (%1$d), MMS (%2$d)"</string>
      <string name="pref_summary_mms_auto_retrieval">Автоматически загружать MMS-сообщения</string>
      <string name="pref_summary_mms_read_reports">Запрашивать отчет о прочтении для всех отправляемых сообщений</string>
      <string name="pref_summary_mms_retrieval_during_roaming">Автоматически загружать MMS-сообщения в роуминге</string>
-	 <string name="pref_summary_mx_feedback">"Помогите сделать MIUI лучше!
+     <string name="pref_summary_mx_feedback">"Помогите сделать MIUI лучше!
 Сообщайте нам об ошибках и отправляйте свои отзывы."</string>
      <string name="pref_summary_new_message_popup">Показывать всплывающее окно при получении нового сообщения</string>
      <string name="pref_summary_new_message_popup_when_secure">Всплывающие уведомления скрыты в режиме гостя</string>
@@ -437,7 +437,7 @@ SMS (%1$d), MMS (%2$d)"</string>
      <string name="to_count">Всего: %d</string>
      <string name="to_label">"Кому: "</string>
      <string name="to_send_wrapper">Сообщение запланировано на: %s</string>
-	 <string name="toast_description_required">Введите текст и повторите</string>
+     <string name="toast_description_required">Введите текст и повторите</string>
      <string name="toast_feedback_finish">Ваше сообщение будет отправлено автоматически при подключении к Wi-Fi сети</string>
      <string name="toast_feedback_max">В день можно отправлять не более 3 отзывов</string>
      <string name="toast_feedback_start">Сбор данных…</string>
@@ -450,6 +450,7 @@ SMS (%1$d), MMS (%2$d)"</string>
      <string name="type_picture">Изображение</string>
      <string name="type_to_compose_text_enter_to_send">Введите сообщение</string>
      <string name="type_to_compose_text_or_leave_blank">Введите сообщение или оставьте поле пустым</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="type_vcard">vCard</string>
      <string name="type_video">Видеозапись</string>
      <string name="undelivered_msg_dialog_body">"Не удалось отправить сообщение.

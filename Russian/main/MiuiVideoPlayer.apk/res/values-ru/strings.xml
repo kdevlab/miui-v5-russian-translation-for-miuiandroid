@@ -14,9 +14,15 @@
      <string name="app_name">Видео</string>
      <string name="buffering">Буферизация…</string>
      <string name="buffering_video_netplay_label_v5">Буферизация…</string>
+     <string name="episode_prefix">第</string>
+     <string name="episode_suffix">集</string>
      <string name="loading_video_netplay_label">Загрузка, пожалуйста подождите…</string>
      <string name="loading_video_netplay_label_v5">Загрузка, пожалуйста подождите…</string>
      <string name="menu_item_about_label">О программе</string>
+     <string name="menu_item_disable_3d_mode">关闭3D模式</string>
+     <string name="menu_item_disable_audio_enhance">关闭电影音效增强</string>
+     <string name="menu_item_enable_3d_mode">开启3D模式</string>
+     <string name="menu_item_enable_audio_enhance">开启电影音效增强</string>
      <string name="menu_item_hide_media_info_label">Скрыть информацию</string>
      <string name="menu_item_media_info_label">Показать информацию</string>
      <string name="menu_item_orientation_auto_sensor_action">Включить поворот</string>
@@ -41,6 +47,7 @@
      <string name="toast_message_continue_play_hour">ч.</string>
      <string name="toast_message_continue_play_minute">мин.</string>
      <string name="toast_message_continue_play_second_and_play">сек.</string>
+     <string name="toast_message_set_misound">请设置米音...</string>
      <string name="top_status_local_media">Локально</string>
      <string name="top_status_online_media">Онлайн</string>
      <string name="video_info_audio_bitrate_label">Битрейт аудио:</string>

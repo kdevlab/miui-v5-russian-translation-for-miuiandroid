@@ -27,6 +27,7 @@
      <string name="default_audio">Стерео</string>
      <string name="default_band">США</string>
      <string name="default_blank" />
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="default_station">FM</string>
      <string name="delete_station_title">Удалить</string>
      <string name="dialog_sleep_title">Спящий режим</string>
@@ -99,13 +100,12 @@
      <string name="preset_tune">Мелодия</string>
      <string name="presetlist_autoselect_title">Автоматический выбор</string>
      <string name="radio_text_string">Это длинное текстовое сообщение, которое нужно прокрутить</string>
-	 <string name="record_completed">Запись завершена</string>
+     <string name="record_completed">Запись завершена</string>
      <string name="record_error_file_removed">Запись удалена. Произошла неизвестная ошибка.</string>
      <string name="record_error_unknown">Запись остановлена. Произошла неизвестная ошибка.</string>
      <string name="record_fail">Ошибка записи</string>
      <string name="record_file_format">%1$s_%2$s</string>
      <string name="record_file_location_format">Сохранено в %s</string>
-     <string name="record_sucess">Запись сохранена</string>
      <string name="reduce_af">Уменьшить частоту</string>
      <string name="regional_band">Региональные группы</string>
      <string name="search_dialog_title">Сканировать станции</string>

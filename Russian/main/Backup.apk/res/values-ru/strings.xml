@@ -45,7 +45,7 @@
      <string name="button_abandon">Отмена</string>
      <string name="button_backup">Создать резервную копию</string>
      <string name="button_cancel">Отмена</string>
-	 <string name="button_continue">Далее</string>
+     <string name="button_continue">Далее</string>
      <string name="button_delete">Удалить</string>
      <string name="button_finish">Закрыть</string>
      <string name="button_next">Вперед</string>
@@ -56,7 +56,7 @@
      <string name="cancel">Отмена</string>
      <string name="cancel_backup">Отмена</string>
      <string name="cancel_restore">Отменить</string>
-	 <string name="cloud_app_backup_cancel">Остановка резервного копирования…</string>
+     <string name="cloud_app_backup_cancel">Остановка резервного копирования…</string>
      <string name="cloud_app_backup_cancel_prompt_message">"Бэкап не закончен.
 Нажмите OK, чтобы отменить."</string>
      <string name="cloud_app_backup_cancel_prompt_title">Остановка копирования</string>
@@ -65,7 +65,7 @@
      <string name="cloud_app_backup_progress">Резервное копировнаие…</string>
      <string name="cloud_app_backup_summary">Автоматический бэкап приложений и данных, когда телефон заряжается и подключен к Wi-Fi</string>
      <string name="cloud_app_backup_title">Облачный бэкап</string>
-	 <string name="cloud_app_check_data">Запрос данных из облака…</string>
+     <string name="cloud_app_check_data">Запрос данных из облака…</string>
      <string name="cloud_app_check_data_fail">Не удалось запросить данные из облака</string>
      <string name="cloud_app_check_data_timeout">Тайм-аут запроса данных из облака</string>
      <string name="cloud_app_current_device">Текущее устройство</string>
@@ -77,20 +77,20 @@
      <string name="cloud_app_find_backup_prompt_2">Если Вы откажитесь сейчас, она будет перезаписана при восстановлении</string>
      <string name="cloud_app_function_summary">Созданные резервные копии в облаке, Вы сможете быстро восстановить потом на любом устройстве</string>
      <string name="cloud_app_invalid_op">Вы не можете просматривать облачные данные во время резервного копирования или восстановления</string>
-	 <string name="cloud_app_invalid_op_when_removing">Вы не можете просматривать облачные данные, если они удалены</string>
+     <string name="cloud_app_invalid_op_when_removing">Вы не можете просматривать облачные данные, если они удалены</string>
      <string name="cloud_app_just_show_in_current_device">Приложения на устройстве</string>
-	 <string name="cloud_app_load_data">Запрос данных…</string>
+     <string name="cloud_app_load_data">Запрос данных…</string>
      <string name="cloud_app_load_data_timeout">Тайм-аут запроса данных из облака</string>
      <string name="cloud_app_loading_with_mobile_network_prompt">"При продолжении будет использоваться мобильный интернет.
 Продолжить?"</string>
      <string name="cloud_app_mine">Загруженные приложения</string>
      <string name="cloud_app_name">Облако</string>
      <string name="cloud_app_no_data">Нет данных</string>
-	 <string name="cloud_app_no_network">Сеть недоступна</string>
+     <string name="cloud_app_no_network">Сеть недоступна</string>
      <string name="cloud_app_no_wifi">Wi-Fi недоступен</string>
      <string name="cloud_app_no_wifi_connect">Нет Wi-Fi</string>
      <string name="cloud_app_other_devices">Другие устройства</string>
-	 <string name="cloud_app_remove_cancel">Отмена удаления…</string>
+     <string name="cloud_app_remove_cancel">Отмена удаления…</string>
      <string name="cloud_app_remove_cancel_prompt_message">"Удаление не закончено.
 Нажмите OK, чтобы отменить."</string>
      <string name="cloud_app_remove_cancel_prompt_title">Остановка удаления</string>
@@ -100,7 +100,7 @@
      <string name="cloud_app_remove_prompt">Данные %1$s будут удалены. Продолжить?</string>
      <string name="cloud_app_restore_action_bar_title">Данные %1$s</string>
      <string name="cloud_app_restore_app_and_data">Восстановление приложений и пользовательских данных</string>
-	 <string name="cloud_app_restore_cancel">Отмена восстановления…</string>
+     <string name="cloud_app_restore_cancel">Отмена восстановления…</string>
      <string name="cloud_app_restore_cancel_prompt_message">"Восстановление не закончено.
 Нажмите OK, чтобы отменить восстановление."</string>
      <string name="cloud_app_restore_cancel_prompt_title">Остановка восстанивления</string>
@@ -116,7 +116,7 @@
      <string name="cloud_app_restore_wifi_prompt">Вам необходимо подключиться к Интернету через Wi-Fi для восстановления приложений и пользовательских данных.</string>
      <string name="cloud_app_total_size">Размер копии: %1$s</string>
      <string name="cloud_app_version_size">Версия: %1$s, Размер:%2$s</string>
-	 <string name="cloud_app_wait_wifi">Ожидание Wi-Fi</string>
+     <string name="cloud_app_wait_wifi">Ожидание Wi-Fi</string>
      <string name="cloud_backup_hint">Вы должны войти в систему для онлайн резервного копирования</string>
      <string name="cloud_backup_login">Войти в MIUI</string>
      <string name="cloud_backup_window_title">Облако</string>
