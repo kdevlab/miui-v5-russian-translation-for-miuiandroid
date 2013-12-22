@@ -37,4 +37,8 @@
         <item quantity="other">"%d мин. "</item>
         <item quantity="one">"%d мин. "</item>
      </plurals>
+	 <plurals name="show_dev_countdown">
+        <item quantity="other">You are now %1$d steps away from being a developer.</item>
+        <item quantity="one">You are now %1$d step away from being a developer.</item>
+     </plurals>
 </resources>

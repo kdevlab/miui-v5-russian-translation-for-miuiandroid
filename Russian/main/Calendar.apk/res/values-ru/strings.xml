@@ -182,8 +182,8 @@
      <string name="select_synced_calendars_button">Синхронизировать календари</string>
      <string name="select_synced_calendars_title">Синхронизировать календари</string>
      <string name="select_visible_calendars_title">Отображение календарей</string>
-     <string name="show_all_lunar">Показывать лунный календарь</string>
-     <string name="show_almanac">Посмотреть альманах</string>
+     <string name="show_all_lunar">Лунный календарь</string>
+     <string name="show_almanac">Показывать альманах</string>
      <string name="show_controls">Показать элементы управления</string>
      <string name="show_day_view">Показать день</string>
      <string name="show_newer_events">Нажмите для поиска других мероприятий после %1$s</string>
