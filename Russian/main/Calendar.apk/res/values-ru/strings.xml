@@ -17,8 +17,8 @@
      <string name="accessibility_remove_reminder">Удалить напоминание</string>
      <string name="accessibility_repeats">Повтор</string>
      <string name="accessibility_sync_cal">Синхронизировать календарь</string>
-     <string name="account_and_calendar">Аккаунт и календарь</string>
-     <string name="account_and_calendar_to_display">Аккаунт и календарь</string>
+     <string name="account_and_calendar">Настройки отображения</string>
+     <string name="account_and_calendar_to_display">Аккаунты и календари</string>
      <string name="accounts">Аккаунты</string>
      <string name="acct_not_synced">"Этот аккаунт не синхронизируется, 
  поэтому Ваши календари не обновляются"</string>
@@ -47,7 +47,7 @@
      <string name="change_response_title">Изменить ответ</string>
      <string name="chongsha">冲煞</string>
      <string name="copy_db">Отправить базу данных</string>
-     <string name="copy_email">Скопировать E-Mail адрес</string>
+     <string name="copy_email">Скопировать адрес почты</string>
      <string name="copy_number">Скопировать номер телефона</string>
      <string name="create_an_account_desc">"Подключите календарь к аккаунту Google, чтобы: 
 
@@ -59,7 +59,7 @@
      <string name="daily">Ежедневно</string>
      <string name="day_view">День</string>
      <string name="day_view_new_event_hint">Создать</string>
-     <string name="default_reminder_mode">Режим напоминая по умолчанию</string>
+     <string name="default_reminder_mode">Режим напоминания</string>
      <string name="delete_label">Удалить</string>
      <string name="delete_recurring_event_title">Удалить %s?</string>
      <string name="delete_this_event_title">Удалить мероприятие?</string>
@@ -99,7 +99,7 @@
      <string name="event_show_more">Показать</string>
      <string name="event_view">Просмотр мероприятия</string>
      <string name="every_weekday">Каждый будний день (пн–пт)</string>
-     <string name="gadget_no_events">В календаре нет предстоящих мероприятий</string>
+     <string name="gadget_no_events">Нет предстоящих мероприятий</string>
      <string name="gadget_title">Календарь</string>
      <string name="goto_today">Сегодня</string>
      <string name="hide_controls">Скрыть элементы управления</string>
@@ -125,18 +125,14 @@
      <string name="modify_event">Изменить только это мероприятие</string>
      <string name="month_view">Месяц</string>
      <string name="monthly">Ежемесячно</string>
-     <!-- The count of MNPS does not match! Now: 1 must: 0
-	%s: 1 must: 0
-	%d: 0 must: 0 -->
-     <!-- Original string: Monthly (on the same day each month) -->
-     <string name="monthly_on_day">Ежемесячно (%s числа)</string>
+     <string name="monthly_on_day">Ежемесячно (в один и тот же день)</string>
      <string name="monthly_on_day_count">Ежемесячно (кажд. %1$s %2$s)</string>
-     <string name="more_string">еще %1$s...</string>
+     <string name="more_string">еще %1$s…</string>
      <string name="new_event_dialog_label">Новое мероприятие</string>
      <string name="new_event_dialog_option">Новое мероприятие</string>
      <string name="no_calendars_found">Добавить мероприятие можно только в видимый календарь, связанный с аккаунтом Google. Нажмите \"Добавить аккаунт\" или, если аккаунт уже добавлен, дождитесь окончания синхронизации и повторите попытку. Либо нажмите \"Отмена\" и сделайте видимым хотя бы один календарь.</string>
      <string name="no_syncable_calendars">Нет календарей</string>
-     <string name="no_title_label">(Нет заголовка)</string>
+     <string name="no_title_label">(нет заголовка)</string>
      <string name="not_synced">не синхронизирован</string>
      <string name="pengzu">彭祖</string>
      <string name="prefDialogTitle_vibrateWhen">Вибрация</string>
@@ -164,7 +160,7 @@
      <string name="preferences_week_start_day_title">Первый день недели</string>
      <string name="presence_label">Мой статус:</string>
      <string name="privacy_label">Конфиденциальность</string>
-     <string name="quick_response_custom_msg">Пользовательское сообщение...</string>
+     <string name="quick_response_custom_msg">Пользовательское сообщение…</string>
      <string name="quick_response_dialog_title">Выбрать быстрый ответ</string>
      <string name="quick_response_email_failed">Программа почты не найдена</string>
      <string name="quick_response_settings">Быстрые ответы</string>

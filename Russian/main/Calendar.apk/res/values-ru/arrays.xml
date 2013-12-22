@@ -26,11 +26,11 @@
         <item>Все мероприятия</item>
      </string-array>
      <string-array name="ordinal_labels">
-        <item>перв.</item>
-        <item>втор.</item>
-        <item>трет.</item>
-        <item>четверт.</item>
-        <item>последн.</item>
+        <item>Перв.</item>
+        <item>Втор.</item>
+        <item>Трет.</item>
+        <item>Четверт.</item>
+        <item>Последн.</item>
      </string-array>
      <string-array name="prefEntries_alerts_vibrateWhen">
         <item>Всегда</item>
@@ -38,29 +38,29 @@
         <item>Никогда</item>
      </string-array>
      <string-array name="preferences_default_reminder_labels">
-        <item>не напоминать</item>
-        <item>по факту</item>
-        <item>за 1 минуту</item>
-        <item>за 5 минут</item>
-        <item>за 10 минут</item>
-        <item>за 15 минут</item>
-        <item>за 20 минут</item>
-        <item>за 25 минут</item>
-        <item>за 30 минут</item>
-        <item>за 45 минут</item>
-        <item>за 1 час</item>
-        <item>за 2 час</item>
-        <item>за 3 час</item>
-        <item>за 12 час</item>
-        <item>за 24 час</item>
-        <item>за 2 дня</item>
-        <item>за 1 неделю</item>
+        <item>Не напоминать</item>
+        <item>По факту</item>
+        <item>За 1 минуту</item>
+        <item>За 5 минут</item>
+        <item>За 10 минут</item>
+        <item>За 15 минут</item>
+        <item>За 20 минут</item>
+        <item>За 25 минут</item>
+        <item>За 30 минут</item>
+        <item>За 45 минут</item>
+        <item>За 1 час</item>
+        <item>За 2 час</item>
+        <item>За 3 час</item>
+        <item>За 12 час</item>
+        <item>За 24 час</item>
+        <item>За 2 дня</item>
+        <item>За 1 неделю</item>
      </string-array>
      <string-array name="preferences_week_start_day_labels">
-        <item>по региону</item>
-        <item>суббота</item>
-        <item>воскресенье</item>
-        <item>понедельник</item>
+        <item>По региону</item>
+        <item>Суббота</item>
+        <item>Воскресенье</item>
+        <item>Понедельник</item>
      </string-array>
      <string-array name="quick_response_defaults">
         <item>Опоздаю на несколько минут.</item>
@@ -71,26 +71,26 @@
      <string-array name="reminder_methods_labels">
         <item>Уведомление</item>
         <item>Электронная почта</item>
-        <item>SMS</item>
+        <item>Сообщение</item>
         <item>Будильник</item>
      </string-array>
      <string-array name="reminder_minutes_labels">
-        <item>по факту</item>
-        <item>за 1 минута</item>
-        <item>за 5 минут</item>
-        <item>за 10 минут</item>
-        <item>за 15 минут</item>
-        <item>за 20 минут</item>
-        <item>за 25 минут</item>
-        <item>за 30 минут</item>
-        <item>за 45 минут</item>
-        <item>за 1 час</item>
-        <item>за 2 часа</item>
-        <item>за 3 часа</item>
-        <item>за 12 часов</item>
-        <item>за 24 часа</item>
-        <item>за 2 дня</item>
-        <item>за 1 неделю</item>
+        <item>По факту</item>
+        <item>За 1 минута</item>
+        <item>За 5 минут</item>
+        <item>За 10 минут</item>
+        <item>За 15 минут</item>
+        <item>За 20 минут</item>
+        <item>За 25 минут</item>
+        <item>За 30 минут</item>
+        <item>За 45 минут</item>
+        <item>За 1 час</item>
+        <item>За 2 часа</item>
+        <item>За 3 часа</item>
+        <item>За 12 часов</item>
+        <item>За 24 часа</item>
+        <item>За 2 дня</item>
+        <item>За 1 неделю</item>
      </string-array>
      <string-array name="response_labels1">
         <item>(Нет ответа)</item>
