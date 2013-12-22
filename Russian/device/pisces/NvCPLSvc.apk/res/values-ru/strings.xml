@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!-- Builded with CloudBuildr -->
 <resources>
-    <string name="app_name">Сервисы NVIDIA Tegra</string>
-    <string name="permlab_sysfsWrite">регулировка энергосбережения</string>
-    <string name="permdesc_sysfsWrite">Приложение может изменять настройки энергосбережения</string>
-    <string name="nvcplsvc_bind">клиент nvcplsvc</string>
-    <string name="nvcplsvc_desc_bind">Приложение может связываться с NvCPLSvc</string>
+     <string name="app_name">Сервисы NVIDIA Tegra</string>
+     <string name="nvcplsvc_bind">клиент nvcplsvc</string>
+     <string name="nvcplsvc_desc_bind">Приложение может связываться с NvCPLSvc</string>
+     <string name="permdesc_sysfsWrite">Приложение может изменять настройки энергосбережения</string>
+     <string name="permlab_sysfsWrite">регулировка энергосбережения</string>
 </resources>

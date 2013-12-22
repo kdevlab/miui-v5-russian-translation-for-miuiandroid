@@ -1,14 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!-- Builded with CloudBuildr -->
 <resources>
-    <string name="wallpaper_vis1">Визуализатор</string>
-    <string name="wallpaper_vis2">Волна</string>
-    <string name="wallpaper_vis3">Спектр</string>
-    <string name="wallpaper_vis4">VU meter</string>
-    <string name="wallpaper_vis5">Много</string>
-    <string name="wallpapers">Музыкальные обои</string>
-    <string name="author">Google</string>
-    <string name="vis2_desc">Рисует звуковую волну любой воспроизводимой музыкальной дорожки</string>
-    <string name="vis3_desc">Показывает частотный спектр любой воспроизводимой музыкальной дорожки</string>
-    <string name="vis4_desc">Имитация аналогового звука</string>
-    <string name="vis5_desc">Все музыкальные визуализации вместе, медленно вращающиеся в 3D</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="author">Google</string>
+     <string name="vis2_desc">Рисует звуковую волну любой воспроизводимой музыкальной дорожки</string>
+     <string name="vis3_desc">Показывает частотный спектр любой воспроизводимой музыкальной дорожки</string>
+     <string name="vis4_desc">Имитация аналогового звука</string>
+     <string name="vis5_desc">Все музыкальные визуализации вместе, медленно вращающиеся в 3D</string>
+     <string name="wallpaper_vis1">Визуализатор</string>
+     <string name="wallpaper_vis2">Волна</string>
+     <string name="wallpaper_vis3">Спектр</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="wallpaper_vis4">VU meter</string>
+     <string name="wallpaper_vis5">Много</string>
+     <string name="wallpapers">Музыкальные обои</string>
 </resources>
