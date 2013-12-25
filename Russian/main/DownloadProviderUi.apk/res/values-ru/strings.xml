@@ -58,12 +58,14 @@
      <string name="paused_unknown">Остановлено</string>
      <string name="paused_waiting_for_network">Ожидание сетевого подключения</string>
      <string name="paused_waiting_to_retry">Ожидание повтора</string>
+     <string name="pref_dialog_title_max_bytes_limit">Максимальный размер файла</string>
      <string name="pref_download_settings_title">Мобильный интернет</string>
      <string name="pref_summary_any_bytes_popup">Загружать файлы только по Wi-Fi</string>
      <string name="pref_summary_enable_max_bytes_popup">При использовании мобильных данных, предупредить перед истечением лимита</string>
      <string name="pref_summary_max_bytes_limit_format">Загружать файлы по Wi-Fi выше чем: %s</string>
      <string name="pref_summary_no_limit_popup">Лимит размера отключен</string>
      <string name="pref_title_enable_max_bytes_popup">Предупреждать о лимите</string>
+     <string name="pref_title_max_bytes_limit">Максимальный размер файла</string>
      <string name="preferences_title">Настройки</string>
      <string name="remove_download">Удалить</string>
      <string name="restart_download">Заново</string>

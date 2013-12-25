@@ -63,6 +63,7 @@
      <string name="dirac_mode_earbuds">Гарнитура</string>
      <string name="dirac_mode_general">Общие</string>
      <string name="dirac_mode_in_ear">"Наушники Xiaomi"</string>
+     <string name="dirac_mode_off">Dirac выкл</string>
      <string name="dirac_mode_piston_100">Наушники Xiaomi (\"затычки\")</string>
      <string name="disconnect">Отключено</string>
      <string name="download">Загрузить</string>
@@ -98,6 +99,8 @@
      <string name="eq_preset_hint">Пожалуйста, введите имя предустановки</string>
      <string name="eq_preset_rename">Переименовать</string>
      <string name="eq_preset_select">Пожалуйста, выберите пресет</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="eq_rb">R </string>
      <string name="eq_rock">Рок</string>
      <string name="equalizer">Эквалайзер</string>
      <string name="equalizer_delete">Сбросить</string>

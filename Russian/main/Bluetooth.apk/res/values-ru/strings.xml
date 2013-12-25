@@ -52,6 +52,10 @@
      <string name="enabling_progress_content">Включение Bluetooth…</string>
      <string name="enabling_progress_title">Подождите…</string>
      <string name="ftp_acceptance_dialog_header">Доступ к папкам телефона</string>
+     <!-- The count of MNPS does not match! Now: 2 must: 1
+	%s: 2 must: 1
+	%d: 0 must: 0 -->
+     <!-- Original string: \"%1$s\" хочет получить доступ к вашим папкам. Разрешить? -->
      <string name="ftp_acceptance_dialog_title">%1$s хочет получить доступ к папкам телефона. Предоставить доступ к %2$s?</string>
      <string name="ftp_acceptance_timeout_message">Время для принятия соединения с %1$s истекло</string>
      <string name="ftp_authentication_timeout_message">Время для ввода ключа сессии с %1$s истекло</string>

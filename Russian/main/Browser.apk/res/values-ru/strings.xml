@@ -4,18 +4,23 @@
      <string name="MIUI_startpage">Стартовая страница</string>
      <string name="accessibility_button_addbookmark">Добавить страницу в закладки</string>
      <string name="accessibility_button_back">Назад</string>
+     <string name="accessibility_button_bookmark">Закладки</string>
      <string name="accessibility_button_bookmarks">Закладки</string>
      <string name="accessibility_button_clear">Очистить ввод</string>
      <string name="accessibility_button_closetab">Закрыть вкладку</string>
      <string name="accessibility_button_forward">Вперед</string>
      <string name="accessibility_button_go">Перейти</string>
+     <string name="accessibility_button_goto">Перейти</string>
+     <string name="accessibility_button_larger">Увеличить</string>
      <string name="accessibility_button_more">Другие варианты</string>
      <string name="accessibility_button_navscreen">Менеджер страниц</string>
      <string name="accessibility_button_newincognitotab">Открыть новую вкладку в режиме инкогнито</string>
      <string name="accessibility_button_newtab">Новая вкладка</string>
      <string name="accessibility_button_refresh">Обновить страницу</string>
      <string name="accessibility_button_search">Поиск</string>
+     <string name="accessibility_button_smaller">Уменьшить</string>
      <string name="accessibility_button_stop">Остановить загрузку страницы</string>
+     <string name="accessibility_button_tabs">Вкладки</string>
      <string name="accessibility_button_uaswitch">Переключить клиентское приложение</string>
      <string name="accessibility_button_voice">Начать голосовой поиск</string>
      <string name="accessibility_state_frozen">Сохраненная страница</string>
@@ -204,13 +209,20 @@
      <string name="error_console_header_text_maximized">Консоль JavaScript</string>
      <string name="error_console_header_text_minimized">Показать консоль JavaScript</string>
      <string name="exit_browser_warning">Выйти из браузера?</string>
+     <string name="export_bookmark">Экспорт закладок</string>
+     <string name="export_bookmark_failure">Не удалось экспортировать закладки на SD-карту!</string>
+     <string name="export_bookmark_sucess">Экспорт закладок на SD-карту завершeн!</string>
+     <string name="exported_bookmark_file_name">Избранное</string>
      <string name="file_dir">Папка</string>
      <string name="file_name">Имя</string>
      <string name="file_picker">Обзор</string>
+     <string name="file_picker_new_folder">Новая папка</string>
+     <string name="file_picker_sdcard_not_found">SD-карта не подключена</string>
      <string name="filename_empty_alert_message">Имя файла не может быть пустым</string>
      <string name="filename_illegal_alert_message">Имя файла содержит недопустимые символы, они будут автоматически удалены.</string>
      <string name="find_on_page">Найти на странице</string>
      <string name="folder_name">Имя папки</string>
+     <string name="folder_name_too_long">Имя папка слишком длинное</string>
      <string name="forward">Вперед</string>
      <string name="general_set_default_browser_dialog_close_txt">Закрыть</string>
      <string name="general_set_default_browser_dialog_ok_txt">Подтвердить</string>
@@ -237,6 +249,9 @@
      <string name="history_saved_webpage">Сохраненные страницы</string>
      <string name="history_track">История</string>
      <string name="homepage_set">Главная страница установлена</string>
+     <string name="import_bookmark">Импорт закладок</string>
+     <string name="import_bookmark_failure">Ошибка импорта Закладок!</string>
+     <string name="import_bookmark_sucess">Закладки успешно импортированы!</string>
      <string name="import_bookmarks_dialog_add">Добавить закладки в аккаунт Google</string>
      <string name="import_bookmarks_dialog_confirm_add">Добавить закладки, имеющиеся на этом устройстве, и начать синхронизацию с аккаунтом %s?</string>
      <string name="import_bookmarks_dialog_confirm_delete">Удалить закладки с устройства и начать синхронизацию с аккаунтом %s?</string>
@@ -250,6 +265,7 @@
      <string name="import_bookmarks_wizard_done">Готово</string>
      <string name="import_bookmarks_wizard_next">Далее</string>
      <string name="import_bookmarks_wizard_previous">Назад</string>
+     <string name="importing_favorite_files">Импорт данных…</string>
      <string name="in_incognito">В режиме \"Инкогнито\" история не сохраняется</string>
      <string name="instant_search_label">Google с Живым поиском (Лаборатория Google)</string>
      <string name="is_first_history_item">Первая страница</string>
@@ -289,6 +305,10 @@
      <string name="move_to_up_folder">на уровень выше</string>
      <string name="multi_select_title">Выбрано %1$s закладок</string>
      <string name="name">Ярлык</string>
+     <string name="navigation_button_close">Закрыть</string>
+     <string name="navigation_button_newtab">Новая</string>
+     <string name="navigation_button_tab">Вкладки</string>
+     <string name="navigation_button_view">Вид</string>
      <string name="network_show_wifi_setting_tip_dialog_description">Подключиться к сети сейчас?</string>
      <string name="network_show_wifi_setting_tip_dialog_notshow">Запомнить выбор</string>
      <string name="network_show_wifi_setting_tip_dialog_setting_cate_title">Уведомление о Wi-Fi</string>
@@ -305,6 +325,10 @@
      <string name="open_all_bookmarks">Открыть все</string>
      <string name="open_all_in_new_window">Открыть все в новых вкладках</string>
      <string name="open_bookmark">Открыть</string>
+     <!-- The count of MNPS does not match! Now: 1 must: 0
+	%s: 1 must: 0
+	%d: 0 must: 0 -->
+     <!-- Original string: Открыть всю историю -->
      <string name="open_history_group_in_new_window">Открыть все %s вкладок</string>
      <string name="open_history_most_visited_group_in_new_window">Открыть все часто посещаемые сайты</string>
      <string name="other_bookmarks">Другие закладки</string>
@@ -313,6 +337,7 @@
      <string name="page_info_view">Информация</string>
      <string name="password">Пароль</string>
      <string name="permission_preload_label">Загрузить результаты</string>
+     <string name="please_select_a_file_to_import">Пожалуйста, выберите файл с данными</string>
      <string name="popup_window_attempt">Открыть всплывающее окно с этого сайта?</string>
      <string name="pref_accessibility_title">Спец. возможности</string>
      <string name="pref_accessibility_url_shortcut_enter_summary">При вводе в адресную строку, общие комбинациями букв могут быть введены в одно нажатие</string>
@@ -343,6 +368,7 @@
      <string name="pref_content_open_in_background">Фоновый режим</string>
      <string name="pref_content_open_in_background_summary">Открывать новые вкладки перед текущей</string>
      <string name="pref_content_plugins">Разрешить плагины</string>
+     <string name="pref_content_preload_title">Предварительная загрузка</string>
      <string name="pref_content_search_engine">Поисковая система</string>
      <string name="pref_content_search_engine_summary">Выберите поисковую систему</string>
      <string name="pref_content_title">Содержание страницы</string>
@@ -384,6 +410,7 @@
      <string name="pref_file_download_save_title">Загрузить и сохранить файл</string>
      <string name="pref_fling_on_border_enabled">Слайд по границе</string>
      <string name="pref_fling_on_border_enabled_title_summary">Слайд по границе экрана</string>
+     <string name="pref_fling_on_border_operation">Функция при слайде</string>
      <string name="pref_font_size_category">Размер текста</string>
      <string name="pref_force_userscalable">Масштабирование</string>
      <string name="pref_force_userscalable_summary">Использовать заданное масштабирование</string>
@@ -393,6 +420,7 @@
      <string name="pref_general_sync_title">Синхронизация</string>
      <string name="pref_general_title">Общие</string>
      <string name="pref_gesture_title">Жесты</string>
+     <string name="pref_image_display_control">Загрузка изображений</string>
      <string name="pref_images_preload_dialogtitle">Предзагрузка изображений</string>
      <string name="pref_images_preload_summary">" разрешить браузеру предварительно загружать изображения, если позволяет сервер"</string>
      <string name="pref_images_preload_title">Предзагрузка изображений</string>
@@ -472,7 +500,6 @@
      <string name="pref_zoom_on_double_tap">Увеличение двойным нажатием</string>
      <string name="preview">Предварительный просмотр</string>
      <string name="progress_dialog_setting_wallpaper">Установка обоев…</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="quicklink_saved_before">Сайт уже добавлен</string>
      <string name="quicklink_user_define_webpage_title">Имя</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
@@ -481,7 +508,6 @@
      <string name="quicklinks_management">Полезные сайты</string>
      <string name="quicklinks_most_visited">Добавить сайт на главную</string>
      <string name="quicklinks_most_visited_subtitle">Добавить плитку вашего сайта на главный экран</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="quicklinks_most_visited_title">Добавить на стартовую</string>
      <string name="readmode_already_add_to_bookshelf">Уже добавлено на книжную полку</string>
      <string name="readmode_battery">Батарея </string>
@@ -545,8 +571,9 @@
      <string name="search_yicha">Yicha</string>
      <string name="security_warning">Угроза безопасности</string>
      <string name="select_dot">Выбрать текст</string>
+     <string name="selection_all">Выбрать все</string>
      <string name="send_bookmark_to_home_screen">Создать ярлык на рабочем столе</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="send_to_desktop">Ярлык</string>
      <string name="send_to_popular">В популярные</string>
      <string name="set_as_homepage">Сделать главной страницей</string>
      <string name="share_link">Поделиться</string>
@@ -573,8 +600,11 @@
      <string name="storage_sd_card">SD-карта</string>
      <string name="storage_usb">USB-накопитель</string>
      <string name="tab_bookmarks">Закладки</string>
+     <string name="tab_closed">Вкладка закрыта</string>
      <string name="tab_history">История</string>
      <string name="tab_most_visited">Часто посещаемые</string>
+     <string name="tab_opened_background">Вкладка открыта в фоне</string>
+     <string name="tab_opened_background_in_incognito">Владка открыта в режиме \"Инкогнито\"</string>
      <string name="tab_quicklinks">Ссылки</string>
      <string name="tab_snapshots">Сохраненные страницы</string>
      <string name="tab_yellowpage">Категории</string>
@@ -594,6 +624,7 @@
      <string name="warning">Внимание</string>
      <string name="webapp_add_to_desktop">Добавить на стол</string>
      <string name="webapp_addtodeskpop_append">Добавлено</string>
+     <string name="webapp_app_name">Веб-маркет приложений</string>
      <string name="webapp_bottom_bar_addtodesk">На стол</string>
      <string name="webapp_bottom_bar_exit">Выход</string>
      <string name="webapp_bottom_bar_hidebar">Скрыть бар</string>

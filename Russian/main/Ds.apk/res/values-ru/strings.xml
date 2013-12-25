@@ -1,15 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Generated with KDev Library -->
+<!-- Builded with CloudBuildr -->
 <resources>
-    <string name="remote_service_stopped">Служба остановлена</string>
-    <string name="app_name">DS</string>
-    <string name="name_widget_extra_large">Виджет профиля DS 6</string>
-    <string name="name_widget_large">Виджет профиля DS 3</string>
-    <string name="name_widget_small">Виджет включения DS</string>
-    <string name="movie">Кино</string>
-    <string name="music">Музыка</string>
-    <string name="game">Игра</string>
-    <string name="voice">Голос</string>
-    <string name="preset_1">Пресет 1</string>
-    <string name="preset_2">Пресет 2</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="app_name">DS</string>
+     <string name="game">Игра</string>
+     <string name="movie">Кино</string>
+     <string name="music">Музыка</string>
+     <string name="name_widget_extra_large">Виджет профиля DS 6</string>
+     <string name="name_widget_large">Виджет профиля DS 3</string>
+     <string name="name_widget_small">Виджет включения DS</string>
+     <string name="preset_1">Пресет 1</string>
+     <string name="preset_2">Пресет 2</string>
+     <string name="remote_service_stopped">Служба остановлена</string>
+     <string name="voice">Голос</string>
 </resources>

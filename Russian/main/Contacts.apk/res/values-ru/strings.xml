@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Builded with CloudBuildr -->
 <resources>
+     <string name="AirPlane_mode_on">Невозможно сохранить контакт, когда включен режим полета.</string>
+     <string name="AirPlane_mode_on_edit">Невозможно редактировать контакт, когда включен режим полета.</string>
+     <string name="FDNEnabled">Невозможно сохранить контакт, когда включен FDN.</string>
      <string name="accessibility_calllog_detail">Журнал</string>
+     <string name="account_abnormal_state">Неверная информация об учетной записи. Попробуйте войти снова или повторите попытку позже!</string>
      <string name="account_container_title">Из аккаунта</string>
      <string name="account_default">Телефон</string>
      <string name="account_phone">Только телефон, без синхронизации</string>
@@ -102,10 +106,15 @@
      <string name="callrecordview_menu_delete_accepted">Удалить входящие вызовы</string>
      <string name="callrecordview_menu_delete_all">Очистить журнал</string>
      <string name="callrecordview_menu_delete_called">Удалить исходящие вызовы</string>
+     <!-- The count of MNPS does not match! Now: 1 must: 0
+	%s: 1 must: 0
+	%d: 0 must: 0 -->
+     <!-- Original string: Очистить журнал вызовов? -->
      <string name="callrecordview_menu_delete_confirm">Удалить %s?</string>
      <string name="callrecordview_menu_delete_missed">Удалить пропущенные вызовы</string>
      <string name="callrecordview_menu_delete_new">Удалить новые контакты</string>
      <string name="callrecordview_menu_delete_one">Удалить из журнала вызовов</string>
+     <string name="callrecordview_menu_delete_sim">Очистить журнал вызовов: %s</string>
      <string name="callrecordview_menu_delete_stranger">Удалить неизвестные вызовы</string>
      <string name="callrecordview_menu_edit_call_note">Изменить заметку о вызове</string>
      <string name="callrecordview_menu_paste">Вставить</string>
@@ -116,6 +125,7 @@
      <string name="callrecordview_menu_show_called">Только исходящие</string>
      <string name="callrecordview_menu_show_missed">Только пропущенные</string>
      <string name="callrecordview_menu_show_new">Только новые контакты</string>
+     <string name="callrecordview_menu_show_sim">Вызовов: %s</string>
      <string name="callrecordview_menu_show_stranger">Только неизвестные</string>
      <string name="callrecordview_menu_show_title">Отображение вызовов</string>
      <string name="cancel_confirmation_dialog_message">Отменить изменения?</string>
@@ -124,6 +134,7 @@
      <string name="cancel_import_dialog_message">Вы уверены, что хотите прекратить импорт контактов?</string>
      <string name="cancel_import_dialog_title">Остановить импорт</string>
      <string name="cancel_vcard_import_or_export_failed">Не удалось отменить импорт/экспорт vCard</string>
+     <string name="cannot_insert_null_number">Для сохранения контакта необходимо ввести имя и номер</string>
      <string name="chat">Чат</string>
      <string name="chat_aim">Чат через AIM</string>
      <string name="chat_gtalk">Чат через Google Talk</string>
@@ -328,14 +339,18 @@
      <string name="edit_contact_card_title">Редактировать контакт</string>
      <string name="email">Эл. почта</string>
      <string name="emailLabelsGroup">Почта</string>
+     <string name="email_2g_invalid">Невозможно сохранить электронную почту на 2G SIM-карту. Пожалуйста, выберите 3G SIM-карту для сохранения.</string>
      <string name="email_custom">Почта (%s)</string>
      <string name="email_home">Личная почта</string>
+     <string name="email_invalid">Невозможно сохранить неверную электронную почту</string>
      <string name="email_mobile">Мобильная почта</string>
      <string name="email_other">Написать письмо</string>
+     <string name="email_too_long">Адрес электронной почты слишком длинный</string>
      <string name="email_work">Рабочая почта</string>
      <string name="emptyGroup">Нет людей в этой группе</string>
      <string name="empty_divider_title">Вы можете</string>
      <string name="enter_contact_name">Имя контакта</string>
+     <string name="error_save_usim_contact_email_lost">Невозможно сохранить адрес электронной почты. Память USIM заполнена.</string>
      <string name="eventLabelsGroup">День рождения</string>
      <string name="event_edit_field_hint_text">Дата</string>
      <string name="export_sim_contact_finish">Экспорт завершен</string>
@@ -349,6 +364,7 @@
 Контактов: %d"</string>
      <string name="export_to_sdcard">На SD-карту</string>
      <string name="export_to_sim">На SIM-карту</string>
+     <string name="export_to_sim2">На SIM-карту 2</string>
      <string name="export_to_sim_title">Экспорт на SIM-карту…</string>
      <string name="export_vcard_description">Экспортировать vCard на SD-карту</string>
      <string name="exporting_contact_failed_message">"Не удалось экспортировать данные.
@@ -377,12 +393,14 @@
      <string name="favoritesFrequentCalled">Часто вызываемые</string>
      <string name="favoritesFrequentContacted">Часто набираемые</string>
      <string name="favorites_list_empty">Нет избранных</string>
+     <string name="fix_number_too_long">Номер слишком длинный</string>
      <string name="foundTooManyContacts">Найдено более %d</string>
      <string name="frequency_none">Никогда</string>
      <string name="frequency_three_days">Каждые 3 дня</string>
      <string name="frequency_weekly">Каждую неделю</string>
      <string name="frequentList">Часто вызываемые</string>
      <string name="full_name">Имя</string>
+     <string name="generic_failure">Общий сбой</string>
      <string name="generic_no_account_prompt">Держите свои контакты в безопасности, даже если Вы потеряете свой телефон: синхронизация с онлайн-сервисом</string>
      <string name="generic_no_account_prompt_title">Добавить аккаунт</string>
      <string name="ghostData_company">Компания</string>
@@ -403,6 +421,7 @@
      <string name="group_sms_progress_msg">Подготовка к групповой отправке SMS…</string>
      <string name="groupsLabel">Группы</string>
      <string name="groups_list_empty">Нет групп</string>
+     <string name="has_double_phone_number">Номер уже существует</string>
      <string name="hint_distance">держать дистанцию</string>
      <string name="hint_findContacts">Найти контакты</string>
      <string name="hint_more_contact">использовать слияние контакта, при его выходе из контактов дубликатов</string>
@@ -412,6 +431,7 @@
      <string name="ic_menu_back">Назад</string>
      <string name="ic_menu_done">Готово</string>
      <string name="imLabelsGroup">Чат</string>
+     <string name="imei_invalid">Неверный IMEI</string>
      <string name="import_all_sim_entries_miui">Импорт всех контактов</string>
      <string name="import_all_vcard_string">Импорт всех файлов VCard</string>
      <string name="import_contact_card_button">Импорт</string>
@@ -419,6 +439,7 @@
      <string name="import_from_other_phone">Из другого телефона</string>
      <string name="import_from_sdcard">С SD-карты</string>
      <string name="import_from_sim">С SIM-карты</string>
+     <string name="import_from_sim2">С SIM-карты 2</string>
      <string name="import_multiple_vcard_string">Импорт нескольких vCard</string>
      <string name="import_name">имя</string>
      <string name="import_one_vcard_string">Импорт файла vCard</string>
@@ -504,6 +525,7 @@
      <string name="menu_create_contact_shortcut">На рабочий стол</string>
      <string name="menu_deleteContact">Удалить контакт</string>
      <string name="menu_deleteGroup">Удалить группу</string>
+     <string name="menu_dial_ip_number">Совершить IP-вызов</string>
      <string name="menu_dialpad_text">Клавиатура</string>
      <string name="menu_discard">Отмена</string>
      <string name="menu_display_all">Показать все</string>
@@ -521,6 +543,7 @@
      <string name="menu_new_group_action_bar">Новая группа</string>
      <string name="menu_not_redirect_calls_to_vm">Включить голосовую почту</string>
      <string name="menu_redirect_calls_to_vm">Выключить голосовую почту</string>
+     <string name="menu_refresh">Обновить</string>
      <string name="menu_removeStar">Из избранных</string>
      <string name="menu_search">Поиск</string>
      <string name="menu_select_all">Выбрать все</string>
@@ -539,6 +562,7 @@
      <string name="messageShortcutActivityTitle">Выбрать номер для отправки сообщения</string>
      <string name="missing_name">(без имени)</string>
      <string name="move_and_resize">Изменение размера и положения</string>
+     <string name="msg_loading_sim_contacts_toast">Загрузка контактов SIM-карты в фоновом режиме. Пожалуйста, подождите…</string>
      <string name="multipleContactDeleteConfirmation">Удаление этого контакта приведет к потере данных из нескольких аккаунтов</string>
      <string name="multipleContactDeleteConfirmationDetail">Контакт содержит информацию из нескольких аккаунтов. Удаление \"%s\" удалит информацию из всех аккаунтов.</string>
      <string name="my_phone_not_provider_bluetooth">нет провайдера bluetooth</string>
@@ -553,6 +577,7 @@
      <string name="name_phonetic_middle">Отчество (транскрипция)</string>
      <string name="name_prefix">Форма обращения</string>
      <string name="name_suffix">Звание/титул</string>
+     <string name="name_too_long">Имя слишком длинное</string>
      <string name="next">далее</string>
      <string name="next_birthday">Следующий День рождения: %s</string>
      <string name="nfc_vcard_file_name">Получено по NFC</string>
@@ -628,6 +653,7 @@
 
 • Всегда иметь под рукой обновленные данные – на любом устройстве
 • Синхронизировать все контакты – Вы никогда не потеряете их"</string>
+     <string name="no_connection_dialog_title">Ошибка соединения по Bluetooth</string>
      <string name="no_contact_details">Нет других данных об этом контакте</string>
      <string name="no_contact_in_other_phone">Нет контактов</string>
      <string name="no_contacts_dialog_message">Человек не найден в Ваших контактах. Возможно он находится в списке контактов на SIM-карте. Для поиска , сделайте импорт всех контактов с SIM-карты.</string>
@@ -642,6 +668,7 @@
      <string name="not_applied">Не поддерживается</string>
      <string name="notification_action_voicemail_play">Прослушать</string>
      <string name="notification_new_voicemail_ticker">Новое гол. сообщение от %1$s</string>
+     <string name="number_too_long">Номер слишком длинный</string>
      <string name="online_no_network">Не возможно подключиться к сети</string>
      <string name="online_search_hint">Введите ключевые слова</string>
      <string name="openDialKeyboard">Клавиатура</string>
@@ -663,6 +690,7 @@
      <string name="payphone">Телефон-автомат</string>
      <string name="people">Контакты</string>
      <string name="phoneLabelsGroup">Телефон</string>
+     <string name="phone_book_busy">Телефонная книга сейчас занята, попробуйте позже.</string>
      <string name="phone_primary">Основной</string>
      <string name="photoPickerNotFoundText">Нет изображений</string>
      <string name="photo_package_activity_title">Фото пакет</string>
@@ -797,6 +825,7 @@
      <string name="resource_comment_3_star">3 звезды</string>
      <string name="resource_comment_4_star">4 звезды</string>
      <string name="resource_comment_5_star">5 звезд</string>
+     <string name="resource_comment_account_need_activitied">Активируйте свой аккаунт Xiaomi</string>
      <string name="resource_comment_all_comments">Все</string>
      <string name="resource_comment_average_score">Средняя</string>
      <string name="resource_comment_bad_comments">Плохие</string>
@@ -907,6 +936,7 @@
      <string name="resource_share_subject">Поделиться: %1$s</string>
      <string name="resource_share_text">Вот тема, которая Вам понравится: %1$s! Ссылка: %2$s.</string>
      <string name="resource_share_title">Отправить</string>
+     <string name="resource_switch_account">Перекл.</string>
      <string name="resource_system_title">Системные</string>
      <string name="resource_tip_select_ringtone">Мелодия не выбрана</string>
      <string name="resource_title">Сведения</string>
@@ -921,6 +951,8 @@
      <string name="restore_nickname">Восстановить</string>
      <string name="returnCall">Обратный вызов</string>
      <string name="ringLabelsGroup">Мелодия</string>
+     <string name="ringtone_volume_mute">Звук выключен</string>
+     <string name="save">Добавить</string>
      <string name="save_photo_progress">Сохранение фотографии…</string>
      <string name="savingContact">Контакт сохраняется…</string>
      <string name="savingDisplayGroups">Варианты отображения сохраняются…</string>
@@ -933,6 +965,8 @@
      <string name="sdcard_not_mounted_dialog_message">"Вставьте SD-карту
 "</string>
      <string name="sdcard_not_mounted_dialog_title">SD-карта не обнаружена</string>
+     <string name="sdcard_status_changed_dialog_message">Требуется выход. Пожалуйста, откройте это приложение еще раз, для обновления ресурсов.</string>
+     <string name="sdcard_status_changed_dialog_title">Изменился статус SD-карты</string>
      <string name="searchHint">Поиск контактов</string>
      <string name="search_results_searching">Поиск…</string>
      <string name="search_settings_description">Имена контактов</string>
@@ -972,6 +1006,7 @@
      <string name="sim_contact_dropdown_menu_select_all_miui">Выбрать все</string>
      <string name="sim_contact_existing">Этот контакт SIM уже существует</string>
      <string name="sim_contact_invalid">Неверный контакт SIM-карты</string>
+     <string name="sim_contact_number_missing">Номер контакта на SIM-карте отсутствует</string>
      <string name="sim_contact_search_error">Произошла ошибка при поиске контактов с SIM-карты</string>
      <string name="sim_contacts">Контакт на SIM-карте</string>
      <string name="sim_error_anr_full">Хранилище номеров заполнено</string>
@@ -985,6 +1020,9 @@
      <string name="sim_error_text_too_long">Имя слишком длинное</string>
      <string name="sim_export_loading">SIM-карта считывается. Операция может занять несколько минут…</string>
      <string name="sim_indexed_contact_not_exist">Позиция %1$d не является допустимой на SIM-карте, должна быть между %2$d и %3$d</string>
+     <string name="sim_invalid">Невозможно сохранить контакт, когда SIM-карта недоступна.</string>
+     <string name="sim_invalid_fix_number">Невозможно сохранить неверный номер</string>
+     <string name="sim_invalid_number">Невозможно сохранить неверный номер</string>
      <string name="sim_no_contact">Нет контактов на SIM-карте</string>
      <string name="single_group_list_empty">Нет контактов в группе</string>
      <string name="smart_group_company_label">По компаниям</string>
@@ -1031,11 +1069,12 @@
      <string name="status_available">На месте</string>
      <string name="status_away">Отсутствует</string>
      <string name="status_busy">Не беспокоить</string>
+     <string name="storage_full">Память заполнена</string>
      <string name="strequentList">Избранные</string>
      <string name="success_message_import_from_account">Импорт завершен</string>
      <string name="summary_kind_title">Основная информация</string>
+     <string name="t9_search_guide">Введите номер телефона или найдите контакт с помощью T9</string>
      <string name="t9_search_guide_pinyin">Введите номер или найдите контакт с помощью T9</string>
-     <string name="t9_search_guide_zhuyin">Введите номер или найдите контакт с помощью T9</string>
      <string name="take_new_photo">Сделать фотографию</string>
      <string name="take_photo">Сделать фотографию</string>
      <string name="titleJoinContactDataWith">Объединить контакты</string>

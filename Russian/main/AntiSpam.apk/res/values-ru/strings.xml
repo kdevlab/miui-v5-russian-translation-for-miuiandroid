@@ -20,6 +20,7 @@
      <string name="dlg_clear_current_ok">Удалить</string>
      <string name="dlg_clear_current_sms">Вы действительно хотите удалить все заблокированные сообщения отправленные этим номером?</string>
      <string name="dlg_delete_keyword">Вы действительно хотите удалить эти ключевые слова?</string>
+     <string name="dlg_delete_vip">Удалить из списка исключений?</string>
      <string name="dlg_edit_keyword">Изменить ключевые слова</string>
      <string name="dlg_import_blacklist">Добавить в черный список</string>
      <string name="dlg_import_whitelist">Добавить в VIP список</string>
@@ -37,6 +38,7 @@
      <string name="menu_add">Добавить</string>
      <string name="menu_add_into_contact">Добавить в существующий контакт</string>
      <string name="menu_add_new_contact">Новый контакт</string>
+     <string name="menu_add_vip_custom">Добавить исключения</string>
      <string name="menu_bl_add_contact">Контакты</string>
      <string name="menu_bl_add_manual">Добавить</string>
      <string name="menu_bl_call_log">Проверьте заблокированные вызовы</string>
@@ -54,6 +56,31 @@
      <string name="menu_remove">Удалить</string>
      <string name="menu_restore">Восстановить в сообщения</string>
      <string name="menu_sms">Отправить сообщение</string>
+     <string name="qm_auto_button_title">Время</string>
+     <string name="qm_auto_setting_group">По расписанию</string>
+     <string name="qm_auto_time_setting">Настройки времени</string>
+     <string name="qm_auto_time_setting_summary">С %1$s до %2$s</string>
+     <string name="qm_auto_time_turn_off">Окончание</string>
+     <string name="qm_auto_time_turn_off_title">Автоматическое выключение тихого режима</string>
+     <string name="qm_auto_time_turn_on">Начало</string>
+     <string name="qm_auto_time_turn_on_title">Автоматическое включение тихого режима</string>
+     <string name="qm_notification">Тихий режим включен</string>
+     <string name="qm_open">Тихий режим</string>
+     <string name="qm_repeated_call_setting_title">Повторные вызовы</string>
+     <string name="qm_repeated_call_summary_3min">Второй вызов от того же номера в течение трех минут не будет отключен</string>
+     <string name="qm_repeated_call_summary_none">Не исключать повторные вызовы</string>
+     <string name="qm_special_call_setting_group">Исключения</string>
+     <string name="qm_summary">При включении тихого режима уведомления входящих вызовов и сообщений будут отключены.</string>
+     <string name="qm_vip_call_button_title">Исключения</string>
+     <string name="qm_vip_call_setting_title">Настройка исключений</string>
+     <string name="qm_vip_call_summary_contact">Все контакты</string>
+     <string name="qm_vip_call_summary_custom">Исключений: %d</string>
+     <string name="qm_vip_call_summary_none">Отключено</string>
+     <string name="qm_vip_list_contact">Все контакты</string>
+     <string name="qm_vip_list_custom">Исключения</string>
+     <string name="qm_vip_list_custom_group">Контакты</string>
+     <string name="qm_vip_list_group">Группа</string>
+     <string name="quiet_mode">Тихий режим</string>
      <string name="st_advanced_setting_group">Дополнительно блокировать</string>
      <string name="st_block_all">Блокировка вызовов и сообщений</string>
      <string name="st_block_mute">Блокировка вызовов и отключения звука сообщения</string>
@@ -84,6 +111,10 @@
      <string name="tab_sms">Сообщения</string>
      <string name="tab_title">Антиспам</string>
      <string name="toast_keyword_blank">Нет ключевых слов</string>
+     <!-- The count of MNPS does not match! Now: 0 must: 1
+	%s: 0 must: 1
+	%d: 0 must: 0 -->
+     <!-- Original string: Ключевое слово \"%s\" уже существует -->
      <string name="toast_keyword_exist">Ключевое слово сохранено</string>
      <string name="toast_keyword_invalid">Неверное ключевое слово</string>
 </resources>

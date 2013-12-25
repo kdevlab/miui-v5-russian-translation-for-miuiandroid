@@ -313,7 +313,6 @@
      <string name="message_list_load_more_messages_action">Загрузить еще сообщения</string>
      <string name="message_list_no_messages">Нет сообщений</string>
      <string name="message_list_send_pending_messages_action">Отправить все сообщ.</string>
-     <string name="message_list_subject_snippet_divider">" – "</string>
      <string name="message_saved_toast">Черновик сообщения сохранен</string>
      <string name="message_subject_description">Тема</string>
      <string name="message_view_always_show_pictures_button">Всегда показывать</string>
@@ -374,6 +373,7 @@
      <string name="password_expired_dialog_content_fmt">Данные аккаунта %s удаляются с вашего устройства. Вы можете восстановить их, изменив свой PIN-код или пароль блокировки экрана. Изменить его сейчас?</string>
      <string name="password_expired_dialog_title">Пароль блокировки экрана устарел</string>
      <string name="password_expired_ticker">Срок действия вашего PIN-кода или пароля блокировки экрана истек</string>
+     <string name="pause_state_need_media">приостановлено – отсутствует SD-карта</string>
      <string name="permission_access_provider_desc">Приложение получит доступ к базе данных программы электронной почты, которая включает полученные и отправленные письма, имена пользователей и пароли</string>
      <string name="permission_access_provider_label">Доступ к данным сервиса эл. почты</string>
      <string name="permission_read_attachment_desc">Приложение получит доступ к прикрепленным файлам в сообщениях эл. почты</string>
