@@ -2,31 +2,17 @@
 <Icon version="1" frameRate="0" width="136" height="136" screenWidth="720" useVariableUpdater="none">
 
     <VariableBinders>
-         <ContentProviderBinder 
-			      name="city_binder"
-            uri="content://pro.burgerz.weather/cities"  
-            columns="location,isHome"  
-			      where="isHome=1 OR isGPS=1"	
-            order="isHome DESC, isGPS DESC"
-            countName="hasHomeCity" >
-            <Variable name="cities_location" type="string" column="location" row="0"/>
-			      <Variable name="cities_ishome" type="int" column="isHome" row="0"/>
-         </ContentProviderBinder>
-		     <ContentProviderBinder 
-			      name="weather_binder" 
-            dependency="city_binder" 
+        <ContentProviderBinder 
             uri="content://pro.burgerz.weather/weather" 
-            columns="station,temp,weatherID"  
-			      whereFormat="station='%s'"
-            whereParas="@cities_location" 
+            columns="station,temp,weatherID" 
             countName="hasweather" >
             <Variable name="weather_temperature" type="int" column="temp" row="0"/>
-			      <Variable name="weather_temperature_str" type="string" column="temp" row="0"/>
+            <Variable name="weather_temperature_str" type="string" column="temp" row="0"/>
             <Variable name="weather_id" type="int" column="weatherID" row="0"/> 
-         </ContentProviderBinder>
+        </ContentProviderBinder>
     </VariableBinders>
 
-    <Group>
+<Group>
  <!-- weather.bg  --> 
   <Var name="is_rain" expression="ge(#weather_id,4)*le(#weather_id,11)" /> 
   <Var name="is_fog" expression="eq(#weather_id,3)+eq(#weather_id,24)" /> 
@@ -47,6 +33,6 @@
   <Image name="img2" visibility="eq(#num_temp,2)" x="#offset_imag2" y="#offset_img_y" align="center" alignV="center" srcExp="'weather/'+digit(abs(#weather_temperature),2)+'.png'" /> 
   <Image visibility="#is_negative" x="#offset_negative" y="#offset_img_y" align="right" alignV="center" srcExp="'weather/negative.png'" /> 
   <Image visibility="#temperature_not_null" x="#offset_imag1+13" y="#offset_img_y" alignV="center" srcExp="'weather/degree.png'" /> 
-  </Group>
+</Group>
 
 </Icon>
