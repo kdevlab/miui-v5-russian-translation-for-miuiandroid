@@ -42,7 +42,6 @@
         <item>Ю</item>
         <item>Я</item>
      </string-array>
-
      <string-array name="alphabet_table_with_starred">
         <item>!</item>
         <item>\#</item>
@@ -87,5 +86,5 @@
         <item>Сайт</item>
         <item>Адрес</item>
         <item>Заметка</item>
-    </string-array>
+     </string-array>
 </resources>

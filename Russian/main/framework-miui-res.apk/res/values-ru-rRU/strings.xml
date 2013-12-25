@@ -6,13 +6,10 @@
      <string name="activating">Активация…</string>
      <string name="alwaysUsePrompt">Исполь. по умолчанию</string>
      <string name="android_lockscreen_glogin_instructions">Чтобы разблокировать, войдите в свой аккаунт</string>
-     <string name="anniversary_of_lifting_martial_law">解嚴紀念</string>
-     <string name="anti_aggression_day">反侵略日</string>
      <string name="app_no_notification">ничего</string>
      <string name="app_notificaiton_on_notificationBar">Панель уведомлений</string>
      <string name="app_notificaiton_on_statusBar_and_notificationBar">Строка состояния, панель уведомлений</string>
      <string name="arbor_day" />
-     <string name="armed_forces_day">軍人節</string>
      <string name="autumn_begins" />
      <string name="autumn_equinox" />
      <string name="callNoAnswerTimeFormat">Гудков: %s</string>
@@ -257,58 +254,21 @@
      <string name="country_name_za">ЮАР</string>
      <string name="country_name_zm">Замбия</string>
      <string name="country_name_zw">Зимбабве</string>
-     <string name="day_following_good_friday">耶穌受難節翌日</string>
      <string name="day_of_month">" %d"</string>
      <string name="days">%d дн.</string>
-     <string name="def_alarm_alert">/system/media/audio/alarms/GoodMorning.ogg</string>
-     <string name="def_notification_sound">/system/media/audio/notifications/FadeIn.ogg</string>
-     <string name="def_ringtone">/system/media/audio/ringtones/MI.ogg</string>
-     <string name="def_sms_delivered_sound">/system/media/audio/ui/MessageComplete.ogg</string>
-     <string name="def_sms_received_sound">/system/media/audio/notifications/FadeIn.ogg</string>
      <string name="delete">Удалить</string>
-     <string name="deprecated_50" />
-     <string name="deprecated_51" />
-     <string name="deprecated_52" />
-     <string name="deprecated_53" />
-     <string name="deprecated_54" />
-     <string name="deprecated_55" />
-     <string name="deprecated_56" />
-     <string name="deprecated_57" />
-     <string name="deprecated_58" />
-     <string name="deprecated_59" />
-     <string name="deprecated_60" />
-     <string name="deprecated_61" />
-     <string name="deprecated_62" />
-     <string name="deprecated_63" />
-     <string name="deprecated_64" />
-     <string name="deprecated_65" />
-     <string name="deprecated_66" />
-     <string name="deprecated_67" />
-     <string name="deprecated_68" />
-     <string name="deprecated_69" />
-     <string name="deprecated_70" />
-     <string name="deprecated_71" />
-     <string name="deprecated_72" />
-     <string name="deprecated_73" />
-     <string name="deprecated_74" />
-     <string name="deprecated_75" />
-     <string name="deprecated_76" />
-     <string name="deprecated_77" />
-     <string name="deprecated_78" />
-     <string name="deprecated_79" />
-     <string name="deprecated_80" />
-     <string name="deprecated_81" />
-     <string name="deprecated_82" />
-     <string name="deprecated_83" />
      <string name="deprecated_alarm_message_12_hour_formate" />
      <string name="device_hongmi">Телефон Hongmi</string>
      <string name="device_xiaomi">Телефон Xiaomi</string>
      <string name="double_seventh_day" />
-     <string name="easter">復活節</string>
      <string name="emergency_call_string">Экстренные</string>
      <string name="err_resource_leak">К сожалению, \"%1$s\" остановлен для избежания утечки ресурсов</string>
      <string name="error_forbidden">Ошибки в аккаунте. Синхронизация отключена.</string>
      <string name="error_not_acceptable">Ошибки на сервере. Синхронизация отключена.</string>
+     <!-- The count of MNPS does not match! Now: 0 must: 1
+	%s: 0 must: 1
+	%d: 0 must: 0 -->
+     <!-- Original string: Ошибка синхронизации для %s -->
      <string name="error_title">Ошибка синхронизации</string>
      <string name="error_unauthorized">Слишком много попыток авторизации. Синхронизация отключена.</string>
      <string name="every_day">Каждый день</string>
@@ -337,7 +297,6 @@
      <string name="format_time_in_12_hours">hh:mma</string>
      <string name="global_action_privacy_mode_dialog_message">В режиме гостя сообщения, журналы вызовов и заметки будут скрыты, а также Вы не сможете редактировать рабочий стол</string>
      <string name="global_action_toggle_privacy_mode">Гость</string>
-     <string name="good_friday">耶穌受難節</string>
      <string name="grain_buds" />
      <string name="grain_in_ear" />
      <string name="grain_rain" />
@@ -350,7 +309,6 @@
      <string name="group_name_family">Семья</string>
      <string name="group_name_friends">Друзья</string>
      <string name="heavy_snow" />
-     <string name="hksar_establishment_day">行政區成立</string>
      <string name="hoar_frost_falls" />
      <string name="hours">%d ч.</string>
      <string name="incorrect_pincode">Неверный PIN-код</string>
@@ -464,7 +422,6 @@ EEEE"</string>
      <string name="reboot_confirm">Телефон будет перезагружен</string>
      <string name="reboot_confirm_title">Вы уверены, что хотите перезагрузить телефон?</string>
      <string name="reboot_progress">Перезагрузка…</string>
-     <string name="retrocession_day">光復節</string>
      <string name="return_to_me_message">Пожалуйста, верните, если я потерял</string>
      <string name="reverse_all">Очистить выделение</string>
      <string name="safetylegal_activity_unreachable">Ваш телефон не подключен к сети. Для просмотра этой информации в настоящее время, перейдите к %s с любого компьютера.</string>
@@ -509,7 +466,6 @@ EEEE"</string>
      <string name="the_armys_day" />
      <string name="the_double_ninth_festival" />
      <string name="the_dragon_boat_festival" />
-     <string name="the_first_weekday_after_christmas">聖誕節後第一個周日</string>
      <string name="the_laba_rice_porridge_festival" />
      <string name="the_mid_autumn_festival" />
      <string name="the_rains" />
@@ -517,9 +473,6 @@ EEEE"</string>
      <string name="toast_lockscreen_glogin_empty_password">Введите пароль</string>
      <string name="today">"Сегодня "</string>
      <string name="tomorrow">"Завтра "</string>
-     <string name="tw_childrens_day">兒童節</string>
-     <string name="tw_youth_day">青年節</string>
-     <string name="united_nations_day">聯合國日</string>
      <string name="unknown">Неизвестный номер</string>
      <string name="unknown_caller">Неизвестный абонент</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->

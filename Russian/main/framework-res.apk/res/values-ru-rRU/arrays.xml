@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!-- Builded with CloudBuildr -->
 <resources>
-    <integer-array name="maps_starting_lat_lng">
-        <item>55750449</item>
-        <item>37621136</item>
-    </integer-array>
-    <integer-array name="maps_starting_zoom">
-        <item>2</item>
-    </integer-array>
-	<string-array name="emailAddressTypes">
+     <string-array name="emailAddressTypes">
         <item>Домашний</item>
         <item>Рабочий</item>
         <item>Другой</item>
         <item>Создать</item>
-    </string-array>
-    <string-array name="imProtocols">
+     </string-array>
+     <string-array name="imAddressTypes">
+        <item>Домашний</item>
+        <item>Рабочий</item>
+        <item>Другой</item>
+        <item>Создать</item>
+     </string-array>
+     <string-array name="imProtocols">
         <item>AIM</item>
         <item>Windows Live</item>
         <item>Yahoo</item>
@@ -22,13 +22,20 @@
         <item>Google Talk</item>
         <item>ICQ</item>
         <item>Jabber</item>
-    </string-array>
-    <string-array name="organizationTypes">
+     </string-array>
+     <integer-array name="maps_starting_lat_lng">
+        <item>55750449</item>
+        <item>37621136</item>
+     </integer-array>
+     <integer-array name="maps_starting_zoom">
+        <item>2</item>
+     </integer-array>
+     <string-array name="organizationTypes">
         <item>Рабочий</item>
         <item>Другой</item>
         <item>Создать</item>
-    </string-array>
-    <string-array name="phoneTypes">
+     </string-array>
+     <string-array name="phoneTypes">
         <item>Домашний</item>
         <item>Мобильный</item>
         <item>Рабочий</item>
@@ -37,17 +44,11 @@
         <item>Пейджер</item>
         <item>Другой</item>
         <item>Создать</item>
-    </string-array>
-    <string-array name="postalAddressTypes">
+     </string-array>
+     <string-array name="postalAddressTypes">
         <item>Домашний</item>
         <item>Рабочий</item>
         <item>Другой</item>
         <item>Создать</item>
-    </string-array>
-    <string-array name="imAddressTypes">
-        <item>Домашний</item>
-        <item>Рабочий</item>
-        <item>Другой</item>
-        <item>Создать</item>
-    </string-array>
+     </string-array>
 </resources>
