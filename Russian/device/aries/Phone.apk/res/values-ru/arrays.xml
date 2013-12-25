@@ -23,13 +23,14 @@
         <item>Китайский</item>
         <item>Иврит</item>
      </string-array>
+     <!-- The size of the array does not match! Now: 6 must: 13 -->
      <string-array name="preferred_network_mode_choices">
         <item>CDMA/EvDo/GSM/WCDMA</item>
         <item>Автом. CDMA/EvDo</item>
         <item>Только WCDMA</item>
         <item>Только GSM</item>
         <item>GSM/WCDMA предпоч.</item>
-    </string-array>
+     </string-array>
      <string-array name="tty_mode_entries">
         <item>Телетайп выключен</item>
         <item>Полнофункциональный телетайп</item>
