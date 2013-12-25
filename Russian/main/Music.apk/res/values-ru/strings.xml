@@ -211,6 +211,7 @@
      <string name="overwrite_confirm">Перезаписать</string>
      <string name="pay_service_guide_dowload">Качество скачивания</string>
      <string name="pay_service_guide_listen">Качество потока</string>
+	 <string name="pay_service_guide_new">Доступна музыка в высоком качестве</string>
      <string name="payment_fail">Платеж не удался</string>
      <string name="payment_success">Успешно оплачено</string>
      <string name="play_all">Воспроизвести все</string>
@@ -298,7 +299,7 @@
      <string name="start_to_download_avatar">Загрузка аватара исполнителя…</string>
      <string name="streamloadingtext">Подключение к %s</string>
      <string name="synchronize_guide_toast">Включение синхронизации, в настройках > Сихронизация плейлистов</string>
-     <string name="synchronize_playlist_setting">Синхр. плейлисты</string>
+     <string name="synchronize_playlist_setting">Синхронизация плейлистов</string>
      <string name="synchronize_playlist_summary">Синхронизировать плейлисты в MiCloud</string>
      <string name="synchronize_to_baidu_cloud">Резервное копирование онлайн песен в плейлисты с Baidu Cloud</string>
      <string name="track_bit_rate_hd">Высокое</string>

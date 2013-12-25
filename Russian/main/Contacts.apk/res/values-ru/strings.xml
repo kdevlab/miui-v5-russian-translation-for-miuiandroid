@@ -144,7 +144,7 @@
      <string name="chat_qq">Чат через QQ</string>
      <string name="chat_skype">Чат через Skype</string>
      <string name="chat_yahoo">Чат через Yahoo</string>
-     <string name="check_unsynchronized_accounts">Частота обновления контактов</string>
+     <string name="check_unsynchronized_accounts">Обновление контактов</string>
      <string name="checkhint">проверить другой телефон</string>
      <string name="clearCallLogConfirmation">Журнал звонков будет очищен</string>
      <string name="clearCallLogConfirmation_title">Удаление данных</string>
@@ -1094,6 +1094,7 @@
      <string name="today">Сегодня</string>
      <string name="type_incoming">Входящий вызов</string>
      <string name="type_missed">Пропущенный вызов</string>
+	 <string name="type_mx_msg">Облачные сообщения</string>
      <string name="type_outgoing">Исходящий вызов</string>
      <string name="type_voicemail">Голосовая почта</string>
      <string name="unknown">Неизвестно</string>
@@ -1144,6 +1145,10 @@
      <string name="yellowpage_navigation_search_city_name_hint">Город</string>
      <string name="yellowpage_navigation_search_hint">Поиск</string>
      <string name="yellowpage_navigation_search_offline_hint">Нет доступа в интерент</string>
+	 <string name="yellowpage_navigation_search_result_network_error">Ошибка подключения к сети</string>
+     <string name="yellowpage_navigation_search_result_no_more">Больше ничего нет</string>
+     <string name="yellowpage_navigation_search_result_service_error">Сервис недоступен</string>
+     <string name="yellowpage_navigation_search_result_unknown_error">Произошла неизвестная ошибка</string>
      <string name="yellowpage_navigation_search_select_city">Выберите город</string>
      <string name="zero_items_selected">Выберите контакты</string>
 </resources>

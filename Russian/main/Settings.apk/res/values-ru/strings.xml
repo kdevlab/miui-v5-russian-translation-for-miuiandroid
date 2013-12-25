@@ -1357,7 +1357,7 @@
      <string name="gemini_sim_lock_sim2_tab_label">SIM2</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="gemini_sim_lock_sim2_tab_tag">SIM2</string>
-     <string name="gemini_sim_lock_simid_error">Ошибка, неверный ID SIM-карты.</string>
+     <string name="gemini_sim_lock_simid_error">Ошибка, неверный ID SIM-карты</string>
      <string name="gemini_sim_management_title">Управление SIM</string>
      <string name="gemini_sim_mode_change_failed_message">Ошибка сети</string>
      <string name="gemini_sim_mode_enter_airplanemode_confirm_message">В режиме полета все соединения будут отключены. Продолжить?</string>
@@ -1396,25 +1396,21 @@
      <string name="hardkeyboard_category">Настройки внешней клавиатуры</string>
      <string name="hdcp_checking_dialog_title">Порядок проверки HDCP</string>
      <string name="hdcp_checking_title">Проверка HDCP</string>
-     <string name="hdmi_3d_display_enable_summary">Включить поддержку 3D игр</string>
-     <string name="hdmi_3d_display_enable_title">3D Дисплей</string>
+     <string name="hdmi_3d_display_enable_summary">Включает поддержку 3D в играх</string>
+     <string name="hdmi_3d_display_enable_title">3D дисплей</string>
      <string name="hdmi_3d_help_title">Подробнее о HDMI 3D стереоскопической поддержки</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="hdmi_3d_stereo_separation_label">3D</string>
      <string name="hdmi_3dplay_control_disable_subtext">3D стереоскопический вывод на внешний 3D-дисплей выключен</string>
      <string name="hdmi_3dplay_control_enable_subtext">3D стереоскопический вывод на внешний 3D-дисплей включен</string>
      <string name="hdmi_3dplay_control_text">Включить 3D</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="hdmi_3dplay_settings_title">HDMI</string>
      <string name="hdmi_audio_toggler">Звук</string>
      <string name="hdmi_color_calibration_none">Натуральный</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="hdmi_color_calibration_srgb">sRGB</string>
      <string name="hdmi_notification_content">Нажмите для настройки HDMI</string>
      <string name="hdmi_notification_title">HDMI-кабель подключен</string>
      <string name="hdmi_settings">Настройки HDMI</string>
      <string name="hdmi_settings_summary">Настройки подключения HDMI</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="hdmi_toggler">HDMI</string>
      <string name="hdmi_video_resolution">Разрешение видео</string>
      <string name="hdmi_video_toggler">Видео</string>
@@ -1739,6 +1735,35 @@
      <string name="menu_stats_refresh">Обновить</string>
      <string name="menu_stats_total">Всего</string>
      <string name="menu_stats_unplugged">%1$s с момента отключения от питания</string>
+	 <string name="miracast_PC2THOR_streaming_on">Miracast недоступен. ПК подключен к этому устройству.</string>
+     <string name="miracast_cancelconnect_dialog">Отмена подключения</string>
+     <string name="miracast_connection_failed_generic">Подключение не удалось</string>
+     <string name="miracast_dialog_title">%1$s</string>
+     <string name="miracast_disable_dhcp">Выключить HDCP</string>
+     <string name="miracast_display_category">Дисплеи</string>
+     <string name="miracast_enable_dhcp">Включить HDCP</string>
+     <string name="miracast_error_already_streaming">Уже подключен</string>
+     <string name="miracast_error_cancelconnect">Подключение сейчас недоступно</string>
+     <string name="miracast_error_connection_in_progress">Идет подключение, подождите</string>
+     <string name="miracast_menu_connect">Начать вещеание</string>
+     <string name="miracast_menu_disconnect">Остановить вещание</string>
+     <string name="miracast_menu_forget">Удалить</string>
+     <string name="miracast_menu_rename">Переименовать</string>
+     <string name="miracast_menu_search">Поиск</string>
+     <string name="miracast_menu_searching">Поиск</string>
+     <string name="miracast_menu_teardown">Отключить</string>
+     <string name="miracast_nickname">Введите новое имя:</string>
+     <string name="miracast_no_sinks_found">Устройств поблизости не найдено</string>
+     <string name="miracast_search_for_displays">Поиск беспроводных экранов…</string>
+     <string name="miracast_settings_category">Настройки Wi-Fi дисплея</string>
+     <string name="miracast_setup_cancel">Отмена</string>
+     <string name="miracast_setup_save">Сохранить</string>
+     <string name="miracast_sink_busy">Занят</string>
+     <string name="miracast_sink_connected">Подключено</string>
+     <string name="miracast_sink_connecting">Подключение…</string>
+     <string name="miracast_sink_not_available">Недоступно</string>
+     <string name="miracast_sink_ready_to_connect">Готов к подключению</string>
+     <string name="miracast_wifi_off">Чтобы использовать Miracast, включите Wi-Fi</string>
      <string name="misc_files">Разное</string>
      <string name="misc_files_selected_count">выбрано %1$d из %2$d</string>
      <string name="misc_files_selected_count_bytes">%1$s из %2$s</string>
@@ -2888,12 +2913,11 @@
      <string name="title_virus_yes">Вирусов не обнаружено</string>
      <string name="tls_summary_off">TLS выключен</string>
      <string name="tls_summary_on">TLS включен</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="tls_title">TLS</string>
      <string name="toast_qucik_scan_list_empty">Чистка не требуется</string>
      <string name="total_size">"всего    %s"</string>
      <string name="total_size_label">Всего</string>
-     <string name="touch_sensitive_summary">Включить высокую чувствительность сенсора для возможности управления в перчатках.</string>
+     <string name="touch_sensitive_summary">Повышает чувствительность сенсора для обеспечения лучшего пользования в перчатках</string>
      <string name="touch_sensitive_title">Режим \"В перчатках\"</string>
      <string name="touch_sensitive_turn_off_cancel">Отмена</string>
      <string name="touch_sensitive_turn_off_confirm">ОК</string>
