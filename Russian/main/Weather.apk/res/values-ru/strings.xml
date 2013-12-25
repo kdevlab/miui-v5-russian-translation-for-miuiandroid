@@ -1,14 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Builded with CloudBuildr -->
 <resources>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="act_aqi_no2_title">NO2</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="act_aqi_pm10_title">PM10</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="act_aqi_pm25_title">PM2.5</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="act_aqi_so2_title">SO2</string>
      <string name="act_city_find_gps_error">Выберите город из списка</string>
      <string name="act_find_city_hint">Поиск</string>
      <string name="act_find_city_hot_title">Популярные города</string>
@@ -28,6 +20,7 @@
      <string name="act_weather_find_city_search_online">Поиск онлайн</string>
      <string name="act_weather_find_city_searching">Поиск…</string>
      <string name="act_weather_main_aqi_index">Чистота воздуха: %s</string>
+     <string name="act_weather_main_aqi_title">Чистота воздуха</string>
      <string name="act_weather_main_data_null">Нет данных о погоде, нажмите для обновления</string>
      <string name="act_weather_range_select">Выберите город</string>
      <string name="act_weather_range_title">Погода в окрестностях</string>
@@ -69,17 +62,14 @@
      <string name="button_allow">Разрешить</string>
      <string name="button_not_allow">Запретить</string>
      <string name="cancel">Отмена</string>
+     <string name="chart_weather_title">Диаграмма погоды</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="enable_gps">GPS</string>
      <string name="enable_notification">Включить уведомления</string>
      <string name="enable_notification_city">Уведомления о дожде, снеге, температуре при их критическом значении включено для %s</string>
      <string name="enable_notification_summary">Уведомлять меня при изменении погоды</string>
      <string name="first_start_network_toast_text">Доступ к сети для получения информации о погоде</string>
-     <string name="format_date_md">M/d kk:mm</string>
-     <string name="format_date_trend_md">M/d</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="format_date_week">EEE</string>
-     <string name="format_date_wmd">M/d EEE</string>
+     <string name="install_sina">Нажмите для установки Sina Weibo</string>
      <string name="install_tencent">Скачать Weibo</string>
      <string name="loading_weather">Загрузка погоды…</string>
      <string name="local_city">Города</string>
@@ -88,6 +78,7 @@
      <string name="location_notification">Уведомления о погоде</string>
      <string name="menu_about">О программе</string>
      <string name="menu_around">Рядом</string>
+     <string name="menu_chart">Диаграмма</string>
      <string name="menu_delete">Удалить</string>
      <string name="menu_location">Местоположение</string>
      <string name="menu_main">Индекс</string>

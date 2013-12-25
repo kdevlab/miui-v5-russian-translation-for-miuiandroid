@@ -3,8 +3,6 @@
 <resources>
      <string name="account_not_activated">Аккаунт не активирован. Активируйте и повторите еще раз.</string>
      <string name="activate_now">activate_now</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="ad_indicator">AD</string>
      <string name="all_comments">Все</string>
      <string name="already_bottom">Конец страницы</string>
      <string name="app_comments">Комментарии</string>
@@ -49,8 +47,16 @@
      <string name="comment_upload_not_logined">Пожалуйста, сначала войдите в аккаунт</string>
      <string name="comment_upload_success">Комментарий отправлен!</string>
      <string name="comment_version_name">(версия %1$s)</string>
+     <!-- The count of MNPS does not match! Now: 0 must: 1
+	%s: 0 must: 1
+	%d: 0 must: 0 -->
+     <!-- Original string: Ошибка установки %1$s: ошибка соединения, проверьте подключение к сети -->
      <string name="connect_fail">Ошибка соединения. Проверьте подключение к сети.</string>
      <string name="connect_no_enough_space">Не хватает места для установки приложения. Освободите место и попробуйте снова.</string>
+     <!-- The count of MNPS does not match! Now: 0 must: 1
+	%s: 0 must: 1
+	%d: 0 must: 0 -->
+     <!-- Original string: Ошибка установки %1$s: установочный пакет не подходит для вашего телефона -->
      <string name="connect_no_fit_fail">Загрузка не завершена. Нет пакета установки для вашего телефона.</string>
      <string name="connecting">Подключение…</string>
      <string name="data_save_mode_tip">Изображения отключены</string>
@@ -79,7 +85,15 @@
      <string name="diagnostics_local_ip">1. Локальный IP адрес</string>
      <string name="diagnostics_test_download">5. Входящая скорость</string>
      <string name="diagnostics_title">Диагностика сети</string>
+     <!-- The count of MNPS does not match! Now: 0 must: 1
+	%s: 0 must: 1
+	%d: 0 must: 0 -->
+     <!-- Original string: %1$s установка не выполнена: ошибка загрузки -->
      <string name="download_fail">Загрузка не завершена. Ошибка загрузки.</string>
+     <!-- The count of MNPS does not match! Now: 0 must: 1
+	%s: 0 must: 1
+	%d: 0 must: 0 -->
+     <!-- Original string: Ошибка установки %1$s: не удается выполнить загрузку -->
      <string name="download_start_fail">Загрузка не завершена. Ошибка создания задачи для загрузки.</string>
      <string name="downloading">Пауза</string>
      <string name="edit_comment">Комментарий</string>
@@ -113,10 +127,22 @@
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="install_btn_ok">OK</string>
      <string name="install_earlier">Ранее</string>
+     <!-- The count of MNPS does not match! Now: 0 must: 1
+	%s: 0 must: 1
+	%d: 0 must: 0 -->
+     <!-- Original string: %1$s - ошибка установки -->
      <string name="install_fail">Ошибка установки. Попробуйте снова.</string>
      <string name="install_google_base_message">“%1$s” требует Google Service Framework</string>
      <string name="install_google_base_title">Установка Google Service Framework</string>
+     <!-- The count of MNPS does not match! Now: 0 must: 1
+	%s: 0 must: 1
+	%d: 0 must: 0 -->
+     <!-- Original string: %1$s - ошибка установки -->
      <string name="install_hash_fail">Ошибка установки. Загрузите пакет снова.</string>
+     <!-- The count of MNPS does not match! Now: 0 must: 1
+	%s: 0 must: 1
+	%d: 0 must: 0 -->
+     <!-- Original string: %1$s - ошибка установки -->
      <string name="install_inconsistent_fail">Ошибка подписи. Удалите приложение и попробуйте снова.</string>
      <string name="install_missing_shared_library">В системе отсутствуют необходимые компоненты</string>
      <string name="install_no_network_description">Нет сетевого подключения</string>
@@ -200,12 +226,8 @@
      <!-- The count of MNPS does not match! Now: 1 must: 0
 	%s: 1 must: 0
 	%d: 0 must: 0 -->
-     <!-- Original string: Installed -->
+     <!-- Original string: Установка завершена -->
      <string name="notif_install_successful">%1$s успешно установлено</string>
-     <!-- The count of MNPS does not match! Now: 1 must: 0
-	%s: 1 must: 0
-	%d: 0 must: 0 -->
-     <!-- Original string: Installed -->
      <string name="notif_install_successful_default">%1$s установлено</string>
      <string name="notif_installing">Установка “%1$s”…</string>
      <string name="notif_summary_auto_update_failed">Ошибка автообновления</string>
@@ -227,21 +249,33 @@
      <string name="pref_category_title_notification">Настройки уведомлений</string>
      <string name="pref_category_title_other">Разные настройки</string>
      <string name="pref_category_title_version">О программе</string>
+     <string name="pref_list_auto_update">Автообновление</string>
+     <string name="pref_list_data_save_mode_always">Никогда</string>
+     <string name="pref_list_data_save_mode_network">Только по Wi-Fi</string>
+     <string name="pref_list_data_save_mode_never">Всегда</string>
+     <string name="pref_list_disable">Никогда</string>
+     <string name="pref_list_per_day">Ежедневно</string>
+     <string name="pref_list_per_week">Еженедельно</string>
+     <string name="pref_list_remind_me_after_download">Уведомление об окончании загрузки</string>
      <string name="pref_list_use_dev_staging_server">Используйте Dev-промежуточный сервер</string>
      <string name="pref_list_use_online_server">Использовать сервер продукта</string>
      <string name="pref_list_use_staging_server">Использование промежуточного сервера</string>
      <string name="pref_summary_auto_update_via_wifi">Автоматическое обновление по Wi-Fi при заблокированном экране</string>
      <string name="pref_summary_data_save">Не отображать картинки при мобильном интернете</string>
+     <string name="pref_title_auto_update_setting">Настройки автообновления</string>
      <string name="pref_title_auto_update_via_wifi">Автообновление по Wi-Fi</string>
      <string name="pref_title_auto_update_via_wifi_checkbox">Автообновление</string>
      <string name="pref_title_clear_cache">Очистить кеш</string>
      <string name="pref_title_clear_search_record">Очистить историю поиска</string>
      <string name="pref_title_clear_session">Очистить сессию</string>
      <string name="pref_title_data_save">Уменьшить использование данных</string>
+     <string name="pref_title_data_save_mode">Показывать изображения</string>
      <string name="pref_title_hotsubjects_notification">Коллекции</string>
      <string name="pref_title_network_diagnostics">Диагностика сети</string>
      <string name="pref_title_silent_install">Тихая установка</string>
      <string name="pref_title_update_notification">Обновления</string>
+     <string name="pref_title_update_notify_mode">Уведомления об обновлениях</string>
+     <string name="pref_title_update_onlyby_wifi">Обновление только по Wi-Fi</string>
      <string name="pref_title_use_staging">Использовать промежуточный сервер</string>
      <string name="publish_info">%1$s %2$s %3$s</string>
      <string name="quicksearchbox_description">Поиск маркета для приложений</string>
@@ -249,6 +283,7 @@
      <string name="rating_button">Голосов: %1$s</string>
      <string name="recommendation_tag">Все</string>
      <string name="remove_package_fail">Ошибка установки</string>
+     <string name="remove_package_timeout_fail">Ошибка установки %1$s: удаление старой версии не удалось, удалите вручную</string>
      <string name="result_notice">Результаты предоставленны Baidu App Center</string>
      <string name="result_of_clear_history">История поиска очищена</string>
      <string name="resume">Возобновить</string>
@@ -271,6 +306,10 @@
      <string name="show_report_data">Показывать данные отчета</string>
      <string name="size_interval">%1$d~%2$dM</string>
      <string name="size_more_than_one_hundred">Более 100МБ</string>
+     <!-- The count of MNPS does not match! Now: 0 must: 1
+	%s: 0 must: 1
+	%d: 0 must: 0 -->
+     <!-- Original string: Ошибка установки %1$s: несовместимая подпись приложения -->
      <string name="system_app_sign_not_match_fail">Несовместимая подпись системного приложения. Невозможно обновить.</string>
      <string name="tab_favorites">Избранные</string>
      <string name="tab_local_apps">Телефон</string>

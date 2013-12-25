@@ -30,12 +30,13 @@
      <string name="express_inqiury_select_logistics">Выберите курьера</string>
      <string name="express_inquiry">Отслеживание</string>
      <string name="express_inquiry_button_text">Отследить</string>
+     <string name="express_inquiry_data_owner">Информация отслеживания предоставляется от %s</string>
      <string name="express_inquiry_data_owner_prefix">Отслеживание информации:</string>
-     <string name="express_inquiry_data_owner_suffix" />
      <string name="express_inquiry_delete_warning_multiple">Удалить %d выбранных записей?</string>
      <string name="express_inquiry_delete_warning_single">Удалить выбранные записи?</string>
      <string name="express_inquiry_delivered">Доставлено</string>
      <string name="express_inquiry_history">История</string>
+     <string name="express_inquiry_indication">Номер отслеживания</string>
      <string name="express_inquiry_internal_failure">"Произошла ошибка.
 Проверьте номер отслеживания."</string>
      <string name="express_inquiry_logistics_indication">Имя курьера</string>
@@ -45,6 +46,7 @@
      <string name="express_inquiry_serial_number_prefix">"Номер: "</string>
      <string name="expresss_inquiry_all_logistics">Все</string>
      <string name="expresss_inquiry_frequently_used_logistics">Частые</string>
+     <string name="login_before_recharging">Необходимо авторизоваться перед пополнением.</string>
      <string name="login_before_use">Перед использованием войдите в аккаунт</string>
      <string name="login_ok">Войти</string>
      <string name="mark_number_custom_dialog_maintitle">Согласиться или исправить метку</string>
@@ -60,6 +62,7 @@
      <string name="menu_refresh">Обновить</string>
      <string name="menu_remove_black_list">Удалить из черного списка</string>
      <string name="mishop_web_payment_title">Оформить заказ MiStore</string>
+     <string name="module_sms_sent">Сообщение отправлено</string>
      <string name="navigation_search_all_cities">Все</string>
      <string name="navigation_search_automatically_positioned_city">Текущий</string>
      <string name="navigation_search_hot_cities">Популярные</string>
@@ -70,8 +73,6 @@
      <string name="order_empty_hint">Нет заказов</string>
      <string name="order_id">ID заказа:%s</string>
      <string name="order_merchant_title">Мои заказы - %s</string>
-     <string name="order_price">%s</string>
-     <string name="order_status">%s</string>
      <string name="packages_no_package">Нет подходящего пакета трафика</string>
      <string name="packages_pay">Купить</string>
      <string name="packages_pay_confirm">Подтверждаю</string>
@@ -127,6 +128,9 @@
      <string name="selected_category_format">%1$s (%2$d людей отметили, нажмите для согласия)</string>
      <string name="service_unavailiable">Текущая сеть имеет плохое подключение. Повторите попытку позже.</string>
      <string name="smart_antispam">Идентификация номеров</string>
+     <string name="sms_disabled_in_privacy_mode">Невозможно отправить сообщение в режиме гостя</string>
+     <string name="sms_send_failed">Не удалось отправить сообщение</string>
+     <string name="sms_sending">Отправка…</string>
      <string name="title_about_yellow_page">О программе</string>
      <string name="toast_finish_delete_call_log">Журнал вызовов был удален</string>
      <string name="toast_text_copied">Текст скопирован</string>
@@ -135,6 +139,7 @@
      <string name="turn_on_smart_antispam_summary_off">Запрос только локальных запрограммированных номеров</string>
      <string name="turn_on_smart_antispam_summary_on">Идентифицировать неизвестные номера и загружать из сети</string>
      <string name="turn_on_smart_antispam_title">Идентификация номеров</string>
+     <string name="unable_send_sms">Не удается отправить сообщение</string>
      <string name="user_notice_identify_summary_format">Идентификация неизвестных номеров представляет собой интернет-сервис. Пожалуйста, прочитайте %1$s и %2$s перед использованием.</string>
      <string name="user_notice_yp_detail_summary_format">Частичная информация этой желтой страницы должна быть обновлена ​​в интернете. Пожалуйста, прочитайте %1$s и %2$s. Нажимая \"Принимаю\", Вы соглашаетесь на вышеуказаное содержание и должны соблюдать соглашения, нажмите \"Отмена\" для просмотра кешированной информации.</string>
      <string name="voicemail">Голосовая почта</string>

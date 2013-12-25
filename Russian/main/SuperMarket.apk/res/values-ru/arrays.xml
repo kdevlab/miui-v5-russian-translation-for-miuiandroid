@@ -1,165 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!-- Builded with CloudBuildr -->
 <resources>
-    <string-array name="permission_label">
-        <item>(Веб-интерфейс), грубая позиция</item>
-        <item>Точное место (GPS)</item>
-        <item>Дополнительная информация о местоположении</item>
-        <item>Моделирование расположение источника тест</item>
-        <item>Применение протокола MTP</item>
-        <item>Просмотр состояния сети</item>
-        <item>Доступ SurfaceFlinger</item>
-        <item>Просмотр статуса Wi-Fi</item>
-        <item>Просмотр состояния WiMAX</item>
-        <item>AccountManagerService</item>
-        <item>Добавить голосовую почту</item>
-        <item>Использование любых декодеров для воспроизведения медиа</item>
-        <item>Информация о внутренних устройствах хранения данных</item>
-        <item>Создание внутренних устройств хранения данных</item>
-        <item>Очистка внутренних данных хранения устройства</item>
-        <item>Загрузка/отправка внутренних устройств хранения данных</item>
-        <item>Переименовать внутренние устройства хранения данных</item>
-        <item>Как счет аутентификации</item>
-        <item>Контроль системы резервного копирования и восстановления данных</item>
-        <item>Изменить статистику батареи</item>
-        <item>Изменить статистику батареи</item>
-        <item>Изменить статистику батареи</item>
-        <item>Выбор виджетов</item>
-        <item>Связываются с методом ввода</item>
-        <item>Связывают с процессом проверки пакетов</item>
-        <item>Связан с виджетом услуги</item>
-        <item>Связываются с Текстовыми сервисами</item>
-        <item>Связан с службой VPN</item>
-        <item>Связан с обоями</item>
-        <item>Создать связь Bluetooth</item>
-        <item>Bluetooth</item>
-        <item>Полностью отключить телефон</item>
-        <item>Отправить пакет для удаления трансляции</item>
-        <item>Отправлять и получать текстовые сообщения</item>
-        <item>Отправлять прочного трансляции</item>
-        <item>WAP-PUSH-сообщения</item>
-        <item>Доступ к системному кэш-файлу</item>
-        <item>Совершать вывовы</item>
-        <item>Возможность набрать любой тел. номер</item>
-        <item>Фотографии и видео</item>
-        <item>Изменить фон набор данных</item>
-        <item>Чтобы включить или отключить компонент приложения</item>
-        <item>Изменить настройки пользовательского интерфейса</item>
-        <item>Изменить подключение к сети</item>
-        <item>Разшешить использование Wi-Fi</item>
-        <item>Изменить статус Wi-Fi</item>
-        <item>Изменить статус WiMAX</item>
-        <item>Доступ к свойствам проверки</item>
-        <item>Удалить кэш приложений</item>
-        <item>Удалить данные из других приложений</item>
-        <item>Подтвердить целостность резервной копии</item>
-        <item>Позволяет вызывающему контейнерный сервис по умолчанию, чтобы скопировать содержимое</item>
-        <item>Полные права доступа в Интернет</item>
-        <item>Удалять кэш других приложений</item>
-        <item>Удаление приложений</item>
-        <item>Включен или выключен</item>
-        <item>Чтение/запись ресурсов</item>
-        <item>Отключить блокировку клавиатуры</item>
-        <item>Поисковой системе внутреннее состояние</item>
-        <item>Развернуть Shoulong статусной строке</item>
-        <item>На заводе тестовом режиме запустить</item>
-        <item>Управление вспышкой</item>
-        <item>Обязательное закрытие приложения</item>
-        <item>Принудительно остановить другие приложения</item>
-        <item>Открытие известных учетных записей</item>
-        <item>Измерение приложением памяти</item>
-        <item>Для получения запущенных приложений</item>
-        <item>test hardware</item>
-        <item>press keys and control buttons</item>
-        <item>permission to install a location provider</item>
-        <item>directly install applications</item>
-        <item>display unauthorized windows</item>
-        <item>kill background processes</item>
-        <item>kill background processes</item>
-        <item>Управление уведомлениями об обновлении местоположения</item>
-        <item>Управление списками учетных записей</item>
-        <item>manage application tokens</item>
-        <item>manage network policy</item>
-        <item>manage preferences and permissions for USB devices</item>
-        <item>reset system to factory defaults</item>
-        <item>modify/delete internal media storage contents</item>
-        <item>change your audio settings</item>
-        <item>modify network usage accounting</item>
-        <item>modify phone state</item>
-        <item>format external storage</item>
-        <item>mount and unmount filesystems</item>
-        <item>Move application resources</item>
-        <item>control Near Field Communication</item>
-        <item>verify packages</item>
-        <item>directly start CDMA phone setup</item>
-        <item>make application always run</item>
-        <item>update component usage statistics</item>
-        <item>intercept outgoing calls</item>
-        <item>read calendar events plus confidential information</item>
-        <item>read contact data</item>
-        <item>read user defined dictionary</item>
-        <item>read frame buffer</item>
-        <item>"read Browser's history and bookmarks"</item>
-        <item>record what you type and actions you take</item>
-        <item>read sensitive log data</item>
-        <item>read historical network usage</item>
-        <item>read phone state and identity</item>
-        <item>read your profile data</item>
-        <item>read SMS or MMS</item>
-        <item>read your social stream</item>
-        <item>read sync settings</item>
-        <item>read sync statistics</item>
-        <item>force phone reboot</item>
-        <item>automatically start at boot</item>
-        <item>receive emergency broadcasts</item>
-        <item>receive MMS</item>
-        <item>receive SMS</item>
-        <item>receive WAP</item>
-        <item>record audio</item>
-        <item>stop running applications</item>
-        <item>reorder running applications</item>
-        <item>retrieve screen content</item>
-        <item>monitor and control all application launching</item>
-        <item>modify/delete SD card contents</item>
-        <item>send SMS messages</item>
-        <item>send SMS messages with no confirmation</item>
-        <item>set alarm in alarm clock</item>
-        <item>make all background applications close</item>
-        <item>modify global animation speed</item>
-        <item>enable application debugging</item>
-        <item>change screen orientation</item>
-        <item>change pointer speed</item>
-        <item>set preferred applications</item>
-        <item>limit number of running processes</item>
-        <item>set time</item>
-        <item>set time zone</item>
-        <item>set wallpaper</item>
-        <item>set wallpaper size hints</item>
-        <item>partial shutdown</item>
-        <item>send Linux signals to applications</item>
-        <item>disable or modify status bar</item>
-        <item>status bar</item>
-        <item>prevent app switches</item>
-        <item>read subscribed feeds</item>
-        <item>write subscribed feeds</item>
-        <item>display system-level alerts</item>
-        <item>make/receive Internet calls</item>
-        <item>use the authentication credentials of an account</item>
-        <item>control vibrator</item>
-        <item>prevent phone from sleeping</item>
-        <item>change/intercept network settings and traffic</item>
-        <item>"add or modify calendar events and send email to guests without owners' knowledge"</item>
-        <item>write contact data</item>
-        <item>write to user defined dictionary</item>
-        <item>modify the Google services map</item>
-        <item>"write Browser's history and bookmarks"</item>
-        <item>write to your profile data</item>
-        <item>modify secure system settings</item>
-        <item>modify global system settings</item>
-        <item>edit SMS or MMS</item>
-        <item>write to your social stream</item>
-        <item>write sync settings</item>
-    </string-array>
-    <string-array name="permission_description">
+     <string-array name="permission_description">
         <item>Доступ к грубым расположения источника (таких как базы данных сотовой сети), чтобы определить общее расположение телефона (если возможно). Вредоносное ПО может использовать, чтобы определить, что вы в общем месте.</item>
         <item>Доступ к точному местоположению, по источникам мобильных сетей, системы глобального позиционирования (если таковые имеются). Вредоносное ПО будет определить ваше местоположение, и может потреблять дополнительную энергию аккумулятора.</item>
         <item>Access extra location provider commands. Malicious applications could use this to interfere with the operation of the GPS or other location sources.</item>
@@ -317,22 +159,8 @@
         <item>Allows application to write to SMS messages stored on your phone or SIM card. Malicious applications may delete your messages.</item>
         <item>Allows the application to display social updates from your friends. Malicious apps can use this to pretend to be a friend and trick you into revealing passwords or other confidential information.</item>
         <item>Allows an application to modify the sync settings, such as whether sync is enabled for Contacts.</item>
-    </string-array>
-    <string-array name="permission_group_label">
-        <item>Ваша учетная запись</item>
-        <item>Вы должны платить за услуги</item>
-        <item>Средства разработки</item>
-        <item>Параметры устройства</item>
-        <item>Ваша должность</item>
-        <item>Ваши данные</item>
-        <item>Беспроводные сети</item>
-        <item>Личные данные</item>
-        <item>Звонки мобильных телефонов</item>
-        <item>Память и хранение данных</item>
-        <item>Системные настройки</item>
-        <item>Прочее</item>
-    </string-array>
-    <string-array name="permission_group_description">
+     </string-array>
+     <string-array name="permission_group_description">
         <item>Доступ к имеющимся счетам</item>
         <item>Позволяет приложениям выполнятьможет потребоваться Вас платить за операции</item>
         <item>Прямой доступ к оборудованию по телефона</item>
@@ -345,5 +173,178 @@
         <item>Чтобы получить доступ к SD-карте</item>
         <item>Низкий уровень доступа и системы управления</item>
         <item>Другие разрешения</item>
-    </string-array>
+     </string-array>
+     <string-array name="permission_group_label">
+        <item>Ваша учетная запись</item>
+        <item>Вы должны платить за услуги</item>
+        <item>Средства разработки</item>
+        <item>Параметры устройства</item>
+        <item>Ваша должность</item>
+        <item>Ваши данные</item>
+        <item>Беспроводные сети</item>
+        <item>Личные данные</item>
+        <item>Звонки мобильных телефонов</item>
+        <item>Память и хранение данных</item>
+        <item>Системные настройки</item>
+        <item>Прочее</item>
+     </string-array>
+     <string-array name="permission_label">
+        <item>(Веб-интерфейс), грубая позиция</item>
+        <item>Точное место (GPS)</item>
+        <item>Дополнительная информация о местоположении</item>
+        <item>Моделирование расположение источника тест</item>
+        <item>Применение протокола MTP</item>
+        <item>Просмотр состояния сети</item>
+        <item>Доступ SurfaceFlinger</item>
+        <item>Просмотр статуса Wi-Fi</item>
+        <item>Просмотр состояния WiMAX</item>
+        <item>AccountManagerService</item>
+        <item>Добавить голосовую почту</item>
+        <item>Использование любых декодеров для воспроизведения медиа</item>
+        <item>Информация о внутренних устройствах хранения данных</item>
+        <item>Создание внутренних устройств хранения данных</item>
+        <item>Очистка внутренних данных хранения устройства</item>
+        <item>Загрузка/отправка внутренних устройств хранения данных</item>
+        <item>Переименовать внутренние устройства хранения данных</item>
+        <item>Как счет аутентификации</item>
+        <item>Контроль системы резервного копирования и восстановления данных</item>
+        <item>Изменить статистику батареи</item>
+        <item>Изменить статистику батареи</item>
+        <item>Изменить статистику батареи</item>
+        <item>Выбор виджетов</item>
+        <item>Связываются с методом ввода</item>
+        <item>Связывают с процессом проверки пакетов</item>
+        <item>Связан с виджетом услуги</item>
+        <item>Связываются с Текстовыми сервисами</item>
+        <item>Связан с службой VPN</item>
+        <item>Связан с обоями</item>
+        <item>Создать связь Bluetooth</item>
+        <item>Bluetooth</item>
+        <item>Полностью отключить телефон</item>
+        <item>Отправить пакет для удаления трансляции</item>
+        <item>Отправлять и получать текстовые сообщения</item>
+        <item>Отправлять прочного трансляции</item>
+        <item>WAP-PUSH-сообщения</item>
+        <item>Доступ к системному кэш-файлу</item>
+        <item>Совершать вывовы</item>
+        <item>Возможность набрать любой тел. номер</item>
+        <item>Фотографии и видео</item>
+        <item>Изменить фон набор данных</item>
+        <item>Чтобы включить или отключить компонент приложения</item>
+        <item>Изменить настройки пользовательского интерфейса</item>
+        <item>Изменить подключение к сети</item>
+        <item>Разшешить использование Wi-Fi</item>
+        <item>Изменить статус Wi-Fi</item>
+        <item>Изменить статус WiMAX</item>
+        <item>Доступ к свойствам проверки</item>
+        <item>Удалить кэш приложений</item>
+        <item>Удалить данные из других приложений</item>
+        <item>Подтвердить целостность резервной копии</item>
+        <item>Позволяет вызывающему контейнерный сервис по умолчанию, чтобы скопировать содержимое</item>
+        <item>Полные права доступа в Интернет</item>
+        <item>Удалять кэш других приложений</item>
+        <item>Удаление приложений</item>
+        <item>Включен или выключен</item>
+        <item>Чтение/запись ресурсов</item>
+        <item>Отключить блокировку клавиатуры</item>
+        <item>Поисковой системе внутреннее состояние</item>
+        <item>Развернуть Shoulong статусной строке</item>
+        <item>На заводе тестовом режиме запустить</item>
+        <item>Управление вспышкой</item>
+        <item>Обязательное закрытие приложения</item>
+        <item>Принудительно остановить другие приложения</item>
+        <item>Открытие известных учетных записей</item>
+        <item>Измерение приложением памяти</item>
+        <item>Для получения запущенных приложений</item>
+        <item>test hardware</item>
+        <item>press keys and control buttons</item>
+        <item>permission to install a location provider</item>
+        <item>directly install applications</item>
+        <item>display unauthorized windows</item>
+        <item>kill background processes</item>
+        <item>kill background processes</item>
+        <item>Управление уведомлениями об обновлении местоположения</item>
+        <item>Управление списками учетных записей</item>
+        <item>manage application tokens</item>
+        <item>manage network policy</item>
+        <item>manage preferences and permissions for USB devices</item>
+        <item>reset system to factory defaults</item>
+        <item>modify/delete internal media storage contents</item>
+        <item>change your audio settings</item>
+        <item>modify network usage accounting</item>
+        <item>modify phone state</item>
+        <item>format external storage</item>
+        <item>mount and unmount filesystems</item>
+        <item>Move application resources</item>
+        <item>control Near Field Communication</item>
+        <item>verify packages</item>
+        <item>directly start CDMA phone setup</item>
+        <item>make application always run</item>
+        <item>update component usage statistics</item>
+        <item>intercept outgoing calls</item>
+        <item>read calendar events plus confidential information</item>
+        <item>read contact data</item>
+        <item>read user defined dictionary</item>
+        <item>read frame buffer</item>
+        <item>"read Browser's history and bookmarks"</item>
+        <item>record what you type and actions you take</item>
+        <item>read sensitive log data</item>
+        <item>read historical network usage</item>
+        <item>read phone state and identity</item>
+        <item>read your profile data</item>
+        <item>read SMS or MMS</item>
+        <item>read your social stream</item>
+        <item>read sync settings</item>
+        <item>read sync statistics</item>
+        <item>force phone reboot</item>
+        <item>automatically start at boot</item>
+        <item>receive emergency broadcasts</item>
+        <item>receive MMS</item>
+        <item>receive SMS</item>
+        <item>receive WAP</item>
+        <item>record audio</item>
+        <item>stop running applications</item>
+        <item>reorder running applications</item>
+        <item>retrieve screen content</item>
+        <item>monitor and control all application launching</item>
+        <item>modify/delete SD card contents</item>
+        <item>send SMS messages</item>
+        <item>send SMS messages with no confirmation</item>
+        <item>set alarm in alarm clock</item>
+        <item>make all background applications close</item>
+        <item>modify global animation speed</item>
+        <item>enable application debugging</item>
+        <item>change screen orientation</item>
+        <item>change pointer speed</item>
+        <item>set preferred applications</item>
+        <item>limit number of running processes</item>
+        <item>set time</item>
+        <item>set time zone</item>
+        <item>set wallpaper</item>
+        <item>set wallpaper size hints</item>
+        <item>partial shutdown</item>
+        <item>send Linux signals to applications</item>
+        <item>disable or modify status bar</item>
+        <item>status bar</item>
+        <item>prevent app switches</item>
+        <item>read subscribed feeds</item>
+        <item>write subscribed feeds</item>
+        <item>display system-level alerts</item>
+        <item>make/receive Internet calls</item>
+        <item>use the authentication credentials of an account</item>
+        <item>control vibrator</item>
+        <item>prevent phone from sleeping</item>
+        <item>change/intercept network settings and traffic</item>
+        <item>"add or modify calendar events and send email to guests without owners' knowledge"</item>
+        <item>write contact data</item>
+        <item>write to user defined dictionary</item>
+        <item>modify the Google services map</item>
+        <item>"write Browser's history and bookmarks"</item>
+        <item>write to your profile data</item>
+        <item>modify secure system settings</item>
+        <item>modify global system settings</item>
+        <item>edit SMS or MMS</item>
+        <item>write to your social stream</item>
+        <item>write sync settings</item>
+     </string-array>
 </resources>

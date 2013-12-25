@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Builded with CloudBuildr -->
 <resources>
+     <string name="account_abnormal_state">Неверная информация об учетной записи, попробуйте войти снова или повторите попытку позже!</string>
      <string name="account_info">Мой аккаунт</string>
      <string name="account_unactivated">Аккаунт не активирован</string>
      <string name="all_resources">Все</string>
@@ -24,6 +25,7 @@
      <string name="component_category_finest_title">Основные</string>
      <string name="component_category_more_title">Дополнительные</string>
      <string name="component_include_title">Элементов: %1$s</string>
+     <string name="component_lockstyle_personal_title">Настройки</string>
      <string name="component_select_title">%1$s элементов</string>
      <string name="component_settings_title">Текущая тема</string>
      <string name="default_name">По умол.</string>
@@ -49,6 +51,7 @@
      <string name="lockstyle_personal_settings">Изменить</string>
      <string name="long_ringtone_resource">Длинные</string>
      <string name="maml_component_customization_title">Настройки компонентов</string>
+     <string name="menu_refresh">Обновить</string>
      <string name="mi_wallpaper">Mi обои</string>
      <string name="online_no_network">Не удается подключиться к сети</string>
      <string name="online_search_hint">Введите ключевые слова</string>
@@ -71,11 +74,14 @@
      <string name="resource_comment_3_star">3 звезды</string>
      <string name="resource_comment_4_star">4 звезды</string>
      <string name="resource_comment_5_star">5 звезд</string>
+     <string name="resource_comment_account_need_activitied">Ваш аккаунт не активирован, хотите активировать сейчас?</string>
      <string name="resource_comment_all_comments">Все</string>
      <string name="resource_comment_average_score">Средняя</string>
      <string name="resource_comment_bad_comments">Плохие</string>
+     <string name="resource_comment_count">%1$s оценок %2$s общее колличество отзывов (версия: %3$s)</string>
      <string name="resource_comment_current_version">Текущая версия</string>
      <string name="resource_comment_date">%1$02d-%2$02d</string>
+     <string name="resource_comment_description">%1$s отзыв к %2$s:%3$s:%4$s</string>
      <string name="resource_comment_edit_comment">Добавить отзыв</string>
      <string name="resource_comment_edit_comment_waiting">Проверка Ваших отзывов…</string>
      <string name="resource_comment_edit_text_default">Написать отзыв</string>
@@ -101,6 +107,7 @@
      <string name="resource_comment_upload_not_bought">Прежде чем оставить отзыв, Вы должны применить тему</string>
      <string name="resource_comment_upload_not_logined">Пожалуйста, войдите в аккаунт</string>
      <string name="resource_comment_upload_success">Отзыв отправлен!</string>
+     <string name="resource_comment_version_name">(версия: %1$s)</string>
      <string name="resource_default">Стандартная мелодия</string>
      <string name="resource_default_name">Ресурс</string>
      <string name="resource_delete_all">Вы уверены, что хотите удалить выбранные ресурсы (%1$d)?</string>
@@ -116,6 +123,10 @@
      <string name="resource_detail_recommend_desiner_themes">темы: %1$s</string>
      <string name="resource_detail_recommend_other_themes">Пользователям также понравилось</string>
      <string name="resource_detail_update_log_title">Обновления</string>
+     <!-- The count of MNPS does not match! Now: 1 must: 0
+	%s: 1 must: 0
+	%d: 0 must: 0 -->
+     <!-- Original string: Информация -->
      <string name="resource_detail_window_title">Информация %1$s</string>
      <string name="resource_download">Скачать</string>
      <string name="resource_downloaded_title">Скачанные</string>
@@ -182,6 +193,7 @@
      <string name="resource_share_subject">Поделиться: %1$s</string>
      <string name="resource_share_text">Вот тема, которая Вам понравится: %1$s! Ссылка: %2$s.</string>
      <string name="resource_share_title">Отправить</string>
+     <string name="resource_switch_account">Переключить</string>
      <string name="resource_system_title">Системные</string>
      <string name="resource_tip_select_ringtone">Мелодия не выбрана</string>
      <string name="resource_title">Сведения</string>
@@ -196,9 +208,12 @@
      <string name="restore_default_theme_alert">Вы можете стать жертвой подделки темы. Перейдите в магазин тем, чтобы купить или повторно загрузить тему.</string>
      <string name="sdcard_not_mounted_dialog_message">"Вставьте SD-карту"</string>
      <string name="sdcard_not_mounted_dialog_title">SD-карта не обнаружена</string>
+     <string name="sdcard_status_changed_dialog_message">Перезапустите приложение для обновления ресурсов.</string>
+     <string name="sdcard_status_changed_dialog_title">Статус SD-карты изменен</string>
      <string name="selected_resource_file_invalid">Выбранный файл неверный</string>
      <string name="settings">Настройки</string>
      <string name="short_ringtone_resource">Короткие</string>
+     <string name="theme_another_import_running">Процесс импорта уже запущен, попробуйте позже.</string>
      <string name="theme_batch_has_update_text">Тем для обновления: %1$d</string>
      <string name="theme_batch_update_all">Обновить все</string>
      <string name="theme_batch_update_dlg_content">Вы уверены, что хотите обновить сейчас?</string>
@@ -235,9 +250,35 @@
      <string name="theme_description_title_default">По умолчанию</string>
      <string name="theme_immediately_apply_tip">Тема обновляется, применить после обновления?</string>
      <string name="theme_import_activity_label">Обновление тем</string>
+     <string name="theme_import_data">Импорт информации</string>
+     <string name="theme_import_fail">Ошибка импорта %1$s</string>
      <string name="theme_import_from_sdcard">Импортировать с SD-карты</string>
+     <string name="theme_import_importing">Обновление тем… (осталось: %1$d)</string>
+     <string name="theme_import_item_delete_request_button">Удалить</string>
+     <string name="theme_import_item_delete_request_content">Тема не обновлена, вы можете использовать ее после полного обновления или удалите ее</string>
+     <string name="theme_import_item_delete_request_title">Тема не обновлена</string>
+     <string name="theme_import_item_importing">Обновление…</string>
+     <string name="theme_import_item_not_exist">Не существует</string>
+     <string name="theme_import_item_not_upgraded">Не обновлено</string>
+     <string name="theme_import_item_reject_use">Тема в процессе обновления, пожалуйста подождите…</string>
+     <string name="theme_import_item_waiting">Ожидание</string>
+     <string name="theme_import_new_download">Импорт</string>
+     <string name="theme_import_normal">Обновление темы</string>
+     <string name="theme_import_oper_complete">Готово</string>
+     <string name="theme_import_oper_start">Обновить все</string>
+     <string name="theme_import_oper_stop">Остановить</string>
+     <string name="theme_import_oper_stop_request_content">Эти темы нуждаются в обновлении для использования, остановить?</string>
+     <string name="theme_import_preparing">Поиск тем</string>
+     <string name="theme_import_stoping">Остановка…</string>
+     <string name="theme_importing">Импортирование темы…</string>
+     <string name="theme_is_imported">Тема импортирована</string>
      <string name="theme_name">%1$s</string>
+     <string name="theme_sdcard_importing">Импортирование</string>
      <string name="theme_select_others">Прочее</string>
+     <string name="theme_upgrade_request_cancel">Нет</string>
+     <string name="theme_upgrade_request_content">Формат локальных тем нужно преобразовать для повышения эффективности. Это может занять некоторое время и возможно подтормаживание системы в процессе. Преобразовать темы сейчас?</string>
+     <string name="theme_upgrade_request_title">Обновление тем</string>
+     <string name="theme_upgrade_request_yes">Да</string>
      <string name="third_party_pickers_activity_title">%1$s</string>
      <string name="title_component">Компоненты</string>
      <string name="title_local">Телефон</string>

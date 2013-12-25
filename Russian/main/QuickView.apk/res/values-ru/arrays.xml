@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!-- Builded with CloudBuildr -->
 <resources>
-    <string-array name="defalut_dest_list_activity">
+     <string-array name="defalut_dest_list_activity">
         <item>Контакты</item>
         <item>Новый Email</item>
         <item>Новый номер телефона</item>
-    </string-array>
+     </string-array>
 </resources>

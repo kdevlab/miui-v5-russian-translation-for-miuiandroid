@@ -80,6 +80,11 @@
         <item>Systrace (Graphics)</item>
         <item>Call stack on glGetError</item>
      </string-array>
+     <string-array name="entries_dolby_control">
+        <item>Нет</item>
+        <item>Музыка</item>
+        <item>Кино</item>
+     </string-array>
      <string-array name="entries_font_size">
         <item>Мелкий</item>
         <item>Обычный</item>
@@ -109,6 +114,15 @@
         <item>Голубой</item>
         <item>Белый</item>
         <item>Фиолетовый</item>
+     </string-array>
+     <string-array name="led_color_values">
+        <item>blue</item>
+        <item>red</item>
+        <item>yellow</item>
+        <item>green</item>
+        <item>cyan</item>
+        <item>white</item>
+        <item>\#FFAA00AA</item>
      </string-array>
      <string-array name="led_freq_entries">
         <item>2 сек.</item>
@@ -144,34 +158,38 @@
         <item>Лиловый</item>
         <item>Фиолетовый</item>
      </string-array>
+     <string-array name="mi1_led_color_values">
+        <item>blue</item>
+        <item>red</item>
+        <item>green</item>
+        <item>\#FFFF0033</item>
+        <item>\#FF5500FF</item>
+        <item>\#FFAA00AA</item>
+     </string-array>
      <string-array name="msd_pc_system">
         <item>Windows XP или старее</item>
         <item>Windows Vista или новее</item>
         <item>OS X</item>
         <item>Linux</item>
      </string-array>
-     <!-- The size of the array does not match! Now: 5 must: 8 -->
      <string-array name="msd_pc_system_install_finish_summary">
         <item>Если вы установили этот драйвер\nМобильное устройство хранения MI-2 должно быть на вашем компьютере</item>
         <item>Для Windows Vista или новее,\nмузыкальный плеер MI-2 должен появится на вашем компьютере</item>
         <item>Если вы установили драйвер\nКомпьютер будет автоматически открывать и читать данные телефона</item>
         <item></item>
      </string-array>
-     <!-- The size of the array does not match! Now: 5 must: 8 -->
      <string-array name="msd_pc_system_install_start_summary">
         <item>Для Windows XP или старее,\nдрайвер должен быть установлен вручную</item>
         <item>Для Windows Vista или новее,\nмузыкальный плеер MI-2 появится на вашем компьютере</item>
         <item>Для операционной системы OS X,\nдрайвер должен быть установлен вручную</item>
         <item></item>
      </string-array>
-     <!-- The size of the array does not match! Now: 5 must: 8 -->
      <string-array name="msd_pc_system_install_step_1_summary">
         <item>(Пожалуйста, игнорируйте всплывающие окна мастера установки)\nзапоминающее устройство XIAOMI появится на вашем компьютере\nОткройте и выберите файл Setup.exe для установки</item>
         <item></item>
         <item>Запоминающее устройство XIAOMI появится на вашем компьютере\nткройте и выберите файл AndroidFileTransfer.dmg для установки</item>
         <item></item>
      </string-array>
-     <!-- The size of the array does not match! Now: 5 must: 7 -->
      <string-array name="msd_pc_system_install_step_2_summary">
         <item>2. Мобильное устройство хранения MI-2 появится на вашем компьютере\nТеперь вы можете передавать файлы</item>
         <item></item>
@@ -246,7 +264,7 @@
         <item>Сбалансированный</item>
         <item>Энергосберегающий</item>
      </string-array>
-	 <string-array name="preferred_app_entries">
+     <string-array name="preferred_app_entries">
         <item>Рабочий стол</item>
         <item>Телефон</item>
         <item>Сообщения</item>
@@ -307,6 +325,7 @@
         <item>Запретить</item>
         <item>Разрешить</item>
      </string-array>
+     <!-- The size of the array does not match! Now: 6 must: 8 -->
      <string-array name="slideshow_time_entries">
         <item>5 минут</item>
         <item>15 минут</item>
