@@ -142,7 +142,6 @@
      <string name="keep_quit_position_summary">Возвращаться к состоянию на момент выхода. Рекомендуется включить.</string>
      <string name="ktv_alert_message">Нажмите использовать телефон для добавления песен на главной странице консоли KTV, чтобы просмотреть соответствующий QR-код</string>
      <string name="ktv_alert_title">Доступно только на поддерживаемых устройствах</string>
-     <string name="ktv_and_room">%1$s %2$s</string>
      <string name="ktv_connected_alert_message">Выбранные песни будут добавлены в список воспроизведения Мой KTV</string>
      <string name="ktv_connected_alert_titel">Подключено к %1$s</string>
      <string name="ktv_disconnect_alert_titel">Отключиться от %1$s?</string>
@@ -211,7 +210,7 @@
      <string name="overwrite_confirm">Перезаписать</string>
      <string name="pay_service_guide_dowload">Качество скачивания</string>
      <string name="pay_service_guide_listen">Качество потока</string>
-	 <string name="pay_service_guide_new">Доступна музыка в высоком качестве</string>
+     <string name="pay_service_guide_new">Доступна музыка в высоком качестве</string>
      <string name="payment_fail">Платеж не удался</string>
      <string name="payment_success">Успешно оплачено</string>
      <string name="play_all">Воспроизвести все</string>

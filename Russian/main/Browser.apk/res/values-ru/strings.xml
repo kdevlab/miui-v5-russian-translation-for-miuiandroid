@@ -300,7 +300,7 @@
      <string name="menu_share_url">Отправить</string>
      <string name="menu_theme_setting">Настройки темы</string>
      <string name="menu_view_download">Загрузки</string>
-	 <string name="miui_quicksearch_enable_pref_summary">Включить быстрый поиск</string>
+     <string name="miui_quicksearch_enable_pref_summary">Включить быстрый поиск</string>
      <string name="miui_quicksearch_enable_pref_title">Быстрый поиск уведомлений</string>
      <string name="miui_search_notification_message">Открыть быстрый поиск</string>
      <string name="miui_search_notification_title">Быстрый поиск</string>
@@ -359,7 +359,7 @@
      <string name="pref_content_auto_light_mode">автоматическая яркость</string>
      <string name="pref_content_autofit">Мобильный вид</string>
      <string name="pref_content_autofit_summary">Подгонять веб-страницы под размер экрана</string>
-	 <string name="pref_content_block_float_popups">Блокировать всплывающие окна</string>
+     <string name="pref_content_block_float_popups">Блокировать всплывающие окна</string>
      <string name="pref_content_block_popups">Блокировать всплывающие окна</string>
      <string name="pref_content_fontsize_setting">Настройки шрифта</string>
      <string name="pref_content_homepage">Стартовая страница</string>

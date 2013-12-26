@@ -63,7 +63,6 @@
      <string name="button_retry">Повтор</string>
      <string name="cancel">Отмена</string>
      <string name="change_security_lock">Изменить блокировку</string>
-     <string name="colon">": "</string>
      <string name="detail_consume_account">ID покупки</string>
      <string name="detail_consume_amount">Количество</string>
      <string name="detail_consume_name">Продукт</string>
@@ -112,9 +111,6 @@
      <string name="error_verify_summary">Приложение не имеет разрешения на запрос этого сервиса</string>
      <string name="error_verify_title">Нет доступа</string>
      <string name="forget_password"><u>Забыли пароль?</u></string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="format_date">MMM. dd, yyyy</string>
-     <string name="format_time">MMM dd, yyyy hh:mmaa</string>
      <string name="frozen">(заморожен)</string>
      <string name="giftcard_acitivity_and_denomination">Подарочная карта на %2$s MiCredit от %1$s</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->

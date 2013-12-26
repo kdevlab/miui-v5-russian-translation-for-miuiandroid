@@ -125,7 +125,7 @@
      <string name="confirm_delete_this_video">Удалить это видео?</string>
      <string name="confirm_delete_videos">%s видео</string>
      <string name="confirm_download">Вам необходимо скачать %s. Подсказка не будет больше показана.</string>
-	 <string name="confirm_download_video_message">Необходима загрузка видео. Скачивание возобновится при доступном Wi-Fi соединении.</string>
+     <string name="confirm_download_video_message">Необходима загрузка видео. Скачивание возобновится при доступном Wi-Fi соединении.</string>
      <string name="confirm_download_video_title">Загрузка видео</string>
      <string name="contact_photo">Фото контакта</string>
      <string name="context_menu_add_contact">Добавить в контакты</string>
@@ -205,6 +205,7 @@
      <string name="flip">Отразить</string>
      <string name="flip_tooltip">Чтобы отразить фото, перетащите его край</string>
      <string name="focal_length">Фокус. расст.</string>
+     <string name="folder_holder_file">Необходимо удалить этот файл позже</string>
      <string name="frame_black">Черная</string>
      <string name="frame_button">Рамка</string>
      <string name="frame_classic">Классическая</string>
@@ -230,7 +231,7 @@
      <string name="how_many_pics">Фотографий: %d</string>
      <string name="how_many_sub_folders">Папок: %d</string>
      <string name="how_many_videos">Видео: %d</string>
-	 <string name="image_download_item_title">Загрузка изображения (%s)</string>
+     <string name="image_download_item_title">Загрузка изображения (%s)</string>
      <string name="image_quota_fulfiled">Не удается создать изображение, т.к. количество изображений в альбоме достигло предела</string>
      <string name="import_complete">Импорт завершен</string>
      <string name="import_fail">Сбой импорта</string>
@@ -250,11 +251,11 @@
      <string name="kick_sharer_successfully">Получатель удален</string>
      <string name="loading">Загрузка…</string>
      <string name="loading_failure">Не удалось загрузить фото</string>
-	 <string name="loading_image">Загрузка изображения…</string>
+     <string name="loading_image">Загрузка изображения…</string>
      <string name="loading_members">Загрузка пользователей…</string>
-	 <string name="loading_suspend">Загрузка приостановлена​​: возобновится при доступном Wi-Fi соединении</string>
+     <string name="loading_suspend">Загрузка приостановлена​​: возобновится при доступном Wi-Fi соединении</string>
      <string name="loading_thumbnail">Загрузка эскизов…</string>
-	 <string name="loading_video">Загрузка видео…</string>
+     <string name="loading_video">Загрузка видео…</string>
      <string name="local_albums">Альбомы</string>
      <string name="location">Место съемки</string>
      <string name="locations">Места</string>

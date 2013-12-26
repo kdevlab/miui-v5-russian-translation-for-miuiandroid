@@ -19,6 +19,7 @@
         <item>Трафик за сегодня</item>
         <item>Трафик за месяц</item>
      </string-array>
+     <!-- The size of the array does not match! Now: 8 must: 10 -->
      <string-array name="network_speed_update_internals">
         <item>3 секунды</item>
         <item>4 секунды</item>
