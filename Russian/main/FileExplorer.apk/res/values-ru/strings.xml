@@ -127,7 +127,6 @@
      <string name="instruction_pre">Обмен файлами с ПК или Mac по FTP через сеть Wi-Fi</string>
      <string name="item_name">Без имени</string>
      <string name="kuaipan_over_space">В вашем KuaiPan нет больше свободного места</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="kuaipan_prompt">KuaiPan</string>
      <string name="kuaipan_prompt_message">"
  Идет обслуживание сервиса, пожалуйста, попробуйте позже…
@@ -249,8 +248,8 @@
      <string name="storage_warning">Внешний носитель не доступен</string>
      <string name="sys_size">Всего: %1$s</string>
      <string name="sys_size_title">Полный объем</string>
-     <string name="tab_category">Обзор</string>
-     <string name="tab_phone">Телефон</string>
+     <string name="tab_category">Категории</string>
+     <string name="tab_phone">Файлы</string>
      <string name="temp_file_cleanup_indication">%s временнх файлов</string>
      <string name="temp_file_title">Временные файлы</string>
      <string name="thumbnail_cleanup_indication">%s эскизов</string>
@@ -300,6 +299,5 @@
      <string name="wangpan_root_path">Мой диск</string>
      <string name="wifi_state">Статус Wi-Fi</string>
      <string name="xiaomi_account">Аккаунт Xiaomi</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="yes">OK</string>
 </resources>
