@@ -21,13 +21,15 @@
      </string-array>
      <!-- The size of the array does not match! Now: 8 must: 10 -->
      <string-array name="network_speed_update_internals">
-        <item>3 секунды</item>
-        <item>4 секунды</item>
-        <item>5 секунд</item>
-        <item>6 секунд</item>
-        <item>7 секунд</item>
-        <item>8 секунд</item>
-        <item>9 секунд</item>
+        <item>1 сек</item>
+        <item>2 сек</item>
+        <item>3 сек</item>
+        <item>4 сек</item>
+        <item>5 сек</item>
+        <item>6 сек</item>
+        <item>7 сек</item>
+        <item>8 сек</item>
+        <item>9 сек</item>
      </string-array>
      <string-array name="traffic_sort_type">
         <item>@string/menu_sort_by_name</item>

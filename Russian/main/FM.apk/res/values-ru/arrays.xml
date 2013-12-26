@@ -187,11 +187,24 @@
         <item>Разные</item>
         <item>Погода</item>
      </string-array>
+     <!-- The size of the array does not match! Now: 5 must: 8 -->
      <string-array name="sleep_duration_values">
+        <item>10 минут</item>
         <item>15 минут</item>
         <item>30 минут</item>
         <item>45 минут</item>
         <item>1 час</item>
+        <item>1.5 часа</item>
+        <item>2 часа</item>
+     </string-array>
+     <string-array name="sleep_duration_values_seconds">
+        <item>600</item>
+        <item>900</item>
+        <item>1800</item>
+        <item>2700</item>
+        <item>3600</item>
+        <item>5400</item>
+        <item>7200</item>
      </string-array>
      <string-array name="stats_options">
         <item>Выберите параметр</item>

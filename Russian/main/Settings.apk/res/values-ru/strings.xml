@@ -271,7 +271,7 @@
      <string name="app_special_disable_dlg_text">Если отключить встроенное приложение, другие приложения могут работать неправильно. Кроме того, будут удалены все данные.</string>
      <string name="app_special_disable_dlg_title">Отключить?</string>
      <string name="app_uninstall_residual">Удалить остаточные файлы?</string>
-     <string name="application_forbid_auto_startup">Отключить запуск %s в фоновом режиме</string>
+     <string name="application_forbid_auto_startup">Отключить автозапуск %s в фоне?</string>
      <string name="application_info_label">О приложении</string>
      <string name="application_item_already_permission">Разрешено</string>
      <string name="application_item_disable">Отключить</string>

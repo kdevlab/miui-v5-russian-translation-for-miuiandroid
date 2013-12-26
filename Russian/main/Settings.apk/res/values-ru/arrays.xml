@@ -327,11 +327,13 @@
      </string-array>
      <!-- The size of the array does not match! Now: 6 must: 8 -->
      <string-array name="slideshow_time_entries">
+        <item>1 минута</item>
+        <item>3 минуты</item>
         <item>5 минут</item>
         <item>15 минут</item>
         <item>30 минут</item>
         <item>1 час</item>
-        <item>Всегда</item>
+        <item>Бесконечно</item>
      </string-array>
      <string-array name="special_locale_names">
         <item>Китайский (упрощенный)</item>
@@ -456,6 +458,12 @@
      <string-array name="wifi_proxy_settings">
         <item>Нет</item>
         <item>Вручную</item>
+     </string-array>
+     <string-array name="wifi_security">
+        <item>@string/wifi_security_none</item>
+        <item>@string/wifi_security_wep</item>
+        <item>@string/wifi_security_psk_generic</item>
+        <item>@string/wifi_security_eap</item>
      </string-array>
      <string-array name="wifi_signal">
         <item>Слабый</item>

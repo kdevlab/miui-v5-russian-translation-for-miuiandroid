@@ -25,14 +25,18 @@
      </string-array>
      <!-- The size of the array does not match! Now: 9 must: 13 -->
      <string-array name="preferred_network_mode_choices">
-        <item>LTE/CDMA</item>
+        <item>LTE</item>
+        <item>Global</item>
+        <item>GSM/WCDMA/LTE</item>
+        <item>CDMA + LTE/EvDo</item>
+        <item>CDMA/EvDo/GSM/WCDMA</item>
         <item>Только EvDo</item>
-        <item>CDMA w/o EvDo</item>
-        <item>Автоматически CDMA/EvDo</item>
-        <item>Автоматически GSM/WCDMA</item>
+        <item>CDMA без EvDo</item>
+        <item>CDMA / EvDo (автоматический режим)</item>
+        <item>GSM / WCDMA (автоматический режим)</item>
         <item>Только WCDMA</item>
         <item>Только GSM</item>
-        <item>Предпочтительно GSM/WCDMA</item>
+        <item>GSM / WCDMA (предпочтительная сеть)</item>
      </string-array>
      <string-array name="tty_mode_entries">
         <item>Телетайп выключен</item>
