@@ -2,14 +2,13 @@
 <!-- Builded with CloudBuildr -->
 <resources>
      <string name="account_not_activated">Аккаунт не активирован. Активируйте и повторите еще раз.</string>
-     <string name="activate_now">activate_now</string>
      <string name="all_comments">Все</string>
      <string name="already_bottom">Конец страницы</string>
      <string name="app_comments">Комментарии</string>
      <string name="app_comments_footer">Пустые комментарии здесь не показаны</string>
      <string name="app_comments_title">Комментарии: %1$s</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="app_name">Mi Store</string>
+     <string name="app_name">MiStore</string>
      <string name="bad_comments">Плохие</string>
      <string name="button_refresh">Обновить</string>
      <string name="button_search">Поиск</string>
@@ -227,9 +226,9 @@
 	%s: 1 must: 0
 	%d: 0 must: 0 -->
      <!-- Original string: Установка завершена -->
-     <string name="notif_install_successful">%1$s успешно установлено</string>
-     <string name="notif_install_successful_default">%1$s установлено</string>
-     <string name="notif_installing">Установка “%1$s”…</string>
+     <string name="notif_install_successful">Установка завершена</string>
+     <string name="notif_install_successful_default">Установлено</string>
+     <string name="notif_installing">Установка %1$s…</string>
      <string name="notif_summary_auto_update_failed">Ошибка автообновления</string>
      <string name="notif_summary_auto_update_successful">Обновлено приложений: %1$s</string>
      <string name="notif_title_update">Обновление %1$s</string>
