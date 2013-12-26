@@ -2,24 +2,24 @@
 <!-- Builded with CloudBuildr -->
 <resources>
      <string name="app_name">Антиспам</string>
-     <string name="bl_block_info" formatted="false">Вызовов: %d, Сообщений: %d</string>
-     <string name="bl_no_blacklist">Черного списка пока нет</string>
+     <string name="bl_block_info" formatted="false">Вызовов: %d | Сообщений: %d</string>
+     <string name="bl_no_blacklist">Пусто</string>
      <string name="bl_no_block_call">Все заблокированные вызовы будут тут</string>
      <string name="bl_no_block_sms">Все заблокированные сообщения будут тут</string>
-     <string name="dlg_add_blacklist">Вы уверены, что хотите добавить этот номер в черный список?</string>
-     <string name="dlg_add_keyword">Добавить ключевые слова</string>
+     <string name="dlg_add_blacklist">Добавить этот номер в черный список?</string>
+     <string name="dlg_add_keyword">Добавление ключевых слов</string>
      <string name="dlg_add_manual_hint">Введите номер телефона</string>
      <string name="dlg_add_manual_ok">Добавить</string>
      <string name="dlg_bl_add_manual">Добавить номер в черный список</string>
-     <string name="dlg_clear_all_call">Вы уверены, что хотите удалить все заблокированные вызовы?</string>
+     <string name="dlg_clear_all_call">Удалить все заблокированные вызовы?</string>
      <string name="dlg_clear_all_ok">Удалить все</string>
-     <string name="dlg_clear_all_sms">Вы уверены, что хотите удалить все заблокированные сообщения?</string>
-     <string name="dlg_clear_blacklist">Вы уверены, что хотите очистить черный список?</string>
+     <string name="dlg_clear_all_sms">Удалить все заблокированные сообщения?</string>
+     <string name="dlg_clear_blacklist">Очистить черный список?</string>
      <string name="dlg_clear_blacklist_ok">Очистить</string>
-     <string name="dlg_clear_current_call">Вы уверены, что хотите удалить все заблокированные вызовы от этого номера?</string>
+     <string name="dlg_clear_current_call">Удалить все заблокированные вызовы от этого номера?</string>
      <string name="dlg_clear_current_ok">Удалить</string>
-     <string name="dlg_clear_current_sms">Вы действительно хотите удалить все заблокированные сообщения отправленные этим номером?</string>
-     <string name="dlg_delete_keyword">Вы действительно хотите удалить эти ключевые слова?</string>
+     <string name="dlg_clear_current_sms">Удалить все заблокированные сообщения отправленные этим номером?</string>
+     <string name="dlg_delete_keyword">Удалить эти ключевые слова?</string>
      <string name="dlg_delete_vip">Удалить из списка исключений?</string>
      <string name="dlg_edit_keyword">Изменить ключевые слова</string>
      <string name="dlg_import_blacklist">Добавить в черный список</string>
@@ -27,12 +27,12 @@
      <string name="dlg_keyword_ok">Сохранить</string>
      <string name="dlg_no_block">Не блокировать этот номер?</string>
      <string name="dlg_no_block_ok">Не блокировать</string>
-     <string name="dlg_remove_blacklist">Вы действительно хотите удалить этот номер из черного списка?</string>
+     <string name="dlg_remove_blacklist">Удалить этот номер из черного списка?</string>
      <string name="dlg_remove_blacklist_ok">Удалить</string>
      <string name="dlg_retore">Вы уверены, что хотите восстановить это сообщение?</string>
      <string name="dlg_retore_ok">Восстановить</string>
      <string name="fw_blocked">Антиспам</string>
-     <string name="fw_blocked_count" formatted="false">Вызовы: %d, SMS: %d</string>
+     <string name="fw_blocked_count" formatted="false">Вызовов: %d | Сообщений: %d</string>
      <string name="marked_by_others">%d пользователей отметили его как</string>
      <string name="marked_by_user">вы отметили его как</string>
      <string name="menu_add">Добавить</string>
@@ -57,7 +57,7 @@
      <string name="menu_restore">Восстановить в сообщения</string>
      <string name="menu_sms">Отправить сообщение</string>
      <string name="qm_auto_button_title">Время</string>
-     <string name="qm_auto_setting_group">По расписанию</string>
+     <string name="qm_auto_setting_group">По времени</string>
      <string name="qm_auto_time_setting">Настройки времени</string>
      <string name="qm_auto_time_setting_summary">С %1$s до %2$s</string>
      <string name="qm_auto_time_turn_off">Окончание</string>
@@ -70,7 +70,7 @@
      <string name="qm_repeated_call_summary_3min">Второй вызов от того же номера в течение трех минут не будет отключен</string>
      <string name="qm_repeated_call_summary_none">Не исключать повторные вызовы</string>
      <string name="qm_special_call_setting_group">Исключения</string>
-     <string name="qm_summary">При включении тихого режима уведомления входящих вызовов и сообщений будут отключены.</string>
+     <string name="qm_summary">При включении тихого режима уведомления входящих вызовов и сообщений будут отключены</string>
      <string name="qm_vip_call_button_title">Исключения</string>
      <string name="qm_vip_call_setting_title">Настройка исключений</string>
      <string name="qm_vip_call_summary_contact">Все контакты</string>
@@ -81,22 +81,22 @@
      <string name="qm_vip_list_custom_group">Контакты</string>
      <string name="qm_vip_list_group">Группа</string>
      <string name="quiet_mode">Тихий режим</string>
-     <string name="st_advanced_setting_group">Дополнительно блокировать</string>
+     <string name="st_advanced_setting_group">Дополнительная блокировка</string>
      <string name="st_block_all">Блокировка вызовов и сообщений</string>
      <string name="st_block_mute">Блокировка вызовов и отключения звука сообщения</string>
-     <string name="st_block_private_call_button">Блокировать неопред. номера</string>
+     <string name="st_block_private_call_button">Неопределенные номера</string>
      <string name="st_block_setting_group">Настройки черного списка</string>
      <string name="st_block_setting_title">Звонки и сообщения</string>
      <string name="st_block_title">Блокировка и запись в журнал</string>
      <string name="st_block_unknown_call">Все неизвестные звонки</string>
      <string name="st_block_unknown_sms">Все неизвестные сообщения</string>
      <string name="st_call_group">При получении вызова</string>
-     <string name="st_common_setting_group">Быстрый просмотр</string>
+     <string name="st_common_setting_group">Быстрая блокировка</string>
      <string name="st_filter_keywords_setting_summary1">Сообщения, отправленные неизвестными и содержащее следующие слова, будут заблокированы</string>
      <string name="st_filter_keywords_setting_summary2">Вы можете добавить несколько ключевых слов, разделяя запятой</string>
-     <string name="st_filter_keywords_setting_title">Установить фильтр ключевых слов</string>
-     <string name="st_filter_keywords_title">Фильтр ключевых слов для сообщения</string>
-     <string name="st_filter_sms_button">Фильтр спама</string>
+     <string name="st_filter_keywords_setting_title">По ключевым словам</string>
+     <string name="st_filter_keywords_title">Ключевые слова для сообщений</string>
+     <string name="st_filter_sms_button">Фильтровать сообщения</string>
      <string name="st_mute_all">Вызовы и сообщения без звука</string>
      <string name="st_mute_block">Вызовы без звука и блокировка сообщений</string>
      <string name="st_mute_title">Не уведомлять, но не блокировать</string>
@@ -111,10 +111,6 @@
      <string name="tab_sms">Сообщения</string>
      <string name="tab_title">Антиспам</string>
      <string name="toast_keyword_blank">Нет ключевых слов</string>
-     <!-- The count of MNPS does not match! Now: 0 must: 1
-	%s: 0 must: 1
-	%d: 0 must: 0 -->
-     <!-- Original string: Ключевое слово \"%s\" уже существует -->
      <string name="toast_keyword_exist">Ключевое слово сохранено</string>
      <string name="toast_keyword_invalid">Неверное ключевое слово</string>
 </resources>
