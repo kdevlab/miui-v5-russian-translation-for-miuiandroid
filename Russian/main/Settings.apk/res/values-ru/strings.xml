@@ -1032,7 +1032,6 @@
      <string name="dolby_effects">Эффекты Dolby</string>
      <string name="dolby_eq_auto">Пользовательский</string>
      <string name="dolby_eq_enter_alert_msg">Вы можете использовать только эквалайзер в данном режиме. Включить?</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="dolby_eq_enter_alert_title">Dolby Music</string>
      <string name="dolby_ieq_flat">Выкл</string>
      <string name="dolby_ieq_focused">Фокусированный</string>
@@ -1571,7 +1570,7 @@
      <string name="lock_intro_message">"Чтобы никто, кроме Вас, не мог воспользоваться устройством, создайте графический ключ разблокировки экрана. Для этого соедините в произвольном порядке не менее четырех точек на следующем экране. 
 
 Чтобы начать, нажмите \"Далее\"."</string>
-     <string name="lock_screen_notifications_summary">Показывать уведомления на экране блокировки.</string>
+     <string name="lock_screen_notifications_summary">Показывать уведомления на экране блокировки</string>
      <string name="lock_screen_notifications_title">Уведомления локскрина</string>
      <string name="lock_screen_style_title">Стиль локскрина</string>
      <string name="lock_screen_unlock_show">Показать интерфейс ввода пароля</string>
@@ -2556,7 +2555,7 @@
      <string name="screensaver_settings_title">Заставка</string>
      <string name="screensaver_settings_when_to_dream">Когда включать</string>
      <string name="screensaver_test">Попробовать</string>
-     <string name="screensaver_timeout_summary">%1$s</string>
+     <string name="screensaver_timeout_summary">После %1$s бездействия</string>
      <string name="screensaver_timeout_title">Время до активации</string>
      <string name="screensaver_timeout_zero_summary">Никогда</string>
      <string name="sd_card_settings_label">USB накопитель</string>
