@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Builded with CloudBuildr -->
 <resources>
-     <!-- The size of the array does not match! Now: 6 must: 8 -->
      <string-array name="slideshow_time_entries">
         <item>1 минута</item>
         <item>3 минуты</item>

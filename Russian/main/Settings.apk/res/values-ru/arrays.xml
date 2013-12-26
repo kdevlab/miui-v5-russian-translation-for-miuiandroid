@@ -325,7 +325,6 @@
         <item>Запретить</item>
         <item>Разрешить</item>
      </string-array>
-     <!-- The size of the array does not match! Now: 6 must: 8 -->
      <string-array name="slideshow_time_entries">
         <item>1 минута</item>
         <item>3 минуты</item>

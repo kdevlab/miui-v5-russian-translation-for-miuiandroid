@@ -187,7 +187,6 @@
         <item>Разные</item>
         <item>Погода</item>
      </string-array>
-     <!-- The size of the array does not match! Now: 5 must: 8 -->
      <string-array name="sleep_duration_values">
         <item>10 минут</item>
         <item>15 минут</item>
