@@ -63,9 +63,9 @@
         <item>Понедельник</item>
      </string-array>
      <string-array name="quick_response_defaults">
-        <item>Опоздаю на несколько минут.</item>
-        <item>Буду там через 10 минут.</item>
-        <item>Начинайте без меня.</item>
+        <item>Опоздаю на несколько минут</item>
+        <item>Буду там через 10 минут</item>
+        <item>Начинайте без меня</item>
         <item>"Извините, я не могу этого сделать. Нужно пересмотреть расписание."</item>
      </string-array>
      <string-array name="reminder_methods_labels">
@@ -75,7 +75,8 @@
         <item>Будильник</item>
      </string-array>
      <string-array name="reminder_minutes_labels">
-        <item>По факту</item>
+        <item>Не напоминать</item>
+		<item>По факту</item>
         <item>За 1 минута</item>
         <item>За 5 минут</item>
         <item>За 10 минут</item>
@@ -93,7 +94,7 @@
         <item>За 1 неделю</item>
      </string-array>
      <string-array name="response_labels1">
-        <item>(Нет ответа)</item>
+        <item>(нет ответа)</item>
         <item>Да</item>
         <item>Возможно</item>
         <item>Нет</item>
