@@ -221,9 +221,9 @@
      <string name="antispam_quiet_mode_title">Тихий режим</string>
      <string name="apk_status_damage">Поврежден</string>
      <string name="apk_status_duplicate">Дубликат</string>
-     <string name="apk_status_install">Установлен</string>
+     <string name="apk_status_install">Установлено</string>
      <string name="apk_status_installed_old">Старая версия</string>
-     <string name="apk_status_uninstalled">Не установлен</string>
+     <string name="apk_status_uninstalled">Не установлено</string>
      <string name="apn_auth_type">Тип аутентификации</string>
      <string name="apn_auth_type_none">Нет</string>
      <string name="apn_auth_type_pap_chap">PAP или CHAP</string>
@@ -646,8 +646,8 @@
      <string name="cache_garbage">Кэш</string>
      <string name="cache_header_label">Кэш</string>
      <string name="cache_list_empty_hints">Нет кешированных файлов</string>
-     <string name="cache_manage_title">К очистке: %1$d | освободится: %2$s</string>
-     <string name="cache_manager_actionbar_title">Системный кэш</string>
+     <string name="cache_manage_title">К очистке: %1$d | Освободится: %2$s</string>
+     <string name="cache_manager_actionbar_title">Файлы кеша</string>
      <string name="cache_size_label">Кэш</string>
      <string name="cached">Кэшированный фоновый процесс</string>
      <string name="call_log_tab_title">Журнал вызовов</string>
@@ -895,8 +895,8 @@
      <string name="deep_clean_tips_large_file_content">Большие файлы (более 10 МБ), которые занимают место на устройстве</string>
      <string name="deep_clean_tips_large_file_title">Большие файлы</string>
      <string name="deep_clean_tips_residual">iconОстаточные файлы (видео, обои, музыка и т.д.), которые были загружены на SD-карту устройства приложениями, которые уже удалены. Будьте внимательны при удалении этих файлов, т.к. некоторые из них возможно нужны Вам.</string>
-     <string name="deep_clean_tips_residual_content">"Остаточные файлы были загружены на SD-карту устройства приложениями, которые уже удалены"</string>
-     <string name="deep_clean_tips_residual_title">Остаточные файлы</string>
+     <string name="deep_clean_tips_residual_content">"Остаточные файлы, которые были загружены на SD-карту устройства приложениями, которые уже удалены"</string>
+     <string name="deep_clean_tips_residual_title">Мусор</string>
      <string name="deep_clean_title_cache">Кеш</string>
      <string name="deep_clean_title_large_file">Файлы</string>
      <string name="deep_clean_title_residual">Мусор</string>
@@ -1896,8 +1896,6 @@
      <string name="opt_restore_perm">Восстановлено разрешений по умолчанию для %d приложений</string>
      <string name="opt_resume_desc">Продолжить</string>
      <string name="opt_scanning">Сканирование…:</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="opt_score">83</string>
      <string name="opt_score_desc">" %"</string>
      <string name="opt_state_done">Готово</string>
      <string name="opt_state_pause">Пауза</string>
@@ -1907,7 +1905,7 @@
      <string name="opt_waiting">Ожидание</string>
      <string name="optimize_ad_header_left">Реклама: %d</string>
      <string name="optimize_ad_list_empty_content">Реклама не найдена</string>
-     <string name="optimize_apk_header_left">Приложений: %d</string>
+     <string name="optimize_apk_header_left">Файлов: %d</string>
      <string name="optimize_apk_list_empty_content">Установленный приложения не найдены</string>
      <string name="optimize_cache_header_left">Кеш: %d</string>
      <string name="optimize_cache_list_empty_content">Кеш не найден</string>
@@ -1922,8 +1920,7 @@
      <string name="optimize_tips_ad_title">Рекламные файлы</string>
      <string name="optimize_tips_apk">iconApk -  все доступные для установки файлы хранящиеся на устройстве</string>
      <string name="optimize_tips_apk_content">Все доступные для установки файлы хранящиеся на устройстве</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="optimize_tips_apk_title">Apk</string>
+     <string name="optimize_tips_apk_title">Файлы Apk</string>
      <string name="optimize_tips_cache">iconКеш - временные файлы приложений и процессов (например миниатюры)</string>
      <string name="optimize_tips_cache_content">Временные файлы приложений и процессов (например миниатюры)</string>
      <string name="optimize_tips_cache_title">Кеш</string>
@@ -2954,13 +2951,13 @@
      <string name="tts_engine_name_is_disabled_summary">%s: отключено</string>
      <string name="tts_engine_name_is_enabled_summary">%s включен</string>
      <string name="tts_engine_name_settings">Настройки %s</string>
-     <string name="tts_engine_preference_section_title">Система по умолчанию</string>
+     <string name="tts_engine_preference_section_title">Синтезатор по умолчанию</string>
      <string name="tts_engine_security_warning">Данная система синтеза речи может записывать произносимые слова, включая личные данные, такие как пароли и номера кредитных карт. Это осуществляет система %s. Разрешить использование этой системы синтеза речи?</string>
      <string name="tts_engine_settings_button">Настройки синтеза речи</string>
      <string name="tts_engine_settings_section">Настройки синтеза</string>
      <string name="tts_engine_settings_title">Настройки %s</string>
      <string name="tts_engines_section">Системы</string>
-     <string name="tts_general_section_title">Общие</string>
+     <string name="tts_general_section_title">Общие настройки</string>
      <string name="tts_install_data_summary">Установить голосовые данные, необходимые для синтеза речи</string>
      <string name="tts_install_data_title">Установка голосовых данных</string>
      <string name="tts_notif_engine_install_message">Включите новый модуль перед использованием</string>
@@ -2969,7 +2966,7 @@
      <string name="tts_play_example_title">Прослушать пример</string>
      <string name="tts_settings">Настройки синтеза речи</string>
      <string name="tts_settings_changed_demo">Ваши настройки изменены. Вот пример того, как это звучит.</string>
-     <string name="tts_settings_title">Синтез речи</string>
+     <string name="tts_settings_title">Синтезатор речи</string>
      <string name="turn_off_radio">Отключить радио</string>
      <string name="turn_off_security_lock">Отключить блокировку</string>
      <string name="turn_on_radio">Включить радио</string>
@@ -3172,17 +3169,17 @@
      <string name="virus_scan_app_scanning">Сканирование…</string>
      <string name="virus_scan_app_solve">Вся обработка</string>
      <string name="virus_scan_app_stop">Остановить</string>
-     <string name="virus_scan_app_stop_scan">Остановить сканирование</string>
+     <string name="virus_scan_app_stop_scan">Остановить</string>
      <string name="virus_scan_app_uninstall">Удалить (%d)</string>
      <string name="virus_scan_app_waiting">Ожидание…</string>
      <string name="virus_scan_can_use_wifi">Использовать облачную базу данных</string>
      <string name="virus_scan_clear">Удалить</string>
-     <string name="virus_scan_dangerous">Риск</string>
+     <string name="virus_scan_dangerous">Имеются угрозы</string>
      <string name="virus_scan_description">Это приложение является одним из основных рисков для безопасности устройства</string>
      <string name="virus_scan_file_type_risk_apk">Обнаружена угроза (apk)</string>
-     <string name="virus_scan_file_type_risk_installed">Обнаружена угроза (приложение)</string>
+     <string name="virus_scan_file_type_risk_installed">Обнаружена угроза (установлено)</string>
      <string name="virus_scan_file_type_virus_apk">Обнаружен вирус (apk)</string>
-     <string name="virus_scan_file_type_virus_installed">Обнаружен вирус (приложение)</string>
+     <string name="virus_scan_file_type_virus_installed">Обнаружен вирус (установлено)</string>
      <string name="virus_scan_find">Обнаружено угроз: %d</string>
      <string name="virus_scan_finish">Готово</string>
      <string name="virus_scan_finish_text">Теперь все в порядке :)</string>

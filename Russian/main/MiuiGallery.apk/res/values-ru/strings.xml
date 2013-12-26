@@ -80,7 +80,7 @@
      <string name="clear_thumbnail_cache_confirm">Кеш миниатюр будет очищен. Галерея пересканирует все файлы и пересоздаст миниатюры снова. Это повлияет на скорость работы приложения.</string>
      <string name="clear_thumbnail_cache_summary">Очистить эскизы изображений, созданных при просмотре изображений в галерее</string>
      <string name="click_to_enter_camera">Нет фото и видео</string>
-     <string name="click_top_right">Нажмите на иконку вверху справа</string>
+     <string name="click_top_right">Нажмите на иконку здесь</string>
      <string name="close">Закрыть</string>
      <string name="cloud_album_more_settings">Синхронизация MiCloud</string>
      <string name="cloud_album_set_create">Новый</string>
@@ -96,8 +96,9 @@
      <string name="cloud_owner_album_share_guide">Вы можете поделиться этим альбомом с друзьями</string>
      <string name="cloud_screenshots_display_name">Скриншоты</string>
      <string name="cloud_share_guide_message">"Вы можете поделиться облачным альбомом с
-друзьями"</string>
-     <string name="cloud_share_guide_title">Отправка MiCloud!</string>
+друзьями. Просматривайте и обновляйте
+альбом из любого места."</string>
+     <string name="cloud_share_guide_title">Простой обмен</string>
      <string name="cloud_tab_albums">Альбомы</string>
      <string name="cloud_tab_all">Все</string>
      <string name="cloud_tab_locations">Местоположение</string>
@@ -107,12 +108,7 @@
      <string name="cloudfolder_name_cannot_empty">Введите название папки</string>
      <string name="cloudfolder_name_reserved">Имя папки занято</string>
      <string name="comfirm_delete_current_album">Удалить текущий альбом?</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="confirm">OK</string>
-     <!-- The count of MNPS does not match! Now: 1 must: 0
-	%s: 1 must: 0
-	%d: 0 must: 0 -->
-     <!-- Original string: Удалить выбранное? -->
      <string name="confirm_delete">Удалить выбранные файлы (%s)?</string>
      <string name="confirm_delete_album" formatted="false">"Удалить выбранные альбомы с фото?
 

@@ -416,7 +416,7 @@
      <string name="pref_fling_on_border_enabled_title_summary">Слайд по границе экрана</string>
      <string name="pref_fling_on_border_operation">Функция при слайде</string>
      <string name="pref_font_size_category">Размер текста</string>
-     <string name="pref_force_userscalable">Масштабирование</string>
+     <string name="pref_force_userscalable">Фиксировать масштаб</string>
      <string name="pref_force_userscalable_summary">Использовать заданное масштабирование</string>
      <string name="pref_general_autofill_title">Автозаполнение</string>
      <string name="pref_general_exit_setting_title">Настройки выхода</string>
