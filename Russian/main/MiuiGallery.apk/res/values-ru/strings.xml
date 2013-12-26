@@ -125,6 +125,8 @@
      <string name="confirm_delete_this_video">Удалить это видео?</string>
      <string name="confirm_delete_videos">%s видео</string>
      <string name="confirm_download">Вам необходимо скачать %s. Подсказка не будет больше показана.</string>
+	 <string name="confirm_download_video_message">Необходима загрузка видео. Скачивание возобновится при доступном Wi-Fi соединении.</string>
+     <string name="confirm_download_video_title">Загрузка видео</string>
      <string name="contact_photo">Фото контакта</string>
      <string name="context_menu_add_contact">Добавить в контакты</string>
      <string name="context_menu_copy">Копировать</string>
@@ -211,7 +213,7 @@
      <string name="frame_white">Белая</string>
      <string name="gallery_cloud_provider_name">Галерея</string>
      <string name="gallery_setting">Настройки</string>
-     <string name="get_album_info_in_process">"Запрос свойств облачного альбома…"</string>
+     <string name="get_album_info_in_process">Запрос свойств облачного альбома…</string>
      <string name="global_setting">Настройки</string>
      <string name="grain">Зернистость</string>
      <string name="grayscale">Ч/Б</string>
@@ -228,6 +230,7 @@
      <string name="how_many_pics">Фотографий: %d</string>
      <string name="how_many_sub_folders">Папок: %d</string>
      <string name="how_many_videos">Видео: %d</string>
+	 <string name="image_download_item_title">Загрузка изображения (%s)</string>
      <string name="image_quota_fulfiled">Не удается создать изображение, т.к. количество изображений в альбоме достигло предела</string>
      <string name="import_complete">Импорт завершен</string>
      <string name="import_fail">Сбой импорта</string>
@@ -235,7 +238,7 @@
      <string name="initial_cloud_text">Организовывайте и просматривайте свои фотографии</string>
      <string name="initializing_cloud">Запуск облачного альбома…</string>
      <string name="input_cloudfolder_name">Название облачного альбома</string>
-     <string name="internal_camera_folder_display_name">Фото в памяти телефона</string>
+     <string name="internal_camera_folder_display_name">Фотографии камеры</string>
      <string name="internal_miui_capture_screen_folder_display_name">Скриншоты в памяти телефона</string>
      <string name="internal_sd_card">Внутренняя SD-карта</string>
      <string name="invalid_invition_url">Неверная ссылка приглашения</string>
@@ -245,10 +248,13 @@
      <string name="kick_sharer">Удалить получателя</string>
      <string name="kick_sharer_failed">Ошибка удаления получателя</string>
      <string name="kick_sharer_successfully">Получатель удален</string>
-     <string name="loading">Идет загрузка…</string>
+     <string name="loading">Загрузка…</string>
      <string name="loading_failure">Не удалось загрузить фото</string>
+	 <string name="loading_image">Загрузка изображения…</string>
      <string name="loading_members">Загрузка пользователей…</string>
+	 <string name="loading_suspend">Загрузка приостановлена​​: возобновится при доступном Wi-Fi соединении</string>
      <string name="loading_thumbnail">Загрузка эскизов…</string>
+	 <string name="loading_video">Загрузка видео…</string>
      <string name="local_albums">Альбомы</string>
      <string name="location">Место съемки</string>
      <string name="locations">Места</string>

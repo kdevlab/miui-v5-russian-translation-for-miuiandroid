@@ -140,13 +140,14 @@
      <string name="sync_fail_notify_title">Синхронизация не удалась</string>
      <string name="sync_traffic_fail_message">Синхронизация с оператором не удалась, сервер занят. Пожалуйста, попробуйте позже или позвоните в поддержку %s для помощи</string>
      <string name="sync_traffic_fail_title">Синхронизация не удалась</string>
-     <string name="sync_traffic_ing">Синхронизация с оператором, подождите...</string>
+     <string name="sync_traffic_ing">Синхронизация с оператором, подождите…</string>
      <string name="sync_traffic_no_cmd_detail">Укажите Ваш город, провинцию, ICC и оператора связи здесь: http://www.miui.com/forum-172-1.html. Спасибо.</string>
      <string name="sync_traffic_no_cmd_detail_custom_config">"Вы можете: 1.Параметры >> Настроить трафик >> Пользовательские настройки, или на главной странице Настроить трафик >> Пользовательские настроки; 2.Укажите Ваш город, провинцию, ICC и оператора связи здесь: http://www.miui.com/forum-172-1.html. Спасибо."</string>
      <string name="sync_traffic_no_cmd_title">Нет шаблона</string>
      <string name="sync_traffic_success">Информация о пакетах трафика получена, настройки обновлены</string>
      <string name="text_done">Готово</string>
      <string name="text_save">Сохранить</string>
+	 <string name="traffic_bought">Трафик куплен</string>
      <string name="traffic_none">Н/д</string>
      <string name="traffic_remain">Осталось</string>
      <string name="traffic_settings_error">Ошибка в настройках ежемесячного разрешенного трафика. Согласно вашему оператору, размер вашего трафика: %1$s и осталось: %2$s.</string>

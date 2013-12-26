@@ -70,7 +70,7 @@
         <item>Переключение вкладок</item>
      </string-array>
      <string-array name="pref_homepage_choices">
-        <item>Браузер откроет на эту страницу</item>
+        <item>Стартовая страница</item>
         <item>Другая</item>
      </string-array>
      <string-array name="pref_images_preload_choices">

@@ -261,7 +261,7 @@
      <string name="app_forward_locked">Приложение защищено от копирования</string>
      <string name="app_install_location_summary">Изменить папку для установки приложений</string>
      <string name="app_install_location_title">Место установки</string>
-     <string name="app_log_tab_title">Журнал</string>
+     <string name="app_log_tab_title">Журнал разрешений</string>
      <string name="app_manage_tab_title">Приложения</string>
      <string name="app_name">Безопасность</string>
      <string name="app_name_label">Приложение</string>
@@ -271,10 +271,6 @@
      <string name="app_special_disable_dlg_text">Если отключить встроенное приложение, другие приложения могут работать неправильно. Кроме того, будут удалены все данные.</string>
      <string name="app_special_disable_dlg_title">Отключить?</string>
      <string name="app_uninstall_residual">Удалить остаточные файлы?</string>
-     <!-- The count of MNPS does not match! Now: 1 must: 0
-	%s: 1 must: 0
-	%d: 0 must: 0 -->
-     <!-- Original string: Отключить автозапуск в фоне? -->
      <string name="application_forbid_auto_startup">Отключить запуск %s в фоновом режиме</string>
      <string name="application_info_label">О приложении</string>
      <string name="application_item_already_permission">Разрешено</string>
@@ -2065,7 +2061,7 @@
      <string name="perm_log">Журналы</string>
      <string name="perm_log_clear_content">Все журналы будут удалены. Продолжить?</string>
      <string name="perm_log_clear_title">Очистить журналы</string>
-     <string name="perm_log_empty">Журнал пустой</string>
+     <string name="perm_log_empty">Журнал пуст</string>
      <string name="perm_manage_tab_title">Разрешения</string>
      <string name="perm_mian_name">Разрешения</string>
      <string name="perm_monitored_app">Мониторинг приложений (%1$d)</string>
@@ -2079,7 +2075,7 @@
      <string name="perm_privacy_app_launch">Открыть</string>
      <string name="perm_privacy_app_log">Журналы</string>
      <string name="perm_privacy_app_manage">Подробнее</string>
-     <string name="perm_privacy_app_trust">Доверие приложению</string>
+     <string name="perm_privacy_app_trust">Доверять приложению</string>
      <string name="perm_privacy_app_trust_dialog_content">Система не будет спрашивать Вашего подтверждения на получение доступа к любым операциям, связанных с этим приложением</string>
      <string name="perm_privacy_app_trust_dialog_title">Доверять этому приложению</string>
      <string name="perm_privacy_app_trust_summary">доверенное</string>
