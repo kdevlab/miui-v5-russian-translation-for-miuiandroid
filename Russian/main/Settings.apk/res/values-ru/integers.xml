@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="power_center_low_battery_percent_start">18</integer>
+    <integer name="power_center_low_battery_percent_end">21</integer>
+    <integer name="power_center_on_time_start_time_start">2</integer>
+    <integer name="power_center_on_time_start_time_end">7</integer>
+    <integer name="power_center_on_time_end_time_start">11</integer>
+    <integer name="power_center_on_time_end_time_end">16</integer>
+</resources>
