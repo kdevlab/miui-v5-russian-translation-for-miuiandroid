@@ -197,7 +197,7 @@
     <string name="pause">Пауза</string>
     <string name="paused">Приостановлено</string>
     <string name="download_add_success">Загрузка добавлена</string>
-    <string name="download_add_file_fail">Не удалось создать файл. Недостаточно метса.</string>
+    <string name="download_add_file_fail">Не удалось создать файл. Недостаточно места.</string>
     <string name="download_geturl_fail">Не удалось получить URL. Проверьте сеть.</string>
     <string name="download_fail">Ошибка загрузки</string>
     <string name="key_back_down_toast">Нажмите еще раз, чтобы выйти</string>
