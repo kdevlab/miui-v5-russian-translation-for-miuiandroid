@@ -3,6 +3,8 @@
 <resources>
      <string name="account_not_activated">Аккаунт не активирован. Активируйте и повторите еще раз.</string>
      <string name="activate_now">Активировать</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="ad_indicator">AD</string>
      <string name="all_comments">Все</string>
      <string name="already_bottom">Конец страницы</string>
      <string name="app_comments">Комментарии</string>
@@ -47,8 +49,16 @@
      <string name="comment_upload_not_logined">Пожалуйста, сначала войдите в аккаунт</string>
      <string name="comment_upload_success">Комментарий отправлен!</string>
      <string name="comment_version_name">(версия %1$s)</string>
+     <!-- The count of MNPS does not match! Now: 1 must: 0
+	%s: 1 must: 0
+	%d: 0 must: 0 -->
+     <!-- Original string: Failed to download: Lost network connection -->
      <string name="connect_fail">Ошибка установки %1$s: ошибка соединения, проверьте подключение к сети</string>
      <string name="connect_no_enough_space">Не хватает места для установки приложения. Освободите место и попробуйте снова.</string>
+     <!-- The count of MNPS does not match! Now: 1 must: 0
+	%s: 1 must: 0
+	%d: 0 must: 0 -->
+     <!-- Original string: Failed to download: Unfortunately, there is no installer for your phone -->
      <string name="connect_no_fit_fail">Ошибка установки %1$s: установочный пакет не подходит для вашего телефона</string>
      <string name="connecting">Подключение…</string>
      <string name="data_save_mode_tip">Изображения отключены</string>
@@ -77,15 +87,11 @@
      <string name="diagnostics_local_ip">1. Локальный IP адрес</string>
      <string name="diagnostics_test_download">5. Входящая скорость</string>
      <string name="diagnostics_title">Диагностика сети</string>
-     <!-- The count of MNPS does not match! Now: 0 must: 1
-	%s: 0 must: 1
-	%d: 0 must: 0 -->
-     <!-- Original string: %1$s установка не выполнена: ошибка загрузки -->
      <string name="download_fail">Установка не выполнена: ошибка загрузки</string>
-     <!-- The count of MNPS does not match! Now: 0 must: 1
-	%s: 0 must: 1
+     <!-- The count of MNPS does not match! Now: 1 must: 0
+	%s: 1 must: 0
 	%d: 0 must: 0 -->
-     <!-- Original string: Ошибка установки %1$s: не удается выполнить загрузку -->
+     <!-- Original string: Download failed -->
      <string name="download_start_fail">Ошибка установки %1$s: не удается выполнить загрузку</string>
      <string name="downloading">Пауза</string>
      <string name="edit_comment">Комментарий</string>
@@ -119,22 +125,10 @@
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="install_btn_ok">OK</string>
      <string name="install_earlier">Ранее</string>
-     <!-- The count of MNPS does not match! Now: 0 must: 1
-	%s: 0 must: 1
-	%d: 0 must: 0 -->
-     <!-- Original string: %1$s - ошибка установки -->
      <string name="install_fail">Ошибка установки. Попробуйте снова.</string>
      <string name="install_google_base_message">“%1$s” требует Google Service Framework</string>
      <string name="install_google_base_title">Установка Google Service Framework</string>
-     <!-- The count of MNPS does not match! Now: 0 must: 1
-	%s: 0 must: 1
-	%d: 0 must: 0 -->
-     <!-- Original string: %1$s - ошибка установки -->
      <string name="install_hash_fail">Ошибка установки. Загрузите пакет снова.</string>
-     <!-- The count of MNPS does not match! Now: 0 must: 1
-	%s: 0 must: 1
-	%d: 0 must: 0 -->
-     <!-- Original string: %1$s - ошибка установки -->
      <string name="install_inconsistent_fail">Ошибка подписи. Удалите приложение и попробуйте снова.</string>
      <string name="install_missing_shared_library">В системе отсутствуют необходимые компоненты</string>
      <string name="install_no_network_description">Нет сетевого подключения</string>
@@ -216,12 +210,16 @@
      <string name="notif_description_from_market">из Mi Store</string>
      <string name="notif_install_failed">Сбой установки %1$s</string>
      <string name="notif_install_successful">Установка завершена</string>
+     <!-- The count of MNPS does not match! Now: 1 must: 0
+	%s: 1 must: 0
+	%d: 0 must: 0 -->
+     <!-- Original string: Installed -->
      <string name="notif_install_successful_default">%1$s установлено</string>
      <string name="notif_installing">Установка %1$s…</string>
-	 <string name="notif_summary_auto_update_failed">Ошибка автообновления</string>
+     <string name="notif_summary_auto_update_failed">Ошибка автообновления</string>
      <string name="notif_summary_auto_update_on">Xiaomi App Market будет обновлять приложения автоматически</string>
      <string name="notif_summary_auto_update_successful">Обновлено приложений: %1$s</string>
-	 <string name="notif_title_auto_update_on">Автообновление приложений включено</string>
+     <string name="notif_title_auto_update_on">Автообновление приложений включено</string>
      <string name="notif_title_update">Обновление %1$s</string>
      <string name="notif_update_successful">Обновлено</string>
      <string name="notif_update_successful_default">Обновлено</string>
@@ -236,11 +234,11 @@
      <string name="permission_risky_security">Безопасность</string>
      <string name="permissions_expand_title">Другие разрешения</string>
      <string name="permissions_title">Разрешения для %1$s</string>
-	 <string name="pref_category_title_auto_update">Автообновление приложений</string>
+     <string name="pref_category_title_auto_update">Автообновление приложений</string>
      <string name="pref_category_title_delta_update">Инкрементальные обновления</string>
      <string name="pref_category_title_notification">Настройки уведомлений</string>
      <string name="pref_category_title_other">Разные настройки</string>
-	 <string name="pref_category_title_slient_install">Скрыть уведом. установки</string>
+     <string name="pref_category_title_slient_install">Скрыть уведом. установки</string>
      <string name="pref_category_title_update_all">Обновить все</string>
      <string name="pref_category_title_version">О программе</string>
      <string name="pref_list_auto_update">Автообновление</string>
@@ -256,7 +254,7 @@
      <string name="pref_list_use_staging_server">Использование промежуточного сервера</string>
      <string name="pref_summary_auto_update_via_wifi">Автоматическое обновление по Wi-Fi при заблокированном экране</string>
      <string name="pref_summary_data_save">Не отображать картинки при мобильном интернете</string>
-	 <string name="pref_summary_feature_intro">Узнайте больше о возможностях Xiaomi маркета</string>
+     <string name="pref_summary_feature_intro">Узнайте больше о возможностях Xiaomi маркета</string>
      <string name="pref_summary_web_dev0">Посетите:</string>
      <string name="pref_summary_web_dev1">http://dev.xiaomi.com</string>
      <string name="pref_summary_web_market0">Посетите:</string>
@@ -270,19 +268,19 @@
      <string name="pref_title_clear_search_record">Очистить историю поиска</string>
      <string name="pref_title_clear_session">Очистить сессию</string>
      <string name="pref_title_data_save">Уменьшить использование данных</string>
-	 <string name="pref_title_delta_update">Чтобы уменьшить использование мобильных данных, Xiaomi маркет будет скачивать только отдельные части приложения, которые были обновлены</string>
-     <string name="pref_title_feature_intro">Особые возможности</string>
      <string name="pref_title_data_save_mode">Показывать изображения</string>
+     <string name="pref_title_delta_update">Чтобы уменьшить использование мобильных данных, Xiaomi маркет будет скачивать только отдельные части приложения, которые были обновлены</string>
+     <string name="pref_title_feature_intro">Особые возможности</string>
      <string name="pref_title_hotsubjects_notification">Коллекции</string>
      <string name="pref_title_network_diagnostics">Диагностика сети</string>
      <string name="pref_title_silent_install">Тихая установка</string>
-	 <string name="pref_title_slient_install">Скачиваемые приложения будут установлены без каких-либо всплывающих окнах или уведомлениях</string>
+     <string name="pref_title_slient_install">Скачиваемые приложения будут установлены без каких-либо всплывающих окнах или уведомлениях</string>
      <string name="pref_title_update_all">Чтобы получить все доступные обновления для Ваших приложений в одно касание, перейдите на вкладку Обновления и нажмите Обновить все</string>
      <string name="pref_title_update_notification">Обновления</string>
      <string name="pref_title_update_notify_mode">Уведомления об обновлениях</string>
      <string name="pref_title_update_onlyby_wifi">Обновление только по Wi-Fi</string>
      <string name="pref_title_use_staging">Использовать промежуточный сервер</string>
-	 <string name="pref_title_version">Версия</string>
+     <string name="pref_title_version">Версия</string>
      <string name="pref_title_web_dev">Разработчик</string>
      <string name="pref_title_web_market">Маркет</string>
      <string name="publish_info">%1$s %2$s %3$s</string>
@@ -312,15 +310,19 @@
      <string name="show_all_local_app">Показать все</string>
      <string name="show_all_local_app_with_count">Все приложения (%1$d)</string>
      <string name="show_report_data">Показывать данные отчета</string>
-	 <string name="signature_inconsistent_apps">Противоречивое приложение</string>
+     <string name="signature_inconsistent_apps">Противоречивое приложение</string>
      <string name="signature_inconsistent_message">Приложение имеет противоречивую подпись в маркете. Продолжить обновление?</string>
      <string name="size_interval">%1$d~%2$dM</string>
      <string name="size_more_than_one_hundred">Более 100МБ</string>
+     <!-- The count of MNPS does not match! Now: 1 must: 0
+	%s: 1 must: 0
+	%d: 0 must: 0 -->
+     <!-- Original string: "Failed to update: App signatures don't match" -->
      <string name="system_app_sign_not_match_fail">Ошибка установки %1$s: несовместимая подпись приложения</string>
      <string name="tab_favorites">Избранные</string>
      <string name="tab_local_apps">Телефон</string>
      <string name="temporarily_invalid_report_data">Неверный отчет</string>
-	 <string name="updatable_apps">Обновляемые приложения</string>
+     <string name="updatable_apps">Обновляемые приложения</string>
      <string name="update">Обновить</string>
      <string name="update_all">Обновить все</string>
      <string name="update_date">%3$s, %2$s, %1$s</string>

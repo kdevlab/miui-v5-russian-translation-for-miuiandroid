@@ -146,10 +146,6 @@
      <string name="forward_prefix">"От: "</string>
      <string name="found_old_messages">Найдено сообщений от предыдущего аккаунта: %1$s. Вы хотите загрузить их в текущий аккаунт %2$s?</string>
      <string name="found_old_messages_title">Загрузка сообщений</string>
-     <!-- The count of MNPS does not match! Now: 0 must: 1
-	%s: 0 must: 1
-	%d: 0 must: 0 -->
-     <!-- Original string: В облаке найдено %s сообщений с других SIM-карт. Вы хотите загрузить их? -->
      <string name="found_wild_messages">Загрузить облачные сообщения с других ваших SIM-карт?</string>
      <string name="found_wild_messages_title">Скачка сообщений</string>
      <string name="from_label">"От: "</string>
@@ -380,10 +376,6 @@ SMS (%1$d), MMS (%2$d)"</string>
      <string name="send_signature_confirm_dialog_message">Вы не ввели текст сообщения, вы хотите отправить его только с подписью?</string>
      <string name="send_signature_confirm_dialog_title">Отправить подтверждение</string>
      <string name="send_sms">отправить сообщение</string>
-     <!-- The count of MNPS does not match! Now: 0 must: 1
-	%s: 0 must: 1
-	%d: 0 must: 0 -->
-     <!-- Original string: Для: %1$s -->
      <string name="send_to">Для:</string>
      <string name="send_to_count">Успешно отправлено для %1$s</string>
      <string name="send_to_index_contact">Отправлено %1$s из %2$s</string>

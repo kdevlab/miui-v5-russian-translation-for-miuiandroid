@@ -106,10 +106,6 @@
      <string name="callrecordview_menu_delete_accepted">Удалить входящие вызовы</string>
      <string name="callrecordview_menu_delete_all">Очистить журнал</string>
      <string name="callrecordview_menu_delete_called">Удалить исходящие вызовы</string>
-     <!-- The count of MNPS does not match! Now: 1 must: 0
-	%s: 1 must: 0
-	%d: 0 must: 0 -->
-     <!-- Original string: Очистить журнал вызовов? -->
      <string name="callrecordview_menu_delete_confirm">Удалить %s?</string>
      <string name="callrecordview_menu_delete_missed">Удалить пропущенные вызовы</string>
      <string name="callrecordview_menu_delete_new">Удалить новые контакты</string>

@@ -1730,7 +1730,7 @@
      <string name="menu_stats_refresh">Обновить</string>
      <string name="menu_stats_total">Всего</string>
      <string name="menu_stats_unplugged">%1$s с момента отключения от питания</string>
-	 <string name="miracast_PC2THOR_streaming_on">Miracast недоступен. ПК подключен к этому устройству.</string>
+     <string name="miracast_PC2THOR_streaming_on">Miracast недоступен. ПК подключен к этому устройству.</string>
      <string name="miracast_cancelconnect_dialog">Отмена подключения</string>
      <string name="miracast_connection_failed_generic">Подключение не удалось</string>
      <string name="miracast_dialog_title">%1$s</string>
@@ -1834,6 +1834,8 @@
      <string name="new_bw_list_button">Добавить контакт</string>
      <string name="next_button_label">Далее</string>
      <string name="next_label">Далее</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="nfc_category_title">NFC</string>
      <string name="nfc_p2p_mode">Режим P2P</string>
      <string name="nfc_p2p_mode_summary">Отправить или получить файл</string>
      <string name="nfc_quick_toggle_summary">Разрешить обмен данными при совмещении телефона с другим устройством</string>
@@ -2319,6 +2321,10 @@
 Рекомендуется использовать приложение \"%2$s\"."</string>
      <string name="preferred_application_warning_replace">Заменить</string>
      <string name="preferred_application_warning_title">Замена \"%s\"</string>
+     <!-- The count of MNPS does not match! Now: 0 must: 1
+	%s: 0 must: 1
+	%d: 0 must: 0 -->
+     <!-- Original string: Use default %s -->
      <string name="preferred_application_warning_use_system">Отменить</string>
      <string name="preferred_launcher_title">Выбор рабочего стола</string>
      <string name="preferred_launcher_warning_message">После смены системного рабочего стола, может увеличиться потребление энергии и уменьшиться скорость работы телефона. Рекомендуется использовать рабочий стол по умолчанию.</string>
@@ -3231,17 +3237,9 @@
      <string name="virus_scanner_lib_update_failed">Ошибка обновления</string>
      <string name="virus_scanner_lib_update_success">Вирусная база данных обновлена автоматически</string>
      <string name="virus_scanner_lib_updating">Обновление…</string>
-     <!-- The count of MNPS does not match! Now: 1 must: 0
-	%s: 1 must: 0
-	%d: 0 must: 0 -->
-     <!-- Original string: Нажмите для обновления -->
      <string name="virus_scanner_manual_update">Обновление на %s</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="virus_scanner_module">Tencent</string>
-     <!-- The count of MNPS does not match! Now: 1 must: 0
-	%s: 1 must: 0
-	%d: 0 must: 0 -->
-     <!-- Original string: Поддержка: Xiaomi -->
      <string name="virus_scanner_provider">Разработано: %s</string>
      <string name="virus_scanner_scan">Антивирус</string>
      <string name="virus_scanner_scanning">Проверка приложений на вирусы</string>

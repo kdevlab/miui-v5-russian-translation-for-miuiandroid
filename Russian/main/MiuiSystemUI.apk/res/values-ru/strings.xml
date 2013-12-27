@@ -191,10 +191,6 @@
      <string name="status_bar_date_format">"EEEE
 d MMMM yyyy"</string>
      <string name="status_bar_input_method_settings_configure_input_methods">Настройка методов ввода</string>
-     <!-- The count of MNPS does not match! Now: 3 must: 2
-	%s: 3 must: 2
-	%d: 0 must: 0 -->
-     <!-- Original string: Сегодня: %1$s | Осталось: %2$s -->
      <string name="status_bar_network_flow">Сегодня: %1$s | Осталось: %2$s | Всего: %3$s</string>
      <string name="status_bar_network_flow_exceed">Сегодня: %1$s | Превышение: %2$s | Всего: %3$s</string>
      <string name="status_bar_network_flow_today">Сегодня: %1$s</string>

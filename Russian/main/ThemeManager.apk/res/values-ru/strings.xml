@@ -123,10 +123,6 @@
      <string name="resource_detail_recommend_desiner_themes">темы: %1$s</string>
      <string name="resource_detail_recommend_other_themes">Пользователям также понравилось</string>
      <string name="resource_detail_update_log_title">Обновления</string>
-     <!-- The count of MNPS does not match! Now: 1 must: 0
-	%s: 1 must: 0
-	%d: 0 must: 0 -->
-     <!-- Original string: Информация -->
      <string name="resource_detail_window_title">Информация %1$s</string>
      <string name="resource_download">Скачать</string>
      <string name="resource_downloaded_title">Скачанные</string>

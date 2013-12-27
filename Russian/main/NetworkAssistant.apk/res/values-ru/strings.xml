@@ -147,7 +147,7 @@
      <string name="sync_traffic_success">Информация о пакетах трафика получена, настройки обновлены</string>
      <string name="text_done">Готово</string>
      <string name="text_save">Сохранить</string>
-	 <string name="traffic_bought">Трафик куплен</string>
+     <string name="traffic_bought">Трафик куплен</string>
      <string name="traffic_none">Н/д</string>
      <string name="traffic_remain">Осталось</string>
      <string name="traffic_settings_error">Ошибка в настройках ежемесячного разрешенного трафика. Согласно вашему оператору, размер вашего трафика: %1$s и осталось: %2$s.</string>

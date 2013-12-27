@@ -46,10 +46,6 @@
      <string name="notification_stopped">Запись остановлена</string>
      <string name="notification_warning">Мало памяти (осталось менее %d мин.)…</string>
      <string name="open_file_explorer">Открыть Файлы</string>
-     <!-- The count of MNPS does not match! Now: 0 must: 1
-	%s: 0 must: 1
-	%d: 0 must: 0 -->
-     <!-- Original string: %s уже существует. Вы хотите перезаписать его? -->
      <string name="overwrite_dialog_message">Запись с таким именем уже существует. Хотите переписать ее?</string>
      <string name="pause">пауза</string>
      <string name="play_record">проиграть</string>

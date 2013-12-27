@@ -6,7 +6,7 @@
      <string name="app_name">Платежный сервис</string>
      <string name="balance">Баланс: %1$s MiCredits</string>
      <string name="balance_giftcard_payment">%1$s MiCredits（%2$s-MiCredit подарочная карта）</string>
-	 <string name="balance_no_giftcard_payment">%1$s MiCredits (нельзя использовать подарочную карту для этого заказа)</string>
+     <string name="balance_no_giftcard_payment">%1$s MiCredits (нельзя использовать подарочную карту для этого заказа)</string>
      <string name="balance_payment">%1$s MiCredits</string>
      <string name="bankcall_bank_account">Банковская карта</string>
      <string name="bankcall_call_hint">Вы получите звонок от UnionPay (020-96585) в ближайшее время</string>
@@ -165,24 +165,12 @@
      <string name="msg_error">Ошибка пополнения</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="msg_picker_hint_1_1">1.</string>
-     <!-- The count of MNPS does not match! Now: 2 must: 0
-	%s: 0 must: 0
-	%d: 2 must: 0 -->
-     <!-- Original string: Способ пополнения MiCredits card через SMS стоит дороже (2 юаня = 1 MiCredits) -->
      <string name="msg_picker_hint_1_2">Пополнение через СМС, может быть дороже: &lt;font color=red>%1$d юань = %2$d MiCredit&lt;/font></string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="msg_picker_hint_2_1">2.</string>
-     <!-- The count of MNPS does not match! Now: 1 must: 0
-	%s: 1 must: 0
-	%d: 0 must: 0 -->
-     <!-- Original string: За каждую  SMS взимается плата, согласно тарифу вашего оператора -->
      <string name="msg_picker_hint_2_2">Взимается плата за обслуживание в размере %1$s юань</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="msg_picker_hint_3_1">3.</string>
-     <!-- The count of MNPS does not match! Now: 1 must: 0
-	%s: 1 must: 0
-	%d: 0 must: 0 -->
-     <!-- Original string: Максимальная сумма пополнения 300 юаней в месяц -->
      <string name="msg_picker_hint_3_2">Максимальное месячное пополнение: %1$s юань</string>
      <string name="msg_send_no_net_error">Ошибка отправки сообщения: поставщик услуг недоступен</string>
      <string name="msg_send_no_sim_error">Ошибка отправки сообщения: проверьте SIM-карту</string>
@@ -236,10 +224,6 @@
      <string name="progress_submit_hint">Пополнение будет зачислено в течение 3х минут</string>
      <string name="progress_submit_recharge_summary">Пополнение: %1$s MiCredits</string>
      <string name="progress_submit_title">Запрос подтвержден</string>
-     <!-- The count of MNPS does not match! Now: 2 must: 0
-	%s: 2 must: 0
-	%d: 0 must: 0 -->
-     <!-- Original string: Ваш заказ был успешно оплачен! -->
      <string name="progress_success_pay_summary">Добавлено MiCredits: %1$s, куплено: %2$s MiCredits</string>
      <string name="progress_success_pay_title">Оплата %1$s MiCredit завершена</string>
      <string name="progress_success_recharge_summary">Баланс: %1$s MiCredits</string>
@@ -256,10 +240,6 @@
      <string name="recharge_grid_edit_hint">Размер (юань)</string>
      <string name="recharge_grid_edit_limit">%1$s~%2$s юань</string>
      <string name="recharge_grid_edit_upper_limit">Не может превышать %1$s юань</string>
-     <!-- The count of MNPS does not match! Now: 2 must: 2
-	%s: 2 must: 0
-	%d: 0 must: 2 -->
-     <!-- Original string: Введите корректный размер пополнения (%1$d~%2$dRMB) -->
      <string name="recharge_grid_error_denomination">Введите правильный размер пополнения между %1$s~%2$s юань</string>
      <string name="recharge_grid_picker_hint">Выберите размер пополнения</string>
      <string name="recharge_group_favorite">Используемые методы пополнения</string>

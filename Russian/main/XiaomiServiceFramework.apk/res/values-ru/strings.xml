@@ -279,10 +279,6 @@
      <string name="prepaid_password_edit_hint">Пароль:</string>
      <string name="prepaid_picker_hint_1_2">Одной картой можно пополнить баланс только один раз</string>
      <string name="prepaid_picker_hint_2_2_a">Выбранный номинал должен соответствовать номиналу карты предоплаты, в противном случае это приведет к потере денег. </string>
-     <!-- The count of MNPS does not match! Now: 0 must: 1
-	%s: 0 must: 1
-	%d: 0 must: 0 -->
-     <!-- Original string: Если номинал карты предоплаты составляет не &lt;font color=red>%1$s юань&lt;/font>, то это приведёт к неудачному пополнению счёта и обнулению баланса карты -->
      <string name="prepaid_picker_hint_2_2_b">Если номинал карты предоплаты составляет не </string>
      <string name="prepaid_picker_title_default">Выберите сумму пополнения</string>
      <string name="prepaid_picker_title_selected">сумма пополнения</string>
