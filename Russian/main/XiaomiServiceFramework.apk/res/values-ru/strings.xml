@@ -355,7 +355,7 @@
      <string name="send_sms_for_sync_notice">Для активации нужно отправить SMS. Продолжить?</string>
      <string name="send_sms_for_sync_title">Служба синхронизации не активирована</string>
      <string name="service_error">Ошибка сервиса</string>
-     <string name="show_password">Показ пароля</string>
+     <string name="show_password">Показать пароль</string>
      <string name="sim_changed_notification_content">SIM-карта не активирована. Пожалуйста, активируйте.</string>
      <string name="skip_login">Пропустить</string>
      <string name="skip_login_u"><u>Пропустить</u></string>
@@ -390,9 +390,9 @@
      <string name="updated_nothing">Нет обновлений</string>
      <string name="user_agreement_p1">"Входя в аккаунт, Вы соглашаетесь с
  "</string>
-     <string name="user_agreement_p2">Условиями соглашения Xiaomi</string>
-     <string name="user_agreement_p3"> и  </string>
-     <string name="user_agreement_p4">Политикой безопасности</string>
+     <string name="user_agreement_p2">"Условиями соглашения Xiaomi "</string>
+     <string name="user_agreement_p3">" и "</string>
+     <string name="user_agreement_p4">" Политикой безопасности"</string>
      <string name="user_agreement_p5">"Регистрируясь, Вы соглашаетесь с
  "</string>
      <string name="value">Значение</string>
