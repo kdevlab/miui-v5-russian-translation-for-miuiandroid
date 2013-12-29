@@ -25,9 +25,9 @@
      <string name="contact_detail_calllog_call_note_tips">Заметка о вызове</string>
      <string name="contact_detail_calllog_call_record_tips">Запись вызова</string>
      <string name="custom_mark_category">Пользовательский</string>
-     <string name="data_error">К сожалению, текущая услуга не доступна, повторите попытку позже</string>
+     <string name="data_error">Услуга не доступна. Повторите попытку позже.</string>
      <string name="delete">Удалить</string>
-     <string name="express_inqiury_select_logistics">Выберите курьера</string>
+     <string name="express_inqiury_select_logistics">Выберите службу</string>
      <string name="express_inquiry">Отслеживание</string>
      <string name="express_inquiry_button_text">Отследить</string>
      <string name="express_inquiry_data_owner">Информация отслеживания предоставляется от %s</string>
@@ -39,14 +39,14 @@
      <string name="express_inquiry_indication">Номер отслеживания</string>
      <string name="express_inquiry_internal_failure">"Произошла ошибка.
 Проверьте номер отслеживания."</string>
-     <string name="express_inquiry_logistics_indication">Имя курьера</string>
+     <string name="express_inquiry_logistics_indication">Служба доставки</string>
      <string name="express_inquiry_no_history">Пусто</string>
      <string name="express_inquiry_no_result">Нет результатов</string>
-     <string name="express_inquiry_serial_number_indication">Номер отслеживания</string>
+     <string name="express_inquiry_serial_number_indication">Номер отправления</string>
      <string name="express_inquiry_serial_number_prefix">"Номер: "</string>
      <string name="expresss_inquiry_all_logistics">Все</string>
      <string name="expresss_inquiry_frequently_used_logistics">Частые</string>
-     <string name="login_before_recharging">Необходимо авторизоваться перед пополнением.</string>
+     <string name="login_before_recharging">Необходимо авторизоваться перед пополнением</string>
      <string name="login_before_use">Перед использованием войдите в аккаунт</string>
      <string name="login_ok">Войти</string>
      <string name="mark_number_custom_dialog_maintitle">Согласиться или исправить метку</string>
@@ -101,8 +101,8 @@
      <string name="recharge_order_original_price">RMB%s</string>
      <string name="recharge_order_pay">Оплатить</string>
      <string name="recharge_pay">Пополнить сейчас</string>
-     <string name="recharge_pay_hint">Поддержка предоставлена Xiaomi</string>
-     <string name="recharge_pay_hint_license">Уведомление о пополнении</string>
+     <string name="recharge_pay_hint">При поддержке Xiaomi</string>
+     <string name="recharge_pay_hint_license">соглашение о пополнении</string>
      <string name="recharge_payment_result_failed_summary">Пожалуйста, попробуйте еще раз</string>
      <string name="recharge_payment_result_failed_title">Ошибка пополнения</string>
      <string name="recharge_payment_result_ok_summary">Подтвердите, что эта сумма есть на Вашем счету</string>
@@ -117,7 +117,6 @@
 Всего: %3$s юань."</string>
      <string name="recharge_user_confirm_title">Подтвердить</string>
      <string name="remind_another_time">Не вводите этот номер</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="remind_user_confirm">OK</string>
      <string name="remind_user_suspect_number_message">"Преступники могут украсть номера чужих телефонов. В случае сомнений, пожалуйста, перезвоните, чтобы проверить.
 
@@ -140,8 +139,8 @@
      <string name="turn_on_smart_antispam_summary_on">Идентифицировать неизвестные номера и загружать из сети</string>
      <string name="turn_on_smart_antispam_title">Идентификация номеров</string>
      <string name="unable_send_sms">Не удается отправить сообщение</string>
-     <string name="user_notice_identify_summary_format">Идентификация неизвестных номеров представляет собой интернет-сервис. Пожалуйста, прочитайте %1$s и %2$s перед использованием.</string>
-     <string name="user_notice_yp_detail_summary_format">Частичная информация этой желтой страницы должна быть обновлена ​​в интернете. Пожалуйста, прочитайте %1$s и %2$s. Нажимая \"Принимаю\", Вы соглашаетесь на вышеуказаное содержание и должны соблюдать соглашения, нажмите \"Отмена\" для просмотра кешированной информации.</string>
+     <string name="user_notice_identify_summary_format">Идентификация неизвестных номеров представляет собой интернет-сервис. Прочитайте %1$s и %2$s перед использованием.</string>
+     <string name="user_notice_yp_detail_summary_format">Информация о этой желтой странице должна быть обновлена ​​в интернете. Пожалуйста, прочитайте %1$s и %2$s. Нажимая \"Принимаю\", Вы соглашаетесь с вышеуказанным содержанием, нажмите \"Отмена\" для просмотра кешированной информации.</string>
      <string name="voicemail">Голосовая почта</string>
      <string name="yellow_page_call_log_title">Журнал вызовов</string>
      <string name="yellow_page_detail_title">О программе</string>

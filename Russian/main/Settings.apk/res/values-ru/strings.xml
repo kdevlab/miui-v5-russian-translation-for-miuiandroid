@@ -900,7 +900,7 @@
      <string name="deep_clean_title_cache">Кеш</string>
      <string name="deep_clean_title_large_file">Файлы</string>
      <string name="deep_clean_title_residual">Мусор</string>
-     <string name="deep_cleaning">Дополнительно</string>
+     <string name="deep_cleaning">Еще</string>
      <string name="default_input_method">Выбор метода ввода по умолчанию</string>
      <string name="default_name">По умолчанию</string>
      <string name="default_usb_mode">Режим USB</string>
@@ -929,6 +929,7 @@
      <string name="device_info_not_available">Недоступно</string>
      <string name="device_info_settings">Состояние телефона</string>
      <string name="device_internal_memory">Внутренняя память:</string>
+	 <string name="device_memory">Память RAM:</string>
      <string name="device_miui_version">Версия MIUI:</string>
      <string name="device_name">Имя устройства</string>
      <string name="device_name_input_error">Не удалось сохранить имя устройства, пожалуйста, введите еще ​​раз</string>
@@ -2098,24 +2099,24 @@
      <string name="perm_su_enable_content">"Включение позволит приложениям запрашивать доступ от суперпользователя.
 Внимание: приложения с разрешениями могут вызвать нестабильность системы, потерю персональных данных, повреждение системы или аппаратной части, будьте осторожны. Вы уверены что хотите сделать это?"</string>
      <string name="perm_su_enable_dialog">%1$s пытается получить права суперпользователя, что отключено по умолчанию для обеспечения безопасности системы. Если Вам нужно включить его, пожалуйста перейдите к настройкам в диспетчере разрешений.</string>
-     <string name="perm_su_enable_summary">Приложения смогут получать разрешения суперпользователя</string>
+     <string name="perm_su_enable_summary">Приложения смогут получать права суперпользователя</string>
      <string name="perm_su_enable_title">Суперпользователь</string>
      <string name="perm_su_switch">Суперпользователь</string>
      <string name="perm_summary_disabled">Выкл</string>
      <string name="perm_summary_enabled">Вкл</string>
-     <string name="perm_sysopt_boost_auto_start">Разрешение автозапуска</string>
+     <string name="perm_sysopt_boost_auto_start">Разрешить автозапуск</string>
      <string name="perm_sysopt_boost_auto_start_group">Автозапуск</string>
-     <string name="perm_sysopt_boost_auto_start_summary">Разрешить автозапуск</string>
+     <string name="perm_sysopt_boost_auto_start_summary">Разрешать приложению автозапуск</string>
      <string name="perm_sysopt_boost_boot">При загрузке</string>
      <string name="perm_sysopt_boost_receiver">В фоне</string>
      <string name="perm_system_app">Системных приложений (%d)</string>
      <string name="perm_system_app_label">[Системное приложение]</string>
-     <string name="perm_trusted_app">Надежных приложений (%1$d)</string>
+     <string name="perm_trusted_app">Доверенные приложения (%1$d)</string>
      <string name="perm_update">Обновление программного обеспечения</string>
-     <string name="perm_user_app">Загруженных приложений (%d)</string>
+     <string name="perm_user_app">Загруженных приложений: %d</string>
      <string name="perm_version">Версия: %1$s</string>
      <string name="permission_detail_info">Сведения о разрешениях</string>
-     <string name="permission_detail_info_summary">Разрешения: безопасности %1$d | конфид. %2$d | другие %3$d</string>
+     <string name="permission_detail_info_summary">Безопасность: %1$d, приватность: %2$d, другие: %3$d</string>
      <string name="permission_manage">Управление разрешениями</string>
      <string name="permission_manage_summary">Управление автозапуском, приватностью, разрешениями</string>
      <string name="permission_manage_title">Разрешения %s</string>
@@ -2476,7 +2477,7 @@
      <string name="reset_app_preferences_title">Сбросить настройки приложений?</string>
      <string name="residual_cancel">Отмена</string>
      <string name="residual_clean">Удалить</string>
-     <string name="residual_tips_hints">На SD-карте найдено остаточных файлов: %s</string>
+     <string name="residual_tips_hints">Найдено остаточных файлов: %s</string>
      <string name="restore_default_apn">Восстановление настроек…</string>
      <string name="restore_default_apn_completed">Настройки по умолчанию восстановлены</string>
      <string name="restore_default_settings">Сбросить настройки</string>
