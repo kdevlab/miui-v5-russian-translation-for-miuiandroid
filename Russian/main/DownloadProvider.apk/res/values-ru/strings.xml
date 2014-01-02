@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Builded with CloudBuildr -->
 <resources>
-     <string name="app_label">Диспетчер загрузки</string>
+     <string name="app_label">Диспетчер загрузок</string>
      <string name="auto_restart_under_wifi">Автоматически загрузить этот файл через Wi-Fi</string>
      <string name="button_cancel_download">Отмена</string>
      <string name="button_queue_for_wifi">Добавить в очередь</string>
@@ -28,11 +28,12 @@
      <string name="permlab_downloadManagerAdvanced">Расширенные функции менеджера загрузки</string>
      <string name="permlab_downloadWithoutNotification">загружать файлы без оповещения</string>
      <string name="permlab_seeAllExternal">Просмотреть все загрузки на SD-карту</string>
-     <string name="wifi_recommended_body" formatted="false">"Если загрузить файл сейчас, батарея может быстро разрядиться. Также не исключено превышение трафика и, как результат, увеличение расходов на связь:
+	 <string name="task_already_exist">Загрузка уже существует</string>
+     <string name="wifi_recommended_body" formatted="false">"О загрузке через мобильный интернет：
 
- %s（%s)
+ %s（%s）
 
-Чтобы выполнить загрузку позже через Wi-Fi, нажмите Добавить в очередь"</string>
+Загрузка файла может привести к расходу денежных стредств."</string>
      <string name="wifi_recommended_title">Загрузки</string>
      <string name="wifi_required_body" formatted="false">"Для завершения загрузки файла размером %s необходимо подключение к сети Wi-Fi.
 

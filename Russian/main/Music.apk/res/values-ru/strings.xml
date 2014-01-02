@@ -55,6 +55,8 @@
      <string name="create_equalzier_create_text_prompt">Название профиля</string>
      <string name="create_playlist_create_text_prompt">Название плейлиста</string>
      <string name="custom">Настроить</string>
+	 <string name="data_usage_warning">Мобильный интернет</string>
+     <string name="data_usage_warning_summary">Использование мобильного интернета для потоковой передачи более высококачественной музыки может увеличить затраты денежных стредств</string>
      <string name="delete_file_from_sdcard">Удалить файлы с SD-карты</string>
      <string name="delete_item">Удалить</string>
      <string name="delete_playlist_menu">Удалить</string>
@@ -80,6 +82,7 @@
      <string name="empty_edit_hint">Информация о треке недоступна</string>
      <string name="empty_track_list">Нет списка треков</string>
      <string name="emptyplaylist">Плейлист пуст</string>
+	 <string name="enabled">Включено</string>
      <string name="enter_sleep_mode">Спящий режим</string>
      <string name="eq_auto">Пользовательский</string>
      <string name="eq_blues">Блюз</string>
@@ -99,13 +102,13 @@
      <string name="eq_preset_hint">Пожалуйста, введите имя предустановки</string>
      <string name="eq_preset_rename">Переименовать</string>
      <string name="eq_preset_select">Пожалуйста, выберите пресет</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="eq_rb">R </string>
      <string name="eq_rock">Рок</string>
      <string name="equalizer">Эквалайзер</string>
      <string name="equalizer_delete">Сбросить</string>
      <string name="equalizer_delete_success">Профиль удален</string>
      <string name="equalizer_save_success">Профиль сохранен</string>
+	 <string name="expired">Истекло</string>
      <string name="fade_effect_settings">Эффект затухания</string>
      <string name="fade_effect_summary">Плавное изменение громкости при переключении между треками. Рекомендуется включить.</string>
      <string name="file_not_found">Файл не найден</string>
@@ -124,13 +127,14 @@
      <string name="filter_by_size_prefix">"Минимальный размер: "</string>
      <string name="filter_by_size_summary">Фильтрация файлов слишком маленького размера.</string>
      <string name="filter_notification">Был применен фильтр по размеру. Вы можете изменить его размер в настройках.</string>
-     <string name="find_ktv">Найти KTV</string>
+     <string name="find_ktv">KTV консоль</string>
      <string name="folders_title">"Папки "</string>
      <string name="frequentlyplayed_title">Часто проигрываемые</string>
      <string name="headphone_settings">Настройка типа наушников</string>
      <string name="high_quality">Высокое качество</string>
+	 <string name="higher_quality_music">Музыка высокого качества</string>
+     <string name="higher_quality_music_summary">Слушайте и скачивайте музыку в высоком качестве</string>
      <string name="hot_artists">Популярные исполнители</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="i_know">OK</string>
      <string name="id3_edit">Изменить ID3 информацию</string>
      <string name="id3_edit_failed">Не удалось отредактировать ID3</string>
@@ -177,9 +181,9 @@
      <string name="lyric_open_other_connect">Загрузка текста песен, с помощью мобильного подключения к интернету</string>
      <string name="lyric_picker_not_found">Файловый менеджер, не найден на устройстве</string>
      <string name="mediaplaybacklabel">Музыка</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
+	 <string name="menu_higher_quality_music">Высококачественная музыка (ежемесячно)</string>
      <string name="mi_effect">MiSound</string>
-     <string name="mi_effect_summary">Всегда использовать усилитель MiSound при использовании динамиков</string>
+     <string name="mi_effect_summary">Всегда использовать усилитель MiSound при прослушивании через динамик</string>
      <string name="mi_effect_title">Использовать усилитель MiSound</string>
      <string name="mobile_connect_settings">Мобильная сеть</string>
      <string name="modify_id3_for_list">Будет отредактирована информация ID3 треков из текущего списка</string>
@@ -188,11 +192,12 @@
      <string name="modify_tracks_id3_background">Изменить ID3 выбранного трека в фоновом режиме</string>
      <string name="more">Еще</string>
      <string name="music_browser_label">Музыка</string>
-     <string name="music_filter">Фильтрация музыкальных файлов</string>
+     <string name="music_filter">Фильтрация файлов</string>
      <string name="music_filter_helper">Чтобы скрывать файлы, которые не связаны с музыкой, применяется размер фильтра 800 КБ. Порог можно настроить в меню Настройки/Файловый фильтр.</string>
      <string name="music_not_loaded">Музыка не загружена</string>
      <string name="music_open_other_connect">Скачать музыку с помощью мобильного подключения к интернету</string>
      <string name="music_picker_title">Выберите трек</string>
+	 <string name="music_quality">Качество музыки</string>
      <string name="music_settings">Настройки</string>
      <string name="network_error">Нет подключения к сети. Проверьте сетевые настройки.</string>
      <string name="new_albums">Новые альбомы</string>
@@ -201,7 +206,7 @@
      <string name="new_playlist_name_template">Новый плейлист %d</string>
      <string name="no_effect">Отключен</string>
      <string name="no_song_downloaded">Нет треков для загрузки</string>
-     <string name="normal_quality">Хорошее Качество</string>
+     <string name="normal_quality">Хорошее качество</string>
      <string name="not_login">Войти</string>
      <string name="not_selected">Пожалуйста, выберите трек</string>
      <string name="online_search_hint">Поиск музыки онлайн</string>
@@ -287,8 +292,8 @@
      <string name="shake_degree_high">Высокая</string>
      <string name="shake_degree_low">Низкая</string>
      <string name="shake_settings">Встряхивание</string>
-     <string name="shake_summary">Встряхните устройство для перехода к следующему треку</string>
-     <string name="shake_while_screen_on_title">Переключать при активном экране</string>
+     <string name="shake_summary">Встряхните устройство для переключения трека</string>
+     <string name="shake_while_screen_on_title">При активном экране</string>
      <string name="shake_while_screen_on_title_summary">Переключение возможно только при включенном экране</string>
      <string name="shuffle_all">Перемешать все</string>
      <string name="sort_by_album">Сортировать по альбомам</string>
@@ -311,9 +316,14 @@
      <string name="unknown_artist_name">Неизвестный исполнитель</string>
      <string name="use_local_album">Установить обложку альбома</string>
      <string name="use_local_lyric">Присвоить текст песни</string>
+	 <string name="valid_period">"Действительно : "</string>
+     <string name="vip_bought">Вы уже купили доступ к музыке в высоком качестве</string>
+     <string name="vip_expired">Доступ к музыке в высоком качестве истек</string>
+     <string name="vip_rebuy">Обновить</string>
      <string name="vip_recommend_buy">Купить (5 юаней в месяц)</string>
      <string name="vip_recommend_exchange">Подарочный код</string>
      <string name="vip_recommend_main_title">Неограниченная качественная музыка (320 кбит/c)</string>
+	 <string name="vip_recommend_rebuy">Продолжить (5 MiCredits за 30 дней)</string>
      <string name="vip_recommend_sub_title">Всего 5 юаней в месяц</string>
      <string name="vip_recommend_summary">Слушайте онлайн или скачивайте любимые песни исполнителей в высоком качестве через сервис Baidu Music</string>
      <string name="vip_recommend_title">Высококачественная музыка</string>

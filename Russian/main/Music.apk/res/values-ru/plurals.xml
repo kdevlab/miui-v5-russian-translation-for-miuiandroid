@@ -29,6 +29,13 @@
         <item quantity="other">исполнители</item>
         <item quantity="one">исполнитель</item>
      </plurals>
+	 <plurals name="Nexpiration_reminder">
+        <item quantity="other">Осталось: %d дн.</item>
+        <item quantity="one">Осталось: %d дн.</item>
+     </plurals>
+     <plurals name="Nexpired_remind">
+        <item quantity="other">Осталось: %d дн.</item>
+        <item quantity="one">Осталось: %d дн.</item>
      <plurals name="Nfolders">
         <item quantity="other">" папки"</item>
         <item quantity="one">" папка"</item>
@@ -84,6 +91,9 @@
      <plurals name="Ntracks_total">
         <item quantity="other">Треков: %d</item>
         <item quantity="one">Треков: %d</item>
+     </plurals>
+	 <plurals name="Nvip_expired_remind">
+        <item quantity="other">Доступ к музыке в высоком качестве истекает через %d дн.</item>
      </plurals>
      <plurals name="album_details_format">
         <item quantity="other">%1$s, %2$d треков</item>
