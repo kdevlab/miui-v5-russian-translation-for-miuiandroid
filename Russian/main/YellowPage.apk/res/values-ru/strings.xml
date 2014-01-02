@@ -72,7 +72,7 @@
      <string name="network_unavaliable">Сеть не доступна. Проверьте настройки сети.</string>
      <string name="order_empty_hint">Нет заказов</string>
      <string name="order_id">ID заказа:%s</string>
-     <string name="order_merchant_title">Мои заказы - %s</string>
+     <string name="order_merchant_title">Мои заказы</string>
      <string name="packages_no_package">Нет подходящего пакета трафика</string>
      <string name="packages_pay">Купить</string>
      <string name="packages_pay_confirm">Подтверждаю</string>
