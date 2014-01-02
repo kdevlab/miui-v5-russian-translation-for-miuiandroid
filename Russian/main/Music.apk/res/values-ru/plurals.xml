@@ -36,6 +36,7 @@
      <plurals name="Nexpired_remind">
         <item quantity="other">Осталось: %d дн.</item>
         <item quantity="one">Осталось: %d дн.</item>
+     </plurals>
      <plurals name="Nfolders">
         <item quantity="other">" папки"</item>
         <item quantity="one">" папка"</item>
