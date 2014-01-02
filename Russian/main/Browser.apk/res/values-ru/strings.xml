@@ -300,11 +300,11 @@
      <string name="menu_share_url">Отправить</string>
      <string name="menu_theme_setting">Настройки темы</string>
      <string name="menu_view_download">Загрузки</string>
-     <string name="miui_quicksearch_enable_pref_summary">Включить быстрый поиск</string>
-     <string name="miui_quicksearch_enable_pref_title">Быстрый поиск уведомлений</string>
+     <string name="miui_quicksearch_enable_pref_summary">Включает панель быстрого поиска в уведомлениях</string>
+     <string name="miui_quicksearch_enable_pref_title">Поиск в уведомлениях</string>
      <string name="miui_search_notification_message">Открыть быстрый поиск</string>
      <string name="miui_search_notification_title">Быстрый поиск</string>
-     <string name="modify_download_path_no_sdcard_dlg_msg">Требуется USB накопитель для изменения.</string>
+     <string name="modify_download_path_no_sdcard_dlg_msg">Требуется USB накопитель для изменения</string>
      <string name="move_to_up_folder">на уровень выше</string>
      <string name="multi_select_title">Выбрано %1$s закладок</string>
      <string name="name">Ярлык</string>
@@ -340,7 +340,7 @@
      <string name="popup_window_attempt">Открыть всплывающее окно с этого сайта?</string>
      <string name="pref_accessibility_title">Спец. возможности</string>
      <string name="pref_accessibility_url_shortcut_enter_summary">При вводе в адресную строку, общие комбинациями букв могут быть введены в одно нажатие</string>
-     <string name="pref_accessibility_url_shortcut_enter_title">Быстрый ввод URL</string>
+     <string name="pref_accessibility_url_shortcut_enter_title">Быстрый ввод ссылок</string>
      <string name="pref_allow_apptabs">Разрешить несколько вкладок в приложении</string>
      <string name="pref_autofill_enabled">Автозаполнение форм</string>
      <string name="pref_autofill_enabled_summary">Быстрое заполнение веб-форм</string>
@@ -355,7 +355,7 @@
      <string name="pref_content_auto_light_mode">автоматическая яркость</string>
      <string name="pref_content_autofit">Мобильный вид</string>
      <string name="pref_content_autofit_summary">Подгонять веб-страницы под размер экрана</string>
-     <string name="pref_content_block_float_popups">Блокировать всплывающие окна</string>
+     <string name="pref_content_block_float_popups">Блокировать плавающие окна</string>
      <string name="pref_content_block_popups">Блокировать всплывающие окна</string>
      <string name="pref_content_fontsize_setting">Настройки шрифта</string>
      <string name="pref_content_homepage">Стартовая страница</string>
@@ -397,7 +397,7 @@
      <string name="pref_development_viewport">Широкий экран</string>
      <string name="pref_development_visual_indicator">Включить визуальный индикатор</string>
      <string name="pref_exit_on_closing_last_tab_enabled_title">Закрытие вкладок</string>
-     <string name="pref_extras_reset_default">Сброс настроек</string>
+     <string name="pref_extras_reset_default">Сбросить настройки</string>
      <string name="pref_extras_reset_default_dlg">Восстановить настройки по умолчанию?</string>
      <string name="pref_extras_reset_default_summary">Восстановить значения по умолчанию</string>
      <string name="pref_extras_reset_default_title">Сброс настроек</string>
@@ -444,7 +444,7 @@
      <string name="pref_link_prefetch_title">Загрузка веб-страниц</string>
      <string name="pref_link_prefetch_value_never_summary">Запрещать браузеру предварительно загружать веб-страницы в фоновом режиме.</string>
      <string name="pref_min_font_size">Минимальный размер шрифта</string>
-     <string name="pref_min_font_size_value">%d pt</string>
+     <string name="pref_min_font_size_value">%d %</string>
      <string name="pref_privacy_clear_cache">Очистить кэш</string>
      <string name="pref_privacy_clear_cache_dlg">Удалить контент и базы данных, сохраненные локально?</string>
      <string name="pref_privacy_clear_cache_summary">Удалить контент и данные, сохраненные браузером</string>
