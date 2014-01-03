@@ -2,7 +2,7 @@
 <!-- Builded with CloudBuildr -->
 <resources>
      <string-array name="alphabet_table">
-        <item>\u0020</item>
+        <item>" "</item>
         <item>A</item>
         <item>B</item>
         <item>C</item>
