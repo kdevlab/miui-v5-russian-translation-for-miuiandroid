@@ -2299,11 +2299,7 @@
      <string name="power_usage_summary">На что расходуется заряд батареи</string>
      <string name="power_usage_summary_title">Батарея</string>
      <string name="power_used_hours">ч.</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="power_used_hours_test">8</string>
      <string name="power_used_mins">мин.</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="power_used_mins_test">23</string>
      <string name="power_used_prefix">Используется</string>
      <string name="power_wifi">Wi-Fi</string>
      <string name="pref_button_light">Подсветка клавиш</string>
@@ -3526,7 +3522,7 @@
      <string name="wifi_security_wapi_psk">WAPI PSK</string>
      <string name="wifi_setting_frequency_band_error">При настройке полосы частот возникла неполадка</string>
      <string name="wifi_setting_frequency_band_summary">Укажите рабочий диапазон частот</string>
-     <string name="wifi_setting_frequency_band_title">Диапазон частот Wi-Fi</string>
+     <string name="wifi_setting_frequency_band_title">Диапазон частот</string>
      <string name="wifi_setting_sleep_policy_error">Не удалось изменить этот параметр</string>
      <string name="wifi_setting_sleep_policy_title">Wi-Fi в спящем режиме</string>
      <string name="wifi_settings">Wi-Fi</string>
@@ -3681,7 +3677,7 @@
      <string name="window_animation_scale_title">Масштаб анимаций окон</string>
      <string name="wireless_networks_settings_title">Беспроводные сети</string>
      <string name="work_done">Готово</string>
-     <string name="wps_category">Безопасное и быстрое подключение</string>
+     <string name="wps_category">Безопасное подключение</string>
      <string name="wps_connect_summary">Убедитесь, что беспроводной маршрутизатор WPS активен</string>
      <string name="wps_connect_title">WPS связь</string>
      <string name="xiaomi_account">Аккаунт Xiaomi</string>

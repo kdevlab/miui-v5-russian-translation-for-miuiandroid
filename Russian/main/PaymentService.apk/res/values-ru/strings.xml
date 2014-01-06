@@ -51,7 +51,7 @@
      <string name="btn_wait_call">Ожидание…</string>
      <string name="btn_wait_call_count">Ожидание (%1$s)</string>
      <string name="btn_wait_confirm">Ожидание</string>
-     <string name="btn_wait_confirm_count">Ожидание （%1$s）</string>
+     <string name="btn_wait_confirm_count">Ожидание "%1$s"</string>
      <string name="button_call">Звонок</string>
      <string name="button_cancel">Отмена</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
@@ -74,13 +74,13 @@
      <string name="detail_giftcard_theme">Покупка тем</string>
      <string name="detail_giftcard_title">Сведения о карте</string>
      <string name="detail_giftcard_total">Всего карт</string>
-     <string name="detail_pay_account">ID платежа</string>
-     <string name="detail_recharge_account">ID пополнения</string>
+     <string name="detail_pay_account">Аккаунт</string>
+     <string name="detail_recharge_account">Аккаунт</string>
      <string name="detail_recharge_amount">Сумма</string>
      <string name="detail_recharge_method">Метод</string>
-     <string name="detail_recharge_order">Номер заказа пополнения</string>
+     <string name="detail_recharge_order">Номер заказа</string>
      <string name="detail_recharge_time">Время</string>
-     <string name="detail_recharge_title">Записи поплнения</string>
+     <string name="detail_recharge_title">Пополнения</string>
      <string name="error_account_changed_summary">"Изменилась информация об аккаунте.
 Пожалуйста, войдите занова."</string>
      <string name="error_account_changed_title">Аккаунт изменен</string>
@@ -260,9 +260,9 @@
      <string name="security_setting">Настройки безопасности</string>
      <string name="summary_lockpattern">Защита Micredit ключем блокировки</string>
      <string name="title_change_lockpattern">Сменить ключ</string>
-     <string name="title_discounts">Скидки</string>
+     <string name="title_discounts">Акции и скидки</string>
      <string name="title_gesture">Графический ключ</string>
-     <string name="title_giftcard">Акции</string>
+     <string name="title_giftcard">Подарочные карты</string>
      <string name="title_lockpattern">Включить блокировку</string>
      <string name="title_mili_center">Мои MiCredits</string>
      <string name="title_myaccount">Мой аккаунт: %s</string>
@@ -272,8 +272,8 @@
      <string name="title_password_threshold">Суточный лимит = %1$s юань</string>
      <string name="title_pay_record">История платежей</string>
      <string name="title_recharge">Пополнить MiCredits</string>
-     <string name="title_recharge_record">История пополнений</string>
-     <string name="title_transaction">Операции</string>
+     <string name="title_recharge_record">Пополнения</string>
+     <string name="title_transaction">Мои операции</string>
      <string name="title_visible_pattern">Сделать шаблон видимым</string>
      <string name="voucher_edit_hint">Код</string>
      <string name="voucher_edit_limit">знаков</string>

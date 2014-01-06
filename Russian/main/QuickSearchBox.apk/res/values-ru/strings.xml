@@ -5,10 +5,10 @@
      <string name="clear_shortcuts">Очистить историю поиска</string>
      <string name="clear_shortcuts_agree">Очистить</string>
      <string name="clear_shortcuts_disagree">Отмена</string>
-     <string name="clear_shortcuts_prompt">Вся история поисковых запросов будет очищена (чтобы очистить историю Браузера, воспользуйтесь настройками Браузера)</string>
+     <string name="clear_shortcuts_prompt">Вся история поисковых запросов будет очищена (чтобы очистить историю браузера, воспользуйтесь настройками браузера)</string>
      <string name="clear_shortcuts_summary">Очистка истории всех поисковых запросов</string>
      <string name="corpus_description_apps">Названия приложений</string>
-     <string name="corpus_description_web">Интернет, закладки и история Браузера</string>
+     <string name="corpus_description_web">Интернет, закладки и история браузера</string>
      <string name="corpus_hint_apps">Поиск приложений</string>
      <string name="corpus_label_apps">Приложения</string>
      <string name="corpus_label_global">Везде</string>
