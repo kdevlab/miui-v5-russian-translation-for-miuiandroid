@@ -1504,7 +1504,6 @@
      <string name="wday1_date1_time1_wday2_date2_time2">%3$s, %1$s, %2$s - %6$s, %4$s, %5$s</string>
      <string name="wday1_date1_wday2_date2">%1$s, %2$s - %4$s, %5$s</string>
      <string name="wday_date">%2$s, %3$s</string>
-     <string name="web_user_agent_target_content">"Мобильный "</string>
      <string name="webpage_unresponsive">"Страница не отвечает.
 
 Закрыть ее?"</string>

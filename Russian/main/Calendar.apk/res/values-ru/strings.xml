@@ -97,6 +97,12 @@
      <string name="gadget_no_events">Нет предстоящих мероприятий</string>
      <string name="gadget_title">Календарь</string>
      <string name="goto_today">Сегодня</string>
+	 <string name="gou_piao_event_title">Напоминание поездки %s</string>
+     <string name="gou_piao_item1">Напомнить мне о времени для поездов</string>
+     <string name="gou_piao_item2">Бронирование по телефону 12306</string>
+     <string name="gou_piao_item3">Купка билетов по телефону 12306</string>
+     <string name="gou_piao_website_start_time">Покупка %s онлайн или по телефону</string>
+     <string name="gou_piao_window_start_time">Билеты можно приобрести на станции %s</string>
      <string name="hide_controls">Скрыть элементы управления</string>
      <string name="hint_attendees">Адреса электронной почты</string>
      <string name="hint_description">Описание мероприятия</string>
@@ -130,12 +136,12 @@
      <string name="prefDialogTitle_vibrateWhen">Вибрация</string>
      <string name="preferences_about_title">О программе</string>
      <string name="preferences_alerts_popup_title">Всплывающее уведомление</string>
-     <string name="preferences_alerts_ringtone_title">Мелодия</string>
+     <string name="preferences_alerts_ringtone_title">Мелодия уведомления</string>
      <string name="preferences_alerts_title">Уведомления</string>
      <string name="preferences_alerts_vibrateWhen_title">Вибрация</string>
      <string name="preferences_build_version">Версия сборки</string>
      <string name="preferences_category_account_title">Аккаунт</string>
-     <string name="preferences_category_general_title">Общие</string>
+     <string name="preferences_category_general_title">Общие настройки</string>
      <string name="preferences_clear_search_history_summary">Удалить информацию обо всех выполненных поисковых запросах</string>
      <string name="preferences_clear_search_history_title">Очистить историю поиска</string>
      <string name="preferences_default_reminder_dialog">Время напоминания</string>
@@ -178,6 +184,7 @@
      <string name="show_almanac">Показывать альманах</string>
      <string name="show_controls">Показать элементы управления</string>
      <string name="show_day_view">Показать день</string>
+	 <string name="show_gou_piao">Показывать календарь билетов</string>
      <string name="show_newer_events">Нажмите для поиска других мероприятий после %1$s</string>
      <string name="show_older_events">Нажмите для поиска других мероприятий до %1$s</string>
      <string name="snooze_all_label">Отложить все</string>

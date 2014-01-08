@@ -14,8 +14,8 @@
         <item quantity="one">Трек добавлен в плейлист</item>
      </plurals>
      <plurals name="NTrackstoDownload">
-        <item quantity="other">Треков загружено: %d</item>
-        <item quantity="one">Трек загружен</item>
+        <item quantity="other">Треков будет загружено: %d</item>
+        <item quantity="one">Трек будет загружен</item>
      </plurals>
      <plurals name="Nalbums">
         <item quantity="other">альбомы</item>
@@ -23,11 +23,19 @@
      </plurals>
      <plurals name="Nalbums_format">
         <item quantity="other">Альбомов: %d</item>
-        <item quantity="one">Альбомов: 1</item>
+        <item quantity="one">Альбомов: %d</item>
      </plurals>
      <plurals name="Nartists">
         <item quantity="other">исполнители</item>
         <item quantity="one">исполнитель</item>
+     </plurals>
+	 <plurals name="Nexpiration_reminder">
+        <item quantity="other">Осталось: %d дн.</item>
+        <item quantity="one">Осталось: %d дн.</item>
+     </plurals>
+     <plurals name="Nexpired_remind">
+        <item quantity="other">Осталось: %d дн.</item>
+        <item quantity="one">Осталось: %d дн.</item>
      </plurals>
      <plurals name="Nfolders">
         <item quantity="other">" папки"</item>
@@ -55,7 +63,7 @@
      </plurals>
      <plurals name="Ntrack_in_sdcard_format">
         <item quantity="other">Треков на SD-карте: %d</item>
-        <item quantity="one">Треков на SD-карте: 1</item>
+        <item quantity="one">Треков на SD-карте: %d</item>
      </plurals>
      <plurals name="Ntracks">
         <item quantity="other">треки</item>
@@ -63,7 +71,7 @@
      </plurals>
      <plurals name="Ntracks_format">
         <item quantity="other">Треков: %d</item>
-        <item quantity="one">Треков: 1</item>
+        <item quantity="one">Треков: %d</item>
      </plurals>
      <plurals name="Ntracks_remove_from_favorite_playlist">
         <item quantity="other">Треков удалено из плейлиста: %d</item>
@@ -84,6 +92,9 @@
      <plurals name="Ntracks_total">
         <item quantity="other">Треков: %d</item>
         <item quantity="one">Треков: %d</item>
+     </plurals>
+	 <plurals name="Nvip_expired_remind">
+        <item quantity="other">Доступ к музыке в высоком качестве истекает через %d дн.</item>
      </plurals>
      <plurals name="album_details_format">
         <item quantity="other">%1$s, %2$d треков</item>

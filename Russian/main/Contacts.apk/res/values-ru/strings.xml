@@ -214,10 +214,10 @@
      <string name="delete_dial_input">удалить</string>
      <string name="delete_duplicate">Объединить</string>
      <string name="delete_duplicate_message">Объединение контактов…</string>
-     <string name="delete_group_dialog_message">Удалить группу \"%1$s\"? (контакты в ней удалены не будут)</string>
+     <string name="delete_group_dialog_message">Удалить группу \"%1$s\"? (контакты останутся)</string>
      <string name="delete_group_dialog_title">Удаление группы</string>
      <string name="delete_selected_sim_entry_miui">Удалить выбранные контакты</string>
-     <string name="delete_sim_entries_finish">Контакты с SIM удалены</string>
+     <string name="delete_sim_entries_finish">Контакты с SIM-карты удалены</string>
      <string name="delete_sim_entry_miui">Удалить</string>
      <string name="delete_unknown_contact_calllog_title">Удалить журнал вызовов неизвестных контактов?</string>
      <string name="deleting">Удаление…</string>
@@ -993,7 +993,7 @@
      <string name="simContacts_airplaneMode">Отключите режим полета для импорта контактов с SIM-карты</string>
      <string name="simContacts_empty">Нет контактов на SIM-карте</string>
      <string name="simContacts_emptyLoading">Загрузка контактов с SIM-карты…</string>
-     <string name="simContacts_title">Контакты на SIM-карте</string>
+     <string name="simContacts_title">На SIM-карте</string>
      <string name="sim_capacity">Размер SIM-карты</string>
      <string name="sim_capacity_content" formatted="false">Всего %d, использовано %d</string>
      <string name="sim_card_no_free_space_message">Память SIM-карты заполнена. Пожалуйста, очистите SIM карту и попробуйте еще раз.</string>
@@ -1019,19 +1019,19 @@
      <string name="sim_invalid">Невозможно сохранить контакт, когда SIM-карта недоступна.</string>
      <string name="sim_invalid_fix_number">Невозможно сохранить неверный номер</string>
      <string name="sim_invalid_number">Невозможно сохранить неверный номер</string>
-     <string name="sim_no_contact">Нет контактов на SIM-карте</string>
+     <string name="sim_no_contact">Нет контактов</string>
      <string name="single_group_list_empty">Нет контактов в группе</string>
      <string name="smart_group_company_label">По компаниям</string>
-     <string name="smart_group_company_unavailable">Другие</string>
+     <string name="smart_group_company_unavailable">Без компании</string>
      <string name="smart_group_frequency_1">В течение месяца</string>
      <string name="smart_group_frequency_2">В течение 3 месяцев</string>
      <string name="smart_group_frequency_3">В течение 6 месяцев</string>
-     <string name="smart_group_frequency_4">Не было контакта в течение более 6 месяцев</string>
+     <string name="smart_group_frequency_4">Более 6 месяцев</string>
      <string name="smart_group_frequency_label">По последним вызовам</string>
      <string name="smart_group_label">Смарт-группировка</string>
      <string name="smart_group_loading">Загрузка групп…</string>
      <string name="smart_group_location_label">По месторасположению</string>
-     <string name="smart_group_location_unavailable">Другие</string>
+     <string name="smart_group_location_unavailable">Без адреса</string>
      <string name="sms">Текстовое сообщение</string>
      <string name="sms_assistant">Отправить текстовое сообщение на номер %s</string>
      <string name="sms_callback">SMS: номер обратного вызова</string>
@@ -1138,6 +1138,7 @@
      <string name="wipe_data">Очистить данные</string>
      <string name="yellowPageNavigationIconLabel">Сервисы</string>
      <string name="yellowPageNavigationLabel">Сервисы</string>
+	 <string name="yellowpage_navigation_menu_order">Мой заказ</string>
      <string name="yellowpage_navigation_no_content">Ничего не найдено</string>
      <string name="yellowpage_navigation_search_city_name_hint">Город</string>
      <string name="yellowpage_navigation_search_hint">Поиск</string>
