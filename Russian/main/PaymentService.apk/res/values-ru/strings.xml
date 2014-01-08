@@ -188,6 +188,7 @@
      <string name="onemore_click_exit">Нажмите еще раз для выхода</string>
      <string name="order_price">%1$s MiCredits</string>
      <string name="password_error">Неверный пароль</string>
+	 <string name="password_forget">Забыли пароль?</string>
      <string name="password_hint">Введите пароль от аккаунта</string>
      <string name="pay_record_empty">Нет записей</string>
      <string name="pay_record_typeall">Все</string>

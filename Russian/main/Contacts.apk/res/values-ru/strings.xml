@@ -405,15 +405,16 @@
      <string name="groupSavedToast">Группа сохранена</string>
      <string name="group_add_fail_toast">Ошибка добавления контаков</string>
      <string name="group_create_fail_toast">Не удалось создать группу</string>
-     <string name="group_create_success_toast">Группа успешно создана</string>
-     <string name="group_delete_success_toast">Группа успешно удалена</string>
+     <string name="group_create_success_toast">Группа создана</string>
+     <string name="group_delete_success_toast">Группа удалена</string>
      <string name="group_edit_field_hint_text">Название группы</string>
-     <string name="group_member_remove_toast">Контакт успешно удален из группы</string>
+     <string name="group_member_remove_toast">Контакт удален из группы</string>
+	 <string name="group_name">Мои группы</string>
      <string name="group_name_hint">Название группы</string>
      <string name="group_read_only">Здесь доступно только для чтения</string>
      <string name="group_rename_dialog_title">Переименование группы</string>
      <string name="group_rename_fail_toast">Не удалось переименовать группу</string>
-     <string name="group_rename_success_toast">Группа успешно переименована</string>
+     <string name="group_rename_success_toast">Группа переименована</string>
      <string name="group_sms_progress_msg">Подготовка к групповой отправке SMS…</string>
      <string name="groupsLabel">Группы</string>
      <string name="groups_list_empty">Нет групп</string>
@@ -813,6 +814,7 @@
      <string name="resource_alarm_default">Будильник</string>
      <string name="resource_app_name">Браузер ресурсов</string>
      <string name="resource_apply">Применить</string>
+	 <string name="resource_apply_trial">Попробовать</string>
      <string name="resource_buy">Купить</string>
      <string name="resource_can_not_selected">%1$s не может быть выбран!</string>
      <string name="resource_category">Категории</string>
@@ -868,10 +870,10 @@
      <string name="resource_detail_update_log_title">Обновления</string>
      <string name="resource_detail_window_title">Информация %1$s</string>
      <string name="resource_download">Скачать</string>
+	 <string name="resource_download_trial">Попробовать</string>
      <string name="resource_downloaded_title">Скачанные</string>
      <string name="resource_downloading">Скачивание</string>
      <string name="resource_exchange">Принять</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="resource_exchange_confirm">OK</string>
      <string name="resource_exchange_empty_format">Введите код!</string>
      <string name="resource_exchange_has_bought">Вы уже купили эту тему</string>
@@ -895,8 +897,8 @@
      <string name="resource_get_auth_exceed_max_limit_title">Превышен предел авторизаций</string>
      <string name="resource_get_auth_missing">Тема скачана с неофициального маркета. Пожалуйста, скачайте аналогичную тему из официального маркета.</string>
      <string name="resource_get_auth_retrieving">Получение авторизации…</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="resource_hint">Alert</string>
+	 <string name="resource_hint">Внимание</string>
+	 <string name="resource_import_failed">Ошибка импорта</string>
      <string name="resource_import_successful">Скачано</string>
      <string name="resource_importing">Импорт…</string>
      <string name="resource_list_title">Последние</string>
@@ -906,6 +908,7 @@
      <string name="resource_my">Локально</string>
      <string name="resource_no_result">Нет результатов</string>
      <string name="resource_notification_default">Уведомления</string>
+	 <string name="resource_on_trial">Триал: %1$s</string>
      <string name="resource_online">Онлайн %1$s</string>
      <string name="resource_pack_confirm">Вы уже приобрели %1$d элементов. Но текущая цена имеет скидку, чем покупка по отдельности. Продолжить?</string>
      <string name="resource_pack_discount_info">%1$s скидка!</string>
@@ -921,6 +924,7 @@
      <string name="resource_ranking_free">Бесплатные</string>
      <string name="resource_ranking_purchase">Платные</string>
      <string name="resource_ringtone_default">Мелодии</string>
+	 <string name="resource_ringtone_playing_error">ошибка проигрывания</string>
      <string name="resource_ringtone_volume_mute">Громкость мелодии отключена</string>
      <string name="resource_save_to_note">Сохранить в заметки</string>
      <string name="resource_see_more">Подробнее</string>
@@ -937,11 +941,15 @@
      <string name="resource_tip_select_ringtone">Мелодия не выбрана</string>
      <string name="resource_title">Сведения</string>
      <string name="resource_title_select_ringtone">Выберите мелодию</string>
+	 <string name="resource_trial_end_message">Пробное время использования %1$s закончилось. Купите, если Вам понравилось :)</string>
+     <string name="resource_trial_end_purchase">Купить</string>
+     <string name="resource_trial_end_restore">Отмена</string>
+     <string name="resource_trial_end_title">Пробное время вышло</string>
+     <string name="resource_trial_time">(до окончания %1$d мин.)</string>
      <string name="resource_unable_to_access">"К сожалению,
 контент который Вы сейчас смотрите, в настоящее время недоступен в Вашем регионе"</string>
      <string name="resource_unknow_error">Неизвестная ошибка</string>
      <string name="resource_update">Обн.</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="resource_user_know">OK</string>
      <string name="resource_waiting_download">Ожидание</string>
      <string name="restore_nickname">Восстановить</string>
