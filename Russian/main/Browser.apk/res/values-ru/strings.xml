@@ -444,7 +444,6 @@
      <string name="pref_link_prefetch_title">Загрузка веб-страниц</string>
      <string name="pref_link_prefetch_value_never_summary">Запрещать браузеру предварительно загружать веб-страницы в фоновом режиме.</string>
      <string name="pref_min_font_size">Минимальный размер шрифта</string>
-     <string name="pref_min_font_size_value">%d pt</string>
      <string name="pref_privacy_clear_cache">Очистить кэш</string>
      <string name="pref_privacy_clear_cache_dlg">Удалить контент и базы данных, сохраненные локально?</string>
      <string name="pref_privacy_clear_cache_summary">Удалить контент и данные, сохраненные браузером</string>
