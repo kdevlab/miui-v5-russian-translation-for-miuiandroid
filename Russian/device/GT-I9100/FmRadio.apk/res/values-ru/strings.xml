@@ -1,7 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <!--Translated by KDev Group (main repository)-->
-  <!--Fixed, merged and deleted duplicates by KDG Translation Suite-->
   <string name="AF_Threshold">Установить порог AF (INT)</string>
   <string name="AF_Valid_Threshold">Установить действующий AF порог (int)</string>
   <string name="APKTOOL_DUMMY_00d6">false</string>
@@ -57,7 +55,7 @@
   <string name="desc_volume">Громкость</string>
   <string name="dialog_all_items_deleted">Все элементы будут удалены</string>
   <string name="dialog_autoscan">Автосканирование</string>
-  <string name="dialog_cancel_scan">Отмена...</string>
+  <string name="dialog_cancel_scan">Отмена…</string>
   <string name="dialog_channel_found">%1$d.%2$d MHz канал найден. Всего найдено каналов %3$d.</string>
   <string name="dialog_channel_found_south_region">%1$s MHz канал найден. Всего найдено каналов %2$d.</string>
   <string name="dialog_channel_one_found">%1$d.%2$d MHz канал найден. Всего найден 1 канал.</string>
@@ -68,8 +66,8 @@
   <string name="dialog_multiple_items_deleted">%1$d элементов будут удалено</string>
   <string name="dialog_new_file_name">Новое имя файла</string>
   <string name="dialog_one_item_deleted">Этот элемент будет удален</string>
-  <string name="dialog_processing">Обработка, подождите...</string>
-  <string name="dialog_scan">Сканирование...</string>
+  <string name="dialog_processing">Обработка, подождите…</string>
+  <string name="dialog_scan">Сканирование…</string>
   <string name="dialog_selected_recorded_file_deleted">Выбранный записанный файл будет удален</string>
   <string name="dialog_selected_recorded_files_deleted">Выбранные записанные файлы будут удалены</string>
   <string name="dialog_station_name">Название станции</string>
@@ -104,13 +102,13 @@
   <string name="number_2">2</string>
   <string name="number_30">30</string>
   <string name="ok">OK</string>
-  <string name="playing">Воспроизведение...</string>
+  <string name="playing">Воспроизведение…</string>
   <string name="record">Запись</string>
   <string name="record_filename">fmrecord</string>
   <string name="recorded_files">Записанные файлы</string>
-  <string name="recording">Запись...</string>
+  <string name="recording">Запись…</string>
   <string name="recording_error">Ошибка файла</string>
-  <string name="recording_volume_control">Регулировка громкости не доступна во время записи</string>
+  <string name="recording_volume_control">Регулировка громкости недоступна во время записи</string>
   <string name="recording_will_be_cancelled">Запись будет отменена и файл не будет сохранен</string>
   <string name="recordingfile">Записанные файлы</string>
   <string name="remove">Удалить</string>
@@ -123,7 +121,7 @@
   <string name="scan">Сканировать</string>
   <string name="scan_channels">Сканирование каналов</string>
   <string name="scan_result">Результат</string>
-  <string name="seeking">Поиск...</string>
+  <string name="seeking">Поиск…</string>
   <string name="selectall">Выбрать все</string>
   <string name="setting_15min">Через 15 мин.</string>
   <string name="setting_2hour">Через 2 часа</string>
@@ -187,16 +185,16 @@
   <string name="toast_already_added">Эта частота уже существует</string>
   <string name="toast_already_exist">Уже существует</string>
   <string name="toast_already_playing">Сейчас играет %1$d.%2$d MHz</string>
-  <string name="toast_already_scan">Еще сканирую...</string>
+  <string name="toast_already_scan">Еще сканирую…</string>
   <string name="toast_battery_low">Не удается запустить приложение. Низкий уровень заряда батареи.</string>
-  <string name="toast_busy_tunning">Заната. Настройки...</string>
+  <string name="toast_busy_tunning">Заната. Настройки…</string>
   <string name="toast_channel_empty">Нет станций</string>
   <string name="toast_channel_found">%1$d %1$d.%2$d MHz канал найден. Всего найдено каналов %3$d.</string>
   <string name="toast_channel_invalid">Неверная частота</string>
   <string name="toast_disabled">%1$s отключен</string>
   <string name="toast_earphone_not_connected">Наушники не подключены</string>
   <string name="toast_fm_not_played">Невозможно включить Радио</string>
-  <string name="toast_initial_access">Запуск автосканирования...</string>
+  <string name="toast_initial_access">Запуск автосканирования…</string>
   <string name="toast_invalid_character">недопустимый символ</string>
   <string name="toast_max_favorite">Достигнуто максимальное количество любимых станций (12). Удалите некоторые станции.</string>
   <string name="toast_name_empty">Имя пусто</string>
@@ -208,14 +206,14 @@
   <string name="toast_saved">Сохранено</string>
   <string name="toast_tap_to_remove">Нажмите, чтобы удалить частоты</string>
   <string name="toast_tap_to_rename">Нажмите чтобы переименовать</string>
-  <string name="toast_tune">Настройка на %1$d.%2$d MHz...</string>
+  <string name="toast_tune">Настройка на %1$d.%2$d MHz…</string>
   <string name="toast_unable_scan">Невозможно сканировать во время записи</string>
   <string name="toast_unavailable_in_tvout_mode">Недоступно в ТВ-режиме</string>
   <string name="toast_up_to_n_characters">Доступно %d символов</string>
   <string name="tts_Next_button">След.</string>
   <string name="tts_play_button">Играть</string>
   <string name="tts_previous_button">Пред.</string>
-  <string name="turning_on">Включение...</string>
+  <string name="turning_on">Включение…</string>
   <string name="unable_delete">Не удается удалить</string>
   <string name="unable_to_play_radio_during_call">Не удается воспроизвести радио во время вызова</string>
   <string name="usa_region">США</string>

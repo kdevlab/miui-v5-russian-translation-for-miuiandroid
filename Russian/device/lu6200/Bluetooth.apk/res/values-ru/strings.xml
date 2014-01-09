@@ -1,7 +1,5 @@
-<?xml version='1.0' encoding='UTF-8'?>
+﻿<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <!--Translated by KDev Group (main repository)-->
-  <!--Fixed, merged and deleted duplicates by KDG Translation Suite-->
   <string name="ErrorCanceled">Передача отменена.</string>
   <string name="ErrorTooManyRequests">Обрабатывается слишком много запросов. Повторите попытку позже.</string>
   <string name="ack_record">Подтверждение приема записи</string>
@@ -58,8 +56,8 @@
   <string name="download_line1">От: \"%1$s\"</string>
   <string name="download_line2">Файл: %1$s</string>
   <string name="download_line3">Размер файла: %1$s</string>
-  <string name="download_line5">Получение файла...</string>
-  <string name="download_line5_with_param">Получение %1$s...</string>
+  <string name="download_line5">Получение файла…</string>
+  <string name="download_line5_with_param">Получение %1$s…</string>
   <string name="download_line5_with_param_HS">Высокоскоростное получение</string>
   <string name="download_ok">Скрыть</string>
   <string name="download_queued_with_nfiles">ожидание получения %1$s %2$s</string>
@@ -95,7 +93,7 @@
   <string name="duplicate_dlg_title">%1$s уже существует</string>
   <string name="duplicate_list_title">Дублировать %1$s в %2$s</string>
   <string name="enabling_progress_content">Включение Bluetooth…</string>
-  <string name="enabling_progress_title">Подождите...</string>
+  <string name="enabling_progress_title">Подождите…</string>
   <string name="error_canceled">Передача была отменена.</string>
   <string name="error_content_create_to_send">Не удается создать файл для отправки.</string>
   <string name="error_content_not_supported">Неподдерживаемый тип файла.</string>
@@ -234,8 +232,8 @@
   <string name="upload_line1">Куда: \"%1$s\"</string>
   <string name="upload_line3">Тип файла: %1$s (%2$s)</string>
   <string name="upload_line3_no_file_size">Тип файла: %1$s</string>
-  <string name="upload_line5">Отправка файла...</string>
-  <string name="upload_line5_with_param">Отправка %1$s...</string>
+  <string name="upload_line5">Отправка файла…</string>
+  <string name="upload_line5_with_param">Отправка %1$s…</string>
   <string name="upload_line5_with_param_HS">Высокоскоростная отправка</string>
   <string name="upload_queued_with_nfiles">Ожидание отправки %1$s %2$s</string>
   <string name="upload_queued_with_param">Ожидание отправки %1$s</string>

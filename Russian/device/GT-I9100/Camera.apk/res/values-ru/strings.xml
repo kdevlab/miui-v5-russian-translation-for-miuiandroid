@@ -1,13 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <!--Translated by KDev Group (main repository)-->
-  <!--Fixed, merged and deleted duplicates by KDG Translation Suite-->
   <string name="ADJUST">Настроить</string>
   <string name="AUTO">Авто</string>
   <string name="Action_Shot_Helptext">Создание панорамы движущегося объекта</string>
   <string name="Add_Me_Helptext">Создание композиции путем сочетания фотографии людей с фоном</string>
   <string name="CONTRAST">Контраст</string>
-  <string name="CS_PROGRESS_TEXT">Создание изображения. Подождите...</string>
+  <string name="CS_PROGRESS_TEXT">Создание изображения. Пожалуйста, подождите…</string>
   <string name="Cartoon_Helptext">Преобразовать фото в мультипликацию</string>
   <string name="Dialog_No">Нет</string>
   <string name="Dialog_Yes">Да</string>
@@ -29,7 +27,7 @@
   <string name="E_POINT_BLUE">Синяя точка</string>
   <string name="E_POINT_GREEN">Зеленая точка</string>
   <string name="E_POINT_RED_YELLOW">Красно-желтая точка</string>
-  <string name="E_POSTERIZE">Пастеризация</string>
+  <string name="E_POSTERIZE">Постеризация</string>
   <string name="E_SEPIA">Сепия</string>
   <string name="E_SKETCH">Эскиз</string>
   <string name="E_SOLARIZE">Соляризация</string>
@@ -63,7 +61,7 @@
   <string name="RM_FAST">Быстрое движение</string>
   <string name="RM_MMS">Видео для MMS</string>
   <string name="RM_NORMAL">Обычный</string>
-  <string name="RM_SELF">Автозапись</string>
+  <string name="RM_SELF">Авто запись</string>
   <string name="RM_SLOW">Замедленное движение</string>
   <string name="SATURATION">Насыщенность</string>
   <string name="SCN_BACK_LIGHT">Против света</string>
@@ -73,16 +71,16 @@
   <string name="SCN_Des_BACK_LIGHT">Против света</string>
   <string name="SCN_Des_BEACH_SNOW">Яркий пейзаж (пляж или снег)</string>
   <string name="SCN_Des_CANDLE_LIGHT">При свечах</string>
-  <string name="SCN_Des_DAWN_DUSK">Рассвет. Медленный затвор.</string>
-  <string name="SCN_Des_FALL_COLOR">Деревья и осенние листья. Подчеркивает красный и зеленый.</string>
-  <string name="SCN_Des_FIREWORK">Вспышки фейерверка. Медленная скорость затвора. Держите камеру неподвижно.</string>
-  <string name="SCN_Des_LANDSCAPE">Дистанционный пейзаж. Бесконечная фокусировка.</string>
-  <string name="SCN_Des_NIGHT_SHOT">Красивый ночной пейзаж. Держите камеру неподвижно.</string>
+  <string name="SCN_Des_DAWN_DUSK">Рассвет. Медленный затвор</string>
+  <string name="SCN_Des_FALL_COLOR">Деревья и осенние листья. Подчеркивает красный и зеленый</string>
+  <string name="SCN_Des_FIREWORK">Вспышки фейерверка. Медленная скорость затвора. Держите камеру неподвижно</string>
+  <string name="SCN_Des_LANDSCAPE">Дистанционный пейзаж. Бесконечная фокусировка</string>
+  <string name="SCN_Des_NIGHT_SHOT">Красивый ночной пейзаж. Держите камеру неподвижно</string>
   <string name="SCN_Des_PARTY_INDOOR">В помещении</string>
   <string name="SCN_Des_PORTRAIT">Портретное фото</string>
   <string name="SCN_Des_SPORTS">Быстро движущиеся объекты, такие как спортивные сцены</string>
-  <string name="SCN_Des_SUNSET">Красивый пейзаж заката. Баланс белого дневного света.</string>
-  <string name="SCN_Des_TEXT">Текст или документ. Подчеркивает четкость и контрастность.</string>
+  <string name="SCN_Des_SUNSET">Красивый пейзаж заката. Баланс белого дневного света</string>
+  <string name="SCN_Des_TEXT">Текст или документ. Подчеркивает четкость и контрастность</string>
   <string name="SCN_FALL_COLOR">Осенние цвета</string>
   <string name="SCN_FIREWORK">Фейерверк</string>
   <string name="SCN_LANDSCAPE">Пейзаж</string>
@@ -156,15 +154,15 @@
   <string name="T_FIVE">5 сек.</string>
   <string name="T_TEN">10 сек.</string>
   <string name="T_TWO">2 сек.</string>
-  <string name="Title_AntiShake">Стабилизация</string>
+  <string name="Title_AntiShake">Анти-Тряска</string>
   <string name="Title_AudioRecording">Запись звука</string>
-  <string name="Title_AutoContrast">Автоконтраст</string>
+  <string name="Title_AutoContrast">АвтоКонтраст</string>
   <string name="Title_AutoFocus_Sound">Звук автофокусировки</string>
   <string name="Title_AutoShareShot">Автообмен</string>
   <string name="Title_Back">Назад</string>
   <string name="Title_BlinkDetection">Распознавание моргания</string>
   <string name="Title_Brightness">Яркость</string>
-  <string name="Title_ChangeMemoryInUseDailog">Измененить место хранения на карту памяти?</string>
+  <string name="Title_ChangeMemoryInUseDailog">Измененить место хранения по умолчанию в карту памяти?</string>
   <string name="Title_DefaultLayout">Стандар. макет</string>
   <string name="Title_DeviceList">Список устройств</string>
   <string name="Title_EffectRecorder">Эффект записи</string>
@@ -181,7 +179,7 @@
   <string name="Title_ISO">ISO</string>
   <string name="Title_ImageQuality">Качество изображения</string>
   <string name="Title_ImageViewer">Просмотр изображения</string>
-  <string name="Title_InsertMemoryCardDailog">Вставьте карту памяти, чтобы использовать камеру</string>
+  <string name="Title_InsertMemoryCardDailog">Вставьте карту памяти, чтобы использовать Камеру</string>
   <string name="Title_Metering">Экспозамер</string>
   <string name="Title_Mode">Режим</string>
   <string name="Title_Mosaic">Мозайка</string>
@@ -228,7 +226,7 @@
   <string name="best_photo_guidetext">Лучшие фотографии будут сохранены в память устройства</string>
   <string name="bestgroup">Лучшее лицо</string>
   <string name="bestgroup_title">Выберите все лучшие лица для сохранения</string>
-  <string name="bestpic">Лучшие фото</string>
+  <string name="bestpic">Best photo</string>
   <string name="bestpic_off">Выкл.</string>
   <string name="bestpic_on">Вкл.</string>
   <string name="buddy_photo_share_helptext">Принимать и обмениваться фотографиями с друзьями с помощью распознавания лица</string>
@@ -238,7 +236,7 @@
   <string name="camcorder_label">Видеокамера</string>
   <string name="camera_label">Камера</string>
   <string name="camera_security_enter">Политика безопасности ограничивает использование камеры</string>
-  <string name="camera_security_exit">Политика безопасности ограничивает использование камеры. Выйдите из приложения.</string>
+  <string name="camera_security_exit">Политика безопасности ограничивает использование камеры. Выйдите из камеры.</string>
   <string name="camera_set">Установить как</string>
   <string name="camera_share">Отправить</string>
   <string name="camera_toss">Удалить</string>
@@ -251,9 +249,9 @@
   <string name="change_to_device_memory">Недостаточно памяти. Сохранение по умолчанию будет происходить в память устройства.</string>
   <string name="change_to_phone_memory">Недостаточно памяти. Сохранение по умолчанию будет происходить в память телефона.</string>
   <string name="close">Закрыть</string>
-  <string name="close_camera_for_unmounted_memory">Отключите USB хранилище перед использованием камеры</string>
+  <string name="close_camera_for_unmounted_memory">Отключите USB-хранилище перед использованием камеры</string>
   <string name="close_camera_when_media_mounted">Камера закрыта для сканирования медиа-файлов</string>
-  <string name="close_camera_when_mmc_inserted">SD-карта вставлена. %s закрыто для сканирования медиа-файлов с карты памяти.</string>
+  <string name="close_camera_when_mmc_inserted">SD-карта вставлена. %s закрыто для сканирования медиа-файлов с карты памяти</string>
   <string name="confirm_delete_message">Изображение будет удалено</string>
   <string name="confirm_delete_title">Удалить</string>
   <string name="confirm_delete_video_message">Видео будет удалено</string>
@@ -262,14 +260,14 @@
   <string name="continuous_shot_guidetext">Снимки непрерывной съемки будут сохранены в память устройства</string>
   <string name="crop_discard_text">Отмена</string>
   <string name="crop_gallery_text">Галерея</string>
-  <string name="crop_label">Кадрировать картинку</string>
+  <string name="crop_label">Обрезать картинку</string>
   <string name="crop_save_text">Сохранить</string>
   <string name="default_storage_changed_to_memory_card">По умолчанию хранение изменилось на карту памяти</string>
   <string name="default_storage_changed_to_phone">По умолчанию хранение изменилось на память телефона</string>
   <string name="deviceType">Тип устройства</string>
   <string name="do_not_ask_again">Больше не показывать</string>
   <string name="done">Готово</string>
-  <string name="editable_shortcut_helptext">Нажмите и удерживайте значок и перетащите его на нужное место</string>
+  <string name="editable_shortcut_helptext">Нажмите и удерживайте значок, а затем перетащите его на нужное место</string>
   <string name="editable_shortcut_helptext_message">Нажмите и удерживайте ярлыки для редактирования</string>
   <string name="editable_shortcut_helptext_title">Совет</string>
   <string name="editable_shortcut_reset">Сброс</string>
@@ -291,7 +289,7 @@
   <string name="low_batt_msg">Аккумулятор разряжен</string>
   <string name="low_database_storage_view_text">Место хранения данных почти полное</string>
   <string name="low_temp_msg">Невозможно использовать вспышку при низкой температуре</string>
-  <string name="media_scanner_running">Сканирование библиотеки...</string>
+  <string name="media_scanner_running">Сканирование библиотеки…</string>
   <string name="media_server_died_msg">Произошла ошибка сервера. Перезагрузите камеру.</string>
   <string name="message_Auto_ShareShot">"Автоотправка позволяет легко подключаться к устройствам, с которыми Вы хотите поделиться фотографиями.
 Включите функцию, а затем прислоните устройства вместе (как правило спиной к спине), чтобы соединить их."</string>
@@ -308,7 +306,7 @@ Direct connected"</string>
   <string name="no_way_to_share_video">Нет приложения для отправки видео</string>
   <string name="not_enough_space">Недостаточно памяти</string>
   <string name="not_supported_zoom">Масштабирование не поддерживается во время записи Full HD видео</string>
-  <string name="notify_connect_error">Сетевое подключение не удалось, попробуйте еще раз</string>
+  <string name="notify_connect_error">Сетевое подключение не удалось, попробуйте еще раз~</string>
   <string name="notify_select_user">Сначала выберите пользователя</string>
   <string name="notify_sendFile_start_segment">отправка в</string>
   <string name="notify_waiting_approval">Ожидается подтверждение %s</string>
@@ -319,12 +317,12 @@ Direct connected"</string>
   <string name="on_device_help_self">Вы можете нажать для переключения в режиме автопортрета</string>
   <string name="on_device_help_voicecommand">"Вы можете делать фотографии с помощью следующих голосовых команд 'Захват', 'Снимок', 'Улыбка' и 'Чиииз'"</string>
   <string name="open_hw_failed_msg">Сбой камеры</string>
-  <string name="panorama_processing_msg">Создание панорамы...</string>
+  <string name="panorama_processing_msg">Подождите, создается панорама…</string>
   <string name="pause">Пауза</string>
   <string name="pcType">ПК</string>
-  <string name="plugged_low_batt_msg">Невозможно использовать вспышку. Аккумулятор разряжен.</string>
+  <string name="plugged_low_batt_msg">Невозможно использовать вспышку. Аккумулятор разряжен</string>
   <string name="preview_file_received_title">Предпросмотр полученного файла</string>
-  <string name="processing_msg">Обработка...</string>
+  <string name="processing_msg">Обработка…</string>
   <string name="profile_user_default_name">Неизвестный</string>
   <string name="record">Record</string>
   <string name="recording_failed_msg">Сбой записи</string>
@@ -332,7 +330,7 @@ Direct connected"</string>
   <string name="refresh">WiFi-Networks</string>
   <string name="refresh_title">Wi-Fi Networks</string>
   <string name="resume">Возобнов.</string>
-  <string name="savingImage">Сохранение...</string>
+  <string name="savingImage">Сохранение…</string>
   <string name="sbeam_helptext">Делайте и делитесь своими фотографиями с другими устройствами. Поднесите устройства друг к другу, чтобы добавить устройства, с которыми Вы хотите поделиться с помощью S Beam</string>
   <string name="self_recording_open_warning_popup">Самостоятельная запись может быть использована только, когда телефон открыт</string>
   <string name="self_shot_open_warning_popup">Самостоятельный снимок может быть использован только, когда телефон открыт</string>
@@ -363,16 +361,16 @@ Direct connected"</string>
   <string name="video_play">Воспроизвести</string>
   <string name="video_reach_size_limit">Достигнут максимальный размер записи</string>
   <string name="voicecommand_helptext">Вы можете делать снимки с помощью голосовых команд, таких как %1$s, %2$s, %3$s, и %4$s</string>
-  <string name="wait">Пожалуйста, подождите...</string>
-  <string name="wallpaper">Установка обоев. Подождите...</string>
+  <string name="wait">Пожалуйста, подождите…</string>
+  <string name="wallpaper">Установка обоев. Подождите…</string>
   <string name="warning_msg">Предупреждение</string>
   <string name="wifi_dialog_no">Отмена</string>
   <string name="wifi_dialog_text">Необходимо Wi-Fi соединение</string>
-  <string name="wifi_dialog_text_chn">Необходимо Wi-Fi соединение</string>
+  <string name="wifi_dialog_text_chn">Необходимо WLAN соединение.</string>
   <string name="wifi_dialog_title">Поделиться снимками</string>
   <string name="wifi_dialog_yes">OK</string>
   <string name="wifi_direct_dialog_text">Позволяет поделиться снимком, обмениваться фотографиями с другими пользователями через Wi-Fi Direct. Необходимо соединение Wi-Fi Direct.</string>
   <string name="wifi_direct_dialog_text_chn">Позволяет поделиться снимком, обмениваться фотографиями с другими пользователями через WLAN Direct. Необходимо соединение WLAN Direct.</string>
-  <string name="wifi_direct_dialog_title">Обмен фотографиями</string>
+  <string name="wifi_direct_dialog_title">Поделиться снимком</string>
   <string name="zoom_not_available">Невозможно увеличить, если приближение установлено на максимум</string>
 </resources>

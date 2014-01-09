@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="eq_preset_entries">
+        <item>Выключить</item>
+        <item>По умолчанию</item>
+        <item>Поп</item>
+        <item>Классика</item>
+        <item>Рок</item>
+        <item>Джаз</item>
+        <item>Блюз</item>
+        <item>Электронная</item>
+        <item>Латина</item>
+        <item>Выбрать</item>
+    </string-array>
+    <string-array name="repeat_modes_entries">
+        <item>Выключить</item>
+        <item>Один раз</item>
+        <item>Все</item>
+    </string-array>
+    <string-array name="stop_playing_entries">
+        <item>Выключено</item>
+        <item>30 минут</item>
+        <item>60 минут</item>
+        <item>90 минут</item>
+        <item>настроить выключение времени вручную</item>
+    </string-array>
+    <string-array name="pref_ssh_entries">
+        <item>Выключить</item>
+        <item>Уровень 1</item>
+        <item>Уровень 2</item>
+        <item>Уровень 3</item>
+    </string-array>
+    <string-array name="pref_natural_bass_entries">
+        <item>Выключить</item>
+        <item>Нормальный</item>
+        <item>Средний</item>
+        <item>Сильный</item>
+    </string-array>
+    <string-array name="pref_hfe_entries">
+        <item>Выключить</item>
+        <item>Нормальный</item>
+        <item>Средний</item>
+        <item>Сильный</item>
+    </string-array>
+    <string-array name="menu_more">
+        <item>Добавить в плей-лист</item>
+        <item>Отправить</item>
+        <item>Установить как сигнал вызова</item>
+    </string-array>
+    <string-array name="pref_dolby_entries">
+        <item>Выключено</item>
+        <item>Dolby Mobile</item>
+    </string-array>
+    <string-array name="pref_dirac_entries">
+        <item>Выключено</item>
+        <item>Dolby Mobile</item>
+        <item>Dirac effect</item>
+    </string-array>
+    <string-array name="skin_entries">
+        <item>Тема1</item>
+        <item>Тема2</item>
+        <item>Тема3</item>
+    </string-array>
+</resources>

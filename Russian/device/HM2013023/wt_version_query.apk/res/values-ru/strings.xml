@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, Wt_version_queryActivity!</string>
+    <string name="app_name">Wt_version_query</string>
+    <string name="soft_version">Внутренняя версия</string>
+    <string name="miui_version">miui версия</string>
+    <string name="hard_version">Версия аппаратного обеспечения</string>
+    <string name="build_date">Время сборки</string>
+    <string name="version_Info">Информация о версии</string>
+    <string name="software">Программное обеспечение:</string>
+    <string name="hardware">Аппаратное обеспечение:</string>
+    <string name="software_update">Обновление ПО</string>
+    <string name="sdcard_update">Обновление с SD-карты</string>
+    <string name="update_warning">Внимание</string>
+    <string name="update_warning1">Во время обновления не извлекайте аккумулятор, UIM-карту и SD-карту.</string>
+    <string name="update_warning2">Убедитесь, что уровеня заряда батареи достаточно.</string>
+    <string name="update_warning3">Рекомендуется перед обновлением сделать бэкап данных на SD-карту.</string>
+    <string name="no_sd_card">Нет SD-карты</string>
+    <string name="no_update_file">Файла обновления не существует</string>
+    <string name="update_info_tips">"Обновление займёт 2~5 мин.
+Не выполняйте никаких операций, во время обновления."</string>
+    <string name="ok">Ок</string>
+    <string name="cancel">Отмена</string>
+    <string name="settings_label">Настройка</string>
+</resources>

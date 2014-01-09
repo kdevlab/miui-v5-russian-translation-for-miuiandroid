@@ -1,7 +1,5 @@
-<?xml version='1.0' encoding='UTF-8'?>
+﻿<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <!--Translated by KDev Group (main repository)-->
-  <!--Fixed, merged and deleted duplicates by KDG Translation Suite-->
   <string name="add_all_tracks">All music</string>
   <string name="add_to_playlist">Add to list</string>
   <string name="add_tracks">Add music</string>
@@ -55,7 +53,7 @@
   <string name="delete_song_desc">Delete \"%s\"?</string>
   <string name="deleted">Music file deleted</string>
   <string name="deletesong">" %1$s deleted"</string>
-  <string name="deleting">Deleting,please wait...</string>
+  <string name="deleting">Deleting,please wait…</string>
   <string name="detail_album">Album:</string>
   <string name="detail_artist">Singer:</string>
   <string name="detail_confirm">Confirm</string>
@@ -87,12 +85,12 @@
   <string name="from_internet">音乐文件</string>
   <string name="fullspell">FullSpell</string>
   <string name="gadget_track">Track %d</string>
-  <string name="getalbum_lrc">accessing details...</string>
+  <string name="getalbum_lrc">accessing details…</string>
   <string name="goto_playback">Now playing</string>
   <string name="goto_start">Library</string>
   <string name="hide_track">Hide</string>
   <string name="hidelyric">Hide Lyric</string>
-  <string name="hiding">Hidding,please wait...</string>
+  <string name="hiding">Hidding,please wait…</string>
   <string name="internal_storage">internal storage</string>
   <string name="latest_played">Recently played</string>
   <string name="loading">Loading</string>
@@ -204,7 +202,7 @@
   <string name="recentlyadded_title">Recently added</string>
   <string name="refresh_media_database">Update the music library</string>
   <string name="remove_from_playlist">Remove from list</string>
-  <string name="removing">Removing,please wait...</string>
+  <string name="removing">Removing,please wait…</string>
   <string name="rename">Rename</string>
   <string name="rename_playlist_menu">Rename</string>
   <string name="rename_playlist_title">Rename Playlist</string>
@@ -220,7 +218,7 @@
   <string name="ringtone_set">\"%s\" is already set as ring tone.</string>
   <string name="ringtone_seted">ringtone was seted</string>
   <string name="save_as_playlist">Save as Playlist</string>
-  <string name="scanning">Scanning,please wait...</string>
+  <string name="scanning">Scanning,please wait…</string>
   <string name="screen_on">Backlight constant on in lyric mode</string>
   <string name="sdcard_busy_message">SD card busy</string>
   <string name="sdcard_busy_title">Unavailable SD card</string>

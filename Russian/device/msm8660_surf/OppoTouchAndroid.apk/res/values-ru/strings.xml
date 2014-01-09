@@ -1,7 +1,5 @@
-<?xml version='1.0' encoding='UTF-8'?>
+﻿<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <!--Translated by KDev Group (main repository)-->
-  <!--Fixed, merged and deleted duplicates by KDG Translation Suite-->
   <string name="add_alarm">Добавить будильник</string>
   <string name="alarm_alert_alert_silenced">Будильник звонил %d мин. назад</string>
   <string name="alarm_alert_dismiss_text">Выключить</string>
@@ -68,5 +66,5 @@
   <string name="volume_button_dialog_title">Функция кнопок</string>
   <string name="volume_button_setting_summary">Определить действие этих кнопок во время будильника</string>
   <string name="volume_button_setting_title">Кнопки громкости</string>
-  <string name="weather_fetch_failure">Информация о погоде сейчас не доступна</string>
+  <string name="weather_fetch_failure">Информация о погоде сейчас недоступна</string>
 </resources>

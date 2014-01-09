@@ -1,12 +1,10 @@
-<?xml version='1.0' encoding='UTF-8'?>
+﻿<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <!--Translated by KDev Group (main repository)-->
-  <!--Fixed, merged and deleted duplicates by KDG Translation Suite-->
-  <string name="all_licenses_are_clearing">Удаление...</string>
+  <string name="all_licenses_are_clearing">Удаление…</string>
   <string name="all_licenses_are_removed">Очищенный</string>
   <string name="app_name">Настройки лицензии</string>
   <string name="clear_license">Очистить лицензию</string>
-  <string name="clear_license_popup">Для  повторного использования, Вы должны запросить лицензию ещё раз. Продолжить?</string>
+  <string name="clear_license_popup">Для  повторного использования, необходимо запросить лицензию ещe раз. Продолжить?</string>
   <string name="clear_license_summary">Удалить все лицензии DRM</string>
   <string name="dialog_cancel_button">Отменить</string>
   <string name="dialog_cancel_registration_button">Отменить</string>

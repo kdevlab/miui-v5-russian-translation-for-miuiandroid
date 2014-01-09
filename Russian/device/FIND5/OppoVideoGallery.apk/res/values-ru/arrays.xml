@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Decompiled by BART-R (BurgerZ <az.burgerz@gmail.com)>--><resources>
+    <string-array name="send_method">
+        <item>По MMS</item>
+        <item>По Email</item>
+        <item>По Bluetooth</item>
+    </string-array>
+    <string-array name="video_option">
+        <item>Отправить</item>
+        <item>Удалить</item>
+        <item>Переименовать</item>
+        <item>Детали</item>
+    </string-array>
+    <string-array name="pref_natural_base_entries">
+        <item>Нормальный</item>
+        <item>Средний</item>
+        <item>Сильный</item>
+    </string-array>
+    <string-array name="pref_frequency_enhance_entries">
+        <item>Нормальный</item>
+        <item>Средний</item>
+        <item>Сильный</item>
+    </string-array>
+    <string-array name="pref_equalizer_entries">
+        <item>Выключить</item>
+        <item>Новости</item>
+        <item>Спорт</item>
+        <item>Драма</item>
+        <item>Клип</item>
+        <item>Кино</item>
+        <item>Комедия</item>
+        <item>Экшн</item>
+        <item>Мюзикл</item>
+        <item>Анимация</item>
+        <item>Разное</item>
+    </string-array>
+    <string-array name="pref_circulate_entries">
+        <item>Выключить</item>
+        <item>Одно видео</item>
+        <item>Все видео</item>
+    </string-array>
+    <string-array name="pref_dolby_entries">
+        <item>Выключить</item>
+        <item>"Dolby Mobile "</item>
+    </string-array>
+    <string-array name="pref_dirac_entries">
+        <item>Выключить</item>
+        <item>"Dolby Mobile "</item>
+        <item>Dirac effect</item>
+    </string-array>
+    <string-array name="pref_gallery_size_choices">
+        <item>Большой</item>
+        <item>Маленький</item>
+    </string-array>
+    <string-array name="pref_gallery_sort_choices">
+        <item>Имя</item>
+        <item>Тип</item>
+        <item>Размер</item>
+        <item>Дата по возрастанию</item>
+        <item>Дата по убыванию</item>
+    </string-array>
+</resources>

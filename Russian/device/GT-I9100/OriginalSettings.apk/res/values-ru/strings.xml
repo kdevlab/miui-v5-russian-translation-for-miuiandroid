@@ -1,7 +1,7 @@
-<?xml version='1.0' encoding='UTF-8'?>
+﻿<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <!--Translated by KDev Group (main repository)-->
-  <!--Fixed, merged and deleted duplicates by KDG Translation Suite-->
+
+
   <string name="Dialog_PowerkeyEndsCalls">Не удается назначить кнопке питания функцию завершения звонка когда датчик отключен. Датчик будет включен</string>
   <string name="FIPS_kernel_crypto_module">Kernel крипто-модуль</string>
   <string name="FIPS_key_managemnet_module">Модуль управления ключами</string>
@@ -13,7 +13,7 @@
   <string name="a_sensor_title">Горизонтальная калибровка</string>
   <string name="about_settings">О телефоне</string>
   <string name="about_settings_summary">Просмотр правовой информации, состояние устройства и версии программного обеспечения</string>
-  <string name="about_usb_settings_remove_the_cable_popup">USB подключен. Отсоедините кабель</string>
+  <string name="about_usb_settings_remove_the_cable_popup">USB подключено, отсоедините кабель.</string>
   <string name="accelerometer_summary_off">Отключено. Переключение ориентации автоматически при повороте телефона</string>
   <string name="accelerometer_summary_on">Включено. Переключение ориентации автоматически при повороте телефона</string>
   <string name="accelerometer_title">Автоповорот экрана</string>
@@ -155,7 +155,7 @@
   <string name="applications_settings_header">App settings</string>
   <string name="applications_settings_summary">Manage apps and set up quick launch shortcuts</string>
   <string name="asensor_button2">Калибровать</string>
-  <string name="asensor_calibrating">Calibrating. Do not move device. Please wait...</string>
+  <string name="asensor_calibrating">Calibrating. Do not move device. Please wait…</string>
   <string name="asensor_end">Откалибровано</string>
   <string name="asensor_ready">Place device on a level surface and tap Calibrate</string>
   <string name="ask_compatibility">Ask always</string>
@@ -210,7 +210,7 @@
   <string name="backup_pw_set_button_text">Set backup password</string>
   <string name="backup_section_title">Backup and restore</string>
   <string name="band_mode_failed">Сбой</string>
-  <string name="band_mode_loading">Загрузка списка частот...</string>
+  <string name="band_mode_loading">Загрузка списка частот…</string>
   <string name="band_mode_set">Настроить</string>
   <string name="band_mode_succeeded">Успешно</string>
   <string name="band_mode_title">Настроить частоту GSM/UMTS</string>
@@ -315,7 +315,7 @@
   <string name="bluetooth_connected_no_a2dp">Подключено (кроме A2DP)</string>
   <string name="bluetooth_connected_no_headset">Подключено (кроме HSP/HFP)</string>
   <string name="bluetooth_connected_no_headset_no_a2dp">Подключено (кроме HSP/HFP/A2DP)</string>
-  <string name="bluetooth_connecting">Подключение...</string>
+  <string name="bluetooth_connecting">Подключение…</string>
   <string name="bluetooth_connecting_error_message">Возникла неполадка при подключении к %1$s</string>
   <string name="bluetooth_connection_dialog_text">Подключиться к устройству \"%1$s\"?</string>
   <string name="bluetooth_connection_notif_message">Нажмите, чтобы подключиться к устройству \"%1$s\"</string>
@@ -330,7 +330,7 @@
   <string name="bluetooth_device_advanced_title">Тип подключения</string>
   <string name="bluetooth_device_chooser">Bluetooth Device Chooser</string>
   <string name="bluetooth_device_context_connect">Подключить</string>
-  <string name="bluetooth_device_context_connect_advanced">Параметры...</string>
+  <string name="bluetooth_device_context_connect_advanced">Параметры…</string>
   <string name="bluetooth_device_context_disconnect">Отключить</string>
   <string name="bluetooth_device_context_disconnect_unpair">Отключить и отменить сопряжение</string>
   <string name="bluetooth_device_context_pair_connect">Выполнить сопряжение и подключить</string>
@@ -349,7 +349,7 @@
   <string name="bluetooth_disconnect_pan_user_profile">Доступ в Интернет через устройство %1$s будет отключен</string>
   <string name="bluetooth_disconnect_title">Отключиться?</string>
   <string name="bluetooth_disconnected">Отключено</string>
-  <string name="bluetooth_disconnecting">Отключение...</string>
+  <string name="bluetooth_disconnecting">Отключение…</string>
   <string name="bluetooth_discover_services">Discover Services</string>
   <string name="bluetooth_display_passkey_pin_msg">Для подключения к устройству &lt;br&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;br&gt;&lt;br&gt; введите на нем код &lt;br&gt;&lt;b&gt;%2$s&lt;/b&gt;, а затем нажмите клавишу Return или Enter.</string>
   <string name="bluetooth_dock_settings">Настройки док-станции</string>
@@ -407,7 +407,7 @@
   <string name="bluetooth_opp_profile_summary_not_connected">Нет подключения к серверу передачи файлов</string>
   <string name="bluetooth_opp_profile_summary_use_for">Используется для передачи файлов</string>
   <string name="bluetooth_ops_server">Bluetooth OPP server</string>
-  <string name="bluetooth_pairing">Сопряжение...</string>
+  <string name="bluetooth_pairing">Сопряжение…</string>
   <string name="bluetooth_pairing_accept">Сопряжение</string>
   <string name="bluetooth_pairing_decline">Отмена</string>
   <string name="bluetooth_pairing_device_down_error_message">Не удается установить соединение с устройством \"%1$s\"</string>
@@ -451,7 +451,7 @@
   <string name="bluetooth_scan_device">Сканирование устройств</string>
   <string name="bluetooth_scan_for_devices">Поиск устройств</string>
   <string name="bluetooth_search_for_devices">Поиск устройств</string>
-  <string name="bluetooth_searching_for_devices">Поиск...</string>
+  <string name="bluetooth_searching_for_devices">Поиск…</string>
   <string name="bluetooth_security_mode_disable">Security policy restricts use of Bluetooth connection</string>
   <string name="bluetooth_security_mode_handsfree">Security policy restricts use of Bluetooth connection to hands-free features only</string>
   <string name="bluetooth_service_access_req_message">Bluetooth access requested</string>
@@ -467,8 +467,8 @@
   <string name="bluetooth_tether_checkbox_text">Bluetooth tethering</string>
   <string name="bluetooth_tethering_errored_subtext">Bluetooth tethering error</string>
   <string name="bluetooth_tethering_overflow_error">Unable to tether to more than %d devices</string>
-  <string name="bluetooth_turning_off">Отключение Bluetooth...</string>
-  <string name="bluetooth_turning_on">Включение Bluetooth...</string>
+  <string name="bluetooth_turning_off">Отключение Bluetooth…</string>
+  <string name="bluetooth_turning_on">Включение Bluetooth…</string>
   <string name="bluetooth_unknown" />
   <string name="bluetooth_untether_blank">%s will be untethered</string>
   <string name="bluetooth_visibility">Видимость</string>
@@ -511,7 +511,7 @@
   <string name="checkbox_notification_same_as_incoming_call">Use incoming call volume for notifications</string>
   <string name="choose_timezone">Выбрать часовой пояс</string>
   <string name="chooser_wallpaper">Выберите обои из</string>
-  <string name="clear_activities">Clear defaults</string>
+  <string name="clear_activities">Настройки по умолчанию</string>
   <string name="clear_cache_btn_text">Clear cache</string>
   <string name="clear_data_dlg_text">"All of this application's data will be deleted permanently. This includes all files, settings, accounts, databases etc."</string>
   <string name="clear_data_dlg_title">Delete app data?</string>
@@ -580,12 +580,12 @@
   <string name="crypt_keeper_final_desc">Выполнить шифрование данных телефона? Эта операция необратима, и в случае ее прерывания данные будут потеряны. Шифрование займет не менее одного часа. Во время шифрования устройство будет перезагружено несколько раз.</string>
   <string name="crypt_keeper_final_desc_dec">Decrypt device? Operation irreversible and if you interrupt it, you will lose data. Decryption could take an hour or more, during which device will restart several times</string>
   <string name="crypt_keeper_low_charge_text">Зарядите батарею и повторите попытку</string>
-  <string name="crypt_keeper_preparing_description">Подготовка. Это может занять до %d минут...</string>
+  <string name="crypt_keeper_preparing_description">Подготовка. Это может занять до %d минут…</string>
   <string name="crypt_keeper_settings_title">Шифрование</string>
   <string name="crypt_keeper_setup_description">Дождитесь завершения шифрования телефона. Выполнено: ^1%.</string>
   <string name="crypt_keeper_setup_description_dec">Wait while device is decrypted. ^1% complete.</string>
   <string name="crypt_keeper_setup_title">Шифрование</string>
-  <string name="crypt_keeper_setup_title_dec">Decrypting...</string>
+  <string name="crypt_keeper_setup_title_dec">Decrypting…</string>
   <string name="crypt_keeper_unplugged_text">Подключите зарядное устройство и повторите попытку</string>
   <string name="cryptkeeper_emergency_call">Emergency call</string>
   <string name="current_backup_pw_prompt">Enter current full backup password</string>
@@ -643,7 +643,7 @@
   <string name="data_usage_uninstalled_apps">Removed apps</string>
   <string name="data_usage_warning_editor_title">Set data usage warning</string>
   <string name="date_and_time">Настройка даты и времени</string>
-  <string name="date_and_time_settings_automode_reboot">Перезагрузка системы...</string>
+  <string name="date_and_time_settings_automode_reboot">Перезагрузка системы…</string>
   <string name="date_and_time_settings_confirm_reboot">"Изменения в автоматическом режиме требует перезагрузки системы.
 Вы хотите продолжить?"</string>
   <string name="date_and_time_settings_summary">Установка даты, времени, часового пояса и формата</string>
@@ -737,7 +737,7 @@
   <string name="enable_adb_summary">Debugging mode launches when USB is connected</string>
   <string name="enable_compatibility">Scale app</string>
   <string name="enable_text">Enable</string>
-  <string name="enabling_progress_content">Включение Bluetooth...</string>
+  <string name="enabling_progress_content">Включение Bluetooth…</string>
   <string name="enabling_progress_title">Пожалуйста, подождите</string>
   <string name="encrypt_option_memory_space">If you select this option, only used memory space will be encrypted</string>
   <string name="encrypt_tablet_fast_encryption">Fast encryption</string>
@@ -782,11 +782,11 @@
   <string name="g_sensor_title">Калибровка гироскопа</string>
   <string name="gadget_picker_title">Choose gadget</string>
   <string name="gadget_title">Power control</string>
-  <string name="gadget_toggle_bluetooth">Updating Bluetooth setting...</string>
-  <string name="gadget_toggle_wifi">Updating Wi-Fi setting...</string>
+  <string name="gadget_toggle_bluetooth">Updating Bluetooth setting…</string>
+  <string name="gadget_toggle_wifi">Updating Wi-Fi setting…</string>
   <string name="gps_security_mode_disable">Политика безопасности ограничивает использование GPS</string>
   <string name="gsensor_button2">Калибровать</string>
-  <string name="gsensor_calibrating">Калибровка. Не перемещайте устройство. Пожалуйста, подождите...</string>
+  <string name="gsensor_calibrating">Калибровка. Не перемещайте устройство. Пожалуйста, подождите…</string>
   <string name="gsensor_end">Откалибровано</string>
   <string name="gsensor_nofile">Unable to find offset file. Try again</string>
   <string name="gsensor_ready">Положите устройство на ровную поверхность и нажмите Калибровка</string>
@@ -874,12 +874,12 @@
   <string name="iwlan_ok">Ok</string>
   <string name="iwlan_pdg_address">PDG ADDRESS</string>
   <string name="iwlan_pdg_name">PDG NAME</string>
-  <string name="iwlan_ready">I-WLAN READY...</string>
+  <string name="iwlan_ready">I-WLAN READY…</string>
   <string name="iwlan_save">Save</string>
   <string name="iwland_state_connected">Connected</string>
-  <string name="iwland_state_connecting">Connecting...</string>
+  <string name="iwland_state_connecting">Connecting…</string>
   <string name="iwland_state_deamon_processing">Deamon process is running</string>
-  <string name="iwland_state_disconnecting">Disconnecting...</string>
+  <string name="iwland_state_disconnecting">Disconnecting…</string>
   <string name="iwland_state_idle">Disconnected</string>
   <string name="keep_screen_on">Stay awake</string>
   <string name="keep_screen_on_summary">Screen will never sleep while charging</string>
@@ -953,20 +953,20 @@
   <string name="lockpassword_password_requires_digit">Пароль должен содержать хотя бы одну цифру</string>
   <string name="lockpassword_password_requires_symbol">Пароль должен содержать хотя бы один символ</string>
   <string name="lockpassword_password_set_toast">Password set</string>
-  <string name="lockpassword_password_too_long">В пароле должно быть не более %d символом</string>
+  <string name="lockpassword_password_too_long">Не более %d символов</string>
   <string name="lockpassword_password_too_short">Пароль должен содержать не менее %d символов</string>
   <string name="lockpassword_pattern_set_toast">Pattern set</string>
   <string name="lockpassword_pin_contains_non_digits">PIN-код должен состоять только из цифр от 0 до 9</string>
   <string name="lockpassword_pin_recently_used">Невозможно использовать текущий PIN-код</string>
   <string name="lockpassword_pin_set_toast">PIN set</string>
-  <string name="lockpassword_pin_too_long">В PIN-код должен быть не более %d знаков</string>
+  <string name="lockpassword_pin_too_long">PIN-код должен быть не более %d символов</string>
   <string name="lockpassword_pin_too_short">ПИН-код должен содержать не менее %d символов</string>
   <string name="lockpassword_press_continue">После завершения нажмите \"Продолжить\"</string>
   <string name="lockpassword_requires_more_complex_chars">Password must contain alphanumeric characters and/or symbols</string>
-  <string name="lockpattern_change_lock_pattern_label">Change unlock pattern</string>
-  <string name="lockpattern_change_lock_pin_label">Change PIN</string>
-  <string name="lockpattern_confirm_button_text">Confirm</string>
-  <string name="lockpattern_continue_button_text">Continue</string>
+  <string name="lockpattern_change_lock_pattern_label">Изменить пароль</string>
+  <string name="lockpattern_change_lock_pin_label">Изменить PIN</string>
+  <string name="lockpattern_confirm_button_text">Подтвердить</string>
+  <string name="lockpattern_continue_button_text">Продолжить</string>
   <string name="lockpattern_need_to_confirm">Draw pattern again to confirm:</string>
   <string name="lockpattern_need_to_unlock">Confirm saved pattern</string>
   <string name="lockpattern_need_to_unlock_wrong">Sorry, try again:</string>
@@ -1035,7 +1035,7 @@
   <string name="memory">RAM</string>
   <string name="memory_apps_usage">Applications</string>
   <string name="memory_available">Available</string>
-  <string name="memory_calculating_size">Calculating...</string>
+  <string name="memory_calculating_size">Calculating…</string>
   <string name="memory_dcim_usage">Pictures, videos</string>
   <string name="memory_downloads_usage">Downloads</string>
   <string name="memory_media_misc_usage">Miscellaneous files</string>
@@ -1093,7 +1093,7 @@
   <string name="move_app_failed_dlg_text">Unable to move app. %1$s</string>
   <string name="move_app_to_internal">Move to phone</string>
   <string name="move_app_to_sdcard">Move to SD card</string>
-  <string name="moving">Moving...</string>
+  <string name="moving">Moving…</string>
   <string name="musicfx_title">Звуковые эффекты</string>
   <string name="mwlan">I-WLAN</string>
   <string name="mwlan_allowed_2">You can use services requiring the Wi-Fi secure connection</string>
@@ -1235,7 +1235,7 @@
   <string name="process_provider_in_use_description">Provider %1$s in use</string>
   <string name="process_service_in_use_description">Service %1$s in use</string>
   <string name="progress_scanning">Поиск</string>
-  <string name="progress_status">Получение...</string>
+  <string name="progress_status">Получение…</string>
   <string name="progress_tap_to_pair">Выберите устройство</string>
   <string name="provider_label">Push subscriptions</string>
   <string name="proxy_action_text">Готово</string>
@@ -1295,7 +1295,7 @@
   <string name="radioInfo_service_out">Вне зоны обслуживания</string>
   <string name="radioInfo_unknown">неизвестно</string>
   <string name="radio_controls_summary">Wi-Fi, Bluetooth, режим полета, мобильные сети и VPN</string>
-  <string name="radio_controls_title">Ещё...</string>
+  <string name="radio_controls_title">Ещe…</string>
   <string name="radio_info_band_mode_label">Выбрать радиостанцию</string>
   <string name="radio_info_call_redirect_label">Перенаправление вызовов:</string>
   <string name="radio_info_call_status_label">Состояние вызова:</string>
@@ -1380,8 +1380,8 @@
   <string name="sd_card_storage">SD card</string>
   <string name="sd_eject">Unmount SD card</string>
   <string name="sd_eject_summary">Unmount SD card to safely remove it</string>
-  <string name="sd_ejecting_summary">Unmounting...</string>
-  <string name="sd_ejecting_title">Unmounting SD card...</string>
+  <string name="sd_ejecting_summary">Unmounting…</string>
+  <string name="sd_ejecting_title">Unmounting SD card…</string>
   <string name="sd_format">Format USB storage</string>
   <string name="sd_format_sd">Format SD card</string>
   <string name="sd_format_summary">"Erases all data on device's USB storage, such as music and photos"</string>
@@ -1390,7 +1390,7 @@
   <string name="sd_memory">SD card</string>
   <string name="sd_mount">Mount SD card</string>
   <string name="sd_mount_summary" />
-  <string name="sd_waiting_encryption_decryption">Waiting for SD card encryption or decryption...</string>
+  <string name="sd_waiting_encryption_decryption">Waiting for SD card encryption or decryption…</string>
   <string name="sdcard_changes_instructions">Изменения вступят в силу после повторного подключения USB-кабеля</string>
   <string name="sdcard_confirm_action">Confirm</string>
   <string name="sdcard_decrypt_confirm_title">Confirm decryption</string>
@@ -1404,7 +1404,7 @@
   <string name="sdcard_decrypt_policy_set_decryption_configured">Device will decrypt encrypted SD card</string>
   <string name="sdcard_decrypt_policy_set_decryption_configured_confirm">Decryption may take a long time depending on the amount of data. It is recommended that you plug device into charger</string>
   <string name="sdcard_decrypt_title_notification">SD card decryption</string>
-  <string name="sdcard_decrypt_title_ongoing_dec_second_storage">Decrypting SD card...</string>
+  <string name="sdcard_decrypt_title_ongoing_dec_second_storage">Decrypting SD card…</string>
   <string name="sdcard_encdec_unavail_warning">During this process, SD card will not be available</string>
   <string name="sdcard_encrypt_apply">Apply</string>
   <string name="sdcard_encrypt_confirm_title">Confirm encryption</string>
@@ -1436,7 +1436,7 @@
   <string name="sdcard_encrypt_title_exclude_mm_files">Exclude multimedia files</string>
   <string name="sdcard_encrypt_title_full_encryption">Full encryption</string>
   <string name="sdcard_encrypt_title_notification">SD card encryption</string>
-  <string name="sdcard_encrypt_title_ongoing_second_storage">Encrypting SD card...</string>
+  <string name="sdcard_encrypt_title_ongoing_second_storage">Encrypting SD card…</string>
   <string name="sdcard_encrypt_title_setting">Encrypt SD card</string>
   <string name="sdcard_encrypt_unmount_warning">All open files on SD card will be closed</string>
   <string name="sdcard_format">Очистить SD-карту</string>
@@ -1449,7 +1449,7 @@
   <string name="sdcard_settings_mass_storage_status">SD-карта используется в качестве устройства массовой памяти</string>
   <string name="sdcard_settings_not_present_status">Нет SD-карты</string>
   <string name="sdcard_settings_read_only_status">SD-карта установлена только для чтения</string>
-  <string name="sdcard_settings_scanning_status">Поиск мультимедиа на SD-карте...</string>
+  <string name="sdcard_settings_scanning_status">Поиск мультимедиа на SD-карте…</string>
   <string name="sdcard_settings_screen_mass_storage_text">Включить USB-накопитель</string>
   <string name="sdcard_settings_total_bytes_label">Всего байтов:</string>
   <string name="sdcard_settings_unmounted_status">Теперь можно извлечь SD-карту</string>
@@ -1477,7 +1477,7 @@
   <string name="service_manage">Settings</string>
   <string name="service_manage_description">%s in use. Tap Settings to manage it</string>
   <string name="service_process_name">%s</string>
-  <string name="service_restarting">Restarting...</string>
+  <string name="service_restarting">Restarting…</string>
   <string name="service_started_by_app">Started by application</string>
   <string name="service_stop">Stop</string>
   <string name="service_stop_description">Service started by application. Stopping service may cause application to fail</string>
@@ -1486,10 +1486,10 @@
   <string name="settings_button">Settings</string>
   <string name="settings_label">Настройки</string>
   <string name="settings_label_launcher">Заводские настройки</string>
-  <string name="settings_license_activity_loading">Загрузка...</string>
+  <string name="settings_license_activity_loading">Загрузка…</string>
   <string name="settings_license_activity_title">Open source licenses</string>
   <string name="settings_license_activity_unavailable">Error occurred while loading licences.</string>
-  <string name="settings_safetylegal_activity_loading">Loading...</string>
+  <string name="settings_safetylegal_activity_loading">Loading…</string>
   <string name="settings_safetylegal_activity_title">Safety information</string>
   <string name="settings_safetylegal_activity_unreachable">You have no data connection. To view this information now, go to %s from any computer connected to the Internet</string>
   <string name="settings_safetylegal_title">Safety information</string>
@@ -1946,7 +1946,7 @@
   <string name="wifi_setup_cancel">Cancel</string>
   <string name="wifi_setup_connect">Connect</string>
   <string name="wifi_setup_description_connected">Tap Next to continue setup. Tap Back to connect to a different Wi-Fi network</string>
-  <string name="wifi_setup_description_connecting">Connecting. Please wait...</string>
+  <string name="wifi_setup_description_connecting">Connecting. Please wait…</string>
   <string name="wifi_setup_detail">Network details</string>
   <string name="wifi_setup_eap_not_supported">Unable to configure EAP Wi-Fi connection during setup. After setup, you can do that by going to Settings &gt; Wireless and networks</string>
   <string name="wifi_setup_forget">Forget</string>
@@ -1955,28 +1955,28 @@
   <string name="wifi_setup_refresh_list">Refresh list</string>
   <string name="wifi_setup_save">Save</string>
   <string name="wifi_setup_skip">Skip</string>
-  <string name="wifi_setup_status_connecting">Connecting...</string>
+  <string name="wifi_setup_status_connecting">Connecting…</string>
   <string name="wifi_setup_status_eap_not_supported">EAP not supported</string>
   <string name="wifi_setup_status_edit_network">Edit network configuration</string>
   <string name="wifi_setup_status_existing_network">Connect to existing network</string>
   <string name="wifi_setup_status_new_network">Connect to new network</string>
   <string name="wifi_setup_status_proceed_to_next">Go to next step</string>
-  <string name="wifi_setup_status_scanning">Scanning networks...</string>
+  <string name="wifi_setup_status_scanning">Scanning networks…</string>
   <string name="wifi_setup_status_select_network">Tap network to connect</string>
   <string name="wifi_setup_status_unsecured_network">Connect to unsecured network</string>
   <string name="wifi_setup_title">Wi-Fi setup</string>
   <string name="wifi_setup_title_add_network">Add network</string>
   <string name="wifi_setup_title_connected_network">Connected to Wi-Fi network %s</string>
-  <string name="wifi_setup_title_connecting_network">Connecting to Wi-Fi network %s...</string>
+  <string name="wifi_setup_title_connecting_network">Connecting to Wi-Fi network %s…</string>
   <string name="wifi_setup_title_editing_network">Connect to Wi-Fi network %s</string>
   <string name="wifi_show_advanced">Дополнительно</string>
   <string name="wifi_show_password">Показывать пароль</string>
   <string name="wifi_signal">Уровень сигнала</string>
   <string name="wifi_speed">Скорость связи</string>
   <string name="wifi_ssid">Имя сети (SSID)</string>
-  <string name="wifi_starting">Включение Wi-Fi...</string>
+  <string name="wifi_starting">Включение Wi-Fi…</string>
   <string name="wifi_status">Статус</string>
-  <string name="wifi_stopping">Отключение Wi-Fi...</string>
+  <string name="wifi_stopping">Отключение Wi-Fi…</string>
   <string name="wifi_tether_checkbox_text">Portable Wi-Fi hotspot</string>
   <string name="wifi_tether_configure_ap_text">Configure portable Wi-Fi hotspot</string>
   <string name="wifi_tether_configure_ssid_default">Android Hotspot</string>
@@ -2004,7 +2004,7 @@ Credential storage might not enable"</string>
   <string name="wifi_wps_setup_title">Настройка WPS</string>
   <string name="wimax">4G</string>
   <string name="wimax_cancel_button">Cancel</string>
-  <string name="wimax_connecting_summary">Подключение...</string>
+  <string name="wimax_connecting_summary">Подключение…</string>
   <string name="wimax_dns1">DNS1 :</string>
   <string name="wimax_dns2">DNS2 :</string>
   <string name="wimax_error">Error</string>
@@ -2014,7 +2014,7 @@ Credential storage might not enable"</string>
   <string name="wimax_networks">4G networks</string>
   <string name="wimax_notify_open_networks">Network notification</string>
   <string name="wimax_notify_open_networks_summary">Notify me when 4G is connected</string>
-  <string name="wimax_obtaining_ip">Obtaining IP address...</string>
+  <string name="wimax_obtaining_ip">Obtaining IP address…</string>
   <string name="wimax_ok_button">OK</string>
   <string name="wimax_quick_toggle_summary">Включить 4G</string>
   <string name="wimax_settings" />

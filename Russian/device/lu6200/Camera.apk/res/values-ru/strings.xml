@@ -1,7 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <!--Translated by KDev Group (main repository)-->
-  <!--Fixed, merged and deleted duplicates by KDG Translation Suite-->
   <string name="app_name">Камера</string>
   <string name="artshot_blackwhite">Черно-белое</string>
   <string name="artshot_cold">Холодный</string>
@@ -201,7 +199,7 @@
   <string name="on">Вкл.</string>
   <string name="play">Воспр.</string>
   <string name="popup_delete_done">Удалено</string>
-  <string name="popup_storage_full_save">Память переполнена. Сохранение...</string>
+  <string name="popup_storage_full_save">Память переполнена. Сохранение…</string>
   <string name="pref_camcorder_settings_category">Настройки видеокамеры</string>
   <string name="pref_camera_settings_category">Настройки камеры</string>
   <string name="preparing_sd">Подготовка карты SD.</string>
@@ -264,7 +262,7 @@
   <string name="sp_eula_popup_dialog_msg_NORMAL">При выборе \"Отметить местоположение\", данное устройство присоединит, встроит и сохранит данные о географическом местоположении в каждое изображение. Будьте осторожны, когда отправляете, даете доступ, распространяете, передаете или копируете эти изображения, поскольку они содержат данные о месте фотографирования.</string>
   <string name="sp_eula_popup_dialog_title_NORMAL">Угроза проникновения</string>
   <string name="sp_eula_popup_do_not_show_this_again_NORMAL">Больше не показывать</string>
-  <string name="sp_ext_sdcard_not_exist_NORMAL">SD карта отсутствует. Сохранение будет переключено на внутреннюю память.</string>
+  <string name="sp_ext_sdcard_not_exist_NORMAL">SD-карта отсутствует. Сохранение будет переключено на внутреннюю память.</string>
   <string name="sp_external_memory_NORMAL">SD-карта</string>
   <string name="sp_external_sd_prepared_NORMAL">SD-карта подготовлена</string>
   <string name="sp_filename_already_exists_NORMAL">Файл уже существует</string>
@@ -388,7 +386,7 @@
   <string name="sp_launch_NORMAL">Запуск</string>
   <string name="sp_live_effect_NORMAL">Живой эффект</string>
   <string name="sp_live_shot_NORMAL">Живой снимок</string>
-  <string name="sp_loading_camera_NORMAL">Подготовка...</string>
+  <string name="sp_loading_camera_NORMAL">Подготовка…</string>
   <string name="sp_lowbattery_MLINE">Уровень заряда батареи слишком низкий для запуска камеры. Пожалуйста, зарядите ваш телефон.</string>
   <string name="sp_media_scanning_NORMAL">"Выполняется сканирование медиа-файлов. Повторите попытку
 после завершения сканирования."</string>
@@ -457,7 +455,7 @@
 Файл сохранен."</string>
   <string name="sp_popup_storage_limitsize_NORMAL">"Достигнут максимальный размер записи.
 Файл сохранен."</string>
-  <string name="sp_preparing_int_sd_NORMAL">Подготовка внутренней памяти...</string>
+  <string name="sp_preparing_int_sd_NORMAL">Подготовка внутренней памяти…</string>
   <string name="sp_quality_normal_NORMAL">Обычн.</string>
   <string name="sp_quickfunction_focus_continuous_NORMAL">Отслеж. движения</string>
   <string name="sp_rear_NORMAL">Задний вид</string>
@@ -501,9 +499,9 @@
   <string name="sp_storage_full_popup_ics_1_NORMAL">Недостаточно места на %s. Чтобы освободить место, удалите ненужные объекты.</string>
   <string name="sp_storage_full_popup_ics_2_NORMAL">Недостаточно места на %1$s. Файл сохранен в %2$s. Чтобы освободить место, удалите ненужные файлы.</string>
   <string name="sp_storage_full_popup_ics_3_NORMAL">Недостаточно места на всех носителях. Чтобы освободить место, удалите ненужные файлы.</string>
-  <string name="sp_storage_full_popup_ics_6_NORMAL">Недостаточно места на %s. Сохранение файла...</string>
+  <string name="sp_storage_full_popup_ics_6_NORMAL">Недостаточно места на %s. Сохранение файла…</string>
   <string name="sp_storage_full_popup_ics_title_NORMAL">Память заполнена</string>
-  <string name="sp_storage_full_saving_file_NORMAL">Сохранение файла...</string>
+  <string name="sp_storage_full_saving_file_NORMAL">Сохранение файла…</string>
   <string name="sp_storage_noti_title_NORMAL">Уведомление</string>
   <string name="sp_sunset_NORMAL">Закат</string>
   <string name="sp_video_SHORT">Видео</string>
@@ -528,7 +526,7 @@
   <string name="video_quality">Качество видео</string>
   <string name="video_size">Размер видео</string>
   <string name="video_voice">Звук</string>
-  <string name="waiting_save_image">Подождите...</string>
+  <string name="waiting_save_image">Подождите…</string>
   <string name="white_balance">Баланс белого</string>
   <string name="white_balance_cloudy">Облачно</string>
   <string name="white_balance_fluorescent">Флуоресцент</string>

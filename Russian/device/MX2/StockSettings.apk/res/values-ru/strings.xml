@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="stock_settings">Дополнительные настройки</string>
+    <string name="home_key_screen_on">Двойной клик \"Домой\" вкл. экран</string>
+    <string name="cpufreq_title">Частота CPU</string>
+</resources>

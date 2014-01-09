@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="date_format_entries">
         <item>ММ/ДД/ГГГГ</item>
@@ -163,7 +163,7 @@
     </string-array>
     <string-array name="app_install_location_entries">
         <item>Память устройства</item>
-        <item>Съемная SD карта</item>
+        <item>Съемная SD-карта</item>
         <item>Автоматически</item>
     </string-array>
     <string-array name="silent_mode_entries">

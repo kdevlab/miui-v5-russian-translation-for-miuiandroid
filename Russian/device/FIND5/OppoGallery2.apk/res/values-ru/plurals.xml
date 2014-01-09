@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="delete_selection">
+        <item quantity="other">Удалить выбранные файлы?</item>
+        <item quantity="one">Удалить выбранный файл?</item>
+    </plurals>
+    <plurals name="number_of_items_selected">
+        <item quantity="other">Выбрано %1$d</item>
+        <item quantity="zero">Выбрано %1$d</item>
+        <item quantity="one">Выбрано %1$d</item>
+    </plurals>
+    <plurals name="number_of_albums_selected">
+        <item quantity="other">Выбрано %1$d</item>
+        <item quantity="zero">Выбрано %1$d</item>
+        <item quantity="one">Выбрано %1$d</item>
+    </plurals>
+    <plurals name="number_of_groups_selected">
+        <item quantity="other">Выбрано %1$d</item>
+        <item quantity="zero">Выбрано %1$d</item>
+        <item quantity="one">Выбрано %1$d</item>
+    </plurals>
+    <plurals name="make_albums_available_offline">
+        <item quantity="other">Загрузка альбомов для офлайн-доступа.</item>
+        <item quantity="one">Загрузка альбома для офлайн-доступа</item>
+    </plurals>
+    <plurals name="number_of_items_in_slot">
+        <item quantity="other">%1$d изобр.</item>
+        <item quantity="one">1 изобр.</item>
+    </plurals>
+    <plurals name="number_of_folders_in_slot">
+        <item quantity="other">%1$d папок</item>
+        <item quantity="one">1 папка</item>
+    </plurals>
+    <plurals name="albumset_count_string">
+        <item quantity="other">%1$d изобр.</item>
+        <item quantity="one">1 изобр.</item>
+    </plurals>
+</resources>
