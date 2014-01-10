@@ -121,6 +121,11 @@
         <item>UTF-8</item>
         <item>http://suggest.yandex.net/suggest-ff.cgi?part={searchTerms}</item>
     </string-array>
+    <string-array name="yandex_ru_in_list">
+        <item>search_yandex</item>
+        <item>ic_search_engine_yandex</item>
+        <item>yandex_ru</item>
+    </string-array>
     <string-array name="search_engines">
        <item>google</item>
        <item>yandex_ru</item>
