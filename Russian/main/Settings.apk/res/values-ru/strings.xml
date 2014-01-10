@@ -153,7 +153,7 @@
      <string name="active_input_method_subtypes">Активные способы ввода</string>
      <string name="activity_not_found">Приложение не установлено на телефоне</string>
      <string name="activity_picker_label">Выбор действия</string>
-	 <string name="activity_title_create_shortcut">Ярлыки</string>
+     <string name="activity_title_create_shortcut">Ярлыки</string>
      <string name="activity_title_settings">Настройки</string>
      <string name="adb_warning_message">Отладка по USB – это режим, который позволяет использовать Ваше устройство как внешний накопитель: перемещать файлы (с компьютера и на компьютер), напрямую устанавливать приложения, а также просматривать системные журналы</string>
      <string name="adb_warning_title">Разрешить отладку USB?</string>
@@ -1081,7 +1081,7 @@
      <string name="edit_whitelist">Изменить</string>
      <string name="emergency_tone_summary">Настроить режим работы при экстренном вызове</string>
      <string name="emergency_tone_title">Тональный сигнал экстренного вызова</string>
-	 <string name="empty_folder_title">Пустая папка (%d)</string>
+     <string name="empty_folder_title">Пустая папка (%d)</string>
      <string name="empty_list_msg">Нет приложений сторонних разработчиков</string>
      <string name="emptylist_fwlog_call">Здесь будут отображаться все заблокированные вызовы</string>
      <string name="emptylist_fwlog_ms">Здесь буду отображаться все заблокированные сообщения</string>
@@ -1551,7 +1551,7 @@
      <string name="legal_information">Правовая информация</string>
      <string name="license_title">Лицензия</string>
      <string name="link_speed_label">"Скорость: "</string>
-	 <string name="list_sub_view_item_clean">Очистить</string>
+     <string name="list_sub_view_item_clean">Очистить</string>
      <string name="list_sub_view_item_install">Установить</string>
      <string name="list_sub_view_item_lock">Заблок.</string>
      <string name="list_sub_view_item_unlock">Разблок.</string>
@@ -1730,9 +1730,9 @@
      <string name="menu_delete">Удалить</string>
      <string name="menu_edit">Изменить</string>
      <string name="menu_item_about_content">Безопасность: %s</string>
-	 <string name="menu_item_about_summary">Версия:%s</string>
+     <string name="menu_item_about_summary">Версия:%s</string>
      <string name="menu_item_about_title">О программе</string>
-	 <string name="menu_item_settings_title">Настройки</string>
+     <string name="menu_item_settings_title">Настройки</string>
      <string name="menu_item_shortcut">Создать ярлыки</string>
      <string name="menu_item_shortcut_summary">Отправить ярлыки часто используемыемых функций на рабочий стол</string>
      <string name="menu_item_shortcut_title">Добавить</string>
@@ -1849,8 +1849,6 @@
      <string name="new_bw_list_button">Добавить контакт</string>
      <string name="next_button_label">Далее</string>
      <string name="next_label">Далее</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="nfc_category_title">NFC</string>
      <string name="nfc_p2p_mode">Режим P2P</string>
      <string name="nfc_p2p_mode_summary">Отправить или получить файл</string>
      <string name="nfc_quick_toggle_summary">Разрешить обмен данными при совмещении телефона с другим устройством</string>
@@ -1913,6 +1911,8 @@
      <string name="opt_restore_perm">Восстановлено разрешений по умолчанию для %d приложений</string>
      <string name="opt_resume_desc">Продолжить</string>
      <string name="opt_scanning">Сканирование…:</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="opt_score">83</string>
      <string name="opt_score_desc">" %"</string>
      <string name="opt_state_done">Готово</string>
      <string name="opt_state_pause">Пауза</string>
@@ -2078,6 +2078,7 @@
      <string name="perm_manage_tab_title">Разрешения</string>
      <string name="perm_mian_name">Разрешения</string>
      <string name="perm_monitored_app">Мониторинг приложений (%1$d)</string>
+     <string name="perm_notice">Внимание!</string>
      <string name="perm_operating">Обработка…</string>
      <string name="perm_optimize">Оптимизировать</string>
      <string name="perm_privacy_app_count">%1$d разрешений</string>
@@ -2118,6 +2119,7 @@
      <string name="perm_su_switch">Суперпользователь</string>
      <string name="perm_summary_disabled">Выкл</string>
      <string name="perm_summary_enabled">Вкл</string>
+     <string name="perm_support_hints">Поддержка: LBE</string>
      <string name="perm_sysopt_boost_auto_start">Разрешить автозапуск</string>
      <string name="perm_sysopt_boost_auto_start_group">Автозапуск</string>
      <string name="perm_sysopt_boost_auto_start_summary">Разрешать приложению автозапуск</string>
@@ -2223,8 +2225,8 @@
      <string name="power_dialog_delete_dialog_cannot_delete_default">Невозможно удалить: конфигурация используется</string>
      <string name="power_dialog_delete_dialog_cannot_delete_low_battery">"Не удается удалить: устройство настроено на эту конфигурацию, когда батарея разряжена. 
  Вам нужно изменить настройки батареи, прежде чем удалить эту конфигурацию."</string>
-     <string name="power_dialog_delete_dialog_cannot_delete_low_out_battery">Не удается удалить:
- устройство настроено на эту конфигурацию, когда батарея зарядится. Измените настройки батареи, прежде чем удалить эту конфигурацию.</string>
+     <string name="power_dialog_delete_dialog_cannot_delete_low_out_battery">"Не удается удалить:
+ устройство настроено на эту конфигурацию, когда батарея зарядится. Измените настройки батареи, прежде чем удалить эту конфигурацию."</string>
      <string name="power_dialog_delete_dialog_cannot_delete_on_out_time">Не удается удалить: устройство настроено на эту конфигурацию, когда когда выбранный период закончится. Измените настройки батареи, прежде чем удалить эту конфигурацию.</string>
      <string name="power_dialog_delete_dialog_cannot_delete_on_time">"Не удается удалить: конфигурация возможно используется.
  Вам нужно изменить настройки батареи, прежде чем удалить эту конфигурацию."</string>
@@ -2249,7 +2251,7 @@
      <string name="power_mode_auto_clean_memory_never">Никогда</string>
      <string name="power_mode_balanced_title">Включить балансировку мощности</string>
      <string name="power_mode_bluetooth">Bluetooth</string>
-	 <string name="power_mode_chooser_button_text">Применить</string>
+     <string name="power_mode_chooser_button_text">Применить</string>
      <string name="power_mode_cpu_state">Исполь. ЦП</string>
      <string name="power_mode_cpu_state_balance">Сбалансированное</string>
      <string name="power_mode_cpu_state_balance_desc">Увеличивать производительность по мере необходимости</string>
@@ -2278,13 +2280,13 @@
      <string name="power_mode_vibration_silence">В режиме \"Без звука\"</string>
      <string name="power_mode_vibration_yes">Всегда</string>
      <string name="power_mode_wifi">Wi-Fi</string>
-	 <string name="power_new_choose_mode">Выберите конфигурацию</string>
+     <string name="power_new_choose_mode">Выберите конфигурацию</string>
      <string name="power_perm_logs_empty">Пусто</string>
      <string name="power_phone">Голосовые вызовы</string>
      <string name="power_save_choose_mode">Выберите конфигурацию</string>
-	 <string name="power_save_choose_recovery_mode">Выберите конфигурацию</string>
+     <string name="power_save_choose_recovery_mode">Выберите конфигурацию</string>
      <string name="power_save_low_battery_auto_save_title">Включить</string>
-	 <string name="power_save_low_battery_option_recovery_title">Если батарея заряжена</string>
+     <string name="power_save_low_battery_option_recovery_title">Если батарея заряжена</string>
      <string name="power_save_low_battery_option_summary">После подзарядки батареи выше нижнего порога, устройство вернется к последнему режиму</string>
      <string name="power_save_low_battery_option_title">Если батарея села</string>
      <string name="power_save_low_battery_percentage_fifty">50%</string>
@@ -2297,9 +2299,9 @@
      <string name="power_save_on_time_auto_save_title">Включить</string>
      <string name="power_save_on_time_default_time">00:00</string>
      <string name="power_save_on_time_end_time_summary">конец</string>
-	 <string name="power_save_on_time_goout_title">Венуться на</string>
-     <string name="power_save_on_time_option_recovery_title">По завершению периода</string>
      <string name="power_save_on_time_end_time_title">%1$d: %2$d</string>
+     <string name="power_save_on_time_goout_title">Венуться на</string>
+     <string name="power_save_on_time_option_recovery_title">По завершению периода</string>
      <string name="power_save_on_time_option_summary">По завершению периода включится последний режим</string>
      <string name="power_save_on_time_option_title">В этот период</string>
      <string name="power_save_on_time_start_time_summary">начало</string>
@@ -2929,7 +2931,7 @@
      <string name="tls_summary_on">TLS включен</string>
      <string name="tls_title">TLS</string>
      <string name="toast_qucik_scan_list_empty">Чистка не требуется</string>
-	 <string name="toast_shortcut_install">Ярлык создан</string>
+     <string name="toast_shortcut_install">Ярлык создан</string>
      <string name="toast_shortcut_uninstall">Ярлык удален</string>
      <string name="total_size">всего %s</string>
      <string name="total_size_label">Всего</string>

@@ -111,6 +111,8 @@
      <string name="error_verify_summary">Приложение не имеет разрешения на запрос этого сервиса</string>
      <string name="error_verify_title">Нет доступа</string>
      <string name="forget_password"><u>Забыли пароль?</u></string>
+     <string name="format_date">d MMMM yyyy</string>
+     <string name="format_time">d MMMM yyyy hh:mmaa</string>
      <string name="frozen">(заморожен)</string>
      <string name="giftcard_acitivity_and_denomination">Подарочная карта на %2$s MiCredit от %1$s</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
@@ -188,7 +190,7 @@
      <string name="onemore_click_exit">Нажмите еще раз для выхода</string>
      <string name="order_price">%1$s MiCredits</string>
      <string name="password_error">Неверный пароль</string>
-	 <string name="password_forget">Забыли пароль?</string>
+     <string name="password_forget">Забыли пароль?</string>
      <string name="password_hint">Введите пароль от аккаунта</string>
      <string name="pay_record_empty">Нет записей</string>
      <string name="pay_record_typeall">Все</string>

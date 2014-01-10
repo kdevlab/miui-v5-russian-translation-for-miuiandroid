@@ -97,7 +97,7 @@
      <string name="gadget_no_events">Нет предстоящих мероприятий</string>
      <string name="gadget_title">Календарь</string>
      <string name="goto_today">Сегодня</string>
-	 <string name="gou_piao_event_title">Напоминание поездки %s</string>
+     <string name="gou_piao_event_title">Напоминание поездки %s</string>
      <string name="gou_piao_item1">Напомнить мне о времени для поездов</string>
      <string name="gou_piao_item2">Бронирование по телефону 12306</string>
      <string name="gou_piao_item3">Купка билетов по телефону 12306</string>
@@ -184,7 +184,7 @@
      <string name="show_almanac">Показывать альманах</string>
      <string name="show_controls">Показать элементы управления</string>
      <string name="show_day_view">Показать день</string>
-	 <string name="show_gou_piao">Показывать календарь билетов</string>
+     <string name="show_gou_piao">Показывать календарь билетов</string>
      <string name="show_newer_events">Нажмите для поиска других мероприятий после %1$s</string>
      <string name="show_older_events">Нажмите для поиска других мероприятий до %1$s</string>
      <string name="snooze_all_label">Отложить все</string>

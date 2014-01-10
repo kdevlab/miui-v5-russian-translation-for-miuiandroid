@@ -13,7 +13,6 @@
      <string name="act_set_city_re_find_side">Определение…</string>
      <string name="act_weather_aqi_share">Поделиться</string>
      <string name="act_weather_aqi_title">Индекс чистота воздуха</string>
-     <string name="act_weather_cycle_link_china">Китайская сеть погоды</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="act_weather_cycle_low_temp">low</string>
      <string name="act_weather_cycle_update">Обновление…</string>
@@ -78,13 +77,11 @@
      <string name="location_management">Управление городами</string>
      <string name="location_notification">Уведомления о погоде</string>
      <string name="menu_about">О программе</string>
-     <string name="menu_add">Добавить город</string>
      <string name="menu_around">Рядом</string>
      <string name="menu_chart">Диаграмма</string>
      <string name="menu_delete">Удалить</string>
      <string name="menu_location">Местоположение</string>
      <string name="menu_main">Индекс</string>
-     <string name="menu_more">Сведения</string>
      <string name="menu_notification">Уведомления</string>
      <string name="menu_reload">Обновить</string>
      <string name="menu_reloading">Обновление…</string>

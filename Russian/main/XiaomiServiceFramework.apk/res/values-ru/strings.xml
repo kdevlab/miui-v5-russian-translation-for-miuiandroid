@@ -113,7 +113,7 @@
      <string name="enableAll">Включить все</string>
      <string name="enable_find_device_error">%1$s, ошибка включения поиска</string>
      <string name="enable_micloud">Включить облачные сервисы</string>
-	 <string name="enable_sync">Включить</string>
+     <string name="enable_sync">Включить</string>
      <string name="enable_sync_dspt">Синхронизация отключена</string>
      <string name="error_account_changed_summary">Ваш аккаунт был изменен. Проверьте и перезапустите</string>
      <string name="error_account_changed_title">Аккаунт был изменен</string>
@@ -190,7 +190,7 @@
      <string name="mibi_license_message_span">Пользовательское соглашение MiCredit</string>
      <string name="mibi_license_title">Пользовательское соглашение</string>
      <string name="micloud_account">Аккаунт</string>
-	 <string name="micloud_account_details">Сведения об аккаунте</string>
+     <string name="micloud_account_details">Сведения об аккаунте</string>
      <string name="micloud_account_label">Аккаунт: %1$s</string>
      <string name="micloud_account_name">Аккаунт Xiaomi</string>
      <string name="micloud_account_not_actived">Аккаунт не активирован</string>
@@ -208,10 +208,10 @@
      <string name="micloud_activing_account_delayed">"До завершения активации осталось около 30 секунд.
 Вы можете сделать что-то еще…"</string>
      <string name="micloud_activing_account_failed">Ошибка активации</string>
-	 <string name="micloud_app_data">Бэкап приложений</string>
+     <string name="micloud_app_data">Бэкап приложений</string>
      <string name="micloud_click_email">Нажмите на ссылку в письме активации для активации аккаунта Xiaomi</string>
      <string name="micloud_click_email_to_valid">Нажмите на ссылку активации в почтовом ящике</string>
-	 <string name="micloud_data_loading">Загрузка…</string>
+     <string name="micloud_data_loading">Загрузка…</string>
      <string name="micloud_delete_account">Удалить аккаунт</string>
      <string name="micloud_dspt">Облачные сервисы включают облачные сообщения, синхронизацию, поиск устройства и другое. Вы также можете управлять своими данными онлайн в любое время!</string>
      <string name="micloud_email">Почта</string>
@@ -221,7 +221,7 @@
      <string name="micloud_error_empty_username">Нет имени</string>
      <string name="micloud_error_empty_vcode">Введите проверочный код</string>
      <string name="micloud_error_illegal_pwd">Неверный пароль</string>
-	 <string name="micloud_full_influence_dspt">"Все Ваши фотографии, видео, заметки и приложения будут сохранены в облаке.
+     <string name="micloud_full_influence_dspt">"Все Ваши фотографии, видео, заметки и приложения будут сохранены в облаке.
 
  Таким образом, если Вы потеряете или повредите устройство, все данные будут в безопасности.
 
@@ -229,7 +229,7 @@
 
  Чтобы добавить новые данные, Вы можете либо очистить старые файлы или приобрести дополнительное место в облаке для хранения."</string>
      <string name="micloud_full_influence_title">Облако заполнено</string>
-	 <string name="micloud_gallery_image">Изображения</string>
+     <string name="micloud_gallery_image">Изображения</string>
      <string name="micloud_gallery_video">Видео</string>
      <string name="micloud_input_password_prompt">Введите пароль</string>
      <string name="micloud_intro_01_part_01">Экономия на SMS</string>
@@ -240,21 +240,21 @@
      <string name="micloud_intro_03_part_02">Управление данными, блокировка, очистка и т.д. на i.xiaomi.com</string>
      <string name="micloud_is_what">Что такое MiCloud?</string>
      <string name="micloud_more">Подробнее</string>
-	 <string name="micloud_none">Ничего</string>
+     <string name="micloud_none">Ничего</string>
      <string name="micloud_password_confirm_hint">Подтвердите пароль</string>
      <string name="micloud_password_error_inconsistent">Несоответсвие паролей</string>
      <string name="micloud_password_req_notice">8~16 символов, содержит цифры, буквы алфавита, с учетом регистра</string>
      <string name="micloud_proceed">Продолжить</string>
      <string name="micloud_reg_new">Новый</string>
      <string name="micloud_resend_active_email">Повторно отправить письмо активации</string>
-	 <string name="micloud_space_full_influence"><u>Закончилось место в облаке?</u></string>
+     <string name="micloud_space_full_influence"><u>Закончилось место в облаке?</u></string>
      <string name="micloud_storage_space">Информация облака</string>
      <string name="micloud_summary">Войдите в аккаунт Xiaomi для синхронизации контактов, галереи и других функций</string>
-	 <string name="micloud_title_dspt" formatted="false">"Всего: %s 
+     <string name="micloud_title_dspt" formatted="false">"Всего: %s 
 занято: %s | свободно: %s"</string>
      <string name="micloud_title_full_dspt">Вы достигли предела места в облаке</string>
      <string name="micloud_use_existing">Существующий</string>
-	 <string name="micloud_user_base_info">Общая информация</string>
+     <string name="micloud_user_base_info">Общая информация</string>
      <string name="micloud_user_email">Почта</string>
      <string name="micloud_user_id">ID</string>
      <string name="micloud_user_name">Имя</string>
@@ -262,7 +262,7 @@
      <string name="micloud_user_space_usage">Облако</string>
      <string name="micloud_via_int_sms_alert">Будет отправлено международное сообщение для подтверждения Вашего телефонного номера. Продолжить?</string>
      <string name="micloud_via_sms_alert">Будет отправлено сообщение для подтверждения Вашего телефонного номера. Продолжить?</string>
-	 <string name="micloud_warn_full_msg">Вы достигли предела места в облаке</string>
+     <string name="micloud_warn_full_msg">Вы достигли предела места в облаке</string>
      <string name="micloud_warn_full_sum">На данный момент новые данные не будут синхронизироваться с Вашим облаком</string>
      <string name="micloud_warn_full_title">Недостаточно метса</string>
      <string name="micloud_warn_low_sum">Вы использовали 90% места для хранения в облаке</string>

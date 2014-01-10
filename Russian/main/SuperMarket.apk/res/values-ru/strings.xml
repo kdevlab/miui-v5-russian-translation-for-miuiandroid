@@ -3,8 +3,6 @@
 <resources>
      <string name="account_not_activated">Аккаунт не активирован. Активируйте и повторите еще раз.</string>
      <string name="activate_now">Активировать</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="ad_indicator">AD</string>
      <string name="all_comments">Все</string>
      <string name="already_bottom">Конец страницы</string>
      <string name="app_comments">Комментарии</string>
@@ -49,16 +47,8 @@
      <string name="comment_upload_not_logined">Пожалуйста, сначала войдите в аккаунт</string>
      <string name="comment_upload_success">Комментарий отправлен!</string>
      <string name="comment_version_name">(версия %1$s)</string>
-     <!-- The count of MNPS does not match! Now: 1 must: 0
-	%s: 1 must: 0
-	%d: 0 must: 0 -->
-     <!-- Original string: Failed to download: Lost network connection -->
      <string name="connect_fail">Ошибка установки %1$s: ошибка соединения, проверьте подключение к сети</string>
      <string name="connect_no_enough_space">Не хватает места для установки приложения. Освободите место и попробуйте снова.</string>
-     <!-- The count of MNPS does not match! Now: 1 must: 0
-	%s: 1 must: 0
-	%d: 0 must: 0 -->
-     <!-- Original string: Failed to download: Unfortunately, there is no installer for your phone -->
      <string name="connect_no_fit_fail">Ошибка установки %1$s: установочный пакет не подходит для вашего телефона</string>
      <string name="connecting">Подключение…</string>
      <string name="data_save_mode_tip">Изображения отключены</string>
@@ -210,10 +200,6 @@
      <string name="notif_description_from_market">из Mi Store</string>
      <string name="notif_install_failed">Сбой установки %1$s</string>
      <string name="notif_install_successful">Установка завершена</string>
-     <!-- The count of MNPS does not match! Now: 1 must: 0
-	%s: 1 must: 0
-	%d: 0 must: 0 -->
-     <!-- Original string: Installed -->
      <string name="notif_install_successful_default">%1$s установлено</string>
      <string name="notif_installing">Установка %1$s…</string>
      <string name="notif_summary_auto_update_failed">Ошибка автообновления</string>
@@ -256,9 +242,7 @@
      <string name="pref_summary_data_save">Не отображать картинки при мобильном интернете</string>
      <string name="pref_summary_feature_intro">Узнайте больше о возможностях Xiaomi маркета</string>
      <string name="pref_summary_web_dev0">Посетите:</string>
-     <string name="pref_summary_web_dev1">http://dev.xiaomi.com</string>
      <string name="pref_summary_web_market0">Посетите:</string>
-     <string name="pref_summary_web_market1">http://app.xiaomi.com</string>
      <string name="pref_title_about">О программе</string>
      <string name="pref_title_auto_update">Загружать и обновлять новые версии установленных приложений (только при Wi-Fi подключении)</string>
      <string name="pref_title_auto_update_setting">Настройки автообновления</string>
@@ -314,10 +298,6 @@
      <string name="signature_inconsistent_message">Приложение имеет противоречивую подпись в маркете. Продолжить обновление?</string>
      <string name="size_interval">%1$d~%2$dM</string>
      <string name="size_more_than_one_hundred">Более 100МБ</string>
-     <!-- The count of MNPS does not match! Now: 1 must: 0
-	%s: 1 must: 0
-	%d: 0 must: 0 -->
-     <!-- Original string: "Failed to update: App signatures don't match" -->
      <string name="system_app_sign_not_match_fail">Ошибка установки %1$s: несовместимая подпись приложения</string>
      <string name="tab_favorites">Избранные</string>
      <string name="tab_local_apps">Телефон</string>

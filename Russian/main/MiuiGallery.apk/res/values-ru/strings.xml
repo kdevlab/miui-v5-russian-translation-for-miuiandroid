@@ -185,7 +185,7 @@
      <string name="exposure_time">Выдержка</string>
      <string name="external_sd_card">SD-карта</string>
      <string name="external_usb_device">USB накопитель</string>
-	 <string name="external_usb_device_hm">Внешний USB накопитель</string>
+     <string name="external_usb_device_hm">Внешний USB накопитель</string>
      <string name="facelift">Сияние</string>
      <string name="facetan">Загар</string>
      <string name="fail_hint">Сбой операции</string>
@@ -239,10 +239,10 @@
      <string name="internal_camera_folder_display_name">Фотографии камеры</string>
      <string name="internal_miui_capture_screen_folder_display_name">Скриншоты в памяти телефона</string>
      <string name="internal_sd_card">Память телефона</string>
-	 <string name="internal_sd_card_hm">Память телефона</string>
+     <string name="internal_sd_card_hm">Память телефона</string>
      <string name="invalid_invition_url">Неверная ссылка приглашения</string>
      <string name="invalid_recipient_message">Исправьте получателя (получателей) или они не будут получать сообщения</string>
-	 <string name="item_not_sync">Этот файл не был синхронизирован с облаком и не может быть загружен</string>
+     <string name="item_not_sync">Этот файл не был синхронизирован с облаком и не может быть загружен</string>
      <string name="kick_owner_user_positive_button_text">Удалить</string>
      <string name="kick_owner_user_title">Удалить этот номер?</string>
      <string name="kick_sharer">Удалить получателя</string>
@@ -285,7 +285,7 @@
      <string name="modify_allow_hint">Добавление новых изображений в альбом разрешено</string>
      <string name="modify_disallow_hint">Добавление новых изображений в альбом запрещено</string>
      <string name="more">Еще</string>
-	 <string name="move">Переместить</string>
+     <string name="move">Переместить</string>
      <string name="move_to_cloud_album">Переместить</string>
      <string name="multiface_crop_help">Нажмите на лицо, чтобы начать</string>
      <string name="must_pick_file">Выберите изображение</string>

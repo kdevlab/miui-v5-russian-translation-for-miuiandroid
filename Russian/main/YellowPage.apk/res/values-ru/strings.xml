@@ -8,7 +8,7 @@
      <string name="app_label">Желтые страницы</string>
      <string name="balance_inquiry_default_sp_name">Оператор</string>
      <string name="balance_inquiry_send_sms_hint">Будет отправлено бесплатное сообщение для запроса баланса</string>
-	 <string name="balance_inquiry_send_sms_summmary">Проверить состояние баланса</string>
+     <string name="balance_inquiry_send_sms_summmary">Проверить состояние баланса</string>
      <string name="balance_inquiry_title">Состояние баланса</string>
      <string name="callrecordview_item_newcontact">Новый контакт</string>
      <string name="callrecordview_item_op_time_minutes_seconds">%1$d мин. %2$d сек.</string>
@@ -47,7 +47,7 @@
      <string name="express_inquiry_serial_number_prefix">"Номер: "</string>
      <string name="expresss_inquiry_all_logistics">Все</string>
      <string name="expresss_inquiry_frequently_used_logistics">Частые</string>
-	 <string name="general_cancel_favorite_ok">Убрано</string>
+     <string name="general_cancel_favorite_ok">Убрано</string>
      <string name="general_delete_recent_ok">Удалено</string>
      <string name="general_favorite_title">Избранные</string>
      <string name="general_menu_delete_recent">Удалить недавние</string>

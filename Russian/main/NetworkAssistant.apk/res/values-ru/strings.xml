@@ -49,7 +49,6 @@
      <string name="custom_adjust_recevier_same_with_sender">одинаковый с отправителем номер</string>
      <string name="custom_adjust_sender">Номер отправителя</string>
      <string name="custom_adjust_sender_hint">номер оператора, используемый для приема запроса информации от пользователя</string>
-     <string name="custom_adjust_summary">%1$s, %2$s, %3$s</string>
      <string name="custom_adjust_title">Пользовательские настройки</string>
      <string name="daily_limit_dialog_disconnect_hint">Отключать интернет при превышении лимита трафика</string>
      <string name="daily_limit_dialog_hint">Ежедневный лимит (пусто или 0 - без ограничений)</string>

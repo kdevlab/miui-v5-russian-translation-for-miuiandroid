@@ -308,11 +308,11 @@
      <string name="move_to_up_folder">на уровень выше</string>
      <string name="multi_select_title">Выбрано %1$s закладок</string>
      <string name="name">Ярлык</string>
-	 <string name="network_alert_message">Wi-Fi сеть недоступна. Использовать мобильный интернет?</string>
      <string name="navigation_button_close">Закрыть</string>
      <string name="navigation_button_newtab">Новая</string>
      <string name="navigation_button_tab">Вкладки</string>
      <string name="navigation_button_view">Вид</string>
+     <string name="network_alert_message">Wi-Fi сеть недоступна. Использовать мобильный интернет?</string>
      <string name="network_show_wifi_setting_tip_dialog_description">Подключиться к сети сейчас?</string>
      <string name="network_show_wifi_setting_tip_dialog_notshow">Запомнить выбор</string>
      <string name="network_show_wifi_setting_tip_dialog_setting_cate_title">Уведомление о Wi-Fi</string>
@@ -321,7 +321,7 @@
      <string name="new_folder">Новая папка</string>
      <string name="new_incognito_tab">Новая вкладка (инкогнито)</string>
      <string name="new_tab">Новая вкладка</string>
-	 <string name="no">Нет</string>
+     <string name="no">Нет</string>
      <string name="no_subfolders">Нет подпапок</string>
      <string name="not_enough_disk_space_alert">Не хватает места на диске</string>
      <string name="not_remind_again">Больше не напоминать</string>
@@ -646,5 +646,5 @@
      <string name="webstorage_origin_summary_mb_stored">Объем занятой памяти телефона (МБ)</string>
      <string name="webstorage_outofspace_notification_text">Нажмите, чтобы освободить место</string>
      <string name="webstorage_outofspace_notification_title">Память браузера переполнена</string>
-	 <string name="yes">Да</string>
+     <string name="yes">Да</string>
 </resources>
