@@ -113,14 +113,22 @@
         <item>windows-1251</item>
         <item></item>
     </string-array>
-     <string-array name="search_engines">
-        <item>google</item>
-        <item>yandex_ru</item>
-        <item>bing</item>
-     </string-array>
-     <string-array name="search_engines_default">
-        <item>google</item>
-        <item>yandex_ru</item>
-        <item>bing</item>
-     </string-array>
+    <string-array name="yandex_ru">
+        <item>Яндекс</item>
+        <item>yandex.ru</item>
+        <item>http://yandex.ru/favicon.ico</item>
+        <item>http://yandex.ru/yandsearch?text={searchTerms}</item>
+        <item>UTF-8</item>
+        <item>http://suggest.yandex.net/suggest-ff.cgi?part={searchTerms}</item>
+    </string-array>
+    <string-array name="search_engines">
+       <item>google</item>
+       <item>yandex_ru</item>
+       <item>bing</item>
+    </string-array>
+    <string-array name="search_engines_default">
+       <item>google</item>
+       <item>yandex_ru</item>
+       <item>bing</item>
+    </string-array>
 </resources>
