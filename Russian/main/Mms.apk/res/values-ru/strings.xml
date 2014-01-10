@@ -100,7 +100,7 @@
      <string name="delete_phrase">Удалить шаблон</string>
      <string name="delete_unlocked">Удалить закрепленные сообщения</string>
      <string name="delivery_report_activity">Отчет о доставке</string>
-     <string name="delivery_toast_body">%s: сообщение доставлено</string>
+     <string name="delivery_toast_body">Сообщение доставлено %s</string>
      <string name="disable_notifications_dialog_message">Не дублировать уведомления об SMS из приложения обмена сообщениями по умолчанию</string>
      <string name="discard">Отменить</string>
      <string name="discard_message">Отмена</string>
@@ -114,7 +114,7 @@
      <string name="duration_not_a_number">Должно быть указано числовое значение</string>
      <string name="duration_sec">Продолжительность: (%s сек.)</string>
      <string name="duration_selector_title">"Продолжительность показа слайда "</string>
-     <string name="duration_zero">Значение должно быть больше нуля.</string>
+     <string name="duration_zero">Значение должно быть больше нуля</string>
      <string name="edit">Изменить</string>
      <string name="edit_nickname_for_nocontact">Нет получателей. Добавьте хотя бы одного получателя, для изменения псевдонима.</string>
      <string name="edit_nickname_for_nocontact_by_robot">Добавьте хотя бы одного получателя, для изменения псевдонима</string>

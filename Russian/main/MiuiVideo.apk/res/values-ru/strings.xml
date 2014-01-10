@@ -8,7 +8,6 @@
      <string name="adjust_position_next_media_notice">Далее</string>
      <string name="adjust_position_prev_media_notice">Назад</string>
      <string name="airkan_control_device_des">Вы можете управлять воспроизведением видео с помощью кнопки в нижней части</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="airkan_device_xiaomi_phone">Xiaomi</string>
      <string name="airkan_video_playing">воспроизводится</string>
      <string name="airkan_video_playing_in">Видео</string>
@@ -76,15 +75,12 @@
      <string name="declaration_content">Вы принимаете условия использования предусмотренных Sohu Video, iQiyi и других контент-провайдеров видео?</string>
      <string name="delete">Удалить</string>
      <string name="delete_media">Удалить</string>
-     <string name="delete_media_content">Удалить этот элемент?</string>
+     <string name="delete_media_content">Удалить выбранные файлы?</string>
      <string name="di_count_ji">%d серия</string>
      <string name="di_count_qi">%s сезон</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="dianyingwang">M1905</string>
      <string name="director_colon">"Режиссер: "</string>
      <string name="disk_volume">SD-карта</string>
      <string name="dlna_list_name">DLNA устройство</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="dlna_name">Shared device</string>
      <string name="download">Кэш</string>
      <string name="download_add_file_fail">Ошибка создания файла. Достаточно ли у вас свободного места?</string>
@@ -98,10 +94,8 @@
      <string name="end_live_status">Завершен</string>
      <string name="episode_prefix">"эпизод "</string>
      <string name="episode_suffix" />
-     <string name="favorite">Избранное</string>
+     <string name="favorite">избранное</string>
      <string name="favorited_cannot_hide">Избранные нельзя скрыть</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="fenghuang">iFeng</string>
      <string name="file_not_exist">Файл не найден</string>
      <string name="filter">Фильтр</string>
      <string name="filter_media">Фильтр видео</string>
@@ -111,7 +105,6 @@
      <string name="find_media_searching">Поиск…</string>
      <string name="finish">Готово</string>
      <string name="finish_download">Загрузка завершена</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="forecast_living_status">Live</string>
      <string name="fullscreen_hint_auto">Переключение в полноэкранный режим…</string>
      <string name="fullscreen_hint_horizontal">Для перехода в полный экран, нажмите иконку в верхнем левом углу</string>
@@ -119,7 +112,6 @@
      <string name="fullscreen_to_play">Полный экран</string>
      <string name="gong_count_dlna">DLNA: %d</string>
      <string name="gong_count_xiang">Файлов: %d</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="good">OK</string>
      <string name="have_no_cameravideo">Нет видео</string>
      <string name="have_no_offlinemedia">Пусто</string>
@@ -201,9 +193,8 @@
      <string name="no_login_xiaomi_account">Войдите в Xiaomi аккаунт прежде чем комментировать</string>
      <string name="no_media">Пусто</string>
      <string name="no_myfavorite">Пусто</string>
-     <string name="no_myfavorite_advice">Рекомендованное</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="no_myfavorite_advice_onlylocal">Star local videos</string>
+     <string name="no_myfavorite_advice">Рекомендуем добавить</string>
+     <string name="no_myfavorite_advice_onlylocal">Локальное видео</string>
      <string name="no_playhistory">Пусто</string>
      <string name="no_reviews">Нет комментариев</string>
      <string name="no_search_result">Ничего не найдено. Попробуйте другой поиск по ключевым словам.</string>
@@ -225,10 +216,8 @@
      <string name="offline_media_more">Еще</string>
      <string name="offline_no_source">Нет источника</string>
      <string name="offline_no_wifi">Вы не используете Wi-Fi сеть. Проверьте в настройках опцию мобильный интернет, если хотите продолжить.</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="offline_select_better_source">Has been switched to available caching source</string>
+     <string name="offline_select_better_source">Переключено на доступный источник</string>
      <string name="offline_setting">Оффлайн медиа</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="ok">OK</string>
      <string name="open_camera">Камера</string>
      <string name="other_setting">Прочие</string>
@@ -246,8 +235,6 @@
      <string name="play_setting">Воспроизведение</string>
      <string name="playvideo">Воспроизвести</string>
      <string name="publish">Отправить</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="qiyi">iQiyi</string>
      <string name="rank">Топ</string>
      <string name="recentplay">Недавние</string>
      <string name="recommendation">Рекомендуем</string>
@@ -266,8 +253,6 @@
      <string name="series_colon">"Эпизодов: "</string>
      <string name="setting">Настройки</string>
      <string name="show_hidemedia">Показывать скрытые файлы</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="souhu">Souhu</string>
      <string name="special_subject">Специальные</string>
      <string name="start_download">Скачать</string>
      <string name="subchannel_all">Все</string>
@@ -277,8 +262,6 @@
      <string name="success_to_cancel_myfavorite">Отменено</string>
      <string name="tags_colon">"Жанр: "</string>
      <string name="temp_play_history_button_label">История просмотров</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="tencent">Tencent</string>
      <string name="time_colon">"Год: "</string>
      <string name="to_be_play_label_v5">"Далее: "</string>
      <string name="to_live_status">Ожидание начала</string>
@@ -291,8 +274,6 @@
      <string name="today">"Сегодня "</string>
      <string name="top_status_local_media">Локально</string>
      <string name="top_status_online_media">Онлайн</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="tudou">Tudou</string>
      <string name="unknown_source">Неизвестный источник</string>
      <string name="update">Обновлено</string>
      <string name="update_to_count_ji">Добавлена %d серия</string>
@@ -311,7 +292,6 @@
      <string name="video_info_video_coding_label">Видео кодек:</string>
      <string name="video_library">Видео</string>
      <string name="view_all_reviews">Еще %d коммен.</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="vp_VideoView_error_button">OK</string>
      <string name="vp_VideoView_error_network_not_available">Сеть не доступна</string>
      <string name="vp_VideoView_error_text_invalid_progressive_playback">Невозможно воспроизвести видео</string>
@@ -319,13 +299,10 @@
      <string name="vp_VideoView_error_title">Ошибка воспроизведения!</string>
      <string name="waitfornewset">Следовать</string>
      <string name="waitfornewset_tip_content">Вы будете уведомлены, когда новый эпизод или дополнительный контент будет доступен</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="will_live_status">Live</string>
      <string name="write_comment">Добавить</string>
      <string name="xiaomi_account_type_unsupported">Ваша система не поддерживает аккаунт Xiaomi</string>
      <string name="xiaomi_user">Аккаунт Xiaomi</string>
      <string name="year">Год</string>
      <string name="yestorday">"Вчера "</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="youku">Youku</string>
 </resources>
