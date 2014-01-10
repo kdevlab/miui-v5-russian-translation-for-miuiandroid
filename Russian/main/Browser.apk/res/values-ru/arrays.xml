@@ -136,4 +136,9 @@
        <item>yandex_ru</item>
        <item>bing</item>
     </string-array>
+    <string-array name="search_bar_search_engines_default">
+        <item>google</item>
+        <item>yandex_ru</item>
+        <item>bing</item>
+     </string-array>
 </resources>
