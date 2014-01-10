@@ -52,7 +52,7 @@
             "title":"Facebook",
             "url":"http://m.facebook.com/",
             "thumbnail":"facebook.png",
-            "logobg":"bg14.9.png",
+            "logobg":"bg08.9.png",
 			"nightModeMask": "night.9.png",
             "favicon":"",
 	    "displayName": "Facebook",
@@ -85,13 +85,13 @@
 	    "position": 6
         },
 		{
-            "title":"MIUI English",
-            "url":"http://en.miui.com/",
-            "thumbnail":"en_miui.png",
+            "title":"MIUI forum",
+            "url":"http://en.miui.com/forum.php",
+            "thumbnail":"miui_forum.png",
             "logobg":"bg10.9.png",
 			"nightModeMask": "night.9.png",
             "favicon":"",
-		"displayName": "MIUI English",
+		"displayName": "MIUI forum"
 		"isDelete": true,
 	    "movable": true,
 	    "position": 7
@@ -143,6 +143,42 @@
 		"isDelete": true,
 	    "movable": true,
 	    "position": 11
+        },
+		{
+            "title":"Twitter",
+            "url":"http://twitter.com",
+            "thumbnail":"twitter_ru.png",
+            "logobg":"bg06.9.png",
+			"nightModeMask": "night.9.png",
+            "favicon":"",
+		"displayName": "Twitter"
+		"isDelete": true,
+	    "movable": true,
+	    "position": 12
+        },
+		{
+            "title":"SoundCloud",
+            "url":"http://m.soundcloud.com/",
+            "thumbnail":"soundcloud.png",
+            "logobg":"bg04.9.png",
+			"nightModeMask": "night.9.png",
+            "favicon":"",
+	    "displayName": "SoundCloud"
+		"isDelete": true,
+	    "movable": true,
+	    "position": 13
+        },
+		{
+            "title":"Yandex",
+            "url":"http://www.yandex.ru/",
+            "thumbnail":"yandex.png",
+            "logobg":"bg02.9.png",
+            "nightModeMask": "night.9.png",
+            "favicon":"",
+	    "displayName": "Yandex"
+		"isDelete": true,
+	    "movable": true,
+	    "position": 14
         }
 	],
 "topquicklinks": [	
@@ -159,7 +195,7 @@
             "title":"Twitter",
             "url":"http://twitter.com",
             "thumbnail":"twitter_ru.png",
-            "logobg":"bg03.9.png",
+            "logobg":"bg06.9.png",
 			"nightModeMask": "night.9.png",
             "favicon":"",
 		"displayName": "Twitter"

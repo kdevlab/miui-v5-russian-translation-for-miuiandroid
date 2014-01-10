@@ -409,7 +409,7 @@
      <string name="group_delete_success_toast">Группа удалена</string>
      <string name="group_edit_field_hint_text">Название группы</string>
      <string name="group_member_remove_toast">Контакт удален из группы</string>
-     <string name="group_name">Мои группы</string>
+     <string name="group_name">Группы</string>
      <string name="group_name_hint">Название группы</string>
      <string name="group_read_only">Здесь доступно только для чтения</string>
      <string name="group_rename_dialog_title">Переименование группы</string>
@@ -557,7 +557,7 @@
      <string name="menu_viewContact">Просмотреть контакт</string>
      <string name="merge_contact_message">Похожих контактов: %1$d</string>
      <string name="messageShortcutActivityTitle">Выбрать номер для отправки сообщения</string>
-     <string name="missing_name">(без имени)</string>
+     <string name="missing_name">Имя не указано</string>
      <string name="move_and_resize">Изменение размера и положения</string>
      <string name="msg_loading_sim_contacts_toast">Загрузка контактов SIM-карты в фоновом режиме. Пожалуйста, подождите…</string>
      <string name="multipleContactDeleteConfirmation">Удаление этого контакта приведет к потере данных из нескольких аккаунтов</string>
