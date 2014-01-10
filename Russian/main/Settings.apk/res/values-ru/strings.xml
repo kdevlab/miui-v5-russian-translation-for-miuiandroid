@@ -230,10 +230,11 @@
      <string name="apn_auth_type_none">Нет</string>
      <string name="apn_auth_type_pap_chap">PAP или CHAP</string>
      <string name="apn_edit">Изменить точку доступа</string>
-     <string name="apn_general">Интернет</string>
+     <string name="apn_general">Точки доступа интернет</string>
      <string name="apn_http_port">Порт</string>
      <string name="apn_http_proxy">Прокси</string>
      <string name="apn_list_category_title">Точки доступа</string>
+	 <string name="apn_mms">Точки доступа MMS</string>
      <string name="apn_mms_port">Порт MMS</string>
      <string name="apn_mms_proxy">Прокси-сервер MMS</string>
      <string name="apn_name">Имя</string>

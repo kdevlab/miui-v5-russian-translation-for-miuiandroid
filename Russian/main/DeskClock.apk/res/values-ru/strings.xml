@@ -19,8 +19,8 @@
      <string name="alarm_notify_snooze_text">Будильник отложен. Нажмите, чтобы выключить.</string>
      <string name="alarm_notify_text">Отложить/выключить будильник</string>
      <string name="alarm_repeat">Дни недели</string>
-     <string name="alarm_screen">Тема будильника</string>
-     <string name="alarm_settings">Дополнительные</string>
+     <string name="alarm_screen">Тема</string>
+     <string name="alarm_settings">Настройки темы</string>
      <string name="alarm_vibrate">Вибрация</string>
      <string name="alarm_volume_summary">Настройка громкости будильника</string>
      <string name="alarm_volume_title">Громкость</string>
@@ -34,13 +34,13 @@
      <string name="cancel">Стоп</string>
      <string name="clock_instructions">Выберите часы</string>
      <string name="close_alarm">Отключить будильник</string>
-     <string name="common_settings">Общие</string>
+     <string name="common_settings">Общие настройки</string>
      <string name="confirm_abort">Да</string>
      <string name="control_set_alarm">Установить будильник</string>
      <string name="control_set_alarm_with_existing">Будильник установлен на %s</string>
      <string name="day">1 день</string>
      <string name="day_concat">", "</string>
-     <string name="days">%s д.</string>
+     <string name="days">%s дн.</string>
      <string name="default_alarm_alert">Мелодия и тема</string>
      <string name="default_alarm_title">Стандартная мелодия</string>
      <string name="default_label">Будильник</string>
@@ -58,7 +58,6 @@
      <string name="elapsed_hour">%d ч.</string>
      <string name="enable_alarm">Включить будильник</string>
      <string name="every_day">каждый день</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="full_wday_month_day_no_year">EEEE, d MMMM</string>
      <string name="gallery_button_description">Галерея</string>
      <string name="hide_clock">Спрятать часы</string>
@@ -69,7 +68,7 @@
      <string name="keep_screen_on">Не выключать экран</string>
      <string name="label">Описание</string>
      <string name="lap">Круг</string>
-     <string name="lap_num">Круг</string>
+     <string name="lap_num">круг</string>
      <string name="legal_workday">Рабочие дни</string>
      <string name="legal_workday_invalidate">Данные просрочены (сейчас будильник звонит с пон. по пят.)</string>
      <string name="legal_workday_invalidate_message">(обновите базу)</string>
