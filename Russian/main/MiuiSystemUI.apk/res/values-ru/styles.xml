@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="StatusBarGridItem">
+        <item name="android:textSize">@dimen/toggle_text_size</item>
+        <item name="android:textColor">@color/toggle_lable_color</item>
+        <item name="android:ellipsize">marquee</item>
+        <item name="android:gravity">center</item>
+        <item name="android:layout_gravity">center</item>
+        <item name="android:background">@drawable/status_bar_grid_item_bg</item>
+        <item name="android:layout_width">0.0dip</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:lines">1</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:editable">false</item>
+        <item name="android:scrollHorizontally">true</item>
+        <item name="android:layout_weight">1.0</item>
+    </style>
+</resources>
