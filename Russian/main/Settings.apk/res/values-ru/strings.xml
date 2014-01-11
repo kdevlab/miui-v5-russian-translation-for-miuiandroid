@@ -1082,7 +1082,7 @@
      <string name="edit_whitelist">Изменить</string>
      <string name="emergency_tone_summary">Настроить режим работы при экстренном вызове</string>
      <string name="emergency_tone_title">Тональный сигнал экстренного вызова</string>
-     <string name="empty_folder_title">Пустая папка (%d)</string>
+     <string name="empty_folder_title">Пустые папки (%d)</string>
      <string name="empty_list_msg">Нет приложений сторонних разработчиков</string>
      <string name="emptylist_fwlog_call">Здесь будут отображаться все заблокированные вызовы</string>
      <string name="emptylist_fwlog_ms">Здесь буду отображаться все заблокированные сообщения</string>
@@ -1553,10 +1553,10 @@
      <string name="license_title">Лицензия</string>
      <string name="link_speed_label">"Скорость: "</string>
      <string name="list_sub_view_item_clean">Очистить</string>
-     <string name="list_sub_view_item_install">Установить</string>
-     <string name="list_sub_view_item_lock">Заблок.</string>
-     <string name="list_sub_view_item_unlock">Разблок.</string>
-     <string name="list_sub_view_item_view">Свойства</string>
+     <string name="list_sub_view_item_install">Уст.</string>
+     <string name="list_sub_view_item_lock">Забл.</string>
+     <string name="list_sub_view_item_unlock">Разбл.</string>
+     <string name="list_sub_view_item_view">Подробнее</string>
      <string name="loading">Загрузка…</string>
      <string name="local_backup_password_summary_change">Выберите этот параметр, чтобы изменить или удалить пароль для резервного копирования</string>
      <string name="local_backup_password_summary_none">Полные резервные копии в настоящее время не защищены</string>
@@ -1735,8 +1735,8 @@
      <string name="menu_item_about_title">О программе</string>
      <string name="menu_item_settings_title">Настройки</string>
      <string name="menu_item_shortcut">Создать ярлыки</string>
-     <string name="menu_item_shortcut_summary">Отправить ярлыки часто используемыемых функций на рабочий стол</string>
-     <string name="menu_item_shortcut_title">Добавить</string>
+     <string name="menu_item_shortcut_summary">Отправить на рабочий стол ярлыки модулей</string>
+     <string name="menu_item_shortcut_title">Добавить ярлыки</string>
      <string name="menu_item_shortcut_uninstall">Удалить</string>
      <string name="menu_key">Клавиша \"МЕНЮ\"</string>
      <string name="menu_new">Создать</string>
@@ -1938,7 +1938,7 @@
      <string name="optimize_tips_ad_title">Рекламные файлы</string>
      <string name="optimize_tips_apk">iconApk -  все доступные для установки файлы хранящиеся на устройстве</string>
      <string name="optimize_tips_apk_content">Все доступные для установки файлы хранящиеся на устройстве</string>
-     <string name="optimize_tips_apk_title">Файлы Apk</string>
+     <string name="optimize_tips_apk_title">Файлы</string>
      <string name="optimize_tips_cache">iconКеш - временные файлы приложений и процессов (например миниатюры)</string>
      <string name="optimize_tips_cache_content">Временные файлы приложений и процессов (например миниатюры)</string>
      <string name="optimize_tips_cache_title">Кеш</string>
@@ -2204,7 +2204,6 @@
      <string name="power_customizer_cancel">Отмена</string>
      <string name="power_customizer_delete">Удалить</string>
      <string name="power_customizer_my_mode">Мой режим</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="power_customizer_ok">OK</string>
      <string name="power_customizer_save">Сохранить</string>
      <string name="power_customizer_sleep_mode">Режим сна</string>
@@ -2287,9 +2286,9 @@
      <string name="power_save_choose_mode">Выберите конфигурацию</string>
      <string name="power_save_choose_recovery_mode">Выберите конфигурацию</string>
      <string name="power_save_low_battery_auto_save_title">Включить</string>
-     <string name="power_save_low_battery_option_recovery_title">Если батарея заряжена</string>
-     <string name="power_save_low_battery_option_summary">После подзарядки батареи выше нижнего порога, устройство вернется к последнему режиму</string>
-     <string name="power_save_low_battery_option_title">Если батарея села</string>
+     <string name="power_save_low_battery_option_recovery_title">Батарея заряжена</string>
+     <string name="power_save_low_battery_option_summary">После подзарядки выше нижнего порога, устройство вернется к последнему режиму</string>
+     <string name="power_save_low_battery_option_title">Батарея села</string>
      <string name="power_save_low_battery_percentage_fifty">50%</string>
      <string name="power_save_low_battery_percentage_forty">40%</string>
      <string name="power_save_low_battery_percentage_ten">10%</string>
