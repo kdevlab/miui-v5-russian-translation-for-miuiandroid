@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Builded with CloudBuildr -->
+<resources>
+     <string name="app_name">wssyncmlnps</string>
+     <string name="system_group_coworker">Сотрудники</string>
+     <string name="system_group_family">Семья</string>
+     <string name="system_group_friend">Друзья</string>
+     <string name="system_group_my_contacts">Мои контакты</string>
+</resources>

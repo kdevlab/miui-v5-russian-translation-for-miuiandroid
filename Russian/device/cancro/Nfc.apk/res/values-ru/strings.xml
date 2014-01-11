@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Builded with CloudBuildr -->
+<resources>
+     <string name="accessibility_nfc_enabled">NFC включен</string>
+     <string name="app_name">Служба Nfc</string>
+     <string name="beam_canceled">Передача отменена</string>
+     <string name="beam_complete">Передача завершена</string>
+     <string name="beam_failed">Передача не завершена</string>
+     <string name="beam_handover_not_supported">Принимаемое устройство не поддерживает передачу больших файлов</string>
+     <string name="beam_progress">Входящая передача...</string>
+     <string name="beam_touch_to_view">Нажмите, чтобы посмотреть</string>
+     <string name="cancel">Отмена</string>
+     <string name="confirm_pairing">Вы уверены, что хотите подключить устройство %1$s?</string>
+     <string name="connect_headset_failed">Не удалось подключиться</string>
+     <string name="connected_headset">Подключено</string>
+     <string name="connecting_headset">Подключение</string>
+     <string name="disconnected_headset">Отключено</string>
+     <string name="disconnecting_headset">Отключение</string>
+     <string name="failed_to_enable_bt">Не удалось включить Bluetooth</string>
+     <string name="inbound_me_profile_text">Нажмите, чтобы добавить этого человека в контакты</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="inbound_me_profile_title">Contact received over NFC</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="nfcUserLabel">Nfc</string>
+     <string name="outbound_me_profile_text">Нажмите, чтобы дать этому человеку свою контактную информацию</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="outbound_me_profile_title">NFC interaction complete</string>
+     <string name="pair_no">Нет</string>
+     <string name="pair_yes">Да</string>
+     <string name="pairing_headset">Сопряжение</string>
+     <string name="pairing_headset_failed">Не удалось выполнить сопряжение</string>
+     <string name="touch">Нажмите для начала</string>
+</resources>

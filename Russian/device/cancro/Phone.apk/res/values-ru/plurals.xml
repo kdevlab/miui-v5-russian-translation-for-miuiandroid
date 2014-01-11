@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Builded with CloudBuildr -->
+<resources>
+     <plurals name="alert_dialog_exit_ecm">
+        <item quantity="other">Телефон перейдет в режим экстренных обратных вызовов на %s мин. В этом режиме невозможно использовать приложения, задействующие передачу данных. Выйти из режима?</item>
+        <item quantity="one">Телефон перейдет в режим экстренных обратных вызовов на %s мин. В этом режиме невозможно использовать приложения, задействующие передачу данных. Выйти из режима?</item>
+     </plurals>
+     <plurals name="alert_dialog_not_avaialble_in_ecm">
+        <item quantity="other">Выбранное действие недоступно в режиме экстренных обратных вызовов. Телефон будет оставаться в этом режиме еще %s мин. Выйти из режима?</item>
+        <item quantity="one">Выбранное действие недоступно в режиме экстренных обратных вызовов. Телефон будет оставаться в этом режиме еще %s мин. Выйти из режима?</item>
+     </plurals>
+     <plurals name="numSelectedSimContacts">
+        <item quantity="other">" Выбрано: %1$d"</item>
+        <item quantity="zero">Выбрано: %1$d</item>
+        <item quantity="one">Выбрано: %1$d</item>
+     </plurals>
+     <plurals name="phone_in_ecm_notification_time">
+        <item quantity="other">Подключение для передачи данных отсутствует %s мин.</item>
+        <item quantity="one">Подключение для передачи данных отсутствует %s мин.</item>
+     </plurals>
+</resources>

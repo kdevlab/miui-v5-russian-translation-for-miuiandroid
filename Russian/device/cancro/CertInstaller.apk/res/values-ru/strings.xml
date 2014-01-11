@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Builded with CloudBuildr -->
+<resources>
+     <string name="app_name">Программа установки сертификата</string>
+     <string name="cert_is_added">%s установлен</string>
+     <string name="cert_missing_error">Установка завершилась со сбоем. Не удается найти файл сертификата.</string>
+     <string name="cert_not_saved">Сертификат не установлен</string>
+     <string name="cert_read_error">Установка завершилась со сбоем. Не удается прочитать файл сертификата.</string>
+     <string name="cert_too_large_error">Установка не удалась. Размер сертификата слишком велик.</string>
+     <string name="credential_info">Пакет содержит:</string>
+     <string name="credential_name">Название сертификата:</string>
+     <string name="credential_password">Введите пароль для извлечения сертификатов</string>
+     <string name="credential_usage_label">Credential use:</string>
+     <string name="extracting_pkcs12">Извлечение…</string>
+     <string name="generic_no_cert_file_found">Не найдено файла сертификата в хранилище</string>
+     <string name="generic_sdcard_not_present">Нет хранилища</string>
+     <string name="invalid_cert">Сертификат недействителен</string>
+     <string name="n_cacrts">Сертификатов центра сертификации: %d</string>
+     <string name="name_char_error">Имя должно состоять из букв и цифр</string>
+     <string name="name_credential_dialog_title">Укажите название сертификата</string>
+     <string name="name_empty_error">Введите название</string>
+     <string name="no_cert_file_found">На SD-карте отсутствует файл сертификата</string>
+     <string name="no_cert_to_saved">Отсутствует сертификат для установки</string>
+     <string name="one_cacrt">один сертификат центра сертификации</string>
+     <string name="one_usercrt">один пользовательский сертификат</string>
+     <string name="one_userkey">один ключ пользователя</string>
+     <string name="one_wapi_ascrt">один WAPI AS сертификат</string>
+     <string name="one_wapi_usercrt">один WAPI сертификат пользователя</string>
+     <string name="only_primary_user_allowed">Только владелец данного устройства может устанавливать сертификаты</string>
+     <string name="p12_description">Сертификат находится в хранилище ключей PKCS12</string>
+     <string name="password_empty_error">Введите пароль</string>
+     <string name="password_error">Введите правильный пароль</string>
+     <string name="pick_file_title">Выберите сертификат</string>
+     <string name="pkcs12_file_password_dialog_title">Извлечение из %s</string>
+     <string name="pkcs12_password_dialog_title">Извлечение сертификата</string>
+     <string name="sdcard_not_present">SD-карта отсутствует</string>
+     <string name="storage_error">Не удается сохранить сертификат. Нажмите ОК и повторите попытку.</string>
+     <string name="unable_to_save_cert">Не удается сохранить сертификат. Хранилище регистрационных данных не включено или некорректно инициализировано.</string>
+</resources>
