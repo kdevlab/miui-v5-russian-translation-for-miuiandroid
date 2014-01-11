@@ -51,7 +51,7 @@
         <item>Всегда</item>
      </string-array>
      <string-array name="pref_default_text_encoding_choices">
-        <item>Latin-1 (ISO-8859-1)</item>
+        <item>Латиница (ISO-8859-1)</item>
         <item>Юникод (UTF-8)</item>
         <item>Китайская (GBK)</item>
         <item>Китайская (Big5)</item>
@@ -67,11 +67,11 @@
      </string-array>
      <string-array name="pref_fling_on_border_choices">
         <item>Переключение страниц</item>
-        <item>Переключение вкладок</item>
+        <item>Переключение окон</item>
      </string-array>
      <string-array name="pref_homepage_choices">
         <item>Стартовая страница</item>
-        <item>Другая</item>
+        <item>Пользовательская</item>
      </string-array>
      <string-array name="pref_images_preload_choices">
         <item>Никогда</item>
@@ -96,7 +96,7 @@
         <item>Всегда</item>
      </string-array>
      <string-array name="pref_volume_key_choices">
-        <item>Прокрутка страницы</item>
+        <item>Переключение страниц</item>
         <item>Переключение вкладок</item>
      </string-array>
 	 <string-array name="pref_ua_choices">
