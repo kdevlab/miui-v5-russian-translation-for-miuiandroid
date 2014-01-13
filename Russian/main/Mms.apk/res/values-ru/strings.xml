@@ -232,7 +232,7 @@ SMS (%1$d), MMS (%2$d)"</string>
      <string name="mx_enable_int_popup_msg">Облако позволяет обмениваться сообщениями между пользователями MIUI. Для активации будет отправлено международное SMS. Стоимость сообщения зависит от оператора сети, активировать сейчас? Вы сможете активировать позже в Настройках</string>
      <string name="mx_enable_popup_msg">Облачные сообщения позволят Вам обмениваться сообщениями с другими пользователями MIUI. Требуется обычная SMS для активации. Активировать сейчас?</string>
      <string name="mx_int_warning_notice">Для активации облачных сообщений будет отправлено международное SMS. Стоимость сообщения зависит от оператора сети</string>
-     <string name="mx_msg">Облачное сообщение</string>
+     <string name="mx_msg">Облачные сообщения</string>
      <string name="mx_offline">Не в сети</string>
      <string name="mx_online">В сети</string>
      <string name="mx_reactivate">Повторная активация</string>
@@ -248,7 +248,7 @@ SMS (%1$d), MMS (%2$d)"</string>
      <string name="no_block_button_msg">Не блокировать сообщения от этого номера</string>
      <string name="no_conversations">Нет сообщений</string>
      <string name="no_subject">(Без темы)</string>
-     <string name="no_subject_view">(Без темы)</string>
+     <string name="no_subject_view">(без темы)</string>
      <string name="non_english_subject_limit">Предел 13 символов для темы сообщения, написанной не латинницей</string>
      <string name="nosend_message">Не отправлено</string>
      <string name="notification_failed_multiple">Не удалось отправить сообщения (%s)</string>
@@ -264,15 +264,15 @@ SMS (%1$d), MMS (%2$d)"</string>
      <string name="pick_too_many_recipients">Слишком много получателей</string>
      <string name="play">Воспроизвести</string>
      <string name="pref_advanced_settings_title">Дополнительно</string>
-     <string name="pref_collapse_sp_messages_summary">Сообщения от поставщиков услуг, банков и т.д. будут собираться в специальный раздел</string>
-     <string name="pref_edit_smsc_address">Номер SMS-центра</string>
+     <string name="pref_collapse_sp_messages_summary">Собирать сообщения от поставщиков услуг, банков и т.д. в отдельный раздел</string>
+     <string name="pref_edit_smsc_address">Номер SMS центра</string>
      <string name="pref_forward_title">Вперед</string>
      <string name="pref_key_mx_feedback">Обратная связь</string>
      <string name="pref_messages_to_save">Установить количество сообщений в переписке для хранения</string>
      <string name="pref_mms_settings_title">Настройки MMS</string>
-     <string name="pref_notification_settings_title">Уведомления</string>
-     <string name="pref_other_title">Другие</string>
-     <string name="pref_sms_theme_title">Настройки темы</string>
+     <string name="pref_notification_settings_title">Настройки уведомлений</string>
+     <string name="pref_other_title">Другие настройки</string>
+     <string name="pref_sms_theme_title">Настройки вида</string>
      <string name="pref_summary_allow_si_sl_push">Разрешить прием WAP Push сообщений (SI/SL)</string>
      <string name="pref_summary_delete_limit">Сообщений в переписке: %1$s</string>
      <string name="pref_summary_delivery_reports">Запрашивать отчёт о доставке для всех отправляемых сообщений</string>
@@ -373,7 +373,7 @@ SMS (%1$d), MMS (%2$d)"</string>
      <string name="select_recipient">выбор получателя</string>
      <string name="select_top_text">Текст вверху</string>
      <string name="send">Отправить</string>
-     <string name="send_signature_confirm_dialog_message">Вы не ввели текст сообщения, вы хотите отправить его только с подписью?</string>
+     <string name="send_signature_confirm_dialog_message">Вы не ввели содержание сообщения. Хотите отправить его только с подписью?</string>
      <string name="send_signature_confirm_dialog_title">Отправить подтверждение</string>
      <string name="send_sms">отправить сообщение</string>
      <string name="send_to">Для:</string>
@@ -384,7 +384,7 @@ SMS (%1$d), MMS (%2$d)"</string>
      <string name="service_network_problem">Не удалось отправить сообщение из-за ошибки сети</string>
      <string name="service_not_activated">Услуга не активирована в сети</string>
      <string name="set">Сохранить</string>
-     <string name="set_smsc_address_title_miui">Установить номер центра SMS</string>
+     <string name="set_smsc_address_title_miui">Установить номер SMS центра</string>
      <string name="show_all_messages">Показать все сообщения</string>
      <string name="sim_card1">SIM-карта 1</string>
      <string name="sim_card2">SIM-карта 2</string>

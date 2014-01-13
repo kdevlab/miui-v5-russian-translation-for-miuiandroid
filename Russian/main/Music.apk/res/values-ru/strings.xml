@@ -181,12 +181,11 @@
      <string name="lyric_open_other_connect">Загрузка текста песен, с помощью мобильного подключения к интернету</string>
      <string name="lyric_picker_not_found">Файловый менеджер, не найден на устройстве</string>
      <string name="mediaplaybacklabel">Музыка</string>
-     <string name="menu_higher_quality_music">Высококачественная музыка (ежемесячно)</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="menu_higher_quality_music">Высококачественная музыка</string>
      <string name="mi_effect">MiSound</string>
      <string name="mi_effect_summary">Всегда использовать усилитель MiSound при прослушивании через динамик</string>
-     <string name="mi_effect_title">Использовать усилитель MiSound</string>
-     <string name="mobile_connect_settings">Мобильная сеть</string>
+     <string name="mi_effect_title">Усилитель MiSound</string>
+     <string name="mobile_connect_settings">Настройки сети</string>
      <string name="modify_id3_for_list">Будет отредактирована информация ID3 треков из текущего списка</string>
      <string name="modify_id3_for_selected">Будет отредактирована информация ID3 выбранных треков</string>
      <string name="modify_meta">Изменить</string>
@@ -322,7 +321,7 @@
      <string name="vip_rebuy">Обновить</string>
      <string name="vip_recommend_buy">Купить (5 юаней в месяц)</string>
      <string name="vip_recommend_exchange">Подарочный код</string>
-     <string name="vip_recommend_main_title">Неограниченная качественная музыка (320 кбит/c)</string>
+     <string name="vip_recommend_main_title">Качественная музыка (320 кбит/c)</string>
      <string name="vip_recommend_rebuy">Продолжить (5 MiCredits за 30 дней)</string>
      <string name="vip_recommend_sub_title">Всего 5 юаней в месяц</string>
      <string name="vip_recommend_summary">Слушайте онлайн или скачивайте любимые песни исполнителей в высоком качестве через сервис Baidu Music</string>

@@ -2,8 +2,8 @@
 <!-- Builded with CloudBuildr -->
 <resources>
      <plurals name="group_add_success_toast">
-        <item quantity="other">Успешно добавлено %1$d контактов</item>
-        <item quantity="one">Успешно добавлен %1$d контакт</item>
+        <item quantity="other">" %1$d добавлено"</item>
+        <item quantity="one">%1$d контакт добавлен</item>
      </plurals>
      <plurals name="group_list_num_contacts_in_group">
         <item quantity="other">Номеров: %1$d</item>

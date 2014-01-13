@@ -3,7 +3,7 @@
 <resources>
      <string name="ContactScreen">Доб./изм. SIM контакт</string>
      <string name="ExportContactScreen">Экспорт контактов из телефона на SIM-карту</string>
-     <string name="accept_modify_call_request_prompt">Accept modify call request?</string>
+     <string name="accept_modify_call_request_prompt">Разрешить изменить запрос вызова?</string>
      <string name="accessibility_call_muted">Звук выключен</string>
      <string name="accessibility_speakerphone_enabled">Громкая связь включена</string>
      <string name="addSimEntries">Добавить контакт на SIM</string>
@@ -63,7 +63,6 @@
      <string name="auto_answer_pref_summary_miui">Автоматический ответ на вызовы</string>
      <string name="auto_answer_pref_title_miui">Автоответ</string>
      <string name="auto_answer_scenario_enteries_always_miui">Всегда</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="auto_answer_scenario_enteries_bluetooth_only_miui">Bluetooth</string>
      <string name="auto_answer_scenario_enteries_headset_bluetooth_miui">Гарнитура/Bluetooth</string>
      <string name="auto_answer_scenario_enteries_headset_only_miui">Гарнитура</string>
@@ -112,18 +111,14 @@
      <string name="bf_news_settings">Финансовые и деловые новости</string>
      <string name="callFailed_cb_enabled">Если включена функция запрета вызовов, невозможно осуществлять исходящие вызовы</string>
      <string name="callFailed_congestion">Сеть занята</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="callFailed_dialToDial">DIAL request modified to DIAL with different number.</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="callFailed_dialToSs">DIAL request modified to SS request.</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="callFailed_dialToUssd">DIAL request modified to USSD request.</string>
+     <string name="callFailed_dialToDial">Звонок заменен на другой номер</string>
+     <string name="callFailed_dialToSs">Звонок модифицирован в SS запрос</string>
+     <string name="callFailed_dialToUssd">Звонок модифицирован в USSD запрос</string>
      <string name="callFailed_dsac_restricted">Все вызовы запрещены настройками доступа</string>
      <string name="callFailed_dsac_restricted_emergency">Экстренные вызовы запрещены настройками доступа</string>
      <string name="callFailed_dsac_restricted_normal">Обычные вызовы запрещены настройками доступа</string>
      <string name="callFailed_fdn_only">Вы можете позвонить только на телефоны из списка разрешенных номеров</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="callFailed_incoming_cb_enabled">Party has barred all Incoming calls.</string>
+     <string name="callFailed_incoming_cb_enabled">Запрещены все входящие вызовы</string>
      <string name="callFailed_invalid_credentials">Неверное имя пользователя или пароль</string>
      <string name="callFailed_limitExceeded">Превышен лимит ACM</string>
      <string name="callFailed_noSignal">Нет сигнала</string>
@@ -137,17 +132,14 @@
      <string name="callFailed_timedOut">Нет ответа, время ожидания истекло</string>
      <string name="callFailed_unobtainable_number">Недействительный номер</string>
      <string name="callFailed_userBusy">Линия занята</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="callUnanswered_forwarded">Call Unanswered and Forwarded</string>
+     <string name="callUnanswered_forwarded">Звонок не принят и переадресован</string>
      <string name="call_assistant_miui">УПРОЩЕНИЕ ВЫЗОВА</string>
      <string name="call_forwarding_number_hint_miui">Пожалуйста, введите номер для пересылки</string>
      <string name="call_forwarding_settings">Переадресация вызовов</string>
      <string name="call_forwarding_settings_miui">Переадресация вызовов</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="call_ind_services">Call Independent Services</string>
+     <string name="call_ind_services">Независимые от звонков услуги</string>
      <string name="call_lost">Вызов был утрачен</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="call_lost_title">Call Lost</string>
+     <string name="call_lost_title">Вызов пропущен</string>
      <string name="call_number">Кому:</string>
      <string name="call_record_button_label">Запись %s</string>
      <string name="call_record_notification_message_low_space_miui">Запись остановлена. ​Нет свободного места.</string>
@@ -155,7 +147,7 @@
      <string name="call_record_notification_message_sd_unmounted_miui">Запись остановлена, так как SD-карта не смонтирована</string>
      <string name="call_record_notification_message_start_failed">Устройство записи занято другим приложением</string>
      <string name="call_record_notification_title_error_miui">Запись разговоров не удалась</string>
-     <string name="call_record_notification_title_miui">Запись...</string>
+     <string name="call_record_notification_title_miui">Запись…</string>
      <string name="call_record_path_name_of_sdcard_miui">SD-карта</string>
      <string name="call_record_sd_error_miui">Ошибка доступа к SD-карте!</string>
      <string name="call_record_sd_space_low_miui">Мало места на SD-карте</string>
@@ -163,15 +155,14 @@
      <string name="call_record_unknown_error">Ошибка записи</string>
      <string name="call_recording_notification_summary_miui">Включить уведомления о начале и конце записи звонка</string>
      <string name="call_recording_notification_title_miui">Уведомлять о записи</string>
-     <string name="call_recording_prompt_miui">Идет запись...</string>
+     <string name="call_recording_prompt_miui">Идет запись…</string>
      <string name="call_settings">Вызовы</string>
      <string name="call_settings_category_miui">НАСТРОЙКИ ВЫЗОВА</string>
      <string name="call_settings_miui">Вызовы</string>
      <string name="call_title_redialing_with_times_miui">Повторный набор: попытка № %d</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="call_type">CallType</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="call_type_title">IMS Call type</string>
+     <string name="call_type_title">IMS тип вызова</string>
      <string name="call_waiting_sum_miui">Во время разговора, сообщите мне о входящих звонках</string>
      <string name="call_waiting_tone_continuously_miui">Воспроизводить непрерывно</string>
      <string name="call_waiting_tone_stop_summary">(кнопки громкости для отключения вручную)</string>
@@ -182,8 +173,7 @@
      <string name="caller_id_title_miui">Автоопределение номера</string>
      <string name="caller_manage_header">Конференц-вызов: %s</string>
      <string name="caller_manage_manage_done_text_miui">Вернуться к вызову</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="callind">Call Feature Settings</string>
+     <string name="callind">Настройки функций звонков</string>
      <string name="callind_multi_sim">Выберите подписку</string>
      <string name="calling_via_template">Звонок через %s</string>
      <string name="calling_via_template_miui">""Звонок через ^1
@@ -193,32 +183,24 @@
      <string name="card_01">Карта 1</string>
      <string name="card_02">Карта 2</string>
      <string name="card_03">Карта 3 / SUB 3</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="card_title_MOcall_forwarding">Outgoing Forwarded Call</string>
+     <string name="card_title_MOcall_forwarding">Переадресация исходящих</string>
      <string name="card_title_MTcall_forwarding">Входящий вызов переадресуется</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="card_title_call_deflected">Call Deflected</string>
+     <string name="card_title_call_deflected">Вызов запрещен</string>
      <string name="card_title_call_ended">Вызов завершен</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="card_title_callconnectedect">Call Connected ECT</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="card_title_callconnectingect">Call Connecting ECT</string>
      <string name="card_title_calliswaiting">Ожидание вызова</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="card_title_callonhold">Put on Hold</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="card_title_callonhold_released">Call Released</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="card_title_callretrieved">Call Retreived</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="card_title_clir_suppression_rejected">CLIR Suppression Rejected</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="card_title_conditionalCF">Call Forward Conditional is enabled</string>
+     <string name="card_title_callonhold">На удержании</string>
+     <string name="card_title_callonhold_released">Вызов завершен</string>
+     <string name="card_title_callretrieved">Вызов восстановлен</string>
+     <string name="card_title_clir_suppression_rejected">CLIR запрет отклонен</string>
+     <string name="card_title_conditionalCF">Условная переадресация включена</string>
      <string name="card_title_conf_call">Конференц-вызов</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="card_title_cugcall">CUG Call</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="card_title_deflectedcall">Deflected Call</string>
+     <string name="card_title_deflectedcall">Отклоненный вызовов</string>
      <string name="card_title_dialing">Набор номера…</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="card_title_forwardcheckreceived">Forward Check Received</string>
@@ -227,8 +209,7 @@
      <string name="card_title_hanging_up">Завершение разговора</string>
      <string name="card_title_in_call">Входящий вызов</string>
      <string name="card_title_in_progress">Активный вызов</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="card_title_incoming_barred">Incoming Calls Barred</string>
+     <string name="card_title_incoming_barred">Запрет входящих вызовов</string>
      <string name="card_title_incoming_call">Входящий вызов</string>
      <string name="card_title_multipartycall">Конференц вызов</string>
      <string name="card_title_my_phone_number">Мой номер: %s</string>
@@ -301,19 +282,16 @@
      <string name="connect_disconnect_vibrate_title_miui">Вибрация при начале/завершении вызова</string>
      <string name="connect_disconnect_vibrate_weak_miui">Слабая</string>
      <string name="connect_later">Не удается подключиться к этой сети. Повторите попытку позже.</string>
-     <string name="contactAddFailed">не удалось добавить контакт на SIM-карту!!!</string>
+     <string name="contactAddFailed">не удалось добавить контакт на SIM-карту</string>
      <string name="contactAddSuccess">Контакт успешно добавлен на SIM-карту</string>
      <string name="contactPhoto">фотография контакта</string>
-     <string name="contactUpdateFailed">Не удалось обновить контакт на SIM-карте!!!</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="contactUpdateSuccess">Succesfully updated contact in SIM</string>
-     <string name="contactdeleteFailed">Не удалось удалить контакт с SIM-карты!!!</string>
+     <string name="contactUpdateFailed">Не удалось обновить контакт на SIM-карте</string>
+     <string name="contactUpdateSuccess">Контакт на SIM-карте обновлен</string>
+     <string name="contactdeleteFailed">Не удалось удалить контакт с SIM-карты</string>
      <string name="contactdeleteSuccess">Контакт успешно удален с SIM-карты</string>
      <string name="contacts_icon_label_miui">Контакты</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="corporate_unlock_failed">SIM Corporate unlock request unsuccessful.</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="corporate_unlock_success">SIM Corporate unlock successful.</string>
+     <string name="corporate_unlock_failed">Разблокировка корпоративной сети не удалась</string>
+     <string name="corporate_unlock_success">Корпоративная сеть успешно разблокирована</string>
      <string name="count_down">Секунд:</string>
      <string name="count_of_persons_in_conference_miui">Всего людей: %d</string>
      <string name="countrycode_alert_message_warning_miui">Код города, который вы ввели возможно не верен, вы хотите продолжить?</string>
@@ -324,7 +302,7 @@
      <string name="current_areacode_miui">Код региона</string>
      <string name="current_areacode_sum_miui">Текущей код региона, или роуминг код региона, если вы в роуминге. Например: 010</string>
      <string name="current_areacode_sum_set_miui">Телефонный код текущего местоположения: %s</string>
-     <string name="cursorError">Cursor is not having proper data !!!</string>
+     <string name="cursorError">Курсор не имеет соответствующих данных!</string>
      <string name="custom_location_location_hint_miui">Имя</string>
      <string name="custom_location_location_no_item_miui">"Нажмите кнопку 'Добавить' для добавления приставок"</string>
      <string name="custom_location_number_hint_miui">Код страны как 010, групповой номер как 68#####</string>
@@ -335,9 +313,8 @@
      <string name="default_contacts_countrycode_hint_miui">Например: 7</string>
      <string name="default_contacts_countrycode_miui">Код страны по умолчанию</string>
      <string name="default_contacts_countrycode_sum_miui">Задайте код страны по умолчанию: %s</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="default_ims_call_type">Voice</string>
-     <string name="default_notification_description">Default sound (%1$s)</string>
+     <string name="default_ims_call_type">Голосовой</string>
+     <string name="default_notification_description">Звук по умолчанию (%1$s)</string>
      <string name="default_preference_summary">&lt;Не настроено></string>
      <string name="delete">Удалить</string>
      <string name="deleteAllSimEntries">Удалить все контакты на SIM-карте</string>
