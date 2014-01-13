@@ -10,7 +10,7 @@
          "displayName":"4PDA",
          "isDelete":true,
          "movable":true,
-         "position":0
+         "position":8
       },
       {
          "title":"Apkmania",
@@ -104,9 +104,9 @@
          "nightModeMask":"night.9.png",
          "favicon":"",
          "displayName":"ROMZ.bz",
-         "isDelete":true,
-         "movable":true,
-         "position":8
+         "isDelete":false,
+         "movable":false,
+         "position":0
       },
       {
          "title":"Википедия",
