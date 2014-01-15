@@ -870,7 +870,7 @@
      <string name="date_and_time_settings_title">Дата и время</string>
      <string name="date_and_time_settings_title_setup_wizard">Установить дату и время</string>
      <string name="date_picker_title">Дата</string>
-     <string name="date_time_24hour">24-часовой формат</string>
+     <string name="date_time_24hour">24 часовой формат</string>
      <string name="date_time_auto">Дата и время сети</string>
      <string name="date_time_auto_summaryOff">Использовать время сети</string>
      <string name="date_time_auto_summaryOn">Использовать время сети</string>
@@ -879,8 +879,8 @@
      <string name="date_time_set_time">Время</string>
      <string name="date_time_set_timezone">Часовой пояс</string>
      <string name="date_time_settings">Дата и время</string>
-     <string name="debug_app">Выберите приложение для отладки</string>
-     <string name="debug_app_not_set">Не выбрано приложения для отладки</string>
+     <string name="debug_app">Приложение для отладки</string>
+     <string name="debug_app_not_set">Не выбрано</string>
      <string name="debug_app_set">Приложение для отладки: %1$s</string>
      <string name="debug_applications_category">Приложения</string>
      <string name="debug_debugging_category">Отладка</string>
@@ -978,7 +978,6 @@
      <string name="dlg_confirm_unmount_usb_title">Отключить USB-накопитель?</string>
      <string name="dlg_error_unmount_text">Не удалось отключить USB накопитель. Повторите попытку позже.</string>
      <string name="dlg_error_unmount_usb_text">Невозможно отключить USB-накопитель. Пожалуйста, попробуйте позже.</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="dlg_error_unmount_usb_title">null</string>
      <string name="dlg_mount_external_sd_summary">При подключении SD-карты, некоторые приложения будут приостановлены.</string>
      <string name="dlg_mount_external_sd_title">Подключить SD-карту?</string>
@@ -1164,7 +1163,6 @@
      <string name="eq_preset_hint">Пожалуйста, введите имя предустановки</string>
      <string name="eq_preset_rename">Переименовать</string>
      <string name="eq_preset_select">Выберите пресет</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="eq_rb">R </string>
      <string name="eq_rock">Рок</string>
      <string name="equalizer">Эквалайзер</string>
@@ -1183,7 +1181,6 @@
      <string name="error_mnc_not23">Поле MNC должно содержать 2 или 3 цифры</string>
      <string name="error_name_empty">Необходимо указать название</string>
      <string name="error_title">""</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="evdo_signal_strength_info">Evdo</string>
      <string name="examination_score_100">Оптимизация не требуется</string>
      <string name="examination_score_60_0">Требуется оптимизация</string>
@@ -1492,10 +1489,8 @@
      <string name="internal_media_format_desc">Очистить внутреннюю память? Все данные будут удалены безвозвратно.</string>
      <string name="internal_media_format_final_desc">Удалить все данные с внутреннего накопителя? Это действие нельзя отменить! Телефон будет перезагружен после удаления всех данных!</string>
      <string name="internal_media_format_title">Очистить внутреннюю память</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="internal_memory">ROM</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="internal_storage">ROM</string>
+	 <string name="internal_memory">Внутренняя память</string>
+     <string name="internal_storage">Внутренний накопитель</string>
      <string name="invalid_location">Недопустимое место установки</string>
      <string name="invalid_size_value">Не удалось вычислить размер пакета</string>
      <string name="ipaddr_label">"IP адрес: "</string>
@@ -1513,7 +1508,7 @@
      <string name="just_checked">Отличное состояние</string>
      <string name="keep_screen_on">Подсветка при зарядке</string>
      <string name="keep_screen_on_summary">Во время зарядки экран будет всегда включен</string>
-     <string name="kernel_version">Ядро</string>
+     <string name="kernel_version">Версия ядра:</string>
      <string name="key_settings">Клавиши</string>
      <string name="key_settings_title">Клавиши</string>
      <string name="keyboard_layout_default_label">По умолчанию</string>
@@ -2879,7 +2874,7 @@
      <string name="sync_settings">Синхронизация</string>
      <string name="sync_wifi_label">Настройки Wi-Fi</string>
      <string name="sync_wifi_only">Только Wi-Fi</string>
-     <string name="system">Система</string>
+     <string name="system">Настройки системы</string>
      <string name="system_cache_title">Системный кеш</string>
      <string name="system_package">Системные обновления нельзя установить на внешнем носителе.</string>
      <string name="system_update_settings_list_item_title">Обновления системы</string>
@@ -2891,8 +2886,8 @@
      <string name="testing_usage_stats">Статистика использования</string>
      <string name="testing_wifi_info">Информация Wi-Fi</string>
      <string name="tether_settings_title_all">Режим модема</string>
-     <string name="tether_settings_title_bluetooth">Bluetooth-модем</string>
-     <string name="tether_settings_title_usb">USB-модем</string>
+     <string name="tether_settings_title_bluetooth">Bluetooth модем</string>
+     <string name="tether_settings_title_usb">USB модем</string>
      <string name="tether_settings_title_usb_bluetooth">Режим модема</string>
      <string name="tether_settings_title_wifi">Точка доступа Wi-Fi</string>
      <string name="tethered_ipv4">(IPv4)</string>
@@ -3016,7 +3011,7 @@
      <string name="unlock_disable_lock_pin_summary">Удалить PIN-код разблокировки</string>
      <string name="unlock_disable_lock_title">Отключить блокировку экрана</string>
      <string name="unlock_set_enter_system">Отключить локскрин</string>
-     <string name="unlock_set_enter_system_summary">Системный локскрин не будет использоваться после включения этой функции</string>
+     <string name="unlock_set_enter_system_summary">Отключить системный экран блокировки MIUI</string>
      <string name="unlock_set_unlock_biometric_weak_summary">Низкий уровень защиты (экспериментальная функция)</string>
      <string name="unlock_set_unlock_biometric_weak_title">Фейс-контроль</string>
      <string name="unlock_set_unlock_disabled_summary">Запрещено администратором, политикой шифрования или хранилищем учетных данных</string>

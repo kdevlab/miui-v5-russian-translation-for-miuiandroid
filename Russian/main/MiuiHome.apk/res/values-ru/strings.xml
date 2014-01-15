@@ -65,11 +65,10 @@
      <string name="gadget_weather_loading">Нет данных о погоде</string>
      <string name="gadget_weather_low_temp">Мин.</string>
      <string name="gadget_weather_theme_type">Тип виджета</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="gadget_weather_time_format">EEE, d MMMM</string>
      <string name="gadget_weather_title_14">Погода 1х4</string>
      <string name="gadget_weather_title_24">Погода 2х4</string>
-     <string name="global_search_hint">Нажмите для поиска</string>
+     <string name="global_search_hint">Что ищем? :)</string>
      <string name="group_folder">Новая папка</string>
      <string name="group_live_folders">Папки</string>
      <string name="group_shortcuts">Ярлыки</string>
@@ -138,7 +137,6 @@
      <string name="starting_preset_app">Запуск…</string>
      <string name="status_bar_toggle_ac">Доступ</string>
      <string name="status_bar_toggle_auto_brightness">Автоподсв.</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="status_bar_toggle_bluetooth">Bluetooth</string>
      <string name="status_bar_toggle_brightness">Яркость</string>
      <string name="status_bar_toggle_data">Интернет</string>
@@ -181,7 +179,6 @@
      <string name="transformation_type_leftpage">Перелистывание</string>
      <string name="transformation_type_rotate">Вращение</string>
      <string name="transformation_type_stack">Каскад</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="uninstall">OK</string>
      <string name="uninstall_dialog_message">Удалить это приложение?</string>
      <string name="uninstall_dialog_title_format">\"%s\"</string>

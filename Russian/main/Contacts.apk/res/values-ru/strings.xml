@@ -102,6 +102,7 @@
      <string name="callrecordview_item_op_time_short_incoming">" | "</string>
      <string name="callrecordview_item_op_time_short_outgoing">" | "</string>
      <string name="callrecordview_menu_add_call_note">Добавить заметку о вызове</string>
+	 <string name="callrecordview_menu_batch_delete">Пакетное удаление</string>
      <string name="callrecordview_menu_delete">Удалить вызов</string>
      <string name="callrecordview_menu_delete_accepted">Удалить входящие вызовы</string>
      <string name="callrecordview_menu_delete_all">Очистить журнал</string>
@@ -206,9 +207,10 @@
      <string name="date_time_set">Настроить</string>
      <string name="date_year_toggle">Указать год</string>
      <string name="default_ringtone">По умолчанию</string>
-     <string name="deleteConfirmation">Этот контакт будет удален</string>
+     <string name="deleteConfirmation">Удалить этот контакт?</string>
      <string name="deleteConfirmationDetail">Удалить контакт \"%s\"?</string>
      <string name="deleteConfirmation_title">Удаление контакта</string>
+	 <string name="delete_call_log_selected_title">Удалить выбранные записи?</string>
      <string name="delete_call_log_title">Выбрать журналы для удаления?</string>
      <string name="delete_contact_calllog_title">Удалить журнал вызовов контакта?</string>
      <string name="delete_dial_input">удалить</string>
@@ -496,7 +498,6 @@
      <string name="local_profile_title">Мой профиль</string>
      <string name="local_search_label">Все контакты</string>
      <string name="locale_change_in_progress">Список контактов обновится после смены языка интерфейса</string>
-     <string name="login_before_recharging">Перед пополнением нужно войти в аккаунт</string>
      <string name="login_ok">Войти</string>
      <string name="lunarBirthdayLabelsGroup">Лунный день рождения</string>
      <string name="make_primary">Запомнить выбранное</string>
@@ -1090,7 +1091,8 @@
      <string name="toast_copy_done">Копирование завершено</string>
      <string name="toast_copying">Копирование…</string>
      <string name="toast_displaying_all_contacts">Отображение всех контактов</string>
-     <string name="toast_finish_delete_call_log">Вызов удален из журнала</string>
+	 <string name="toast_finish_delete_call_log">Вызов удален</string>
+	 <string name="toast_finish_delete_selected_call_log">Вызовы удалены</string>
      <string name="toast_for_failed_saving_nickname">Не удалось сохранить изменения</string>
      <string name="toast_for_saving_nickname">Изменения сохранены</string>
      <string name="toast_join_with_empty_contact">Укажите имя контакта, который хотите объединить</string>
