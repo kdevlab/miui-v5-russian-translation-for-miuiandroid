@@ -180,7 +180,7 @@
      <string name="contact_edit_title_readonly">Только на чтение контакта</string>
      <string name="contact_editor_prompt_multiple_accounts">Выберите аккаунт, в который следует добавить новый контакт</string>
      <string name="contact_editor_prompt_one_account">Контакт будет добавлен в аккаунт %1$s</string>
-     <string name="contact_editor_prompt_zero_accounts">Резервная копия нового контакта не будет сохранена. Добавить аккаунт для сохранения контактов в Интернете?</string>
+     <string name="contact_editor_prompt_zero_accounts">Резервная копия нового контакта не будет сохранена. Добавить аккаунт для сохранения контактов в интернете?</string>
      <string name="contact_is_readOnly">Не удается отредактировать контакты только для чтения</string>
      <string name="contact_list_loading">Загрузка…</string>
      <string name="contact_pick_photo">Изображение</string>
@@ -193,9 +193,9 @@
      <string name="contactsGroupsLabel">Группы</string>
      <string name="contactsJoinedMessage">Контакты объединены</string>
      <string name="contactsList">Контакты</string>
-     <string name="contacts_unavailable_add_account">Войти в аккаунт</string>
+     <string name="contacts_unavailable_add_account">Войти в аккаунт, чтобы</string>
      <string name="contacts_unavailable_create_contact">Создать новый контакт</string>
-     <string name="contacts_unavailable_import_contacts">Импортировать контакты из файла</string>
+     <string name="contacts_unavailable_import_contacts">Импортировать из файла</string>
      <string name="copy_text">Копировать в буфер обмена</string>
      <string name="createContactShortcutSuccessful">Виджет контакта добавлен на рабой стол</string>
      <string name="create_group_dialog_title">Создание новой группы</string>
@@ -435,10 +435,10 @@
      <string name="import_all_vcard_string">Импорт всех файлов VCard</string>
      <string name="import_contact_card_button">Импорт</string>
      <string name="import_failure_no_vcard_file">На SD-карте нет vCard</string>
-     <string name="import_from_other_phone">Из другого телефона</string>
+     <string name="import_from_other_phone">Импортировать с телефона</string>
      <string name="import_from_sdcard">С SD-карты</string>
-     <string name="import_from_sim">С SIM-карты</string>
-     <string name="import_from_sim2">С SIM-карты 2</string>
+     <string name="import_from_sim">Импортировать с SIM-карты</string>
+     <string name="import_from_sim2">Импортировать с SIM-карты 2</string>
      <string name="import_multiple_vcard_string">Импорт нескольких vCard</string>
      <string name="import_name">имя</string>
      <string name="import_one_vcard_string">Импорт файла vCard</string>
@@ -1148,7 +1148,7 @@
      <string name="wipe_data">Очистить данные</string>
      <string name="yellowPageNavigationIconLabel">Сервисы</string>
      <string name="yellowPageNavigationLabel">Сервисы</string>
-     <string name="yellowpage_navigation_menu_order">Мой заказ</string>
+     <string name="yellowpage_navigation_menu_order">Мои заказы</string>
      <string name="yellowpage_navigation_no_content">Ничего не найдено</string>
      <string name="yellowpage_navigation_search_city_name_hint">Город</string>
      <string name="yellowpage_navigation_search_hint">Поиск</string>

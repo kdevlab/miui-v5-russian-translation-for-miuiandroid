@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="dirac_headset_item_text_height">44.0dip</dimen>
+    <dimen name="dirac_headset_item_text_width">138.0dip</dimen>
+    <item type="dimen" name="dirac_headset_item_text_size">@miui:dimen/v5_text_font_size_list_secondary</item>
+    <dimen name="vip_recoomend_main_title_text_size">18.0sp</dimen>
+    <dimen name="vip_recoomend_sub_title_text_size">16.0sp</dimen>
+</resources>
