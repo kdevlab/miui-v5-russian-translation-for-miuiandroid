@@ -43,7 +43,7 @@
      <string name="audio_chat">Голосовой чат</string>
      <string name="auto_nickname">Авто</string>
      <string name="auto_set_nickname">Авто</string>
-     <string name="batch_delete">Пакетное удаление</string>
+     <string name="batch_delete">Удалить несколько</string>
      <string name="batch_delete_msg">"Удалить выбранные контакты?
 
 (контактов: %d)
@@ -102,7 +102,7 @@
      <string name="callrecordview_item_op_time_short_incoming">" | "</string>
      <string name="callrecordview_item_op_time_short_outgoing">" | "</string>
      <string name="callrecordview_menu_add_call_note">Добавить заметку о вызове</string>
-	 <string name="callrecordview_menu_batch_delete">Пакетное удаление</string>
+	 <string name="callrecordview_menu_batch_delete">Удалить несколько</string>
      <string name="callrecordview_menu_delete">Удалить вызов</string>
      <string name="callrecordview_menu_delete_accepted">Удалить входящие вызовы</string>
      <string name="callrecordview_menu_delete_all">Очистить журнал</string>
