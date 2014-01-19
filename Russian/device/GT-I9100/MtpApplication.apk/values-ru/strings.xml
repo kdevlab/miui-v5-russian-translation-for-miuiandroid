@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Приложение для передачи медиафайлов (MTP)</string>
+    <string name="error_title">Внимание</string>
+    <string name="bluetooth_running">Включение режима USB приведет к отключению Bluetooth. Продолжить?</string>
+    <string name="alert_dialog_yes">Да</string>
+    <string name="alert_dialog_no">Нет</string>
+    <string name="animation_initializing">Инициализация…</string>
+    <string name="animation_connected">Подключено</string>
+    <string name="animation_synchronizing">Синхронизация…</string>
+    <string name="animation_downloading">Загрузка…</string>
+    <string name="animation_sending">Отправка…</string>
+    <string name="notification_mtp_connected">Используется MTP</string>
+    <string name="notification_usb_connected">Подключено через USB</string>
+    <string name="notification_mtp_initialization">Инициализация MTP</string>
+    <string name="alert_dialog_ok">Да</string>
+    <string name="alert_dialog_cancel">Отмена</string>
+    <string name="non_idle_toast">Подключение к компьютеру возможно только в режиме ожидания. Закройте работающие приложения</string>
+    <string name="media_scanner_running">Выполняется поиск медиафайлов…</string>
+    <string name="media_scanner_finished">Поиск медиафайлов завершен</string>
+    <string name="kies_software_check">Проверка Samsung Kies (ПО для подключения к ПК)…</string>
+    <string name="security_policy_restriction">Политика безопасности ограничивает подключение к компьютеру</string>
+    <string name="resume_to_call">Возобновить звонок</string>
+    <string name="store_add_popup">Приложение MTP будет перезагружено, чтобы подготовить карту памяти SD. Продолжить?</string>
+</resources>

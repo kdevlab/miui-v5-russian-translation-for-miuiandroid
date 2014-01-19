@@ -9,7 +9,6 @@
     <string name="input_method_type_qwerty">Клавиатура Qwerty</string>
     <string name="input_method_type_phonepad">Клавиатура 3x4</string>
     <string name="input_method_type_box_hwr">Рукописный ввод</string>
-    <string name="input_method_type_qwerty_short">Qwerty</string>
     <string name="use_input_method_type_on_kor">Настройка корейской клав.</string>
     <string name="korean_keypad_type">Корейская клавиатура</string>
     <string name="korean_keypad_type_cji">Клавиатура Chunjiin</string>
@@ -32,7 +31,7 @@
     <string name="use_char_preview">Просмотр символов</string>
     <string name="use_char_preview_summary">Показывать крупные знаки при нажатии клавиш на клавиатуре Qwerty</string>
     <string name="use_auto_period">Автоматическая пунктуация</string>
-    <string name="auto_period_summary">Автоматическая вставка точки после двойного нажатия клавиши \"пробел\"</string>
+    <string name="auto_period_summary">Автоматическая вставка точки после двойного нажатия клавиши \"пробел\" на клавиатуре Qwerty</string>
     <string name="use_keypress_sound">Звук при нажатии клавиш</string>
     <string name="use_keypress_haptic">Вибрация при наж. клавиш</string>
     <string name="use_auto_caps">Автом. заглавные буквы</string>
@@ -63,19 +62,15 @@
     <string name="pointing_Keyboard">Управл. курсором с клав.</string>
     <string name="pointing_Keyboard_summary">Для перемещения курсора проведите пальцем по клавиатуре</string>
     <string name="pointing_Keyboard_popup">При переходе в обычный режим ввода текста непрерывный ввод будет отключен</string>
-    <string name="use_full_handwriting">Во весь экран</string>
-    <string name="use_full_handwriting_summary">Использовать рукописный ввод на всем экране в S Memo и приложениях для обмена сообщениями</string>
     <string name="swipe_disable_continuous_popup">При проведении пальцем по клавиатуре непрерывный ввод будет отключен</string>
     <string name="continuous_disable_swipe_popup">При непрерывном вводе проведение пальцем по клавиатуре будет отключено</string>
     <string name="s_pen_detection">Определение пера</string>
-    <string name="s_pen_detection_summary">Включать режим распознавания рукописных данных при определении пера</string>
-    <string name="pen_detection_dialog_msg">При обнаружении пера S Pen режим ввода текста будет автоматически изменяться на распознавание рукописных данных. Вы можете отключить определение пера в параметрах клавиатуры</string>
+    <string name="s_pen_detection_summary">Выводить область рукописного ввода при определении пера</string>
+    <string name="pen_detection_dialog_msg">Обнаружено перо, поэтому автоматически появилась область рукописного ввода. Вы можете отключить определение пера в параметрах клавиатуры</string>
     <string name="use_one_hand">Управление одной рукой</string>
     <string name="one_hand_summary">Настройка клавиатуры на работу одной рукой</string>
     <string name="one_hand_guide">Если включена работа одной рукой, настроить клавиатуру Samsung можно с помощью стрелок по обеим сторонам</string>
     <string name="one_hand_guide_for_app">Если включена работа одной рукой, можно настроить клавиатуру Samsung в книжной ориентации с помощью стрелок по обеим сторонам. Это поддерживается для калькулятора, клавиатуры для набора номера, экрана вызова и экрана блокировки</string>
-    <string name="one_hand_guide_pinch">Если включена работа одной рукой, можно настроить клавиатуру Samsung в книжной ориентации с помощью стрелок по обеим сторонам. Эту функцию можно включить или отключить на клавиатуре с помощью щипка</string>
-    <string name="one_hand_guide_available_for_app">Эта возможность поддерживается для калькулятора, клавиатуры для набора номера, экрана вызова и экрана блокировки</string>
     <string name="xt9_my_words">Мои слова</string>
     <string name="xt9_auto_substitution">Список автозамены</string>
     <string name="xt9_words_list_shortcut">Горячая клавиша</string>
@@ -134,7 +129,7 @@
     <string name="tutorial_title_move_select">Перемещение и выделение</string>
     <string name="tutorial_title_chage_input_method">Изменение метода ввода</string>
     <string name="tutorial_title_multi_mode">Значок нескольких режимов</string>
-    <string name="tutorial_title_customizable_key">Настраиваемая клавиша</string>
+    <string name="tutorial_title_customizable_key">Customizable key</string>
     <string name="tutorial_title_voice_input">Голосовой ввод</string>
     <string name="tutorial_title_handwriting">Рукописный ввод</string>
     <string name="tutorial_title_text_recognition">Распознавание текста</string>
@@ -142,7 +137,6 @@
     <string name="tutorial_title_keypad_settings">Параметры клавиатуры</string>
     <string name="tutorial_title_keypad_guide">Жесты для клавиатуры</string>
     <string name="tutorial_title_change_input_method">Изменить метод ввода</string>
-    <string name="tutorial_title_change_keyboard_type">Изменять тип клавиатуры</string>
     <string name="tutorial_helptext_open">Чтобы открыть клавиатуру, коснитесь любого текстового поля</string>
     <string name="tutorial_helptext_close">Нажмите \"Назад\", чтобы закрыть клавиатуру</string>
     <string name="tutorial_helptext_close_for_tablet">Во время использования клавиатуры клавиша \"Назад\" становится скрытой. Нажмите скрытую клавишу, чтобы закрыть клавиатуру</string>
@@ -169,7 +163,6 @@
     <string name="tutorial_helptext_customizable_key">Чтобы выбрать голосовой ввод, рукописный ввод, буфер обмена, клавиатуру или знаки препинания, нажмите и удерживайте настраиваемую клавишу</string>
     <string name="tutorial_helptext_customizable_key_with_ocr">Чтобы выбрать голосовой ввод, рукописный ввод, распознавание текста, буфер обмена, клавиатуру или знаки препинания, нажмите и удерживайте настраиваемую клавишу</string>
     <string name="tutorial_helptext_customizable_key_with_ocr_without_hwr">Чтобы выбрать голосовой ввод, распознавание текста, буфер обмена, клавиатуру или знаки препинания, нажмите и удерживайте настраиваемую клавишу</string>
-    <string name="tutorial_helptext_change_keyboard_type">Для переключения между плавающей и обычной клавиатурой коснитесь значка переключения</string>
     <string name="reset_dialog_title">Внимание</string>
     <string name="reset_dialog_msg">Параметры клавиатуры, кроме вашего списка слов и списка автозамены, будут сброшены</string>
     <string name="reset_dialog_msg_swiftkey">Параметры клавиатуры, кроме личных данных и загруженных языков, будут сброшены</string>
@@ -237,7 +230,6 @@ ABC"</string>
     <string name="accessibility_description_keyboard">Клавиатура</string>
     <string name="accessibility_description_voice">Голосовой ввод</string>
     <string name="accessibility_description_ocr">Распознавание символов</string>
-    <string name="accessibility_description_change_keyboard_type">Изменять тип клавиатуры</string>
     <string name="accessibility_description_sym_popup">Показать клавиатуру с символами</string>
     <string name="accessibility_description_expand">Развернуть</string>
     <string name="accessibility_description_close">Закрыть</string>
@@ -266,7 +258,7 @@ ABC"</string>
     <string name="swiftkey_dialog_msg">"Клавиатура Samsung может хранить все вводимые данные (за исключением паролей), в том числе личные сведения и номера кредитных карт, чтобы предлагать более точные варианты. Продолжить?
 
 Если вы не хотите, чтобы ваши личные сведения сохранялись, отключите персонализированные данные в параметрах клавиатуры"</string>
-    <string name="swiftkey_dialog_msg_vzw">Samsung keyboard can store all of the text you enter, including personal data and credit card numbers, except passwords, in order to give better prediction results. Continue?</string>
+    <string name="swiftkey_dialog_msg_vzw">Клавиатура Samsung может собирать все вводимые данные (за исключением паролей), в том числе личные сведения и номера кредитных карт, чтобы предлагать более точные варианты. Продолжить?</string>
     <string name="swiftkey_remove_term_msg">\"%s\" будет удалено из запомненных слов</string>
     <string name="update_language_list_dialog_title">Языки ввода</string>
     <string name="update_language_list_dialog_msg">Можно обновить стандартные языковые данные, загрузив список языков с сервера. Для обновления также можно использовать клавишу меню. Обновить?</string>
@@ -281,19 +273,15 @@ ABC"</string>
     <string name="personalize_gmail_title">Подстроиться под Gmail</string>
     <string name="personalize_twitter_title">Подстроиться под Twitter</string>
     <string name="personalize_delremote_title">Дистанционная очистка данных</string>
-    <string name="personalize_messaging_title">Подстроиться под \"Сообщения\"</string>
-    <string name="personalize_contacts_title">Подстроиться под \"Контакты\"</string>
     <string name="personalize_facebook_subtitle">Войти, чтобы устройство подстроилось под ваш стиль письма по сообщениям Facebook</string>
     <string name="personalize_gmail_subtitle">Войти, чтобы устройство подстроилось под ваш стиль письма по сообщениям Gmail</string>
     <string name="personalize_twitter_subtitle">Войти, чтобы устройство подстроилось под ваш стиль письма по сообщениям Twitter</string>
-    <string name="personalize_messaging_subtitle">Обновите, чтобы устройство подстроилось под ваш стиль сообщений</string>
-    <string name="personalize_contacts_subtitle">Обновите, чтобы устройство подстроилось под ваш стиль контактов</string>
     <string name="use_standard_data">Персонализиров. данные</string>
     <string name="use_standard_data_summary">Используйте личные языковые данные для улучшения предлагаемых вариантов</string>
     <string name="personalize_delremote_service_title">Дистанционная очистка данных</string>
     <string name="personalize_delremote_subtitle">Удалите свои анонимные данные, хранящиеся на сервере персонализации</string>
     <string name="privacy_preference_title">Конфиденциальность</string>
-    <string name="privacy_policy">Услуги персонализации предоставляются сторонним поставщиком. Мы серьезно относимся к защите вашей конфиденциальности, и она защищается строгой <a href="http://www.swiftkey.net/privacy">политикой конфиденциальности</a> поставщика услуг</string>
+    <string name="privacy_policy">Мы серьезно относимся к вашей безопасности. Услуги персонализации подпадают под действие нашей надежной <a href="http://www.swiftkey.net/privacy">политики конфиденциальности</a></string>
     <string name="no_internet_connection">Сеть недоступна</string>
     <string name="personalize_succeeded">Клавиатура персонализирована на основе %1$s</string>
     <string name="personalize_delete_succeeded">Данные были дистанционно очищены</string>
@@ -317,7 +305,4 @@ ABC"</string>
     <string name="pref_delete_dynamic_summary">Удалить все персонализированные данные, введенные пользователем</string>
     <string name="pref_delete_dynamic_dialog_title">При продолжении клавиатура Samsung потеряет все сведения о том, какие данные вы вводите, включая использованные вами новые слова. Продолжить?</string>
     <string name="pref_delete_dynamic_dialog_cancel">Отмена</string>
-    <string name="gmail_message_updated">Обновлено :</string>
-    <string name="authorize_this_app">Пожалуйста, авторизуйтесь это приложение</string>
-    <string name="facebook_loading">Загрузка…</string>
 </resources>
