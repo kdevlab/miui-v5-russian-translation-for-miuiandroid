@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ok">OK</string>
+    <string name="unknown_error">Неизвестная ошибка</string>
+    <string name="processing">Обработка…</string>
+    <string name="license_not_found">Лицензия не найдена</string>
+    <string name="dev_cert_revoked">Сертификат устройства отозван. Обратитесь к поставщику услуг</string>
+    <string name="server_internal_error">Сервер испытывает проблемы. Попробуйте позже</string>
+    <string name="server_domain_required">Регистрация доменов для воспроизведения содержимого</string>
+    <string name="server_not_a_member">Домен больше не действует. Нажмите ОК, чтобы уйти</string>
+    <string name="server_unknown_account_id">Используемый ID аккаунта для получения лицензии не допустим. Обратиться в сервисную службу</string>
+    <string name="server_device_limit_reached">Максимальное количество соединенных устройств достигнуто. Удалите устройства, чтобы добавить новые</string>
+    <string name="server_protocol_version_mismatch">Вы используете старую версию протокола. Обратитесь к поставщику услуг для обновления</string>
+    <string name="license_acquisition_fail">К сожалению, приобрести лицензию не удалось</string>
+</resources>

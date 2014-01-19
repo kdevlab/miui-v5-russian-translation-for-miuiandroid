@@ -1,0 +1,435 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="auto_power_off_entries">
+        <item>Выключено</item>
+        <item>1 час</item>
+        <item>2 часа</item>
+        <item>3 часа</item>
+        <item>4 часа</item>
+    </string-array>
+    <string-array name="timezone_filters">
+        <item>Америка</item>
+        <item>Европа</item>
+        <item>Африка</item>
+        <item>Азия</item>
+        <item>Австралия</item>
+        <item>Тихоокеанский регион</item>
+        <item>Все</item>
+    </string-array>
+    <string-array name="screen_timeout_entries">
+        <item>15 секунд</item>
+        <item>30 секунд</item>
+        <item>1 минута</item>
+        <item>2 минуты</item>
+        <item>5 минут</item>
+        <item>10 минут</item>
+        <item>30 минут</item>
+    </string-array>
+    <string-array name="screen_timeout_for_device_lock_entries">
+        <item>15 секунд</item>
+        <item>30 секунд</item>
+        <item>1 минута</item>
+        <item>3 минуты</item>
+        <item>5 минут</item>
+        <item>10 минут</item>
+        <item>15 минут</item>
+        <item>30 минут</item>
+    </string-array>
+    <string-array name="dream_timeout_entries">
+        <item>Никогда</item>
+        <item>15 секунд</item>
+        <item>30 секунд</item>
+        <item>1 минута</item>
+        <item>2 минуты</item>
+        <item>5 минут</item>
+        <item>10 минут</item>
+        <item>30 минут</item>
+    </string-array>
+    <string-array name="device_lock_timeout_entries">
+        <item>Мгновенно при нажатии клавиши питания или по истечении времени ожидания экрана</item>
+        <item>15 секунд</item>
+        <item>30 секунд</item>
+        <item>1 минута</item>
+        <item>3 минуты</item>
+        <item>5 минут</item>
+        <item>10 минут</item>
+        <item>15 минут</item>
+        <item>30 минут</item>
+        <item>1 час</item>
+    </string-array>
+    <string-array name="lock_after_timeout_entries">
+        <item>Немедленно</item>
+        <item>5 секунд</item>
+        <item>15 секунд</item>
+        <item>30 секунд</item>
+        <item>1 минута</item>
+        <item>2 минуты</item>
+        <item>5 минут</item>
+        <item>10 минут</item>
+        <item>30 минут</item>
+    </string-array>
+    <string-array name="entries_font_size">
+        <item>Мелкий</item>
+        <item>Небольшой</item>
+        <item>Обычный</item>
+        <item>Крупный</item>
+        <item>Огромный</item>
+    </string-array>
+    <string-array name="tts_rate_entries">
+        <item>Очень медленно</item>
+        <item>Медленно</item>
+        <item>Обычная</item>
+        <item>Быстро</item>
+        <item>Очень быстро</item>
+    </string-array>
+    <string-array name="tts_pitch_entries">
+        <item>Очень низкий</item>
+        <item>Низкий</item>
+        <item>Обычный</item>
+        <item>Высокий</item>
+        <item>Очень высокий</item>
+    </string-array>
+    <string-array name="wifi_status">
+        <item></item>
+        <item>Сканирование…</item>
+        <item>Подключение…</item>
+        <item>Проверка подлинности…</item>
+        <item>Получение IP-адреса…</item>
+        <item>Подключено</item>
+        <item>Приостановлено</item>
+        <item>Отключение…</item>
+        <item>Отключено</item>
+        <item>Сбой</item>
+        <item>Подключено</item>
+        <item>Временно избегать плохого соединения</item>
+    </string-array>
+    <string-array name="wifi_status_with_ssid">
+        <item></item>
+        <item>Сканирование…</item>
+        <item>Подключение к %s…</item>
+        <item>Проверка подлинности в %s…</item>
+        <item>Получение IP-адреса от %s…</item>
+        <item>Подключено к %1$s</item>
+        <item>Приостановлено</item>
+        <item>Отключение от %s…</item>
+        <item>Отключено</item>
+        <item>Сбой</item>
+        <item>Подключено</item>
+        <item>Временно избегать плохого соединения</item>
+    </string-array>
+    <string-array name="wifi_ap_security">
+        <item>Открытый</item>
+        <item>WPA PSK</item>
+        <item>WPA2 PSK</item>
+    </string-array>
+    <string-array name="wifi_p2p_wps_setup">
+        <item>Нажмите кнопку</item>
+        <item>PIN-код другого устройства</item>
+        <item>PIN-код этого устройства</item>
+    </string-array>
+    <string-array name="wifi_p2p_status">
+        <item>Подключено</item>
+        <item>Вы приглашены</item>
+        <item>Сбой при подключении</item>
+        <item>Нажмите для подключения</item>
+        <item>Вне диапазона</item>
+        <item>Подключено к другому устройству</item>
+    </string-array>
+    <string-array name="wifi_ap_timeout">
+        <item>Не использовать время ожидания</item>
+        <item>5 минут</item>
+        <item>10 минут</item>
+        <item>20 минут</item>
+        <item>30 минут</item>
+        <item>60 минут</item>
+    </string-array>
+    <string-array name="wifi_ap_connection_mode">
+        <item>Разрешить все устр.</item>
+        <item>Только разрешенные устройства</item>
+    </string-array>
+    <string-array name="wifi_ap_channel">
+        <item>Авто</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+    </string-array>
+    <string-array name="bluetooth_visibility_timeout_entries">
+        <item>2 минуты</item>
+        <item>5 минут</item>
+        <item>1 час</item>
+        <item>Без тайм-аута</item>
+    </string-array>
+    <string-array name="wifi_signal">
+        <item>Слабый</item>
+        <item>Средний</item>
+        <item>Хороший</item>
+        <item>Сильный</item>
+        <item>Очень сильный</item>
+    </string-array>
+    <string-array name="wifi_sleep_policy_entries">
+        <item>Всегда</item>
+        <item>Только если подключен к сети</item>
+        <item>Никогда (Увеличивает расход трафика)</item>
+    </string-array>
+    <string-array name="wifi_sleep_policy_entries_wifi_only">
+        <item>Всегда</item>
+        <item>Только если подключен к сети</item>
+        <item>Никогда</item>
+    </string-array>
+    <string-array name="wifi_frequency_band_entries">
+        <item>Авто</item>
+        <item>Только 5 ГГц</item>
+        <item>Только 2.4 ГГц</item>
+    </string-array>
+    <string-array name="usage_stats_display_order_types">
+        <item>Время использования</item>
+        <item>Запустить счетчик</item>
+        <item>Имя приложения</item>
+    </string-array>
+    <string-array name="wifi_eap_entries">
+        <item>PEAP</item>
+        <item>TLS</item>
+        <item>TTLS</item>
+        <item>PWD</item>
+    </string-array>
+    <string-array name="wifi_phase2_entries">
+        <item>Нет</item>
+        <item>PAP</item>
+        <item>MSCHAP</item>
+        <item>MSCHAPV2</item>
+        <item>GTC</item>
+    </string-array>
+    <string-array name="wifi_network_setup">
+        <item>Выключено</item>
+        <item>Нажмите кнопку</item>
+        <item>PIN-код точки доступа</item>
+        <item>PIN-код этого устройства</item>
+    </string-array>
+    <string-array name="wifi_ip_settings">
+        <item>DHCP</item>
+        <item>Статический</item>
+    </string-array>
+    <string-array name="wifi_proxy_settings">
+        <item>Нет</item>
+        <item>Вручную</item>
+    </string-array>
+    <string-array name="wifi_connection_settings">
+        <item>Обычный</item>
+        <item>Downtown</item>
+        <item>Домашний</item>
+    </string-array>
+    <string-array name="wifi_connection_settings_summary">
+        <item>Это универсальный параметр подключения к Wi-Fi</item>
+        <item>Если вы находитесь в зоне с несколькими сетями Wi-Fi, сеть Wi-Fi будет меняться для улучшения качества сигнала</item>
+        <item>Если вы находитесь в зоне с несколькими сетями Wi-Fi, подключение к Wi-Fi сохраняется как можно дольше</item>
+    </string-array>
+    <string-array name="emergency_tone_entries">
+        <item>Выключено</item>
+        <item>Сигнал</item>
+        <item>Вибрация</item>
+    </string-array>
+    <string-array name="apn_auth_entries">
+        <item>Нет</item>
+        <item>PAP</item>
+        <item>CHAP</item>
+        <item>PAP или CHAP</item>
+    </string-array>
+    <string-array name="bearer_entries">
+        <item>LTE</item>
+        <item>eHRPD</item>
+        <item>Не указано</item>
+    </string-array>
+    <string-array name="app_install_location_entries">
+        <item>Внутренняя память устройства</item>
+        <item>Съемная карта памяти SD</item>
+        <item>По умолчанию</item>
+    </string-array>
+    <string-array name="long_press_timeout_selector_titles">
+        <item>Короткая</item>
+        <item>Средняя</item>
+        <item>Длинная</item>
+    </string-array>
+    <string-array name="hdcp_checking_titles">
+        <item>Никогда не проверять</item>
+        <item>Проверять только содержимое DRM</item>
+        <item>Всегда проверять</item>
+    </string-array>
+    <string-array name="hdcp_checking_summaries">
+        <item>Никогда не применять проверку HDCP</item>
+        <item>Применять проверку HDCP только для содержимого DRM</item>
+        <item>Всегда применять проверку HDCP</item>
+    </string-array>
+    <string-array name="window_animation_scale_entries">
+        <item>Анимация отключена</item>
+        <item>Масштаб анимации: 0.5x</item>
+        <item>Масштаб анимации: 1x</item>
+        <item>Масштаб анимации: 1.5x</item>
+        <item>Масштаб анимации: 2x</item>
+        <item>Масштаб анимации: 5x</item>
+        <item>Масштаб анимации: 10x</item>
+    </string-array>
+    <string-array name="transition_animation_scale_entries">
+        <item>Анимация отключена</item>
+        <item>Масштаб анимации: 0.5x</item>
+        <item>Масштаб анимации: 1x</item>
+        <item>Масштаб анимации: 1.5x</item>
+        <item>Масштаб анимации: 2x</item>
+        <item>Масштаб анимации: 5x</item>
+        <item>Масштаб анимации: 10x</item>
+    </string-array>
+    <string-array name="animator_duration_scale_entries">
+        <item>Анимация отключена</item>
+        <item>Масштаб анимации: 0.5x</item>
+        <item>Масштаб анимации: 1x</item>
+        <item>Масштаб анимации: 1.5x</item>
+        <item>Масштаб анимации: 2x</item>
+        <item>Масштаб анимации: 5x</item>
+        <item>Масштаб анимации: 10x</item>
+    </string-array>
+    <string-array name="app_process_limit_entries">
+        <item>Стандартное ограничение</item>
+        <item>Нет фоновых процессов</item>
+        <item>Не более 1 процесса</item>
+        <item>Не более 2 процессов</item>
+        <item>Не более 3 процессов</item>
+        <item>Не более 4 процессов</item>
+    </string-array>
+    <string-array name="vpn_types_long">
+        <item>PPTP VPN</item>
+        <item>L2TP/IPSec VPN с общими ключами</item>
+        <item>L2TP/IPSec VPN с сертификатами</item>
+        <item>IPSec VPN с общими ключами и проверкой подлинности XAuth</item>
+        <item>IPSec VPN с сертификатами и проверкой подлинности XAuth</item>
+        <item>IPSec VPN с сертификатами и гибридной проверкой подлинности</item>
+    </string-array>
+    <string-array name="vpn_states">
+        <item>Отключено</item>
+        <item>Инициализация…</item>
+        <item>Подключение…</item>
+        <item>Подключено</item>
+        <item>Время ожидания</item>
+        <item>Сбой</item>
+    </string-array>
+    <string-array name="allshare_download_to">
+        <item>Устройство</item>
+        <item>Карта памяти</item>
+    </string-array>
+    <string-array name="allshare_download_from">
+        <item>Всегда принимать</item>
+        <item>Всегда спрашивать</item>
+        <item>Всегда отклонять</item>
+    </string-array>
+    <string-array name="allshare_contents_share">
+        <item>Видео</item>
+        <item>Фотографии</item>
+        <item>Музыка</item>
+    </string-array>
+    <string-array name="apn_ently_key">
+        <item>Интернет + MMS</item>
+        <item>Интернет</item>
+        <item>MMS</item>
+    </string-array>
+    <string-array name="apn_ently_key_includeDUN">
+        <item>Интернет + MMS + DUN</item>
+        <item>Интернет + MMS</item>
+        <item>Интернет + DUN</item>
+        <item>Интернет</item>
+        <item>MMS</item>
+        <item>DUN</item>
+    </string-array>
+    <string-array name="wifi_connect_entries">
+        <item>Автоматически</item>
+        <item>Вручную</item>
+        <item>Всегда спрашивать</item>
+    </string-array>
+    <string-array name="key_backlight_entries">
+        <item>Всегда выкл.</item>
+        <item>3 секунды</item>
+        <item>5 секунд</item>
+        <item>10 секунд</item>
+        <item>15 секунд</item>
+    </string-array>
+    <string-array name="allow_list_entries">
+        <item>Нет</item>
+        <item>Все контакты</item>
+        <item>Избранное</item>
+        <item>Создать</item>
+    </string-array>
+    <string-array name="signature_settings_verification_level_entries">
+        <item>Высокий</item>
+        <item>Средний</item>
+        <item>Низкий</item>
+    </string-array>
+    <string-array name="data_service_entries">
+        <item>SIM 1</item>
+        <item>SIM 2</item>
+    </string-array>
+    <string-array name="register_icon_entries">
+        <item>SIM 1</item>
+        <item>SIM 2</item>
+        <item>Домашний</item>
+        <item>Рабочий</item>
+        <item>Сердце</item>
+    </string-array>
+    <string-array name="customizedkey_popup">
+        <item>Заменить ссылку</item>
+        <item>Сбросить настроенную клавишу</item>
+    </string-array>
+    <string-array name="silent_mode_entries">
+        <item>Звук</item>
+        <item>Вибрация</item>
+        <item>Выключить звук</item>
+    </string-array>
+    <string-array name="touch_key_light_entries">
+        <item>1,5 секунды</item>
+        <item>6 секунд</item>
+        <item>Всегда выкл.</item>
+        <item>Всегда вкл.</item>
+    </string-array>
+    <string-array name="clock_position_entries">
+        <item>Вверxу</item>
+        <item>Посередине</item>
+        <item>Внизу</item>
+    </string-array>
+    <string-array name="contents_type_entries">
+        <item>Новости</item>
+        <item>Акции</item>
+        <item>Facebook</item>
+    </string-array>
+    <string-array name="contents_type_entries_weibo">
+        <item>Новости</item>
+        <item>Акции</item>
+        <item>Weibo</item>
+    </string-array>
+    <string-array name="sliding_speed_entries">
+        <item>Медленно</item>
+        <item>Обычная</item>
+        <item>Быстро</item>
+    </string-array>
+    <string-array name="facebook_auto_refresh_entries">
+        <item>Нет</item>
+        <item>Каждые 30 минут</item>
+        <item>Каждый час</item>
+        <item>Каждые 2 часа</item>
+        <item>Каждые 4 часа</item>
+    </string-array>
+    <string-array name="bluetooth_class_of_device_entries">
+        <item>Гарнитура</item>
+        <item>ПК</item>
+        <item>Телефон</item>
+        <item>Устройство ввода (клавиатура, мышь и т. д.)</item>
+        <item>Все устройства</item>
+    </string-array>
+    <string-array name="audio_output_entries">
+        <item>Стерео</item>
+        <item>Объемный звук</item>
+    </string-array>
+</resources>
