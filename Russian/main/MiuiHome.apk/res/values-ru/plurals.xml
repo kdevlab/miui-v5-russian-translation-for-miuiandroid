@@ -12,7 +12,7 @@
         <item quantity="two">Не удалось удалить \"%s\" и еще 1 приложение</item>
      </plurals>
      <plurals name="uninstall_result_succeeded">
-        <item quantity="other">%1$ прил. удалено</item>
+        <item quantity="other">%1$s прил. удалено</item>
         <item quantity="one">Приложение удалено</item>
      </plurals>
 </resources>
