@@ -93,7 +93,7 @@
      <string name="calllog_menu_blacklist">В черный список</string>
      <string name="calllog_menu_edit_before_call">Отредактировать перед вызовом</string>
      <string name="calllog_menu_send_sms">Отправить сообщение</string>
-     <string name="callrecordview_item_newcontact">Новый контакт</string>
+     <string name="callrecordview_item_newcontact">Добавить</string>
      <string name="callrecordview_item_op_time_minutes_seconds" formatted="false">%d мин. %d сек.</string>
      <string name="callrecordview_item_op_time_missed">Не подключен</string>
      <string name="callrecordview_item_op_time_only_minutes">%d мин.</string>
@@ -992,7 +992,7 @@
      <string name="set_default">Установить как основной</string>
      <string name="set_photo_failed_msg">Ошибка установки аватара</string>
      <string name="share_error">Не удалось передать данные</string>
-     <string name="share_via">Отправить</string>
+     <string name="share_via">Передать</string>
      <string name="share_visible_contacts">Все контакты</string>
      <string name="shortcutActivityTitle">Функция ярлыка на рабочем столе</string>
      <string name="shortcutContact">Контакты</string>

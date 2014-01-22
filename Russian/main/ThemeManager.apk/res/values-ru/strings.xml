@@ -58,7 +58,7 @@
      <string name="payment_info">Мой Mi</string>
      <string name="purchased_list">Список покупок</string>
      <string name="resource_account_abnormal_state">Ошибка аккаунт. Попробуйте позже.</string>
-     <string name="resource_account_current">Аккаунт: %1$s</string>
+     <string name="resource_account_current">%1$s</string>
      <string name="resource_account_fail_to_add">Ошибка добавления аккаунта!</string>
      <string name="resource_account_login">Войти</string>
      <string name="resource_account_login_before_action">Войдите в свой аккаунт Xiaomi</string>
@@ -118,13 +118,13 @@
      <string name="resource_delta_update_successful">Обновление завершено</string>
      <string name="resource_delta_update_total">%1$d обновлений сохранено %2$s для вас</string>
      <string name="resource_detail">Сведения</string>
-     <string name="resource_detail_comment_title">Коментарии</string>
+     <string name="resource_detail_comment_title">Комментарии</string>
      <string name="resource_detail_jump_to_online_title">Онлайн</string>
      <string name="resource_detail_jump_to_same_author_title">Тот же автор</string>
      <string name="resource_detail_recommend_desiner_other_themes">Другие темы от %1$s</string>
      <string name="resource_detail_recommend_desiner_themes">темы: %1$s</string>
      <string name="resource_detail_recommend_other_themes">Пользователям также понравилось</string>
-     <string name="resource_detail_update_log_title">Обновления</string>
+     <string name="resource_detail_update_log_title">Что нового</string>
      <string name="resource_detail_window_title">Информация %1$s</string>
      <string name="resource_download">Скачать</string>
      <string name="resource_download_trial">Попробовать</string>
@@ -178,7 +178,7 @@
      <string name="resource_purchase_getting_order">Получение даннных заказа…</string>
      <string name="resource_purchase_verifying_payment">Проверка оплаты…</string>
      <string name="resource_purchase_waiting_payment">Ожидание проверки оплаты…</string>
-     <string name="resource_ranking">Топ</string>
+     <string name="resource_ranking">Популярные</string>
      <string name="resource_ranking_free">Бесплатные</string>
      <string name="resource_ranking_purchase">Платные</string>
      <string name="resource_ringtone_default">Мелодии</string>
@@ -187,7 +187,7 @@
      <string name="resource_save_to_note">Сохранить в заметки</string>
      <string name="resource_see_more">Подробнее</string>
      <string name="resource_select">Выбрать</string>
-     <string name="resource_selected">Лучшее</string>
+     <string name="resource_selected">Лучшие</string>
      <string name="resource_send">Отправить</string>
      <string name="resource_server_alert_dialog_title">Технические неполадки</string>
      <string name="resource_server_out_of_service">Сервис не доступен. Попробуйте позже.</string>
