@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="jp_calendar_name">Привет</string>
+    <string name="simServiceTitle">Сервис SIM-карты</string>
+    <string name="app_name">CSC</string>
+    <string name="start_service">Включить</string>
+    <string name="stop_service">Остановить</string>
+    <string name="update_browser">Обновить браузер</string>
+    <string name="e_manual_bookmark_name">Руководство пользователя</string>
+</resources>
