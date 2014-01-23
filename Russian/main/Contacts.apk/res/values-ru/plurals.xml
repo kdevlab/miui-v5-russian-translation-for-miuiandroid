@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Builded with CloudBuildr -->
 <resources>
-     <plurals name="group_add_success_toast">
+     <plurals name="device_import_done_toast">
+        <item quantity="other">Импортировано контактов: %1$d</item>
+        <item quantity="one">Импортировано контактов: %1$d</item>
+     </plurals>
+	 <plurals name="group_add_success_toast">
         <item quantity="other">" %1$d добавлено"</item>
         <item quantity="one">%1$d контакт добавлен</item>
      </plurals>
@@ -12,6 +16,18 @@
      <plurals name="group_list_num_numbers_in_group">
         <item quantity="other">номеров: %1$d</item>
         <item quantity="one">номеров: %1$d</item>
+     </plurals>
+	 <plurals name="hint_search_contacts">
+        <item quantity="other">Контактов: %1$d</item>
+        <item quantity="one">Контактов: %1$d</item>
+     </plurals>
+     <plurals name="hint_search_emails">
+        <item quantity="other">Адресов почты: %1$d</item>
+        <item quantity="one">Адресов почты: 1 </item>
+     </plurals>
+     <plurals name="hint_search_phone_numbers">
+        <item quantity="other">Номеров: %1$d</item>
+        <item quantity="one">Номеров: %1$d</item>
      </plurals>
      <plurals name="listFoundAllContacts">
         <item quantity="other">Найдено: %d</item>
@@ -49,6 +65,22 @@
      <plurals name="number_of_items_selected">
         <item quantity="other">Выбрано: %1$d</item>
         <item quantity="one">Выбрано: %1$d</item>
+     </plurals>
+	 <plurals name="pick_favorites_contacts_list_title">
+        <item quantity="other">Избранных: %1$d</item>
+        <item quantity="one">Избранных: %1$d</item>
+     </plurals>
+     <plurals name="pick_favorites_list_title">
+        <item quantity="other">Избранных: %1$d</item>
+        <item quantity="one">Избранных: %1$d</item>
+     </plurals>
+     <plurals name="pick_recent_contacts_list_title">
+        <item quantity="other">Недавние: %1$d</item>
+        <item quantity="one">Недавние: %1$d</item>
+     </plurals>
+     <plurals name="pick_recent_list_title">
+        <item quantity="other">Недавние: %1$d</item>
+        <item quantity="one">Недавние: 1</item>
      </plurals>
      <plurals name="searchFoundContacts">
         <item quantity="other">Найдено: %d</item>

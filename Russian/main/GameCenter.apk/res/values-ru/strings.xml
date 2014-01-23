@@ -4,7 +4,7 @@
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="VipS_DefaultTitle">VIP GamePack</string>
      <string name="VipS_Receive">Получить обновления</string>
-     <string name="VipS_showStr1">VIP уровень игрока.</string>
+     <string name="VipS_showStr1">VIP уровень игрока</string>
      <string name="account_all_game">Все игры</string>
      <string name="account_feedback">Отзывы</string>
      <string name="account_local_game_title">Мои игры</string>
@@ -27,6 +27,7 @@
      <string name="apply_check_info_empty">Необходимо заполнить информацию.</string>
      <string name="ask_customer">Просим помочь</string>
      <string name="auto_location">Найдите автоматически</string>
+	 <string name="background_install_failed">Установка в фоне не удалась</string>
      <string name="bad_comments">Негативные</string>
      <string name="button_refresh">Обновить</string>
      <string name="button_search">Поиск</string>
@@ -60,8 +61,8 @@
      <string name="client_download_start">Загрузка</string>
      <string name="client_update_now">Обновить</string>
      <string name="comment_cannot_comment">Чтобы оставить комментарий, скачайте приложение</string>
-     <string name="comment_count">Оценок: %1$s Коментариев: %2$s</string>
-     <string name="comment_description">%1$s комментакрий к %2$s:%3$s:%4$s</string>
+     <string name="comment_count">Оценок: %1$s Комментариев: %2$s</string>
+     <string name="comment_description">%1$s комм. к %2$s:%3$s:%4$s</string>
      <string name="comment_invalid">Нажмите на звезды, чтобы оценить</string>
      <string name="comment_name_default">Пользователь %1$s</string>
      <string name="comment_publish">Отправить</string>
@@ -76,6 +77,7 @@
      <string name="comment_upload_not_logined">Сначала войдите</string>
      <string name="comment_upload_success">Комментарий отправлен! Он будет показан после проверки.</string>
      <string name="comment_version_name">(версия %1$s)</string>
+	 <string name="confirm">OK</string>
      <string name="confirm_apply_gift">Провести %s очков?</string>
      <string name="connect_fail">%1$s - установка не удалась: ошибка соединения, пожалуйста, проверьте сетевое соединение</string>
      <string name="connect_network_fail">Ошибка соединения</string>
@@ -83,10 +85,11 @@
      <string name="connect_network_settings">Настройки</string>
      <string name="connect_no_fit_fail">%1$s - установка не удалась: нет подходящих пакетов установки для вашего телефона</string>
      <string name="connecting">подключение</string>
+	 <string name="copy_success">Скопировано!</string>
      <string name="credit_center">Кредит-центр</string>
      <string name="data_package">_DataPackage</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="default_nick_name">KDev Group</string>
+	 <string name="delete">Удалить</string>
      <string name="description_info">Описание</string>
      <string name="dialog_birthday_title">Мой день рождения</string>
      <string name="dialog_constellation_title">Мой знак зодиака</string>
@@ -305,9 +308,10 @@
      <string name="loading_search_result">Загрузка результатов поиска…</string>
      <string name="loading_subject_game_list">Загрузка, подождите…</string>
      <string name="loading_subject_list">Загрузка, подождите…</string>
-     <string name="loading_web_content">Загрузка...</string>
+     <string name="loading_web_content">Загрузка…</string>
      <string name="local_game_head">Игр: %d</string>
-     <string name="locating">Определение...</string>
+	 <string name="local_games_empty_txt">Здесь будут установленные игры</string>
+     <string name="locating">Определение…</string>
      <string name="locations_overseas">Другой</string>
      <string name="login_fail">Не удалось войти</string>
      <string name="login_fail_with_errcode">Ошибка входа:errCode=%d</string>
@@ -329,16 +333,13 @@
      <string name="messagecenter_custom_action_bar_btn_selectall">Выбрать все</string>
      <string name="messagecenter_custom_action_bar_title1">Пожалуйста, выберите</string>
      <string name="messagecenter_custom_action_bar_title2">%1$s выбрав элемент"</string>
-     <string name="messagecenter_delete_empty">Выберите сообщения для удаления.</string>
-     <string name="messagecenter_message_empty">Пусто.</string>
+     <string name="messagecenter_delete_empty">Выберите сообщения для удаления</string>
+	 <string name="messagecenter_item_ago">%d дн. назад</string>
+     <string name="messagecenter_message_empty">Пусто</string>
      <string name="messagecenter_message_list_delete_confirm">Удалить выбранные %1$s сообщения?</string>
      <string name="messagecenter_message_list_delete_title">Удалить?</string>
      <string name="messagecenter_title">Сообщения</string>
-     <!-- The count of MNPS does not match! Now: 0 must: 1
-	%s: 0 must: 1
-	%d: 0 must: 0 -->
-     <!-- Original string: You have &lt;font color=#f76811>%1$s&lt;/font> new messages -->
-     <string name="messagecenter_unread_messages">У вас есть </string>
+     <string name="messagecenter_unread_messages">Новых сообщений: &lt;font color=#f76811>%1$s&lt;/font></string>
      <string name="mibi_rmb_relation">1 ￥ равняется 1 MiBi</string>
      <string name="modify_nick_name_hint">Введите ник (2-12 символов, букв и цифр)</string>
      <string name="more_subjects">Просмотреть другие темы</string>
@@ -484,7 +485,7 @@
      <string name="special_comm">VIP поддержка</string>
      <string name="start_game">Играть</string>
      <string name="status_downloading">Загрузка: %1$s%%</string>
-     <string name="status_unzipping">Unzipping:%1$s%%</string>
+     <string name="status_unzipping">Распаковка</string>
      <string name="string_account_network_error_check">Пожалуйста, проверьте параметры подключения.</string>
      <string name="string_account_network_error_data_failed">Скачать не удалось.</string>
      <string name="subject_lists">Список тем игр</string>
@@ -555,6 +556,7 @@
      <string name="view_all_gift">Подробнее</string>
      <string name="view_more_gift">Подробнее</string>
      <string name="vip_club">VIP-клуб</string>
+	 <string name="vip_description_info">Описание</string>
      <string name="vip_gift_empty_button_receive">A A Получить GamePack A A</string>
      <string name="vip_gift_empty_receive">"Вы не имеете никакого GamePacks"</string>
      <string name="vip_home_all_privilege">Просмотреть все преимущества VIP</string>

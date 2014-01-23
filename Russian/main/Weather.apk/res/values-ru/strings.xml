@@ -70,7 +70,6 @@
      <string name="enable_notification_summary">Уведомлять меня при изменении погоды</string>
      <string name="first_start_network_toast_text">Доступ к сети для получения информации о погоде</string>
      <string name="install_sina">Нажмите для установки Sina Weibo</string>
-     <string name="install_tencent">Скачать Weibo</string>
      <string name="loading_weather">Загрузка погоды…</string>
      <string name="local_city">Города</string>
      <string name="location_allow_err">Не удалось определить местоположение</string>
@@ -105,13 +104,13 @@
      <string name="settings_weather_title">Настройки</string>
      <string name="share_aqi_content">"\#Погода MIUI#
 Сегодня %1$s's чистота воздуха: %2$s, %3$s. %4$s %5$s."</string>
+     <string name="share_button_text">Поделиться</string>
+     <string name="share_choice_titile">Поделиться</string>
      <string name="share_content">\#Погода MIUI#</string>
-     <string name="share_qq">Отправить через Tencent Weibo</string>
-     <string name="share_sina">Отправить через Sina Weibo</string>
      <string name="share_weather_content">"\#Погода MIUI#
 Сегодня %1$s's погода %2$s, %3$s, %4$s. %5$s."</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="share_weather_title">Share weather data</string>
+     <string name="share_weather_title">Поделиться погодой</string>
      <string name="sina_share_fail">Ошибка отправки!</string>
      <string name="sina_share_pendding">Отправка…</string>
      <string name="sina_share_success">Успешно отправлено!</string>
@@ -121,7 +120,7 @@
      <string name="sina_token_invalid_warning">Weibo account is invalid, please rebind</string>
      <string name="sms_notification">Отправить по смс</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="tip_weather">MIUI weather notification</string>
+     <string name="tip_weather">Уведомление погоды MIUI</string>
      <string name="tip_weather_info_content_1">Bring layers!</string>
      <string name="tip_weather_info_title_1">%1$s ожидается разность температур в %2$d градусов</string>
      <string name="tip_weather_info_title_2">%1$s температура сегодня оценивается в %2$s</string>

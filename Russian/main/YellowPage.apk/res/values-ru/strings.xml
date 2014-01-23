@@ -7,6 +7,7 @@
      <string name="all_numbers">Все номера</string>
      <string name="app_label">Желтые страницы</string>
      <string name="balance_inquiry_default_sp_name">Оператор</string>
+	 <string name="balance_inquiry_send_sms_fail_hint">Ошибка отправки сообщения</string>
      <string name="balance_inquiry_send_sms_hint">Будет отправлено бесплатное сообщение для запроса баланса</string>
      <string name="balance_inquiry_send_sms_summmary">Проверить состояние баланса</string>
      <string name="balance_inquiry_title">Состояние баланса</string>
@@ -56,6 +57,7 @@
      <string name="general_no_yellow_page">Пусто</string>
      <string name="general_recent_title">Недавние</string>
      <string name="general_yellow_page_title">Основные</string>
+	 <string name="locating_fail">Не удалось обнаружить. проверьте настройки местоположения и повторите.</string>
      <string name="login_before_recharging">Необходимо авторизоваться перед пополнением</string>
      <string name="login_before_use">Перед использованием войдите в аккаунт</string>
      <string name="login_ok">Войти</string>
@@ -79,6 +81,8 @@
      <string name="navigation_search_no_city_list">Город не найден</string>
      <string name="navigation_search_positioning">Поиск местоположения…</string>
      <string name="navigation_search_positioning_failed">Выберите город</string>
+	 <string name="nearby_no_yellow_page">Никого нет</string>
+     <string name="nearby_yellow_page_title">Рядом</string>
      <string name="network_unavaliable">Сеть не доступна. Проверьте настройки сети.</string>
      <string name="order_empty_hint">Нет заказов</string>
      <string name="order_id">ID заказа:%s</string>
@@ -106,9 +110,10 @@
      <string name="recharge_history">История пополнений</string>
      <string name="recharge_history_empty">История пуста</string>
      <string name="recharge_input_phone_title">Введите номер телефона (China mobile, China Unicom, или China Telecom)</string>
-     <string name="recharge_order_actual_price">¥%s</string>
-     <string name="recharge_order_id">ID заказа：</string>
-     <string name="recharge_order_original_price">RMB%s</string>
+	 <string name="recharge_my_phone_number">Мой номер</string>
+     <string name="recharge_order_actual_price">%s юань</string>
+     <string name="recharge_order_id">ID заказа:</string>
+     <string name="recharge_order_original_price">%s юань</string>
      <string name="recharge_order_pay">Оплатить</string>
      <string name="recharge_pay">Пополнить сейчас</string>
      <string name="recharge_pay_hint">При поддержке Xiaomi</string>
@@ -122,6 +127,7 @@
      <string name="recharge_select_money_title">Выберите размер пополнения</string>
      <string name="recharge_status_description">Статус:</string>
      <string name="recharge_title">Пополнение</string>
+	 <string name="recharge_unknown_number">Другой номер</string>
      <string name="recharge_user_confirm_summary">"Вы пополнили %1$s на %2$s юань！
 
 Всего: %3$s юань."</string>
