@@ -214,7 +214,7 @@
      <string name="android_beam_on_summary">Обмен данными по NFC</string>
      <string name="android_beam_tips">Убедитесь, что оба устройства соприкасаются и затем нажмите на контент, который хотите передать.</string>
      <string name="android_beam_witch_label">Включить Android Beam</string>
-     <string name="animator_duration_scale_title">Шкала длительности анимации</string>
+     <string name="animator_duration_scale_title">Скорость анимации</string>
      <string name="anti_private_summary">Блокировать приватные или удерживаемые номера</string>
      <string name="anti_private_title">Блокировать приватные</string>
      <string name="anti_spam">Антиспам</string>
@@ -709,9 +709,7 @@
      <string name="clear_user_data_text">Стереть данные</string>
      <string name="close_rule">Отключить правила брэндмаузера</string>
      <string name="color_calibration_none">Натуральный</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="color_calibration_srgb">sRGB</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="comfirm">OK</string>
      <string name="comfirm_exit">Выйти?</string>
      <string name="common_settings">Избранное</string>
@@ -720,7 +718,6 @@
      <string name="config_list_label">Настроенные сети</string>
      <string name="configed_access_points">Надежные точки доступа</string>
      <string name="configure_input_method">Настройка методов ввода</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="confirm">OK</string>
      <string name="confirm_clear_blacklist">Очистить черный список?</string>
      <string name="confirm_clear_whitelist">Очистить белый список?</string>
@@ -1056,17 +1053,17 @@
      <string name="downloaded_rom_title">Пакет обновлений истек</string>
      <string name="drive_mode">Режим вождения</string>
      <string name="drive_mode_auto_reply">Автоответ</string>
-     <string name="drive_mode_auto_sms_reply_content">Извините, я сейчас за рулем. Я свяжусь с Вами позже.</string>
-     <string name="drive_mode_auto_sms_reply_content_title">Содержание сообщения</string>
-     <string name="drive_mode_calling_auto_sms_reply">Автоответ через SMS</string>
+     <string name="drive_mode_auto_sms_reply_content">Я сейчас за рулем. Перезвоню позже.</string>
+     <string name="drive_mode_auto_sms_reply_content_title">Текст сообщения</string>
+     <string name="drive_mode_calling_auto_sms_reply">Автоответ сообщением</string>
      <string name="drive_mode_invert_stop_report">Переверните, чтобы остановить отчет</string>
-     <string name="drive_mode_only_contact_reply">Отвечать только людям из контактного списка</string>
-     <string name="drive_mode_phone_report">Уведомление о звонках</string>
-     <string name="drive_mode_settings">В автомобиле</string>
+     <string name="drive_mode_only_contact_reply">Отвечать только контактам</string>
+     <string name="drive_mode_phone_report">Уведомлять о вызове</string>
+     <string name="drive_mode_settings">Настройки режима за рулем</string>
      <string name="drive_mode_sms_auto_sms_reply">Автоответ SMS</string>
-     <string name="drive_mode_sms_report">Уведомление о SMS</string>
-     <string name="drive_mode_title">Настроить голосовые отчеты и автоответ</string>
-     <string name="drive_mode_voice_report">Голосовой отчет</string>
+     <string name="drive_mode_sms_report">Уведомлять о сообщении</string>
+     <string name="drive_mode_title">Настроить режим</string>
+     <string name="drive_mode_voice_report">Настройки отчетов</string>
      <string name="drm_reset_dialog_msg">Удалить все лицензии DRM из телефона?</string>
      <string name="drm_reset_toast_msg">Лицензии успешно удалены</string>
      <string name="drm_settings_summary">Удалить лицензии DRM</string>
@@ -2115,7 +2112,7 @@
      <string name="perm_su_switch">Суперпользователь</string>
      <string name="perm_summary_disabled">Выкл</string>
      <string name="perm_summary_enabled">Вкл</string>
-     <string name="perm_support_hints">Поддержка: LBE</string>
+     <string name="perm_support_hints">При поддержке LBE</string>
      <string name="perm_sysopt_boost_auto_start">Разрешить автозапуск</string>
      <string name="perm_sysopt_boost_auto_start_group">Автозапуск</string>
      <string name="perm_sysopt_boost_auto_start_summary">Разрешать приложению автозапуск</string>
@@ -2941,7 +2938,7 @@
      <string name="track_frame_time_summary">Вычислять время отрисовки в adb shell dumpsys gfxinfo</string>
      <string name="trackball_settings">Трекбол</string>
      <string name="trackball_wake_title">Пробуждение от трекбола</string>
-     <string name="transition_animation_scale_title">Переход: масштаб</string>
+     <string name="transition_animation_scale_title">Скорость переходов</string>
      <string name="trust_access_points">Точки доступа по умолчанию</string>
      <string name="trust_switch_dialog_msg">"Система не будут спрашивать Вас о подтверждении любых операций связанных с безопасностью и конфиденциальностью. Пожалуйста, убедитесь, что хорошо знаете данного разработчика.
 Вы доверяете этому приложению?"</string>
@@ -3238,7 +3235,7 @@
      <string name="virus_scan_settings_title">Настройки базы данных</string>
      <string name="virus_scan_start">Сканировать</string>
      <string name="virus_scan_stop">Остановить</string>
-     <string name="virus_scan_support">Разработано Tencent</string>
+     <string name="virus_scan_support">При поддержке Tencent</string>
      <string name="virus_scan_uninstalled_package">%s (apk)</string>
      <string name="virus_scan_unknown_virus_name">Неизвестный</string>
      <string name="virus_scan_update_lib">Обновить базу данных автоматически</string>
@@ -3253,9 +3250,8 @@
      <string name="virus_scanner_lib_update_success">Вирусная база данных обновлена автоматически</string>
      <string name="virus_scanner_lib_updating">Обновление…</string>
      <string name="virus_scanner_manual_update">Обновление на %s</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="virus_scanner_module">Tencent</string>
-     <string name="virus_scanner_provider">Разработано: %s</string>
+     <string name="virus_scanner_provider">При поддержке %s</string>
      <string name="virus_scanner_scan">Антивирус</string>
      <string name="virus_scanner_scanning">Проверка приложений на вирусы</string>
      <string name="virus_scanner_select_Cancel">Отмена</string>
@@ -3693,7 +3689,7 @@
      <string name="wifi_wps_setup_title">Настройка WPS</string>
      <string name="wimax_settings">Настройки 4G</string>
      <string name="wimax_settings_summary">Подключение и настройка сети и модема 4G</string>
-     <string name="window_animation_scale_title">Масштаб анимаций окон</string>
+     <string name="window_animation_scale_title">Скорость анимации окон</string>
      <string name="wireless_networks_settings_title">Беспроводные сети</string>
      <string name="work_done">Готово</string>
      <string name="wps_category">Безопасное подключение</string>
