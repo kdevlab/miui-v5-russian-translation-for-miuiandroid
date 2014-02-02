@@ -8,11 +8,11 @@
      <string name="audio_db_playlist_name">Мои записи</string>
      <string name="back">назад</string>
      <string name="button_ok">ОК</string>
-     <string name="call_record">Запись вызова (%d)</string>
+     <string name="call_record">Записи вызовов (%d)</string>
      <string name="call_record_or">или</string>
      <string name="default_record_name">запись без названия</string>
      <string name="delete">Удалить</string>
-     <string name="delete_dialog_message">Вы уверены, что хотите удалить текущую запись?</string>
+     <string name="delete_dialog_message">Удалить текущую запись?</string>
      <string name="deleting_message">Удаление…</string>
      <string name="dialog_content_storage_full">Из-за нехватки места для сохранения, запись была остановлена. Открыть файловый менеджер для очистки ненужных файлов?</string>
      <string name="dialog_play">Играть</string>
@@ -28,7 +28,7 @@
      <string name="error_filename_too_long">Слишком длинное име файла</string>
      <string name="error_mediadb_new_record">Не удалось сохранить аудиозапись</string>
      <string name="error_sdcard_access">Не удалось получить доступ к SD-карте</string>
-     <string name="fm_record">Запись радио (%d)</string>
+     <string name="fm_record">Записи радио (%d)</string>
      <string name="hour">%d часов</string>
      <string name="insert_sd_card">Вставьте SD-карту</string>
      <string name="low_battery_error">Аккумулятор телефона заряжен менее, чем 5%. Для того, чтобы не потерять запись, она была остановлена ​​и сохранена. Неожиданное отключение может привести к потере записи, рекомендуется записывать при полной зарядке.</string>
@@ -67,8 +67,8 @@
      <string name="recording_stopped">Запись остановлена</string>
      <string name="rename">Переименовать</string>
      <string name="rename_dialog_title">Переименование файла</string>
-     <string name="rename_duplicate">Дубликат имени записи. Пожалуйста, переименуйте:</string>
-     <string name="rename_illegal">Неверное имя записи. Пожалуйста, переименуйте:</string>
+     <string name="rename_duplicate">Дубликат имени записи. Переименуйте:</string>
+     <string name="rename_illegal">Неверное имя записи. Переименуйте:</string>
      <string name="sd_card_not_available">SD-карта не доступна</string>
      <string name="search_for_recordings_in_folders">Поиск записей в папках</string>
      <string name="second">%d сек.</string>

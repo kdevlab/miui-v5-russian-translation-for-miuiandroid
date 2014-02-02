@@ -132,7 +132,7 @@
      <string name="kuaipan_prompt_message">"
  Идет обслуживание сервиса, пожалуйста, попробуйте позже…
 "</string>
-     <string name="kuaipan_tech_support">Техническая поддержка: Kingsoft Kuaipan</string>
+     <string name="kuaipan_tech_support">При поддержке Kingsoft Kuaipan</string>
      <string name="load_err">Ошибка загрузки</string>
      <string name="loading">Загрузка</string>
      <string name="local_cache_size">Размер локального кэш: %s</string>
@@ -236,7 +236,7 @@
      <string name="signin_success">"Вы успешно вошли!
 Получено %1$s."</string>
      <string name="space_info">Объем в сети: %1$s доступно，всего: %2$s</string>
-     <string name="space_usage">Использование хранилища</string>
+     <string name="space_usage">Использование места</string>
      <string name="start_cleanup">Очистка</string>
      <string name="start_server">Запустить</string>
      <string name="start_use_xiaomi_account">Вход</string>

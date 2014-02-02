@@ -93,7 +93,7 @@
      <string name="calllog_menu_blacklist">В черный список</string>
      <string name="calllog_menu_edit_before_call">Отредактировать перед вызовом</string>
      <string name="calllog_menu_send_sms">Отправить сообщение</string>
-     <string name="callrecordview_item_newcontact">Добавить</string>
+     <string name="callrecordview_item_newcontact">Добавлен</string>
      <string name="callrecordview_item_op_time_minutes_seconds" formatted="false">%d мин. %d сек.</string>
      <string name="callrecordview_item_op_time_missed">Не подключен</string>
      <string name="callrecordview_item_op_time_only_minutes">%d мин.</string>
@@ -267,7 +267,7 @@
      <string name="description_view_contact">Просмотреть данные: %1$s</string>
      <string name="description_view_contact_detail">Данные контакта</string>
      <string name="description_voicemail_button">голосовая почта</string>
-     <string name="deselect_all">Снять выделение</string>
+     <string name="deselect_all">Отменить все</string>
      <string name="device_bluetooth_title">подготовительные работы</string>
      <string name="device_brand_title">выберите марку мобильного телефона</string>
      <string name="device_import_account_dialog_title">выберите аккаунт для импорта</string>
