@@ -646,6 +646,7 @@
      <string name="button_text_quick_scan">Сканировать</string>
      <string name="button_text_security">Безопасно</string>
      <string name="button_text_view">Посмотреть</string>
+	 <string name="button_text_view_power">Посмотреть</string>
      <string name="cache_garbage">Кэш</string>
      <string name="cache_header_label">Кэш</string>
      <string name="cache_list_empty_hints">Нет кешированных файлов</string>
@@ -656,7 +657,7 @@
      <string name="call_log_tab_title">Журнал вызовов</string>
      <string name="call_settings_summary">Голосовая почта, АОН, переадресация, параллельный вызов</string>
      <string name="call_settings_title">Настройки вызовов</string>
-     <string name="calllog">Жкрнал вызовов</string>
+     <string name="calllog">Журнал вызовов</string>
      <string name="camera_app_name">Камера</string>
      <string name="camera_command_summary_format">Вы можете сказать %1$s или %2$s для снятия фото.</string>
      <string name="camera_key_action_app_title">Открыть приложение</string>
@@ -696,6 +697,7 @@
      <string name="clean_confirm_title">Удалить эти файлы?</string>
      <string name="cleaner">Очистка</string>
      <string name="cleaner_support_hints">При поддержке Clean Master</string>
+	 <string name="cleanning_prefix">Очистка:%s</string>
      <string name="clear_activities">Удалить настройки по умолчанию</string>
      <string name="clear_activities_summary">Установить эту программу по умолчанию для некоторых действий</string>
      <string name="clear_all_calllog">Очистить журнал вызовов</string>
@@ -1708,6 +1710,7 @@
      <string name="memory_apps_usage">Приложения</string>
      <string name="memory_available">Доступно</string>
      <string name="memory_available_read_only">доступно (только для чтения)</string>
+	 <string name="memory_available_suffix">Доступно</string>
      <string name="memory_calculating_size">Подсчет…</string>
      <string name="memory_clear_cache_message">Удалить данные всех приложений?</string>
      <string name="memory_clear_cache_title">Очистка кэша</string>
@@ -1718,13 +1721,21 @@
      <string name="memory_media_usage">Мультимедиа</string>
      <string name="memory_music_usage">Аудио (музыка, мелодии и т. п.)</string>
      <string name="memory_size">Всего места</string>
+	 <string name="memory_suffix">ГБ</string>
      <string name="memory_title">Доступно: %1$s\u0009\u0009Всего: %2$s</string>
+	 <string name="memory_used_suffix">Занято</string>
      <string name="menu_cancel">Отменить</string>
      <string name="menu_delete">Удалить</string>
      <string name="menu_edit">Изменить</string>
      <string name="menu_item_about_content">Безопасность: %s</string>
      <string name="menu_item_about_summary">Версия:%s</string>
      <string name="menu_item_about_title">О программе</string>
+	 <string name="menu_item_notification_antispam_text_avail">Спам</string>
+     <string name="menu_item_notification_antispam_text_normal">Спам</string>
+     <string name="menu_item_notification_garbage_text">%s</string>
+     <string name="menu_item_notification_garbage_text_error">Ошибка</string>
+     <string name="menu_item_notification_power_text">Питание</string>
+     <string name="menu_item_notification_title">Показывать в панели уведомлений</string>
      <string name="menu_item_settings_title">Настройки</string>
      <string name="menu_item_shortcut">Создать ярлыки</string>
      <string name="menu_item_shortcut_summary">Отправить на рабочий стол ярлыки модулей</string>
@@ -1803,6 +1814,13 @@
      <string name="msd_install_status_undo">Установить драйвер</string>
      <string name="msd_install_succeed">Драйвер уже установлен</string>
      <string name="msd_install_windows_xp_step_2_1">1.Если появится Мастер Настройки, пожалуйста, следуйте его указаниям до окончания установки</string>
+	 <string name="msg_cleanup_db_update_checking">Проверка…</string>
+     <string name="msg_cleanup_db_update_time_unknown">Обновление：неизвестно</string>
+     <string name="msg_update_error_code_already_running">Обновление</string>
+     <string name="msg_update_error_code_network_error">Ошибка сети. Повторите позже.</string>
+     <string name="msg_update_error_code_no_newer_db">Обновление не требуется</string>
+     <string name="msg_update_error_code_success">Обновлено</string>
+     <string name="msg_update_error_code_unknown_error">Неизвестная ошибка. Повторите позже.</string>
      <string name="msg_wlan_signal_found">Найдена сеть Wi-Fi \"%s\", использовать эту сеть?</string>
      <string name="mtk_datausage_amount_editor_title">Количество используемых данных</string>
      <string name="mtk_datausage_diff_byte">Использование данных</string>
@@ -1862,6 +1880,7 @@
      <string name="notification_pulse_title">Индикация</string>
      <string name="notification_sound_dialog_title">Выбрать мелодию уведомлений</string>
      <string name="notification_sound_title">Уведомления</string>
+	 <string name="notification_title_firewall_blocked">Заблокировано</string>
      <string name="notification_vibrate_abbreviation">Уведомления</string>
      <string name="notification_volume_title">Уведомление</string>
      <string name="nsd_quick_toggle_summary">Разрешить приложениям на других устройства открыть приложения на этом устройстве</string>
@@ -2318,7 +2337,11 @@
      <string name="power_wifi">Wi-Fi</string>
      <string name="pref_button_light">Подсветка клавиш</string>
      <string name="pref_button_light_summary">Подсветка клавиш \"Меню\", \"Назад\", \"Домой\"</string>
+	 <string name="pref_category_title_auto_update_cleanup_db">Настройки обновления база данных очистки</string>
      <string name="pref_operational_key">Клавиши</string>
+	 <string name="pref_summary_auto_update_cleanup_db">Обновлено：%s</string>
+     <string name="pref_title_auto_update_cleanup_db">Автообновление</string>
+     <string name="pref_title_manual_check_cleanup_db_update">Обновить</string>
      <string name="pref_volume_wake_summary">Нажатие клавиш регулировки громкости в заблокированном состоянии разбудит устройство</string>
      <string name="pref_volume_wake_title">Пробуждать устройство</string>
      <string name="preference_change_password_title">Изменить пароль</string>
@@ -2384,6 +2407,7 @@
      <string name="proxy_settings_title">Настройки прокси-сервера</string>
      <string name="proxy_warning_limited_support">Прокси-сервер HTTP используется браузером, но недоступен для других приложений</string>
      <string name="quick_clean">Очистить</string>
+	 <string name="quick_cleanup">Очистка</string>
      <string name="quick_launch_assign_application">Назначить приложение</string>
      <string name="quick_launch_clear_cancel_button">Отмена</string>
      <string name="quick_launch_clear_dialog_message">Ярлык для %1$s (%2$s) будет удален</string>
@@ -2529,6 +2553,8 @@
      <string name="save_button">Сохранить</string>
      <string name="scan_done">Сканирование завершено</string>
      <string name="scan_list_label">"Результат сканирования: "</string>
+	 <string name="scanning_prefix">Сканирование:%s</string>
+     <string name="scanning_start_hints">Запуска движка сканирования</string>
      <string name="scanning_virus">Сканирование…</string>
      <string name="schedule_power_on_off_settings_title">Выключение питания</string>
      <string name="scomo_settings_title">Сервис обновления ПО</string>

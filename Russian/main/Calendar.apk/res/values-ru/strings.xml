@@ -207,6 +207,7 @@
      <string name="timezone_label">Часовой пояс</string>
      <string name="today">Сегодня</string>
      <string name="today_at_time_fmt">Сегодня в %s</string>
+	 <string name="today_no_events">Нет событий</string>
      <string name="tomorrow">Завтра</string>
      <string name="tomorrow_at_time_fmt">Завтра в %s</string>
      <string name="view_event_calendar_label">Календарь:</string>
