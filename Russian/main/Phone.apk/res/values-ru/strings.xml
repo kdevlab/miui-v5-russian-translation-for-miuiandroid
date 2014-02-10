@@ -373,7 +373,7 @@
      <string name="data_conn_under_roaming_hint">Включите роуминг данных в Настройках -&gt; Беспроводные сети -&gt; Мобильные сети -&gt; Данные в роуминге</string>
      <string name="data_connected_change">Отключить активную сеть и переключиться на другую?</string>
      <string name="data_enable_summary">Включить мобильный интернет от оператора</string>
-     <string name="data_enabled">Мобильный интрнет</string>
+     <string name="data_enabled">Мобильный интернет</string>
      <string name="deact_all_sub_not_supported">Деактивация обоих подписок не поддерживается.</string>
      <string name="deactivate_all">Отменить все</string>
      <string name="default_contacts_countrycode_hint_miui">Например: 7</string>

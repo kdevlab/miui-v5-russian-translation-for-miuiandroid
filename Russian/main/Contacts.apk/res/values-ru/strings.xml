@@ -1107,7 +1107,7 @@
      <string name="upgrade_out_of_memory_retry">Повторить попытку обновления</string>
      <string name="upgrade_out_of_memory_uninstall">Удалить некоторые приложения</string>
      <string name="use_photo_as_primary">Использовать данное изображение</string>
-     <string name="use_photo_as_primary2">Использовать как фото контакта к %s</string>
+     <string name="use_photo_as_primary2">Использовать как фото контакта из %s</string>
      <string name="user_profile_contacts_list_header">Я</string>
      <string name="vcard_export_request_rejected_message">Запрос на экспорт данных vCard отклонен. Повторите попытку позже.</string>
      <string name="vcard_export_will_start_message">Экспорт файла %s…</string>
