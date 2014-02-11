@@ -11,6 +11,7 @@
      <string name="balance_inquiry_send_sms_hint">Будет отправлено бесплатное сообщение для запроса баланса</string>
      <string name="balance_inquiry_send_sms_summmary">Проверить состояние баланса</string>
      <string name="balance_inquiry_title">Состояние баланса</string>
+	 <string name="call">Вызов</string>
      <string name="callrecordview_item_newcontact">Новый контакт</string>
      <string name="callrecordview_item_op_time_minutes_seconds">%1$d мин. %2$d сек.</string>
      <string name="callrecordview_item_op_time_missed">Не подключено</string>

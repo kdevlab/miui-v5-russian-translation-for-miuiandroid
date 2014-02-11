@@ -2935,6 +2935,8 @@
      <string name="title_mms_yes">Фильтрация сообщений включена</string>
      <string name="title_permission_no">Мониторинг разрешений отключен</string>
      <string name="title_permission_yes">Мониторинг разрешений включен</string>
+	 <string name="title_show_notification_no">Отображение в пан. уведомлений отключено</string>
+     <string name="title_show_notification_yes">Отображение в пан. уведомлений включено</string>
      <string name="title_usb_no">USB отладка включена</string>
      <string name="title_usb_yes">USB отладка отключена</string>
      <string name="title_virus_no">Вирус обнаружен</string>

@@ -173,6 +173,7 @@
      <string name="error_cloud_not_active">Облачный альбом не используется</string>
      <string name="error_invalid_link">Ссылка является недействительной. Пусть владелец создаст новую.</string>
      <string name="error_repeat_apply">Вы уже поделились альбомом</string>
+	 <string name="error_share_with_creator">Вы уже пользователь альбома</string>
      <string name="error_should_not_select_image">Пожалуйста, не выбирайте файл изображения</string>
      <string name="error_should_not_select_video">Пожалуйста, не выбирайте видео файл</string>
      <string name="error_socket_timeout">Сетевой тайм-аут. Повторите позже.</string>
