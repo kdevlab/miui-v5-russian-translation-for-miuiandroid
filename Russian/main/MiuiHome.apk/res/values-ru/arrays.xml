@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Builded with CloudBuildr -->
 <resources>
-     <string-array name="gadget_weather_theme_type_entries">
+     <string-array name="editing_mode_entries">
+        <item>Очистка</item>
+        <item>Виджеты</item>
+        <item>Обои</item>
+        <item>Эффекты</item>
+     </string-array>
+	 <string-array name="gadget_weather_theme_type_entries">
         <item>По умолчанию</item>
         <item>Классический</item>
      </string-array>

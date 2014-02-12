@@ -1527,7 +1527,7 @@
      <string name="last_check_canceled">Предыдущая проверка отменена</string>
      <string name="last_check_date_today">"Последняя проверка: сегодня в "</string>
      <string name="last_check_date_yesterday">"Последняя проверка: вчера в "</string>
-     <string name="last_check_never_checked">Рекомендуется проверить</string>
+     <string name="last_check_never_checked">Рекомендуем проверить :)</string>
      <string name="last_checked_date">Проверки не было больше 30 дней</string>
      <string name="last_checked_date2">Последняя проверка: %d дн. назад</string>
      <string name="last_checked_date_mark">" %"</string>
@@ -1546,11 +1546,11 @@
      <string name="legal_information">Правовая информация</string>
      <string name="license_title">Лицензия</string>
      <string name="link_speed_label">"Скорость: "</string>
-     <string name="list_sub_view_item_clean">Очистить</string>
+     <string name="list_sub_view_item_clean">Удалить</string>
      <string name="list_sub_view_item_install">Уст.</string>
-     <string name="list_sub_view_item_lock">Забл.</string>
-     <string name="list_sub_view_item_unlock">Разбл.</string>
-     <string name="list_sub_view_item_view">Подробнее</string>
+     <string name="list_sub_view_item_lock">Заблок.</string>
+     <string name="list_sub_view_item_unlock">Разблок.</string>
+     <string name="list_sub_view_item_view">Посмотреть</string>
      <string name="loading">Загрузка…</string>
      <string name="local_backup_password_summary_change">Выберите этот параметр, чтобы изменить или удалить пароль для резервного копирования</string>
      <string name="local_backup_password_summary_none">Полные резервные копии в настоящее время не защищены</string>
@@ -3204,8 +3204,8 @@
      <string name="virus_scan_app_is_stop_scan">Остановить сканирование?</string>
      <string name="virus_scan_app_multi_engines">Выбранный движок может замедлить сканирование</string>
      <string name="virus_scan_app_no_risk">Угроз не найдено</string>
-     <string name="virus_scan_app_passed">Сканирование завершено</string>
-     <string name="virus_scan_app_risk">Найденые угрозы</string>
+     <string name="virus_scan_app_passed">Сканирование завершено: угроз нет</string>
+     <string name="virus_scan_app_risk">Найдена угроза</string>
      <string name="virus_scan_app_safe_scanning">Сканирование…</string>
      <string name="virus_scan_app_scan_finish">Сканирование завершено</string>
      <string name="virus_scan_app_scanning">Сканирование…</string>
@@ -3215,6 +3215,7 @@
      <string name="virus_scan_app_uninstall">Удалить (%d)</string>
      <string name="virus_scan_app_waiting">Ожидание…</string>
      <string name="virus_scan_can_use_wifi">Использовать облачную базу данных</string>
+	 <string name="virus_scan_clean_dialog_message">Очистка…</string>
      <string name="virus_scan_clear">Удалить</string>
      <string name="virus_scan_dangerous">Имеются угрозы</string>
      <string name="virus_scan_description">Это приложение является одним из основных рисков для безопасности устройства</string>
