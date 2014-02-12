@@ -2,7 +2,7 @@
 <!-- Builded with CloudBuildr -->
 <resources>
      <string-array name="editing_mode_entries">
-        <item>Очистка</item>
+        <item>Сортировка</item>
         <item>Виджеты</item>
         <item>Обои</item>
         <item>Эффекты</item>
