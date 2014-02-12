@@ -14,11 +14,11 @@
 Разрешить автозапуск?"</string>
      <string name="caller_app">Запрос от %1$s</string>
      <string name="cancel">Отмена</string>
-     <string name="dlg_app_replacement_statement">"Приложение, которое вы устанавливаете, заменит уже существующее.
+     <string name="dlg_app_replacement_statement">"Данное приложение заменит уже существующее.
 
 Все пользовательские данные будут сохранены."</string>
      <string name="dlg_app_replacement_statement_with_version">"%1$s (%2$s) заменит установленную версию (%3$s). Данные будут сохранены.
-Уверены, что хотите установить?"</string>
+Продолжить установку?"</string>
      <string name="dlg_app_replacement_title">Замена приложения</string>
      <string name="dlg_ok">ОК</string>
      <string name="dlg_sys_app_replacement_statement">"Приложение, которое вы устанавливаете - системное. Хотите заменить?
@@ -61,7 +61,7 @@
      <string name="perm_sysopt_boost_auto_start">Разрешить автозапуск</string>
      <string name="perm_sysopt_boost_auto_start_summary">Разрешить приложению автозапуск при загрузке телефона</string>
      <string name="privacy_relative">Опасные разрешения</string>
-     <string name="safe_guard_support">Техническая поддержка: %1$s</string>
+     <string name="safe_guard_support">При поддержке %1$s</string>
      <string name="safe_relative">Безопасные разрешения</string>
      <string name="security_settings_desc">Разрешить этому приложению:</string>
      <string name="settings">Настройки</string>
