@@ -41,7 +41,7 @@
      <string name="free_style_edit_app">Приложение</string>
      <string name="free_style_edit_bar_empty">Пусто</string>
      <string name="free_style_edit_bar_select_app">Выбери приложение</string>
-     <string name="free_style_edit_bottom_empty_tip">Нажми на прямоугольник для изменения</string>
+     <string name="free_style_edit_bottom_empty_tip">Нажмите на прямоугольник для изменения</string>
      <string name="free_style_edit_drawer">Меню</string>
      <string name="free_style_edit_move_tip">Длительным нажатием можно переместить</string>
      <string name="free_style_edit_tab_free_component">Компоненты</string>
@@ -63,7 +63,7 @@
      <string name="gadget_photo_44_label">Фоторамка 4х4</string>
 	 <string name="gadget_photo_label">Фоторамка</string>
      <string name="gadget_search_label">Поиск</string>
-     <string name="gadget_weather_app_not_installed">Нажми для установки погоды MIUI</string>
+     <string name="gadget_weather_app_not_installed">Нажмите для установки погоды MIUI</string>
      <string name="gadget_weather_aqi_title">Качество воздуха</string>
      <string name="gadget_weather_download_message">Необходимо скачать тему: %1$s. размер: %2$s. Выбери снова после завершения скачивания.</string>
      <string name="gadget_weather_download_start">начать</string>
@@ -101,7 +101,7 @@
      <string name="menu_sort">Сортировка</string>
      <string name="menu_wallpaper">Настройки обоев</string>
      <string name="menu_workspace_preview">Просмотр столов</string>
-	 <string name="multi_selecting_tips">Нажми иконку для начала</string>
+	 <string name="multi_selecting_tips">Нажмите на иконку для начала</string>
      <string name="online_wallpaper">Онлайн обои</string>
      <string name="out_of_space">На этом экране нет свободного места</string>
      <string name="permdesc_install_shortcut">Позволяет приложению добавлять ярлыки без участия пользователя</string>

@@ -12,8 +12,8 @@
         <item>Классический</item>
      </string-array>
      <string-array name="transformation_entries">
-        <item>Стандартный</item>
-        <item>Стандартный (без эффектов)</item>
+        <item>Стандарт</item>
+        <item>Без эффектов</item>
         <item>Угасание</item>
         <item>Поворот</item>
         <item>Листание</item>
