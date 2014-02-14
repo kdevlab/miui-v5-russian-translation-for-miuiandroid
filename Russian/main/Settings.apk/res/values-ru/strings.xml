@@ -220,7 +220,7 @@
      <string name="anti_spam">Антиспам</string>
      <string name="anti_stranger_summary">Блокировать все вызовы с номеров не из контактов</string>
      <string name="anti_stranger_title">Блокировать неизвестные</string>
-     <string name="antispam_quiet_mode_title">Тихий режим</string>
+     <string name="antispam_quiet_mode_title">Не беспокоить</string>
      <string name="apk_status_damage">Поврежден</string>
      <string name="apk_status_duplicate">Дубликат</string>
      <string name="apk_status_install">Установлено</string>
@@ -1011,7 +1011,7 @@
      <string name="dndm_vip_list_custom">Исключения</string>
      <string name="dndm_vip_list_custom_group">Исключения</string>
      <string name="dndm_vip_list_group">Список исключений</string>
-     <string name="do_not_disturb_mode">Тихий режим</string>
+     <string name="do_not_disturb_mode">Не беспокоить</string>
      <string name="dock_audio_settings_title">Аудио</string>
      <string name="dock_audio_summary_car">Настройки док-станции автомобиля</string>
      <string name="dock_audio_summary_desk">Настройки подключенной настольной док-станции</string>
