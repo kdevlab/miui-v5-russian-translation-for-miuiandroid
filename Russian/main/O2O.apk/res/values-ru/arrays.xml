@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="hotrank_second_tab">
+        <item>Самое популярное</item>
+        <item>Еще популярное</item>
+    </string-array>
+    <string-array name="normal_status">
+        <item>Ничего</item>
+        <item>Новый</item>
+        <item>Возвращенный</item>
+        <item>Использованный</item>
+        <item>已过期/可退款</item>
+        <item>Истекший</item>
+    </string-array>
+    <string-array name="map_app_name">
+        <item>Google?</item>
+        <item>Baidu</item>
+    </string-array>
+    <string-array name="alphabet_table">
+        <item>А</item>
+        <item>Б</item>
+        <item>В</item>
+        <item>Г</item>
+        <item>Д</item>
+        <item>Е</item>
+        <item>Ж</item>
+        <item>З</item>
+        <item>И</item>
+        <item>К</item>
+        <item>Л</item>
+        <item>М</item>
+        <item>Н</item>
+        <item>О</item>
+        <item>П</item>
+        <item>Р</item>
+        <item>С</item>
+        <item>Т</item>
+        <item>У</item>
+        <item>Ф</item>
+        <item>Х</item>
+        <item>Ц</item>
+        <item>Ч</item>
+        <item>Ш</item>
+        <item>Щ</item>
+        <item>Э</item>
+        <item>Ю</item>
+        <item>Я</item>
+    </string-array>
+</resources>

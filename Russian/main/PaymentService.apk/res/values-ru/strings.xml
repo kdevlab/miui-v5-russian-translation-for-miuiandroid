@@ -87,6 +87,9 @@
      <string name="error_auth_summary">Ошибка входа в аккаунт. Повторите попытку.</string>
      <string name="error_auth_title">Ошибка входа</string>
      <string name="error_bankcard_verify_summary">Ошибка проверки карты</string>
+	 <string name="error_cert_date_summary">"Ошибка данных сертификата. 
+Проверьте локальные данные и повторите."</string>
+     <string name="error_cert_date_title">Ошибка сертификата</string>
      <string name="error_common_summary">Системная ошибка. Пожалуйста, попробуйте позже.</string>
      <string name="error_common_title">Системная ошибка</string>
      <string name="error_expired_summary">Ваш срок заказа истек</string>
@@ -160,20 +163,19 @@
      <string name="mibi_license_message">Нажмите OK, если согласны с правилами и условиями, описанными в %1$s</string>
      <string name="mibi_license_message_span">MiCredit пользовательское соглашение</string>
      <string name="mibi_license_title">Пользовательское соглашение</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="mili_center">MiCredit</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="msg_denomination_type">MiCredit</string>
      <string name="msg_error">Ошибка пополнения</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="msg_order_hint_1_1">После нажатия кнопки купить, устройство</string>
+     <string name="msg_order_hint_1_2">автоматически свяжется с поставщиком услуг</string>
      <string name="msg_picker_hint_1_1">1.</string>
      <string name="msg_picker_hint_1_2">Пополнение через СМС, может быть дороже: &lt;font color=red>%1$d юань = %2$d MiCredit&lt;/font></string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="msg_picker_hint_2_1">2.</string>
      <string name="msg_picker_hint_2_2">Взимается плата за обслуживание в размере %1$s юань</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="msg_picker_hint_3_1">3.</string>
      <string name="msg_picker_hint_3_2">Максимальное месячное пополнение: %1$s юань</string>
+	 <string name="msg_progress_hint_2_1">Поставщик услуг успешно ответил</string>
+     <string name="msg_progress_hint_2_2">Скоро поступит текствоое подтверждение</string>
      <string name="msg_send_no_net_error">Ошибка отправки сообщения: поставщик услуг недоступен</string>
      <string name="msg_send_no_sim_error">Ошибка отправки сообщения: проверьте SIM-карту</string>
      <string name="msg_send_send_fail_error">Ошибка отправки сообщения</string>
@@ -259,6 +261,7 @@
      <string name="recharge_voucher_title">Карта MiCredit</string>
      <string name="scan_prompt_number">Сканировать номер карты предоплаты %1$s</string>
      <string name="scan_prompt_password">Сканировать пароль карты предоплаты %1$s</string>
+	 <string name="scan_prompt_retry">Держите карту так, чтобы не было бликов. После чего повторите попытку.</string>
      <string name="scan_prompt_voucher">Сканировать пароль MiCredit</string>
      <string name="security_setting">Настройки безопасности</string>
      <string name="summary_lockpattern">Защита Micredit ключем блокировки</string>

@@ -1,8 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Builded with CloudBuildr -->
 <resources>
+     <plurals name="delete_files_confirm">
+        <item quantity="other">Удлаить файлы: %1$d</item>
+        <item quantity="one">Удалить файлы: 1</item>
+     </plurals>
+     <plurals name="delete_folders_confirm">
+        <item quantity="other">" и папки: %1$d?"</item>
+        <item quantity="one">" и папки: 1?"</item>
+     </plurals>
      <plurals name="directory_item_count">
         <item quantity="other">файлов: %d</item>
         <item quantity="one">файлов: 1</item>
+     </plurals>
+	 <plurals name="ui_bar_txt_download_progress">
+        <item quantity="other">Осталось скачать файлов: %1$d</item>
+        <item quantity="one">Осталось скачать файлов: 1</item>
+     </plurals>
+     <plurals name="ui_bar_txt_upload_progress">
+        <item quantity="other">Осталось загрузить файлов: %1$d</item>
+        <item quantity="one">Осталось загрузить файлов: 1</item>
      </plurals>
 </resources>

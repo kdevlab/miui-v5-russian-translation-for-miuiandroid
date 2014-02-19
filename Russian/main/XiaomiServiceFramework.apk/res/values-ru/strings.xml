@@ -166,7 +166,6 @@
      <string name="frozen">(заморожен)</string>
      <string name="get_back_pwd">Получить пароль</string>
      <string name="header_data_and_synchronization">Данные и синхронизация</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="i_know">OK</string>
      <string name="input_captcha_hint">Введите код</string>
      <string name="input_password_hint">Введите пароль</string>
@@ -180,7 +179,8 @@
      <string name="login">Войти</string>
      <string name="login_failed">Неверное имя пользователя или пароль</string>
      <string name="login_instead_reg">Войти с помощью этого телефона</string>
-     <string name="login_notice">Авторизация, пожалуйста, подождите…</string>
+     <string name="login_notice">Авторизация, подождите…</string>
+	 <string name="logout_failed">Ошибка выхода</string>
      <string name="master_alert_notif_dspt" formatted="false">"За этот период добавлено %s контактов, %s сообщений, %s фото, %s заметок и других данных. 
 
  Если Ваш телефон будет потерян или очищен, эти данные будут безвозвратно утеряны. Рекомендуем восстанавливать синхронизацию для обеспечения безопасности данных."</string>

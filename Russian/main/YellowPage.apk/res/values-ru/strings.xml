@@ -85,6 +85,7 @@
 	 <string name="nearby_no_yellow_page">Никого нет</string>
      <string name="nearby_yellow_page_title">Рядом</string>
      <string name="network_unavaliable">Сеть не доступна. Проверьте настройки сети.</string>
+	 <string name="no_more_result">Ничего не найдено</string>
      <string name="order_empty_hint">Нет заказов</string>
      <string name="order_id">ID заказа:%s</string>
      <string name="order_merchant_title">Мои заказы</string>
