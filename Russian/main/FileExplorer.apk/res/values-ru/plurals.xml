@@ -2,7 +2,7 @@
 <!-- Builded with CloudBuildr -->
 <resources>
      <plurals name="delete_files_confirm">
-        <item quantity="other">Удлаить файлы: %1$d</item>
+        <item quantity="other">Удалить файлы: %1$d</item>
         <item quantity="one">Удалить файлы: 1</item>
      </plurals>
      <plurals name="delete_folders_confirm">
