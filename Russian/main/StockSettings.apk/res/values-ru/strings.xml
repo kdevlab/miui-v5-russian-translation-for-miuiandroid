@@ -15,4 +15,6 @@
      <string name="htc_internet_pt_summary">Подключение к интернету через PC. Пожалуйста вставьте USB кабель.</string>
      <string name="htc_internet_pt_title">Сквозной интернет</string>
      <string name="stock_settings">Настройки устройства</string>
+     <string name="home_key_screen_on">Двойное нажатие на кнопку домой для включения экрана</string>
+     <string name="cpufreq_title">Энергосбережение</string>
 </resources>
