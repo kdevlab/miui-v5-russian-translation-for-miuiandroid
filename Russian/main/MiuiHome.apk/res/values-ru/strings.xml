@@ -3,6 +3,8 @@
 <resources>
      <string name="activity_not_found">Приложение не найдено</string>
      <string name="application_name">Рабочий стол</string>
+	 <string name="apply_as_lock_wallpaper">OK</string>
+     <string name="apply_as_lock_wallpaper_message">Применить также на экран блокировки?</string>
      <string name="aqi_quality_index_dangerous">Опасно</string>
      <string name="aqi_quality_index_good">Хорошо</string>
      <string name="aqi_quality_index_hazardous">Опасно</string>
@@ -85,7 +87,9 @@
      <string name="guide_tips_editing_mode">Удерживая виджет, перетащи его на экран</string>
      <string name="install">Установить</string>
      <string name="invalid_contact_shortcut">Недопустимый ярлык</string>
-     <string name="loading_desktop">Загрузка рабочего стола…</string>
+     <string name="loading_desktop">Загрузка, подождите…</string>
+	 <string name="lock_screen_failed_message">Не удалось применить</string>
+     <string name="lock_screen_success_message">Применено</string>
      <string name="maml_component_customization_title">Настройки компонентов</string>
      <string name="menu_add">Добавить</string>
      <string name="menu_back_desktop">Домой</string>

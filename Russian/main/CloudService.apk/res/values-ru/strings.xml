@@ -3,7 +3,7 @@
 <resources>
      <string name="app_name">Менеджер аккаунтов Xiaomi</string>
      <string name="find_device">Поиск устройства</string>
-     <string name="find_device_noise_title">Поиск звуковых устройств</string>
+     <string name="find_device_noise_title">Звук поиска устройства</string>
      <string name="find_device_stop_noise">Нажмите \"OK\", чтобы остановить сигнал</string>
      <string name="pref_summary_sync_display_photo_on_wifi_only">Рекомендуется включить, иначе возможно чрезмерное потребление трафика</string>
      <string name="pref_title_sync_contacts_title">Синхронизация контактов</string>
@@ -11,7 +11,7 @@
      <string name="pref_title_sync_my_profile_title">Синхрон. профиль</string>
      <string name="sub_sync_item_sms_summary">Рекомендуется включить, иначе возможно чрезмерное потребление трафика</string>
      <string name="sub_sync_item_sms_title_wifi_only">Только по Wi-Fi</string>
-     <string name="sync_item_calllog_summary">Синхронизация журналов входящих и исходящих вызовов на телефоне</string>
+     <string name="sync_item_calllog_summary">Синхронизация журналов входящих и исходящих вызовов</string>
      <string name="sync_item_calllog_title">Синхронизация журналов</string>
      <string name="sync_item_sms_summary">Прочитанные SMS сообщения будут автоматически синхронизированы</string>
      <string name="sync_item_sms_title">Синхронизация сообщений</string>

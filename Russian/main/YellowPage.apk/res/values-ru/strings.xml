@@ -145,8 +145,10 @@
      <string name="selected_category_format">%1$s (%2$d людей отметили, нажмите для согласия)</string>
      <string name="service_unavailiable">Текущая сеть имеет плохое подключение. Повторите попытку позже.</string>
      <string name="sina_share_fail">Не удалось отправить</string>
-     <string name="sina_share_pendding">Отправка...</string>
-     <string name="sina_share_success">Отправленные</string>
+     <string name="sina_share_pendding">Отправка…</string>
+     <string name="sina_share_success">Отправлено</string>
+	 <string name="sina_token_expired_warning">Weibo аккаунт истек: свяжите повторно</string>
+     <string name="sina_token_invalid_warning">Weibo аккаунт неверный: свяжите повторно</string>
      <string name="smart_antispam">Идентификация номеров</string>
      <string name="sms_disabled_in_privacy_mode">Невозможно отправить сообщение в режиме гостя</string>
      <string name="sms_send_failed">Не удалось отправить сообщение</string>
