@@ -130,7 +130,7 @@
      <string name="receive_tip">Для быстрого спаривания и получения очереди передачи</string>
      <string name="receive_uncompleted">Прием не завершен</string>
      <string name="received">Принято</string>
-     <string name="received_fileinfo">Всего из %1$d файлов %2$s</string>
+     <string name="received_fileinfo">Всего файлов: %2$s</string>
      <string name="received_files">Принятые файлы</string>
      <string name="received_share_file">Отправить принятые файлы</string>
      <string name="received_share_message">Принятые от %1$s</string>

@@ -107,7 +107,7 @@
      <string name="callrecordview_menu_delete_accepted">Удалить входящие вызовы</string>
      <string name="callrecordview_menu_delete_all">Очистить журнал</string>
      <string name="callrecordview_menu_delete_called">Удалить исходящие вызовы</string>
-     <string name="callrecordview_menu_delete_confirm">Удалить %s?</string>
+     <string name="callrecordview_menu_delete_confirm">Очистить журнал вызовов?</string>
      <string name="callrecordview_menu_delete_missed">Удалить пропущенные вызовы</string>
      <string name="callrecordview_menu_delete_new">Удалить новые контакты</string>
      <string name="callrecordview_menu_delete_one">Удалить из журнала вызовов</string>
@@ -273,6 +273,7 @@
      <string name="device_import_account_dialog_title">выберите аккаунт для импорта</string>
      <string name="device_import_account_dialog_title_suffix">"
 (найдено контактов: %1$s)"</string>
+     <string name="device_import_done_toast">Импортировано контактов: %1$d</string>
      <string name="device_import_failed_message">Ошибка импорта!</string>
      <string name="device_import_local_account">Локальный аккаунт</string>
      <string name="device_import_message">Импорт</string>
@@ -423,6 +424,9 @@
      <string name="hint_distance">держать дистанцию</string>
      <string name="hint_findContacts">Найти контакты</string>
      <string name="hint_more_contact">использовать слияние контакта, при его выходе из контактов дубликатов</string>
+     <string name="hint_search_contacts">Контактов: %d</string>
+     <string name="hint_search_emails">Адресов эл. почты: %d</string>
+     <string name="hint_search_phone_numbers">Контактов: %d</string>
      <string name="ic_menu_back">Назад</string>
      <string name="ic_menu_done">Готово</string>
      <string name="imLabelsGroup">Чат</string>
@@ -494,6 +498,7 @@
      <string name="local_profile_title">Мой профиль</string>
      <string name="local_search_label">Все контакты</string>
      <string name="locale_change_in_progress">Список контактов обновится после смены языка интерфейса</string>
+     <string name="login_before_recharging">Требуется авторизация</string>
      <string name="login_ok">Войти</string>
      <string name="lunarBirthdayLabelsGroup">Лунный день рождения</string>
      <string name="make_primary">Запомнить выбранное</string>
@@ -688,8 +693,12 @@
      <string name="phone_primary">Основной</string>
      <string name="photoPickerNotFoundText">Нет изображений</string>
      <string name="photo_package_activity_title">Пакет изображений</string>
+     <string name="pick_favorites_contacts_list_title">Избранных контактов: %1$d</string>
+     <string name="pick_favorites_list_title">Избранных контактов: %1$d</string>
      <string name="pick_new_photo">Новое изображение из галереи</string>
      <string name="pick_photo">Изображение из галереи</string>
+     <string name="pick_recent_contacts_list_title">Всего контактов: %1$d</string>
+     <string name="pick_recent_list_title">Последних контактов: %1$d</string>
      <string name="pickerNewContactHeader">Создать новый контакт</string>
      <string name="pickerNewContactText">Создать новый контакт</string>
      <string name="picker_all_list_empty">Нет контактов</string>

@@ -65,6 +65,7 @@
      <string name="install_file_explorer">Пожалуйста, установите файловый мнеджер</string>
      <string name="install_qq">Установить Tencent weibo</string>
      <string name="install_rom_from_sd">Выбрать прошивку с SD-карты</string>
+     <string name="install_sina">Установить Sina Weibo</string>
      <string name="install_whole_rom">Рекомендуется скачать полную прошивку</string>
      <string name="internal_build">внутренняя сборка</string>
      <string name="later">Позже</string>
@@ -148,6 +149,7 @@
      <string name="system_backup_helper">"
 Рекомендуется сделать резервную копию ваших данных."</string>
      <string name="system_backup_ok_text">Создать копию</string>
+     <string name="sytemt_backup_helper">При обновлении прошивки данные приложений не будут очищены, тем не менее, рекомендуется создать резервную копию данных перед обновлением.</string>
      <string name="top_secret_build">Секретная сборка</string>
      <string name="unstable_build">Нестабильный</string>
      <string name="update_comment_hint">(опционально)</string>

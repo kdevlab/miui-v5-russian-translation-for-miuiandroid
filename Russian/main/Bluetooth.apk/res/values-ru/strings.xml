@@ -51,7 +51,7 @@
      <string name="enabling_progress_content">Включение Bluetooth…</string>
      <string name="enabling_progress_title">Подождите…</string>
      <string name="ftp_acceptance_dialog_header">Доступ к папкам телефона</string>
-     <string name="ftp_acceptance_dialog_title">%1$s хочет получить доступ к папкам телефона. Предоставить доступ к %2$s?</string>
+     <string name="ftp_acceptance_dialog_title">\"%1$s\" хочет получить доступ к вашим папкам. Разрешить?</string>
      <string name="ftp_acceptance_timeout_message">Время для принятия соединения с %1$s истекло</string>
      <string name="ftp_authentication_timeout_message">Время для ввода ключа сессии с %1$s истекло</string>
      <string name="ftp_notif_message">Разрешить доступ к корневой папке %1$s</string>

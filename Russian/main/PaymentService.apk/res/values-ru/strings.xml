@@ -114,6 +114,7 @@
      <string name="error_verify_summary">Приложение не имеет разрешения на запрос этого сервиса</string>
      <string name="error_verify_title">Нет доступа</string>
      <string name="forget_password"><u>Забыли пароль?</u></string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="format_date">d MMMM yyyy</string>
      <string name="format_time">d MMMM yyyy hh:mmaa</string>
      <string name="frozen">(заморожен)</string>
@@ -163,17 +164,22 @@
      <string name="mibi_license_message">Нажмите OK, если согласны с правилами и условиями, описанными в %1$s</string>
      <string name="mibi_license_message_span">MiCredit пользовательское соглашение</string>
      <string name="mibi_license_title">Пользовательское соглашение</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="mili_center">MiCredit</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="msg_denomination_type">MiCredit</string>
      <string name="msg_error">Ошибка пополнения</string>
      <string name="msg_order_hint_1_1">После нажатия кнопки купить, устройство</string>
      <string name="msg_order_hint_1_2">автоматически свяжется с поставщиком услуг</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="msg_picker_hint_1_1">1.</string>
      <string name="msg_picker_hint_1_2">Пополнение через СМС, может быть дороже: &lt;font color=red>%1$d юань = %2$d MiCredit&lt;/font></string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="msg_picker_hint_2_1">2.</string>
-     <string name="msg_picker_hint_2_2">Взимается плата за обслуживание в размере %1$s юань</string>
+     <string name="msg_picker_hint_2_2">За каждую  SMS взимается плата, согласно тарифу вашего оператора</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="msg_picker_hint_3_1">3.</string>
-     <string name="msg_picker_hint_3_2">Максимальное месячное пополнение: %1$s юань</string>
+     <string name="msg_picker_hint_3_2">Максимальная сумма пополнения 300 юаней в месяц</string>
      <string name="msg_progress_hint_2_1">Поставщик услуг успешно ответил</string>
      <string name="msg_progress_hint_2_2">Скоро поступит текствоое подтверждение</string>
      <string name="msg_send_no_net_error">Ошибка отправки сообщения: поставщик услуг недоступен</string>
@@ -229,7 +235,7 @@
      <string name="progress_submit_hint">Пополнение будет зачислено в течение 3х минут</string>
      <string name="progress_submit_recharge_summary">Пополнение: %1$s MiCredits</string>
      <string name="progress_submit_title">Запрос подтвержден</string>
-     <string name="progress_success_pay_summary">Добавлено MiCredits: %1$s, куплено: %2$s MiCredits</string>
+     <string name="progress_success_pay_summary">Ваш заказ был успешно оплачен!</string>
      <string name="progress_success_pay_title">Оплата %1$s MiCredit завершена</string>
      <string name="progress_success_recharge_summary">Баланс: %1$s MiCredits</string>
      <string name="progress_success_recharge_title">Пополнение на %1$s MiCredit завершено</string>
@@ -245,7 +251,7 @@
      <string name="recharge_grid_edit_hint">Размер (юань)</string>
      <string name="recharge_grid_edit_limit">%1$s~%2$s юань</string>
      <string name="recharge_grid_edit_upper_limit">Не может превышать %1$s юань</string>
-     <string name="recharge_grid_error_denomination">Введите правильный размер пополнения между %1$s~%2$s юань</string>
+     <string name="recharge_grid_error_denomination">Введите корректный размер пополнения (%1$d~%2$dRMB)</string>
      <string name="recharge_grid_picker_hint">Выберите размер пополнения</string>
      <string name="recharge_group_favorite">Используемые методы пополнения</string>
      <string name="recharge_group_others">Другие методы пополнения</string>

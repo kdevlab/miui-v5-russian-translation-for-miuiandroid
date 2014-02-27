@@ -70,6 +70,8 @@
      <string name="delete_failed">Ошибка удаления</string>
      <string name="delete_file">Вы уверены, что хотите удалить этот файл?</string>
      <string name="delete_files">Удалить выбранные файлы (%1$d)?</string>
+     <string name="delete_files_and_folders">"Удалить выбранные папки и файлы?
+Файлов: %1$d  Папок: %2$d"</string>
      <string name="delete_folder">Вы уверены, что хотите удалить?</string>
      <string name="delete_folders">Вы уверены, что хотите удалить выбранные папки (%1$d)?</string>
      <string name="des_running_trans">Эти %1$d файлы ожидают отправки</string>
@@ -266,6 +268,8 @@
      <string name="trash_box_link">Посетите pan.xiaomi.com для очистки корзины</string>
      <string name="trash_box_message1">Вы можете удалить не нужные файлы для освобождения места</string>
      <string name="trash_box_message2">Вы можете удалить не нужные файлы или очистить корзину для освобождения места</string>
+     <string name="ui_bar_txt_download_progress">Скачивание файлов (осталось: %1$d)</string>
+     <string name="ui_bar_txt_upload_progress">Загрузка файлов (осталось: %1$d)</string>
      <string name="ui_filechange_btn_download">Скачать файлы</string>
      <string name="ui_filechange_btn_upload">Загрузить файлы</string>
      <string name="ui_main_menu_option_sign_in">Войти</string>

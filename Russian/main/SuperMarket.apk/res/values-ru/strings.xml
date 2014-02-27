@@ -3,8 +3,6 @@
 <resources>
      <string name="account_not_activated">Аккаунт не активирован. Активируйте и повторите еще раз.</string>
      <string name="activate_now">Активировать</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="ad_indicator">AD</string>
      <string name="all_comments">Все</string>
      <string name="already_bottom">Конец страницы</string>
      <string name="app_comments">Комментарии</string>
@@ -52,13 +50,13 @@
      <!-- The count of MNPS does not match! Now: 1 must: 0
 	%s: 1 must: 0
 	%d: 0 must: 0 -->
-     <!-- Original string: Failed to download: Lost network connection -->
+     <!-- Original string: Ошибка соединения, установка прервана. -->
      <string name="connect_fail">Ошибка установки %1$s: ошибка соединения, проверьте подключение к сети</string>
      <string name="connect_no_enough_space">Не хватает места для установки приложения. Освободите место и попробуйте снова.</string>
      <!-- The count of MNPS does not match! Now: 1 must: 0
 	%s: 1 must: 0
 	%d: 0 must: 0 -->
-     <!-- Original string: Failed to download: Unfortunately, there is no installer for your phone -->
+     <!-- Original string: Ошибка установки. Приложение несовместимо. -->
      <string name="connect_no_fit_fail">Ошибка установки %1$s: установочный пакет не подходит для вашего телефона</string>
      <string name="connecting">Подключение…</string>
      <string name="data_save_mode_tip">Изображения отключены</string>
@@ -91,7 +89,7 @@
      <!-- The count of MNPS does not match! Now: 1 must: 0
 	%s: 1 must: 0
 	%d: 0 must: 0 -->
-     <!-- Original string: Download failed -->
+     <!-- Original string: Ошибка загрузки -->
      <string name="download_start_fail">Ошибка установки %1$s: не удается выполнить загрузку</string>
      <string name="downloading">Пауза</string>
      <string name="edit_comment">Комментарий</string>
@@ -210,10 +208,6 @@
      <string name="notif_description_from_market">из Mi Store</string>
      <string name="notif_install_failed">Сбой установки %1$s</string>
      <string name="notif_install_successful">Установка завершена</string>
-     <!-- The count of MNPS does not match! Now: 1 must: 0
-	%s: 1 must: 0
-	%d: 0 must: 0 -->
-     <!-- Original string: Installed -->
      <string name="notif_install_successful_default">%1$s установлено</string>
      <string name="notif_installing">Установка %1$s…</string>
      <string name="notif_summary_auto_update_failed">Ошибка автообновления</string>
@@ -287,6 +281,10 @@
      <string name="rating_button">Голосов: %1$s</string>
      <string name="recommendation_tag">Все</string>
      <string name="remove_package_fail">Ошибка установки</string>
+     <!-- The count of MNPS does not match! Now: 1 must: 0
+	%s: 1 must: 0
+	%d: 0 must: 0 -->
+     <!-- Original string: Ошибка установки. Время ожидания вышло. -->
      <string name="remove_package_timeout_fail">Ошибка установки %1$s: удаление старой версии не удалось, удалите вручную</string>
      <string name="result_notice">Результаты предоставленны Baidu App Center</string>
      <string name="result_of_clear_history">История поиска очищена</string>
@@ -315,7 +313,7 @@
      <!-- The count of MNPS does not match! Now: 1 must: 0
 	%s: 1 must: 0
 	%d: 0 must: 0 -->
-     <!-- Original string: "Failed to update: App signatures don't match" -->
+     <!-- Original string: Ошибка установки. Несовместимая подпись приложения. -->
      <string name="system_app_sign_not_match_fail">Ошибка установки %1$s: несовместимая подпись приложения</string>
      <string name="tab_favorites">Избранные</string>
      <string name="tab_local_apps">Телефон</string>

@@ -70,17 +70,20 @@
      <string name="enable_notification_summary">Уведомлять меня при изменении погоды</string>
      <string name="first_start_network_toast_text">Доступ к сети для получения информации о погоде</string>
      <string name="install_sina">Нажмите для установки Sina Weibo</string>
+     <string name="install_tencent">Получить приложение Weibo</string>
      <string name="loading_weather">Загрузка погоды…</string>
      <string name="local_city">Города</string>
      <string name="location_allow_err">Не удалось определить местоположение</string>
      <string name="location_management">Управление городами</string>
      <string name="location_notification">Уведомления о погоде</string>
      <string name="menu_about">О программе</string>
+     <string name="menu_add">Добавить</string>
      <string name="menu_around">Рядом</string>
      <string name="menu_chart">Диаграмма</string>
      <string name="menu_delete">Удалить</string>
      <string name="menu_location">Местоположение</string>
      <string name="menu_main">Индекс</string>
+     <string name="menu_more">Информация</string>
      <string name="menu_notification">Уведомления</string>
      <string name="menu_reload">Обновить</string>
      <string name="menu_reloading">Обновление…</string>
@@ -107,9 +110,10 @@
      <string name="share_button_text">Поделиться</string>
      <string name="share_choice_titile">Поделиться</string>
      <string name="share_content">\#Погода MIUI#</string>
+     <string name="share_qq">Поделиться через Tencent Weibo</string>
+     <string name="share_sina">Поделиться через Sina Weibo</string>
      <string name="share_weather_content">"\#Погода MIUI#
 Сегодня %1$s's погода %2$s, %3$s, %4$s. %5$s."</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="share_weather_title">Поделиться погодой</string>
      <string name="sina_share_fail">Ошибка отправки!</string>
      <string name="sina_share_pendding">Отправка…</string>
@@ -119,7 +123,6 @@
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="sina_token_invalid_warning">Weibo account is invalid, please rebind</string>
      <string name="sms_notification">Отправить по смс</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="tip_weather">Уведомление погоды MIUI</string>
      <string name="tip_weather_info_content_1">Bring layers!</string>
      <string name="tip_weather_info_title_1">%1$s ожидается разность температур в %2$d градусов</string>
@@ -127,7 +130,6 @@
      <string name="trend_weather_today">Сегодня</string>
      <string name="trend_weather_tomorrow">Завтра</string>
      <string name="weather_notification">Уведомления погоды</string>
-     <string name="weather_unit">°</string>
      <string name="weather_unit_middle">~</string>
      <string name="weather_unit_with_c">°C</string>
      <string name="widget_loading">Нет данных о погоде</string>

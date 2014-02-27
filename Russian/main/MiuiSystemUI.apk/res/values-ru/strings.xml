@@ -147,6 +147,7 @@
      <string name="notifications_off_text">Нажмите здесь для включения уведомлений</string>
      <string name="notifications_off_title">Уведомления выключены</string>
      <string name="oldman_airplane_mode_text">Режим полета</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="oldman_incall_text">incall</string>
      <string name="recent_apps_key">Последние приложения</string>
      <string name="recent_apps_key_show">Последние приложения</string>
@@ -171,9 +172,14 @@
      <string name="settings_basic_settings">Основные настройки</string>
      <string name="settings_custom_carrier">Имя оператора</string>
      <string name="settings_custom_notification">Настроить уведомления</string>
+     <string name="settings_expandable_under_fullscreen">Полноэкранные приложения</string>
+     <string name="settings_expandable_under_fullscreen_summary">Возможность доступа к панели состояния при работе с полноэкранными приложениями.</string>
      <string name="settings_expandable_under_keyguard">Заблокированный экран</string>
+     <string name="settings_expandable_under_keyguard_summary">Возможность доступа к панели состояния в заблокированном режиме (если не установлен графический ключ).</string>
+     <string name="settings_expanded_view">Настройки раскрытия</string>
      <string name="settings_no_carrier">Ничего</string>
      <string name="settings_notification_bar">Панель уведомлений</string>
+     <string name="settings_screenshot_notification_disabled">Не уведомлять о скриншоте</string>
      <string name="settings_show_carrier">Имя оператора</string>
      <string name="settings_show_carrier_summary">Отображать только на экране блокировки</string>
      <string name="settings_show_flow_info">Отображать трафик</string>

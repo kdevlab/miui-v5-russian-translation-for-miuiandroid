@@ -109,7 +109,7 @@
      <string name="cloudfolder_name_reserved">Имя папки занято</string>
      <string name="comfirm_delete_current_album">Удалить текущий альбом?</string>
      <string name="confirm">OK</string>
-     <string name="confirm_delete">Удалить выбранные файлы (%s)?</string>
+     <string name="confirm_delete">Удалить выбранное?</string>
      <string name="confirm_delete_album" formatted="false">"Удалить выбранные альбомы с фото?
 
 Альбомов:%s

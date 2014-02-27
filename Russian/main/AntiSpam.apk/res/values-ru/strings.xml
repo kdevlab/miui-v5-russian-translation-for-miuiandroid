@@ -111,6 +111,6 @@
      <string name="tab_sms">Сообщения</string>
      <string name="tab_title">Антиспам</string>
      <string name="toast_keyword_blank">Нет ключевых слов</string>
-     <string name="toast_keyword_exist">Ключевое слово сохранено</string>
+     <string name="toast_keyword_exist">Ключевое слово \"%s\" уже существует</string>
      <string name="toast_keyword_invalid">Неверное ключевое слово</string>
 </resources>

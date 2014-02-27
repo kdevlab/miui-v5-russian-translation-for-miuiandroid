@@ -91,6 +91,8 @@
      <string name="dlna_list_name">DLNA устройство</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="dlna_name">Shared device</string>
+     <string name="download">Кэш</string>
+     <string name="download_add_file_fail">Ошибка создания файла. Достаточно ли у вас свободного места?</string>
      <string name="download_add_success">Загрузка добавлена</string>
      <string name="download_fail">Ошибка загрузки</string>
      <string name="download_file_fail">Нет даступа к файлу. Возможно нехватает места на SD-карте.</string>
@@ -148,8 +150,6 @@
      <string name="key_back_down_toast">Нажмите еще раз, чтобы выйти</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="lekan">Lekan</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="letv">Letv</string>
      <string name="live_loading_symbol"><CDATA>Загрузка </CDATA></string>
      <string name="live_loading_to_be_play">Загрузка…</string>
      <string name="live_pending_symbol"><CDATA>Буферизация </CDATA></string>
@@ -205,8 +205,6 @@
      <string name="mydlna">Мое DLNA</string>
      <string name="myfavorite">Избранное</string>
      <string name="myfavorite_onlylocal">Избранное</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="netease">NetEase</string>
      <string name="network_setting">Сеть</string>
      <string name="no_comment_tip">Нельзя отправить пустой комм</string>
      <string name="no_favorite">Пусто</string>
@@ -232,7 +230,6 @@
      <string name="offline_alert_title">Уведомление загрузки</string>
      <string name="offline_alert_wifi">Вы используете мобильный интернет. Загрузки будут приостановлены и загружены при подключении к сети Wi-Fi.</string>
      <string name="offline_continue">Продолжить</string>
-     <string name="offline_episode">%d</string>
      <string name="offline_max_promote">Ожидание. Дуступно 2 загрузки одновременно.</string>
      <string name="offline_media">Оффлайн</string>
      <string name="offline_media_more">Еще</string>
@@ -246,6 +243,7 @@
      <string name="open_camera">Камера</string>
      <string name="other_setting">Прочие</string>
      <string name="others">Прочие</string>
+     <string name="pause">Пауза</string>
      <string name="pause_download">Загрузка приостановлена</string>
      <string name="paused">Приостановлено</string>
      <string name="pick_hide_to_show">Выберите</string>
@@ -257,10 +255,6 @@
      <string name="play_length_colon">"Время: "</string>
      <string name="play_setting">Воспроизведение</string>
      <string name="playvideo">Воспроизвести</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="pps">PPS</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="pptv">PPTV</string>
      <string name="publish">Отправить</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="qiyi">iQiyi</string>
@@ -288,8 +282,6 @@
      <string name="series_colon">"Эпизодов: "</string>
      <string name="setting">Настройки</string>
      <string name="show_hidemedia">Показывать скрытые файлы</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="sina">Sina</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="souhu">Souhu</string>
      <string name="special_subject">Специальные</string>
@@ -346,16 +338,12 @@
      <string name="waitfornewset">Следовать</string>
      <string name="waitfornewset_tip_content">Вы будете уведомлены, когда новый эпизод или дополнительный контент будет доступен</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="wasu">Wasu</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="will_live_status">Live</string>
      <string name="write_comment">Добавить</string>
      <string name="xiaomi_account_type_unsupported">Ваша система не поддерживает аккаунт Xiaomi</string>
      <string name="xiaomi_user">Аккаунт Xiaomi</string>
      <string name="year">Год</string>
      <string name="yestorday">"Вчера "</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="yinyuetai">YinYueTai</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="youku">Youku</string>
 </resources>
