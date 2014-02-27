@@ -27,7 +27,7 @@
      <string name="apply_check_info_empty">Необходимо заполнить информацию.</string>
      <string name="ask_customer">Просим помочь</string>
      <string name="auto_location">Найдите автоматически</string>
-	 <string name="background_install_failed">Установка в фоне не удалась</string>
+     <string name="background_install_failed">Установка в фоне не удалась</string>
      <string name="bad_comments">Негативные</string>
      <string name="button_refresh">Обновить</string>
      <string name="button_search">Поиск</string>
@@ -85,11 +85,12 @@
      <string name="connect_network_settings">Настройки</string>
      <string name="connect_no_fit_fail">%1$s - установка не удалась: нет подходящих пакетов установки для вашего телефона</string>
      <string name="connecting">подключение</string>
-	 <string name="copy_success">Скопировано!</string>
+     <string name="copy_success">Скопировано!</string>
      <string name="credit_center">Кредит-центр</string>
      <string name="data_package">_DataPackage</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="default_nick_name">KDev Group</string>
-	 <string name="delete">Удалить</string>
+     <string name="delete">Удалить</string>
      <string name="description_info">Описание</string>
      <string name="dialog_birthday_title">Мой день рождения</string>
      <string name="dialog_constellation_title">Мой знак зодиака</string>
@@ -310,7 +311,7 @@
      <string name="loading_subject_list">Загрузка, подождите…</string>
      <string name="loading_web_content">Загрузка…</string>
      <string name="local_game_head">Игр: %d</string>
-	 <string name="local_games_empty_txt">Здесь будут установленные игры</string>
+     <string name="local_games_empty_txt">Здесь будут установленные игры</string>
      <string name="locating">Определение…</string>
      <string name="locations_overseas">Другой</string>
      <string name="login_fail">Не удалось войти</string>
@@ -334,7 +335,7 @@
      <string name="messagecenter_custom_action_bar_title1">Пожалуйста, выберите</string>
      <string name="messagecenter_custom_action_bar_title2">%1$s выбрав элемент"</string>
      <string name="messagecenter_delete_empty">Выберите сообщения для удаления</string>
-	 <string name="messagecenter_item_ago">%d дн. назад</string>
+     <string name="messagecenter_item_ago">%d дн. назад</string>
      <string name="messagecenter_message_empty">Пусто</string>
      <string name="messagecenter_message_list_delete_confirm">Удалить выбранные %1$s сообщения?</string>
      <string name="messagecenter_message_list_delete_title">Удалить?</string>
@@ -378,6 +379,7 @@
      <string name="no_search">Приложения не найдены</string>
      <string name="no_subject_info">К сожалению, эта категория больше не существует</string>
      <string name="no_update">Нет обновлений</string>
+     <string name="no_updateable_game">Нет обновляемых игр</string>
      <string name="no_url">Не удалось найти адрес загрузки</string>
      <string name="no_yiguoqi">Истек</string>
      <string name="none" />
@@ -394,6 +396,7 @@
      <string name="online_game_new">Новые Серверы</string>
      <string name="password_hint">Пароль</string>
      <string name="password_invalid">Пароль недействительный. Пожалуйста, введите 8-16 комбинацию из цифр и/или букв.</string>
+     <string name="pause">Пауза</string>
      <string name="paused">приостановленно</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <!-- The count of MNPS does not match! Now: 0 must: 2
@@ -498,6 +501,8 @@
      <string name="title_intergral">Очки</string>
      <string name="title_level">Уровень</string>
      <string name="title_message_center">Сообщения</string>
+     <string name="toast_name_used">имя уже используется</string>
+     <string name="today">Сегодня</string>
      <string name="today_no_purchase_record">Нет записей о Ваших сегодняшних покупках</string>
      <string name="total_points">%d pts</string>
      <string name="track_feedback_status">- Вопрос о статусе</string>
@@ -520,10 +525,11 @@
      <string name="txt_selection">Выберите:</string>
      <string name="txt_updated_subtitle">Обновлений</string>
      <string name="txt_xiaomi_id">XiaoMi ID: %s</string>
+     <string name="unknown">Нет</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="unknown_user_name">MiGamer888</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="unzipping">Unzipping</string>
+     <string name="unzipping">Распаковка</string>
      <string name="update">обн.</string>
      <string name="update_Discard_Read_Feature">Отменить</string>
      <string name="update_Read_Feature">Представление новых возможностей</string>
@@ -533,6 +539,8 @@
      <string name="update_bonus_rule">Обновления и получить очки!</string>
      <string name="update_date">%3$02d-%2$02d-%1$d</string>
      <string name="update_date_label">Обновлено:</string>
+     <string name="update_game_item_current_version">Сейчас: %s</string>
+     <string name="update_game_item_new_version">Новая: %s</string>
      <string name="update_get_points_bonus">Зачем Переходить?</string>
      <string name="update_get_points_task">Как Обновить?</string>
      <string name="update_info">Что нового</string>
@@ -541,6 +549,7 @@
      <string name="update_new_version_available">(новая версия)</string>
      <string name="update_result_new">Новых версий не найдено</string>
      <string name="update_success">Обновление завершено!</string>
+     <string name="updating_starts">Началось обновление Game Center</string>
      <string name="upgrade_game_head">Обновить все (%d)</string>
      <string name="user_info_page_field_mask_birthday">День рождения: %s</string>
      <string name="user_info_page_field_mask_city">Город: %s</string>
@@ -556,65 +565,30 @@
      <string name="view_all_gift">Подробнее</string>
      <string name="view_more_gift">Подробнее</string>
      <string name="vip_club">VIP-клуб</string>
-	 <string name="vip_description_info">Описание</string>
+     <string name="vip_description_info">Описание</string>
      <string name="vip_gift_empty_button_receive">A A Получить GamePack A A</string>
      <string name="vip_gift_empty_receive">"Вы не имеете никакого GamePacks"</string>
      <string name="vip_home_all_privilege">Просмотреть все преимущества VIP</string>
      <string name="vip_home_birthday">День рождения: %s</string>
      <string name="vip_home_birthday_none">День рождения:</string>
-     <string name="vip_home_grade">VIP%d</string>
+     <string name="vip_home_grade">VIP %d</string>
      <string name="vip_home_level">Уровень</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <!-- The count of MNPS does not match! Now: 0 must: 1
-	%s: 0 must: 0
-	%d: 0 must: 1 -->
-     <!-- Original string: &lt;font color=\"#2a2a2a\">Points needed to level up to VIP%d&lt;/font> -->
-     <string name="vip_home_level_distant_pre"></string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <!-- The count of MNPS does not match! Now: 0 must: 1
-	%s: 0 must: 0
-	%d: 0 must: 1 -->
-     <!-- Original string: &lt;font color=#fd8000>RMB%d&lt;/font> -->
-     <string name="vip_home_level_distant_suf"></string>
+     <string name="vip_home_level_distant_pre">&lt;font color=\"#2a2a2a\">Необходимо очков до VIP: %d&lt;/font></string>
+     <string name="vip_home_level_distant_suf">&lt;font color=#fd8000>RMB%d&lt;/font></string>
      <string name="vip_home_level_rule">VIP членство</string>
      <string name="vip_home_miliao">MiTalk: %s</string>
      <string name="vip_home_miliao_none">MiTalk: нет</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <!-- The count of MNPS does not match! Now: 0 must: 1
-	%s: 0 must: 0
-	%d: 0 must: 1 -->
-     <!-- Original string: &lt;font color=\"#2a2a2a\">&lt;/font>&lt;font color=#fd8000>%d&lt;/font>&lt;font color=\"#2a2a2a\"> pts to upgrade.&lt;/font> -->
-     <string name="vip_home_need_exp"></string>
+     <string name="vip_home_need_exp">&lt;font color=\"#2a2a2a\">&lt;/font>&lt;font color=#fd8000>%d&lt;/font>&lt;font color=\"#2a2a2a\"> pts до обновления.&lt;/font></string>
      <string name="vip_home_privilege">Преимущества VIP</string>
      <string name="vip_home_qq">QQ: %s</string>
      <string name="vip_home_qq_none">QQ: нет</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <!-- The count of MNPS does not match! Now: 0 must: 1
-	%s: 0 must: 0
-	%d: 0 must: 1 -->
-     <!-- Original string: &lt;font color=#2a2a2a>Fees due:&lt;/font>&lt;font color=#fd8000>%d&lt;/font>&lt;font color=#2a2a2a>RMB to upgrade.&lt;/font> -->
-     <string name="vip_home_retain_level"></string>
+     <string name="vip_home_retain_level">&lt;font color=#2a2a2a>Стоимость обновления:&lt;/font>&lt;font color=#fd8000>%d&lt;/font>&lt;font color=#2a2a2a>RMB.&lt;/font></string>
      <string name="vip_home_status">VIP-Статус</string>
      <string name="vip_home_tel">Телефон: %s</string>
      <string name="vip_home_tel_none">Телефон: нет</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <!-- The count of MNPS does not match! Now: 0 must: 1
-	%s: 0 must: 0
-	%d: 0 must: 1 -->
-     <!-- Original string: &lt;font color=#2a2a2a>Points needed to level up&lt;/font>&lt;font color=#fd8000>%d&lt;/font>&lt;font color=#2a2a2a>RMB&lt;/font> -->
-     <string name="vip_home_update_level"></string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <!-- The count of MNPS does not match! Now: 0 must: 1
-	%s: 0 must: 1
-	%d: 0 must: 0 -->
-     <!-- Original string: &lt;font color=#2a2a2a>Expires in: &lt;/font>%s -->
-     <string name="vip_home_valid_end_pre"></string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <!-- The count of MNPS does not match! Now: 0 must: 1
-	%s: 0 must: 0
-	%d: 0 must: 1 -->
-     <!-- Original string: &lt;font color=#767676>(%d days remaining)&lt;/font> -->
-     <string name="vip_home_valid_end_suf"></string>
+     <string name="vip_home_update_level">&lt;font color=#2a2a2a>Очков необходимо, чтобы уровень поднялся&lt;/font>&lt;font color=#fd8000>%d&lt;/font>&lt;font color=#2a2a2a>RMB&lt;/font></string>
+     <string name="vip_home_valid_end_pre">&lt;font color=#2a2a2a>Истекает через: &lt;/font>%s</string>
+     <string name="vip_home_valid_end_suf">&lt;font color=#767676>(%d осталось дней)&lt;/font></string>
      <string name="vip_home_vip_top_level">Вы наш Top VIP.</string>
      <string name="vip_info_unknown">нет</string>
      <string name="vip_jifen_text">%d Пунктов</string>
@@ -636,4 +610,6 @@
      <string name="welcome_skip_button">Далее</string>
      <string name="welcome_subtitle">Попробуйте эти игры! :)</string>
      <string name="welcome_title">Добро пожаловать!</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="yestoday">Вчера</string>
 </resources>

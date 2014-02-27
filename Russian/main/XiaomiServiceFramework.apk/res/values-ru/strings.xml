@@ -180,7 +180,7 @@
      <string name="login_failed">Неверное имя пользователя или пароль</string>
      <string name="login_instead_reg">Войти с помощью этого телефона</string>
      <string name="login_notice">Авторизация, подождите…</string>
-	 <string name="logout_failed">Ошибка выхода</string>
+     <string name="logout_failed">Ошибка выхода</string>
      <string name="master_alert_notif_dspt" formatted="false">"За этот период добавлено %s контактов, %s сообщений, %s фото, %s заметок и других данных. 
 
  Если Ваш телефон будет потерян или очищен, эти данные будут безвозвратно утеряны. Рекомендуем восстанавливать синхронизацию для обеспечения безопасности данных."</string>

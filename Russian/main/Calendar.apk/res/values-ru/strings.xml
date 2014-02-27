@@ -25,6 +25,8 @@
      <string name="acessibility_cal_notification">Уведомление календаря</string>
      <string name="acessibility_selected_marker_description">Выбранное событие</string>
      <string name="acessibility_snooze_notification">Отложить событие</string>
+     <string name="activity_summary">Лотерея на 10 юаней</string>
+     <string name="activity_title">Новогодние подарки MIUI</string>
      <string name="add_account">Добавить аккаунт</string>
      <string name="agenda_today">Сегодня, %1$s</string>
      <string name="agenda_tomorrow">Завтра, %1$s</string>
@@ -43,6 +45,7 @@
      <string name="button_month">М</string>
      <string name="calendar_refresh">Обновить</string>
      <string name="change_response_title">Изменить ответ</string>
+     <string name="chongsha">冲煞</string>
      <string name="copy_db">Отправить базу данных</string>
      <string name="copy_email">Скопировать адрес почты</string>
      <string name="copy_number">Скопировать номер телефона</string>
@@ -74,6 +77,7 @@
      <string name="edit_event_show_all">Показать все</string>
      <string name="edit_event_to_label">До</string>
      <string name="edit_label">Изменить</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="email_guests_label">Email</string>
      <string name="email_picker_label">Email с</string>
      <string name="empty_event">Пустое мероприятие</string>
@@ -91,6 +95,7 @@
      <string name="event_info_title_invite">Приглашение на встречу</string>
      <string name="event_info_when">"Когда: "</string>
      <string name="event_info_where">"Где: "</string>
+     <string name="event_lunar_month">月</string>
      <string name="event_show_more">Еще</string>
      <string name="event_view">Просмотр мероприятия</string>
      <string name="every_weekday">Каждый будний день (пн–пт)</string>
@@ -108,6 +113,8 @@
      <string name="hint_description">Описание мероприятия</string>
      <string name="hint_what">Название мероприятия</string>
      <string name="hint_where">Место мероприятия</string>
+     <string name="huangli_bad_type">忌</string>
+     <string name="huangli_good_type">宜</string>
      <string name="jump_date">Перейти</string>
      <string name="jump_date_full">Перейти к дате</string>
      <string name="loading">Загрузка…</string>
@@ -122,7 +129,7 @@
      <string name="modify_all">Изменить все мероприятия в серии</string>
      <string name="modify_all_following">Изменить это и будущие мероприятия</string>
      <string name="modify_event">Изменить только это мероприятие</string>
-	 <string name="month_medium_april">Апр</string>
+     <string name="month_medium_april">Апр</string>
      <string name="month_medium_august">Авг</string>
      <string name="month_medium_december">Дек</string>
      <string name="month_medium_february">Фев</string>
@@ -145,6 +152,7 @@
      <string name="no_syncable_calendars">Нет календарей</string>
      <string name="no_title_label">(нет заголовка)</string>
      <string name="not_synced">не синхронизирован</string>
+     <string name="pengzu">彭祖</string>
      <string name="prefDialogTitle_vibrateWhen">Вибрация</string>
      <string name="preferences_about_title">О программе</string>
      <string name="preferences_alerts_popup_title">Всплывающее уведомление</string>
@@ -202,12 +210,13 @@
      <string name="snooze_all_label">Отложить все</string>
      <string name="snooze_label">Отложить</string>
      <string name="synced">Синхронизированы</string>
+     <string name="taishen">胎神</string>
      <string name="template_announce_item_index">Мероприятие %1$s из %2$s</string>
      <string name="time_zone">Часовой пояс</string>
      <string name="timezone_label">Часовой пояс</string>
      <string name="today">Сегодня</string>
      <string name="today_at_time_fmt">Сегодня в %s</string>
-	 <string name="today_no_events">Нет событий</string>
+     <string name="today_no_events">Нет событий</string>
      <string name="tomorrow">Завтра</string>
      <string name="tomorrow_at_time_fmt">Завтра в %s</string>
      <string name="view_event_calendar_label">Календарь:</string>
@@ -222,6 +231,9 @@
      <string name="widget_no_events">Нет событий</string>
      <string name="widget_select_style">Выберите стиль виджета</string>
      <string name="work_day_indication">:(</string>
+     <string name="wuxing">五行</string>
+     <string name="xingxiu">星宿</string>
      <string name="yearly">Ежегодно (%s)</string>
      <string name="yearly_plain">Ежегодно</string>
+     <string name="zhushen">诸神</string>
 </resources>

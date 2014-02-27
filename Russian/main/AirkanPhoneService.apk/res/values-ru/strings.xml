@@ -1,11 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!-- Builded with CloudBuildr -->
 <resources>
-    <string name="rcs_app_name">Сервис удаленного управления</string>
-    <string name="rcs_phoneact_name">Дистанционное управление устройством</string>
-    <string name="rcs_service_start">Дистанционное управление устройством запущено</string>
-    <string name="app_name">Airkan Phone</string>
-    <string name="phoneact_name">Airkan менеджер устройства</string>
-    <string name="mdnssdact_name">mDNSSD менеджер прослушивания</string>
-    <string name="service_start">Airkan сервис запущен</string>
-    <string name="listenservice_start">mDNSSD сервис прослушивания запущен</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="app_name">Airkan Phone</string>
+     <string name="listenservice_start">mDNSSD сервис прослушивания запущен</string>
+     <string name="mdnssdact_name">mDNSSD менеджер прослушивания</string>
+     <string name="phoneact_name">Airkan менеджер устройства</string>
+     <string name="rcs_app_name">Сервис удаленного управления</string>
+     <string name="rcs_phoneact_name">Дистанционное управление устройством</string>
+     <string name="rcs_service_start">Дистанционное управление устройством запущено</string>
+     <string name="service_start">Airkan сервис запущен</string>
 </resources>

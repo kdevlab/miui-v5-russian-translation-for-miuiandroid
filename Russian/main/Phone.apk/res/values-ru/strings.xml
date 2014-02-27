@@ -1021,6 +1021,7 @@
      <string name="preferred_network_type_pref_entries_global_miui">Глобальный</string>
      <string name="preferred_network_type_pref_entries_only_2g_miui">Только 2G</string>
      <string name="preferred_network_type_pref_entries_only_3g_miui">Только 3G</string>
+     <string name="preferred_network_type_td_scdma_miui">GSM/TD-SCDMA</string>
      <string name="preferred_network_type_title_miui">Тип сети</string>
      <string name="primary_account_summary_with">Основной аккаунт. %s</string>
      <string name="private_num">Скрытый номер</string>
@@ -1137,6 +1138,7 @@
      <string name="select_from">Выбрать из</string>
      <string name="select_trash">Мусор</string>
      <string name="selected_item_count">Выбрано: %d</string>
+     <string name="select_network_automatic_hint_miui">"Не могу зарегистрироваться в выбранной сети, выберите предпочтит. сети автоматически"</string>
      <string name="sendSms">Отправить SMS</string>
      <string name="send_button">Позвонить</string>
      <string name="send_keepalive_summary">Отправить сообщение для сохранения активным SIP</string>

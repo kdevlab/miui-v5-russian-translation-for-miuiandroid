@@ -7,11 +7,11 @@
      <string name="all_numbers">Все номера</string>
      <string name="app_label">Желтые страницы</string>
      <string name="balance_inquiry_default_sp_name">Оператор</string>
-	 <string name="balance_inquiry_send_sms_fail_hint">Ошибка отправки сообщения</string>
+     <string name="balance_inquiry_send_sms_fail_hint">Ошибка отправки сообщения</string>
      <string name="balance_inquiry_send_sms_hint">Будет отправлено бесплатное сообщение для запроса баланса</string>
      <string name="balance_inquiry_send_sms_summmary">Проверить состояние баланса</string>
      <string name="balance_inquiry_title">Состояние баланса</string>
-	 <string name="call">Вызов</string>
+     <string name="call">Вызов</string>
      <string name="callrecordview_item_newcontact">Новый контакт</string>
      <string name="callrecordview_item_op_time_minutes_seconds">%1$d мин. %2$d сек.</string>
      <string name="callrecordview_item_op_time_missed">Не подключено</string>
@@ -82,10 +82,10 @@
      <string name="navigation_search_no_city_list">Город не найден</string>
      <string name="navigation_search_positioning">Поиск местоположения…</string>
      <string name="navigation_search_positioning_failed">Выберите город</string>
-	 <string name="nearby_no_yellow_page">Никого нет</string>
+     <string name="nearby_no_yellow_page">Никого нет</string>
      <string name="nearby_yellow_page_title">Рядом</string>
      <string name="network_unavaliable">Сеть не доступна. Проверьте настройки сети.</string>
-	 <string name="no_more_result">Ничего не найдено</string>
+     <string name="no_more_result">Ничего не найдено</string>
      <string name="order_empty_hint">Нет заказов</string>
      <string name="order_id">ID заказа:%s</string>
      <string name="order_merchant_title">Мои заказы</string>
@@ -112,7 +112,7 @@
      <string name="recharge_history">История пополнений</string>
      <string name="recharge_history_empty">История пуста</string>
      <string name="recharge_input_phone_title">Введите номер телефона (China mobile, China Unicom, или China Telecom)</string>
-	 <string name="recharge_my_phone_number">Мой номер</string>
+     <string name="recharge_my_phone_number">Мой номер</string>
      <string name="recharge_order_actual_price">%s юань</string>
      <string name="recharge_order_id">ID заказа:</string>
      <string name="recharge_order_original_price">%s юань</string>
@@ -129,7 +129,7 @@
      <string name="recharge_select_money_title">Выберите размер пополнения</string>
      <string name="recharge_status_description">Статус:</string>
      <string name="recharge_title">Пополнение</string>
-	 <string name="recharge_unknown_number">Другой номер</string>
+     <string name="recharge_unknown_number">Другой номер</string>
      <string name="recharge_user_confirm_summary">"Вы пополнили %1$s на %2$s юань！
 
 Всего: %3$s юань."</string>
@@ -144,6 +144,9 @@
      <string name="select_package_before_buy">Выберите пакет для покупки</string>
      <string name="selected_category_format">%1$s (%2$d людей отметили, нажмите для согласия)</string>
      <string name="service_unavailiable">Текущая сеть имеет плохое подключение. Повторите попытку позже.</string>
+     <string name="sina_share_fail">Не удалось отправить</string>
+     <string name="sina_share_pendding">Отправка...</string>
+     <string name="sina_share_success">Отправленные</string>
      <string name="smart_antispam">Идентификация номеров</string>
      <string name="sms_disabled_in_privacy_mode">Невозможно отправить сообщение в режиме гостя</string>
      <string name="sms_send_failed">Не удалось отправить сообщение</string>

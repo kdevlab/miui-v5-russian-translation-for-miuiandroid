@@ -83,6 +83,7 @@
      <string name="accessibility_no_services_installed">Службы не установлены</string>
      <string name="accessibility_power_button_ends_call_prerefence_title">Кнопка питания завершает вызов</string>
      <string name="accessibility_power_button_ends_call_title">Кнопка питания завершает вызов</string>
+     <string name="accessibility_screen_magnification_enable">Увеличение жесты</string>
      <string name="accessibility_screen_magnification_summary">"Эта функция позволяет увеличивать и уменьшать изображение, трижды нажав на экран.
 
 При увеличенном масштабе можно:
@@ -283,6 +284,9 @@
      <string name="applications_settings">Приложения</string>
      <string name="applications_settings_header">Настройки приложения</string>
      <string name="applications_settings_summary">Управление приложениями, настройка клавиш быстрого запуска</string>
+     <string name="applications_sort_type_item_size">Размер</string>
+     <string name="applications_sort_type_item_time">Часто используется</string>
+     <string name="applications_sort_type_title">Сортировка</string>
      <string name="ask_compatibility">Спрашивать при запуске</string>
      <string name="assisted_gps">Использовать A-GPS</string>
      <string name="assisted_gps_disabled">Использовать сервер для A-GPS (снимите флажок для улучшения работы GPS)</string>
@@ -639,14 +643,18 @@
      <string name="button_start_optimize">Проверить</string>
      <string name="button_text_a_key_clean_up">Очистить</string>
      <string name="button_text_a_key_optimize">Оптимизировать</string>
+     <string name="button_text_a_key_uninstall">Удалить</string>
+     <string name="button_text_backup_and_uninstall_apps">Резервное копирование и удаление</string>
      <string name="button_text_cancel">Отмена</string>
      <string name="button_text_delete">Удалить</string>
      <string name="button_text_done">Готово</string>
      <string name="button_text_fix">Исправить</string>
      <string name="button_text_quick_scan">Сканировать</string>
      <string name="button_text_security">Безопасно</string>
+     <string name="button_text_uninstall">Удалить</string>
+     <string name="button_text_uninstall_apps">Удалить</string>
      <string name="button_text_view">Посмотреть</string>
-	 <string name="button_text_view_power">Посмотреть</string>
+     <string name="button_text_view_power">Посмотреть</string>
      <string name="cache_garbage">Кэш</string>
      <string name="cache_header_label">Кэш</string>
      <string name="cache_list_empty_hints">Нет кешированных файлов</string>
@@ -697,7 +705,7 @@
      <string name="clean_confirm_title">Удалить эти файлы?</string>
      <string name="cleaner">Очистка</string>
      <string name="cleaner_support_hints">При поддержке Clean Master</string>
-	 <string name="cleanning_prefix">Очистка:%s</string>
+     <string name="cleanning_prefix">Очистка:%s</string>
      <string name="clear_activities">Удалить настройки по умолчанию</string>
      <string name="clear_activities_summary">Установить эту программу по умолчанию для некоторых действий</string>
      <string name="clear_all_calllog">Очистить журнал вызовов</string>

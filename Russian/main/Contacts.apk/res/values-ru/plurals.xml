@@ -5,7 +5,7 @@
         <item quantity="other">Импортировано контактов: %1$d</item>
         <item quantity="one">Импортировано контактов: %1$d</item>
      </plurals>
-	 <plurals name="group_add_success_toast">
+     <plurals name="group_add_success_toast">
         <item quantity="other">" %1$d добавлено"</item>
         <item quantity="one">%1$d контакт добавлен</item>
      </plurals>
@@ -17,7 +17,7 @@
         <item quantity="other">номеров: %1$d</item>
         <item quantity="one">номеров: %1$d</item>
      </plurals>
-	 <plurals name="hint_search_contacts">
+     <plurals name="hint_search_contacts">
         <item quantity="other">Контактов: %1$d</item>
         <item quantity="one">Контактов: %1$d</item>
      </plurals>
@@ -66,7 +66,7 @@
         <item quantity="other">Выбрано: %1$d</item>
         <item quantity="one">Выбрано: %1$d</item>
      </plurals>
-	 <plurals name="pick_favorites_contacts_list_title">
+     <plurals name="pick_favorites_contacts_list_title">
         <item quantity="other">Избранных: %1$d</item>
         <item quantity="one">Избранных: %1$d</item>
      </plurals>

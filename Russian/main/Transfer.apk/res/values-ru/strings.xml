@@ -191,6 +191,10 @@
      <string name="summary_step_two">Поделиться информацией о приложении AnyShare</string>
      <string name="support_tip">Техническая поддержка: AnyShare</string>
      <string name="title_createfolder">Новая папка</string>
+     <!-- The count of MNPS does not match! Now: 1 must: 1
+	%s: 1 must: 0
+	%d: 0 must: 0 -->
+     <!-- Original string: % selected -->
      <string name="title_selectfile_num">Выбрано файлов: %s</string>
      <string name="title_step_one">1. Файлы можно передавать без использования сетевого подключения</string>
      <string name="title_step_three">3. Неограниченный обмен файлами с друзьями</string>
