@@ -1911,7 +1911,6 @@
      <string name="notification_pulse_title">Индикация</string>
      <string name="notification_sound_dialog_title">Выбрать мелодию уведомлений</string>
      <string name="notification_sound_title">Уведомления</string>
-	 <string name="notification_title_firewall_blocked">Заблокировано</string>
      <string name="notification_summary_of_garbage_cleanup">Обнаружено мусора: %s</string>
      <string name="notification_title_firewall_blocked">Заблокировано</string>
      <string name="notification_title_of_garbage_cleanup">Уведомление о мусоре</string>
