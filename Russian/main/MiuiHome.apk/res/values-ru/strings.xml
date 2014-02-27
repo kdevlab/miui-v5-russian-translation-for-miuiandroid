@@ -122,7 +122,7 @@
      <string name="pref_enable_drawing_cache_title">Кэш графики</string>
      <string name="pref_icon_shadow_summary">Включает эффект тени и отражения иконок</string>
      <string name="pref_icon_shadow_title">Тень иконок</string>
-     <string name="pref_keep_in_memory_summary">Держать рабочий стол в памяти предотваращая от закрытий</string>
+     <string name="pref_keep_in_memory_summary">Держать рабочий стол в памяти предотвращая от закрытий</string>
      <string name="pref_keep_in_memory_title">Держать в памяти</string>
      <string name="pref_keep_layout_summary">Держать расположение иконок при смене размера сетки</string>
      <string name="pref_keep_layout_title">Держать раскладку</string>

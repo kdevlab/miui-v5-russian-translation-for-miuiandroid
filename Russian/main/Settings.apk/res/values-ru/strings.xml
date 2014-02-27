@@ -1239,7 +1239,7 @@
      <string name="font_size_normal">Нормальный</string>
      <string name="font_size_preview_text">Miui V5 from Russia :)</string>
      <string name="font_size_small">Маленький</string>
-     <string name="font_size_summary">Настройка размера шрифта таких приложений как: Телефон, Сообщения, Контакты итд.</string>
+     <string name="font_size_summary">Настройка размера шрифта таких приложений как: Телефон, Сообщения, Контакты и других</string>
      <string name="force_hw_ui">Ускорить работу GPU</string>
      <string name="force_hw_ui_summary">Использовать аппаратное ускорение 2D</string>
      <string name="force_msaa">Включить 4x MSAA</string>
@@ -1766,7 +1766,7 @@
      <string name="menu_item_notification_antispam_text_normal">Спам</string>
      <string name="menu_item_notification_garbage_text_error">Ошибка</string>
      <string name="menu_item_notification_power_text">Питание</string>
-     <string name="menu_item_notification_title">В панеле уведомлений</string>
+     <string name="menu_item_notification_title">В панели уведомлений</string>
      <string name="menu_item_settings_title">Настройки</string>
      <string name="menu_item_shortcut">Создать ярлыки</string>
      <string name="menu_item_shortcut_summary">Отправить на рабочий стол ярлыки модулей</string>
@@ -1846,7 +1846,7 @@
      <string name="msd_install_succeed">Драйвер уже установлен</string>
      <string name="msd_install_windows_xp_step_2_1">1.Если появится Мастер Настройки, пожалуйста, следуйте его указаниям до окончания установки</string>
      <string name="msg_cleanup_db_update_checking">Проверка…</string>
-     <string name="msg_cleanup_db_update_time_unknown">Обновленено: неизвестно</string>
+     <string name="msg_cleanup_db_update_time_unknown">Обновление: неизвестно</string>
      <string name="msg_update_error_code_already_running">Обновление</string>
      <string name="msg_update_error_code_network_error">Ошибка сети. Повторите позже.</string>
      <string name="msg_update_error_code_no_newer_db">Обновление не требуется</string>
@@ -2014,7 +2014,7 @@
      <string name="percent_mark">%</string>
      <string name="perm">Разрешения</string>
      <string name="perm_app">Приложения</string>
-     <string name="perm_app_enable">Упраление разрешениями приложений</string>
+     <string name="perm_app_enable">Управление разрешениями приложений</string>
      <string name="perm_app_header">Мониторинг разрешений</string>
      <string name="perm_app_manage_empty">Нет управляемых приложений</string>
      <string name="perm_app_name">Разрешения</string>
@@ -2341,7 +2341,7 @@
      <string name="power_save_low_battery_percentage_ten">10%</string>
      <string name="power_save_low_battery_percentage_thirty">30%</string>
      <string name="power_save_low_battery_percentage_twenty">20%</string>
-     <string name="power_save_low_battery_seekbar_title">Переключить режим, когда заряд батареи чем %1$d%%</string>
+     <string name="power_save_low_battery_seekbar_title">Переключить режим, когда заряд батареи более чем %1$d%%</string>
      <string name="power_save_low_battery_title">Смена режима по питанию</string>
      <string name="power_save_on_time_auto_save_title">Включить</string>
      <string name="power_save_on_time_default_time">00:00</string>
