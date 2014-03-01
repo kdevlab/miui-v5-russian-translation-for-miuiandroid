@@ -3773,4 +3773,7 @@
      <string name="zone_auto_summaryOn">Использовать часовой пояс сети</string>
      <string name="zone_list_menu_sort_alphabetically">Упорядочить по алфавиту</string>
      <string name="zone_list_menu_sort_by_timezone">Упорядочить по часовому поясу</string>
+     <string name="nfc_se_route_title">Позиция элемента безопасности</string>
+     <string name="current_use_uicc_se">Использовать элемент безопасности на SIM-карте</string>
+     <string name="current_use_ese">Использовать встроенный элемент безопасности</string>
 </resources>
