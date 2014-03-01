@@ -76,7 +76,7 @@
      <string name="count_ge">Файлов: %d</string>
      <string name="count_ji_quan">Все %d эп.</string>
      <string name="count_myfavorite">" избранные"</string>
-     <string name="day">День</string>
+     <string name="day">" "</string>
      <string name="declaration">Условия использования</string>
      <string name="declaration_content">Вы принимаете условия использования предусмотренных Sohu Video, iQiyi и других контент-провайдеров видео?</string>
      <string name="delete">Удалить</string>
@@ -198,7 +198,7 @@
      <string name="menu_wh_item_using_16_9_label">Формат 16:9</string>
      <string name="menu_wh_item_using_4_3_label">Формат 4:3</string>
      <string name="minute">мин.</string>
-     <string name="month">Месяц</string>
+     <string name="month">.</string>
      <string name="movie_comment">Комментарии</string>
      <string name="music">музыка</string>
      <string name="mycamera">Мое видео</string>
