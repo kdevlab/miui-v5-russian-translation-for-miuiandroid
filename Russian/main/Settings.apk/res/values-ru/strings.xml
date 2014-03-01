@@ -3776,4 +3776,6 @@
      <string name="nfc_se_route_title">Позиция элемента безопасности</string>
      <string name="current_use_uicc_se">Использовать элемент безопасности на SIM-карте</string>
      <string name="current_use_ese">Использовать встроенный элемент безопасности</string>
+     <string name="line_breaking_title">Оптимизация текста</string>
+     <string name="line_breaking_summary">Оптимизировать разрывы линий</string>
 </resources>
