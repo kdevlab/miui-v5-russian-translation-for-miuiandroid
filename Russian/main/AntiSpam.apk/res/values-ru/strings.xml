@@ -65,7 +65,7 @@
      <string name="qm_auto_time_turn_on">Начало</string>
      <string name="qm_auto_time_turn_on_title">Автоматическое включение тихого режима</string>
      <string name="qm_notification">Тихий режим включен</string>
-     <string name="qm_open">Тихий режим</string>
+     <string name="qm_open">Не беспокоить</string>
      <string name="qm_repeated_call_setting_title">Повторные вызовы</string>
      <string name="qm_repeated_call_summary_3min">Второй вызов от того же номера в течение трех минут не будет отключен</string>
      <string name="qm_repeated_call_summary_none">Не исключать повторные вызовы</string>
@@ -80,7 +80,7 @@
      <string name="qm_vip_list_custom">Исключения</string>
      <string name="qm_vip_list_custom_group">Контакты</string>
      <string name="qm_vip_list_group">Группа</string>
-     <string name="quiet_mode">Тихий режим</string>
+     <string name="quiet_mode">Не беспокоить</string>
      <string name="st_advanced_setting_group">Дополнительная блокировка</string>
      <string name="st_block_all">Блокировка вызовов и сообщений</string>
      <string name="st_block_mute">Блокировка вызовов и отключения звука сообщения</string>
