@@ -131,7 +131,7 @@
      <string name="folders_title">Папки</string>
      <string name="frequentlyplayed_title">Часто проигрываемые</string>
      <string name="headphone_settings">Настройка типа наушников</string>
-     <string name="high_quality">Высокое качество</string>
+     <string name="high_quality">Высокое</string>
      <string name="higher_quality_music">Качественная музыка</string>
      <string name="higher_quality_music_summary">Слушайте и скачивайте в высоком качестве</string>
      <string name="hot_artists">Популярные исполнители</string>
@@ -206,7 +206,7 @@
      <string name="new_playlist_name_template">Новый плейлист %d</string>
      <string name="no_effect">Отключен</string>
      <string name="no_song_downloaded">Нет треков для загрузки</string>
-     <string name="normal_quality">Хорошее качество</string>
+     <string name="normal_quality">Стандартное</string>
      <string name="not_login">Войти</string>
      <string name="not_selected">Пожалуйста, выберите трек</string>
      <string name="online_search_hint">Поиск музыки онлайн</string>
@@ -305,12 +305,12 @@
      <string name="synchronize_playlist_setting">Синхронизация плейлистов</string>
      <string name="synchronize_playlist_summary">Синхронизировать плейлисты в MiCloud</string>
      <string name="synchronize_to_baidu_cloud">Резервное копирование онлайн песен в плейлисты с Baidu Cloud</string>
-     <string name="track_bit_rate_hd">Высокое</string>
-     <string name="track_bit_rate_standard">Обычное</string>
-     <string name="track_bit_rate_uhd">Наулучшее</string>
+     <string name="track_bit_rate_hd">HD</string>
+     <string name="track_bit_rate_standard">Стд.</string>
+     <string name="track_bit_rate_uhd">UHD</string>
      <string name="track_edit">Трек</string>
      <string name="tracks_title">Все треки</string>
-     <string name="ultra_high_quality">Наилучшее качество</string>
+     <string name="ultra_high_quality">Наилучшее</string>
      <string name="unknown_album_name">Неизвестный альбом</string>
      <string name="unknown_artist_name">Неизвестный исполнитель</string>
      <string name="use_local_album">Установить обложку альбома</string>

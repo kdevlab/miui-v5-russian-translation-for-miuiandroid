@@ -490,7 +490,7 @@
      <string name="status_downloading">Загрузка: %1$s%%</string>
      <string name="status_unzipping">Распаковка</string>
      <string name="string_account_network_error_check">Пожалуйста, проверьте параметры подключения.</string>
-     <string name="string_account_network_error_data_failed">Скачать не удалось.</string>
+     <string name="string_account_network_error_data_failed">Загрузка не удалась</string>
      <string name="subject_lists">Список тем игр</string>
      <string name="system_app_sign_not_match_fail">%1$s установка не удалась из-за конфликта подписей</string>
      <string name="term_of_validity">Оставшееся время: %s</string>
@@ -605,7 +605,7 @@
      <string name="vip_welcome_go_gamecenter">Перейдите в раздел Игры</string>
      <string name="visiting_appointments">Встречи</string>
      <string name="webkit_errpage_btn_text">Обновить</string>
-     <string name="webkit_errpage_tip">Пожалуйста, проверьте параметры подключения.</string>
+     <string name="webkit_errpage_tip">Пожалуйста, проверьте подключение.</string>
      <string name="welcome_select_games">Выберите хотя бы одну игру и нажмите кнопку установки :)</string>
      <string name="welcome_skip_button">Далее</string>
      <string name="welcome_subtitle">Попробуйте эти игры! :)</string>

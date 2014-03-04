@@ -48,8 +48,8 @@
      <string name="menu_call">Вызов</string>
      <string name="menu_clear_all_call">Удалить все заблокированные вызовы</string>
      <string name="menu_clear_all_sms">Удалить все заблокированные сообщения</string>
-     <string name="menu_clear_current_call">Удалить все заблокированные вызовы, которые звонили с этого номера</string>
-     <string name="menu_clear_current_sms">Удалить все заблокированные сообщения отправленные с этого номера</string>
+     <string name="menu_clear_current_call">Удалить все вызовы с этого номера</string>
+     <string name="menu_clear_current_sms">Удалить все сообщения с этого номера</string>
      <string name="menu_edit">Изменить</string>
      <string name="menu_mark">Отметить</string>
      <string name="menu_no_block">Не блокировать</string>

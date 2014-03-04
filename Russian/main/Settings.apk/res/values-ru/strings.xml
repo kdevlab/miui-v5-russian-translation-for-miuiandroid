@@ -3739,7 +3739,7 @@
      <string name="wifi_wapi_certification_dont_exist">Введен неверный пароль. Попробуйте ещё раз</string>
      <string name="wifi_wapi_user_cert">Пользовательский сертификат</string>
      <string name="wifi_wps_available_first_item">Доступна защищенная сеть</string>
-     <string name="wifi_wps_available_second_item">" (доступна защищенная сеть)"</string>
+     <string name="wifi_wps_available_second_item">" (доступно WPS)"</string>
      <string name="wifi_wps_complete">WPS успешно. Соединение с сетью…</string>
      <string name="wifi_wps_connected">Соединено с сетью Wi-Fi %s</string>
      <string name="wifi_wps_fail_error">Ошибка настройки защиты Wi-Fi. Пожалуйста, повторите попытку.</string>
