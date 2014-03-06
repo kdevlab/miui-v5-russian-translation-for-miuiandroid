@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Builded with NXT -->
 <resources>
+     <string name="access_error">"В Гостевом режиме нельзя записывать"</string>
      <string name="alert_message_delete_record">Удалить выбранную запись?</string>
      <string name="app_name">Диктофон</string>
      <string name="audio_db_album_name">Аудиозаписи</string>
@@ -10,6 +11,7 @@
      <string name="button_ok">ОК</string>
      <string name="call_record">Записи вызовов (%d)</string>
      <string name="call_record_or">или</string>
+     <string name="cloud_record">Запись в облаке (%d)</string>
      <string name="default_record_name">запись без названия</string>
      <string name="delete">Удалить</string>
      <string name="delete_dialog_message">Удалить текущую запись?</string>
@@ -31,6 +33,7 @@
      <string name="fm_record">Записи радио (%d)</string>
      <string name="hour">%d часов</string>
      <string name="insert_sd_card">Вставьте SD-карту</string>
+     <string name="loading_recording">Загрузка записей</string>
      <string name="low_battery_error">Аккумулятор телефона заряжен менее, чем 5%. Для того, чтобы не потерять запись, она была остановлена ​​и сохранена. Неожиданное отключение может привести к потере записи, рекомендуется записывать при полной зарядке.</string>
      <string name="low_battery_message_title">Низкий заряд батареи</string>
      <string name="low_battery_warning">Неожиданное отключение может привести к потере записи. Рекомендуется записывать при полной зарядке.</string>
@@ -58,7 +61,24 @@
      <string name="preference_record_type_title">Тип записи</string>
      <string name="preference_scenes">Режим записи</string>
      <string name="preference_silent_mode">Запись в режиме \"Без звука\"</string>
+     <string name="record_download">Скачать из MiCloud</string>
+     <string name="record_download_activity">Загрузка записей</string>
+     <string name="record_download_complete">Готово</string>
+     <string name="record_download_failed">Ошибка</string>
+     <string name="record_download_manager">Загрузки</string>
+     <string name="record_download_msg">Записи можно воспроизводить только после их полной загрузки</string>
+     <string name="record_download_msg_reload">Этой записи не существует</string>
+     <string name="record_download_paused">Пауза</string>
+     <string name="record_downloading_notification">Загрузка…</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="record_downloading_notification_complete">Загрузка завершена</string>
+     <string name="record_downloading_notification_count">Загрузка: %d</string>
      <string name="record_list">Список записей</string>
+     <string name="record_list_call">Записи вызовов</string>
+     <string name="record_list_cloud">Записи в облаке</string>
+     <string name="record_list_cloud_call">Записи вызовов в облаке</string>
+     <string name="record_list_cloud_fm">Записи радио в облаке</string>
+     <string name="record_list_fm">Записи радио</string>
      <string name="record_loading">Загрузка записей, подождите</string>
      <string name="record_name_minute">мин.</string>
      <string name="record_picker_title">Выберите запись</string>
@@ -69,11 +89,13 @@
      <string name="rename_dialog_title">Переименование файла</string>
      <string name="rename_duplicate">Дубликат имени записи. Переименуйте:</string>
      <string name="rename_illegal">Неверное имя записи. Переименуйте:</string>
+     <string name="retry">Повторить</string>
      <string name="sd_card_not_available">SD-карта не доступна</string>
      <string name="search_for_recordings_in_folders">Поиск записей в папках</string>
      <string name="second">%d сек.</string>
      <string name="send_to">Отправить</string>
      <string name="sound_recorder_settings">Настройки</string>
+     <string name="start">Продолжить</string>
      <string name="start_recording">начало записи</string>
      <string name="status_bar_anti_disturb">Сторонние звуки отключены</string>
      <string name="status_bar_back">Нажмите, чтобы вернуться к записи</string>
@@ -81,6 +103,10 @@
      <string name="status_bar_recording_pause">Пауза</string>
      <string name="stop_recording">остановка записи</string>
      <string name="storage_is_full">Память заполнена</string>
+     <string name="sync_only_in_wifi">Использовать только Wi-Fi</string>
+     <string name="sync_only_in_wifi_alert">Выключение этой опции может увеличить использование вашего мобильного трафика (это может стоить вам денег).</string>
+     <string name="sync_only_in_wifi_summary">Диктофон будет использовать подключение к мобильной сети для загрузки и выгрузки записей, когда эта опция выключена</string>
+     <string name="sync_records">Синхронизация с MiCloud</string>
      <string name="toast_max_record_time">Приложение: %1$s максимально поддерживает %2$s записей вложения</string>
      <string name="toast_uninstall_fileexplorer">Приложение файлы не установлено</string>
      <string name="unknown_caller">Неизвестный вызов</string>
