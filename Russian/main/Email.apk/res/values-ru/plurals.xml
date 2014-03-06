@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Builded with CloudBuildr -->
+<!-- Builded with NXT -->
 <resources>
      <plurals name="gal_completed_fmt">
         <item quantity="other">Кол-во результатов: %1$1$d с %2$2$s</item>

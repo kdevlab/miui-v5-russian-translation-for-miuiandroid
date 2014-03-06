@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Builded with CloudBuildr -->
+<!-- Builded with NXT -->
 <resources>
      <string name="activity_not_found">Не удается открыть вложение</string>
      <string name="activity_not_found_uri">Не удается найти приложение для этого типа файлов</string>

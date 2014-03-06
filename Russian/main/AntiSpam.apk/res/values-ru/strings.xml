@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Builded with CloudBuildr -->
+<!-- Builded with NXT -->
 <resources>
      <string name="app_name">Антиспам</string>
      <string name="bl_block_info" formatted="false">Вызовов: %d | Сообщений: %d</string>
@@ -111,6 +111,6 @@
      <string name="tab_sms">Сообщения</string>
      <string name="tab_title">Антиспам</string>
      <string name="toast_keyword_blank">Нет ключевых слов</string>
-     <string name="toast_keyword_exist">Ключевое слово \"%s\" уже существует</string>
+     <string name="toast_keyword_exist">Ключевое слово сохранено</string>
      <string name="toast_keyword_invalid">Неверное ключевое слово</string>
 </resources>

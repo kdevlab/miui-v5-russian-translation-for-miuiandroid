@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Builded with CloudBuildr -->
+<!-- Builded with NXT -->
 <resources>
      <string name="account_detail">"Аккаунт Xiaomi:
 %1$s"</string>
@@ -124,16 +124,34 @@
      <string name="giftcard_denom_available">MiCredit доступно</string>
      <string name="giftcard_denom_frozen">MiCredit заморжено</string>
      <string name="giftcard_empty">Нет подарочных карт</string>
-     <!-- The count of MNPS does not match! Now: 1 must: 3
-	%s: 1 must: 3
-	%d: 0 must: 0 -->
-     <!-- Original string: %1$s-%2$s-%3$s истекло -->
      <string name="giftcard_expire">%1$s истекло</string>
      <string name="giftcard_hint">На подарочную карту будут переведены MiCredit. Через определенный срок они будут недействительны.</string>
      <string name="giftcard_push_notification_prime_title">Вы получили подарочный сертификат</string>
      <string name="giftcard_push_notification_sub_title">%1$s: %2$s MiCredit получено</string>
      <string name="giftcard_record">Подарочные карты</string>
      <string name="giftcard_value">(подарочная карта на %1$s MiCredit)</string>
+     <string name="hfb_app_name">话付宝</string>
+     <string name="hfb_complete">购买完成</string>
+     <string name="hfb_confirm">确认支付</string>
+     <string name="hfb_confirm_code">验证码：</string>
+     <string name="hfb_customer_service_phone">客服电话：</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="hfb_customer_service_phone_number">4006125880</string>
+     <string name="hfb_fail_hint">"* 如未收到短信请咨询中国移动通信账户支付客服中心：4006125880(只收市话费，无长途话费)； 125880只支付移动手机，0.3元/分，无长途话费。 
+* 有短信签名功能的手机，请回复前去掉签名的自动附加功能，以免回复系统无法识别拒绝支付。"</string>
+     <string name="hfb_fail_label">购买失败</string>
+     <string name="hfb_get_confirm_code">获取验证码</string>
+     <string name="hfb_goods_name">商品名称：</string>
+     <string name="hfb_goods_name_content">米币</string>
+     <string name="hfb_instruct">"请您按照10658008的短信提示确认回复后，点击'购买完成'。谢谢！"</string>
+     <string name="hfb_main_title">订单支付</string>
+     <string name="hfb_order_price">订单价格：</string>
+     <string name="hfb_other_case">如您未收到10658008的短信提示请点击</string>
+     <string name="hfb_pay_by_phone">支付手机：</string>
+     <string name="hfb_retry_receive">重新接收</string>
+     <string name="hfb_return">返 回</string>
+     <string name="hfb_succ_label">购买成功</string>
+     <string name="hfb_succ_result">感谢您使用通信账户支付服务。</string>
      <string name="label_balance">Баланс:</string>
      <string name="label_order_name">Продукт:</string>
      <string name="label_order_price">Цена:</string>
@@ -176,9 +194,17 @@
      <string name="msg_picker_hint_1_2">Пополнение через СМС, может быть дороже: &lt;font color=red>%1$d юань = %2$d MiCredit&lt;/font></string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="msg_picker_hint_2_1">2.</string>
+     <!-- The count of MNPS does not match! Now: 0 must: 1
+	%s: 0 must: 1
+	%d: 0 must: 0 -->
+     <!-- Original string: Carriers charge a ￥%1$s service fee per top-up -->
      <string name="msg_picker_hint_2_2">За каждую  SMS взимается плата, согласно тарифу вашего оператора</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="msg_picker_hint_3_1">3.</string>
+     <!-- The count of MNPS does not match! Now: 0 must: 1
+	%s: 0 must: 1
+	%d: 0 must: 0 -->
+     <!-- Original string: Maximum monthly top-up: ￥%1$s -->
      <string name="msg_picker_hint_3_2">Максимальная сумма пополнения 300 юаней в месяц</string>
      <string name="msg_progress_hint_2_1">Поставщик услуг успешно ответил</string>
      <string name="msg_progress_hint_2_2">Скоро поступит текствоое подтверждение</string>
@@ -235,6 +261,10 @@
      <string name="progress_submit_hint">Пополнение будет зачислено в течение 3х минут</string>
      <string name="progress_submit_recharge_summary">Пополнение: %1$s MiCredits</string>
      <string name="progress_submit_title">Запрос подтвержден</string>
+     <!-- The count of MNPS does not match! Now: 0 must: 2
+	%s: 0 must: 2
+	%d: 0 must: 0 -->
+     <!-- Original string: %1$s MiCredits recharged，%2$s MiCredits paied -->
      <string name="progress_success_pay_summary">Ваш заказ был успешно оплачен!</string>
      <string name="progress_success_pay_title">Оплата %1$s MiCredit завершена</string>
      <string name="progress_success_recharge_summary">Баланс: %1$s MiCredits</string>
@@ -251,6 +281,10 @@
      <string name="recharge_grid_edit_hint">Размер (юань)</string>
      <string name="recharge_grid_edit_limit">%1$s~%2$s юань</string>
      <string name="recharge_grid_edit_upper_limit">Не может превышать %1$s юань</string>
+     <!-- The count of MNPS does not match! Now: 2 must: 2
+	%s: 0 must: 2
+	%d: 2 must: 0 -->
+     <!-- Original string: Please enter the correct amount between ￥%1$s~%2$s -->
      <string name="recharge_grid_error_denomination">Введите корректный размер пополнения (%1$d~%2$dRMB)</string>
      <string name="recharge_grid_picker_hint">Выберите размер пополнения</string>
      <string name="recharge_group_favorite">Используемые методы пополнения</string>

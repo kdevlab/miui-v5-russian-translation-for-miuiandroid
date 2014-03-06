@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Builded with CloudBuildr -->
+<!-- Builded with NXT -->
 <resources>
      <string name="access_denied">доступ запрещен</string>
      <string name="access_token_expired_warning">Аккаунт Weibo истек. Пожалуйста, переподключите.</string>

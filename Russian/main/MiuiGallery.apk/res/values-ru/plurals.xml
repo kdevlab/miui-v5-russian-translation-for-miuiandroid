@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Builded with CloudBuildr -->
+<!-- Builded with NXT -->
 <resources>
      <plurals name="number_of_cloudimages">
         <item quantity="other">Изображений: %1$d</item>

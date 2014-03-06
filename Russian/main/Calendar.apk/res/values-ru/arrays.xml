@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Builded with CloudBuildr -->
+<!-- Builded with NXT -->
 <resources>
      <string-array name="availability">
         <item>Занят</item>
@@ -74,9 +74,9 @@
         <item>Сообщение</item>
         <item>Будильник</item>
      </string-array>
-     <!-- The size of the array does not match! Now: 18 must: 17 -->
      <string-array name="reminder_minutes_labels">
         <item>По факту</item>
+        <item>За 0 минут</item>
         <item>За 1 минуту</item>
         <item>За 5 минут</item>
         <item>За 10 минут</item>

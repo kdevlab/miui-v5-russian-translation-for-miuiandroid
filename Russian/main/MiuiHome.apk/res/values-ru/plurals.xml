@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Builded with CloudBuildr -->
+<!-- Builded with NXT -->
 <resources>
      <plurals name="uninstall_dialog_title_format">
         <item quantity="other">Удалить приложение %1$s и %2$d других?</item>
