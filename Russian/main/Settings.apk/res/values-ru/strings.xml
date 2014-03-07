@@ -905,14 +905,14 @@
      <string name="deep_clean_summary_install_apps_virus">%s | содержит вирус</string>
      <string name="deep_clean_tips_cache">iconНекоторые приложения используют файлы кэша для загрузки дополнительных данных (тексты песен, музыка или изображения). Будьте внимательны при удалении этих файлов.</string>
      <string name="deep_clean_tips_cache_content">"Некоторые приложения используют файлы кэша для загрузки дополнительных ресурсов. Будьте осторожны при очистке этих файлов."</string>
-     <string name="deep_clean_tips_cache_title">Кешированные файлы</string>
+     <string name="deep_clean_tips_cache_title">Кэшированные файлы</string>
      <string name="deep_clean_tips_large_file">iconБольшие файлы - файлы больше 10 МБ которые хранится на устройстве. Вы сами решатете, нужны ли они или нет.</string>
      <string name="deep_clean_tips_large_file_content">Большие файлы (более 10 МБ), которые занимают место на устройстве</string>
      <string name="deep_clean_tips_large_file_title">Большие файлы</string>
      <string name="deep_clean_tips_residual">iconОстаточные файлы (видео, обои, музыка и т.д.), которые были загружены на SD-карту устройства приложениями, которые уже удалены. Будьте внимательны при удалении этих файлов, т.к. некоторые из них возможно нужны Вам.</string>
      <string name="deep_clean_tips_residual_content">"Остаточные файлы, которые были загружены на SD-карту устройства приложениями, которые уже удалены"</string>
      <string name="deep_clean_tips_residual_title">Мусор</string>
-     <string name="deep_clean_title_cache">Кеш</string>
+     <string name="deep_clean_title_cache">Кэш</string>
      <string name="deep_clean_title_large_file">Файлы</string>
      <string name="deep_clean_title_residual">Мусор</string>
      <string name="deep_clean_title_uninstall_apps">Приложения</string>
