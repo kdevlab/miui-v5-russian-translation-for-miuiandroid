@@ -1515,10 +1515,10 @@
      <string name="ipo_summary_on">Отключить быструю загрузку</string>
      <string name="ipo_title">Быстрая загрузка</string>
      <string name="item_app_permission">Разрешения приложений</string>
-     <string name="item_garbage_size_1000m">1 Гб</string>
-     <string name="item_garbage_size_100m">100 Мб</string>
-     <string name="item_garbage_size_300m">300 Мб</string>
-     <string name="item_garbage_size_500m">500 Мб</string>
+     <string name="item_garbage_size_1000m">1 ГБ</string>
+     <string name="item_garbage_size_100m">100 МБ</string>
+     <string name="item_garbage_size_300m">300 МБ</string>
+     <string name="item_garbage_size_500m">500 МБ</string>
      <string name="item_garbage_time_3d">Каждые 3 дня</string>
      <string name="item_garbage_time_7d">Каждые 7 дней</string>
      <string name="item_garbage_time_daily">Ежедневно</string>
