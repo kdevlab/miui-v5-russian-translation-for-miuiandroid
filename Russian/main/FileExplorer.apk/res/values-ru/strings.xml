@@ -8,7 +8,7 @@
      <string name="adding_upload_tasks">Добавление задачи загрузки</string>
      <string name="already_signin_description">Войти можно только один раз в день, приходите завтра :)</string>
      <string name="app_cache_cleanup_indication">%s кеша</string>
-     <string name="app_cache_title">Кеш приложений</string>
+     <string name="app_cache_title">Кэш приложений</string>
      <string name="app_garbage_cleanup_indication">%s мусора</string>
      <string name="app_garbage_path">Путь:</string>
      <string name="app_garbage_title">Мусор от приложений</string>
@@ -20,7 +20,7 @@
      <string name="bind_account_summary">Если у Вас уже есть учетная запись kuaipan, то ее можно привязать к учетной записи Xiaomi, чтобы синхронизировать данные</string>
      <string name="binded_accout_description">Эти два аккаунта были объединены. Теперь Вы можете войти используя либо аккаунт Xiaomi, либо аккаунт Kuaipan. В них обоих будут одни и теже файлы.</string>
      <string name="binded_accout_title">В настоящее время Вы уже связаны с учетной записью KuaiPan</string>
-     <string name="cache_size_label">Кеш</string>
+     <string name="cache_size_label">Кэш</string>
      <string name="cancel">Отмена</string>
      <string name="cancel_app_garbage_cleanup">Не очищать</string>
      <string name="cancel_with_count_down">Отмена (%d)</string>

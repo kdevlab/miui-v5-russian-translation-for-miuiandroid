@@ -77,7 +77,7 @@
      <string name="cant_delete_system_album">\"%s\" системный альбом, который не может быть удален.</string>
      <string name="cleaning_cache">Очистка кэша…</string>
      <string name="clear_thumbnail_cache">Очистить кэш</string>
-     <string name="clear_thumbnail_cache_confirm">Кеш миниатюр будет очищен. Галерея пересканирует все файлы и пересоздаст миниатюры снова. Это повлияет на скорость работы приложения.</string>
+     <string name="clear_thumbnail_cache_confirm">Кэш миниатюр будет очищен. Галерея пересканирует все файлы и пересоздаст миниатюры снова. Это повлияет на скорость работы приложения.</string>
      <string name="clear_thumbnail_cache_summary">Очистить эскизы изображений, созданных при просмотре изображений в галерее</string>
      <string name="click_to_enter_camera">Нет фото и видео</string>
      <string name="click_top_right">Нажмите на иконку здесь</string>
