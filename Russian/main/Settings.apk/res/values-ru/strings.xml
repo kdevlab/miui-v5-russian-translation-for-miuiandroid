@@ -2379,7 +2379,7 @@
      <string name="pref_summary_garbage_cleanup_check_time">Уведомлять, когда мусор достигает определенного размера</string>
      <string name="pref_title_auto_update_cleanup_db">Автообновление</string>
      <string name="pref_title_garbage_cleanup_check_size">Размер мусора</string>
-     <string name="pref_title_garbage_cleanup_check_time">Уведомление у мусоре</string>
+     <string name="pref_title_garbage_cleanup_check_time">Уведомление о мусоре</string>
      <string name="pref_title_manual_check_cleanup_db_update">Обновить</string>
      <string name="pref_volume_wake_summary">Нажатие клавиш регулировки громкости в заблокированном состоянии разбудит устройство</string>
      <string name="pref_volume_wake_title">Пробуждать устройство</string>
