@@ -91,6 +91,7 @@
      <string name="menu_settings">Настройки</string>
      <string name="menu_share">Поделиться</string>
      <string name="menu_trend">Тенденция</string>
+	 <string name="network_unavailable">Сеть недоступна</string>
      <string name="save_screen_shot_failed">Ошибка сохранения скриншота</string>
      <string name="selected_format">Выбрано: %d</string>
      <string name="send_sms_notification">Пересылка информации о погоде</string>
@@ -129,6 +130,7 @@
      <string name="tip_weather_info_title_2">%1$s температура сегодня оценивается в %2$s</string>
      <string name="trend_weather_today">Сегодня</string>
      <string name="trend_weather_tomorrow">Завтра</string>
+	 <string name="weather_data_unreachable">Не удалось получить информацио о погоде. Попробуйте позже.</string>
      <string name="weather_notification">Уведомления погоды</string>
      <string name="weather_unit_middle">~</string>
      <string name="weather_unit_with_c">°C</string>

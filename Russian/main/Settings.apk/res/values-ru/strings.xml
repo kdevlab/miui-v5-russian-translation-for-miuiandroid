@@ -168,7 +168,7 @@
      <string name="additional_system_update_menu">""</string>
      <string name="additional_system_update_settings_list_item_title">Дополнительные обновления системы</string>
      <string name="adjust_3d_depth_title">Регулировка глубины 3D игр</string>
-     <string name="advanced_settings">Расширенные настройки</string>
+     <string name="advanced_settings">Дополнительные настройки</string>
      <string name="advanced_settings_summary">Включить дополнительные настройки</string>
      <string name="agps_OK">ОК</string>
      <string name="agps_disable_on_reboot">Отключить после перезагрузки</string>
@@ -617,7 +617,7 @@
      <string name="bluetooth_visibility">Видимость</string>
      <string name="bluetooth_visibility_timeout">Тайм-аут видимости</string>
      <string name="bluetooth_visibility_timeout_summary">Укажите, в течение какого времени устройство будет видимым</string>
-     <string name="breathing_light_color_menu_title">Светлый цвет</string>
+     <string name="breathing_light_color_menu_title">Выберите цвет</string>
      <string name="breathing_light_color_summary">Цвет светодиода для уведомлений</string>
      <string name="breathing_light_color_title">" (цвет)"</string>
      <string name="breathing_light_freq_summary">Интервал мигания светодиода</string>
@@ -2599,7 +2599,7 @@
      <string name="screen">Экран</string>
      <string name="screen_button_custom">Позиция экранных кнопок</string>
      <string name="screen_button_key">Экранные кнопки</string>
-     <string name="screen_color_temperature">Цветовая температура</string>
+     <string name="screen_color_temperature">Температура цвета</string>
      <string name="screen_color_temperature_and_saturation">Цветовая температура и насыщенность</string>
      <string name="screen_color_temperature_and_saturation_adjust">Настройки цветовой температуры и насыщенности</string>
      <string name="screen_compatibility_label">Совместимость с экраном</string>
@@ -2995,13 +2995,13 @@
      <string name="toast_shortcut_uninstall">Ярлык удален</string>
      <string name="total_size">всего %s</string>
      <string name="total_size_label">Всего</string>
-     <string name="touch_sensitive_summary">Повышает чувствительность сенсора для обеспечения лучшего пользования в перчатках</string>
+     <string name="touch_sensitive_summary">Повышает чувствительность сенсора для лучшего использования устройства в перчатках</string>
      <string name="touch_sensitive_title">Режим \"В перчатках\"</string>
      <string name="touch_sensitive_turn_off_cancel">Отмена</string>
      <string name="touch_sensitive_turn_off_confirm">ОК</string>
      <string name="touch_sensitive_turn_off_summary">Отключить выбранный режим?</string>
      <string name="touch_sensitive_turn_off_title">Отключить режим \"В перчатках\"</string>
-     <string name="touch_title">Нажатие</string>
+     <string name="touch_title">Наcтройки нажатия</string>
      <string name="track_frame_time">Время отрисовки</string>
      <string name="track_frame_time_summary">Вычислять время отрисовки в adb shell dumpsys gfxinfo</string>
      <string name="trackball_settings">Трекбол</string>
@@ -3437,7 +3437,7 @@
      <string name="wifi_advanced_ipv6_address_title">IPv6 адрес</string>
      <string name="wifi_advanced_mac_address_title">MAC-адрес</string>
      <string name="wifi_advanced_settings_label">Настройки IP</string>
-     <string name="wifi_advanced_titlebar">Дополнительно</string>
+     <string name="wifi_advanced_titlebar">Дополнительные настройки</string>
      <string name="wifi_and_mobile_skipped_message">ВНИМАНИЕ: устройство не может проверить, что программное обеспечение в актуальном состоянии</string>
      <string name="wifi_ap_bandwidth_KbyteShort">Кб/с</string>
      <string name="wifi_ap_bandwidth_chart_summary">Скорость телефона и оператора может отличаться.</string>
@@ -3528,6 +3528,7 @@
      <string name="wifi_gateway">Шлюз</string>
      <string name="wifi_gprs_selector_title">Переключение сети</string>
      <string name="wifi_hex_password">Шестнадцатеричный пароль</string>
+	 <string name="wifi_install_credentials">Установить сертификаты</string>
      <string name="wifi_in_airplane_mode">Режим полета</string>
      <string name="wifi_ip_address">IP-адрес</string>
      <string name="wifi_ip_settings">Настройки IP</string>
@@ -3646,6 +3647,8 @@
      <string name="wifi_setup_title_editing_network">Подключение к сети Wi-Fi %s</string>
      <string name="wifi_setup_wizard_title">Выбор Wi-Fi</string>
      <string name="wifi_setup_wps">Автонастройка (WPS)</string>
+	 <string name="wifi_scan_always_available">Сканировать всегда</string>
+     <string name="wifi_scan_always_available_summary">Cлужбы местоположения Google и других приложений будут сканировать доступные сети, даже если Wi-Fi выключен</string>
      <string name="wifi_share">Поделиться Wi-Fi</string>
      <string name="wifi_share_action_turn_off">Прекратить делиться Wi-Fi</string>
      <string name="wifi_share_action_turn_on">Поделиться Wi-Fi</string>

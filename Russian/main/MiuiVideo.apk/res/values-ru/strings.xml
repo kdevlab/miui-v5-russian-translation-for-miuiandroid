@@ -240,6 +240,7 @@
      <string name="offline_setting">Оффлайн медиа</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="ok">OK</string>
+	 <string name="online_video">Онлайн</string>
      <string name="open_camera">Камера</string>
      <string name="other_setting">Прочие</string>
      <string name="others">Прочие</string>
@@ -286,6 +287,7 @@
      <string name="souhu">Souhu</string>
      <string name="special_subject">Специальные</string>
      <string name="start_download">Скачать</string>
+	 <string name="start_time">время начала</string>
      <string name="subchannel_all">Все</string>
      <string name="success_add_myfavorite">Добавлено в избранное</string>
      <string name="success_cancel_myfavorite">Убрано из избранного</string>
@@ -329,15 +331,20 @@
      <string name="video_info_video_coding_label">Видео кодек:</string>
      <string name="video_library">Видео</string>
      <string name="view_all_reviews">Еще %d коммен.</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="vp_VideoView_error_button">OK</string>
      <string name="vp_VideoView_error_network_not_available">Сеть не доступна</string>
      <string name="vp_VideoView_error_text_invalid_progressive_playback">Невозможно воспроизвести видео</string>
      <string name="vp_VideoView_error_text_unknown">Формат видео не поддерживается</string>
      <string name="vp_VideoView_error_title">Ошибка воспроизведения!</string>
+	 <string name="vp_full_high_definition">1080P</string>
+     <string name="vp_high_definition">HD</string>
+     <string name="vp_next_ci">Следующий эпизод</string>
+     <string name="vp_offline">Офлайн</string>
+     <string name="vp_select_ci">Антология</string>
+     <string name="vp_standard_definition">SD</string>
+     <string name="vp_super_definition">UHD</string>
      <string name="waitfornewset">Следовать</string>
      <string name="waitfornewset_tip_content">Вы будете уведомлены, когда новый эпизод или дополнительный контент будет доступен</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="will_live_status">Live</string>
      <string name="write_comment">Добавить</string>
      <string name="xiaomi_account_type_unsupported">Ваша система не поддерживает аккаунт Xiaomi</string>
