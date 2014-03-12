@@ -10,6 +10,13 @@
         <item>Местонахождение:</item>
         <item>Хобби:</item>
      </string-array>
+	 <string-array name="average_score_star">
+        <item>1 звезда</item>
+        <item>2 звезды</item>
+        <item>3 звезды</item>
+        <item>4 звезды</item>
+        <item>5 звезд</item>
+     </string-array>
      <string-array name="constellations">
         <item>Овен</item>
         <item>Телец</item>

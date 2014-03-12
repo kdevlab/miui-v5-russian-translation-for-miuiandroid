@@ -23,10 +23,14 @@
      <string name="app_comments">Комментарии</string>
      <string name="app_comments_title">Комментариев: %1$s</string>
      <string name="app_detail_install">Установ.</string>
+	 <string name="app_detail_tab_rating">Топ</string>
      <string name="app_name">Игры</string>
      <string name="apply_check_info_empty">Необходимо заполнить информацию.</string>
      <string name="ask_customer">Просим помочь</string>
      <string name="auto_location">Найдите автоматически</string>
+	 <string name="average_score">Оценок</string>
+     <string name="average_score_no_comment">Нет оценок</string>
+     <string name="average_score_person">Игроков: %d</string>
      <string name="background_install_failed">Установка в фоне не удалась</string>
      <string name="bad_comments">Негативные</string>
      <string name="button_refresh">Обновить</string>
@@ -85,6 +89,7 @@
      <string name="connect_network_settings">Настройки</string>
      <string name="connect_no_fit_fail">%1$s - установка не удалась: нет подходящих пакетов установки для вашего телефона</string>
      <string name="connecting">подключение</string>
+	 <string name="copy">Копировать</string>
      <string name="copy_success">Скопировано!</string>
      <string name="credit_center">Кредит-центр</string>
      <string name="data_package">_DataPackage</string>
@@ -159,6 +164,7 @@
      <string name="female">Женский</string>
      <string name="from_camre">Взять фото</string>
      <string name="from_file">выбрать из альбома</string>
+	 
      <string name="game_date_version_name">%1$d-%2$d- релиз v%3$s</string>
      <string name="game_detail_developer">Разработчик:</string>
      <string name="game_detail_fee_type_1">В-App Purchase</string>
@@ -202,14 +208,11 @@
      <string name="gift_free_need">Бесплатно</string>
      <string name="gift_getOver_text">GamePack получил!</string>
      <string name="gift_in_time_come">(Подождите)</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="gift_in_time_d">d</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="gift_in_time_h">h</string>
+     <string name="gift_in_time_d">д</string>
+     <string name="gift_in_time_h">ч</string>
      <string name="gift_in_time_m">м</string>
      <string name="gift_in_time_over">(Слева)</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="gift_in_time_s">s</string>
+     <string name="gift_in_time_s">с</string>
      <string name="gift_intime_youxiaoqi">Срок его действия истекает в %s</string>
      <string name="gift_list_title">GamePack контента</string>
      <string name="gift_need">%d pts</string>
@@ -217,18 +220,15 @@
      <string name="gift_received_progress">Подарочная упаковка прогресс</string>
      <string name="gift_time_day"> дней</string>
      <string name="gift_time_future">Оставшееся время:</string>
-     <!-- The count of MNPS does not match! Now: 2 must: 2
-	%s: 0 must: 0
-	%d: 0 must: 2 -->
-     <!-- Original string: Time remaining: %1$ddays%2$dhrs -->
-     <string name="gift_time_future_day_format" formatted="false">Оставшееся время: %1$дней,% 2$dhrs</string>
-     <string name="gift_time_future_hour_format">Оставшееся время: %dhrs</string>
-     <string name="gift_time_future_minute_format">Оставшееся время: %dmins</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="gift_time_hour">hrs</string>
+     <string name="gift_time_future_day_format" formatted="false">Оставшееся время: %1$d дн.,% 2$d ч.</string>
+     <string name="gift_time_future_hour_format">Оставшееся время: %dч.</string>
+     <string name="gift_time_future_minute_format">Оставшееся время: %d мин.</string>
+     <string name="gift_time_hour">ч.</string>
      <string name="gift_time_minute">мин.</string>
      <string name="gift_time_normal_format">Оставшееся время: %s</string>
      <string name="gift_will_coming">Скоро</string>
+	 <string name="giveup_download_dialog_content">Удалить эту загрузку?</string>
+     <string name="giveup_download_dialog_title">Удаление загрузки</string>
      <string name="good_comments">Позитивные</string>
      <string name="head_text_login">Войти в аккаунт XiaoMi</string>
      <string name="header_processing">Подготовка загрузки</string>

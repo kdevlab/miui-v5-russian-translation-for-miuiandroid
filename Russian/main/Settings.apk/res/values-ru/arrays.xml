@@ -296,6 +296,11 @@
         <item>IMSI</item>
         <item>GID</item>
      </string-array>
+	 <string-array name="network_speed_slow_summary">
+        <item>Медленная скорость из-за слишком большого трафика</item>
+        <item>Скорость медленная из-за слабого сигнала</item>
+        <item>Перемещение…</item>
+     </string-array>
      <string-array name="overlay_display_devices_entries">
         <item>Нет</item>
         <item>720x480</item>
