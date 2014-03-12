@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="new_search_engines">
+        <item>--</item>
+        <item>google--Google--google.com--search_engine_google--http://www.google.com/m?hl={language}&amp;ie={inputEncoding}&amp;source=android-browser&amp;q={searchTerms}--UTF-8--http://www.google.com/complete/search?hl={language}&amp;json=true&amp;q={searchTerms}</item>
+        <item>yandex_ru--Яндекс--yandex.ru--search_engine_yandex--http://yandex.ru/yandsearch?text={searchTerms}--UTF-8--http://suggest.yandex.net/suggest-ff.cgi?part={searchTerms}</item>
+        <item>mail_ru--@MAIL.RU--mail.ru--search_engine_mail--http://go.mail.ru/search?q={searchTerms}--windows-1251--nil</item>
+        <item>tut--TUT.BY--tut.by--search_engine_tut--http://search.tut.by/?query={searchTerms}--windows-1251--nil</item>
+        <item>rambler--Rambler--rambler.ru--search_engine_rambler--http://www.rambler.ru/srch?words={searchTerms}--windows-1251--nil</item>
+        <item>bing_ru_RU--Bing--bing.com--search_engine_bing--http://www.bing.com/search?setmkt=ru-RU&amp;q={searchTerms}--UTF-8--http://api.bing.com/osjson.aspx?query={searchTerms}&amp;language={language}</item>
+    </string-array>
+</resources>

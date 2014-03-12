@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SIM Сервис</string>
+    <string name="activity_not_found">Приложение не установлено.</string>
+    <string name="simlock_toolkit">SIM Сервис</string>
+    <string name="no_sim_card_inserted">Вставьте SIM карту для запуска SIM Сервис.</string>
+    <string name="airplane_mode_on">Невозможно запустить SIM Сервис в режиме \"В самолете\".</string>
+</resources>

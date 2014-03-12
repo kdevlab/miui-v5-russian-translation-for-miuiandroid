@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="stock_settings">Дополнительные настройки</string>
+    <string name="select_memory">Место для записи по-умолчанию</string>
+    <string name="dlg_default_write_disk_change_title">Настройки памяти по-умолчанию</string>
+    <string name="dlg_default_write_disk_change_msg">Изменения вступят в силу после перезагрузки!</string>
+    <string name="dlg_default_write_disk0_change_msg">"При выборе памяти SD, приложения, которые установлены в USB накопитель отключатся и устройство перезагрузится, выбрать память SD для хранения по умолчанию?"</string>
+    <string name="dlg_default_write_disk1_change_msg">"При выборе памяти USB, приложения, которые установлены в SD накопитель отключатся и устройство перезагрузится, выбрать память USB для хранения по умолчанию?"</string>
+    <string name="led_settings">LED-индикация</string>
+</resources>

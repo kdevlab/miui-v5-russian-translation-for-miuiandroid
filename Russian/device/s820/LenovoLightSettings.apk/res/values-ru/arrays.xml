@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="light_breath_cycle_entries">
+        <item>15 минут</item>
+        <item>30 минут</item>
+        <item>60 минут</item>
+        <item>90 минут</item>
+    </string-array>
+    <string-array name="light_color_entries">
+        <item>цвет 1</item>
+        <item>цвет 2</item>
+        <item>цвет 3</item>
+        <item>цвет 4</item>
+        <item>цвет 5</item>
+        <item>цвет 6</item>
+        <item>цвет 7</item>
+    </string-array>
+</resources>
