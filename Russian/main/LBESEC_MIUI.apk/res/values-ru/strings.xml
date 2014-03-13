@@ -89,7 +89,7 @@
      <string name="HIPS_Perm_CallState">Состояние телефона</string>
      <string name="HIPS_Perm_CallState_Desc">Получить состояние телефона</string>
      <string name="HIPS_Perm_CallState_Hint">%1$s приложения, имеющие доступ к состоянию телефона</string>
-     <string name="HIPS_Perm_Call_Desc">Позвонить, ответить или оклонить телефонные звонки</string>
+     <string name="HIPS_Perm_Call_Desc">Позвонить, ответить или отклонить телефонные звонки</string>
      <string name="HIPS_Perm_Call_Hint">%1$s Приложения, имеющие доступ чтобы позвонить, ответить на звонки или отклонить их</string>
      <string name="HIPS_Perm_Call_Number">звонок %1$s</string>
      <string name="HIPS_Perm_CancelMissedCalls">очистка информации о непринятых звонках</string>
