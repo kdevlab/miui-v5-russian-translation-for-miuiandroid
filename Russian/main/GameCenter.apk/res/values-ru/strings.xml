@@ -60,7 +60,7 @@
      <string name="choose_use_app">Полное действие с помощью</string>
      <string name="clear_search_history_success">История поиска очищена</string>
      <string name="click_again_exit_app">Нажмите еще раз для выхода</string>
-     <string name="click_to_messagecenter">Нажмите для Просмотра Сообщения</string>
+     <string name="click_to_messagecenter">Нажмите для просмотра сообщений</string>
      <string name="client_do_not_update_now">Обновление позже</string>
      <string name="client_download_start">Загрузка</string>
      <string name="client_update_now">Обновить</string>
@@ -160,7 +160,7 @@
      <string name="feedback_general_OpenVIP_Btn">Как стать VIP</string>
      <string name="feedback_general_OpenVIP_Des">VIP LVL 4 членов можете получить один на один поддержку и можете воспользоваться нашими услугами горячей линии</string>
      <string name="feedback_less_than4">Xiaomi Игры обслуживания клиентов</string>
-     <string name="feedback_title">Онлайн-поддержка</string>
+     <string name="feedback_title">Поддержка</string>
      <string name="female">Женский</string>
      <string name="from_camre">Взять фото</string>
      <string name="from_file">выбрать из альбома</string>
@@ -195,8 +195,8 @@
      <string name="gift_apply_voice_two">2. Мы вышлем GamePacks в ближайшее время. Однажды GamePacks были отправлены, вы можете просмотреть GamePack информация здесь.</string>
      <string name="gift_bag_activity_over">Истек</string>
      <string name="gift_bag_need_integral_to_gain">%s очков</string>
-     <string name="gift_bag_no_bag_left">Все ушли</string>
-     <string name="gift_bag_will_begin">Cooming скоро!</string>
+     <string name="gift_bag_no_bag_left">Все закончилось</string>
+     <string name="gift_bag_will_begin">Скоро!</string>
      <string name="gift_by_jifen">Использовать очки</string>
      <string name="gift_cdkey_voice">Инструкции:</string>
      <string name="gift_cdkey_voice_one">1. Пожалуйста, используйте игру ключ сразу, чтобы избежать потерь.</string>
@@ -214,7 +214,7 @@
      <string name="gift_in_time_over">(Слева)</string>
      <string name="gift_in_time_s">с</string>
      <string name="gift_intime_youxiaoqi">Срок его действия истекает в %s</string>
-     <string name="gift_list_title">GamePack контента</string>
+     <string name="gift_list_title">GamePack содержит:</string>
      <string name="gift_need">%d pts</string>
      <string name="gift_reGet_text">Все пропало! Следите за новой пакеты завтра!</string>
      <string name="gift_received_progress">Подарочная упаковка прогресс</string>
@@ -358,8 +358,8 @@
      <string name="need_update_game">Войдите, чтобы управлять обновлениями</string>
      <string name="new_app_tag">Новые</string>
      <string name="new_cat_tag">Новые</string>
-     <string name="no_after_end">Истек в %s</string>
-     <string name="no_after_start">Начинается в %s</string>
+     <string name="no_after_end">Истечет через %s</string>
+     <string name="no_after_start">Начнется через %s</string>
      <string name="no_card_number">Номер карты не может быть пустым</string>
      <string name="no_card_psw">Пожалуйста, введите пароль</string>
      <string name="no_change_log">Нет списка изменений</string>
@@ -371,7 +371,7 @@
      <string name="no_gift">Нет пакетов.</string>
      <string name="no_local_apps">Нет установленных приложений</string>
      <string name="no_local_game">Нет установленных игр</string>
-     <string name="no_meiyoule">Все ушли</string>
+     <string name="no_meiyoule">Все закончилось</string>
      <string name="no_network">Нет доступа в интернет. Проверьте сеть и попробуйте обновить :)</string>
      <string name="no_network_no_comment">нет подключения к сети</string>
      <string name="no_purchase_record">Нет записей о Ваших покупках</string>
@@ -459,8 +459,8 @@
      <string name="recharge_proxy">Прокси бесплатно</string>
      <string name="recharge_success">Успешно пополнено!</string>
      <string name="recharging">Ожидание обработки…</string>
-     <string name="remain_text">Остальные:</string>
-     <string name="remain_text_withnum">%s влево</string>
+     <string name="remain_text">Осталось:</string>
+     <string name="remain_text_withnum">Осталось %s</string>
      <string name="remove_package_timeout_fail">%1$s установка не выполнена. Пожалуйста, вручную удалите клиент перед обновлением до последней версии.</string>
      <string name="save_photo_fail">Ошибка сохранения фото</string>
      <string name="save_photo_success">Фото успешно сохранено</string>
@@ -470,16 +470,16 @@
      <string name="service_of_customer_info">Сервис Инфо</string>
      <string name="service_of_day_integral">每日积分</string>
      <string name="service_of_exclusive_customer">VIP-Ассистент</string>
-     <string name="service_of_feedbakc_online">Онлайн-поддержка</string>
+     <string name="service_of_feedbakc_online">Поддержка</string>
      <string name="service_of_issue_track">Прогресс</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="service_of_jf_shop">GPs</string>
+     <string name="service_of_jf_shop">GP</string>
      <string name="service_of_my_customer">Сервис</string>
-     <string name="service_of_my_gifts">Мой GPs</string>
+     <string name="service_of_my_gifts">Мои GP</string>
      <string name="service_of_my_level">Уровень</string>
      <string name="service_of_my_page">Изменить Профиль</string>
      <string name="service_of_my_vip">Мой Профиль</string>
-     <string name="service_of_online_customer">Онлайн-поддержка</string>
+     <string name="service_of_online_customer">Поддержка</string>
      <string name="service_of_quarter_gift">Ежеквартально GamePacks</string>
      <string name="share_button">Отправить другу</string>
      <string name="share_subject">Отправить приложение： %1$s</string>
@@ -536,7 +536,7 @@
      <string name="update_account_fail">Не удалось сохранить профиль</string>
      <string name="update_account_success">Профиль успешно сохранен</string>
      <string name="update_all">Обновить все</string>
-     <string name="update_bonus_rule">Обновления и получить очки!</string>
+     <string name="update_bonus_rule">Повысьте уровень и получите очки!</string>
      <string name="update_date">%3$02d-%2$02d-%1$d</string>
      <string name="update_date_label">Обновлено:</string>
      <string name="update_game_item_current_version">Сейчас: %s</string>
@@ -553,9 +553,9 @@
      <string name="upgrade_game_head">Обновить все (%d)</string>
      <string name="user_info_page_field_mask_birthday">День рождения: %s</string>
      <string name="user_info_page_field_mask_city">Город: %s</string>
-     <string name="user_info_page_field_mask_noanything">Нажмите, чтобы изменить ваш user info</string>
+     <string name="user_info_page_field_mask_noanything">Нажмите, чтобы изменить информацию о пользователе</string>
      <string name="user_info_page_field_mask_qq">QQ: %s</string>
-     <string name="user_info_page_field_mask_sex">Секс: %s</string>
+     <string name="user_info_page_field_mask_sex">Пол: %s</string>
      <string name="user_info_page_field_mask_tel">Мобильный: %s</string>
      <string name="user_name_invalid">Имя пользователя не может быть пустым</string>
      <string name="user_name_or_psw_empty">Имя пользователя или пароль пуст</string>
@@ -566,8 +566,8 @@
      <string name="view_more_gift">Подробнее</string>
      <string name="vip_club">VIP-клуб</string>
      <string name="vip_description_info">Описание</string>
-     <string name="vip_gift_empty_button_receive">A A Получить GamePack A A</string>
-     <string name="vip_gift_empty_receive">"Вы не имеете никакого GamePacks"</string>
+     <string name="vip_gift_empty_button_receive">Получить GamePack</string>
+     <string name="vip_gift_empty_receive">"У вас нет ни одного GamePack'а"</string>
      <string name="vip_home_all_privilege">Просмотреть все преимущества VIP</string>
      <string name="vip_home_birthday">День рождения: %s</string>
      <string name="vip_home_birthday_none">День рождения:</string>
@@ -578,7 +578,7 @@
      <string name="vip_home_level_rule">VIP членство</string>
      <string name="vip_home_miliao">MiTalk: %s</string>
      <string name="vip_home_miliao_none">MiTalk: нет</string>
-     <string name="vip_home_need_exp">&lt;font color=\"#2a2a2a\">&lt;/font>&lt;font color=#fd8000>%d&lt;/font>&lt;font color=\"#2a2a2a\"> pts до обновления.&lt;/font></string>
+     <string name="vip_home_need_exp">&lt;font color=\"#2a2a2a\">&lt;/font>&lt;font color=#fd8000>%d&lt;/font>&lt;font color=\"#2a2a2a\"> pts до повышения.&lt;/font></string>
      <string name="vip_home_privilege">Преимущества VIP</string>
      <string name="vip_home_qq">QQ: %s</string>
      <string name="vip_home_qq_none">QQ: нет</string>
@@ -593,10 +593,6 @@
      <string name="vip_info_unknown">нет</string>
      <string name="vip_jifen_text">%d Пунктов</string>
      <string name="vip_level_expried_text">Истекает : в%s</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="vip_personal_info_edit_tip1">null</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="vip_personal_info_edit_tip2">null</string>
      <string name="vip_servicer">VIP-Ассистент</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="vip_title_gift">GamePacks</string>
