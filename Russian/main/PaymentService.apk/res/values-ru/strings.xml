@@ -126,8 +126,8 @@
      <string name="giftcard_denom_frozen">MiCredit заморжено</string>
      <string name="giftcard_empty">Нет подарочных карт</string>
      <string name="giftcard_expire">%1$s истекло</string>
-	 <string name="giftcard_expire_notification_prime_title">Yikes! Your promotional code is about to expire …</string>
-     <string name="giftcard_expire_notification_sub_title">Твоя подарочка Mi карта истекает %1$s</string>
+	<string name="giftcard_expire_notification_prime_title">Yikes! Your promotional code is about to expire …</string>
+     <string name="giftcard_expire_notification_sub_title">Ваша MiCard истекает %1$s</string>
      <string name="giftcard_hint">На подарочную карту будут переведены MiCredit. Через определенный срок они будут недействительны.</string>
      <string name="giftcard_push_notification_prime_title">Вы получили подарочный сертификат</string>
      <string name="giftcard_push_notification_sub_title">%1$s: %2$s MiCredit получено</string>

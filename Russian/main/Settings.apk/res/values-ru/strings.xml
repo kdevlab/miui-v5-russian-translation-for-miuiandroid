@@ -1255,7 +1255,7 @@
      <string name="free_wifi_connect_dialog_title">Доступно бесплатное Wi-Fi</string>
      <string name="free_wifi_connect_fail">Ошибка подключения к сети</string>
      <string name="free_wifi_connect_fail2">Не удалось войти. Подождите немного и повторите еще раз.</string>
-     <string name="free_wifi_connect_summary">Это бесплатное Wi-Fi соедеинеие предоставлено %1$s. Нажмите, чтобы подключиться.</string>
+     <string name="free_wifi_connect_summary">Это бесплатное Wi-Fi соединение предоставлено %1$s. Нажмите, чтобы подключиться.</string>
      <string name="free_wifi_connect_title">Доступна Wi-Fi сеть</string>
      <string name="free_wifi_connected">Подключено к бесплатной Wi-Fi сети</string>
      <string name="free_wifi_connected_count">Подключено пользователей: %1$s</string>
