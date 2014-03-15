@@ -778,7 +778,7 @@
     <string name="lockscreen_failed_attempts_almost_at_wipe" formatted="false">Не удалось разблокировать телефон (число попыток: %d). Осталось попыток: %d. После этого будут установлены настройки по умолчанию, что приведет к удалению всех пользовательских данных.</string>
     <string name="lockscreen_failed_attempts_now_wiping">Не удалось разблокировать телефон (число попыток: %d). Будут установлены настройки по умолчанию.</string>
     <string name="lockscreen_too_many_failed_attempts_countdown">Повторите попытку через %d с.</string>
-    <string name="lockscreen_forgot_pattern_button_text">Забыли графический ключ?</string>
+    <string name="lockscreen_forgot_pattern_button_text">Забыли ключ?</string>
     <string name="lockscreen_glogin_forgot_pattern">Снятие блокировки аккаунта</string>
     <string name="lockscreen_glogin_too_many_attempts">Неверный графический ключ</string>
     <string name="lockscreen_glogin_instructions">Чтобы разблокировать устройство, войдите в свой аккаунт Google.</string>

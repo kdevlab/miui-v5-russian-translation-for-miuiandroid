@@ -211,7 +211,7 @@
      <string name="gift_in_time_d">д</string>
      <string name="gift_in_time_h">ч</string>
      <string name="gift_in_time_m">м</string>
-     <string name="gift_in_time_over">(Слева)</string>
+     <string name="gift_in_time_over">Осталось: </string>
      <string name="gift_in_time_s">с</string>
      <string name="gift_intime_youxiaoqi">Срок его действия истекает в %s</string>
      <string name="gift_list_title">GamePack содержит:</string>
@@ -436,7 +436,7 @@
      <string name="pref_title_update_onlyby_wifi">Использовать только Wi-Fi для автоматического обновления</string>
      <string name="price">Цена: %1$s юань</string>
      <string name="privilege_service_title">Услуги</string>
-     <string name="privilege_service_title_introduction">Служба Введений</string>
+     <string name="privilege_service_title_introduction">Описание сервиса</string>
      <string name="psw_invalid">неверный пароль</string>
      <string name="publish_info">%1$s %2$s %3$s</string>
      <string name="pull_to_refresh_footer_pull_label">Проведите пальцем вверх, чтобы посмотреть больше</string>

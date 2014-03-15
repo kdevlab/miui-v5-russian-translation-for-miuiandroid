@@ -505,7 +505,7 @@
 
  Повтор через %d сек."</string>
      <string name="lockscreen_failed_attempts_now_wiping">Вы %d раз не смогли разблокировать телефон. Будут восстановлены заводские настройки.</string>
-     <string name="lockscreen_forgot_pattern_button_text">Забыли графический ключ?</string>
+     <string name="lockscreen_forgot_pattern_button_text">Забыли ключ?</string>
      <string name="lockscreen_glogin_account_recovery_hint">"Забыли имя пользователя или пароль?
 Перейдите на страницу <b>google.com/accounts/recovery</b>."</string>
      <string name="lockscreen_glogin_checking_password">Проверка…</string>

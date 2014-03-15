@@ -384,7 +384,7 @@
 Повтор через %d сек."</string>
      <string name="kg_failed_attempts_almost_at_wipe" formatted="false">Вы %d раз не смогли разблокировать телефон. После %d неверных попыток будут восстановлены заводские настройки, что приведет к удалению всех пользовательских данных.</string>
      <string name="kg_failed_attempts_now_wiping">Вы %d раз не смогли разблокировать телефон. Будут восстановлены заводские настройки.</string>
-     <string name="kg_forgot_pattern_button_text">Забыли графический ключ?</string>
+     <string name="kg_forgot_pattern_button_text">Забыли ключ?</string>
      <string name="kg_invalid_confirm_pin_hint">PIN-коды не совпадают</string>
      <string name="kg_invalid_puk">Введите правильный PUK-код. После нескольких неудачных попыток SIM-карта будет заблокирована.</string>
      <string name="kg_invalid_sim_pin_hint">Введите PIN-код (от 4 до 8 цифр).</string>
@@ -442,7 +442,7 @@
 
  Повтор через %d сек."</string>
      <string name="lockscreen_failed_attempts_now_wiping">Вы %d раз не смогли разблокировать телефон. Будут восстановлены заводские настройки.</string>
-     <string name="lockscreen_forgot_pattern_button_text">Забыли графический ключ?</string>
+     <string name="lockscreen_forgot_pattern_button_text">Забыли ключ?</string>
      <string name="lockscreen_glogin_account_recovery_hint">"Забыли имя пользователя или пароль?
 Перейдите на страницу <b>google.com/accounts/recovery</b>."</string>
      <string name="lockscreen_glogin_checking_password">Проверка…</string>

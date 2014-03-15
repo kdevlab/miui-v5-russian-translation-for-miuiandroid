@@ -18,7 +18,7 @@
      <string name="dlg_clear_blacklist_ok">Очистить</string>
      <string name="dlg_clear_current_call">Удалить все заблокированные вызовы от этого номера?</string>
      <string name="dlg_clear_current_ok">Удалить</string>
-     <string name="dlg_clear_current_sms">Удалить все заблокированные сообщения отправленные этим номером?</string>
+     <string name="dlg_clear_current_sms">Удалить все заблокированные сообщения от этого номера?</string>
      <string name="dlg_delete_keyword">Удалить эти ключевые слова?</string>
      <string name="dlg_delete_vip">Удалить из списка исключений?</string>
      <string name="dlg_edit_keyword">Изменить ключевые слова</string>
