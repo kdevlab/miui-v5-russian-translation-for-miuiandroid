@@ -1894,6 +1894,8 @@
      <string name="music_plus_summary">Улучшение звука для наушников</string>
      <string name="music_plus_title">Режим \"BesAudEnh\"</string>
      <string name="musicfx_title">Звуковые эффекты</string>
+	 <string name="mvno_type">Тип MVNO</string>
+     <string name="mvno_match_data">Значение MVNO</string>
      <string name="nearby_wifi">Доступные сети</string>
      <string name="need_check">Можно оптимизировать…</string>
      <string name="network_assistant">Монитор</string>
