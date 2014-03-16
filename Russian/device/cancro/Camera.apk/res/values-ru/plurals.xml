@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Builded with CloudBuildr -->
 <resources>
-     <plurals name="delete_selection">
+    <plurals name="delete_selection">
         <item quantity="other">Удалить выбранные элементы?</item>
         <item quantity="one">Удалить выбранный элемент?</item>
-     </plurals>
+    </plurals>
 </resources>
