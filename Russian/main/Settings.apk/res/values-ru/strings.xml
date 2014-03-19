@@ -901,7 +901,7 @@
      <string name="debug_layout_summary">Показывать границы, поля и т.д.</string>
      <string name="debug_log">Журнал отладки</string>
      <string name="debug_monitoring_category">Мониторинг</string>
-     <string name="deep_clean_summary_install_apps_interval">%2$d дн. назад</string>
+     <string name="deep_clean_summary_install_apps_interval">%d дн. назад</string>
      <string name="deep_clean_summary_install_apps_new">не запускалось</string>
      <string name="deep_clean_summary_install_apps_risk">содержит риск</string>
      <string name="deep_clean_summary_install_apps_today">запускалось сегодня</string>
