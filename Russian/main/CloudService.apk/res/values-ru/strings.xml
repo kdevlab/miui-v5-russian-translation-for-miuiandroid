@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Builded with NXT -->
 <resources>
-     <string name="app_name">Менеджер аккаунтов Xiaomi</string>
+     <string name="app_name">Синхронизация аккаунтов Xiaomi</string>
      <string name="find_device">Поиск устройства</string>
      <string name="find_device_noise_title">Звук поиска устройства</string>
      <string name="find_device_stop_noise">Нажмите \"OK\", чтобы остановить сигнал</string>

@@ -174,8 +174,8 @@
      <string name="game_detail_title">Подробнее об игре</string>
      <string name="game_editor_choice">Выбор Редактора</string>
      <string name="game_honor_wall">Стена Почета</string>
-     <string name="gamecenter_update_version_new_feature">Клиент, обновленный(v%1$s).</string>
-     <string name="gamecenter_update_version_new_feature_list">нажмите, чтобы увидеть более подробно читайте:)</string>
+     <string name="gamecenter_update_version_new_feature">Клиент обновлен (v%1$s).</string>
+     <string name="gamecenter_update_version_new_feature_list">нажмите для просмотра подробностей</string>
      <string name="gamecenter_upgrade_title">Обновленные.</string>
      <string name="gamedetail_guesst_youlike">Похожие Игры</string>
      <string name="gamedetail_screenshot_img">%1$s Скриншоты</string>
