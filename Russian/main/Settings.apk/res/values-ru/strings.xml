@@ -1620,7 +1620,7 @@
      <string name="link_speed_label">"Скорость: "</string>
 	 <string name="list_sub_view_item_backup_cleanup">Бэкап</string>
      <string name="list_sub_view_item_backup_uninstall">Бэкап</string>
-     <string name="list_sub_view_item_clean">Очистить</string>
+     <string name="list_sub_view_item_clean">Удалить</string>
 	 <string name="list_sub_view_item_cleanup">Очистить</string>
      <string name="list_sub_view_item_install">Уст.</string>
      <string name="list_sub_view_item_lock">Заблок.</string>
@@ -2439,7 +2439,7 @@
 	 <string name="pref_category_title_cleanup_white_list">Настройки белого списка</string>
      <string name="pref_category_title_garbage_cleanup_check">Настройки очистки</string>
 	 <string name="pref_category_title_module_settings">Настройки модулей</string>
-     <string name="pref_category_title_securitycenter_settings">Настройки центра безопасности</string>
+     <string name="pref_category_title_securitycenter_settings">Настройки безопасности</string>
      <string name="pref_operational_key">Клавиши</string>
      <string name="pref_summary_auto_update_cleanup_db">Обновлено: %s</string>
 	 <string name="pref_summary_cleanup_white_list">Мусор в белом списке не будет удаляться</string>
