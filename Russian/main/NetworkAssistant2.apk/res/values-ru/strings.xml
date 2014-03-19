@@ -14,22 +14,16 @@
      <string name="app_version">Версия</string>
      <string name="app_wifi">Wi-Fi</string>
      <string name="background_traffic">Фоновый трафик %s</string>
-     <string name="begin_date">Usage cycle reset date</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="begin_date">Дата начала учета</string>
      <string name="cancel_button">Отмена</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="daily_pkg_traffic">Set peak data usage limit</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="data_usage_correction_timeout_body">Touch to update manually.</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="data_usage_correction_timeout_title">Data usage sync timed out</string>
-     <string name="data_usage_disabled_dialog">"You've reached your data usage limit. 
+     <string name="daily_pkg_traffic">Верхний предел трафика</string>
+     <string name="data_usage_correction_timeout_body">Нажмите для ручного обновления</string>
+     <string name="data_usage_correction_timeout_title">Ошибка синхронизации данных</string>
+     <string name="data_usage_disabled_dialog">"Вы достигли предела использованного трафика. 
 
-Usage in excess of your carrier plan's data limits can result in steep overage charges."</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="data_usage_disabled_dialog_enable">Enable data</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="data_usage_leisure_warning_body">Touch to view data usage details.</string>
+Это может повлечь большие затраты на трафик (в зависимости от вашего оператора)."</string>
+     <string name="data_usage_disabled_dialog_enable">Включить данные</string>
+     <string name="data_usage_leisure_warning_body">Нажмите для просмотра использованного трафика.</string>
      <string name="data_usage_leisure_warning_title">Off-peak data usage limit</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="data_usage_limit_body">Touch to enable mobile data.</string>
@@ -207,87 +201,51 @@ Usage in excess of your carrier plan's data limits can result in steep overage c
      <string name="pref_show_mobile_traffic">When you unlock you phone, show data usage stats for the period when your device has been locked (must be longer than 3 minutes)</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="pref_special_traffic_exceed_limit">Notify me when data usage reaches limit</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="pref_special_traffic_limit_warn">Set data usage warning</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="pref_specified_adjust">Set custom data limit</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="pref_specified_traffic_settings">Data limit settings</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="pref_title_declaration">Important disclaimer</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="pref_title_mobile_traffic">Show data usage while locked</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="pref_special_traffic_limit_warn">Порог предупреждения</string>
+     <string name="pref_specified_adjust">Предел трафика</string>
+     <string name="pref_specified_traffic_settings">Настроить трафик</string>
+     <string name="pref_title_declaration">Важное предупреждение</string>
+     <string name="pref_title_mobile_traffic">Показывать использование трафика при заблокированном экране</string>
      <string name="pref_title_network_diagnostics">Диагностика сети</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="pref_title_traffic_speed_state">Показывать скорость сети в статус-баре</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="pref_title_update_notification">Показать уведомления об использовании данных</string>
      <string name="pref_version">Версия %s</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="pref_warning_values">Data usage warning level</string>
      <string name="right_precent">100%</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="settings">Настройки</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="sorted_button">Сортировка</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="sorted_dialog_title">Сортировка по</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="stop_app_button">Остановить</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="system_app">Системные приложения</string>
      <string name="tips_dialog_title">Не знаете свой лимит?</string>
      <string name="tips_message">"If you're unclear about the details of your wireless plan, you can view them by dialing %2$s (%1$s)."</string>
      <string name="traffic_correction_failed">"Can't get data usage info"</string>
      <string name="traffic_correction_start_correction">"Talking to carrier's servers…"</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="traffic_correction_start_correction_failed">Request failed, please check the operator settings</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="traffic_correction_success">Data usage updated</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="traffic_none">None</string>
+     <string name="traffic_none">Нет</string>
      <string name="traffic_protection_data_usage_summary">"Usage in excess of your carrier plan's data limits can result in steep overage charges."</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="traffic_protection_label">Data usage warning</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="traffic_protection_label">Предупреждение о превышении</string>
      <string name="traffic_protection_next">Далее</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="traffic_protection_summary">Set alerts for when your data usage reaches a certain level</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="traffic_protection_text_hint">Set a data usage limit</string>
+     <string name="traffic_protection_summary">Настройка оповещений при превышении лимита</string>
+     <string name="traffic_protection_text_hint">Лимит использования данных</string>
      <string name="traffic_protection_unknown"><u>Настроить позже</u></string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="traffic_protection_use_data">Данные включены</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="traffic_setting_fragment_area">Locale</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="traffic_setting_fragment_brand">Brand</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="traffic_setting_fragment_area">Местоположение</string>
+     <string name="traffic_setting_fragment_brand">Бренд</string>
      <string name="traffic_setting_fragment_button2_text">Сохранить</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="traffic_setting_fragment_get_template_falure">Update get failure. Check your data connection and try again.</string>
-     <string name="traffic_setting_fragment_loading_text">Получение информациио сети…</string>
+     <string name="traffic_setting_fragment_get_template_falure">Ошибка получения обновления. Проверьте ваше подключение и попытайтесь снова.</string>
+     <string name="traffic_setting_fragment_loading_text">Получение информации о сети…</string>
      <string name="traffic_setting_fragment_no_network">Нет подключения к сети</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="traffic_setting_fragment_null">Пусто</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="traffic_setting_fragment_operator">Оператор</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="traffic_setting_fragment_send_num">Carrier phone number</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="traffic_setting_fragment_send_num_tips">Enter phone number</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="traffic_setting_fragment_sms_content">Message content</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="traffic_setting_fragment_sms_content_tips">Write your message here</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="traffic_setting_fragment_template">Message template</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="traffic_setting_fragment_title">Data usage query settings</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="usage_sorted_activity_lable">Data usage</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="traffic_setting_fragment_send_num">Номер телефона оператора</string>
+     <string name="traffic_setting_fragment_send_num_tips">Введите номер телефона</string>
+     <string name="traffic_setting_fragment_sms_content">Тело сообщения</string>
+     <string name="traffic_setting_fragment_sms_content_tips">Напишите ваше сообщение здесь</string>
+     <string name="traffic_setting_fragment_template">Шаблон сообщения</string>
+     <string name="traffic_setting_fragment_title">Настройки использования данных</string>
+     <string name="usage_sorted_activity_lable">Использование данных</string>
      <string name="usage_sorted_empty_text">Пусто</string>
      <string name="usage_sorted_loading_text">Загрузка…</string>
 </resources>
