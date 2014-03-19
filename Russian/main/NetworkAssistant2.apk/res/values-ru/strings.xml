@@ -8,7 +8,7 @@
      <string name="adjust_traffic_carrier_summary_two_day_before">Обновлено 2 дня назад</string>
      <string name="adjust_traffic_carrier_summary_yesterday">Обновлено вчера в %s</string>
      <string name="adjust_traffic_data">Настроить трафик</string>
-     <string name="app_detail">Details</string>
+     <string name="app_detail">Сведения</string>
      <string name="app_mobile">3G</string>
      <string name="app_name">Монитор</string>
      <string name="app_version">Версия</string>
@@ -16,215 +16,146 @@
      <string name="background_traffic">Фоновый трафик %s</string>
      <string name="begin_date">Дата начала учета</string>
      <string name="cancel_button">Отмена</string>
-     <string name="daily_pkg_traffic">Верхний предел трафика</string>
+     <string name="daily_pkg_traffic">Предел трафика</string>
      <string name="data_usage_correction_timeout_body">Нажмите для ручного обновления</string>
      <string name="data_usage_correction_timeout_title">Ошибка синхронизации данных</string>
      <string name="data_usage_disabled_dialog">"Вы достигли предела использованного трафика. 
 
 Это может повлечь большие затраты на трафик (в зависимости от вашего оператора)."</string>
      <string name="data_usage_disabled_dialog_enable">Включить данные</string>
-     <string name="data_usage_leisure_warning_body">Нажмите для просмотра использованного трафика.</string>
+     <string name="data_usage_leisure_warning_body">Нажмите для просмотра использованного трафика</string>
      <string name="data_usage_leisure_warning_title">Off-peak data usage limit</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="data_usage_limit_body">Touch to enable mobile data.</string>
-     <string name="data_usage_limit_snoozed_body">"You've exceeded your data usage limit."</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="data_usage_mobile_limit_snoozed_title">Data usage limit exceeded</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="data_usage_mobile_limit_title">Mobile data has been disabled</string>
-     <string name="data_usage_no_total_package_body">Do you want to set a data usage limit?</string>
-     <string name="data_usage_no_total_package_body_dual">Do you want to set a data usage limit for %s?</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="data_usage_no_total_package_title">Data usage</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="data_usage_restricted_body">Touch to enable background data</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="data_usage_restricted_title">Background data restricted</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="data_usage_warning_body">Touch to view data usage details.</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="data_usage_warning_title">Data usage warning</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="declaration_dialog_msg">This feature can help you track your usage, but is not guaranteed to prevent additional charges. For best results, set a conservative limit.</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="data_usage_limit_body">Нажмите, чтобы включить моб. интернет</string>
+     <string name="data_usage_limit_snoozed_body">Вы превысили лимит трафика</string>
+     <string name="data_usage_mobile_limit_snoozed_title">Превышен лимит трафика</string>
+     <string name="data_usage_mobile_limit_title">Мобильный интернет отключен</string>
+     <string name="data_usage_no_total_package_body">Хотите настроить пакет или лимит трафика?</string>
+     <string name="data_usage_no_total_package_body_dual">Хотите настроить пакет или лимит трафика для %s?</string>
+     <string name="data_usage_no_total_package_title">Использование данных</string>
+     <string name="data_usage_restricted_body">Нажмите, чтобы включить данные в фоне</string>
+     <string name="data_usage_restricted_title">Ограничение фоновых данных</string>
+     <string name="data_usage_warning_body">Нажмите для просмотра сведений</string>
+     <string name="data_usage_warning_title">Предупреждение трафика</string>
+     <string name="declaration_dialog_msg">Эта функция может помочь вам отслеживать использование трафика мобильного интернета, чтобы предотвратить дополнительные денежные расходы. Для достижения наилучших результатов, установите предел трафика.</string>
      <string name="deleted_apps">Удаленные приложения</string>
-     <string name="detail_app_button">Сведения</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="detail_app_button">О приложении</string>
      <string name="dual_setting_simcard1">SIM 1</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="dual_setting_simcard2">SIM 2</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="firewall_activity_lable">Restrict data usage by app</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="firewall_activity_lable">Управление подключениями</string>
      <string name="firewall_applist">Приложения</string>
      <string name="firewall_fragment_nonesys_listempty">Пусто</string>
      <string name="firewall_fragment_sys_listempty">Пусто</string>
      <string name="firewall_fragment_tab_title_nonsys">Пользов.</string>
      <string name="firewall_fragment_tab_title_sys">Системные</string>
-     <string name="firewall_rule_group_title_mobile">Данные</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="firewall_rule_group_title_mobile">3G</string>
      <string name="firewall_rule_group_title_wifi">Wi-Fi</string>
      <string name="firewall_service_network_blocked">%1$s запрещено к подключению %2$s сети</string>
      <string name="force_stop_dlg_text">При ограничении мобильного интернета в фоне, некоторые приложения и сервисы не будут работать, если нет подключения к Wi-Fi</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="force_stop_dlg_title">Отключить фоновые данные</string>
-     <string name="foreground_traffic">Foreground %s</string>
+     <string name="foreground_traffic">Трафик %s</string>
      <string name="free_time_traffic">Off-peak data limit</string>
      <string name="free_time_traffic_hint">Enter off-peak data limit</string>
      <string name="free_time_traffic_settings">Off-peak data limit settings</string>
      <string name="free_time_traffic_title">Enter off-peak data limit</string>
      <string name="free_traffic_settings">Off-peak data usage settings</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="input_aviable_traffic">Настроить лимит трафика</string>
      <string name="input_traffic_pkg">Введите пакет трафика</string>
-     <string name="input_used_hint">Введите использованный трафик</string>
+     <string name="input_used_hint">Введите исполь. трафик</string>
      <string name="left_precent">60%</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="list_empty_text">Пусто</string>
      <string name="lock_screen_traffic_warn_title">Предупреждение трафика</string>
      <string name="main_alert_message_no_imsi">SIM-карта не обнаружена</string>
      <string name="main_alert_message_no_mobile_package">Лимит мобильного трафика не установлен</string>
      <string name="main_button_idel_traffic">Off-peak</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="main_button_normal_traffic">Peak</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="main_button_usage_adjust">Set mobile data usage</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="main_button_usage_adjust_manual">Set mobile data usage</string>
+     <string name="main_button_normal_traffic">Пакет</string>
+     <string name="main_button_usage_adjust">Установить трафик</string>
+     <string name="main_button_usage_adjust_manual">Установить трафик</string>
      <string name="main_button_usage_adjusting">Настройка…</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="main_button_usage_package_setting">Set mobile data usage</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="main_toolbar_firewall">Ограничение</string>
+     <string name="main_button_usage_package_setting">Установить трафик</string>
+     <string name="main_toolbar_firewall">Управление</string>
      <string name="main_toolbar_purchase">Пополнение</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="main_toolbar_statistic">Статистика</string>
-     <string name="main_traffic_overlimit_text">%s over</string>
+     <string name="main_traffic_overlimit_text">%s превышено</string>
      <string name="main_traffic_remian_text">"%s
 осталось"</string>
      <string name="main_traffic_used_only">Исполь.: %s</string>
      <string name="main_traffic_used_text">"%s
 использовано"</string>
      <string name="manual_input_free_traffic">Set off-peak data usage</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="manual_input_traffic">Set data usage</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="manual_input_traffic">Введите предел трафика</string>
      <string name="network_control">Управление трафиком</string>
-     <string name="notification_content_title">Used %1$s while locked</string>
-     <string name="notification_title">%1$s-%2$s: about %3$s used</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="notification_content_title">Использовано %1$s во время блокировки</string>
+     <string name="notification_title">%1$s-%2$s: исполь. около %3$s</string>
      <string name="ok_button">OK</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="operator_name_cmcc">China Mobile</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="operator_name_telcom">China Telecom</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="operator_name_unicom">China Unicom</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="operator_number_cmcc">10086</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="operator_number_telcom">10000</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="operator_number_unicom">10010</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="per_month_pkg_traffic_settings">Настроить лимит данных</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="permit_running_network">Allow background data</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="person_hotpot">Mobile hotspots</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="pkg_traffic">Set data usage limit</string>
+     <string name="per_month_pkg_traffic_settings">Настройка лимита данных</string>
+     <string name="permit_running_network">Разрешить фоновые данные</string>
+     <string name="person_hotpot">Мобильные точки доступа</string>
+     <string name="pkg_traffic">Настроить лимит трафика</string>
      <string name="power_save_on_time_default_time">00:00</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="power_save_on_time_end_time_summary">To</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="power_save_on_time_start_time_summary">From</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="power_save_on_time_end_time_summary">До</string>
+     <string name="power_save_on_time_start_time_summary">С</string>
      <string name="pref_about">О программе</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="pref_about_traffic_title">Настройки использования данных</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="pref_add_traffic_pkg">Additionally purchased data</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="pref_adjust_data_usage">Carrier message template</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="pref_adjust_traffic_data">Настроить использование данных</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="pref_app_traffic_managent">Restrict data usage by app</string>
-     <string name="pref_auto_adjust_settings">Auto-sync data usage stats settings</string>
-     <string name="pref_auto_adjust_traffic">Auto-sync data usage stats</string>
-     <string name="pref_automatic_adjust">Auto-sync data usage stats</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="pref_avaible_traffic">Wireless plan</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="pref_about_traffic_title">Настройки использования</string>
+     <string name="pref_add_traffic_pkg">Дополнительный пакет</string>
+     <string name="pref_adjust_data_usage">Шаблон сообщения оператора</string>
+     <string name="pref_adjust_traffic_data">Настроить вручную</string>
+     <string name="pref_app_traffic_managent">Настройки ограничения</string>
+     <string name="pref_auto_adjust_settings">Настройки автосинхронизации</string>
+     <string name="pref_auto_adjust_traffic">Автосинхр. статистики исполь. данных</string>
+     <string name="pref_automatic_adjust">Автосинхр. статистики исполь. данных</string>
+     <string name="pref_avaible_traffic">Настройки трафика</string>
      <string name="pref_category_title_other">Дополнительные настройки</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="pref_check_network_diagnostics">Check if your data connection is functioning normally</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="pref_connect_settings_enable_background">Включать данные</string>
+     <string name="pref_check_network_diagnostics">Проверьте, если мобильный интернет работает нормально</string>
+     <string name="pref_connect_settings_enable_background">Включить данные</string>
      <string name="pref_connect_settings_enable_background_hint">Разрешить подключение к сети приложениям, которые работают в фоновом режиме</string>
      <string name="pref_connect_settings_exceed_limit">Отключать данные</string>
      <string name="pref_connect_settings_exceed_limit_hint">Отключить интернет, когда превышен ежемесячный лимит трафика</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="pref_daily_adjust">Set peak data limit</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="pref_daily_traffic">Peak data limit</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="pref_data_usage_not_set">Set data usage limit</string>
+     <string name="pref_daily_adjust">Установка пакета трафика</string>
+     <string name="pref_daily_traffic">Пакет трафика</string>
+     <string name="pref_data_usage_not_set">Настроить трафик</string>
      <string name="pref_free_adjust">Set off-peak data limit</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="pref_free_traffic_exceed_limit">Notify me when data usage reaches limit</string>
+     <string name="pref_free_traffic_exceed_limit">Сообщать о достижении лимита трафика</string>
      <string name="pref_free_traffic_limit_warn">Off-peak data usage warning</string>
      <string name="pref_free_traffic_settings">Off-peak data usage settings</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="pref_leisure_no_overlay">Включено</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="pref_leisure_not_opened">Выключено</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="pref_manual_adjust">Set data usage stats manually</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="pref_month_begin_date">Usage cycle reset date</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="pref_manual_adjust">Настроить вручную</string>
+     <string name="pref_month_begin_date">Дата начала учета</string>
      <string name="pref_month_first_day">Начало месяца</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="pref_more_traffic_settings">Дополнительные</string>
-     <string name="pref_open_adjust_traffic">"Sync your data usage stats with your carrier's servers"</string>
-     <string name="pref_package_traffic_leisure">%1$s | Off-peak: %2$s</string>
-     <string name="pref_package_traffic_normal">Peak: %s</string>
-     <string name="pref_package_traffic_overlay">%1$s | Additional: %2$s</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="pref_package_traffic_settings">Mobile data limit</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="pref_pkg_begin_date">Usage cycle reset date</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="pref_setting_operators_message">Edit the message your device sends your carrier to sync your data usage stats</string>
-     <string name="pref_show_mobile_traffic">When you unlock you phone, show data usage stats for the period when your device has been locked (must be longer than 3 minutes)</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="pref_special_traffic_exceed_limit">Notify me when data usage reaches limit</string>
+     <string name="pref_more_traffic_settings">Дополнительные настройки</string>
+     <string name="pref_open_adjust_traffic">Синхронизируйте статистику использования данных с вашего оператором</string>
+     <string name="pref_package_traffic_leisure">%1$s | Осталось: %2$s</string>
+     <string name="pref_package_traffic_normal">Пакет: %s</string>
+     <string name="pref_package_traffic_overlay">%1$s | Дополнительно: %2$s</string>
+     <string name="pref_package_traffic_settings">Лимит мобильного трафика</string>
+     <string name="pref_pkg_begin_date">Дата начала учета</string>
+     <string name="pref_setting_operators_message">Измененное сообщение устройство отправит оператору, чтобы синхронизировать статистику использования данных</string>
+     <string name="pref_show_mobile_traffic">Показывать статистику использования данных при разблокировке устройсва, за период его блокировки (более 3 минут)</string>
+     <string name="pref_special_traffic_exceed_limit">Сообщить, когда использование данных достигнет предела</string>
      <string name="pref_special_traffic_limit_warn">Порог предупреждения</string>
      <string name="pref_specified_adjust">Предел трафика</string>
      <string name="pref_specified_traffic_settings">Настроить трафик</string>
      <string name="pref_title_declaration">Важное предупреждение</string>
      <string name="pref_title_mobile_traffic">Показывать использование трафика при заблокированном экране</string>
      <string name="pref_title_network_diagnostics">Диагностика сети</string>
-     <string name="pref_title_traffic_speed_state">Показывать скорость сети в статус-баре</string>
-     <string name="pref_title_update_notification">Показать уведомления об использовании данных</string>
+     <string name="pref_title_traffic_speed_state">Показывать скорость сети</string>
+     <string name="pref_title_update_notification">Показывать трафик в пенеле</string>
      <string name="pref_version">Версия %s</string>
-     <string name="pref_warning_values">Data usage warning level</string>
+     <string name="pref_warning_values">Порог предупреждения</string>
      <string name="right_precent">100%</string>
      <string name="settings">Настройки</string>
      <string name="sorted_button">Сортировка</string>
-     <string name="sorted_dialog_title">Сортировка по</string>
+     <string name="sorted_dialog_title">Сортировка</string>
      <string name="stop_app_button">Остановить</string>
      <string name="system_app">Системные приложения</string>
      <string name="tips_dialog_title">Не знаете свой лимит?</string>
-     <string name="tips_message">"If you're unclear about the details of your wireless plan, you can view them by dialing %2$s (%1$s)."</string>
-     <string name="traffic_correction_failed">"Can't get data usage info"</string>
-     <string name="traffic_correction_start_correction">"Talking to carrier's servers…"</string>
-     <string name="traffic_correction_start_correction_failed">Request failed, please check the operator settings</string>
-     <string name="traffic_correction_success">Data usage updated</string>
+     <string name="tips_message">Более подробно о информации вашего пакета трафика, вы можете узнать набрав %2$s (%1$s)</string>
+     <string name="traffic_correction_failed">"Не удалось получить информацию</string>
+     <string name="traffic_correction_start_correction">Соединение с оператором услуг…</string>
+     <string name="traffic_correction_start_correction_failed">Ошибка запроса. Проверьте настройки оператора.</string>
+     <string name="traffic_correction_success">Использование данных обновлено</string>
      <string name="traffic_none">Нет</string>
-     <string name="traffic_protection_data_usage_summary">"Usage in excess of your carrier plan's data limits can result in steep overage charges."</string>
+     <string name="traffic_protection_data_usage_summary">Использование мобильного интернета после превышения пакета трафика может вызвать высокие денежные расходы</string>
      <string name="traffic_protection_label">Предупреждение о превышении</string>
      <string name="traffic_protection_next">Далее</string>
      <string name="traffic_protection_summary">Настройка оповещений при превышении лимита</string>
@@ -241,8 +172,8 @@
      <string name="traffic_setting_fragment_operator">Оператор</string>
      <string name="traffic_setting_fragment_send_num">Номер телефона оператора</string>
      <string name="traffic_setting_fragment_send_num_tips">Введите номер телефона</string>
-     <string name="traffic_setting_fragment_sms_content">Тело сообщения</string>
-     <string name="traffic_setting_fragment_sms_content_tips">Напишите ваше сообщение здесь</string>
+     <string name="traffic_setting_fragment_sms_content">Текст сообщения</string>
+     <string name="traffic_setting_fragment_sms_content_tips">Напишите сообщение здесь</string>
      <string name="traffic_setting_fragment_template">Шаблон сообщения</string>
      <string name="traffic_setting_fragment_title">Настройки использования данных</string>
      <string name="usage_sorted_activity_lable">Использование данных</string>

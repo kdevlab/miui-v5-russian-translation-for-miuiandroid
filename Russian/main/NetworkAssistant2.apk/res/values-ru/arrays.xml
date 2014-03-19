@@ -33,9 +33,9 @@
         <item>Установить шаблон сообщения вручную</item>
      </string-array>
      <string-array name="traffic_sort_type">
-        <item>Данные</item>
+        <item>3G</item>
         <item>Wi-Fi</item>
-        <item>Весь</item>
+        <item>Все</item>
      </string-array>
      <string-array name="traffic_uints">
         <item>Б</item>

@@ -649,7 +649,7 @@
      <string name="button_text_cancel">Отмена</string>
 	 <string name="button_text_cleanup_apps">Очистить данные</string>
      <string name="button_text_delete">Удалить</string>
-	 <string name="button_text_delete_from_white_list">Из белого списка</string>
+	 <string name="button_text_delete_from_white_list">Убрать из списка</string>
      <string name="button_text_done">Готово</string>
      <string name="button_text_fix">Исправить</string>
      <string name="button_text_quick_scan">Сканировать</string>
@@ -2436,7 +2436,7 @@
      <string name="pref_button_light">Подсветка клавиш</string>
      <string name="pref_button_light_summary">Подсветка клавиш \"Меню\", \"Назад\", \"Домой\"</string>
      <string name="pref_category_title_auto_update_cleanup_db">Настройки обновления</string>
-	 <string name="pref_category_title_cleanup_white_list">Белый список очистки мусора</string>
+	 <string name="pref_category_title_cleanup_white_list">Настройки белого списка</string>
      <string name="pref_category_title_garbage_cleanup_check">Настройки очистки</string>
 	 <string name="pref_category_title_module_settings">Настройки модулей</string>
      <string name="pref_category_title_securitycenter_settings">Настройки центра безопасности</string>
