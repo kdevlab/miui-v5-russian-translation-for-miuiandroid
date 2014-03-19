@@ -9,6 +9,8 @@
      <string name="audio_db_playlist_name">Мои записи</string>
      <string name="back">назад</string>
      <string name="button_ok">ОК</string>
+	 <string name="button_queue_for_wifi">В очередь</string>
+     <string name="button_start_now">Скачать</string>
      <string name="call_record">Записи вызовов (%d)</string>
      <string name="call_record_or">или</string>
      <string name="cloud_record">Запись в облаке (%d)</string>
@@ -44,9 +46,11 @@
      <string name="message_file_size_error">Запись достигла максимальной длины записи (%s)</string>
      <string name="minute">%d мин.</string>
      <string name="no_file">Нет записей</string>
+	 <string name="notification_message_all_paused">Может увеличить потребление мобильного интернета</string>
      <string name="notification_playback">Воспроизведение…</string>
      <string name="notification_recording">Запись…</string>
      <string name="notification_stopped">Запись остановлена</string>
+	 <string name="notification_title_all_paused">Загрузка приостановлена</string>
      <string name="notification_warning">Мало памяти (осталось менее %d мин.)…</string>
      <string name="open_file_explorer">Открыть Файлы</string>
      <string name="overwrite_dialog_message">Запись с таким именем уже существует. Хотите переписать ее?</string>
@@ -111,4 +115,7 @@
      <string name="toast_uninstall_fileexplorer">Приложение файлы не установлено</string>
      <string name="unknown_caller">Неизвестный вызов</string>
      <string name="view_list_of_recordings">просмотр списка записей</string>
+	 <string name="wifi_recommended_body">"О загрузке через мобильный интернет:
+ Загрузка файла может привести к затратам трафика и денежных стредств"</string>
+     <string name="wifi_recommended_title">Предупрежедние трафика</string>
 </resources>

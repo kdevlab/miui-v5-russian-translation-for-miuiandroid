@@ -180,7 +180,6 @@
      <string name="call_record_notification_message_start_failed">Устройство записи занято другим приложением.</string>
      <string name="call_record_notification_title_error_miui">Запись разговора не удалась</string>
      <string name="call_record_notification_title_miui">Запись разговора завершена</string>
-     <string name="call_record_path_name_of_sdcard_miui">SD-карта</string>
      <string name="call_record_sd_error_miui">Ошибка доступа к SD-карте!</string>
      <string name="call_record_sd_space_low_miui">Мало места на SD-карте</string>
      <string name="call_record_setting_miui">Настройки записи</string>
