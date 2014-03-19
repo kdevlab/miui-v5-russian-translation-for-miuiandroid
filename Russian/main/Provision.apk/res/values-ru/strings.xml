@@ -2,8 +2,6 @@
 <!-- Builded with NXT -->
 <resources>
      <string name="continues">Продолжить</string>
-     <string name="data_usage_summary">Если Вы не установили лимит трафика, рекомендуется отключить передачу данных. Ваш мобильный оператор может взимать плату за использование услуг сети.</string>
-     <string name="default_gprs_sim_name">Пожалуйста, введите \"%s\" пределы тарифного плана</string>
      <string name="input_method">Метод ввода</string>
      <string name="input_method_category">Выберите метод ввода по умолчанию</string>
      <string name="next">Далее</string>
@@ -30,9 +28,4 @@
      <string name="sim_card_detection_label">Поиск SIM-карты</string>
      <string name="sim_card_detection_status_absent">"SIM-карта не доступна.
 Пожалуйста, вставьте SIM-карту."</string>
-     <string name="traffic_protection_label">Монитор трафика</string>
-     <string name="traffic_protection_summary">С помощью приложения \"Монитор\" Вы сможете установить лимит на мобильный трафик</string>
-     <string name="traffic_protection_text_hint">Введите лимит трафика</string>
-     <string name="traffic_protection_unknown"><u>Пропустить</u></string>
-     <string name="use_data">Передача данных</string>
 </resources>

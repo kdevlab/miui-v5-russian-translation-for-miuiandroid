@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Builded with CloudBuildr -->
+<resources>
+     <string-array name="date_of_app">
+        <item>За вчера 2G/3G</item>
+        <item>Сегодня 2G/3G</item>
+        <item>За месяц 2G/3G</item>
+     </string-array>
+     <string-array name="date_of_app_all">
+        <item>За вчера 2G/3G</item>
+        <item>Сегодня 2G/3G</item>
+        <item>За месяц 2G/3G</item>
+        <item>За вчера WLAN</item>
+        <item>Сегодня WLAN</item>
+        <item>За месяц WLAN</item>
+     </string-array>
+     <string-array name="date_of_traffic">
+        <item>Трафик за вчера</item>
+        <item>Трафик за сегодня</item>
+        <item>Трафик за месяц</item>
+     </string-array>
+     <string-array name="network_speed_update_internals">
+        <item>3 секунды</item>
+        <item>4 секунды</item>
+        <item>5 секунд</item>
+        <item>6 секунд</item>
+        <item>7 секунд</item>
+        <item>8 секунд</item>
+        <item>9 секунд</item>
+     </string-array>
+     <string-array name="traffic_setting_sms_template">
+        <item>Получить шаблон сообщения автоматически</item>
+        <item>Установить шаблон сообщения вручную</item>
+     </string-array>
+     <string-array name="traffic_sort_type">
+        <item>Данные</item>
+        <item>Wi-Fi</item>
+        <item>Весь</item>
+     </string-array>
+     <string-array name="traffic_uints">
+        <item>Б</item>
+        <item>Кб</item>
+        <item>Мб</item>
+        <item>Гб</item>
+     </string-array>
+</resources>

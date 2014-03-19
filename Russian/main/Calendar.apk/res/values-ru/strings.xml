@@ -102,12 +102,6 @@
      <string name="gadget_no_events">Нет предстоящих мероприятий</string>
      <string name="gadget_title">Календарь</string>
      <string name="goto_today">Сегодня</string>
-     <string name="gou_piao_event_title">Напоминание поездки %s</string>
-     <string name="gou_piao_item1">Напомнить мне о времени для поездов</string>
-     <string name="gou_piao_item2">Бронирование по телефону 12306</string>
-     <string name="gou_piao_item3">Купка билетов по телефону 12306</string>
-     <string name="gou_piao_website_start_time">Покупка %s онлайн или по телефону</string>
-     <string name="gou_piao_window_start_time">Билеты можно приобрести на станции %s</string>
      <string name="hide_controls">Скрыть элементы управления</string>
      <string name="hint_attendees">Адреса электронной почты</string>
      <string name="hint_description">Описание мероприятия</string>
@@ -176,7 +170,7 @@
      <string name="preferences_use_home_tz_title">Фиксировать часовой пояс</string>
      <string name="preferences_week_start_day_dialog">Первый день недели</string>
      <string name="preferences_week_start_day_title">Первый день недели</string>
-     <string name="presence_label">Мой статус:</string>
+     <string name="presence_label">Мой статус</string>
      <string name="privacy_label">Конфиденциальность</string>
      <string name="quick_response_custom_msg">Пользовательское сообщение…</string>
      <string name="quick_response_dialog_title">Выбрать быстрый ответ</string>
@@ -204,7 +198,6 @@
      <string name="show_almanac">Показывать альманах</string>
      <string name="show_controls">Показать элементы управления</string>
      <string name="show_day_view">Показать день</string>
-     <string name="show_gou_piao">Показывать календарь билетов</string>
      <string name="show_newer_events">Нажмите для поиска других мероприятий после %1$s</string>
      <string name="show_older_events">Нажмите для поиска других мероприятий до %1$s</string>
      <string name="snooze_all_label">Отложить все</string>

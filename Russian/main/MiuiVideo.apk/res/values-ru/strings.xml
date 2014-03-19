@@ -266,6 +266,8 @@
      <string name="quarter_bell_alert_message_cancel">После отмены бронирования, вы не будете получать напоминания до начала программы</string>
      <string name="quarter_bell_alert_title">Напоминание</string>
      <string name="rank">Топ</string>
+	 <string name="receive_ad_notify">Пуш уведомления</string>
+     <string name="receive_ad_notify_summary">После открытия, получать самые свежие и популярные видео</string>
      <string name="recentplay">Недавние</string>
      <string name="recommendation">Рекомендуем</string>
      <string name="reloading_tip">Не удается подключиться к сети</string>
@@ -290,6 +292,7 @@
 	 <string name="start_time">время начала</string>
      <string name="subchannel_all">Все</string>
      <string name="success_add_myfavorite">Добавлено в избранное</string>
+	 <string name="success_add_waitfornewset">успешно</string>
      <string name="success_cancel_myfavorite">Убрано из избранного</string>
      <string name="success_cancel_waitfornewset">Слежение остановлено</string>
      <string name="success_to_cancel_myfavorite">Отменено</string>

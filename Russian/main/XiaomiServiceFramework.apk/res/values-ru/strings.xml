@@ -253,6 +253,7 @@
      <string name="micloud_title_dspt" formatted="false">"Всего: %s 
 занято: %s | свободно: %s"</string>
      <string name="micloud_title_full_dspt">Вы достигли предела места в облаке</string>
+	 <string name="micloud_upgrade_space">Добавить места</string>
      <string name="micloud_use_existing">Существующий</string>
      <string name="micloud_user_base_info">Общая информация</string>
      <string name="micloud_user_email">Почта</string>

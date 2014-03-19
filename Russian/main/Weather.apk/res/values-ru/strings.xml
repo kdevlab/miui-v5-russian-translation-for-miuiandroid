@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Builded with CloudBuildr -->
 <resources>
-     <string name="act_city_find_gps_error">Выберите город из списка</string>
+     <string name="act_aqi_src_port">"%1$s%2$s  %3$s"</string>
+	 <string name="act_city_find_gps_error">Выберите город из списка</string>
      <string name="act_find_city_hint">Поиск</string>
      <string name="act_find_city_hot_title">Популярные города</string>
      <string name="act_find_city_null_data">Город не найден</string>
@@ -12,9 +13,8 @@
      <string name="act_set_city_find_side_on">Включить местоположение</string>
      <string name="act_set_city_re_find_side">Определение…</string>
      <string name="act_weather_aqi_share">Поделиться</string>
-     <string name="act_weather_aqi_title">Индекс чистота воздуха</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="act_weather_cycle_low_temp">low</string>
+     <string name="act_weather_aqi_title">Индекс чистоты воздуха</string>
+	 <string name="act_weather_cycle_link_china">Погода MIUI</string>
      <string name="act_weather_cycle_update">Обновление…</string>
      <string name="act_weather_find_city_connect_net">Проверьте сеть и повторите еще раз</string>
      <string name="act_weather_find_city_search_online">Поиск онлайн</string>

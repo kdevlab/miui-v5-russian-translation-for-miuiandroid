@@ -185,6 +185,7 @@
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="online_search_hint">Search for online resources</string>
      <string name="over_24h_clock_operation">Вы не можете установить будильник более 24 часов, следует создать заметку в календарь</string>
+	 <string name="password_guard">Защита</string>
      <string name="phone_by_ear_launch">Поднесите телефон к уху</string>
      <string name="phone_report">Отчет вызовов</string>
      <string name="quick_launch_settings">Быстрый запуск</string>
@@ -209,7 +210,6 @@
      <string name="res_speech_timeout">语音超时</string>
      <string name="res_unsupport_error">未实现相关业务</string>
      <string name="resource_account_abnormal_state">Account error: Try again later.</string>
-     <string name="resource_account_current">Account: %1$s</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="resource_account_fail_to_add">Failed to add account.</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
@@ -459,6 +459,7 @@ the content you're looking for is not currently available in your region."</stri
 "</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="sdcard_not_mounted_dialog_title">No SD card detected</string>
+	 <string name="security_center">Безопасность</string>
      <string name="send_weather_sms_cycle">%1$s未来天气：%2$s</string>
      <string name="send_weather_sms_error">无相关天气信息</string>
      <string name="send_weather_sms_main">%1$s %2$s,%3$s %4$s %5$s</string>
@@ -525,5 +526,6 @@ the content you're looking for is not currently available in your region."</stri
      <string name="weather_no_date">无当天的天气信息</string>
      <string name="widget_loading">Нет информации о погоде</string>
      <string name="year">年</string>
+	 <string name="yellow_page">Желтые страницы</string>
      <string name="you_can_say_so">Вы можете сказать, что это:</string>
 </resources>
