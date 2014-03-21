@@ -78,7 +78,7 @@
      <string name="HIPS_Perm_AdjustVolumeInCall">Регулировка громкости при вызове</string>
      <string name="HIPS_Perm_AllowAll">Разрешить все</string>
      <string name="HIPS_Perm_AnswerCall">Ответ на поступивший вызов</string>
-	 <string name="HIPS_Perm_AudioRecorder">Диктофон</string>
+	 <string name="HIPS_Perm_AudioRecorder">получить доступ к диктофону</string>
      <string name="HIPS_Perm_AudioRecorder_Desc">Доступ к диктофону</string>
      <string name="HIPS_Perm_AudioRecorder_Hint">%1$s приложения, имеющие доступ к диктофону</string>
      <string name="HIPS_Perm_Bluetooth_Connectivity">Bluetooth</string>
@@ -123,7 +123,7 @@
      <string name="HIPS_Perm_MobileNetwork">Мобильная сеть</string>
      <string name="HIPS_Perm_MobileNetwork_Desc">Доступ к интернет посредством мобильной сети</string>
      <string name="HIPS_Perm_MobileNetwork_Hint">%1$s приложения, имеющие доступ к сети интернет</string>
-	 <string name="HIPS_Perm_Mobile_Connectivity">Мобильное подключение</string>
+	 <string name="HIPS_Perm_Mobile_Connectivity">получить доступ к мобильному подключению</string>
      <string name="HIPS_Perm_Mobile_Connectivity_Desc">Доступ к средствам мобильного подключения</string>
      <string name="HIPS_Perm_Mobile_Connectivity_Hint">%1$s приложения, имеющие доступ к мобильному подключению</string>
      <string name="HIPS_Perm_Network_Accept">принять соединение от %1$s</string>
@@ -154,7 +154,7 @@
      <string name="HIPS_Perm_Recorder">Камера и микрофон</string>
      <string name="HIPS_Perm_Recorder_Audio">Запись звука</string>
      <string name="HIPS_Perm_Recorder_AudioVideo">Запись звука и видео</string>
-     <string name="HIPS_Perm_Recorder_Camera">Камера</string>
+     <string name="HIPS_Perm_Recorder_Camera">получить доступ к камере</string>
      <string name="HIPS_Perm_Recorder_Desc">Делать фотографии и записывать видео</string>
      <string name="HIPS_Perm_Recorder_Hint">%1$s приложения, имеющие доступ к снятию фото и видео</string>
      <string name="HIPS_Perm_Recorder_Video">Запись видео</string>

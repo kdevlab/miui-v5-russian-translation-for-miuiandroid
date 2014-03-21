@@ -2341,7 +2341,7 @@
      <string name="power_dialog_screen_brightness_title">Подсветка</string>
      <string name="power_dialog_sleep_title">Сон</string>
      <string name="power_dialog_vibration_title">Вибрация</string>
-	 <string name="power_exitlowbattery_whencharge">выход при зарядке</string>
+	 <string name="power_exitlowbattery_whencharge">Выходить при зарядке</string>
      <string name="power_idle">Режим ожидания</string>
      <string name="power_mgr">Питание</string>
      <string name="power_mode">Режим питания</string>
