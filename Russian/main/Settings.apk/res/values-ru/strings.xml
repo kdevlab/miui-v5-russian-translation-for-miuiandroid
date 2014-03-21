@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Builded with NXT -->
 <resources>
-     <string name="AGPS_CAUSE_BAD_PUSH_CONTENT">Неверное содержимое PUSH</string>
+	 <string name="AGPS_CAUSE_BAD_PUSH_CONTENT">Неверное содержимое PUSH</string>
      <string name="AGPS_CAUSE_NETWORK_CREATE_FAIL">Ошибка создания сети</string>
      <string name="AGPS_CAUSE_NETWORK_DISCONN">Подключение к сети потеряно</string>
      <string name="AGPS_CAUSE_NOT_SUPPORTED">Неподдерживаемая операция</string>
@@ -41,7 +41,12 @@
      <string name="Network_Roaming_dialog_content">Если вы находитесь в роуминге, за использование A-GPS может взиматься дополнительная плата.</string>
      <string name="Network_Roaming_dialog_title">Внимание</string>
      <string name="Network_Used">Сеть используется</string>
-     <string name="Phone_vibrate_summary">Вибрировать при входящих вызовах.</string>
+     <string name="Phone_vibrate_summary">Вибрировать при входящих вызовах</string>
+	 <string name="Settings_title_anti_spam">Настройки антиспама</string>
+     <string name="Settings_title_anti_virus">Настройки антивируса</string>
+     <string name="Settings_title_garbage_cleanup">Настройки очистки</string>
+     <string name="Settings_title_network_assistants">Настройки монитора</string>
+     <string name="Settings_title_power_center">Настройки питания</string>
      <string name="USER_RESPONSE_TIMEOUT">Время ожидания проверки вышло</string>
      <string name="WiFiNetwork_on_title">Wi-Fi включен</string>
      <string name="about_agps_message">"\u0009 A-GPS (Assisted-GPS) - это система, которая позволяет ускорить поиск местоположения. \u0009 A-GPS ищет местоположение с помощью мобильной сети. \u0009 Некоторые операторы могут взимать определенную плату за использование функции, будьте внимательны."</string>
@@ -1347,6 +1352,7 @@
      <string name="gadget_toggle_wifi">Обновление настроек Wi-Fi</string>
      <string name="gadget_wifi">Wi-Fi</string>
      <string name="game_controller_settings_category">Игровой контроллер</string>
+	 <string name="garbage_white_list_empty_content">Нет приложений</string>
      <string name="gemini_3g_disable_warning">3G сервис не поддерживается на выбранной SIM-карте.</string>
      <string name="gemini_3g_disable_warning_case0">Будет включен роуминг передачи данных на этой SIM-карте. Могут взиматься денежные средства! Включить выбранную SIM-карту?</string>
      <string name="gemini_3g_disable_warning_case1">3G серивис недоступен на этой SIM-карте. Включить выбранную SIM-карту?</string>
@@ -2442,10 +2448,12 @@
      <string name="pref_category_title_securitycenter_settings">Настройки безопасности</string>
      <string name="pref_operational_key">Клавиши</string>
      <string name="pref_summary_auto_update_cleanup_db">Обновлено: %s</string>
-	 <string name="pref_summary_cleanup_white_list">Мусор в белом списке не будет удаляться</string>
+	 <string name="pref_summary_cleanup_white_list">Мусор из белого списка не будет удаляться</string>
+	 <string name="pref_summary_expand_cache_group">Группы в списке кэша будут по умолчанию расширены</string>
      <string name="pref_summary_garbage_cleanup_check_size">Уведомлять, когда мусор достигает определенного размера</string>
      <string name="pref_title_auto_update_cleanup_db">Автообновление</string>
 	 <string name="pref_title_cleanup_white_list">Белый список очистки</string>
+	 <string name="pref_title_expand_cache_group">Развернутые группы кэша</string>
      <string name="pref_title_garbage_cleanup_check_size">Размер мусора</string>
      <string name="pref_title_garbage_cleanup_check_time">Уведомление о мусоре</string>
      <string name="pref_title_manual_check_cleanup_db_update">Обновить</string>
@@ -3064,6 +3072,7 @@
      <string name="toast_backup_uninstall_failed">Не удалось создать резервную копию приложения \"%d\". Повторите попытку позже.</string>
      <string name="toast_backup_uninstall_success">Резервное копирование и удаление завершено</string>
 	 <string name="toast_cleanup_success">Данные очищены</string>
+	 <string name="toast_garbage_cleanup_success">Очистка завершена</string>
      <string name="toast_qucik_scan_list_empty">Чистка не требуется</string>
 	 <string name="toast_removed_from_white_list">Удалено из белого списка</string>
      <string name="toast_shortcut_install">Ярлык создан</string>
