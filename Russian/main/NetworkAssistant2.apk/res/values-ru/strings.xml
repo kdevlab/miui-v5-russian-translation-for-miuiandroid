@@ -24,7 +24,7 @@
 Это может повлечь большие затраты на трафик (в зависимости от вашего оператора)."</string>
      <string name="data_usage_disabled_dialog_enable">Включить данные</string>
      <string name="data_usage_leisure_warning_body">Нажмите для просмотра использованного трафика</string>
-     <string name="data_usage_leisure_warning_title">Off-peak data usage limit</string>
+     <string name="data_usage_leisure_warning_title">Предел трафика</string>
      <string name="data_usage_limit_body">Нажмите, чтобы включить моб. интернет</string>
      <string name="data_usage_limit_snoozed_body">Вы превысили лимит трафика</string>
      <string name="data_usage_mobile_limit_snoozed_title">Превышен лимит трафика</string>
@@ -66,7 +66,7 @@
      <string name="lock_screen_traffic_warn_title">Предупреждение трафика</string>
      <string name="main_alert_message_no_imsi">SIM-карта не обнаружена</string>
      <string name="main_alert_message_no_mobile_package">Лимит мобильного трафика не установлен</string>
-     <string name="main_button_idel_traffic">Off-peak</string>
+     <string name="main_button_idel_traffic">Предел</string>
      <string name="main_button_normal_traffic">Пакет</string>
      <string name="main_button_usage_adjust">Установить трафик</string>
      <string name="main_button_usage_adjust_manual">Установить трафик</string>
@@ -115,10 +115,10 @@
      <string name="pref_daily_adjust">Установка пакета трафика</string>
      <string name="pref_daily_traffic">Пакет трафика</string>
      <string name="pref_data_usage_not_set">Настроить трафик</string>
-     <string name="pref_free_adjust">Set off-peak data limit</string>
+     <string name="pref_free_adjust">Установить предел трафика</string>
      <string name="pref_free_traffic_exceed_limit">Сообщать о достижении лимита трафика</string>
-     <string name="pref_free_traffic_limit_warn">Off-peak data usage warning</string>
-     <string name="pref_free_traffic_settings">Off-peak data usage settings</string>
+     <string name="pref_free_traffic_limit_warn">Предупреждение о пределе трафика</string>
+     <string name="pref_free_traffic_settings">Настройка предела трафика</string>
      <string name="pref_leisure_no_overlay">Включено</string>
      <string name="pref_leisure_not_opened">Выключено</string>
      <string name="pref_manual_adjust">Настроить вручную</string>
