@@ -974,7 +974,7 @@
      <string name="dialog_msg_uninstall_apps">Удалить выбранные приложения?</string>
 	 <string name="dialog_title_backup_and_cleanup_apps">Сделать бэкап и удалить данные приложения?</string>
      <string name="dialog_title_backup_and_uninstall_apps">Бэкап и удаление</string>
-	 <string name="dialog_title_check_all">Выбратть все</string>
+	 <string name="dialog_title_check_all">Выбрать все</string>
      <string name="dialog_title_cleanup_apps">Удалить данные приложения?</string>
      <string name="dialog_title_cleanup_system_cache">Очистить кэшированные данные?</string>
      <string name="dialog_title_color_calibration">Коррекция цвета</string>
