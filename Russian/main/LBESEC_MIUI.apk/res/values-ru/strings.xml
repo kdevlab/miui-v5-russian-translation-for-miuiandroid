@@ -123,7 +123,7 @@
      <string name="HIPS_Perm_MobileNetwork">Мобильная сеть</string>
      <string name="HIPS_Perm_MobileNetwork_Desc">Доступ к интернет посредством мобильной сети</string>
      <string name="HIPS_Perm_MobileNetwork_Hint">Приложения, имеющие доступ к интернету через оператора</string>
-	 <string name="HIPS_Perm_Mobile_Connectivity">получить доступ к мобильному подключению</string>
+	 <string name="HIPS_Perm_Mobile_Connectivity">Мобильное подключение</string>
      <string name="HIPS_Perm_Mobile_Connectivity_Desc">Доступ к средствам мобильного подключения</string>
      <string name="HIPS_Perm_Mobile_Connectivity_Hint">Приложения, имеющие доступ к мобильному подключению</string>
      <string name="HIPS_Perm_Network_Accept">принять соединение от %1$s</string>
@@ -167,7 +167,7 @@
 	 <string name="HIPS_Perm_SendMMS">Отправка MMS сообщений</string>
      <string name="HIPS_Perm_SendMMS_Desc">Доступ к MMS сообщениям</string>
      <string name="HIPS_Perm_SendMMS_Hint">Приложения, имеющие доступ к отправке MMS сообщений</string>
-     <string name="HIPS_Perm_SendSMS">Отправка SMS</string>
+     <string name="HIPS_Perm_SendSMS">Отправка сообщений</string>
      <string name="HIPS_Perm_SendSMS_Content">Содержание:</string>
      <string name="HIPS_Perm_SendSMS_Data">Отправить SMS на %1$s:%2$d</string>
      <string name="HIPS_Perm_SendSMS_Desc">Отправить SMS напрямую</string>

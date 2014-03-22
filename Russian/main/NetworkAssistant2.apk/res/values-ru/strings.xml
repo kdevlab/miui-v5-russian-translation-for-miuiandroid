@@ -72,7 +72,7 @@
      <string name="main_button_usage_adjust_manual">Установить трафик</string>
      <string name="main_button_usage_adjusting">Настройка…</string>
      <string name="main_button_usage_package_setting">Установить трафик</string>
-     <string name="main_toolbar_firewall">Управление</string>
+     <string name="main_toolbar_firewall">Контроль</string>
      <string name="main_toolbar_purchase">Пополнение</string>
      <string name="main_toolbar_statistic">Статистика</string>
      <string name="main_traffic_overlimit_text">%s превышено</string>
@@ -152,7 +152,7 @@
      <string name="system_app">Системные приложения</string>
      <string name="tips_dialog_title">Не знаете свой лимит?</string>
      <string name="tips_message">Более подробно о информации вашего пакета трафика, вы можете узнать набрав %2$s (%1$s)</string>
-     <string name="traffic_correction_failed">"Не удалось получить информацию</string>
+     <string name="traffic_correction_failed">Не удалось получить информацию</string>
      <string name="traffic_correction_start_correction">Соединение с оператором услуг…</string>
      <string name="traffic_correction_start_correction_failed">Ошибка запроса. Проверьте настройки оператора.</string>
      <string name="traffic_correction_success">Использование данных обновлено</string>

@@ -654,7 +654,7 @@
      <string name="button_text_cancel">Отмена</string>
 	 <string name="button_text_cleanup_apps">Очистить данные</string>
      <string name="button_text_delete">Удалить</string>
-	 <string name="button_text_delete_from_white_list">Убрать из списка</string>
+	 <string name="button_text_delete_from_white_list">Удалить из списка</string>
      <string name="button_text_done">Готово</string>
      <string name="button_text_fix">Исправить</string>
      <string name="button_text_quick_scan">Сканировать</string>
@@ -2449,11 +2449,11 @@
      <string name="pref_operational_key">Клавиши</string>
      <string name="pref_summary_auto_update_cleanup_db">Обновлено: %s</string>
 	 <string name="pref_summary_cleanup_white_list">Мусор из белого списка не будет удаляться</string>
-	 <string name="pref_summary_expand_cache_group">Группы в списке кэша будут по умолчанию расширены</string>
-     <string name="pref_summary_garbage_cleanup_check_size">Уведомлять, когда мусор достигает определенного размера</string>
+	 <string name="pref_summary_expand_cache_group">Группы в списке кэша будут по умолчанию развернуты</string>
+     <string name="pref_summary_garbage_cleanup_check_size">Уведомлять, когда мусор достигает заданного размера</string>
      <string name="pref_title_auto_update_cleanup_db">Автообновление</string>
 	 <string name="pref_title_cleanup_white_list">Белый список очистки</string>
-	 <string name="pref_title_expand_cache_group">Развернутые группы кэша</string>
+	 <string name="pref_title_expand_cache_group">Разворачивать кэш</string>
      <string name="pref_title_garbage_cleanup_check_size">Размер мусора</string>
      <string name="pref_title_garbage_cleanup_check_time">Уведомление о мусоре</string>
      <string name="pref_title_manual_check_cleanup_db_update">Обновить</string>
