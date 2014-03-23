@@ -945,8 +945,8 @@
      <string name="device_admin_title">Администрирование устройства</string>
      <string name="device_admin_warning">Активация этого администратора позволит приложению \"%1$s\" выполнять следующие операции:</string>
      <string name="device_cpu">Процессор:</string>
-     <string name="device_cpu2_info">"2 ядра "</string>
-     <string name="device_cpu4_info">"4 ядра "</string>
+     <string name="device_cpu2_info">"2 ядра по "</string>
+     <string name="device_cpu4_info">"4 ядра по "</string>
      <string name="device_edit_title">Смена имени устройства</string>
      <string name="device_info_default">Неизвестно</string>
      <string name="device_info_label">Сведения об устройстве</string>
@@ -968,13 +968,13 @@
      <string name="dialog_apn_disabled">APN выключен!</string>
      <string name="dialog_apn_disabled_msg">Выключите режим полета для настройки APN</string>
      <string name="dialog_msg_backup_and_uninstall_apps">Создать резервную копию и удалить выбранные приложения?</string>
-	 <string name="dialog_msg_check_all">Подтвердите выбор %1$s, содержащий %2$d элемен.</string>
+	 <string name="dialog_msg_check_all">Подтверждаете выбор %1$s, содержащий %2$d элемен. списка?</string>
      <string name="dialog_msg_cleanup_apps">Все данные этого приложения будут удалены навсегда (все файлы, настройки учетных записей, базы данных и т.д.)</string>
      <string name="dialog_msg_cleanup_system_cache">Это очистит кэшированные данные всех приложений</string>
      <string name="dialog_msg_uninstall_apps">Удалить выбранные приложения?</string>
 	 <string name="dialog_title_backup_and_cleanup_apps">Сделать бэкап и удалить данные приложения?</string>
      <string name="dialog_title_backup_and_uninstall_apps">Бэкап и удаление</string>
-	 <string name="dialog_title_check_all">Выбрать все</string>
+	 <string name="dialog_title_check_all">Выбор всего</string>
      <string name="dialog_title_cleanup_apps">Удалить данные приложения?</string>
      <string name="dialog_title_cleanup_system_cache">Очистить кэшированные данные?</string>
      <string name="dialog_title_color_calibration">Коррекция цвета</string>
