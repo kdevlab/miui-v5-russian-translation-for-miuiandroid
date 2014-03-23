@@ -13,7 +13,7 @@
      <string name="button_start_now">Скачать</string>
      <string name="call_record">Записи вызовов (%d)</string>
      <string name="call_record_or">или</string>
-     <string name="cloud_record">Запись в облаке (%d)</string>
+     <string name="cloud_record">Записи в облаке (%d)</string>
      <string name="default_record_name">запись без названия</string>
      <string name="delete">Удалить</string>
      <string name="delete_dialog_message">Удалить текущую запись?</string>
@@ -74,7 +74,6 @@
      <string name="record_download_msg_reload">Этой записи не существует</string>
      <string name="record_download_paused">Пауза</string>
      <string name="record_downloading_notification">Загрузка…</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="record_downloading_notification_complete">Загрузка завершена</string>
      <string name="record_downloading_notification_count">Загрузка: %d</string>
      <string name="record_list">Список записей</string>

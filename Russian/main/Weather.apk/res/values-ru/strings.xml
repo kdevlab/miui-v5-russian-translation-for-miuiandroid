@@ -24,10 +24,10 @@
      <string name="act_weather_main_data_null">Нет данных о погоде, нажмите для обновления</string>
      <string name="act_weather_range_select">Выберите город</string>
      <string name="act_weather_range_title">Погода в окрестностях</string>
-     <string name="act_weather_update_time">Обновлено %s</string>
+     <string name="act_weather_update_time">Обновлено: %s</string>
      <string name="add_city">Добавить город</string>
      <string name="alert_message_delete">Удалить выбранные города? (%d)</string>
-     <string name="alert_provider_message">Разрешите приложению использовать Ваше текущее местоположение</string>
+     <string name="alert_provider_message">Разрешить приложению использовать Ваше текущее местоположение?</string>
      <string name="alert_provider_title">Уведомление местоположения</string>
      <string name="alert_title_delete">Удалить</string>
      <string name="app_love_font_lng">%s</string>
@@ -35,7 +35,7 @@
      <string name="app_love_view_title">Предпросмотр</string>
      <string name="app_name">Погода</string>
      <string name="app_nohave_net">Нет сетевого подключения</string>
-     <string name="app_unquiet_net">Сеть нестабильна, повторите попытку позже</string>
+     <string name="app_unquiet_net">Сеть нестабильна. Повторите попытку позже.</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="aqi_details_dangerous">People with heart or lung disease, older adults, and children should avoid all physical activity outdoors. Everyone else should avoid prolonged or heavy exertion.</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
@@ -63,12 +63,12 @@
      <string name="button_not_allow">Запретить</string>
      <string name="cancel">Отмена</string>
      <string name="chart_weather_title">Диаграмма погоды</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="enable_gps">GPS</string>
      <string name="enable_notification">Включить уведомления</string>
      <string name="enable_notification_city">Уведомления о дожде, снеге, температуре при их критическом значении включено для %s</string>
      <string name="enable_notification_summary">Уведомлять меня при изменении погоды</string>
      <string name="first_start_network_toast_text">Доступ к сети для получения информации о погоде</string>
+	 <string name="format_date_md">d/MMMM kk:mm</string>
      <string name="install_sina">Нажмите для установки Sina Weibo</string>
      <string name="install_tencent">Получить приложение Weibo</string>
      <string name="loading_weather">Загрузка погоды…</string>
