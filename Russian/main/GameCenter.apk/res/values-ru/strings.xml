@@ -328,7 +328,7 @@
      <string name="messagecenter_message_list_delete_title">Удалить?</string>
      <string name="messagecenter_title">Сообщения</string>
      <string name="messagecenter_unread_messages">Новых сообщений: &lt;font color=#f76811>%1$s&lt;/font></string>
-     <string name="mibi_rmb_relation">1 ￥ равняется 1 MiBi</string>
+     <string name="mibi_rmb_relation">1￥ равняется 1MiBi</string>
      <string name="modify_nick_name_hint">Введите ник (2-12 символов, букв и цифр)</string>
      <string name="more_subjects">Просмотреть другие темы</string>
      <string name="my_account">Мой аккаунт</string>
@@ -450,7 +450,7 @@
      <string name="service_of_birthday_gift">День Рождения GamePacks</string>
      <string name="service_of_charge_rebate">Дополнительные подарки:</string>
      <string name="service_of_customer_info">Сервис Инфо</string>
-     <string name="service_of_day_integral">每日积分</string>
+     <string name="service_of_day_integral">Ежедневные очки</string>
      <string name="service_of_exclusive_customer">VIP-Ассистент</string>
      <string name="service_of_feedbakc_online">Поддержка</string>
      <string name="service_of_issue_track">Прогресс</string>

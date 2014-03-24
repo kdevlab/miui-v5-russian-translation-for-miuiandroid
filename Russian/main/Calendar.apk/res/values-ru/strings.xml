@@ -183,7 +183,7 @@
      <string name="response_maybe">Возможно</string>
      <string name="response_no">Нет</string>
      <string name="response_yes">Да</string>
-     <string name="rest_day_indication">:)</string>
+     <string name="rest_day_indication">""</string>
      <string name="save_label">Готово</string>
      <string name="saving_event">Мероприятие сохранено</string>
      <string name="saving_event_with_guest">Обновления</string>
@@ -222,7 +222,7 @@
      <string name="widget_events">Предстоящие события</string>
      <string name="widget_no_events">Нет событий</string>
      <string name="widget_select_style">Выберите стиль виджета</string>
-     <string name="work_day_indication">:(</string>
+     <string name="work_day_indication">""</string>
      <string name="wuxing">五行</string>
      <string name="xingxiu">星宿</string>
      <string name="yearly">Ежегодно (%s)</string>
