@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Builded with CloudBuildr -->
+<!-- Builded with NXT -->
 <resources>
      <string name="BaMmi">Запрет вызовов</string>
      <string name="CLIRDefaultOffNextCallOff">Идентификация абонента по умолчанию не запрещена. След. вызов: разрешена</string>
@@ -43,9 +43,7 @@
      <string name="abbrev_month_day" formatted="false">%-e %b</string>
      <string name="abbrev_month_day_year" formatted="false">%d.%m.%Y</string>
      <string name="abbrev_month_year" formatted="false">%-b %Y</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="abbrev_wday_month_day_no_year">EEE, d MMMM</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="abbrev_wday_month_day_year">E, d MMM yyyy</string>
      <string name="accept">Принять</string>
      <string name="accessibility_binding_label">Спец. возможности</string>
@@ -75,7 +73,6 @@
      <string name="always_not_allow_popup">Подключение невозможно. Настройте мобильную сеть или WiFi для загрузки</string>
      <string name="always_not_allow_popup_3gonly">Подключение невозможно. Настройте мобильную сеть для загрузки</string>
      <string name="always_req_notice">Внимание!</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="am">am</string>
      <string name="android_system_label">Система Android</string>
      <string name="android_upgrading_apk">Оптимизация приложения %1$d из %2$d.</string>
@@ -261,7 +258,6 @@
      <string name="dum_popup_disconnect">Отключено Dial-Up соединение.</string>
      <string name="dun_not_connected">Dial-Up соединение отключено.</string>
      <string name="dun_noti_text">Отключено DUN.</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="dun_noti_ticker">DUN</string>
      <string name="dun_noti_title">Dial-Up соединение</string>
      <string name="editTextMenuTitle">Операции с текстом</string>
@@ -322,7 +318,6 @@
      <string name="force_close">ОК</string>
      <string name="format_error">Не удалось очистить USB-накопитель</string>
      <string name="fro_ena_to_ask_popup">Всегда спрашивать разрешение на использование мобильного соединения. За передачу данных может взиматься плата. Продолжить?</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="full_wday_month_day_no_year">EEEE, d MMMM</string>
      <string name="gadget_host_error_inflating">Не удалось добавить виджет</string>
      <string name="gigabyteShort">ГБ</string>
@@ -390,7 +385,6 @@
      <string name="ime_action_previous">Пред.</string>
      <string name="ime_action_search">Поиск</string>
      <string name="ime_action_send">Отправить</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="imei">IMEI</string>
      <string name="inputMethod">Способ ввода</string>
      <string name="input_method_binding_label">Способ ввода</string>
@@ -587,7 +581,6 @@
      <string name="media_shared">Сейчас USB-накопитель используется компьютером</string>
      <string name="media_unknown_state">Неизвестно состояние внешнего носителя</string>
      <string name="megabyteShort">МБ</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="meid">MEID</string>
      <string name="menu_delete_shortcut_label">удалить</string>
      <string name="menu_enter_shortcut_label">ввод</string>
@@ -672,7 +665,6 @@
      <string name="number_picker_increment_scroll_action">Проведите вверх, чтобы увеличить значение, и вниз, чтобы уменьшить его</string>
      <string name="number_picker_increment_scroll_mode">Нажмите и удерживайте %s</string>
      <string name="numeric_date" formatted="false">%d.%m.%Y</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="numeric_date_format">dd.MM.yyyy</string>
      <string name="numeric_date_template" formatted="false">%s.%s.%s</string>
      <string name="numeric_md1_md2">%3$s.%2$s - %8$s.%7$s</string>
@@ -698,7 +690,6 @@
      <string name="owner_name">Владелец</string>
      <string name="passwordIncorrect">Неверный пароль.</string>
      <string name="password_keyboard_label_alpha_key">АБВ</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="password_keyboard_label_alt_key">ALT</string>
      <string name="password_keyboard_label_symbol_key">\?123</string>
      <string name="paste">Вставить</string>
@@ -1158,10 +1149,8 @@
      <string name="phoneTypeFaxHome">Домашний факс</string>
      <string name="phoneTypeFaxWork">Рабочий факс</string>
      <string name="phoneTypeHome">Домашний</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="phoneTypeIsdn">ISDN</string>
      <string name="phoneTypeMain">Основной</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="phoneTypeMms">MMS</string>
      <string name="phoneTypeMobile">Мобильный</string>
      <string name="phoneTypeOther">Другой</string>
@@ -1175,7 +1164,6 @@
      <string name="phoneTypeWorkPager">Раб. пейджер</string>
      <string name="pinpuk_attempts">"
 Попыток осталось:"</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="pm">pm</string>
      <string name="policydesc_allow_camera">Перезагрузка</string>
      <string name="policydesc_disableCamera">Запретить использование камер на устройстве</string>
@@ -1322,10 +1310,8 @@
      <string name="serviceClassDataAsync">Асинхр.</string>
      <string name="serviceClassDataSync">Синхр.</string>
      <string name="serviceClassFAX">ФАКС</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="serviceClassPAD">PAD</string>
      <string name="serviceClassPacket">Пакет</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="serviceClassSMS">SMS</string>
      <string name="serviceClassVoice">Голосовая связь</string>
      <string name="serviceDisabled">Служба отключена</string>
@@ -1373,11 +1359,6 @@
      <string name="sms_short_code_confirm_allow">ОГтправить</string>
      <string name="sms_short_code_confirm_always_allow">Разрешить всегда</string>
      <string name="sms_short_code_confirm_deny">Отмена</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <!-- The count of MNPS does not match! Now: 0 must: 2
-	%s: 0 must: 2
-	%d: 0 must: 0 -->
-     <!-- Original string: &lt;b>%1$s&lt;/b> хочет отправить сообщение &lt;b>%2$s&lt;/b>. -->
      <string name="sms_short_code_confirm_message"></string>
      <string name="sms_short_code_confirm_never_allow">Запретить всегда</string>
      <string name="sms_short_code_details">Это <font fgcolor="#ffffb060">может привести к расходам</font> на вашем счету.</string>
@@ -1389,19 +1370,12 @@
      <string name="ssl_certificate">Сертификат безопасности</string>
      <string name="ssl_certificate_is_valid">Этот сертификат действителен</string>
      <string name="status_bar_device_locked">Устройство заблокировано.</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="status_bar_notification_info_overflow">>999</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="stkCcSsToDial">SS request is modified to DIAL request.</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="stkCcSsToSs">SS request is modified to new SS request.</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="stkCcSsToUssd">SS request is modified to USSD request.</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="stkCcUssdToDial">USSD request is modified to DIAL request.</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="stkCcUssdToSs">USSD request is modified to SS request.</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="stkCcUssdToUssd">USSD request is modified to new USSD request.</string>
      <string name="storage_external_usb">Внешний USB-накопитель</string>
      <string name="storage_internal">Внутренняя память</string>
@@ -1532,7 +1506,6 @@
      <string name="wifi_p2p_to_message">Кому:</string>
      <string name="wifi_p2p_turnon_message">Начать соединение через Wi-Fi Direct. Модуль Wi-Fi будет отключен.</string>
      <string name="wifi_p2p_wps_setup">Настройки защиты Wi-Fi</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="wifi_tether_configure_ssid_default">KDevPhone</string>
      <string name="wifi_watchdog_network_disabled">Не удалось подключиться к сети Wi-Fi</string>
      <string name="wifi_watchdog_network_disabled_detailed">" – плохое интернет-соединение"</string>
