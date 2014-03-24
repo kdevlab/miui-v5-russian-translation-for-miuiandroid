@@ -1,29 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Builded with CloudBuildr -->
+<!-- Builded with NXT -->
 <resources>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="app_name">Dolby</string>
      <string name="bright">Яркий</string>
      <string name="colon">:</string>
      <string name="copyright">Dolby и double-D являются зарегистрированными товарными знаками Dolby Laboratories. ©2013 Dolby Laboratories. Все права защищены.</string>
      <string name="custom">Вручную</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="db0">0dB</string>
      <string name="db12">12дБ</string>
      <string name="db24">24 дБ</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="db36">36dB</string>
      <string name="dbn12">-12дБ</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="default_text">null</string>
      <string name="dialogue_enhancer">Усиление голоса</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="dolbyDigitalPlus">Dolby Digital Plus</string>
      <string name="exit">Выход</string>
      <string name="focused">Фокусированный</string>
      <string name="game">Игра</string>
      <string name="graphical_equalizer">Графический EQ:</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="instore_app_name">DsInStoreDemoApp</string>
      <string name="instore_menu_text">Демо видео</string>
      <string name="intelligent_equalizer">Интеллектуальный EQ:</string>

@@ -2,92 +2,92 @@
 <!-- Builded with NXT -->
 <resources>
      <plurals name="device_import_done_toast">
-        <item quantity="other">Импортировано контактов: %1$d</item>
         <item quantity="one">Импортировано контактов: %1$d</item>
+        <item quantity="other">Импортировано контактов: %1$d</item>
      </plurals>
      <plurals name="group_add_success_toast">
-        <item quantity="other">" %1$d добавлено"</item>
         <item quantity="one">%1$d контакт добавлен</item>
+        <item quantity="other">" %1$d добавлено"</item>
      </plurals>
      <plurals name="group_list_num_contacts_in_group">
-        <item quantity="other">Номеров: %1$d</item>
         <item quantity="one">Номеров: %1$d</item>
+        <item quantity="other">Номеров: %1$d</item>
      </plurals>
      <plurals name="group_list_num_numbers_in_group">
-        <item quantity="other">номеров: %1$d</item>
         <item quantity="one">номеров: %1$d</item>
+        <item quantity="other">номеров: %1$d</item>
      </plurals>
      <plurals name="hint_search_contacts">
-        <item quantity="other">Контактов: %1$d</item>
         <item quantity="one">Контактов: %1$d</item>
+        <item quantity="other">Контактов: %1$d</item>
      </plurals>
      <plurals name="hint_search_emails">
-        <item quantity="other">Адресов почты: %1$d</item>
         <item quantity="one">Адресов почты: %1$d</item>
+        <item quantity="other">Адресов почты: %1$d</item>
      </plurals>
      <plurals name="hint_search_phone_numbers">
-        <item quantity="other">Номеров: %1$d</item>
         <item quantity="one">Номеров: %1$d</item>
+        <item quantity="other">Номеров: %1$d</item>
      </plurals>
      <plurals name="listFoundAllContacts">
-        <item quantity="other">Найдено: %d</item>
         <item quantity="one">Найдено: %1$d</item>
+        <item quantity="other">Найдено: %d</item>
      </plurals>
      <plurals name="listTotalAllContacts">
-        <item quantity="other">Контактов: %d</item>
         <item quantity="one">Контактов: %1$d</item>
+        <item quantity="other">Контактов: %d</item>
      </plurals>
      <plurals name="listTotalPhoneContacts">
-        <item quantity="other">Контакты с номерами телефонов: %d</item>
         <item quantity="one">Контакты с номерами телефона: %1$d</item>
+        <item quantity="other">Контакты с номерами телефонов: %d</item>
      </plurals>
      <plurals name="merge_info">
-        <item quantity="other">объединено из нескольких источников (%0$d)</item>
         <item quantity="one">не объединен</item>
+        <item quantity="other">объединено из нескольких источников (%0$d)</item>
      </plurals>
      <plurals name="notification_voicemail_title">
-        <item quantity="other">Голосовые сообщения: %1$d</item>
         <item quantity="one">Голосовые сообщения: %1$d</item>
+        <item quantity="other">Голосовые сообщения: %1$d</item>
      </plurals>
      <plurals name="numSelectedSimContacts">
+        <item quantity="one">Выбрано контактов: %1$d</item>
         <item quantity="other">Выбрано контактов: %1$d</item>
         <item quantity="zero">Выбрано контактов: %1$d</item>
-        <item quantity="one">Выбрано контактов: %1$d</item>
      </plurals>
      <plurals name="num_contacts_in_group">
-        <item quantity="other">%2$s. В группе %1$d чел.</item>
         <item quantity="one">%2$s. В группе %1$d чел.</item>
+        <item quantity="other">%2$s. В группе %1$d чел.</item>
      </plurals>
      <plurals name="num_groups_in_account">
-        <item quantity="other">Групп: %0$d</item>
         <item quantity="one">Групп: %0$d</item>
+        <item quantity="other">Групп: %0$d</item>
      </plurals>
      <plurals name="number_of_items_selected">
-        <item quantity="other">Выбрано: %1$d</item>
         <item quantity="one">Выбрано: %1$d</item>
+        <item quantity="other">Выбрано: %1$d</item>
      </plurals>
      <plurals name="pick_favorites_contacts_list_title">
-        <item quantity="other">Избранных: %1$d</item>
         <item quantity="one">Избранных: %1$d</item>
+        <item quantity="other">Избранных: %1$d</item>
      </plurals>
      <plurals name="pick_favorites_list_title">
-        <item quantity="other">Избранных: %1$d</item>
         <item quantity="one">Избранных: %1$d</item>
+        <item quantity="other">Избранных: %1$d</item>
      </plurals>
      <plurals name="pick_recent_contacts_list_title">
-        <item quantity="other">Недавние: %1$d</item>
         <item quantity="one">Недавние: %1$d</item>
+        <item quantity="other">Недавние: %1$d</item>
      </plurals>
      <plurals name="pick_recent_list_title">
-        <item quantity="other">Недавние: %1$d</item>
         <item quantity="one">Недавние: %1$d</item>
+        <item quantity="other">Недавние: %1$d</item>
      </plurals>
      <plurals name="searchFoundContacts">
-        <item quantity="other">Найдено: %d</item>
         <item quantity="one">Найдено: %1$d</item>
+        <item quantity="other">Найдено: %d</item>
      </plurals>
      <plurals name="smart_group_member_count">
-        <item quantity="other">Контактов: %1$d</item>
         <item quantity="one">Контактов: %1$d</item>
+        <item quantity="other">Контактов: %1$d</item>
      </plurals>
 </resources>

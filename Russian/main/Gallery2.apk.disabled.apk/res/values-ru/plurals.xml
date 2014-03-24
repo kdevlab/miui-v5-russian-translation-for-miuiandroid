@@ -1,22 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!-- Builded with NXT -->
 <resources>
-    <plurals name="number_of_items_selected">
-        <item quantity="other">Выбрано: %1$d</item>
-        <item quantity="zero">Выбрано: %1$d</item>
-        <item quantity="one">Выбрано: %1$d</item>
-    </plurals>
-    <plurals name="number_of_albums_selected">
-        <item quantity="other">Выбрано: %1$d</item>
-        <item quantity="zero">Выбрано: %1$d</item>
-        <item quantity="one">Выбрано: %1$d</item>
-    </plurals>
-    <plurals name="number_of_groups_selected">
-        <item quantity="other">Выбрано: %1$d</item>
-        <item quantity="zero">Выбрано: %1$d</item>
-        <item quantity="one">Выбрано: %1$d</item>
-    </plurals>
-    <plurals name="make_albums_available_offline">
-        <item quantity="other">Загрузка альбомов для офлайн-доступа</item>
+     <plurals name="make_albums_available_offline">
         <item quantity="one">Загрузка альбома для офлайн-доступа</item>
-    </plurals>
+        <item quantity="other">Загрузка альбомов для офлайн-доступа</item>
+     </plurals>
+     <plurals name="number_of_albums_selected">
+        <item quantity="one">Выбрано: %1$d</item>
+        <item quantity="other">Выбрано: %1$d</item>
+        <item quantity="zero">Выбрано: %1$d</item>
+     </plurals>
+     <plurals name="number_of_groups_selected">
+        <item quantity="one">Выбрано: %1$d</item>
+        <item quantity="other">Выбрано: %1$d</item>
+        <item quantity="zero">Выбрано: %1$d</item>
+     </plurals>
+     <plurals name="number_of_items_selected">
+        <item quantity="one">Выбрано: %1$d</item>
+        <item quantity="other">Выбрано: %1$d</item>
+        <item quantity="zero">Выбрано: %1$d</item>
+     </plurals>
 </resources>

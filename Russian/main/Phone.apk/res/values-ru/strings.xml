@@ -270,7 +270,6 @@
      <string name="cb_sms_settings">Настройки широковещательных SMS-служб</string>
      <string name="cdma_activate_device">Активировать устройство</string>
      <string name="cdma_cfu_dialog_sum">Всегда использовать этот номер</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="cdma_cfu_title">China Telecom</string>
      <string name="cdma_conference_call_miui">Конференц-связь</string>
      <string name="cdma_display_precise_call_state_message_miui">Если Ваш оператор не поддерживает, то состояние вызова будет показано неправильно, если эта опция включена. Вы действительно хотите включить?</string>
@@ -290,7 +289,6 @@
      <string name="cdma_three_way_calls_miui">Три способа вызова</string>
      <string name="cell_bc_sms_disable">Широковещательные сообщения отключены</string>
      <string name="cell_bc_sms_enable">Широковещательные сообщения включены</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="cell_broadcast">Cell broadcast</string>
      <string name="cell_broadcast_settings">Настройки Cell broadcast</string>
      <string name="cell_broadcast_sms">Широковещательные сообщения</string>
@@ -570,7 +568,6 @@
      <string name="gemini_3g_disable_warning_case0">Необходимо включить передачу данных в роуминге для этой SIM-карты, которые могут повлечь за собой значительные расходы на услуги связи! Включить передачу данных в роуминге и выбрать эту SIM-карту?</string>
      <string name="gemini_3g_disable_warning_case1">3G недоступен для выбранной SIM-карты. Из-за этого загрузка данных будет медленной. Включить 3G сеть для этой SIM-карты можно через Настройки &gt; Беспроводные сети &gt; Мобильные сети. Выбрать эту SIM-карту?</string>
      <string name="gemini_3g_disable_warning_case2">Необходимо включить передачу данных в роуминге для этой SIM-карты, которые могут повлечь за собой значительные расходы на услуги связи! Кроме того 3G недоступен для выбранной SIM-карты. Из-за этого загрузка данных будет медленной. Включить 3G сеть для этой SIM-карты можно через Настройки &gt; Беспроводные сети &gt; Мобильные сети. Включить передачу данных в роуминге и выбрать эту SIM-карту?</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="gemini_3g_indic">3G</string>
      <string name="gemini_data_connection">Подключение для передачи данных</string>
      <string name="general_news_settings">Основные новости</string>
@@ -949,7 +946,6 @@
      <string name="pin2_invalid_or_name_is_too_long">Вы ввели неправильный PIN или имя слишком длинное.</string>
      <string name="pin2_lock_warning_miui">Обратите внимание что связанная с PIN2 функциональность будет заблокирована при ошибке!</string>
      <string name="pin2_locked_message_miui">Неправильный PIN2, связанные с PIN2 функции заблокированы. Сбросьте PIN2 с помощью PUK2</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="pin2_name">PIN2</string>
      <string name="pin2_or_fdn_invalid">FDN услуга не обновлена. PIN2 неправильный, или номер телефона был отклонен.</string>
      <string name="pin2_unblocked">PIN2 разблокирован!</string>
@@ -1135,9 +1131,9 @@
      <string name="select_automatically">Выбирать автоматически</string>
      <string name="select_clear">Очистить выделение</string>
      <string name="select_from">Выбрать из</string>
+     <string name="select_network_automatic_hint_miui">"Не могу зарегистрироваться в выбранной сети, выберите предпочтит. сети автоматически"</string>
      <string name="select_trash">Мусор</string>
      <string name="selected_item_count">Выбрано: %d</string>
-     <string name="select_network_automatic_hint_miui">"Не могу зарегистрироваться в выбранной сети, выберите предпочтит. сети автоматически"</string>
      <string name="sendSms">Отправить SMS</string>
      <string name="send_button">Позвонить</string>
      <string name="send_keepalive_summary">Отправить сообщение для сохранения активным SIP</string>
@@ -1181,7 +1177,6 @@
      <string name="sim_lock_on_miui">Запрашивать PIN, чтобы использовать телефон</string>
      <string name="sim_lock_title_miui">Блокировка SIM-карты</string>
      <string name="sim_manage_call_via">Вызов через</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="sim_manage_indicator_3g">3G</string>
      <string name="sim_manage_sipcall">Интернет-вызов</string>
      <string name="sim_manage_suggested">Предложенное</string>

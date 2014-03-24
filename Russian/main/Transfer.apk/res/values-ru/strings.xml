@@ -22,7 +22,6 @@
      <string name="canceling">Отмена…</string>
      <string name="choose_title">Выберите файл</string>
      <string name="complete">Готово!</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="confirm">OK</string>
      <string name="connect_confirm">Запрос подключения: %1$s</string>
      <string name="connecting">Соединение</string>
@@ -84,7 +83,6 @@
      <string name="load_file_error">Ошибка загрузки файла!</string>
      <string name="loading_file">Загрузка файла…</string>
      <string name="login_failed">Не удалось войти в аккаунт Xiaomi!</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="mishare_app_name">MiShare</string>
      <string name="network_not_connected">Сетевое подключение недоступно! Попробуйте еще раз.</string>
      <string name="no_content">Нет содержимого</string>
@@ -98,9 +96,7 @@
      <string name="noti_wait_send">"Ожидание приема. Убедитесь, что отправитель имеет возможность передавать файлы "</string>
      <string name="notify_after_download">Сообщить после загрузки</string>
      <string name="notify_after_restore">Сообщить после восстановления</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="ok">OK</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="online_file">MiDrive</string>
      <string name="only_support_single_share">Поддерживается отправка только одного файла</string>
      <string name="open">Открыть</string>
@@ -191,10 +187,6 @@
      <string name="summary_step_two">Поделиться информацией о приложении AnyShare</string>
      <string name="support_tip">Техническая поддержка: AnyShare</string>
      <string name="title_createfolder">Новая папка</string>
-     <!-- The count of MNPS does not match! Now: 1 must: 1
-	%s: 1 must: 0
-	%d: 0 must: 0 -->
-     <!-- Original string: % selected -->
      <string name="title_selectfile_num">Выбрано файлов: %s</string>
      <string name="title_step_one">1. Файлы можно передавать без использования сетевого подключения</string>
      <string name="title_step_three">3. Неограниченный обмен файлами с друзьями</string>
@@ -225,6 +217,5 @@
      <string name="wanna_receive">Получить</string>
      <string name="welcome_tip1">Быстрая передача файлов с минимальным потреблением трафика сети</string>
      <string name="welcome_tip2">Быстрая передача фотографий, музыки, контактов и многого другого</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="you_can">OK</string>
 </resources>

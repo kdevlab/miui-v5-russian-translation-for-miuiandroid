@@ -8,7 +8,6 @@
      <string name="adjust_position_next_media_notice">Далее</string>
      <string name="adjust_position_prev_media_notice">Назад</string>
      <string name="airkan_control_device_des">Вы можете управлять воспроизведением видео с помощью кнопки в нижней части</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="airkan_device_xiaomi_phone">Xiaomi</string>
      <string name="airkan_tips">"Нажмите здесь, чтобы смотреть видео 
 на Xiaomi TV Box"</string>
@@ -28,7 +27,6 @@
      <string name="auto_play">Автовоспроизведение</string>
      <string name="auto_play_summary">Воспроизводить видео после буферизации или завершения загрузки</string>
      <string name="be_living_status">Сейчас</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="bestv">Bestv</string>
      <string name="brief_intro">Описание</string>
      <string name="browse_devices">Устройства</string>
@@ -84,12 +82,10 @@
      <string name="delete_media_content">Удалить выбранные файлы?</string>
      <string name="di_count_ji">%d серия</string>
      <string name="di_count_qi">%s сезон</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="dianyingwang">M1905</string>
      <string name="director_colon">"Режиссер: "</string>
      <string name="disk_volume">SD-карта</string>
      <string name="dlna_list_name">DLNA устройство</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="dlna_name">Shared device</string>
      <string name="download">Кэш</string>
      <string name="download_add_file_fail">Ошибка создания файла. Достаточно ли у вас свободного места?</string>
@@ -105,7 +101,6 @@
      <string name="episode_suffix" />
      <string name="favorite">Избранное</string>
      <string name="favorited_cannot_hide">Избранные нельзя скрыть</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="fenghuang">iFeng</string>
      <string name="file_not_exist">Файл не найден</string>
      <string name="filter">Фильтр</string>
@@ -116,17 +111,14 @@
      <string name="find_media_searching">Поиск…</string>
      <string name="finish">Готово</string>
      <string name="finish_download">Загрузка завершена</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="forecast_living_status">Live</string>
      <string name="fullscreen_hint_auto">Переключение в полноэкранный режим…</string>
      <string name="fullscreen_hint_horizontal">Для перехода в полный экран, нажмите иконку в верхнем левом углу</string>
      <string name="fullscreen_hint_vertical">Для перехода в полный экран, нажмите кнопку ниже</string>
      <string name="fullscreen_to_play">Полный экран</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="funshion">Funshion</string>
      <string name="gong_count_dlna">DLNA: %d</string>
      <string name="gong_count_xiang">Файлов: %d</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="good">OK</string>
      <string name="have_no_cameravideo">Нет видео</string>
      <string name="have_no_offlinemedia">Пусто</string>
@@ -134,7 +126,6 @@
      <string name="hided_cannot_favorite">Скрытые нельзя избрать</string>
      <string name="hint_can_not_get_source_info">Нет источника видео</string>
      <string name="hint_without_selected_set">Источник не выбран, автоматический поиск…</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="icntv">iCNTV</string>
      <string name="in_download">Загрузка</string>
      <string name="in_download_notification">%d видео уже загружается</string>
@@ -148,7 +139,6 @@
      <string name="jni_res_timout">Не удалось получить данные. Проверьте сеть.</string>
      <string name="jni_res_unkown_error">Неизвестная ошибка</string>
      <string name="key_back_down_toast">Нажмите еще раз, чтобы выйти</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="lekan">Lekan</string>
      <string name="live_loading_symbol"><CDATA>Загрузка </CDATA></string>
      <string name="live_loading_to_be_play">Загрузка…</string>
@@ -157,9 +147,7 @@
      <string name="live_tabs_all">Все</string>
      <string name="live_tabs_choice">Популярное</string>
      <string name="live_tabs_hot">Топ</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="live_title">Live</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="livetv">Live</string>
      <string name="load_data_failed">Не удалось получить данные, проверьте сеть</string>
      <string name="load_failed_to_try">Ошибка загрузки</string>
@@ -235,12 +223,10 @@
      <string name="offline_media_more">Еще</string>
      <string name="offline_no_source">Нет источника</string>
      <string name="offline_no_wifi">Вы не используете Wi-Fi сеть. Проверьте в настройках опцию мобильный интернет, если хотите продолжить.</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="offline_select_better_source">Has been switched to available caching source</string>
      <string name="offline_setting">Оффлайн медиа</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="ok">OK</string>
-	 <string name="online_video">Онлайн</string>
+     <string name="online_video">Онлайн</string>
      <string name="open_camera">Камера</string>
      <string name="other_setting">Прочие</string>
      <string name="others">Прочие</string>
@@ -257,7 +243,6 @@
      <string name="play_setting">Воспроизведение</string>
      <string name="playvideo">Воспроизвести</string>
      <string name="publish">Отправить</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="qiyi">iQiyi</string>
      <string name="quarter_bell_alert_button_cancel">Отмена</string>
      <string name="quarter_bell_alert_button_cancelappointment">Удалить</string>
@@ -266,7 +251,7 @@
      <string name="quarter_bell_alert_message_cancel">После отмены бронирования, вы не будете получать напоминания до начала программы</string>
      <string name="quarter_bell_alert_title">Напоминание</string>
      <string name="rank">Топ</string>
-	 <string name="receive_ad_notify">Пуш уведомления</string>
+     <string name="receive_ad_notify">Пуш уведомления</string>
      <string name="receive_ad_notify_summary">После открытия, получать самые свежие и популярные видео</string>
      <string name="recentplay">Недавние</string>
      <string name="recommendation">Рекомендуем</string>
@@ -285,25 +270,22 @@
      <string name="series_colon">"Эпизодов: "</string>
      <string name="setting">Настройки</string>
      <string name="show_hidemedia">Показывать скрытые файлы</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="souhu">Souhu</string>
      <string name="special_subject">Специальные</string>
      <string name="start_download">Скачать</string>
-	 <string name="start_time">время начала</string>
+     <string name="start_time">время начала</string>
      <string name="subchannel_all">Все</string>
      <string name="success_add_myfavorite">Добавлено в избранное</string>
-	 <string name="success_add_waitfornewset">успешно</string>
+     <string name="success_add_waitfornewset">успешно</string>
      <string name="success_cancel_myfavorite">Убрано из избранного</string>
      <string name="success_cancel_waitfornewset">Слежение остановлено</string>
      <string name="success_to_cancel_myfavorite">Отменено</string>
      <string name="tags_colon">"Жанр: "</string>
      <string name="temp_play_history_button_label">История просмотров</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="tencent">Tencent</string>
      <string name="time_colon">"Год: "</string>
      <string name="to_be_play_label_v5">"Далее: "</string>
      <string name="to_live_status">Ожидание начала</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="to_play_airekan">Cast</string>
      <string name="toast_back_key_pressed_notice">Нажмите еще раз, чтобы выйти</string>
      <string name="toast_message_continue_play_from">Продолжение просмотра с </string>
@@ -314,7 +296,6 @@
      <string name="today">"Сегодня "</string>
      <string name="top_status_local_media">Локально</string>
      <string name="top_status_online_media">Онлайн</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="tudou">Tudou</string>
      <string name="unknown_source">Неизвестный источник</string>
      <string name="update">Обновлено</string>
@@ -334,13 +315,13 @@
      <string name="video_info_video_coding_label">Видео кодек:</string>
      <string name="video_library">Видео</string>
      <string name="view_all_reviews">Еще %d коммен.</string>
-	 <string name="visit_postfix">| недавно посещенные</string>
+     <string name="visit_postfix">| недавно посещенные</string>
      <string name="vp_VideoView_error_button">OK</string>
      <string name="vp_VideoView_error_network_not_available">Сеть не доступна</string>
      <string name="vp_VideoView_error_text_invalid_progressive_playback">Невозможно воспроизвести видео</string>
      <string name="vp_VideoView_error_text_unknown">Формат видео не поддерживается</string>
      <string name="vp_VideoView_error_title">Ошибка воспроизведения!</string>
-	 <string name="vp_full_high_definition">1080P</string>
+     <string name="vp_full_high_definition">1080P</string>
      <string name="vp_high_definition">HD</string>
      <string name="vp_next_ci">Следующий эпизод</string>
      <string name="vp_offline">Офлайн</string>
@@ -355,6 +336,5 @@
      <string name="xiaomi_user">Аккаунт Xiaomi</string>
      <string name="year">.</string>
      <string name="yestorday">"Вчера "</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="youku">Youku</string>
 </resources>

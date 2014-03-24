@@ -3,7 +3,7 @@
 <resources>
      <string name="activity_not_found">Приложение не найдено</string>
      <string name="application_name">Рабочий стол</string>
-	 <string name="apply_as_lock_wallpaper">OK</string>
+     <string name="apply_as_lock_wallpaper">OK</string>
      <string name="apply_as_lock_wallpaper_message">Применить также на экран блокировки?</string>
      <string name="aqi_quality_index_dangerous">Опасно</string>
      <string name="aqi_quality_index_good">Хорошо</string>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Builded with CloudBuildr -->
+<!-- Builded with NXT -->
 <resources>
      <string name="adjust_traffic_carrier_summary_more_onemonth_before">Обновлено более месяца назад</string>
      <string name="adjust_traffic_carrier_summary_more_oneweek_before">Обновлено более недели назад</string>
@@ -83,7 +83,7 @@
 использовано"</string>
      <string name="manual_input_free_traffic">Set off-peak data usage</string>
      <string name="manual_input_traffic">Введите предел трафика</string>
-	 <string name="network_assistant_upgraded_body">Нажмите, чтобы ограничить использование данных</string>
+     <string name="network_assistant_upgraded_body">Нажмите, чтобы ограничить использование данных</string>
      <string name="network_assistant_upgraded_title">Обновление завершено</string>
      <string name="network_control">Управление трафиком</string>
      <string name="notification_content_title">Использовано %1$s во время блокировки</string>

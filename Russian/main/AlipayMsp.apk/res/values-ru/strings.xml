@@ -6,24 +6,17 @@
      <string name="msp_alert_title">Предупреждение</string>
      <string name="msp_allow_back_hint">本次支付尚未完成，是否退出支付宝快捷支付服务？</string>
      <string name="msp_app_error">系统繁忙，请稍后再试。</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="msp_app_name">msp</string>
      <string name="msp_channel_state">当前选中已足够付款</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="msp_close">Закрыть</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="msp_confirm_install_hint">Обновить</string>
      <string name="msp_debug_app_error">程序发生错误！点击确定退出程序。</string>
      <string name="msp_debug_null_data">返回的业务数据为空</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="msp_debug_win_data_error">Illegal window data.</string>
      <string name="msp_download_fail">Download apk failed, retry?</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="msp_error_title_default">Ошибка</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="msp_exit">Выйти</string>
      <string name="msp_install_continue">安装尚未完成，是否继续？</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="msp_loading_default">Загрузка</string>
      <string name="msp_memo_app_cancel">程序或者数据出现问题。</string>
      <string name="msp_memo_net_cancel">网络错误取消。</string>
@@ -32,25 +25,16 @@
      <string name="msp_memo_user_cancel">操作已经取消。</string>
      <string name="msp_net_error">不能连接到网络，是否重试？</string>
      <string name="msp_net_error_exit">出现网络错误，请稍后重试。</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="msp_off">ВЫК</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="msp_on">ВК</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="msp_please_input">Введите</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="msp_redo">Redo</string>
      <string name="msp_str_null" />
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="msp_xlistview_footer_hint_no_more">Загружено</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="msp_xlistview_footer_hint_normal">Еще</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="msp_xlistview_footer_hint_ready">Отпустите, чтобы обновить</string>
      <string name="msp_xlistview_header_hint_loading">Загрузка…</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="msp_xlistview_header_hint_normal">Потяните, чтобы обновить</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="msp_xlistview_header_hint_ready">Отпустите, чтобы обновить</string>
      <string name="msp_xlistview_header_last_time">Обновлено :</string>
 </resources>

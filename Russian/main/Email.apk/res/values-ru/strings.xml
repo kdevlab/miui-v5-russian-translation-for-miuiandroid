@@ -115,7 +115,6 @@
      <string name="account_setup_incoming_security_none_label">Нет</string>
      <string name="account_setup_incoming_security_ssl_label">SSL/TLS</string>
      <string name="account_setup_incoming_security_ssl_trust_certificates_label">SSL/TLS (принимать все сертификаты)</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="account_setup_incoming_security_tls_label">STARTTLS</string>
      <string name="account_setup_incoming_security_tls_trust_certificates_label">STARTTLS (принимать все сертификаты)</string>
      <string name="account_setup_incoming_title">Настройки аккаунта</string>
@@ -233,7 +232,6 @@
      <string name="eml_view_title">Просмотр файла %s</string>
      <string name="error_loading_message_body">Не удалось загрузить сообщение. Возможно, оно слишком большое</string>
      <string name="exchange_name">Корпоративный</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="exchange_name_alternate">Microsoft Exchange</string>
      <string name="favorite_action">В избранное</string>
      <string name="forward_action">Переслать</string>

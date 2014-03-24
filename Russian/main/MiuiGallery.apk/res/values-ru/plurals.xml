@@ -2,23 +2,23 @@
 <!-- Builded with NXT -->
 <resources>
      <plurals name="number_of_cloudimages">
+        <item quantity="one">Изображений: %1$d</item>
         <item quantity="other">Изображений: %1$d</item>
         <item quantity="zero">Изображений: %1$d</item>
-        <item quantity="one">Изображений: %1$d</item>
      </plurals>
      <plurals name="number_of_images">
+        <item quantity="one">Изображений: %1$d</item>
         <item quantity="other">Изображений: %1$d</item>
         <item quantity="zero">Изображений: %1$d</item>
-        <item quantity="one">Изображений: %1$d</item>
      </plurals>
      <plurals name="number_of_items_selected">
+        <item quantity="one">Выбрано: %1$d</item>
         <item quantity="other">Выбрано: %1$d</item>
         <item quantity="zero">Выбрано: %1$d</item>
-        <item quantity="one">Выбрано: %1$d</item>
      </plurals>
      <plurals name="number_of_pictures">
+        <item quantity="one">%1$d</item>
         <item quantity="other">%1$d</item>
         <item quantity="zero">%1$d</item>
-        <item quantity="one">%1$d</item>
      </plurals>
 </resources>

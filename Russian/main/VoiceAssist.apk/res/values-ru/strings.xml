@@ -2,7 +2,6 @@
 <!-- Builded with NXT -->
 <resources>
      <string name="about">О программе</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="account_unactivated">Account not activated.</string>
      <string name="act_find_city_hint">Поиск из 2400 городов (Chinese/Pinyin)</string>
      <string name="act_find_city_hot_title">Популярные города</string>
@@ -30,7 +29,6 @@
      <string name="alert_provider_message">Разрешить приложению использовать ваше текущее местоположение?</string>
      <string name="alert_provider_title">Уведомления местоположения</string>
      <string name="all_resources">Все</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="app_about_1">v4.0.1</string>
      <string name="app_about_2">Copyright © 2012 miui.com, All Rights Reserved</string>
      <string name="app_def_city">Пекин</string>
@@ -68,9 +66,7 @@
      <string name="app_weather_friend_delete_title">Удалить контакт</string>
      <string name="app_weather_friend_title_1">Поделиться погодой с другом</string>
      <string name="app_weather_friend_title_2">将今日天气通过短信或电话转给联系人</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="arrow">></string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="arrow_down">v</string>
      <string name="avg_price">Цена： %1$s юань</string>
      <string name="begin_talk">Поиск</string>
@@ -101,26 +97,17 @@
      <string name="content">Содержание</string>
      <string name="day">日</string>
      <string name="deleting">Удаление…</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="description_author">Author</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="description_designer">Designer</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="description_download">Downloaded</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="description_size">Size</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="description_summary">Summary</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="description_uploadtime">Update</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="description_version">Version</string>
      <string name="description_version_szie">Version: %1$s Size: %2$s</string>
      <string name="download_failed">Ошибка загрузки</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="download_preview_failed">Failed to load preview.</string>
      <string name="engine_settings_button">Настройки запуска</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="fail_to_add_account">Failed to add account.</string>
      <string name="find_more_restaurant">Посмотреть еще</string>
      <string name="find_restaurant_nearby">Найти рестораны поблизости</string>
@@ -136,7 +123,6 @@
      <string name="init_ok">Инициализация идентификации будет завершена</string>
      <string name="invert_stop_report">Переверните, чтобы остановить отчет</string>
      <string name="loading">Loading…</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="loading_resource_detail_fail">Failed to load resource.</string>
      <string name="loading_resource_detail_info">Loading…</string>
      <string name="local_category">ТЕЛЕФОН</string>
@@ -182,10 +168,9 @@
      <string name="not_understand">Ошибка распознания, повторите попытку</string>
      <string name="online_category">ОНЛАЙН</string>
      <string name="online_no_network">"Couldn't connect to network."</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="online_search_hint">Search for online resources</string>
      <string name="over_24h_clock_operation">Вы не можете установить будильник более 24 часов, следует создать заметку в календарь</string>
-	 <string name="password_guard">Защита</string>
+     <string name="password_guard">Защита</string>
      <string name="phone_by_ear_launch">Поднесите телефон к уху</string>
      <string name="phone_report">Отчет вызовов</string>
      <string name="quick_launch_settings">Быстрый запуск</string>
@@ -210,176 +195,106 @@
      <string name="res_speech_timeout">语音超时</string>
      <string name="res_unsupport_error">未实现相关业务</string>
      <string name="resource_account_abnormal_state">Account error: Try again later.</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="resource_account_fail_to_add">Failed to add account.</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="resource_account_login">Sign In</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="resource_account_login_before_action">You need to sign in to your Xiaomi Account first.</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="resource_account_login_title">Sign In</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="resource_account_switch">Switch</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="resource_alarm_default">Alarm</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="resource_app_name">Resource Browser</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="resource_apply">Apply</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="resource_apply_trial">Try now</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="resource_buy">Buy</string>
      <string name="resource_can_not_selected">%1$s can not be selected.</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="resource_category">Category</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="resource_comment_1_star">1 Star</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="resource_comment_2_star">2 Stars</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="resource_comment_3_star">3 Stars</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="resource_comment_4_star">4 Stars</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="resource_comment_5_star">5 Stars</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="resource_comment_all_comments">All</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="resource_comment_average_score">Ratings</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="resource_comment_bad_comments">Negative</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="resource_comment_current_version">Current version</string>
      <string name="resource_comment_date">%1$02d-%2$02d</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="resource_comment_edit_comment">Add comments</string>
      <string name="resource_comment_edit_comment_waiting">Checking user history…</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="resource_comment_edit_text_default">Write a comment</string>
      <string name="resource_comment_edit_title">Edit comment: %1$s</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="resource_comment_entry_tips">View comments</string>
      <string name="resource_comment_expand_full_text">Expand all text▼</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="resource_comment_footer">Empty comments are not displayed.</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="resource_comment_good_comments">Positive</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="resource_comment_invalid">Touch the stars to rate</string>
      <string name="resource_comment_loading_list">Loading…</string>
      <string name="resource_comment_name_default">User %1$s</string>
      <string name="resource_comment_no_average_score">-.-</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="resource_comment_no_comment">No comments.</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="resource_comment_publish">Submit</string>
      <string name="resource_comment_rate">Rating:</string>
      <string name="resource_comment_score_count">%1$s users</string>
      <string name="resource_comment_sending">Sending comment…</string>
      <string name="resource_comment_title">Comments: %1$s</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="resource_comment_upload_data_invalid">Comment invalid.</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="resource_comment_upload_failed">Failed to send comment.</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="resource_comment_upload_hint">Your comment will be displayed after a brief review.</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="resource_comment_upload_not_bought">You must use the theme before you can write comments.</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="resource_comment_upload_not_logined">Please log in first</string>
      <string name="resource_comment_upload_success">Comment sent! Your comment will be displayed after a brief review.</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="resource_default">Default ringtone</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="resource_default_name">Resource</string>
      <string name="resource_delete_all">Delete %1$d selected resources?</string>
      <string name="resource_delete_confirm">Delete these resources?</string>
      <string name="resource_delta_update_failed">Update failed: re-downloading theme…</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="resource_delta_update_successful">Update successful</string>
      <string name="resource_delta_update_total">%1$d delta updates saved %2$s</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="resource_detail">Details</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="resource_detail_comment_title">Comments</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="resource_detail_jump_to_online_title">Online</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="resource_detail_jump_to_same_author_title">Same author</string>
      <string name="resource_detail_recommend_desiner_other_themes">Other themes designed by %1$s</string>
      <string name="resource_detail_recommend_desiner_themes">%1$s themes</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="resource_detail_recommend_other_themes">Users also liked</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="resource_detail_update_log_title">Updates</string>
      <string name="resource_detail_window_title">%1$s details</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="resource_download">Download</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="resource_download_trial">Free trial</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="resource_downloaded_title">Downloaded resources</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="resource_downloading">Downloading</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="resource_exchange">Redeem</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="resource_exchange_confirm">Confirm</string>
      <string name="resource_exchange_empty_format">Enter gift code!</string>
      <string name="resource_exchange_has_bought">"You've already purchased this theme."</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="resource_exchange_has_expired">The code you entered has expired.</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="resource_exchange_has_used">The code you entered has already been used.</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="resource_exchange_hint">Enter your gift code</string>
      <string name="resource_exchange_purchase_unkown_error">Yikes! An unknown error occurred. Sign in at http://market.xiaomi.com to view your payment status.</string>
      <string name="resource_exchange_share_code_content">You received a gift code for the theme %1$s on the MIUI Theme Store. The code number is: %2$s. Touch %3$s to use it now.</string>
      <string name="resource_exchange_share_code_dlg_content">The gift code you purchased for the theme %1$sis: %2$s. When you send it to another MIUI user, he or she can use it to download this theme.</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="resource_exchange_share_code_dlg_title">Sending</string>
      <string name="resource_exchange_success">Enjoy! :)</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="resource_exchange_unavailable">The theme associated with the code you entered is not available.</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="resource_exchange_universal_finish">Use this code to download a theme from the MIUI Theme Store.</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="resource_exchange_universal_goon">This code can be used to download any theme in the store.</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="resource_exchange_window_title">Redeem</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="resource_exchange_wrong_format_by_local">The format of the code you entered is incorrect.</string>
      <string name="resource_exchange_wrong_format_by_server">"Code was not verified. Make sure you've entered it correctly."</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="resource_expand_full_text">Expand</string>
      <string name="resource_get_auth_checking">Checking authorization…</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="resource_get_auth_exceed_max_limit_tips">Ten devices have already been authorized on this account.</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="resource_get_auth_exceed_max_limit_title">Number of authorized devices exceeded</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="resource_get_auth_missing">Themes from thirdparty sources are not supported.</string>
      <string name="resource_get_auth_retrieving">Retrieving authorization…</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="resource_hint">Alert</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="resource_import_failed">Import failed</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="resource_import_successful">Download complete</string>
      <string name="resource_importing">Importing…</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="resource_list_title">Latest selected</string>
      <string name="resource_local">Local %1$s</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="resource_menu_refresh">Refresh</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="resource_mute">None</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="resource_my">Local</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="resource_no_result">No results.</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="resource_notification_default">Notifications</string>
      <string name="resource_on_trial">Trying: %1$s</string>
      <string name="resource_online">Online %1$s</string>
@@ -387,69 +302,43 @@
      <string name="resource_pack_discount_info">%1$s saved</string>
      <string name="resource_pack_price_info">%1$s Original</string>
      <string name="resource_pack_warning">"You've already purchased %1$d components in this theme, it's cheaper if you buy the remaining components individually."</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="resource_present">Gift</string>
      <string name="resource_price_format">(%1$s)</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="resource_price_free">Free</string>
      <string name="resource_price_unit"> MiCredits</string>
      <string name="resource_purchase_getting_order">Retrieving order info…</string>
      <string name="resource_purchase_verifying_payment">Verifying payment info…</string>
      <string name="resource_purchase_waiting_payment">Waiting for payment info…</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="resource_ranking">Popular</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="resource_ranking_free">Free</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="resource_ranking_purchase">Paid</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="resource_ringtone_default">Ringtones</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="resource_ringtone_playing_error">playing error</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="resource_ringtone_volume_mute">Your ringer is currently silenced.</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="resource_save_to_note">Save to Notes</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="resource_see_more">See more</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="resource_select">Select</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="resource_selected">Featured</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="resource_send">Send</string>
      <string name="resource_server_alert_dialog_title">"We'll be right back…"</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="resource_server_out_of_service">Unfortunately, our server is down at the moment. Please try again later.</string>
      <string name="resource_share_subject">Share theme: %1$s</string>
      <string name="resource_share_text">"Here's a theme I thought you might like: %1$s! Link: %2$s"</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="resource_share_title">Share</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="resource_system_title">System resources</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="resource_tip_select_ringtone">None selected</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="resource_title">Resource detail</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="resource_title_select_ringtone">Select tone</string>
      <string name="resource_trial_end_message">Trial of %1$s expired. If you like, please purchase it.</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="resource_trial_end_purchase">Purchase</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="resource_trial_end_restore">Finish trial</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="resource_trial_end_title">Trial expired</string>
      <string name="resource_trial_time">（trial for %1$d minutes）</string>
      <string name="resource_unable_to_access">"We're sorry
 the content you're looking for is not currently available in your region."</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="resource_unknow_error">Unkown error.</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="resource_update">Update</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="resource_user_know">OK</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="resource_waiting_download">Waiting</string>
      <string name="restaurant_comment">Отзыв</string>
      <string name="restaurant_detail">Подробнее</string>
@@ -457,9 +346,8 @@ the content you're looking for is not currently available in your region."</stri
      <string name="restaurant_more">Еще</string>
      <string name="sdcard_not_mounted_dialog_message">"Insert SD card now.
 "</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="sdcard_not_mounted_dialog_title">No SD card detected</string>
-	 <string name="security_center">Безопасность</string>
+     <string name="security_center">Безопасность</string>
      <string name="send_weather_sms_cycle">%1$s未来天气：%2$s</string>
      <string name="send_weather_sms_error">无相关天气信息</string>
      <string name="send_weather_sms_main">%1$s %2$s,%3$s %4$s %5$s</string>
@@ -470,10 +358,8 @@ the content you're looking for is not currently available in your region."</stri
      <string name="set_vad_off_sample">VAD关闭</string>
      <string name="set_vad_on_sample">VAD开启</string>
      <string name="setting">Настройки</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="sms_content">content</string>
      <string name="sms_report">Отчет сообщений</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="sms_sender">sender</string>
      <string name="sms_sent_cancel">Отмена</string>
      <string name="sms_sent_success">Отправить</string>
@@ -506,7 +392,6 @@ the content you're looking for is not currently available in your region."</stri
      <string name="title_set_vad">开启VAD</string>
      <string name="title_speech_timeout">Голос тайм-аут</string>
      <string name="to">转</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="to_activate_the_account">Activate your Xiaomi account now.</string>
      <string name="today_date">%1$s, %2$s</string>
      <string name="tts_voice_effect">Голосовой эффект</string>
@@ -526,6 +411,6 @@ the content you're looking for is not currently available in your region."</stri
      <string name="weather_no_date">无当天的天气信息</string>
      <string name="widget_loading">Нет информации о погоде</string>
      <string name="year">年</string>
-	 <string name="yellow_page">Желтые страницы</string>
+     <string name="yellow_page">Желтые страницы</string>
      <string name="you_can_say_so">Вы можете сказать, что это:</string>
 </resources>

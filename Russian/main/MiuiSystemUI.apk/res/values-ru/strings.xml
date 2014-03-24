@@ -10,9 +10,7 @@
      <string name="accessibility_clear_all">Удалить все уведомления</string>
      <string name="accessibility_compatibility_zoom_button">Кнопка масштабирования (режим совместимости)</string>
      <string name="accessibility_compatibility_zoom_example">Уменьшение изображения для увеличения свободного места на экране</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="accessibility_data_connection_3.5g">3,5G</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="accessibility_data_connection_edge">EDGE</string>
      <string name="accessibility_data_one_bar">Сигнал передачи данных: одно деление</string>
      <string name="accessibility_data_signal_full">Надежный сигнал передачи данных</string>
@@ -147,7 +145,6 @@
      <string name="notifications_off_text">Нажмите здесь для включения уведомлений</string>
      <string name="notifications_off_title">Уведомления выключены</string>
      <string name="oldman_airplane_mode_text">Режим полета</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="oldman_incall_text">incall</string>
      <string name="recent_apps_key">Последние приложения</string>
      <string name="recent_apps_key_show">Последние приложения</string>
@@ -225,7 +222,6 @@ d MMMM yyyy"</string>
      <string name="status_bar_style_settings">Настройки панели</string>
      <string name="status_bar_toggle_ac">Доступ</string>
      <string name="status_bar_toggle_auto_brightness">Автоподсв.</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="status_bar_toggle_bluetooth">Bluetooth</string>
      <string name="status_bar_toggle_brightness">Подсветка</string>
      <string name="status_bar_toggle_data">Интернет</string>

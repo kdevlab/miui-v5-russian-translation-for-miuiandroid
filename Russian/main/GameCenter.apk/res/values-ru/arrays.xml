@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Builded with CloudBuildr -->
+<!-- Builded with NXT -->
 <resources>
      <string-array name="account_items">
         <item>Фото:</item>
@@ -10,7 +10,7 @@
         <item>Местонахождение:</item>
         <item>Хобби:</item>
      </string-array>
-	 <string-array name="average_score_star">
+     <string-array name="average_score_star">
         <item>1 звезда</item>
         <item>2 звезды</item>
         <item>3 звезды</item>

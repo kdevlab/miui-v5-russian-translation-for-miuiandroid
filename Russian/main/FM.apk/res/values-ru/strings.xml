@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Builded with CloudBuildr -->
+<!-- Builded with NXT -->
 <resources>
      <string name="FMR_Antenna_long">Гарнитура</string>
      <string name="FMR_Antenna_short">Короткая</string>
@@ -21,7 +21,6 @@
      <string name="FMR_RDS_RT_text">РТ:</string>
      <string name="FMR_RDS_Ratio">Определение…</string>
      <string name="FMR_RDS_Ratio_text">Коэффициент:</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="FMR_RDS_text">RDS</string>
      <string name="FMR_Status_Caparray">Определение…</string>
      <string name="FMR_Status_Caparray_text">CapArray(pF):</string>
@@ -43,10 +42,6 @@
      <string name="alert_title_delete">Удаление станции</string>
      <string name="alert_title_input_station">Введите название станции</string>
      <string name="alert_title_new_station">Новая радиостанция</string>
-     <!-- The count of MNPS does not match! Now: 1 must: 0
-	%s: 1 must: 0
-	%d: 0 must: 0 -->
-     <!-- Original string: Сохранить радиостанцию -->
      <string name="alert_title_save_station">Сохранить радиостанцию %s</string>
      <string name="already_exists">Уже существует</string>
      <string name="app_name">Радио</string>
@@ -80,7 +75,6 @@
      <string name="default_audio">Стерео</string>
      <string name="default_band">США</string>
      <string name="default_blank" />
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="default_station">FM</string>
      <string name="default_station_name">Новый Канал</string>
      <string name="default_time">Через 30 минут</string>
@@ -255,11 +249,11 @@
      <string name="toast_delete_station_fail">Ошибка удаления станции</string>
      <string name="toast_edit_save_station_fail">Ошибка сохранения станции</string>
      <string name="toast_edit_station">Изменения сохранены</string>
-	 <string name="toast_fm_error_startfailed">Ошибка записи. Возможно другое приложение использует функцию записи. Проверьте и попробуйте снова.</string>
      <string name="toast_favorite_full">Невозможно добавить в избранное. Список радиостанций заполнен.</string>
      <string name="toast_favorite_full1">Невозможно добавить в сохраненное. Список радиостанций заполнен.</string>
+     <string name="toast_fm_error_startfailed">Ошибка записи. Возможно другое приложение использует функцию записи. Проверьте и попробуйте снова.</string>
      <string name="toast_fm_not_stated">Не указана станция</string>
-	 <string name="toast_fm_recorder_access_error">Запись недоступна в гостевом режиме</string>
+     <string name="toast_fm_recorder_access_error">Запись недоступна в гостевом режиме</string>
      <string name="toast_fm_recorder_internal_error">Ошибка записи радио</string>
      <string name="toast_fm_recorder_storage_full">Память заполнена. Запись невозможна.</string>
      <string name="toast_fm_seeking">Поиск станций…</string>

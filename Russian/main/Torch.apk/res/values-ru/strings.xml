@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Builded with CloudBuildr -->
+<!-- Builded with NXT -->
 <resources>
      <string name="about">О программе:</string>
      <string name="about_btn">О программе Фонарик</string>
@@ -33,7 +33,6 @@ http://n1torch.googlecode.com/
      <string name="not_torch_title">Фонарик включен</string>
      <string name="setting_add_widget">Добавить виджет</string>
      <string name="setting_frequency_dialog">Частота</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="setting_frequency_hz">Hz</string>
      <string name="setting_frequency_summary">Частота of strobe light</string>
      <string name="setting_frequency_title">Частота стробоскопа</string>

@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Builded with CloudBuildr -->
+<!-- Builded with NXT -->
 <resources>
      <string name="act_aqi_src_port">"%1$s%2$s  %3$s"</string>
-	 <string name="act_city_find_gps_error">Выберите город из списка</string>
+     <string name="act_city_find_gps_error">Выберите город из списка</string>
      <string name="act_find_city_hint">Поиск</string>
      <string name="act_find_city_hot_title">Популярные города</string>
      <string name="act_find_city_null_data">Город не найден</string>
@@ -14,7 +14,7 @@
      <string name="act_set_city_re_find_side">Определение…</string>
      <string name="act_weather_aqi_share">Поделиться</string>
      <string name="act_weather_aqi_title">Индекс чистоты воздуха</string>
-	 <string name="act_weather_cycle_link_china">Погода MIUI</string>
+     <string name="act_weather_cycle_link_china">Погода MIUI</string>
      <string name="act_weather_cycle_update">Обновление…</string>
      <string name="act_weather_find_city_connect_net">Проверьте сеть и повторите еще раз</string>
      <string name="act_weather_find_city_search_online">Поиск онлайн</string>
@@ -36,28 +36,18 @@
      <string name="app_name">Погода</string>
      <string name="app_nohave_net">Нет сетевого подключения</string>
      <string name="app_unquiet_net">Сеть нестабильна. Повторите попытку позже.</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="aqi_details_dangerous">People with heart or lung disease, older adults, and children should avoid all physical activity outdoors. Everyone else should avoid prolonged or heavy exertion.</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="aqi_details_fine">Unusually sensitive people should consider reducing prolonged or heavy exertion.</string>
      <string name="aqi_details_good">Хорошая погода для прогулок на улице</string>
      <string name="aqi_details_hazardous">Avoid all physical activity outdoors; people with heart or lung disease, older adults, and children should remain indoors and keep activity levels low.</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="aqi_details_light_pollution">People with heart or lung disease, older adults, and children should reduce prolonged or heavy exertion.</string>
      <string name="aqi_details_unhealthy">People with heart or lung disease, older adults, and children should avoid prolonged or heavy exertion; everyone else should reduce prolonged or heavy exertion.</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="aqi_quality_index_dangerous">dangerous</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="aqi_quality_index_good">good</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="aqi_quality_index_hazardous">hazardous</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="aqi_quality_index_light_pollution">light pollution</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="aqi_quality_index_moderate">moderate</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="aqi_quality_index_pure">excellent</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="aqi_quality_index_unhealthy">unhealthy</string>
      <string name="button_allow">Разрешить</string>
      <string name="button_not_allow">Запретить</string>
@@ -68,7 +58,7 @@
      <string name="enable_notification_city">Уведомления о дожде, снеге, температуре при их критическом значении включено для %s</string>
      <string name="enable_notification_summary">Уведомлять меня при изменении погоды</string>
      <string name="first_start_network_toast_text">Доступ к сети для получения информации о погоде</string>
-	 <string name="format_date_md">d/MMMM kk:mm</string>
+     <string name="format_date_md">d/MMMM kk:mm</string>
      <string name="install_sina">Нажмите для установки Sina Weibo</string>
      <string name="install_tencent">Получить приложение Weibo</string>
      <string name="loading_weather">Загрузка погоды…</string>
@@ -91,7 +81,7 @@
      <string name="menu_settings">Настройки</string>
      <string name="menu_share">Поделиться</string>
      <string name="menu_trend">Тенденция</string>
-	 <string name="network_unavailable">Сеть недоступна</string>
+     <string name="network_unavailable">Сеть недоступна</string>
      <string name="save_screen_shot_failed">Ошибка сохранения скриншота</string>
      <string name="selected_format">Выбрано: %d</string>
      <string name="send_sms_notification">Пересылка информации о погоде</string>
@@ -119,9 +109,7 @@
      <string name="sina_share_fail">Ошибка отправки!</string>
      <string name="sina_share_pendding">Отправка…</string>
      <string name="sina_share_success">Успешно отправлено!</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="sina_token_expired_warning">Weibo account has expired, please rebind</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="sina_token_invalid_warning">Weibo account is invalid, please rebind</string>
      <string name="sms_notification">Отправить по смс</string>
      <string name="tip_weather">Уведомление погоды MIUI</string>
@@ -130,7 +118,7 @@
      <string name="tip_weather_info_title_2">%1$s температура сегодня оценивается в %2$s</string>
      <string name="trend_weather_today">Сегодня</string>
      <string name="trend_weather_tomorrow">Завтра</string>
-	 <string name="weather_data_unreachable">Не удалось получить информацио о погоде. Попробуйте позже.</string>
+     <string name="weather_data_unreachable">Не удалось получить информацио о погоде. Попробуйте позже.</string>
      <string name="weather_notification">Уведомления погоды</string>
      <string name="weather_unit_middle">~</string>
      <string name="weather_unit_with_c">°C</string>

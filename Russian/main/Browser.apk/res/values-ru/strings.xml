@@ -112,23 +112,17 @@
      <string name="clip_dialog_title">Открыть скопированную ссылку?</string>
      <string name="close_all_tab_alert_message">Закрыть все вкладки?</string>
      <string name="close_all_tab_alert_title">Подтверждение закрытия</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="common_use_phrase_bottom_bar_cn_txt">.ru</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="common_use_phrase_bottom_bar_com_txt">.com</string>
      <string name="common_use_phrase_bottom_bar_down_analytic_txt">Скрыть</string>
      <string name="common_use_phrase_bottom_bar_https_txt">https://</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="common_use_phrase_bottom_bar_net_txt">.net</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="common_use_phrase_bottom_bar_org_txt">.org</string>
      <string name="common_use_phrase_bottom_bar_paste_analytic_txt">Вставить</string>
      <string name="common_use_phrase_bottom_bar_paste_txt">Вставить</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="common_use_phrase_bottom_bar_point_txt">.</string>
      <string name="common_use_phrase_bottom_bar_slash_txt">/</string>
      <string name="common_use_phrase_bottom_bar_up_analytic_txt">Открыть</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="common_use_phrase_bottom_bar_www_txt">www.</string>
      <string name="containing_folder">Добавить в</string>
      <string name="contextheader_folder_bookmarkcount">Закладок: %d</string>
@@ -503,7 +497,6 @@
      <string name="progress_dialog_setting_wallpaper">Установка обоев…</string>
      <string name="quicklink_saved_before">Сайт уже добавлен</string>
      <string name="quicklink_user_define_webpage_title">Имя</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="quicklink_user_define_webpage_url">URL</string>
      <string name="quicklinks_group_default_subtitle">Пусто</string>
      <string name="quicklinks_management">Полезные сайты</string>
@@ -548,29 +541,20 @@
      <string name="search">Поиск</string>
      <string name="search_button_text">Поиск</string>
      <string name="search_cancel">Отмена</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="search_dianping">Cate</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="search_easou">Easou</string>
      <string name="search_hint">Поиск</string>
      <string name="search_label">Браузер</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="search_s139">139</string>
      <string name="search_settings_description">Закладки и история поиска</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="search_shipin">Video</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="search_sogou">Segou</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="search_taobao">Taobao</string>
      <string name="search_the_web">Поиск в интернете</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="search_tupian">Image</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="search_yahoo">Yahoo</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="search_yicha">Yicha</string>
      <string name="search_yandex">Яндекс</string>
+     <string name="search_yicha">Yicha</string>
      <string name="security_warning">Угроза безопасности</string>
      <string name="select_dot">Выбрать текст</string>
      <string name="selection_all">Выбрать все</string>

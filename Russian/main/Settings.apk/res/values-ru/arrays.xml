@@ -21,7 +21,7 @@
         <item>SD-карта</item>
         <item>Автоматически</item>
      </string-array>
-	 <string-array name="app_ops_categories">
+     <string-array name="app_ops_categories">
         <item>Местоположение</item>
         <item>Личное</item>
         <item>Переписка</item>
@@ -290,13 +290,13 @@
         <item>Подписка 2</item>
         <item>Запрос пользователя</item>
      </string-array>
-	 <string-array name="mvno_type_entries">
+     <string-array name="mvno_type_entries">
         <item>Нет</item>
         <item>SPN</item>
         <item>IMSI</item>
         <item>GID</item>
      </string-array>
-	 <string-array name="network_speed_slow_summary">
+     <string-array name="network_speed_slow_summary">
         <item>Медленная скорость из-за слишком большой нагрузки</item>
         <item>Медленная скорость из-за слабого приема</item>
         <item>Перемещение…</item>
@@ -407,7 +407,7 @@
         <item>Запретить</item>
         <item>Разрешить</item>
      </string-array>
-	 <string-array name="show_non_rect_clip_entries">
+     <string-array name="show_non_rect_clip_entries">
         <item>Отключено</item>
         <item>Нарисуйте непрямоугольную вырезанную область в синем</item>
         <item>Выделите тестовые команды рисования в зеленом</item>
@@ -438,7 +438,7 @@
         <item>Тихий океан</item>
         <item>Все</item>
      </string-array>
-	 <string-array name="track_frame_time_entries">
+     <string-array name="track_frame_time_entries">
         <item>Отключено</item>
         <item>На экране в виде баров</item>
         <item>На экране в виде линий</item>
@@ -465,9 +465,9 @@
         <item>Медленная</item>
         <item>Обычная</item>
         <item>Быстрая</item>
-		<item>Быстрая</item>
+        <item>Быстрая</item>
         <item>Очень быстрая</item>
-		<item>Быстрая</item>
+        <item>Быстрая</item>
         <item>Очень быстрая</item>
         <item>Самая быстрая</item>
      </string-array>
@@ -517,7 +517,7 @@
         <item>WPA PSK</item>
         <item>WPA2 PSK</item>
      </string-array>
-	 <string-array name="wifi_connect_type_entries">
+     <string-array name="wifi_connect_type_entries">
         <item>Автоматически</item>
         <item>Вручную</item>
         <item>Спрашивать</item>
@@ -549,7 +549,7 @@
         <item>PIN-код с обнаруженного устройства</item>
         <item>PIN-код этого устройства</item>
      </string-array>
-	 <string-array name="wifi_peap_phase2_entries">
+     <string-array name="wifi_peap_phase2_entries">
         <item>Нет</item>
         <item>MSCHAPV2</item>
         <item>GTC</item>

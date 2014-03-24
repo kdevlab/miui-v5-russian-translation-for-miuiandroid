@@ -74,7 +74,7 @@
      <string name="pref_title_note_style">Стиль заметок</string>
      <string name="preferences_bg_random_appear_title">Случайный цвет</string>
      <string name="preferences_title">Настройки</string>
-	 <string name="redo">Повторить</string>
+     <string name="redo">Повторить</string>
      <string name="search">Заметки</string>
      <string name="search_hint">Найти заметки</string>
      <string name="search_label">Поиск заметок</string>
@@ -86,7 +86,7 @@
      <string name="toast_note_privacy_mode">Нельзя изменить заметку в гостевом режиме</string>
      <string name="toast_reach_text_limit_attachment">Содержание заметки слишком велико для добавления новых вложений</string>
      <string name="toast_reach_text_limit_truncate">Содержание записки автоматически сократится по длине</string>
-	 <string name="undo">Отменить</string>
+     <string name="undo">Отменить</string>
      <string name="widget_havenot_content">Нет заметок, нажмите сюда, чтобы создать заметку</string>
      <string name="widget_under_visit_mode">Не возможно просмотреть заметки, потому что включен гостевой режим</string>
 </resources>

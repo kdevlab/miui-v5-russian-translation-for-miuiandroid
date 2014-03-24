@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Builded with CloudBuildr -->
+<!-- Builded with NXT -->
 <resources>
      <string name="app_name">Установщик сертификата</string>
      <string name="cert_is_added">%s установлен</string>
@@ -10,7 +10,7 @@
      <string name="credential_info">Пакет содержит:</string>
      <string name="credential_name">Имя сертификата:</string>
      <string name="credential_password">Для извлечения сертификатов введите пароль</string>
-	 <string name="credential_usage_label">Используется:</string>
+     <string name="credential_usage_label">Используется:</string>
      <string name="extracting_pkcs12">Извлечение…</string>
      <string name="generic_no_cert_file_found">Файл сертификата не найден</string>
      <string name="generic_sdcard_not_present">Карта памяти отсутствует</string>

@@ -99,46 +99,32 @@
         <item>Переключение страниц</item>
         <item>Переключение вкладок</item>
      </string-array>
-	 <string-array name="pref_ua_choices">
-        <item>Android</item>
-        <item>ПК</item>
-        <item>iPhone</item>
-        <item>iPad</item>
-    </string-array>
-	<string-array name="mail_ru">
-        <item>\@MAIL.RU</item>
-        <item>mail.ru</item>
-        <item>http://img.go.mail.ru/favicon.ico</item>
-        <item>http://go.mail.ru/search?q={searchTerms}</item>
-        <item>windows-1251</item>
-        <item></item>
-    </string-array>
-    <string-array name="yandex_ru">
+     <string-array name="search_bar_search_engines_default">
+        <item>google</item>
+        <item>yandex_ru</item>
+        <item>bing</item>
+     </string-array>
+     <string-array name="search_engines">
+        <item>google</item>
+        <item>yandex_ru</item>
+        <item>bing</item>
+     </string-array>
+     <string-array name="search_engines_default">
+        <item>google</item>
+        <item>yandex_ru</item>
+        <item>bing</item>
+     </string-array>
+     <string-array name="yandex_ru">
         <item>Яндекс</item>
         <item>yandex.ru</item>
         <item>http://yandex.ru/favicon.ico</item>
         <item>http://yandex.ru/yandsearch?text={searchTerms}</item>
         <item>UTF-8</item>
         <item>http://suggest.yandex.net/suggest-ff.cgi?part={searchTerms}</item>
-    </string-array>
-    <string-array name="yandex_ru_in_list">
+     </string-array>
+     <string-array name="yandex_ru_in_list">
         <item>search_yandex</item>
         <item>ic_search_engine_yandex</item>
         <item>yandex_ru</item>
-    </string-array>
-    <string-array name="search_engines">
-       <item>google</item>
-       <item>yandex_ru</item>
-       <item>bing</item>
-    </string-array>
-    <string-array name="search_engines_default">
-       <item>google</item>
-       <item>yandex_ru</item>
-       <item>bing</item>
-    </string-array>
-    <string-array name="search_bar_search_engines_default">
-        <item>google</item>
-        <item>yandex_ru</item>
-        <item>bing</item>
      </string-array>
 </resources>

@@ -1,13 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Builded with CloudBuildr -->
+<!-- Builded with NXT -->
 <resources>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="about_app_name">MiPlayer</string>
      <string name="about_title">О программе</string>
      <string name="adjust_position_next_media_notice">Следующий</string>
      <string name="adjust_position_prev_media_notice">Предыдущий</string>
      <string name="airkan_control_device_des">Вы можете управлять воспроизведением видео с помощью кнопки в нижней части</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="airkan_device_xiaomi_phone">Xiaomi</string>
      <string name="airkan_tips">Нажмите здесь, чтобы воспроизвести видео на ТВ.</string>
      <string name="airkan_video_playing">Трансляция</string>

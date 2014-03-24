@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Builded with CloudBuildr -->
+<!-- Builded with NXT -->
 <resources>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="app_name">Xiaomi SDK</string>
      <string name="delete">Удалить</string>
      <string name="memu_refresh">Обновить</string>

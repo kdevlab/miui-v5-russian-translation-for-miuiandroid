@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Builded with CloudBuildr -->
+<!-- Builded with NXT -->
 <resources>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="APKTOOL_DUMMY_0038">false</string>
      <string name="CURRENTDESTINATION_REMOVE">Удалить</string>
      <string name="CURRENTDESTINATION_REPLACE">Заменить</string>
@@ -19,7 +18,6 @@
      <string name="Dialog_No">Нет</string>
      <string name="Dialog_Yes">Да</string>
      <string name="My_Album_Online">Мой онлайн альбом</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="OK_STRING">OK</string>
      <string name="OPTION_1">Опция 1</string>
      <string name="OPTION_2">Опция 2</string>
@@ -47,9 +45,7 @@ Dest."</string>
      <string name="invalid_character">Неверный символ</string>
      <string name="max_char_reached_msg">Достигнуто максимальное количество символов</string>
      <string name="media_scanner_running">Запущено сканирование...</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="menu_kodak">Kodak</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="menu_snapfish">Snapfish</string>
      <string name="name_is_empty">Имя пустое</string>
      <string name="no_have_video">"Видео файл не существует или неверный файл"</string>

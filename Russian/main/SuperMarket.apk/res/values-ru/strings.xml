@@ -8,7 +8,6 @@
      <string name="app_comments">Комментарии</string>
      <string name="app_comments_footer">Пустые комментарии здесь не показаны</string>
      <string name="app_comments_title">Комментарии: %1$s</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="app_name">MiStore</string>
      <string name="bad_comments">Плохие</string>
      <string name="button_refresh">Обновить</string>
@@ -47,16 +46,8 @@
      <string name="comment_upload_not_logined">Пожалуйста, сначала войдите в аккаунт</string>
      <string name="comment_upload_success">Комментарий отправлен!</string>
      <string name="comment_version_name">(версия %1$s)</string>
-     <!-- The count of MNPS does not match! Now: 1 must: 0
-	%s: 1 must: 0
-	%d: 0 must: 0 -->
-     <!-- Original string: Ошибка соединения, установка прервана. -->
      <string name="connect_fail">Ошибка установки %1$s: ошибка соединения, проверьте подключение к сети</string>
      <string name="connect_no_enough_space">Не хватает места для установки приложения. Освободите место и попробуйте снова.</string>
-     <!-- The count of MNPS does not match! Now: 1 must: 0
-	%s: 1 must: 0
-	%d: 0 must: 0 -->
-     <!-- Original string: Ошибка установки. Приложение несовместимо. -->
      <string name="connect_no_fit_fail">Ошибка установки %1$s: установочный пакет не подходит для вашего телефона</string>
      <string name="connecting">Подключение…</string>
      <string name="data_save_mode_tip">Изображения отключены</string>
@@ -70,7 +61,6 @@
      <string name="diagnostics_btn_processing">Обработка…</string>
      <string name="diagnostics_btn_start">Начало диагностики</string>
      <string name="diagnostics_btn_upload">Выгрузить</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="diagnostics_cdn_ip">4. The IP address of CDN</string>
      <string name="diagnostics_content_hint">Диагностика:</string>
      <string name="diagnostics_data_cost_hint">Инструмент диагностики использует около 100 Кб мобильного интернета</string>
@@ -78,18 +68,12 @@
      <string name="diagnostics_data_upload_failed">Ошибка отправки. Повторите еще раз.</string>
      <string name="diagnostics_data_upload_success">Журнал отправлен</string>
      <string name="diagnostics_desc">Диагностический инструмент может помоч решить сетевые проблемы. Файл журнала будет создан и отправлен Xiaomi для обзора.</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="diagnostics_dns_ip">2. The IP address resolved by DNS</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="diagnostics_gateway_ip">3. The IP address of Gateway</string>
      <string name="diagnostics_local_ip">1. Локальный IP адрес</string>
      <string name="diagnostics_test_download">5. Входящая скорость</string>
      <string name="diagnostics_title">Диагностика сети</string>
      <string name="download_fail">Установка не выполнена: ошибка загрузки</string>
-     <!-- The count of MNPS does not match! Now: 1 must: 0
-	%s: 1 must: 0
-	%d: 0 must: 0 -->
-     <!-- Original string: Ошибка загрузки -->
      <string name="download_start_fail">Ошибка установки %1$s: не удается выполнить загрузку</string>
      <string name="downloading">Пауза</string>
      <string name="edit_comment">Комментарий</string>
@@ -105,7 +89,6 @@
      <string name="favorite_delete_fail">Ошибка удаления из избранных</string>
      <string name="favorite_delete_success">Удалено из избранных</string>
      <string name="favorite_fail">Ошибка добавления</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="favorite_fail_other_market">Can not favorite apps from other market</string>
      <string name="favorite_login_hint">Войдите в аккаунт Xiaomi, чтобы управлять избранными приложениями</string>
      <string name="favorite_no_network">Не удалось. Нет сети.</string>
@@ -120,7 +103,6 @@
      <string name="install_all_title">Установить все</string>
      <string name="install_btn_cancel">Отмена</string>
      <string name="install_btn_continue">Далее</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="install_btn_ok">OK</string>
      <string name="install_earlier">Ранее</string>
      <string name="install_fail">Ошибка установки. Попробуйте снова.</string>
@@ -170,7 +152,6 @@
      <string name="megabytes_unit">%1$sМБ</string>
      <string name="menu_account">Аккаунт</string>
      <string name="menu_clear_search_history">Очистить историю поиска</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="menu_clear_update_history">Clear update records</string>
      <string name="menu_detail">Подробнее</string>
      <string name="menu_download_manager">Менеджер загрузок</string>
@@ -281,10 +262,6 @@
      <string name="rating_button">Голосов: %1$s</string>
      <string name="recommendation_tag">Все</string>
      <string name="remove_package_fail">Ошибка установки</string>
-     <!-- The count of MNPS does not match! Now: 1 must: 0
-	%s: 1 must: 0
-	%d: 0 must: 0 -->
-     <!-- Original string: Ошибка установки. Время ожидания вышло. -->
      <string name="remove_package_timeout_fail">Ошибка установки %1$s: удаление старой версии не удалось, удалите вручную</string>
      <string name="result_notice">Результаты предоставленны Baidu App Center</string>
      <string name="result_of_clear_history">История поиска очищена</string>
@@ -310,10 +287,6 @@
      <string name="signature_inconsistent_message">Приложение имеет противоречивую подпись в маркете. Продолжить обновление?</string>
      <string name="size_interval">%1$d~%2$dM</string>
      <string name="size_more_than_one_hundred">Более 100МБ</string>
-     <!-- The count of MNPS does not match! Now: 1 must: 0
-	%s: 1 must: 0
-	%d: 0 must: 0 -->
-     <!-- Original string: Ошибка установки. Несовместимая подпись приложения. -->
      <string name="system_app_sign_not_match_fail">Ошибка установки %1$s: несовместимая подпись приложения</string>
      <string name="tab_favorites">Избранные</string>
      <string name="tab_local_apps">Телефон</string>

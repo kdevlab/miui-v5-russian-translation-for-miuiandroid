@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Builded with CloudBuildr -->
+<!-- Builded with NXT -->
 <resources>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="app_name">DS</string>
      <string name="game">Игра</string>
      <string name="movie">Кино</string>

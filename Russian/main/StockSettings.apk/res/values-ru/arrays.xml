@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!-- Builded with NXT -->
 <resources>
-    <string-array name="cpufreq_entries">
+     <string-array name="cpufreq_entries">
         <item>Низкое</item>
         <item>Среднее</item>
         <item>Сильное</item>
-    </string-array>
+     </string-array>
 </resources>

@@ -29,7 +29,6 @@
      <string name="category_document">Документы</string>
      <string name="category_favorite">Избранное</string>
      <string name="category_log">Журналы</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="category_mirouter">MiRouter</string>
      <string name="category_music">Музыка</string>
      <string name="category_other">Прочее</string>
@@ -130,7 +129,6 @@
      <string name="instruction_pre">Обмен файлами с ПК или Mac по FTP через сеть Wi-Fi</string>
      <string name="item_name">Без имени</string>
      <string name="kuaipan_over_space">В вашем KuaiPan нет больше свободного места</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="kuaipan_prompt">KuaiPan</string>
      <string name="kuaipan_prompt_message">"
  Идет обслуживание сервиса, пожалуйста, попробуйте позже…
@@ -303,6 +301,5 @@
      <string name="wangpan_root_path">Мой диск</string>
      <string name="wifi_state">Статус Wi-Fi</string>
      <string name="xiaomi_account">Аккаунт Xiaomi</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="yes">OK</string>
 </resources>

@@ -9,7 +9,6 @@
      <string name="available_day_left">Осталось дней:%1$s</string>
      <string name="available_deadline">Действует до:%1$s</string>
      <string name="button_cancel">Отмена</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="button_ok">OK</string>
      <string name="button_refresh">Обновить</string>
      <string name="buy_date">Дата:%1$s</string>
@@ -76,7 +75,6 @@
      <string name="nores">免预约</string>
      <string name="nores_short">Беспл.</string>
      <string name="notavailable">Истекло</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="ok">OK</string>
      <string name="order_id_prefix">订单号:</string>
      <string name="order_id_text">Номер заказа:%1$s</string>

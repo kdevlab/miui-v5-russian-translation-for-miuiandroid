@@ -2,102 +2,102 @@
 <!-- Builded with NXT -->
 <resources>
      <plurals name="NNNtracksdeleted">
-        <item quantity="other">Треков удалено: %d</item>
         <item quantity="one">Трек удален</item>
+        <item quantity="other">Треков удалено: %d</item>
      </plurals>
      <plurals name="NNNtrackstofavoriteplaylist">
-        <item quantity="other">Добавлено треков в избранные: %d</item>
         <item quantity="one">Трек добавлен в избранные</item>
+        <item quantity="other">Добавлено треков в избранные: %d</item>
      </plurals>
      <plurals name="NNNtrackstoplaylist">
-        <item quantity="other">Добавлено треков в плейлист: %d</item>
         <item quantity="one">Трек добавлен в плейлист</item>
+        <item quantity="other">Добавлено треков в плейлист: %d</item>
      </plurals>
      <plurals name="NTrackstoDownload">
-        <item quantity="other">Треков будет загружено: %d</item>
         <item quantity="one">Трек будет загружен</item>
+        <item quantity="other">Треков будет загружено: %d</item>
      </plurals>
      <plurals name="Nalbums">
-        <item quantity="other">альбомы</item>
         <item quantity="one">альбом</item>
+        <item quantity="other">альбомы</item>
      </plurals>
      <plurals name="Nalbums_format">
-        <item quantity="other">Альбомов: %d</item>
         <item quantity="one">Альбомов: %d</item>
+        <item quantity="other">Альбомов: %d</item>
      </plurals>
      <plurals name="Nartists">
-        <item quantity="other">исполнители</item>
         <item quantity="one">исполнитель</item>
+        <item quantity="other">исполнители</item>
      </plurals>
      <plurals name="Nexpiration_reminder">
-        <item quantity="other">Осталось: %d дн.</item>
         <item quantity="one">Осталось: %d дн.</item>
+        <item quantity="other">Осталось: %d дн.</item>
      </plurals>
      <plurals name="Nexpired_remind">
-        <item quantity="other">Осталось: %d дн.</item>
         <item quantity="one">Осталось: %d дн.</item>
+        <item quantity="other">Осталось: %d дн.</item>
      </plurals>
      <plurals name="Nfolders">
-        <item quantity="other">" папки"</item>
         <item quantity="one">" папка"</item>
+        <item quantity="other">" папки"</item>
      </plurals>
      <plurals name="Nhot_tracks_total">
-        <item quantity="other">Топ песен: %d</item>
         <item quantity="one">Топ песен: %d</item>
+        <item quantity="other">Топ песен: %d</item>
      </plurals>
      <plurals name="Nitems_batch_selection">
-        <item quantity="other">Выбрано: %d</item>
         <item quantity="one">Выбрано: %d</item>
+        <item quantity="other">Выбрано: %d</item>
      </plurals>
      <plurals name="Nonlinecategory">
-        <item quantity="other">" категорий"</item>
         <item quantity="one">" категория"</item>
+        <item quantity="other">" категорий"</item>
      </plurals>
      <plurals name="Nplaylists">
-        <item quantity="other">плейлисты</item>
         <item quantity="one">плейлист</item>
+        <item quantity="other">плейлисты</item>
      </plurals>
      <plurals name="Nsearch_results">
-        <item quantity="other">Результатов: %d</item>
         <item quantity="one">Результатов: %d</item>
+        <item quantity="other">Результатов: %d</item>
      </plurals>
      <plurals name="Ntrack_in_sdcard_format">
-        <item quantity="other">Треков на SD-карте: %d</item>
         <item quantity="one">Треков на SD-карте: %d</item>
+        <item quantity="other">Треков на SD-карте: %d</item>
      </plurals>
      <plurals name="Ntracks">
-        <item quantity="other">треки</item>
         <item quantity="one">трек</item>
+        <item quantity="other">треки</item>
      </plurals>
      <plurals name="Ntracks_format">
-        <item quantity="other">Треков: %d</item>
         <item quantity="one">Треков: %d</item>
+        <item quantity="other">Треков: %d</item>
      </plurals>
      <plurals name="Ntracks_remove_from_favorite_playlist">
-        <item quantity="other">Треков удалено из плейлиста: %d</item>
         <item quantity="one">Треков удалено из плейлиста: 1</item>
+        <item quantity="other">Треков удалено из плейлиста: %d</item>
      </plurals>
      <plurals name="Ntracks_remove_from_playlist">
-        <item quantity="other">Треков удалено из плейлиста: %d</item>
         <item quantity="one">Треков удалено из плейлиста: 1</item>
+        <item quantity="other">Треков удалено из плейлиста: %d</item>
      </plurals>
      <plurals name="Ntracks_search_result_format">
-        <item quantity="other">Найдено треков: %d</item>
         <item quantity="one">Найдено треков: %d</item>
+        <item quantity="other">Найдено треков: %d</item>
      </plurals>
      <plurals name="Ntracks_string">
-        <item quantity="other">Треков: %d</item>
         <item quantity="one">Треков: %d</item>
+        <item quantity="other">Треков: %d</item>
      </plurals>
      <plurals name="Ntracks_total">
-        <item quantity="other">Треков: %d</item>
         <item quantity="one">Треков: %d</item>
+        <item quantity="other">Треков: %d</item>
      </plurals>
      <plurals name="Nvip_expired_remind">
         <item quantity="other">Доступ к музыке в высоком качестве истекает через %d дн.</item>
      </plurals>
      <plurals name="album_details_format">
-        <item quantity="other">%1$s, %2$d треков</item>
         <item quantity="one">%1$s, %2$d трек</item>
+        <item quantity="other">%1$s, %2$d треков</item>
      </plurals>
 </resources>

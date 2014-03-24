@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Builded with CloudBuildr -->
+<!-- Builded with NXT -->
 <resources>
      <string name="access_sd_fail">Карта памяти недоступна</string>
      <string name="accessibility_back_to_first_level">Закрыть</string>
@@ -69,9 +69,7 @@
      <string name="pref_camera_picturesize_entry_1600x1200">2 Мпикс.</string>
      <string name="pref_camera_picturesize_entry_2048x1536">3 Мпикс.</string>
      <string name="pref_camera_picturesize_entry_2592x1936">5 Мпикс.</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="pref_camera_picturesize_entry_320x240">QVGA</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="pref_camera_picturesize_entry_640x480">VGA</string>
      <string name="pref_camera_picturesize_title">Размер фото</string>
      <string name="pref_camera_recordlocation_entry_off">Выкл</string>
@@ -95,19 +93,12 @@
      <string name="pref_restore_title">Настройки камеры</string>
      <string name="pref_video_effect_title">Эффекты</string>
      <string name="pref_video_quality_title">Качество видео</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="pref_video_time_lapse_frame_interval_entry_1000">1s</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="pref_video_time_lapse_frame_interval_entry_10000">10s</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="pref_video_time_lapse_frame_interval_entry_1500">1.5s</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="pref_video_time_lapse_frame_interval_entry_2000">2s</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="pref_video_time_lapse_frame_interval_entry_2500">2.5s</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="pref_video_time_lapse_frame_interval_entry_3000">3s</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="pref_video_time_lapse_frame_interval_entry_5000">5s</string>
      <string name="pref_video_time_lapse_frame_interval_title">Замедление</string>
      <string name="preparing_sd">Подготовка карты памяти...</string>

@@ -2,47 +2,47 @@
 <!-- Builded with NXT -->
 <resources>
      <plurals name="lockpassword_password_requires_letters">
-        <item quantity="other">Пароль должен содержать буквы (не менее %d)</item>
         <item quantity="one">Пароль должен содержать хотя бы 1 букву</item>
+        <item quantity="other">Пароль должен содержать буквы (не менее %d)</item>
      </plurals>
      <plurals name="lockpassword_password_requires_lowercase">
-        <item quantity="other">Пароль должен содержать строчные символы (не менее %d)</item>
         <item quantity="one">Пароль должен содержать хотя бы 1 строчную букву</item>
+        <item quantity="other">Пароль должен содержать строчные символы (не менее %d)</item>
      </plurals>
      <plurals name="lockpassword_password_requires_nonletter">
-        <item quantity="other">Пароль должен содержать небуквенные символы (не менее %d)</item>
         <item quantity="one">Пароль должен содержать хотя бы 1 небуквенный символ</item>
+        <item quantity="other">Пароль должен содержать небуквенные символы (не менее %d)</item>
      </plurals>
      <plurals name="lockpassword_password_requires_numeric">
-        <item quantity="other">Пароль должен содержать цифры (не менее %d)</item>
         <item quantity="one">Пароль должен содержать хотя бы 1 цифру</item>
+        <item quantity="other">Пароль должен содержать цифры (не менее %d)</item>
      </plurals>
      <plurals name="lockpassword_password_requires_symbols">
-        <item quantity="other">Пароль должен содержать специальные символы (не менее %d)</item>
         <item quantity="one">Пароль должен содержать хотя бы 1 специальный символ</item>
+        <item quantity="other">Пароль должен содержать специальные символы (не менее %d)</item>
      </plurals>
      <plurals name="lockpassword_password_requires_uppercase">
-        <item quantity="other">Пароль должен содержать заглавные буквы (не менее %d)</item>
         <item quantity="one">Пароль должен содержать хотя бы 1 заглавную букву</item>
+        <item quantity="other">Пароль должен содержать заглавные буквы (не менее %d)</item>
      </plurals>
-	 <plurals name="manage_notification_access_summary_nonzero">
-        <item quantity="other">Приложений читающих уведомления: %d</item>
+     <plurals name="manage_notification_access_summary_nonzero">
         <item quantity="one">Приложений читающих уведомления: %d</item>
+        <item quantity="other">Приложений читающих уведомления: %d</item>
      </plurals>
      <plurals name="power_center_battery_day">
-        <item quantity="other">"%d дн. "</item>
         <item quantity="one">"%d дн. "</item>
+        <item quantity="other">"%d дн. "</item>
      </plurals>
      <plurals name="power_center_battery_hour">
-        <item quantity="other">"%d ч. "</item>
         <item quantity="one">"%d ч. "</item>
+        <item quantity="other">"%d ч. "</item>
      </plurals>
      <plurals name="power_center_battery_minute">
-        <item quantity="other">"%d мин. "</item>
         <item quantity="one">"%d мин. "</item>
+        <item quantity="other">"%d мин. "</item>
      </plurals>
      <plurals name="show_dev_countdown">
-        <item quantity="other">Теперь вы находитесь в %1$d шагах от становления разработчиком.</item>
         <item quantity="one">Теперь вы находитесь в %1$d шаге от становления разработчиком.</item>
+        <item quantity="other">Теперь вы находитесь в %1$d шагах от становления разработчиком.</item>
      </plurals>
 </resources>

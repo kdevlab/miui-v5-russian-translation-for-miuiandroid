@@ -2,32 +2,32 @@
 <!-- Builded with NXT -->
 <resources>
      <plurals name="N_remaining_events">
-        <item quantity="other">+%d событий</item>
         <item quantity="one">+1 событие</item>
+        <item quantity="other">+%d событий</item>
      </plurals>
      <plurals name="Ndays">
-        <item quantity="other">%d дн.</item>
         <item quantity="one">1 день</item>
+        <item quantity="other">%d дн.</item>
      </plurals>
      <plurals name="Nevents">
-        <item quantity="other">%d событий</item>
         <item quantity="one">1 событие</item>
+        <item quantity="other">%d событий</item>
      </plurals>
      <plurals name="Nhours">
-        <item quantity="other">%d ч.</item>
         <item quantity="one">за 1 час</item>
+        <item quantity="other">%d ч.</item>
      </plurals>
      <plurals name="Nmins">
-        <item quantity="other">%d мин.</item>
         <item quantity="one">1 минуту</item>
+        <item quantity="other">%d мин.</item>
      </plurals>
      <plurals name="Nminutes">
-        <item quantity="other">%d мин.</item>
         <item quantity="one">1 минуту</item>
+        <item quantity="other">%d мин.</item>
      </plurals>
      <plurals name="month_more_events">
-        <item quantity="other">" и еще %d"</item>
         <item quantity="one">" и еще 1"</item>
+        <item quantity="other">" и еще %d"</item>
      </plurals>
      <plurals name="weekN">
         <item quantity="other">%d нед.</item>
