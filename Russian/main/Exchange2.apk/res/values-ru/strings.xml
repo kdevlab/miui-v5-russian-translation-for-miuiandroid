@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Builded with NXT -->
+<resources>
+     <string name="account_setup_options_mail_window_1day">One day</string>
+     <string name="account_setup_options_mail_window_1month">One month</string>
+     <string name="account_setup_options_mail_window_1week">One week</string>
+     <string name="account_setup_options_mail_window_2weeks">Two weeks</string>
+     <string name="account_setup_options_mail_window_3days">Three days</string>
+     <string name="account_setup_options_mail_window_all">All</string>
+     <string name="account_setup_options_mail_window_auto">Automatic</string>
+     <string name="app_name">Exchange Services</string>
+     <string name="exception_cancel">This event has been canceled for: %s</string>
+     <string name="exception_updated">The details of this event have been changed for: %s</string>
+     <string name="exchange_name">Corporate</string>
+     <string name="exchange_name_alternate">Microsoft Exchange ActiveSync</string>
+     <string name="meeting_accepted">Accepted: %s</string>
+     <string name="meeting_allday">When: %s (all day)</string>
+     <string name="meeting_allday_recurring">When: %s (all day, recurring)</string>
+     <string name="meeting_canceled">Canceled: %s</string>
+     <string name="meeting_declined">Declined: %s</string>
+     <string name="meeting_recurring">When: %s (recurring)</string>
+     <string name="meeting_tentative">Tentative: %s</string>
+     <string name="meeting_updated">Updated: %s</string>
+     <string name="meeting_when">When: %s</string>
+     <string name="meeting_where">Where: %s</string>
+     <string name="notification_exchange_calendar_added">Exchange calendar added</string>
+     <string name="policy_app_blacklist">Disallow specified apps</string>
+     <string name="policy_app_whitelist">Allow only specified apps</string>
+     <string name="policy_bluetooth_restricted">Restrict Bluetooth usage</string>
+     <string name="policy_dont_allow_attachments">"Don't allow attachments"</string>
+     <string name="policy_dont_allow_browser">"Don't allow browsers"</string>
+     <string name="policy_dont_allow_consumer_email">"Don't allow consumer email"</string>
+     <string name="policy_dont_allow_html">"Don't allow HTML email"</string>
+     <string name="policy_dont_allow_internet_sharing">"Don't allow Internet sharing"</string>
+     <string name="policy_dont_allow_irda">"Don't allow infrared communications"</string>
+     <string name="policy_dont_allow_pop_imap">"Don't allow POP3 or IMAP accounts"</string>
+     <string name="policy_dont_allow_storage_cards">"Don't allow storage cards"</string>
+     <string name="policy_dont_allow_text_messaging">"Don't allow text messaging"</string>
+     <string name="policy_dont_allow_unsigned_apps">"Don't allow unsigned apps"</string>
+     <string name="policy_dont_allow_unsigned_installers">"Don't allow unsigned app installers"</string>
+     <string name="policy_dont_allow_wifi">"Don't allow WLAN"</string>
+     <string name="policy_html_truncation">Restrict HTML email size</string>
+     <string name="policy_max_attachment_size">Restrict attachment size</string>
+     <string name="policy_require_encryption">Require device encryption</string>
+     <string name="policy_require_manual_sync_roaming">Only allow manual sync while roaming</string>
+     <string name="policy_require_sd_encryption">Require SD card encryption</string>
+     <string name="policy_require_smime">Require SMIME messages</string>
+     <string name="policy_text_truncation">Restrict text email size</string>
+</resources>
