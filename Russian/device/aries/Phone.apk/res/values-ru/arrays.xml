@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Builded with CloudBuildr -->
+<!-- Builded with NXT -->
 <resources>
      <string-array name="cdma_system_select_choices">
         <item>Только домашняя</item>
@@ -23,7 +23,6 @@
         <item>Китайский</item>
         <item>Иврит</item>
      </string-array>
-     <!-- The size of the array does not match! Now: 6 must: 13 -->
      <string-array name="preferred_network_mode_choices">
         <item>CDMA/EvDo/GSM/WCDMA</item>
         <item>Автом. CDMA/EvDo</item>

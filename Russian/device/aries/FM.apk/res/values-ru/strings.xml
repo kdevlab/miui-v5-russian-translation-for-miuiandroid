@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Builded with CloudBuildr -->
+<!-- Builded with NXT -->
 <resources>
      <string name="FMR_Antenna_long">Гарнитура</string>
      <string name="FMR_Antenna_short">Короткая</string>
@@ -21,7 +21,6 @@
      <string name="FMR_RDS_RT_text">РТ:</string>
      <string name="FMR_RDS_Ratio">Определение…</string>
      <string name="FMR_RDS_Ratio_text">Коэффициент:</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="FMR_RDS_text">RDS</string>
      <string name="FMR_Status_Caparray">Определение…</string>
      <string name="FMR_Status_Caparray_text">CapArray(pF):</string>
@@ -42,10 +41,6 @@
      <string name="alert_message_delete_station">Удалить радиостанцию?</string>
      <string name="alert_title_delete">Удаление станции</string>
      <string name="alert_title_new_station">Новая радиостанция</string>
-     <!-- The count of MNPS does not match! Now: 1 must: 0
-	%s: 1 must: 0
-	%d: 0 must: 0 -->
-     <!-- Original string: Сохранить радиостанцию -->
      <string name="alert_title_save_station">Сохранить радиостанцию %s</string>
      <string name="already_exists">Уже существует</string>
      <string name="app_name">Радио</string>
@@ -74,8 +69,6 @@
      <string name="contmenu_title">Операции</string>
      <string name="default_audio">Стерео</string>
      <string name="default_band">США</string>
-     <string name="default_blank" />
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="default_station">FM</string>
      <string name="default_station_name">Новый Канал</string>
      <string name="delete_station_title">Удалить</string>
@@ -118,7 +111,6 @@
      <string name="frequency_mhz_fomart">%sМГц</string>
      <string name="frequency_out_of_range">Частота вне диапозона (%1$s~%2$s)</string>
      <string name="frequency_should_not_null">Частота не может быть пустой</string>
-     <string name="frequency_string" />
      <string name="hint_frequency">Частота: %1$s ~ %2$s</string>
      <string name="hint_label">Радио</string>
      <string name="hint_station_name">Название радиостанции</string>
@@ -248,6 +240,5 @@
      <string name="turn_off_speaker_phone">Выключить динамик</string>
      <string name="turn_on_fm">Включить радио</string>
      <string name="turn_on_speaker_phone">Включить динамик</string>
-     <string name="type_rd" />
      <string name="view_stations_list">Список станций</string>
 </resources>

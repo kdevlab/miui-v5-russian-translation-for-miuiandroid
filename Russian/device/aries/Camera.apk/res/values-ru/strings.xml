@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Builded with CloudBuildr -->
+<!-- Builded with NXT -->
 <resources>
      <string name="Import">Импорт</string>
      <string name="access_phone_fail_no_product">Нет доступа к USB-накопителю</string>
@@ -382,7 +382,7 @@
      <string name="pref_video_speed_entry_fast">Быстрая</string>
      <string name="pref_video_speed_entry_normal">Обычная</string>
      <string name="pref_video_speed_entry_slow">Медленная</string>
-     <string name="pref_video_speed_title">Скорость видео</string>
+     <string name="pref_video_speed_title">Скорость съемки</string>
      <string name="pref_video_time_lapse_frame_interval_entry_10">0.3 секунды (10 раз)</string>
      <string name="pref_video_time_lapse_frame_interval_entry_120">4 секунды (120 раз)</string>
      <string name="pref_video_time_lapse_frame_interval_entry_150">5 секунд (150 раз)</string>
