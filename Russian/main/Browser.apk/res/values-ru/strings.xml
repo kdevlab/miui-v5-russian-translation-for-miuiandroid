@@ -94,7 +94,7 @@
      <string name="bookmarks_root_folder">Корневая папка</string>
      <string name="bookmarks_search">Браузер</string>
      <string name="bottom_bar_tabs_long_click_down_tip_txt">Сдвиг вниз - закрыть</string>
-     <string name="bottom_bar_tabs_long_click_last_tab_tip_txt">Последняя закладка</string>
+     <string name="bottom_bar_tabs_long_click_last_tab_tip_txt">Последняя вкладка</string>
      <string name="bottom_bar_tabs_long_click_up_tip_txt">Сдвиг вверх - закрыть</string>
      <string name="browserFrameFileErrorLabel">Проблема с файлом</string>
      <string name="browserFrameFormResubmitMessage">Страница, которую Вы пытаетесь открыть, содержит уже отправленные данные (POSTDATA). В случае их повторной отправки повторятся все действия, выполненные на странице после заполнения формы (например, поиск или покупка)</string>
