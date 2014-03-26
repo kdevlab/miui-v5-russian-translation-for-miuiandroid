@@ -149,7 +149,7 @@
      <string name="current_page">"на "</string>
      <string name="defaultBookmarksUpButton">Закладки</string>
      <string name="delete">Удалить</string>
-     <string name="delete_bookmark">из избранного</string>
+     <string name="delete_bookmark">Из закладок</string>
      <string name="delete_bookmark_warning">Удалить закладку \"%s\"?</string>
      <string name="delete_folder">Удалить папку</string>
      <string name="delete_multi_bookmarks_alert_title">Вы уверены, что хотите удалить эти закладки (%1$s)?</string>

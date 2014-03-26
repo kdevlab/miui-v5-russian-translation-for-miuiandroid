@@ -1623,7 +1623,7 @@
      <string name="list_sub_view_item_backup_uninstall">Бэкап</string>
      <string name="list_sub_view_item_clean">Удалить</string>
      <string name="list_sub_view_item_cleanup">Очистить</string>
-     <string name="list_sub_view_item_install">Уст.</string>
+     <string name="list_sub_view_item_install">Скачать</string>
      <string name="list_sub_view_item_lock">Заблок.</string>
      <string name="list_sub_view_item_uninstall">Удалить</string>
      <string name="list_sub_view_item_unlock">Разблок.</string>
@@ -2257,7 +2257,7 @@
      <string name="pointer_settings_category">Мышь и сенсорная панель</string>
      <string name="pointer_speed">Скорость указателя</string>
      <string name="port_title">Порт SLP</string>
-     <string name="power_20s_enter_mode">%1$ds переключиться в режим %2$s</string>
+     <string name="power_20s_enter_mode" formatted="false">Через %d с. - %2$s</string>
      <string name="power_apply_toast">Включен режим %s и сохранено текущеее состояние</string>
      <string name="power_autorun_apps_empty">Нет приложений в автозапуске</string>
      <string name="power_autorun_control_desc">Слишком много приложений запускаемых автоматически, могут увеличить энергопотребление устройства</string>
@@ -2387,10 +2387,10 @@
      <string name="power_mode_vibration_yes">Всегда</string>
      <string name="power_mode_wifi">Wi-Fi</string>
      <string name="power_new_choose_mode">Выберите конфигурацию</string>
-     <string name="power_notify_lowbattery">Питания меньше %1$d%%</string>
+     <string name="power_notify_lowbattery">Заряд меньше %1$d%%</string>
      <string name="power_perm_logs_empty">Пусто</string>
      <string name="power_phone">Голосовые вызовы</string>
-     <string name="power_recovery_mode">Вернуться в режим %1$s</string>
+     <string name="power_recovery_mode">Возврат в режим %1$s</string>
      <string name="power_save_choose_mode">Выберите конфигурацию</string>
      <string name="power_save_choose_recovery_mode">Выберите конфигурацию</string>
      <string name="power_save_low_battery_auto_save_title">Включить</string>
@@ -2402,7 +2402,7 @@
      <string name="power_save_low_battery_percentage_ten">10%</string>
      <string name="power_save_low_battery_percentage_thirty">30%</string>
      <string name="power_save_low_battery_percentage_twenty">20%</string>
-     <string name="power_save_low_battery_seekbar_title">Переключить режим, когда заряд батареи более чем %1$d%%</string>
+     <string name="power_save_low_battery_seekbar_title">Переключить режим, когда заряд батареи менее чем %1$d%%</string>
      <string name="power_save_low_battery_title">Смена режима по питанию</string>
      <string name="power_save_on_time_auto_save_title">Включить</string>
      <string name="power_save_on_time_default_time">00:00</string>

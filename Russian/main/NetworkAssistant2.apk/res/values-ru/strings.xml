@@ -82,7 +82,7 @@
      <string name="main_traffic_used_text">"%s
 использовано"</string>
      <string name="manual_input_free_traffic">Set off-peak data usage</string>
-     <string name="manual_input_traffic">Введите предел трафика</string>
+     <string name="manual_input_traffic">Введите использованный трафик</string>
      <string name="network_assistant_upgraded_body">Нажмите, чтобы ограничить использование данных</string>
      <string name="network_assistant_upgraded_title">Обновление завершено</string>
      <string name="network_control">Управление трафиком</string>
