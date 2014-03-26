@@ -91,7 +91,6 @@
      <string name="copy">Копировать</string>
      <string name="copy_success">Скопировано!</string>
      <string name="credit_center">Кредит-центр</string>
-     <string name="data_package">_DataPackage</string>
      <string name="default_nick_name">KDev Group</string>
      <string name="delete">Удалить</string>
      <string name="description_info">Описание</string>
@@ -369,7 +368,6 @@
      <string name="no_updateable_game">Нет обновляемых игр</string>
      <string name="no_url">Не удалось найти адрес загрузки</string>
      <string name="no_yiguoqi">Истек</string>
-     <string name="none" />
      <string name="notif_install_failed">Ошибка установки %1$s</string>
      <string name="notif_install_failed_sdcard_space_not_enough">Не удалось установить: не хватает места на SD-карты</string>
      <string name="notif_install_failed_system_space_not_enough">Не удалось установить: недостаточно памяти</string>
@@ -475,7 +473,6 @@
      <string name="subject_lists">Список тем игр</string>
      <string name="system_app_sign_not_match_fail">%1$s установка не удалась из-за конфликта подписей</string>
      <string name="term_of_validity">Оставшееся время: %s</string>
-     <string name="text">http://miloisbadboy.com/</string>
      <string name="this_month_no_purchase_record">нет записей о Ваших покупках в этом месяце</string>
      <string name="title_gift">GamePacks</string>
      <string name="title_intergral">Очки</string>

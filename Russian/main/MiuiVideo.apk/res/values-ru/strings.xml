@@ -58,8 +58,6 @@
      <string name="clear_playhistory_tip">Вся история просмотра в плеере будет удалена. Продолжить?</string>
      <string name="clearplayhistory">Очистить историю</string>
      <string name="comment">Комментарии</string>
-     <string name="comment_can_input_prefix" />
-     <string name="comment_can_input_suffix" />
      <string name="comment_detailInfo">Отзыв</string>
      <string name="comment_hint">(до 300 символов)</string>
      <string name="comment_hint_tip">Комментарий добавлен и будет показан после обзора</string>
@@ -98,7 +96,6 @@
      <string name="download_is_success">Загружено</string>
      <string name="end_live_status">Завершен</string>
      <string name="episode_prefix">"эпизод "</string>
-     <string name="episode_suffix" />
      <string name="favorite">Избранное</string>
      <string name="favorited_cannot_hide">Избранные нельзя скрыть</string>
      <string name="fenghuang">iFeng</string>

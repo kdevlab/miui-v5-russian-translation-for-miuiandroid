@@ -74,7 +74,6 @@
      <string name="contmenu_title">Операции</string>
      <string name="default_audio">Стерео</string>
      <string name="default_band">США</string>
-     <string name="default_blank" />
      <string name="default_station">FM</string>
      <string name="default_station_name">Новый Канал</string>
      <string name="default_time">Через 30 минут</string>
@@ -130,7 +129,6 @@
      <string name="frequency_mhz_fomart">%sМГц</string>
      <string name="frequency_out_of_range">Частота вне диапозона (%1$s~%2$s)</string>
      <string name="frequency_should_not_null">Частота не может быть пустой</string>
-     <string name="frequency_string" />
      <string name="hint_frequency">Частота: %1$s ~ %2$s</string>
      <string name="hint_label">Радио</string>
      <string name="hint_station_name">Название радиостанции</string>
@@ -278,6 +276,5 @@
      <string name="turn_off_speaker_phone">Выключить динамик</string>
      <string name="turn_on_fm">Включить радио</string>
      <string name="turn_on_speaker_phone">Включить динамик</string>
-     <string name="type_rd" />
      <string name="view_stations_list">Список станций</string>
 </resources>

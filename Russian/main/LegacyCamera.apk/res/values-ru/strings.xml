@@ -38,7 +38,6 @@
      <string name="effect_silly_faces">СМЕШНЫЕ РОЖИЦЫ</string>
      <string name="gallery_camera_bucket_name">Фото</string>
      <string name="gallery_camera_videos_bucket_name">Видео</string>
-     <string name="image_file_name_format">"'IMG'_ddMMyyyy_HHmmss"</string>
      <string name="no_picture_to_share">Нет фото для отправки</string>
      <string name="no_storage">Вставьте карту памяти для использования Камеры</string>
      <string name="no_video_to_share">Нет видео для отправки</string>
@@ -49,7 +48,6 @@
      <string name="pano_dialog_panorama_failed">Не удалось сохранить файл</string>
      <string name="pano_dialog_prepare_preview">Обработка...</string>
      <string name="pano_dialog_title">Панорама</string>
-     <string name="pano_file_name_format">"'PANO'_ddMMyyyy_HHmmss"</string>
      <string name="pano_review_saving_indication_str">Сохранение...</string>
      <string name="pano_too_fast_prompt">Очень быстро</string>
      <string name="pref_camcorder_settings_category">Настройки видеокамеры</string>
@@ -93,13 +91,6 @@
      <string name="pref_restore_title">Настройки камеры</string>
      <string name="pref_video_effect_title">Эффекты</string>
      <string name="pref_video_quality_title">Качество видео</string>
-     <string name="pref_video_time_lapse_frame_interval_entry_1000">1s</string>
-     <string name="pref_video_time_lapse_frame_interval_entry_10000">10s</string>
-     <string name="pref_video_time_lapse_frame_interval_entry_1500">1.5s</string>
-     <string name="pref_video_time_lapse_frame_interval_entry_2000">2s</string>
-     <string name="pref_video_time_lapse_frame_interval_entry_2500">2.5s</string>
-     <string name="pref_video_time_lapse_frame_interval_entry_3000">3s</string>
-     <string name="pref_video_time_lapse_frame_interval_entry_5000">5s</string>
      <string name="pref_video_time_lapse_frame_interval_title">Замедление</string>
      <string name="preparing_sd">Подготовка карты памяти...</string>
      <string name="review_cancel">Отмена</string>
@@ -118,7 +109,6 @@
      <string name="tap_to_focus">Нажмите для фокусировки</string>
      <string name="time_lapse_title">Режим замедленной съемки</string>
      <string name="video_camera_label">Видеокамера</string>
-     <string name="video_file_name_format">"'VID'_ddMMyyyy_HHmmss"</string>
      <string name="video_reach_size_limit">Достигнут предельный размер видео</string>
      <string name="video_snapshot_hint">Чтобы сделать снимок при видеосъемке, нажмите на экран просмотра</string>
      <string name="wait">Подождите...</string>

@@ -1,11 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Builded with NXT -->
 <resources>
-     <string name="aspect_ratio_11_9">11x9</string>
-     <string name="aspect_ratio_16_9">16x9</string>
-     <string name="aspect_ratio_3_2">3x2</string>
-     <string name="aspect_ratio_4_3">4x3</string>
-     <string name="aspect_ratio_5_3">5x3</string>
      <string name="audio_track_menu_duck">Компрессия</string>
      <string name="done">Готово</string>
      <string name="edit">Изменить</string>

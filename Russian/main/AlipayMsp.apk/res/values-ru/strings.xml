@@ -6,7 +6,6 @@
      <string name="msp_alert_title">Предупреждение</string>
      <string name="msp_allow_back_hint">本次支付尚未完成，是否退出支付宝快捷支付服务？</string>
      <string name="msp_app_error">系统繁忙，请稍后再试。</string>
-     <string name="msp_app_name">msp</string>
      <string name="msp_channel_state">当前选中已足够付款</string>
      <string name="msp_close">Закрыть</string>
      <string name="msp_confirm_install_hint">Обновить</string>
@@ -29,7 +28,6 @@
      <string name="msp_on">ВКЛ</string>
      <string name="msp_please_input">Введите</string>
      <string name="msp_redo">Повтор</string>
-     <string name="msp_str_null" />
      <string name="msp_xlistview_footer_hint_no_more">Загружено</string>
      <string name="msp_xlistview_footer_hint_normal">Еще</string>
      <string name="msp_xlistview_footer_hint_ready">Отпустите, чтобы обновить</string>
