@@ -2257,7 +2257,7 @@
      <string name="pointer_settings_category">Мышь и сенсорная панель</string>
      <string name="pointer_speed">Скорость указателя</string>
      <string name="port_title">Порт SLP</string>
-     <string name="power_20s_enter_mode" formatted="false">Через %d с. - %2$s</string>
+     <string name="power_20s_enter_mode">Через %1$d с. - %2$s</string>
      <string name="power_apply_toast">Включен режим %s и сохранено текущеее состояние</string>
      <string name="power_autorun_apps_empty">Нет приложений в автозапуске</string>
      <string name="power_autorun_control_desc">Слишком много приложений запускаемых автоматически, могут увеличить энергопотребление устройства</string>
