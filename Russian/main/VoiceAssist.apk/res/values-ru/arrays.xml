@@ -145,6 +145,11 @@
         <item>DaLong</item>
         <item>Дональд Дак</item>
      </string-array>
+	 <string-array name="voice_wakeup_entries">
+        <item>\"Xiaomi xiaomi kai ji\"</item>
+        <item>\"Xiaomi xiaomi kuai le\"</item>
+        <item>\"Xiaomi xiaomi qi chuang\"</item>
+    </string-array>
      <string-array name="weather_image">
         <item>晴</item>
         <item>多云</item>

@@ -161,6 +161,7 @@
      <string name="activity_picker_label">Выбор действия</string>
      <string name="activity_title_create_shortcut">Ярлыки</string>
      <string name="activity_title_settings">Настройки</string>
+	 <string name="adb_keys_warning_message">Отказать в доступе к USB отладки со всех ранее использованных компьютеров?</string>
      <string name="adb_warning_message">Отладка по USB – это режим, который позволяет использовать Ваше устройство как внешний накопитель: перемещать файлы (с компьютера и на компьютер), напрямую устанавливать приложения, а также просматривать системные журналы</string>
      <string name="adb_warning_title">Разрешить отладку USB?</string>
      <string name="add_account_label">Добавить аккаунт</string>
@@ -275,7 +276,11 @@
      <string name="app_name">Сервис</string>
      <string name="app_name_label">Приложение</string>
      <string name="app_not_found_dlg_text">Приложение не найдено в списке установленных</string>
+	 <string name="app_not_supported_in_limited">Это приложение не поддерживается в ограниченных профилях</string>
      <string name="app_notifications_switch_label">Показывать уведомления</string>
+	 <string name="app_ops_never_used">(никогда не использовалось)</string>
+	 <string name="app_ops_running">Запущенные</string>
+     <string name="app_ops_settings">App ops</string>
      <string name="app_process_limit_title">Лимит фоновых процессов</string>
      <string name="app_special_disable_dlg_text">Если отключить встроенное приложение, другие приложения могут работать неправильно. Кроме того, будут удалены все данные.</string>
      <string name="app_special_disable_dlg_title">Отключить?</string>
@@ -715,6 +720,7 @@
      <string name="cleanning_prefix">Очистка:%s</string>
      <string name="clear_activities">Удалить настройки по умолчанию</string>
      <string name="clear_activities_summary">Установить эту программу по умолчанию для некоторых действий</string>
+	 <string name="clear_adb_keys">Удалить авторизацию USB отладки</string>
      <string name="clear_all_calllog">Очистить журнал вызовов</string>
      <string name="clear_all_mslog">Очистить журнал сообщений</string>
      <string name="clear_cache_btn_text">Очистить кэш</string>

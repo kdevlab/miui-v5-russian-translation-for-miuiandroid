@@ -405,6 +405,13 @@ the content you're looking for is not currently available in your region."</stri
      <string name="voice_engine">Голосовой движок</string>
      <string name="voice_report">Голосовой отчет</string>
      <string name="voice_support">При поддержке iflytek</string>
+	 <string name="voice_wakeup_keyword_title">Слово</string>
+     <string name="voice_wakeup_turn_off">Выкл</string>
+     <string name="voice_wakeup_turn_on">Вкл (недоступно при проигрывании музыки)</string>
+     <string name="voice_wakeup_turn_on_confirm">OK</string>
+     <string name="voice_wakeup_turn_on_notice">Больше не показывать</string>
+     <string name="voice_wakeup_turn_on_summary">Используйте голосовые команды, чтобы разблокировать телефон (недоступно при проигрывании музыки)</string>
+     <string name="voice_wakeup_turn_on_title">Раблокировка голосом</string>
      <string name="voiceassist_settings">Настройки</string>
      <string name="voiceassist_settings_title">Настройки голосового помощника</string>
      <string name="weather_no_city">无当地的天气信息</string>
