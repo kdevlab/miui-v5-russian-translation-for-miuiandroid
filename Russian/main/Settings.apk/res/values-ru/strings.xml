@@ -282,6 +282,8 @@
 	 <string name="app_ops_running">Запущенные</string>
      <string name="app_ops_settings">App ops</string>
      <string name="app_process_limit_title">Лимит фоновых процессов</string>
+	 <string name="app_restrictions_custom_label">Установить ограничения приложения</string>
+     <string name="app_sees_restricted_accounts">Это приложение может получить доступ к Вашим аккаунтам</string>
      <string name="app_special_disable_dlg_text">Если отключить встроенное приложение, другие приложения могут работать неправильно. Кроме того, будут удалены все данные.</string>
      <string name="app_special_disable_dlg_title">Отключить?</string>
      <string name="app_uninstall_residual">Удалить остаточные файлы?</string>
@@ -290,6 +292,7 @@
      <string name="application_item_already_permission">Разрешено</string>
      <string name="application_item_disable">Отключить</string>
      <string name="application_item_permission">Разрешить</string>
+	 <string name="application_restrictions">Разрешить приложения и контент</string>
      <string name="application_size_label">Приложение</string>
      <string name="applications_settings">Приложения</string>
      <string name="applications_settings_header">Настройки приложения</string>
@@ -297,6 +300,8 @@
      <string name="applications_sort_type_item_size">По размеру</string>
      <string name="applications_sort_type_item_time">По частоте использования</string>
      <string name="applications_sort_type_title">Сортировка</string>
+	 <string name="apps_with_restrictions_header">Приложения с ограничениями</string>
+     <string name="apps_with_restrictions_settings_button">Расширенные настройки приложения</string>
      <string name="ask_compatibility">Спрашивать при запуске</string>
      <string name="assisted_gps">Использовать A-GPS</string>
      <string name="assisted_gps_disabled">Использовать сервер для A-GPS (снимите флажок для улучшения работы GPS)</string>
@@ -699,6 +704,9 @@
      <string name="cancel_scan">Отмена</string>
      <string name="cant_sync_dialog_message">Синхронизация отключена. Чтобы включить ее, временно разрешите передачу данных в фоновом режиме и автоматическую синхронизацию.</string>
      <string name="cant_sync_dialog_title">Не удалось синхронизировать данные</string>
+	 <string name="capabilities_list_title">%1$s необходимо:</string>
+     <string name="capability_desc_receiveAccessibilityEvents">Получайте уведомления при работе с приложением</string>
+     <string name="capability_title_receiveAccessibilityEvents">Соблюдайте ваши действия</string>
      <string name="carrier_enabled">Включить/Выключить APN</string>
      <string name="carrier_enabled_summaryOff">APN выключен</string>
      <string name="carrier_enabled_summaryOn">APN включен</string>
@@ -759,6 +767,9 @@
      <string name="cpu_dtm_summary">Ограничение максимальной производительности процессора для экономии батареи.</string>
      <string name="cpu_dtm_title">Режим энергосбережения ЦП</string>
      <string name="create">Создать</string>
+	 <string name="credential_storage_type">Тип памяти</string>
+     <string name="credential_storage_type_hardware">Оборудование</string>
+     <string name="credential_storage_type_software">ПО</string>
      <string name="credentials_configure_lock_screen_hint">Прежде чем использовать хранилище учетных данных, необходимо задать PIN-код или пароль для блокировки экрана</string>
      <string name="credentials_enabled">Хранилище регистрационных данных включено</string>
      <string name="credentials_erased">Хранилище регистрационных данных очищено</string>
@@ -906,9 +917,10 @@
      <string name="debug_applications_category">Приложения</string>
      <string name="debug_debugging_category">Отладка</string>
      <string name="debug_drawing_category">Отображение</string>
+	 <string name="debug_hw_drawing_category">Аппаратное ускорение рендеринга</string>
      <string name="debug_input_category">Ввод</string>
      <string name="debug_intent_sender_label">Отладка intent sender</string>
-     <string name="debug_layout">Показывать границы</string>
+     <string name="debug_layout">Границы</string>
      <string name="debug_layout_summary">Показывать границы, поля и т.д.</string>
      <string name="debug_log">Журнал отладки</string>
      <string name="debug_monitoring_category">Мониторинг</string>
@@ -941,6 +953,7 @@
      <string name="dev_settings_warning_message">Эти настройки только для разработчиков. Они могут вызвать нестабильность работы устройства и приложений.</string>
      <string name="dev_settings_warning_title">Разрешить настройки для разработчиков?</string>
      <string name="development_enable">Режим разработчика</string>
+	 <string name="development_settings_not_available">Настройки разработчика не доступны для этого пользователя</string>
      <string name="development_settings_summary">Настройка параметров для разработчиков</string>
      <string name="development_settings_title">Для разработчиков</string>
      <string name="device_additional_status">Доп. инф. о статусе</string>
@@ -977,6 +990,7 @@
      <string name="dialog_msg_check_all">Подтверждаете выбор %1$s, содержащий %2$d элемен. списка?</string>
      <string name="dialog_msg_cleanup_apps">Все данные этого приложения будут удалены навсегда (все файлы, настройки учетных записей, базы данных и т.д.)</string>
      <string name="dialog_msg_cleanup_system_cache">Это очистит кэшированные данные всех приложений</string>
+	 <string name="dialog_msg_load_cleanup_engine_error">Ошибка запуска движка очистки. Повторите позже.</string>
      <string name="dialog_msg_uninstall_apps">Удалить выбранные приложения?</string>
      <string name="dialog_title_backup_and_cleanup_apps">Сделать бэкап и удалить данные приложения?</string>
      <string name="dialog_title_backup_and_uninstall_apps">Бэкап и удаление</string>
@@ -986,6 +1000,7 @@
      <string name="dialog_title_color_calibration">Коррекция цвета</string>
      <string name="dialog_title_font_size">Размер шрифта</string>
      <string name="dialog_title_hdmi_color_calibration">Коррекция цвета</string>
+	 <string name="dialog_title_load_cleanup_engine_error">Ошибка</string>
      <string name="dialog_title_uninstall_apps">Удаление</string>
      <string name="dirac_control">Технология \"MI Sound\"</string>
      <string name="dirac_mode_earbuds">Гарнитура</string>
@@ -999,6 +1014,8 @@
      <string name="disable_overlays">Отключить HW оверлеи</string>
      <string name="disable_overlays_summary">Всегда использовать GPU для отрисовки экрана</string>
      <string name="disable_power_key_long_press_under_keyguard">Отключить клавишу питания</string>
+	 <string name="disable_service_message">Нажатие OK остановит %1$s</string>
+     <string name="disable_service_title">Остановить %1$s?</string>
      <string name="disable_text">Отключить</string>
      <string name="disabled">Отключено</string>
      <string name="display_default">Дисплей</string>
@@ -1137,6 +1154,7 @@
      <string name="enable_gps">Включить GPS</string>
      <string name="enable_gps_confirm_message">Необходимо подключение к интернету для получения данных GPS (EPO, A-GPS). Включить GPS?</string>
      <string name="enable_opengl_traces_title">Трассировка OpenGL</string>
+	 <string name="enable_service_title">Использовать %1$s?</string>
      <string name="enable_sim">Включить</string>
      <string name="enable_snapshot_screenlock">Камера кнопкой \"НАЗАД\"</string>
      <string name="enable_text">Включить</string>

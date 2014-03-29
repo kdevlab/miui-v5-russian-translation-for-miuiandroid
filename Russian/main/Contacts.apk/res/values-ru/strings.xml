@@ -512,11 +512,11 @@
      <string name="menu_accounts">Аккаунты</string>
      <string name="menu_addStar">В избранные</string>
      <string name="menu_bar_group_add">Добавить</string>
-     <string name="menu_bar_group_delete">Удалить группу</string>
+     <string name="menu_bar_group_delete">Удалить</string>
      <string name="menu_bar_group_rename">Переименовать</string>
      <string name="menu_bar_group_ringtone">Мелодия</string>
      <string name="menu_bar_group_ringtone_largeui">Мелодия</string>
-     <string name="menu_bar_group_sms">Сообщение</string>
+     <string name="menu_bar_group_sms">Смс</string>
      <string name="menu_call">Позвонить</string>
      <string name="menu_callNumber">Вызов: %s</string>
      <string name="menu_call_ip_number">Вызов через IP (вызов %s)</string>
@@ -527,7 +527,7 @@
      <string name="menu_create_contact_shortcut">На рабочий стол</string>
      <string name="menu_deleteContact">Удалить контакт</string>
      <string name="menu_deleteGroup">Удалить группу</string>
-     <string name="menu_dial_ip_number">Совершить IP-вызов</string>
+     <string name="menu_dial_ip_number">IP-вызов</string>
      <string name="menu_dialpad_text">Клавиатура</string>
      <string name="menu_discard">Отмена</string>
      <string name="menu_display_all">Показать все</string>
