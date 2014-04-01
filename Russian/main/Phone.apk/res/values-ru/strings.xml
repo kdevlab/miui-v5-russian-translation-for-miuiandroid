@@ -3,6 +3,7 @@
 <resources>
      <string name="ContactScreen">Добавить/изменить контакт на SIM</string>
      <string name="ExportContactScreen">Экспорт контактов из телефона на SIM</string>
+     <string name="accept_modify_call_request_prompt">Accept modify call request?</string>
      <string name="accessibility_call_muted">Звук выключен</string>
      <string name="accessibility_speakerphone_enabled">Громкая связь включена</string>
      <string name="activity_not_found">Приложение не установлено на телефоне</string>
@@ -148,6 +149,7 @@
      <string name="callFailed_dsac_vt_out_of_3G_yourphone">Ваше устройство находится вне зоны 3G, совершить голосовой вызов?</string>
      <string name="callFailed_dsac_vt_resource_unavailable">Видео вызов не может быть установлен. Устройство на которое вы звоните находится вне зоны 3G, совершить голосовой вызов?</string>
      <string name="callFailed_fdn_only">Вы можете позвонить только на телефоны из списка разрешенных номеров</string>
+     <string name="callFailed_incoming_cb_enabled">Party has barred all Incoming calls.</string>
      <string name="callFailed_invalid_credentials">Неправильное имя или пароль</string>
      <string name="callFailed_limitExceeded">Превышен лимит ACM</string>
      <string name="callFailed_noSignal">Нет сигнала</string>
@@ -174,6 +176,7 @@
      <string name="call_lost_title">Вызов пропущен</string>
      <string name="call_number">Кому:</string>
      <string name="call_record_button_label">Запись %s</string>
+     <string name="call_record_error_access">"Can't record while you're in Guest mode"</string>
      <string name="call_record_notification_message_low_space_miui">Запись остановлена. ​​Нет свободного места.</string>
      <string name="call_record_notification_message_miui">Нажмите, чтобы посмотреть файл %s</string>
      <string name="call_record_notification_message_sd_unmounted_miui">Запись остановлена, так как SD-карта не смонтирована</string>
@@ -197,6 +200,8 @@
      <string name="call_settings_category_miui">Вызовы</string>
      <string name="call_settings_miui">Настройки вызовов</string>
      <string name="call_title_redialing_with_times_miui">Повторный набор №%d</string>
+     <string name="call_type">CallType</string>
+     <string name="call_type_title">IMS Call type</string>
      <string name="call_waiting_sum_miui">Сообщать мне о входящих звонках во время разговора</string>
      <string name="call_waiting_tone_continuously_miui">Воспроизводить по кругу</string>
      <string name="call_waiting_tone_stop_summary">(Нажмите кнопку громкости для отключения звука вручную)</string>
@@ -219,6 +224,7 @@
      <string name="cannot_answered_Voice_Call">Голосовой вызов не может быть совершен, так как уже совершается видео вызов</string>
      <string name="card_01">Карточка 1</string>
      <string name="card_02">Карточка 2</string>
+     <string name="card_03">Card 3 / SUB 3</string>
      <string name="card_title_MOcall_forwarding">Переадресации исходящих</string>
      <string name="card_title_MTcall_forwarding">Входящий вызов переадресуется</string>
      <string name="card_title_call_deflected">Вызовы запрещены</string>
@@ -376,6 +382,7 @@
      <string name="default_contacts_countrycode_hint_miui">Например: 7</string>
      <string name="default_contacts_countrycode_miui">Стандартный код города</string>
      <string name="default_contacts_countrycode_sum_miui">Редактирование стандартного кода города: %s</string>
+     <string name="default_ims_call_type">Voice</string>
      <string name="default_notification_description">Звук по умолчанию (%1$s)</string>
      <string name="default_preference_summary">&lt;Не настроено></string>
      <string name="delete">Удалить</string>
@@ -391,12 +398,16 @@
      <string name="deleting_sim_entry_miui">Удаление контактов на SIM-карте</string>
      <string name="description_call_recording_miui">Запись текущего разговора</string>
      <string name="description_dial_button">набор номера</string>
+     <string name="description_direction_down_left">Down Left</string>
+     <string name="description_direction_down_right">Down Right</string>
      <string name="description_direction_left">Налево для %s</string>
      <string name="description_direction_left_miui">Налево для %s</string>
      <string name="description_direction_right">Направо для %s</string>
      <string name="description_direction_right_miui">Направо для %s</string>
      <string name="description_direction_up">Вверх для %s</string>
+     <string name="description_direction_up_left">Up Left</string>
      <string name="description_direction_up_miui">Вверх для %s</string>
+     <string name="description_direction_up_right">Up Right</string>
      <string name="description_image_button_eight">восемь</string>
      <string name="description_image_button_five">пять</string>
      <string name="description_image_button_four">четыре</string>
@@ -412,6 +423,9 @@
      <string name="description_search_button">поиск</string>
      <string name="description_target_answer">Правильный вариант</string>
      <string name="description_target_answer_miui">Ответ</string>
+     <string name="description_target_answer_rx_video">Answer with RX Video</string>
+     <string name="description_target_answer_tx_video">Answer with TX Video</string>
+     <string name="description_target_answer_video">Answer with Video</string>
      <string name="description_target_decline">Отклонить</string>
      <string name="description_target_decline_miui">Отклонить</string>
      <string name="description_target_send_sms">Отправить SMS</string>
@@ -419,6 +433,7 @@
      <string name="dial">Набор номера</string>
      <string name="dial_emergency_empty_error">Вызов не осуществлен, наберите номер экстренного вызова!</string>
      <string name="dial_emergency_error">Вызов не осуществлен, так как %s не является номером экстренного вызова!</string>
+     <string name="dial_pad_autocomplete">Dial pad autocomplete</string>
      <string name="dial_related_setting_catory_miui">Набор номера</string>
      <string name="dialerKeyboardHintText">Используйте клавиатуру для набора номера</string>
      <string name="dialer_emptyListWorking">Загрузка…</string>
@@ -515,6 +530,7 @@
      <string name="enterNumber">Введите номер телефона:</string>
      <string name="enterPin">Введите PIN для разблокировки SIM-карты</string>
      <string name="enter_callbarring_password">Введите пароль запрета вызовов(4 цифры)</string>
+     <string name="enter_input">Input Required. Try again!!</string>
      <string name="enter_ip_prefix_number">Ввести префикс</string>
      <string name="enter_pin_text">PIN SIM-карты:</string>
      <string name="entertainment_news_settings">Калейдоскоп</string>
@@ -595,6 +611,11 @@
      <string name="import_sim_entry_miui">Импорт</string>
      <string name="importingSimContacts">Импорт контактов с SIM-карты</string>
      <string name="importing_sim_contacts_miui">Импорт контактов с SIM-карты</string>
+     <string name="ims_accounts_title">IMS Account</string>
+     <string name="ims_domain_address_title">IMS Server</string>
+     <string name="ims_edit_title">IMS account details</string>
+     <string name="ims_menu_discard">Discard</string>
+     <string name="ims_menu_save">Save</string>
      <string name="in_calling">Вызов</string>
      <string name="in_sms">Сообщение</string>
      <string name="incall_call_type_label_sip">Интернет-вызов</string>
@@ -713,6 +734,13 @@
      <string name="manage_fdn_list">Разрешенные номера</string>
      <string name="manage_fdn_list_miui">Разрешенные номера</string>
      <string name="manage_fdn_list_sum_miui">Управление списком номеров</string>
+     <string name="managed_roaming_dialog_cancel_button">No</string>
+     <string name="managed_roaming_dialog_content">Network with Limited Service found. Do you want to initiate a Network Search?</string>
+     <string name="managed_roaming_dialog_ok_button">Yes</string>
+     <string name="managed_roaming_title">Managed Roaming</string>
+     <string name="managed_roaming_title_sub1">Managed Roaming (SUB1)</string>
+     <string name="managed_roaming_title_sub2">Managed Roaming (SUB2)</string>
+     <string name="managed_roaming_title_sub3">Managed Roaming (SUB3)</string>
      <string name="manual_select_dialog_msg">Мобильный телефон не будет автоматически выбирать оператора в режиме ручного выбора. Иногда необходимо будет заного выбрать, либо вернуться в автоматический режим выбора если устройство потеряет сеть выбранного оператора. Мы рекомендуем вам использовать \ "Выбирать автоматически \". Выбрать сеть вручную?</string>
      <string name="manual_select_title">Выбрать вручную</string>
      <string name="menu_add">Добавить контакт</string>
@@ -758,6 +786,15 @@
      <string name="mobile_networks">Настройки мобильной сети</string>
      <string name="mobile_networks_miui">Мобильная сеть</string>
      <string name="modem_switching">Смена SIM-карт может занять некоторое время. Пожалуйста подождите…</string>
+     <string name="modify_call_failure_str">"Modify Call request failed
+"</string>
+     <string name="modify_call_option_title">Which type of call?</string>
+     <string name="modify_call_option_voice">Voice Only</string>
+     <string name="modify_call_option_vt">VT</string>
+     <string name="modify_call_option_vt_rx">Video receive</string>
+     <string name="modify_call_option_vt_tx">Video transmit</string>
+     <string name="modify_call_prompt_no">No</string>
+     <string name="modify_call_prompt_yes">Yes</string>
      <string name="mt_code_additional_call_forwarded">Дополнительные входящий вызов направляется</string>
      <string name="mt_code_call_connected_ect">Предача звонка активна</string>
      <string name="mt_code_call_connecting_ect">Передача звонка</string>
@@ -782,6 +819,7 @@
      <string name="national_enable">Национальные новости включены</string>
      <string name="net_or_simcard_busy">Сеть или SIM-карта занята, попробуйте позже.</string>
      <string name="network_forbidden">Запрещено</string>
+     <string name="network_forbidden_miui">%s (forbidden)</string>
      <string name="network_id">ID Сети</string>
      <string name="network_manage_settings">Настройки сети</string>
      <string name="network_message">Сообщение сети</string>
@@ -814,6 +852,7 @@
      <string name="no_vm_number">Не указан номер голосовой почты</string>
      <string name="no_vm_number_msg">На SIM-карте нет ни одного номера голосовой почты</string>
      <string name="no_voip">Интернет-вызов не поддерживается</string>
+     <string name="no_volte">Unable to make IMS call</string>
      <string name="no_wifi_available">Для совершения интернет-вызовов необходимо подключение к сети WiFi (используйте настройки беспроводной сети).</string>
      <string name="no_wifi_available_title">Отсутствует подключение WiFi</string>
      <string name="not_a_valid_port">Номер порта должен быть от 1000 до 65534</string>
@@ -860,6 +899,7 @@
      <string name="one_retry_left">Повторов: 1</string>
      <string name="ongoing">Текущий вызов</string>
      <string name="onscreenAddCallText">Новый вызов</string>
+     <string name="onscreenAddParticipant">Add Participant</string>
      <string name="onscreenAudioText">Аудио</string>
      <string name="onscreenCdmaManageCallext">Управление звонками</string>
      <string name="onscreenCdmaMergeCallext">Слияние звонков</string>
@@ -872,9 +912,11 @@
      <string name="onscreenManageCallsText">Управление вызовами</string>
      <string name="onscreenManageConferenceText">Управление конференцией</string>
      <string name="onscreenMergeCallsText">Соединить</string>
+     <string name="onscreenModifyCallText">Modify Call</string>
      <string name="onscreenMuteText">Откл. звук</string>
      <string name="onscreenShowDialpadText">Кнопки</string>
      <string name="onscreenSwapCallsText">Перевод звонка</string>
+     <string name="onscreenSwitchText">Switch Subscription</string>
      <string name="onscreen_add_call_text_miui">Контакт</string>
      <string name="onscreen_audio_mode_handset_miui">Динамик телефона</string>
      <string name="onscreen_audio_mode_headset_miui">Наушники</string>
@@ -935,6 +977,7 @@
      <string name="phone_entered_ecm_text">Телефон переведен в режим экстренных обратных вызовов</string>
      <string name="phone_in_ecm_call_notification_text">Передача данных отключена</string>
      <string name="phone_in_ecm_notification_title">Режим экстренных обратных вызовов</string>
+     <string name="phone_info_divider">" ｜ "</string>
      <string name="phone_numbers">Введите телефонные номера</string>
      <string name="pick_outgoing_call_phone_type">Исходящий вызов</string>
      <string name="pick_outgoing_sip_phone">Аккаунт для интернет-вызовов:</string>
@@ -965,6 +1008,7 @@
      <string name="pin_progress_unlock_icc_miui">Разблокирование SIM-карты…</string>
      <string name="place_a_call1">Подписка 1</string>
      <string name="place_a_call2">Подписка 2</string>
+     <string name="place_a_call3">Subscription 3</string>
      <string name="plmn_list_setting_add_plmn">Новый PLMN</string>
      <string name="plmn_list_setting_title">Предпочтительные сети</string>
      <string name="port_title">Номер порта</string>
@@ -1006,6 +1050,16 @@
      <string name="preferred_network_mode_scdma_only_summary">Предпочтительная сеть: только TD-SCDMA</string>
      <string name="preferred_network_mode_scdma_perf_summary">Предпочтительная сеть: приоритет TD-SCDMA</string>
      <string name="preferred_network_mode_summary">Изменить режим работы сети</string>
+     <string name="preferred_network_mode_td_scdma_cdma_evdo_gsm_wcdma_summary">Preferred network mode: TD-SCDMA/CDMA/EvDo/GSM/WCDMA</string>
+     <string name="preferred_network_mode_td_scdma_gsm_lte_summary">Preferred network mode: TD-SCDMA/GSM/LTE</string>
+     <string name="preferred_network_mode_td_scdma_gsm_summary">Preferred network mode: TD-SCDMA / GSM</string>
+     <string name="preferred_network_mode_td_scdma_gsm_wcdma_lte_summary">Preferred network mode: TD-SCDMA/GSM/WCDMA/LTE</string>
+     <string name="preferred_network_mode_td_scdma_gsm_wcdma_summary">Preferred network mode: TD-SCDMA/GSM/WCDMA</string>
+     <string name="preferred_network_mode_td_scdma_lte_cdma_evdo_gsm_wcdma_summary">Preferred network mode: TD-SCDMA/LTE/CDMA/EvDo/GSM/WCDMA</string>
+     <string name="preferred_network_mode_td_scdma_lte_summary">Preferred network mode: TD-SCDMA / LTE</string>
+     <string name="preferred_network_mode_td_scdma_only_summary">Preferred network mode: TD-SCDMA only</string>
+     <string name="preferred_network_mode_td_scdma_wcdma_lte_summary">Preferred network mode: TD-SCDMA/WCDMA/LTE</string>
+     <string name="preferred_network_mode_td_scdma_wcdma_summary">Preferred network mode: TD-SCDMA / WCDMA</string>
      <string name="preferred_network_mode_title">Режим сети</string>
      <string name="preferred_network_mode_wcdma_only_summary">Предпочтительная сеть: только WCDMA</string>
      <string name="preferred_network_mode_wcdma_perf_summary">Предпочтительная сеть: WCDMA</string>
@@ -1063,6 +1117,7 @@
      <string name="reject_via_sms_title_miui">Настройки отклонения через SMS</string>
      <string name="remember_my_choice">Использовать для всех интернет-вызовов</string>
      <string name="reminder">Напоминание</string>
+     <string name="remove_ims_account">Remove account</string>
      <string name="remove_miui">Удалить</string>
      <string name="remove_sip_account">Удалить аккаунт</string>
      <string name="removing_account">Удаление аккаунта…</string>
@@ -1094,6 +1149,7 @@
      <string name="respond_via_sms_confirmation_format">Сообщение отправлено на номер %s.</string>
      <string name="respond_via_sms_custom_message">Собственное сообщение…</string>
      <string name="respond_via_sms_edittext_dialog_title">Быстрый ответ</string>
+     <string name="respond_via_sms_menu_reset_default_activity">Reset default app</string>
      <string name="respond_via_sms_setting_summary">""</string>
      <string name="respond_via_sms_setting_title">Быстрые ответы</string>
      <string name="respond_via_sms_setting_title_2">Изменить быстрые ответы</string>
@@ -1148,6 +1204,7 @@
      <string name="set_smsc_address_title_miui">Номер SMS-центра</string>
      <string name="set_sub_1">Подписка 1:</string>
      <string name="set_sub_2">Подписка 2:</string>
+     <string name="set_sub_3">Subscription 3:</string>
      <string name="set_sub_activate_failed">Активировать не удалось</string>
      <string name="set_sub_activate_not_supported">Активация не поддерживается</string>
      <string name="set_sub_activate_success">Успешная активация</string>
@@ -1155,7 +1212,10 @@
      <string name="set_sub_deactivate_not_supported">Деактивация не поддерживается</string>
      <string name="set_sub_deactivate_success">Успешная деактивация</string>
      <string name="set_sub_failed">Подписка не установлена</string>
+     <string name="set_sub_global_activate_failed">Activate global failed</string>
+     <string name="set_sub_global_deactivate_failed">Deactivate global failed</string>
      <string name="set_sub_no_change">Никаких изменений в подписке</string>
+     <string name="set_sub_not_supported_phone_in_call">Activate or Deactivate subscription is not allowed while phone in call.</string>
      <string name="set_sub_success">Подписка установлена</string>
      <string name="set_subscription">Выберите подписки</string>
      <string name="set_subscription_error_atleast_one">Выберите по крайней мере одну подписку</string>
@@ -1256,6 +1316,13 @@
      <string name="stop_record">Закончить запись</string>
      <string name="stop_record_vt">Закончить запись</string>
      <string name="str_db_playlist_name">Мои записи</string>
+     <string name="sub1">Subscription 1</string>
+     <string name="sub1_summary">Manage Subscription 1</string>
+     <string name="sub2">Subscription 2</string>
+     <string name="sub2_summary">Manage Subscription 2</string>
+     <string name="sub3">Subscription 3</string>
+     <string name="sub3_summary">Manage Subscription 3</string>
+     <string name="sub_3">SUB 3</string>
      <string name="sub_one">Управление подпиской 1</string>
      <string name="sub_two">Управление подпиской 2</string>
      <string name="subone">Подписка 1</string>
@@ -1347,6 +1414,12 @@
      <string name="updating_fdn_contact">Выполняется обновление номера ограниченного набора...</string>
      <string name="updating_settings">Обновление настроек…</string>
      <string name="updating_title">Настройки вызовов</string>
+     <string name="upgrade_vt_prompt">Would you like to upgrade the call to video call?</string>
+     <string name="upgrade_vt_rx_prompt">Would you like to upgrade the call to video receive only call?</string>
+     <string name="upgrade_vt_tx_prompt">Would you like to upgrade the call to video transmit only call?</string>
+     <string name="use_ims_default">UseImsDefault</string>
+     <string name="use_ims_default_summary">Use IMS for all voice calls</string>
+     <string name="use_ims_default_title">Use IMS Always</string>
      <string name="username_title">Имя пользователя</string>
      <string name="ussdRunning">Выполняется USSD запрос…</string>
      <string name="verifyFailed">Введенный PIN-код неверный. Попробуйте еще раз.</string>
@@ -1421,6 +1494,8 @@
      <string name="vt_incoming_showme_always">Всегда</string>
      <string name="vt_incoming_showme_ask">Спрашивать</string>
      <string name="vt_incoming_showme_disable">Отключено</string>
+     <string name="vt_init_fail_str">"VT initialization failed. Downgrading call to VoLTE
+"</string>
      <string name="vt_iot_error_01">Видеовызов не может быть совершен</string>
      <string name="vt_iot_error_02">Телефон занят</string>
      <string name="vt_iot_error_03">Нет ответа</string>

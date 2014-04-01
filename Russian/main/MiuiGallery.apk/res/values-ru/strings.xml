@@ -52,6 +52,9 @@
      <string name="auto_create_recent_album_confirm">После отключения этой функции, галерея очистит созданные данные последних альбомов. Последние альбомы, установленные пользователем, не будут затронуты. Кроме того, можно установить это вручную, долгим нажатием на альбом.</string>
      <string name="auto_create_recent_album_over_ten_times">Создает избранный альбом после захода в него более 10 раз</string>
      <string name="autofix">Авто</string>
+     <string name="baidu_bdmobile_downloads">Baidu Mobile</string>
+     <string name="baidu_flyflow_downloads">Baidu Browser</string>
+     <string name="beautyphone">Beauty phone</string>
      <string name="big_screen_alertdialog_title">Проектор</string>
      <string name="bigscreen_slide_exit">Выход из слайдшоу</string>
      <string name="bigscreen_slide_fail_cause_loading">Повторите попытку, чтобы начать слайд-шоу после загрузки изображения.</string>
@@ -138,6 +141,9 @@
      <string name="crossprocess">Кросс-обработка</string>
      <string name="cut">Обрезать</string>
      <string name="damaged_file">Файл поврежден</string>
+     <string name="dcim_100media">Taobao TMall</string>
+     <string name="dcim_opaipic">Opaipic</string>
+     <string name="dcim_viva_pics">VIVA</string>
      <string name="defalt_local_mobile">Мобильный</string>
      <string name="delete">Удалить</string>
      <string name="delete_fail_too_many_items">Ошибка удаления. Выбрано слишком много изображений.</string>
@@ -230,6 +236,7 @@
      <string name="how_many_videos">Видео: %d</string>
      <string name="image_download_item_title">Загрузка изображения (%s)</string>
      <string name="image_quota_fulfiled">Не удается создать изображение, т.к. количество изображений в альбоме достигло предела</string>
+     <string name="immomo_camera">Immomo</string>
      <string name="import_complete">Импорт завершен</string>
      <string name="import_fail">Сбой импорта</string>
      <string name="initial_cloud_button_text">Начать использование</string>
@@ -277,6 +284,7 @@
      <string name="message_no_delete_access_with_count">Невозможно удалить файл(ы) или папку(и) (%d). Возможно они не существуют или доступ к ним запрещен.</string>
      <string name="messagelist_sender_self">Я</string>
      <string name="miliao_painting_folder_display_name">Рисунок MiTalk</string>
+     <string name="miliao_saved">MiTalk</string>
      <string name="miliao_saved_folder_display_name">Сохраненные MiTalk</string>
      <string name="mimetype">Тип MIME</string>
      <string name="mishop_saved_folder_display_name">MiShop</string>
@@ -290,6 +298,7 @@
      <string name="multiface_crop_help">Нажмите на лицо, чтобы начать</string>
      <string name="must_pick_file">Выберите изображение</string>
      <string name="negative">Негатив</string>
+     <string name="netease_newsreader_netease_down_pic">Netease Newsreader</string>
      <string name="new_device_tips">Найдено новое устройство. Нажмите, чтобы посмотреть.</string>
      <string name="no">Нет</string>
      <string name="no_albums_alert">Нет доступных альбомов</string>
@@ -430,6 +439,7 @@
      <string name="show_images_only">Только изображения</string>
      <string name="show_on_map">Показать на карте</string>
      <string name="show_videos_only">Только видео</string>
+     <string name="sina_weibo_save">Weibo</string>
      <string name="size_above">%1$s или более</string>
      <string name="size_below">%1$s или менее</string>
      <string name="size_between">между %1$s и %2$s</string>
@@ -485,6 +495,7 @@
      <string name="vignette">Виньетка</string>
      <string name="wallpaper">Рабочий стол</string>
      <string name="warn">Внимание</string>
+     <string name="weikan_weikan">Weikan TV</string>
      <string name="where_is_barcode">Где QR код?</string>
      <string name="white_balance">Баланс белого</string>
      <string name="widget_type">Выбор изображений</string>

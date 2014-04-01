@@ -3,6 +3,7 @@
 <resources>
      <string name="account_not_activated">Аккаунт не активирован. Активируйте и повторите еще раз.</string>
      <string name="activate_now">Активировать</string>
+     <string name="ad_indicator">AD</string>
      <string name="all_comments">Все</string>
      <string name="already_bottom">Конец страницы</string>
      <string name="app_comments">Комментарии</string>

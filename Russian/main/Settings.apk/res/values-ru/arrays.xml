@@ -238,6 +238,11 @@
         <item>\#FF5500FF</item>
         <item>\#FFAA00AA</item>
      </string-array>
+     <string-array name="miracast_policies">
+        <item>Shorter delay</item>
+        <item>Standard</item>
+        <item>Better quality</item>
+     </string-array>
      <string-array name="msd_pc_system">
         <item>Windows XP или старее</item>
         <item>Windows Vista или новее</item>

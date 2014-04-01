@@ -99,6 +99,10 @@
         <item>聊天</item>
         <item>翻译</item>
      </string-array>
+     <string-array name="password_guard">
+        <item>com.android.settings</item>
+        <item>com.android.settings.MiuiPasswordGuardActivity</item>
+     </string-array>
      <string-array name="report_method_entries">
         <item>При подключении наушников</item>
         <item>Всегда</item>
@@ -117,9 +121,23 @@
         <item>Ну, что? Я не понял.</item>
         <item>Снова не понял</item>
      </string-array>
+     <string-array name="security_center">
+        <item>com.android.settings</item>
+        <item>com.miui.securitycenter.Main</item>
+     </string-array>
      <string-array name="send_item">
         <item>Сообщение</item>
         <item>Емэйл</item>
+     </string-array>
+     <string-array name="source_app_name">
+        <item>手机QQ</item>
+        <item>手机qq</item>
+        <item>新浪微博</item>
+     </string-array>
+     <string-array name="target_app_name">
+        <item>QQ</item>
+        <item>QQ</item>
+        <item>微博</item>
      </string-array>
      <string-array name="voice_effect_descs">
         <item>Китайско-английский женский голос</item>
@@ -145,11 +163,16 @@
         <item>DaLong</item>
         <item>Дональд Дак</item>
      </string-array>
-	 <string-array name="voice_wakeup_entries">
+     <string-array name="voice_wakeup_entries">
         <item>\"Xiaomi xiaomi kai ji\"</item>
         <item>\"Xiaomi xiaomi kuai le\"</item>
         <item>\"Xiaomi xiaomi qi chuang\"</item>
-    </string-array>
+     </string-array>
+     <string-array name="voice_wakeup_values">
+        <item>Xiaomixiaomikaiji</item>
+        <item>Xiaomixiaomikuailai</item>
+        <item>Xiaomixiaomiqichuang</item>
+     </string-array>
      <string-array name="weather_image">
         <item>晴</item>
         <item>多云</item>
@@ -459,5 +482,25 @@
         <item>Четверг</item>
         <item>Пятница</item>
         <item>Суббота</item>
+     </string-array>
+     <string-array name="whitelist_actions">
+        <item>miui.intent.action.GARBAGE_CLEANUP</item>
+        <item>com.miui.powercenter.PowerCenter</item>
+        <item>miui.intent.action.VIRUS_SCAN</item>
+        <item>android.intent.action.VIEW_DATA_USAGE_SUMMARY</item>
+        <item>android.intent.action.SET_FIREWALL</item>
+        <item>miui.intent.action.PERM_CENTER</item>
+     </string-array>
+     <string-array name="whitelist_names">
+        <item>垃圾清理</item>
+        <item>省电优化</item>
+        <item>病毒扫描</item>
+        <item>网络助手</item>
+        <item>骚扰拦截</item>
+        <item>授权管理</item>
+     </string-array>
+     <string-array name="yellow_page">
+        <item>com.android.contacts</item>
+        <item>com.android.contacts.activities.YellowPageNavigation</item>
      </string-array>
 </resources>

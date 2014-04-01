@@ -51,8 +51,12 @@
      <string name="account_settings_sync_email_enable">Синхронизировать почту</string>
      <string name="account_settings_sync_email_summary">Синхронизировать почту этого аккаунта</string>
      <string name="account_settings_vibrate_when_label">Вибрация</string>
+     <string name="account_setup_account_type_exchange_action">Exchange</string>
+     <string name="account_setup_account_type_exchange_action_alternate">Microsoft Exchange ActiveSync</string>
      <string name="account_setup_account_type_headline">Тип аккаунта</string>
+     <string name="account_setup_account_type_imap_action">IMAP</string>
      <string name="account_setup_account_type_instructions">Выберите тип аккаунта</string>
+     <string name="account_setup_account_type_pop_action">POP3</string>
      <string name="account_setup_account_type_title">Тип аккаунта</string>
      <string name="account_setup_basic_description_label">Имя акаунта (опционально)</string>
      <string name="account_setup_basic_label">Пожалуйста, заполните информацию для %s почтового ящика :</string>

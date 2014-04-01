@@ -68,7 +68,9 @@
      <string name="app_weather_friend_title_2">将今日天气通过短信或电话转给联系人</string>
      <string name="arrow">></string>
      <string name="arrow_down">v</string>
+     <string name="average">人均 :</string>
      <string name="avg_price">Цена： %1$s юань</string>
+     <string name="avg_price_default">--</string>
      <string name="begin_talk">Поиск</string>
      <string name="begin_talk_web">Поиск в интернете</string>
      <string name="buffering">Буферизация..</string>
@@ -97,6 +99,7 @@
      <string name="content">Содержание</string>
      <string name="day">日</string>
      <string name="deleting">Удаление…</string>
+     <string name="descript_format" formatted="false">%s - %s</string>
      <string name="description_author">Author</string>
      <string name="description_designer">Designer</string>
      <string name="description_download">Downloaded</string>
@@ -405,7 +408,8 @@ the content you're looking for is not currently available in your region."</stri
      <string name="voice_engine">Голосовой движок</string>
      <string name="voice_report">Голосовой отчет</string>
      <string name="voice_support">При поддержке iflytek</string>
-	 <string name="voice_wakeup_keyword_title">Слово</string>
+     <string name="voice_wakeup">Voice unlock</string>
+     <string name="voice_wakeup_keyword_title">Слово</string>
      <string name="voice_wakeup_turn_off">Выкл</string>
      <string name="voice_wakeup_turn_on">Вкл (недоступно при проигрывании музыки)</string>
      <string name="voice_wakeup_turn_on_confirm">OK</string>

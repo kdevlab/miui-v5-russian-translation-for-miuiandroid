@@ -446,4 +446,5 @@
      <string name="wipe_data_dialog_title">Некоторые элементы не синхронизированы</string>
      <string name="wrong_captcha">Неверный код с картинки</string>
      <string name="wrong_vcode">Неверный код проверки</string>
+     <string name="xiaomi_cloud_service">MiCloud</string>
 </resources>

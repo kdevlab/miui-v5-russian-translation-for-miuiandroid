@@ -81,6 +81,7 @@
      <string name="search_setting_description">Текст в заметках</string>
      <string name="select_account_prompt">Синхронизация заметок</string>
      <string name="snippet_image_stub">[Картинка]</string>
+     <string name="snippet_image_template">[Image %1$s]</string>
      <string name="toast_folder_privacy_mode">Нельзя изменить папку в гостевом режиме</string>
      <string name="toast_message_add_image_fail">Не удалось вставить изображение!</string>
      <string name="toast_note_privacy_mode">Нельзя изменить заметку в гостевом режиме</string>

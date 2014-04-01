@@ -58,7 +58,6 @@
      <string name="enable_notification_city">Уведомления о дожде, снеге, температуре при их критическом значении включено для %s</string>
      <string name="enable_notification_summary">Уведомлять меня при изменении погоды</string>
      <string name="first_start_network_toast_text">Доступ к сети для получения информации о погоде</string>
-     <string name="format_date_md">d/MMMM kk:mm</string>
      <string name="install_sina">Нажмите для установки Sina Weibo</string>
      <string name="install_tencent">Получить приложение Weibo</string>
      <string name="loading_weather">Загрузка погоды…</string>

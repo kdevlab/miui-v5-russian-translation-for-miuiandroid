@@ -31,6 +31,14 @@
         <item>BBC</item>
         <item>http://www.bbc.co.uk/</item>
      </string-array>
+     <string-array name="google">
+        <item>Google</item>
+        <item>google.com</item>
+        <item>http://www.google.com/favicon.ico</item>
+        <item>http://www.google.com/search?hl={language}&amp;ie={inputEncoding}&amp;source=android-browser&amp;q={searchTerms}</item>
+        <item>UTF-8</item>
+        <item>http://api.bing.com/osjson.aspx?query={searchTerms}&amp;language={language}</item>
+     </string-array>
      <string-array name="menu_theme_setting">
         <item>Белая</item>
         <item>Желтая</item>

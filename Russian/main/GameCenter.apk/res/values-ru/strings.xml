@@ -464,6 +464,8 @@
      <string name="share_subject">Отправить приложение： %1$s</string>
      <string name="share_text">Посмотри какая прикольная игра с XiaoMi Game Center: %1$s, что то потрясающие! Отправить в: %2$s</string>
      <string name="show_all_local_app">Просмотр всех приложений</string>
+     <string name="simple_date_format_MMdd">MM-dd</string>
+     <string name="simple_date_format_yyyyM">yyyy-MM</string>
      <string name="special_comm">VIP поддержка</string>
      <string name="start_game">Играть</string>
      <string name="status_downloading">Загрузка: %1$s%%</string>
@@ -526,6 +528,7 @@
      <string name="update_success">Обновление завершено!</string>
      <string name="updating_starts">Началось обновление Game Center</string>
      <string name="upgrade_game_head">Обновить все (%d)</string>
+     <string name="user_info_birthday_format">MM-dd</string>
      <string name="user_info_page_field_mask_birthday">День рождения: %s</string>
      <string name="user_info_page_field_mask_city">Город: %s</string>
      <string name="user_info_page_field_mask_noanything">Нажмите, чтобы изменить информацию о пользователе</string>
@@ -568,6 +571,8 @@
      <string name="vip_info_unknown">нет</string>
      <string name="vip_jifen_text">%d Пунктов</string>
      <string name="vip_level_expried_text">Истекает : в%s</string>
+     <string name="vip_personal_info_edit_tip1">Instructions:</string>
+     <string name="vip_personal_info_edit_tip2">Please complete personal information to help us provide better service.</string>
      <string name="vip_servicer">VIP-Ассистент</string>
      <string name="vip_title_gift">GamePacks</string>
      <string name="vip_valid_forever">Срок Действия Не Истек.</string>

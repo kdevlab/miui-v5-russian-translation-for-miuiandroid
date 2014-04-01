@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Builded with NXT -->
+<resources>
+     <plurals name="all_numbers_count">
+        <item quantity="one">1 entry</item>
+        <item quantity="other">%d entries</item>
+     </plurals>
+</resources>

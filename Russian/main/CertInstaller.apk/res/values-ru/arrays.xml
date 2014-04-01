@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Builded with NXT -->
+<resources>
+     <string-array name="credential_usage">
+        <item>VPN and apps</item>
+        <item>WLAN</item>
+     </string-array>
+</resources>

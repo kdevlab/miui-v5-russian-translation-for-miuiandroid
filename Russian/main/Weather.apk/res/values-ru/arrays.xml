@@ -1,20 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Builded with NXT -->
 <resources>
-     <array name="act_weather_main_listview_key">
-        <item>Скорость ветра:　　</item>
-        <item>UV индекс:　</item>
-        <item>Индекс одежды:</item>
-        <item>Индекс комфорта:</item>
-        <item>Индекс мойки машины:</item>
-        <item>Индекс влажности:</item>
-        <item>Индекс утренних упражнений:</item>
-        <item>Индекс досуга:</item>
-     </array>
-     <array name="send_item">
-        <item>SMS</item>
+     <string-array name="send_item">
+        <item>Сообщение</item>
         <item>E-mail</item>
-     </array>
+     </string-array>
      <string-array name="weather_details_key">
         <item>Недоступно</item>
         <item>Благоприятная</item>

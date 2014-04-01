@@ -2,7 +2,10 @@
 <!-- Builded with NXT -->
 <resources>
      <string name="about_app_name">Видеоплеер</string>
+     <string name="about_developer_label">开发</string>
+     <string name="about_developer_name">小米数码</string>
      <string name="about_title">О программе</string>
+     <string name="about_version_label">版本号</string>
      <string name="actors_colon">"В главных ролях: "</string>
      <string name="add_review">Добавить отзыв</string>
      <string name="adjust_position_next_media_notice">Далее</string>
@@ -57,6 +60,7 @@
      <string name="clear_playhistory">Очистить историю просмотра</string>
      <string name="clear_playhistory_tip">Вся история просмотра в плеере будет удалена. Продолжить?</string>
      <string name="clearplayhistory">Очистить историю</string>
+     <string name="cnlive">cnlive</string>
      <string name="comment">Комментарии</string>
      <string name="comment_detailInfo">Отзыв</string>
      <string name="comment_hint">(до 300 символов)</string>
@@ -137,6 +141,7 @@
      <string name="jni_res_unkown_error">Неизвестная ошибка</string>
      <string name="key_back_down_toast">Нажмите еще раз, чтобы выйти</string>
      <string name="lekan">Lekan</string>
+     <string name="letv">Letv</string>
      <string name="live_loading_symbol"><CDATA>Загрузка </CDATA></string>
      <string name="live_loading_to_be_play">Загрузка…</string>
      <string name="live_pending_symbol"><CDATA>Буферизация </CDATA></string>
@@ -190,6 +195,7 @@
      <string name="mydlna">Мое DLNA</string>
      <string name="myfavorite">Избранное</string>
      <string name="myfavorite_onlylocal">" избранное"</string>
+     <string name="netease">NetEase</string>
      <string name="network_setting">Сеть</string>
      <string name="no_comment_tip">Нельзя отправить пустой комм</string>
      <string name="no_favorite">Пусто</string>
@@ -239,6 +245,8 @@
      <string name="play_length_colon">"Время: "</string>
      <string name="play_setting">Воспроизведение</string>
      <string name="playvideo">Воспроизвести</string>
+     <string name="pps">PPS</string>
+     <string name="pptv">PPTV</string>
      <string name="publish">Отправить</string>
      <string name="qiyi">iQiyi</string>
      <string name="quarter_bell_alert_button_cancel">Отмена</string>
@@ -267,6 +275,7 @@
      <string name="series_colon">"Эпизодов: "</string>
      <string name="setting">Настройки</string>
      <string name="show_hidemedia">Показывать скрытые файлы</string>
+     <string name="sina">Sina</string>
      <string name="souhu">Souhu</string>
      <string name="special_subject">Специальные</string>
      <string name="start_download">Скачать</string>
@@ -327,11 +336,13 @@
      <string name="vp_super_definition">UHD</string>
      <string name="waitfornewset">Следовать</string>
      <string name="waitfornewset_tip_content">Вы будете уведомлены, когда новый эпизод или дополнительный контент будет доступен</string>
+     <string name="wasu">Wasu</string>
      <string name="will_live_status">Live</string>
      <string name="write_comment">Добавить</string>
      <string name="xiaomi_account_type_unsupported">Ваша система не поддерживает аккаунт Xiaomi</string>
      <string name="xiaomi_user">Аккаунт Xiaomi</string>
      <string name="year">.</string>
      <string name="yestorday">"Вчера "</string>
+     <string name="yinyuetai">YinYueTai</string>
      <string name="youku">Youku</string>
 </resources>

@@ -10,7 +10,7 @@
      <string name="account_default">Телефон</string>
      <string name="account_phone">Только телефон, без синхронизации</string>
      <string name="account_sim">SIM-карта</string>
-	 <string name="account_sim2">SIM-карта %d</string>
+     <string name="account_sim2">SIM-карта %d</string>
      <string name="account_type_format">Контакт %1$s</string>
      <string name="account_unactivated">Аккаунт не активирован</string>
      <string name="actionIncomingCall">Входящие вызовы</string>
@@ -351,7 +351,7 @@
      <string name="enter_contact_name">Имя контакта</string>
      <string name="error_save_usim_contact_email_lost">Невозможно сохранить адрес электронной почты. Память USIM заполнена.</string>
      <string name="eventLabelsGroup">День рождения</string>
-	 <string name="eventTypeCustom">Пользовательское</string>
+     <string name="eventTypeCustom">Пользовательское</string>
      <string name="event_edit_field_hint_text">Дата</string>
      <string name="export_sim_contact_finish">Экспорт завершен</string>
      <string name="export_sim_contact_finish_failure">"Недостаточно места
@@ -508,7 +508,7 @@
      <string name="map_home">Просмотреть домашний адрес</string>
      <string name="map_other">Просмотр адреса</string>
      <string name="map_work">Просмотреть рабочий адрес</string>
-	 <string name="meid_invalid">Неверный MEID</string>
+     <string name="meid_invalid">Неверный MEID</string>
      <string name="menu_accounts">Аккаунты</string>
      <string name="menu_addStar">В избранные</string>
      <string name="menu_bar_group_add">Добавить</string>
@@ -729,7 +729,7 @@
      <string name="pref_key_rebuild_t9_index_message">Обновить индекс контактов для поиска с помощью T9</string>
      <string name="pref_key_rebuild_t9_index_title">Обновление индекса</string>
      <string name="pref_key_sim_manage">Контакты SIM-карты</string>
-	 <string name="pref_key_sim_manage2">Контакты SIM-карты 2</string>
+     <string name="pref_key_sim_manage2">Контакты SIM-карты 2</string>
      <string name="pref_summary_import_from_account">Импорт контактов из аккаунта Google в аккаунт Xiaomi</string>
      <string name="pref_title_account_import">Импорт из аккаунта</string>
      <string name="pref_title_import_from_account">В аккаунт Xiaomi</string>
