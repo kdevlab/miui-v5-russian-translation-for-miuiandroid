@@ -6,10 +6,13 @@
      <string name="activating">Активация…</string>
      <string name="alwaysUsePrompt">Исполь. по умолчанию</string>
      <string name="android_lockscreen_glogin_instructions">Чтобы разблокировать, войдите в свой аккаунт</string>
+     <string name="anniversary_of_lifting_martial_law" />
+     <string name="anti_aggression_day" />
      <string name="app_no_notification">ничего</string>
      <string name="app_notificaiton_on_notificationBar">Панель уведомлений</string>
      <string name="app_notificaiton_on_statusBar_and_notificationBar">Строка состояния, панель уведомлений</string>
      <string name="arbor_day" />
+     <string name="armed_forces_day" />
      <string name="autumn_begins" />
      <string name="autumn_equinox" />
      <string name="callNoAnswerTimeFormat">Гудков: %s</string>
@@ -254,13 +257,14 @@
      <string name="country_name_za">ЮАР</string>
      <string name="country_name_zm">Замбия</string>
      <string name="country_name_zw">Зимбабве</string>
+     <string name="day_following_good_friday" />
      <string name="day_of_month">" %d"</string>
      <string name="days">%d дн.</string>
      <string name="delete">Удалить</string>
-     <string name="deprecated_alarm_message_12_hour_formate" />
      <string name="device_hongmi">Телефон Hongmi</string>
      <string name="device_xiaomi">Телефон Xiaomi</string>
      <string name="double_seventh_day" />
+     <string name="easter" />
      <string name="emergency_call_string">Экстренные</string>
      <string name="err_resource_leak">К сожалению, \"%1$s\" остановлен для избежания утечки ресурсов</string>
      <string name="error_forbidden">Ошибки в аккаунте. Синхронизация отключена.</string>
@@ -293,6 +297,7 @@
      <string name="format_time_in_12_hours">hh:mma</string>
      <string name="global_action_privacy_mode_dialog_message">В режиме гостя сообщения, журналы вызовов и заметки будут скрыты, а также Вы не сможете редактировать рабочий стол</string>
      <string name="global_action_toggle_privacy_mode">Гость</string>
+     <string name="good_friday" />
      <string name="grain_buds" />
      <string name="grain_in_ear" />
      <string name="grain_rain" />
@@ -305,6 +310,7 @@
      <string name="group_name_family">Семья</string>
      <string name="group_name_friends">Друзья</string>
      <string name="heavy_snow" />
+     <string name="hksar_establishment_day" />
      <string name="hoar_frost_falls" />
      <string name="hours">%d ч.</string>
      <string name="incorrect_pincode">Неверный PIN-код</string>
@@ -410,12 +416,11 @@ EEEE"</string>
      <string name="pin_operation_failed">PIN - операция не удалась</string>
      <string name="pincode_set_to_default_msg">PIN-код установлен в 1234. Пожалуйста, сбросьте PIN-код здесь.</string>
      <string name="private_num">Приватный номер</string>
-     <string name="provider_114">号码信息由114号码百事通提供</string>
-     <string name="provider_sougou">由搜狗号码通用户标注</string>
      <string name="puk_operation_failed">PUK - операция не удалась</string>
      <string name="reboot_confirm">Телефон будет перезагружен</string>
      <string name="reboot_confirm_title">Вы уверены, что хотите перезагрузить телефон?</string>
      <string name="reboot_progress">Перезагрузка…</string>
+     <string name="retrocession_day" />
      <string name="return_to_me_message">Пожалуйста, верните, если я потерял</string>
      <string name="reverse_all">Очистить выделение</string>
      <string name="safetylegal_activity_unreachable">Ваш телефон не подключен к сети. Для просмотра этой информации в настоящее время, перейдите к %s с любого компьютера.</string>
@@ -460,6 +465,7 @@ EEEE"</string>
      <string name="the_armys_day" />
      <string name="the_double_ninth_festival" />
      <string name="the_dragon_boat_festival" />
+     <string name="the_first_weekday_after_christmas" />
      <string name="the_laba_rice_porridge_festival" />
      <string name="the_mid_autumn_festival" />
      <string name="the_rains" />
@@ -467,6 +473,9 @@ EEEE"</string>
      <string name="toast_lockscreen_glogin_empty_password">Введите пароль</string>
      <string name="today">"Сегодня "</string>
      <string name="tomorrow">"Завтра "</string>
+     <string name="tw_childrens_day" />
+     <string name="tw_youth_day" />
+     <string name="united_nations_day" />
      <string name="unknown">Неизвестный номер</string>
      <string name="unknown_caller">Неизвестный абонент</string>
      <string name="unlock_string">OK</string>

@@ -96,6 +96,7 @@
      <string name="local_app">Приложения</string>
      <string name="media_value">Медиа %s%%</string>
      <string name="meeting_mode">Режим совещания</string>
+     <string name="miui_ringer_mode">Режим звонка</string>
      <string name="mode">режим</string>
      <string name="music">Музыка</string>
      <string name="my_tags">Мои теги</string>
@@ -112,7 +113,6 @@
      <string name="open_web">Открыть ссылку</string>
      <string name="open_xiaomi_web">Порейти на Xiaomi.com</string>
      <string name="password_preference">Пароль</string>
-     <string name="percent">%s%%</string>
      <string name="phone">Телефон</string>
      <string name="phone_call">Позвонить</string>
      <string name="phone_to_tag">Чтобы изменить тег,</string>
@@ -128,6 +128,8 @@
      <string name="remote_app">Ожидание загрузки…</string>
      <string name="remove_alert">Удалить выбранные задачи?</string>
      <string name="ringer_mode">Режим звонка</string>
+     <string name="ringer_normal">Звонок</string>
+     <string name="ringer_silent">Без звука</string>
      <string name="ringer_value">Мелодия %s%%</string>
      <string name="running">работает</string>
      <string name="save_alert">Сохранить задачу?</string>
@@ -144,6 +146,9 @@
      <string name="set_alarm">Установите будильник</string>
      <string name="set_now">Настройки</string>
      <string name="settings">Настройки</string>
+     <string name="share">Share</string>
+     <string name="share_content">"I've *%1$s* written to a Mi NFC tag. To read it, just touch it with the back of your device. Get the app here: http://app.xiaomi.com/detail/56946"</string>
+     <string name="share_subject">Share one app: %1$s</string>
      <string name="share_wifi">Поделиться Wi-Fi</string>
      <string name="shortcut">Ярлыки</string>
      <string name="sleep_mode">Не беспокоить</string>
@@ -173,6 +178,9 @@ touch the back of your phone to another tag."</string>
      <string name="unrecognized_tag">Unrecognized tag content</string>
      <string name="update_config">Изменить задачи</string>
      <string name="user_configs">Мои задачи</string>
+     <string name="vibrate_mode">Vibrate</string>
+     <string name="vibrate_off">Vibrate off</string>
+     <string name="vibrate_on">Vibrate on</string>
      <string name="voice_call_value">Громкость разговора %s%%</string>
      <string name="volume">Звук</string>
      <string name="web_label">Название (не обязательно)</string>

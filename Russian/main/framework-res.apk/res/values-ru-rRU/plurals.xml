@@ -33,6 +33,18 @@
         <item quantity="one">1 сек. назад</item>
         <item quantity="other">%d сек. назад</item>
      </plurals>
+     <plurals name="duration_hours">
+        <item quantity="one">1 час</item>
+        <item quantity="other">%d часов</item>
+     </plurals>
+     <plurals name="duration_minutes">
+        <item quantity="one">1 минута</item>
+        <item quantity="other">%d минут</item>
+     </plurals>
+     <plurals name="duration_seconds">
+        <item quantity="one">1 секунда</item>
+        <item quantity="other">%d секунд</item>
+     </plurals>
      <plurals name="in_num_days">
         <item quantity="one">завтра</item>
         <item quantity="other">через %d дн.</item>
