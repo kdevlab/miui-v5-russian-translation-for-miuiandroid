@@ -162,7 +162,7 @@
      <string name="traffic_protection_label">Предупреждение о превышении</string>
      <string name="traffic_protection_next">Далее</string>
      <string name="traffic_protection_summary">Настройка оповещений при превышении лимита</string>
-     <string name="traffic_protection_text_hint">Лимит использования данных</string>
+     <string name="traffic_protection_text_hint">Лимит использования данных для %s</string>
      <string name="traffic_protection_unknown"><u>Настроить позже</u></string>
      <string name="traffic_protection_use_data">Данные включены</string>
      <string name="traffic_setting_fragment_area">Местоположение</string>

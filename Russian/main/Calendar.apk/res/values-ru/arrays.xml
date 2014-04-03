@@ -40,20 +40,13 @@
      <string-array name="preferences_default_reminder_labels">
         <item>Не напоминать</item>
         <item>По факту</item>
-        <item>За 1 минуту</item>
         <item>За 5 минут</item>
         <item>За 10 минут</item>
         <item>За 15 минут</item>
-        <item>За 20 минут</item>
-        <item>За 25 минут</item>
         <item>За 30 минут</item>
-        <item>За 45 минут</item>
         <item>За 1 час</item>
-        <item>За 2 час</item>
-        <item>За 3 час</item>
-        <item>За 12 час</item>
-        <item>За 24 час</item>
-        <item>За 2 дня</item>
+        <item>За 1 день</item>
+		<item>За 2 дня</item>
         <item>За 1 неделю</item>
      </string-array>
      <string-array name="preferences_week_start_day_labels">
@@ -75,22 +68,15 @@
         <item>Будильник</item>
      </string-array>
      <string-array name="reminder_minutes_labels">
+        <item>Не напоминать</item>
         <item>По факту</item>
-        <item>За 0 минут</item>
-        <item>За 1 минуту</item>
         <item>За 5 минут</item>
         <item>За 10 минут</item>
         <item>За 15 минут</item>
-        <item>За 20 минут</item>
-        <item>За 25 минут</item>
         <item>За 30 минут</item>
-        <item>За 45 минут</item>
         <item>За 1 час</item>
-        <item>За 2 часа</item>
-        <item>За 3 часа</item>
-        <item>За 12 часов</item>
-        <item>За 24 часа</item>
-        <item>За 2 дня</item>
+        <item>За 1 день</item>
+		<item>За 2 дня</item>
         <item>За 1 неделю</item>
      </string-array>
      <string-array name="response_labels1">

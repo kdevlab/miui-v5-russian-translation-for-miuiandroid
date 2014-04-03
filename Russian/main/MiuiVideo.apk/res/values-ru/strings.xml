@@ -92,6 +92,7 @@
      <string name="download">Кэш</string>
      <string name="download_add_file_fail">Ошибка создания файла. Достаточно ли у вас свободного места?</string>
      <string name="download_add_success">Загрузка добавлена</string>
+	 <string name="download_delete">Удалить задачу</string>
      <string name="download_fail">Ошибка загрузки</string>
      <string name="download_file_fail">Нет даступа к файлу. Возможно нехватает места на SD-карте.</string>
      <string name="download_finish">Загрузка завершена</string>
