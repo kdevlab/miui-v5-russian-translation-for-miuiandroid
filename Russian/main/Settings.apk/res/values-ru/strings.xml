@@ -1632,7 +1632,7 @@
      <string name="large_font">Большой</string>
      <string name="last_check_canceled">Предыдущая проверка отменена</string>
      <string name="last_check_date_today">"Последняя проверка: сегодня в "</string>
-     <string name="last_check_date_yesterday">"Последняя проверка: вчера в "</string>
+     <string name="last_check_date_yesterday">"Последняя проверка: вчера"</string>
      <string name="last_check_never_checked">Рекомендуется проверить</string>
      <string name="last_checked_date">Проверки не было больше 30 дней</string>
      <string name="last_checked_date2">Последняя проверка: %d дн. назад</string>
