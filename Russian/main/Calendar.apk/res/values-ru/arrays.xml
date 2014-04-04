@@ -46,7 +46,7 @@
         <item>За 30 минут</item>
         <item>За 1 час</item>
         <item>За 1 день</item>
-		<item>За 2 дня</item>
+        <item>За 2 дня</item>
         <item>За 1 неделю</item>
      </string-array>
      <string-array name="preferences_week_start_day_labels">
@@ -76,7 +76,7 @@
         <item>За 30 минут</item>
         <item>За 1 час</item>
         <item>За 1 день</item>
-		<item>За 2 дня</item>
+        <item>За 2 дня</item>
         <item>За 1 неделю</item>
      </string-array>
      <string-array name="response_labels1">

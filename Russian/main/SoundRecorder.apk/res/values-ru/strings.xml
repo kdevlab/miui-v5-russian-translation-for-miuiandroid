@@ -110,7 +110,7 @@
      <string name="sync_only_in_wifi_alert">Выключение этой опции может увеличить использование вашего мобильного трафика (это может стоить вам денег).</string>
      <string name="sync_only_in_wifi_summary">Диктофон будет использовать подключение к мобильной сети для загрузки и выгрузки записей, когда эта опция выключена</string>
      <string name="sync_records">Синхронизация записей</string>
-	 <string name="toast_file_is_downloading">Загрузка файла…</string>
+     <string name="toast_file_is_downloading">Загрузка файла…</string>
      <string name="toast_max_record_time">Приложение: %1$s максимально поддерживает %2$s записей вложения</string>
      <string name="toast_uninstall_fileexplorer">Приложение файлы не установлено</string>
      <string name="unknown_caller">Неизвестный вызов</string>
