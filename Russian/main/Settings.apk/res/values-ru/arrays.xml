@@ -239,9 +239,9 @@
         <item>\#FFAA00AA</item>
      </string-array>
      <string-array name="miracast_policies">
-        <item>Маленькая</item>
-        <item>Обычная</item>
-        <item>Большая</item>
+        <item>Производительность</item>
+        <item>Баланс</item>
+        <item>Качество</item>
      </string-array>
      <string-array name="msd_pc_system">
         <item>Windows XP или старее</item>

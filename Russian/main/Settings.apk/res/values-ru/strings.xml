@@ -1256,7 +1256,7 @@
      <string name="fcc_equipment_id">ID оборудования</string>
      <string name="filter">Фильтр</string>
      <string name="filter_apps_all">Все</string>
-     <string name="filter_apps_cached">Кэшерованные</string>
+     <string name="filter_apps_cached">Кэшированные</string>
      <string name="filter_apps_disabled">Отключенные</string>
      <string name="filter_apps_onsdcard">SD-карта</string>
      <string name="filter_apps_running">Работающие</string>
@@ -1767,8 +1767,8 @@
      <string name="man_add_application">Добавить</string>
      <string name="manage_device_admin">Администраторы устройства</string>
      <string name="manage_device_admin_summary">Просмотрите или отключите администраторов устройств</string>
-     <string name="manage_mobile_plan_title">Управление мобильным планом</string>
-     <string name="manage_notification_access">Доступ к уведамлениям</string>
+     <string name="manage_mobile_plan_title">Управление тарифом</string>
+     <string name="manage_notification_access">Доступ к уведомлениям</string>
      <string name="manage_notification_access_summary_zero">Приложения не могут читать уведомления</string>
      <string name="manage_space_text">Управление местом</string>
      <string name="manageapplications_settings_summary">Управление установленными приложениями и их удаление</string>
@@ -1909,7 +1909,7 @@
      <string name="miui_screensaver_usage">Изображения из альбома заставки будут отображаться в режиме слайд-шоу через 5 секунд после отключения экрана</string>
      <string name="mms_log_tab_title">Сообщения</string>
      <string name="mms_vibrate_abbreviation">Сообщения</string>
-     <string name="mobile_connect_to_internet">Подключитесь к интернет</string>
+     <string name="mobile_connect_to_internet">Подключитесь к интернету</string>
      <string name="mobile_insert_sim_card">Вставьте SIM-карту и перезагрузитесь</string>
      <string name="mobile_no_provisioning_url">%1$s не имеет известных сайтов</string>
      <string name="mobile_unknown_sim_operator">Неизвестный оператор</string>
@@ -3770,12 +3770,12 @@
      <string name="wifi_scan_always_available_summary">Cлужбы местоположения Google и других приложений будут сканировать доступные сети, даже если Wi-Fi выключен</string>
      <string name="wifi_scan_always_confirm_allow">Да</string>
      <string name="wifi_scan_always_confirm_deny">Нет</string>
-     <string name="wifi_scan_always_turnon_message">"Для повышения определения местоположения и для других целей, %1$s хочет включить сканирование сети, даже когда Wi-Fi выключен.
+     <string name="wifi_scan_always_turnon_message">"Для улучшения определения местоположения и для других целей, %1$s хочет включить сканирование сети, даже когда Wi-Fi выключен.
 
 Разрешить это для всех приложений, которые требует сканирование?"</string>
      <string name="wifi_scan_notify_remember_choice">Больше не показывать</string>
      <string name="wifi_scan_notify_text_location_off">"Приложения могут сканировать соседние сети, даже если Wi-Fi выключен. Если вы не хотите, чтобы это происходило, перейдите в расширенные настройки> Сканирование всегда доступно"</string>
-     <string name="wifi_scan_notify_text_location_on">"Для повышения определения местоположения и для других целей, приложения Google и другие могут сканировать соседние сети, даже если Wi-Fi выключен. Если вы не хотите, чтобы это происходило, перейдите в расширенные настройки> Сканирование всегда доступно"</string>
+     <string name="wifi_scan_notify_text_location_on">"Для улучшения определения местоположения и для других целей, приложения Google и другие могут сканировать соседние сети, даже если Wi-Fi выключен. Если вы не хотите, чтобы это происходило, перейдите в расширенные настройки> Сканирование всегда доступно"</string>
      <string name="wifi_secured_first_item">Защита %1$s</string>
      <string name="wifi_secured_second_item">, защита %1$s</string>
      <string name="wifi_security">Безопасность</string>
