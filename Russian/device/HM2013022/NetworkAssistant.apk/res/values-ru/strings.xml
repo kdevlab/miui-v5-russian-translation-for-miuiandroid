@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Builded with CloudBuildr -->
+<!-- Builded with NXT -->
 <resources>
      <string name="about">О программе</string>
      <string name="adjust_no_network_update_data_fail">Ошибка обновления данных. Проверьте настройки подключения к сети.</string>
@@ -138,6 +138,10 @@
      <string name="sync_traffic_success">Информация о пакетах трафика получена, настройки обновлены</string>
      <string name="text_done">Готово</string>
      <string name="text_save">Сохранить</string>
+     <string name="this_month_mobile_format">%s Трафик за месяц</string>
+     <string name="this_month_total_traffic_format">%s Трафик за месяц</string>
+     <string name="today_mobile_format">%s Трафик сегодня</string>
+     <string name="today_total_traffic_format">%s Трафик сегодня</string>
      <string name="traffic_none">Н/д</string>
      <string name="traffic_remain">Осталось</string>
      <string name="traffic_settings_error">Ошибка в настройках ежемесячного разрешенного трафика. Согласно вашему оператору, размер вашего трафика: %1$s и осталось: %2$s.</string>
@@ -165,9 +169,5 @@
      <string name="wifi_traffic">Wi-Fi: %s</string>
      <string name="wifi_type">Wi-Fi</string>
      <string name="yesterday_mobile_format">%s Трафик вчера</string>
-     <string name="today_mobile_format">%s Трафик сегодня</string>
-     <string name="this_month_mobile_format">%s Трафик за месяц</string>
      <string name="yesterday_total_traffic_format">%s Трафик вчера</string>
-     <string name="today_total_traffic_format">%s Трафик сегодня</string>
-     <string name="this_month_total_traffic_format">%s Трафик за месяц</string>
 </resources>

@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!-- Builded with NXT -->
 <resources>
-    <string-array name="Input_mode">
+     <string-array name="Input_mode">
         <item>Пользовательский ввод</item>
         <item>Чтение SIM</item>
-    </string-array>
+     </string-array>
 </resources>

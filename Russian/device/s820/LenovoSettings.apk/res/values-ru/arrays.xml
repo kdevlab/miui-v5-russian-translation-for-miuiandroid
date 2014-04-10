@@ -1,24 +1,51 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!-- Builded with NXT -->
 <resources>
-    <string-array name="timezone_filters">
-        <item>Америка</item>
-        <item>Европа</item>
-        <item>Африка</item>
-        <item>Азия</item>
-        <item>Австралия</item>
-        <item>Тихий океан</item>
-        <item>Все</item>
-    </string-array>
-    <string-array name="screen_timeout_entries">
-        <item>15 секунд</item>
-        <item>30 секунд</item>
-        <item>1 минуту</item>
+     <string-array name="animator_duration_scale_entries">
+        <item>Анимация выкл.</item>
+        <item>Анимация (масштаб: 0,5x)</item>
+        <item>Анимация (масштаб: 1x)</item>
+        <item>Анимация (масштаб: 1,5x)</item>
+        <item>Анимация (масштаб: 2x)</item>
+        <item>Анимация (масштаб: 5x)</item>
+        <item>Анимация (масштаб: 10x)</item>
+     </string-array>
+     <string-array name="apn_auth_entries">
+        <item>Нет</item>
+        <item>PAP</item>
+        <item>CHAP</item>
+        <item>PAP или CHAP</item>
+     </string-array>
+     <string-array name="app_install_location_entries">
+        <item>Внутренняя память устройства</item>
+        <item>Съемная SD карта</item>
+        <item>На усмотрение системы</item>
+     </string-array>
+     <string-array name="app_process_limit_entries">
+        <item>Стандартное ограничение</item>
+        <item>Без фоновых процессов</item>
+        <item>Не более одного процесса</item>
+        <item>Не более 2 процессов</item>
+        <item>Не более 3 процессов</item>
+        <item>Не более 4 процессов</item>
+     </string-array>
+     <string-array name="auto_time_entries">
+        <item>Использовать время сети</item>
+        <item>Использовать GPS время</item>
+        <item>Выкл.</item>
+     </string-array>
+     <string-array name="bearer_entries">
+        <item>LTE</item>
+        <item>eHRPD</item>
+        <item>Не указано</item>
+     </string-array>
+     <string-array name="bluetooth_visibility_timeout_entries">
         <item>2 минуты</item>
         <item>5 минут</item>
-        <item>10 минут</item>
-        <item>30 минут</item>
-    </string-array>
-    <string-array name="dream_timeout_entries">
+        <item>1 час</item>
+        <item>Без тайм-аута</item>
+     </string-array>
+     <string-array name="dream_timeout_entries">
         <item>Никогда</item>
         <item>15 секунд</item>
         <item>30 секунд</item>
@@ -27,8 +54,81 @@
         <item>5 минут</item>
         <item>10 минут</item>
         <item>30 минут</item>
-    </string-array>
-    <string-array name="lock_after_timeout_entries">
+     </string-array>
+     <string-array name="emergency_tone_entries">
+        <item>Выкл</item>
+        <item>Оповещение</item>
+        <item>Виброзвонок</item>
+     </string-array>
+     <string-array name="enable_opengl_traces_entries">
+        <item>Нет</item>
+        <item>Logcat</item>
+        <item>Systrace (Graphics)</item>
+        <item>Call stack on glGetError</item>
+     </string-array>
+     <string-array name="entries_button_brightness">
+        <item>Открыто</item>
+        <item>На 3 секунды</item>
+        <item>Закрыто</item>
+     </string-array>
+     <string-array name="entries_font_size">
+        <item>Мелкий</item>
+        <item>Обычный</item>
+        <item>Крупный</item>
+        <item>Огромный</item>
+     </string-array>
+     <string-array name="entries_smart_rotation">
+        <item>Умный автоповорот (Поворот экрана по глазам)</item>
+        <item>Автоповорот</item>
+        <item>Нет</item>
+     </string-array>
+     <string-array name="entries_smart_rotation_nocamera">
+        <item>Жест вращения экрана</item>
+        <item>Автоповорот экрана</item>
+        <item>Нет</item>
+     </string-array>
+     <string-array name="gemini_sim_info_number_display_format_entries">
+        <item>Первые 4 цифры</item>
+        <item>Последние 4 цифры</item>
+        <item>Не отображать</item>
+     </string-array>
+     <string-array name="gemini_sim_roaming_reminder_entries">
+        <item>Однажды</item>
+        <item>Всегда</item>
+        <item>Никогда</item>
+     </string-array>
+     <string-array name="gsm_umts_network_preferences_choices">
+        <item>GSM/WCDMA (Авто режим)</item>
+        <item>Только WCDMA</item>
+        <item>Только GSM</item>
+     </string-array>
+     <string-array name="hdcp_checking_summaries">
+        <item>Не использовать проверку HDCP</item>
+        <item>Использовать проверку HDCP только для содержания DRM</item>
+        <item>Всегда использовать проверку HDCP</item>
+     </string-array>
+     <string-array name="hdcp_checking_titles">
+        <item>Никогда не проверять</item>
+        <item>Проверять только содержание DRM</item>
+        <item>Всегда проверять</item>
+     </string-array>
+     <string-array name="hdmi_deep_color_entries">
+        <item>8 бит</item>
+        <item>Авто</item>
+        <item>10 бит</item>
+        <item>12 бит</item>
+     </string-array>
+     <string-array name="hdmi_video_mode_entries">
+        <item>Полный экран</item>
+        <item>Идеально</item>
+        <item>Оригинальный размер</item>
+     </string-array>
+     <string-array name="hdmi_video_resolution_entries">
+        <item>Авто</item>
+        <item>720P</item>
+        <item>480P</item>
+     </string-array>
+     <string-array name="lock_after_timeout_entries">
         <item>Сразу</item>
         <item>5 секунд</item>
         <item>15 секунд</item>
@@ -38,28 +138,192 @@
         <item>5 минут.</item>
         <item>10 минут</item>
         <item>30 минут</item>
-    </string-array>
-    <string-array name="entries_font_size">
-        <item>Мелкий</item>
-        <item>Обычный</item>
-        <item>Крупный</item>
-        <item>Огромный</item>
-    </string-array>
-    <string-array name="tts_rate_entries">
-        <item>Очень медленная</item>
-        <item>Медленная</item>
-        <item>Обычная</item>
-        <item>Быстрая</item>
-        <item>Очень быстрая</item>
-    </string-array>
-    <string-array name="tts_pitch_entries">
+     </string-array>
+     <string-array name="long_press_timeout_selector_titles">
+        <item>Небольшая</item>
+        <item>Средняя</item>
+        <item>Большая</item>
+     </string-array>
+     <string-array name="network_use_entry">
+        <item>Только дома</item>
+        <item>Дом + роуминг</item>
+     </string-array>
+     <string-array name="overlay_display_devices_entries">
+        <item>Нет</item>
+        <item>720x480 mdpi</item>
+        <item>1280x720 tvdpi</item>
+        <item>1920x1080 xhdpi</item>
+        <item>1280x720 tvdpi and 1920x1080 xhdpi</item>
+     </string-array>
+     <string-array name="profile_title_list">
+        <item>Основной</item>
+        <item>Без звука</item>
+        <item>Вибро</item>
+        <item>На улице</item>
+        <item>За рулем</item>
+     </string-array>
+     <string-array name="screen_timeout_entries">
+        <item>15 секунд</item>
+        <item>30 секунд</item>
+        <item>1 минуту</item>
+        <item>2 минуты</item>
+        <item>5 минут</item>
+        <item>10 минут</item>
+        <item>30 минут</item>
+     </string-array>
+     <string-array name="security_settings_premium_sms_values">
+        <item>Спросить</item>
+        <item>Никогда не разрешено</item>
+        <item>Всегда разрешено</item>
+     </string-array>
+     <string-array name="sim_slot">
+        <item>(не выбрано)</item>
+        <item>Слот SIM 1</item>
+        <item>Слот SIM 2</item>
+     </string-array>
+     <string-array name="timezone_filters">
+        <item>Америка</item>
+        <item>Европа</item>
+        <item>Африка</item>
+        <item>Азия</item>
+        <item>Австралия</item>
+        <item>Тихий океан</item>
+        <item>Все</item>
+     </string-array>
+     <string-array name="transition_animation_scale_entries">
+        <item>Анимация выкл.</item>
+        <item>Анимация (масштаб: 0,5x)</item>
+        <item>Анимация (масштаб: 1x)</item>
+        <item>Анимация (масштаб: 1,5x)</item>
+        <item>Анимация (масштаб: 2x)</item>
+        <item>Анимация (масштаб: 5x)</item>
+        <item>Анимация (масштаб: 10x)</item>
+     </string-array>
+     <string-array name="tts_pitch_entries">
         <item>Очень низкий</item>
         <item>Низкий</item>
         <item>Обычный</item>
         <item>Высокий</item>
         <item>Очень высокий</item>
-    </string-array>
-    <string-array name="wifi_status">
+     </string-array>
+     <string-array name="tts_rate_entries">
+        <item>Очень медленная</item>
+        <item>Медленная</item>
+        <item>Обычная</item>
+        <item>Быстрая</item>
+        <item>Очень быстрая</item>
+     </string-array>
+     <string-array name="usage_stats_display_order_types">
+        <item>Время использования</item>
+        <item>Подсчитать</item>
+        <item>Название приложения</item>
+     </string-array>
+     <string-array name="user_content_ratings_entries">
+        <item>Высший разум</item>
+        <item>Человек</item>
+        <item>Неандерталец</item>
+        <item>Шимпанзе</item>
+        <item>Обезьяна</item>
+     </string-array>
+     <string-array name="vpn_states">
+        <item>Отключена</item>
+        <item>Инициализация…</item>
+        <item>Подключение…</item>
+        <item>Подключена</item>
+        <item>Время ожидания истекло</item>
+        <item>Сбой</item>
+     </string-array>
+     <string-array name="vpn_types_long">
+        <item>VPN-соединение по протоколу PPTP</item>
+        <item>VPN-соединение по протоколу L2TP/IPSec с общими ключами</item>
+        <item>VPN-подключение по протоколу L2TP/IPSec с использованием сертификатов</item>
+        <item>VPN-подключение IPSec с общими ключами и аутентификацией Xauth</item>
+        <item>VPN-подключение IPSec с использованием сертификатов и аутентификации Xauth</item>
+        <item>VPN-подключение IPSec с использованием сертификатов и комбинированной аутентификации</item>
+     </string-array>
+     <string-array name="wifi_WEP_security_type">
+        <item>Авто</item>
+        <item>WEP ASCII</item>
+        <item>WEP hexadecimal</item>
+     </string-array>
+     <string-array name="wifi_ap_channel_width">
+        <item>20 МГц</item>
+        <item>Авто 20/40 МГц</item>
+     </string-array>
+     <string-array name="wifi_ap_max_connection_entries">
+        <item>1 пользователь</item>
+        <item>2 пользователя</item>
+        <item>3 пользователя</item>
+        <item>4 пользователя</item>
+        <item>5 пользователей</item>
+        <item>6 пользователей</item>
+        <item>7 пользователей</item>
+        <item>8 пользователей</item>
+     </string-array>
+     <string-array name="wifi_ap_wps_mode_entries">
+        <item>Push кнопка</item>
+        <item>PIN от клиента</item>
+     </string-array>
+     <string-array name="wifi_frequency_band_entries">
+        <item>Авто</item>
+        <item>Только 5 ГГц</item>
+        <item>Только 2,4 ГГц</item>
+     </string-array>
+     <string-array name="wifi_hotspot_disable_policy_entries">
+        <item>Всегда</item>
+        <item>Выключать через 5 минут неактивности</item>
+        <item>Выключать через 10 минут неактивности</item>
+     </string-array>
+     <string-array name="wifi_ip_settings">
+        <item>DHCP</item>
+        <item>Пользовательские</item>
+     </string-array>
+     <string-array name="wifi_p2p_status">
+        <item>Подключено</item>
+        <item>Приглашено</item>
+        <item>Сбой</item>
+        <item>Доступно</item>
+        <item>Вне диапазона</item>
+     </string-array>
+     <string-array name="wifi_p2p_wps_setup">
+        <item>Push-кнопка</item>
+        <item>PIN код с обнаруженного устройства</item>
+        <item>PIN код этого устройства</item>
+     </string-array>
+     <string-array name="wifi_phase2_entries">
+        <item>Нет</item>
+        <item>PAP</item>
+        <item>MSCHAP</item>
+        <item>MSCHAPV2</item>
+        <item>GTC</item>
+     </string-array>
+     <string-array name="wifi_proxy_settings">
+        <item>Нет</item>
+        <item>Вручную</item>
+     </string-array>
+     <string-array name="wifi_signal">
+        <item>Слабый</item>
+        <item>Хороший</item>
+        <item>Хороший</item>
+        <item>Отличный</item>
+     </string-array>
+     <string-array name="wifi_sleep_policy_entries">
+        <item>Всегда</item>
+        <item>Только при питании от сети</item>
+        <item>Никогда (увеличивает расход трафика)</item>
+     </string-array>
+     <string-array name="wifi_sleep_policy_entries_smart">
+        <item>Всегда</item>
+        <item>Только при подключении</item>
+        <item>Никогда (Увеличивает расход трафика)</item>
+        <item>Умный режим</item>
+     </string-array>
+     <string-array name="wifi_sleep_policy_entries_wifi_only">
+        <item>Всегда</item>
+        <item>Только при питании от сети</item>
+        <item>Никогда</item>
+     </string-array>
+     <string-array name="wifi_status">
         <item></item>
         <item>Поиск…</item>
         <item>Подключение…</item>
@@ -72,8 +336,8 @@
         <item>Неудачно</item>
         <item>Заблокировано</item>
         <item>Временно избегать плохого соединения</item>
-    </string-array>
-    <string-array name="wifi_status_with_ssid">
+     </string-array>
+     <string-array name="wifi_status_with_ssid">
         <item></item>
         <item>Поиск…</item>
         <item>Соединение с сетью %1$s…</item>
@@ -86,103 +350,8 @@
         <item>Неудачно</item>
         <item>Заблокировано</item>
         <item>Временно избегать плохого соединения</item>
-    </string-array>
-    <string-array name="wifi_p2p_wps_setup">
-        <item>Push-кнопка</item>
-        <item>PIN код с обнаруженного устройства</item>
-        <item>PIN код этого устройства</item>
-    </string-array>
-    <string-array name="wifi_p2p_status">
-        <item>Подключено</item>
-        <item>Приглашено</item>
-        <item>Сбой</item>
-        <item>Доступно</item>
-        <item>Вне диапазона</item>
-    </string-array>
-    <string-array name="bluetooth_visibility_timeout_entries">
-        <item>2 минуты</item>
-        <item>5 минут</item>
-        <item>1 час</item>
-        <item>Без тайм-аута</item>
-    </string-array>
-    <string-array name="wifi_signal">
-        <item>Слабый</item>
-        <item>Хороший</item>
-        <item>Хороший</item>
-        <item>Отличный</item>
-    </string-array>
-    <string-array name="wifi_sleep_policy_entries">
-        <item>Всегда</item>
-        <item>Только при питании от сети</item>
-        <item>Никогда (увеличивает расход трафика)</item>
-    </string-array>
-    <string-array name="wifi_sleep_policy_entries_wifi_only">
-        <item>Всегда</item>
-        <item>Только при питании от сети</item>
-        <item>Никогда</item>
-    </string-array>
-    <string-array name="wifi_frequency_band_entries">
-        <item>Авто</item>
-        <item>Только 5 ГГц</item>
-        <item>Только 2,4 ГГц</item>
-    </string-array>
-    <string-array name="usage_stats_display_order_types">
-        <item>Время использования</item>
-        <item>Подсчитать</item>
-        <item>Название приложения</item>
-    </string-array>
-    <string-array name="wifi_phase2_entries">
-        <item>Нет</item>
-        <item>PAP</item>
-        <item>MSCHAP</item>
-        <item>MSCHAPV2</item>
-        <item>GTC</item>
-    </string-array>
-    <string-array name="wifi_ip_settings">
-        <item>DHCP</item>
-        <item>Пользовательские</item>
-    </string-array>
-    <string-array name="wifi_proxy_settings">
-        <item>Нет</item>
-        <item>Вручную</item>
-    </string-array>
-    <string-array name="emergency_tone_entries">
-        <item>Выкл</item>
-        <item>Оповещение</item>
-        <item>Виброзвонок</item>
-    </string-array>
-    <string-array name="apn_auth_entries">
-        <item>Нет</item>
-        <item>PAP</item>
-        <item>CHAP</item>
-        <item>PAP или CHAP</item>
-    </string-array>
-    <string-array name="bearer_entries">
-        <item>LTE</item>
-        <item>eHRPD</item>
-        <item>Не указано</item>
-    </string-array>
-    <string-array name="app_install_location_entries">
-        <item>Внутренняя память устройства</item>
-        <item>Съемная SD карта</item>
-        <item>На усмотрение системы</item>
-    </string-array>
-    <string-array name="long_press_timeout_selector_titles">
-        <item>Небольшая</item>
-        <item>Средняя</item>
-        <item>Большая</item>
-    </string-array>
-    <string-array name="hdcp_checking_titles">
-        <item>Никогда не проверять</item>
-        <item>Проверять только содержание DRM</item>
-        <item>Всегда проверять</item>
-    </string-array>
-    <string-array name="hdcp_checking_summaries">
-        <item>Не использовать проверку HDCP</item>
-        <item>Использовать проверку HDCP только для содержания DRM</item>
-        <item>Всегда использовать проверку HDCP</item>
-    </string-array>
-    <string-array name="window_animation_scale_entries">
+     </string-array>
+     <string-array name="window_animation_scale_entries">
         <item>Анимация выкл.</item>
         <item>Анимация (масштаб: 0,5x)</item>
         <item>Анимация (масштаб: 1x)</item>
@@ -190,173 +359,5 @@
         <item>Анимация (масштаб: 2x)</item>
         <item>Анимация (масштаб: 5x)</item>
         <item>Анимация (масштаб: 10x)</item>
-    </string-array>
-    <string-array name="transition_animation_scale_entries">
-        <item>Анимация выкл.</item>
-        <item>Анимация (масштаб: 0,5x)</item>
-        <item>Анимация (масштаб: 1x)</item>
-        <item>Анимация (масштаб: 1,5x)</item>
-        <item>Анимация (масштаб: 2x)</item>
-        <item>Анимация (масштаб: 5x)</item>
-        <item>Анимация (масштаб: 10x)</item>
-    </string-array>
-    <string-array name="animator_duration_scale_entries">
-        <item>Анимация выкл.</item>
-        <item>Анимация (масштаб: 0,5x)</item>
-        <item>Анимация (масштаб: 1x)</item>
-        <item>Анимация (масштаб: 1,5x)</item>
-        <item>Анимация (масштаб: 2x)</item>
-        <item>Анимация (масштаб: 5x)</item>
-        <item>Анимация (масштаб: 10x)</item>
-    </string-array>
-    <string-array name="overlay_display_devices_entries">
-        <item>Нет</item>
-        <item>720x480 mdpi</item>
-        <item>1280x720 tvdpi</item>
-        <item>1920x1080 xhdpi</item>
-        <item>1280x720 tvdpi and 1920x1080 xhdpi</item>
-    </string-array>
-    <string-array name="enable_opengl_traces_entries">
-        <item>Нет</item>
-        <item>Logcat</item>
-        <item>Systrace (Graphics)</item>
-        <item>Call stack on glGetError</item>
-    </string-array>
-    <string-array name="app_process_limit_entries">
-        <item>Стандартное ограничение</item>
-        <item>Без фоновых процессов</item>
-        <item>Не более одного процесса</item>
-        <item>Не более 2 процессов</item>
-        <item>Не более 3 процессов</item>
-        <item>Не более 4 процессов</item>
-    </string-array>
-    <string-array name="vpn_types_long">
-        <item>VPN-соединение по протоколу PPTP</item>
-        <item>VPN-соединение по протоколу L2TP/IPSec с общими ключами</item>
-        <item>VPN-подключение по протоколу L2TP/IPSec с использованием сертификатов</item>
-        <item>VPN-подключение IPSec с общими ключами и аутентификацией Xauth</item>
-        <item>VPN-подключение IPSec с использованием сертификатов и аутентификации Xauth</item>
-        <item>VPN-подключение IPSec с использованием сертификатов и комбинированной аутентификации</item>
-    </string-array>
-    <string-array name="vpn_states">
-        <item>Отключена</item>
-        <item>Инициализация…</item>
-        <item>Подключение…</item>
-        <item>Подключена</item>
-        <item>Время ожидания истекло</item>
-        <item>Сбой</item>
-    </string-array>
-    <string-array name="user_content_ratings_entries">
-        <item>Высший разум</item>
-        <item>Человек</item>
-        <item>Неандерталец</item>
-        <item>Шимпанзе</item>
-        <item>Обезьяна</item>
-    </string-array>
-    <string-array name="entries_button_brightness">
-        <item>Открыто</item>
-        <item>На 3 секунды</item>
-        <item>Закрыто</item>
-    </string-array>
-    <string-array name="security_settings_premium_sms_values">
-        <item>Спросить</item>
-        <item>Никогда не разрешено</item>
-        <item>Всегда разрешено</item>
-    </string-array>
-    <string-array name="wifi_sleep_policy_entries_smart">
-        <item>Всегда</item>
-        <item>Только при подключении</item>
-        <item>Никогда (Увеличивает расход трафика)</item>
-        <item>Умный режим</item>
-    </string-array>
-    <string-array name="entries_smart_rotation">
-        <item>Умный автоповорот (Поворот экрана по глазам)</item>
-        <item>Автоповорот</item>
-        <item>Нет</item>
-    </string-array>
-    <string-array name="entries_smart_rotation_nocamera">
-        <item>Жест вращения экрана</item>
-        <item>Автоповорот экрана</item>
-        <item>Нет</item>
-    </string-array>
-    <string-array name="gemini_sim_info_number_display_format_entries">
-        <item>Первые 4 цифры</item>
-        <item>Последние 4 цифры</item>
-        <item>Не отображать</item>
-    </string-array>
-    <string-array name="gemini_sim_roaming_reminder_entries">
-        <item>Однажды</item>
-        <item>Всегда</item>
-        <item>Никогда</item>
-    </string-array>
-    <string-array name="gsm_umts_network_preferences_choices">
-        <item>GSM/WCDMA (Авто режим)</item>
-        <item>Только WCDMA</item>
-        <item>Только GSM</item>
-    </string-array>
-    <string-array name="wifi_ap_channel_width">
-        <item>20 МГц</item>
-        <item>Авто 20/40 МГц</item>
-    </string-array>
-    <string-array name="hdmi_video_resolution_entries">
-        <item>Авто</item>
-        <item>720P</item>
-        <item>480P</item>
-    </string-array>
-    <string-array name="auto_time_entries">
-        <item>Использовать время сети</item>
-        <item>Использовать GPS время</item>
-        <item>Выкл.</item>
-    </string-array>
-    <string-array name="network_use_entry">
-        <item>Только дома</item>
-        <item>Дом + роуминг</item>
-    </string-array>
-    <string-array name="sim_slot">
-        <item>(не выбрано)</item>
-        <item>Слот SIM 1</item>
-        <item>Слот SIM 2</item>
-    </string-array>
-    <string-array name="wifi_hotspot_disable_policy_entries">
-        <item>Всегда</item>
-        <item>Выключать через 5 минут неактивности</item>
-        <item>Выключать через 10 минут неактивности</item>
-    </string-array>
-    <string-array name="profile_title_list">
-        <item>Основной</item>
-        <item>Без звука</item>
-        <item>Вибро</item>
-        <item>На улице</item>
-        <item>За рулем</item>
-    </string-array>
-    <string-array name="hdmi_video_mode_entries">
-        <item>Полный экран</item>
-        <item>Идеально</item>
-        <item>Оригинальный размер</item>
-    </string-array>
-    <string-array name="hdmi_deep_color_entries">
-        <item>8 бит</item>
-        <item>Авто</item>
-        <item>10 бит</item>
-        <item>12 бит</item>
-    </string-array>
-    <string-array name="wifi_WEP_security_type">
-        <item>Авто</item>
-        <item>WEP ASCII</item>
-        <item>WEP hexadecimal</item>
-    </string-array>
-    <string-array name="wifi_ap_wps_mode_entries">
-        <item>Push кнопка</item>
-        <item>PIN от клиента</item>
-    </string-array>
-    <string-array name="wifi_ap_max_connection_entries">
-        <item>1 пользователь</item>
-        <item>2 пользователя</item>
-        <item>3 пользователя</item>
-        <item>4 пользователя</item>
-        <item>5 пользователей</item>
-        <item>6 пользователей</item>
-        <item>7 пользователей</item>
-        <item>8 пользователей</item>
-    </string-array>
+     </string-array>
 </resources>

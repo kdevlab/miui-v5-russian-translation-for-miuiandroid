@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Builded with CloudBuildr -->
+<!-- Builded with NXT -->
 <resources>
      <string name="accessibility_airplane_mode">Режим полета</string>
      <string name="accessibility_back">Назад</string>
@@ -10,8 +10,6 @@
      <string name="accessibility_clear_all">Удалить все уведомления</string>
      <string name="accessibility_compatibility_zoom_button">Кнопка масштабирования (режим совместимости)</string>
      <string name="accessibility_compatibility_zoom_example">Уменьшение изображения для увеличения свободного места на экране</string>
-     <string name="accessibility_data_connection_3.5g">3,5G</string>
-     <string name="accessibility_data_connection_edge">EDGE</string>
      <string name="accessibility_data_one_bar">Сигнал передачи данных: одно деление</string>
      <string name="accessibility_data_signal_full">Надежный сигнал передачи данных</string>
      <string name="accessibility_data_three_bars">Сигнал передачи данных: три деления</string>
@@ -143,8 +141,6 @@
      <string name="notifications_off_text">Нажмите здесь для включения уведомлений</string>
      <string name="notifications_off_title">Уведомления выключены</string>
      <string name="oldman_airplane_mode_text">airplane</string>
-     <string name="oldman_incall_text">incall</string>
-     <string name="oldman_status_bar_time_format">HH:mm</string>
      <string name="recent_apps_key">Последние приложения</string>
      <string name="recent_apps_key_show">Последние приложения</string>
      <string name="return_to_incall_screen">Нажмите для возврата к разговору</string>

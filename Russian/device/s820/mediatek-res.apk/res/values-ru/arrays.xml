@@ -1,18 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!-- Builded with NXT -->
 <resources>
-    <string-array name="bootup_mode">
+     <string-array name="bootup_mode">
         <item>Две SIM-карты</item>
         <item>SIM1</item>
         <item>SIM2</item>
-    </string-array>
-    <string-array name="gprs_mode_1">
+     </string-array>
+     <string-array name="gprs_mode_1">
         <item>SIM1</item>
         <item>Не устанавливать информационное соединение</item>
         <item>Cancel</item>
-    </string-array>
-    <string-array name="gprs_mode_2">
+     </string-array>
+     <string-array name="gprs_mode_2">
         <item>SIM2</item>
         <item>Не устанавливать информационное соединение</item>
         <item>Cancel</item>
-    </string-array>
+     </string-array>
 </resources>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Builded with CloudBuildr -->
+<!-- Builded with NXT -->
 <resources>
      <string-array name="cfg_rf">
         <item>Установить FM RSSI Delta</item>
@@ -115,44 +115,6 @@
         <item>Великобритания (от 87.5MHz до 108.0MHz с шагом 100 Khz)</item>
         <item>США (от 88.1MHz до 107.9MHz с шагом 200 Khz)</item>
      </string-array>
-     <string-array name="regional_band_values">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
-        <item>3</item>
-        <item>4</item>
-        <item>5</item>
-        <item>6</item>
-        <item>7</item>
-        <item>8</item>
-        <item>9</item>
-        <item>10</item>
-        <item>11</item>
-        <item>12</item>
-        <item>13</item>
-        <item>14</item>
-        <item>15</item>
-        <item>16</item>
-        <item>17</item>
-        <item>18</item>
-        <item>19</item>
-        <item>20</item>
-        <item>21</item>
-        <item>22</item>
-        <item>23</item>
-        <item>24</item>
-        <item>25</item>
-        <item>26</item>
-        <item>27</item>
-        <item>28</item>
-        <item>29</item>
-        <item>30</item>
-        <item>31</item>
-        <item>32</item>
-        <item>33</item>
-        <item>34</item>
-        <item>35</item>
-     </string-array>
      <string-array name="rf_cfg">
         <item>Получить текущие параметры станции</item>
         <item>Получить параметры станции с повторением в 20 раз</item>
@@ -189,35 +151,6 @@
         <item>Топ 40</item>
         <item>Погода</item>
      </string-array>
-     <string-array name="search_category_rbds_values">
-        <item>0</item>
-        <item>7</item>
-        <item>15</item>
-        <item>6</item>
-        <item>23</item>
-        <item>10</item>
-        <item>31</item>
-        <item>30</item>
-        <item>18</item>
-        <item>2</item>
-        <item>14</item>
-        <item>1</item>
-        <item>13</item>
-        <item>11</item>
-        <item>21</item>
-        <item>22</item>
-        <item>19</item>
-        <item>20</item>
-        <item>16</item>
-        <item>5</item>
-        <item>12</item>
-        <item>8</item>
-        <item>17</item>
-        <item>3</item>
-        <item>4</item>
-        <item>9</item>
-        <item>29</item>
-     </string-array>
      <string-array name="search_category_rds_entries">
         <item>Все станции</item>
         <item>Культура</item>
@@ -252,51 +185,11 @@
         <item>Разноe</item>
         <item>Погода</item>
      </string-array>
-     <string-array name="search_category_rds_values">
-        <item>0</item>
-        <item>7</item>
-        <item>2</item>
-        <item>18</item>
-        <item>25</item>
-        <item>29</item>
-        <item>6</item>
-        <item>12</item>
-        <item>5</item>
-        <item>31</item>
-        <item>30</item>
-        <item>17</item>
-        <item>28</item>
-        <item>3</item>
-        <item>24</item>
-        <item>13</item>
-        <item>23</item>
-        <item>1</item>
-        <item>26</item>
-        <item>15</item>
-        <item>27</item>
-        <item>21</item>
-        <item>10</item>
-        <item>20</item>
-        <item>11</item>
-        <item>8</item>
-        <item>14</item>
-        <item>19</item>
-        <item>4</item>
-        <item>22</item>
-        <item>9</item>
-        <item>16</item>
-     </string-array>
      <string-array name="sleep_duration_values">
         <item>15 минут</item>
         <item>30 минут</item>
         <item>45 минут</item>
         <item>1 час</item>
-     </string-array>
-     <string-array name="sleep_duration_values_seconds">
-        <item>900</item>
-        <item>1800</item>
-        <item>2700</item>
-        <item>3600</item>
      </string-array>
      <string-array name="stats_options">
         <item>Выбрать опцию</item>

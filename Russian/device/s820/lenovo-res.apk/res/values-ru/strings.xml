@@ -1,20 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!-- Builded with NXT -->
 <resources>
-    <string name="lsr_window_smart_rolled_toast">Окно с функцией интеллектуальной прокрутки</string>
-    <string name="lsr_window_not_support_smart_rolled_toast">Окно не поддерживает функцию интеллектуальной прокрутки</string>
-    <string name="dlg_use_ipo_confirm">Быстрая начальная загрузка при следующей перезагрузке</string>
-    <string name="dlg_ipo_confirm_warning">В режиме быстрой загрузки питание системы отключено не полностью. Не подключайте SIM-карту или карту памяти в этом состоянии, т.к. это приводит к ее выходу из строя.</string>
-    <string name="storage_sd_card">SD-карта</string>
-    <string name="storage_usb">USB-накопитель</string>
-    <string name="storage_phone">Встроенная память</string>
-    <string name="storage_external_usb">Внешний USB-накопитель</string>
-    <string name="ext_storage_internal_notification_title">Выполняется подготовка внутренней карты памяти</string>
-    <string name="ext_storage_external_notification_title">Выполняется подготовка внешней карты памяти</string>
-    <string name="global_actions_toggle_open_airplane_mode_confirm">Включить режим полета?</string>
-    <string name="usb_notification_title">Параметры USB подключения</string>
-    <string name="usb_notification_content">Выберите один из режимов</string>
-    <string name="default_string">По умолчанию</string>
-    <string name="capital_on">ВКЛ.</string>
-    <string name="capital_off">ВЫКЛ.</string>
-    <string name="kg_forgot_password_button_text">Забыли пароль</string>
+     <string name="capital_off">ВЫКЛ.</string>
+     <string name="capital_on">ВКЛ.</string>
+     <string name="default_string">По умолчанию</string>
+     <string name="dlg_ipo_confirm_warning">В режиме быстрой загрузки питание системы отключено не полностью. Не подключайте SIM-карту или карту памяти в этом состоянии, т.к. это приводит к ее выходу из строя.</string>
+     <string name="dlg_use_ipo_confirm">Быстрая начальная загрузка при следующей перезагрузке</string>
+     <string name="ext_storage_external_notification_title">Выполняется подготовка внешней карты памяти</string>
+     <string name="ext_storage_internal_notification_title">Выполняется подготовка внутренней карты памяти</string>
+     <string name="global_actions_toggle_open_airplane_mode_confirm">Включить режим полета?</string>
+     <string name="kg_forgot_password_button_text">Забыли пароль</string>
+     <string name="lsr_window_not_support_smart_rolled_toast">Окно не поддерживает функцию интеллектуальной прокрутки</string>
+     <string name="lsr_window_smart_rolled_toast">Окно с функцией интеллектуальной прокрутки</string>
+     <string name="storage_external_usb">Внешний USB-накопитель</string>
+     <string name="storage_phone">Встроенная память</string>
+     <string name="storage_sd_card">SD-карта</string>
+     <string name="storage_usb">USB-накопитель</string>
+     <string name="usb_notification_content">Выберите один из режимов</string>
+     <string name="usb_notification_title">Параметры USB подключения</string>
 </resources>

@@ -1,27 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!-- Builded with NXT -->
 <resources>
-    <plurals name="lockpassword_password_requires_letters">
-        <item quantity="other">Пароль должен содержать буквы (не менее %d)</item>
+     <plurals name="lockpassword_password_requires_letters">
         <item quantity="one">Пароль должен содержать хотя бы 1 букву</item>
-    </plurals>
-    <plurals name="lockpassword_password_requires_lowercase">
-        <item quantity="other">Пароль должен содержать строчные символы (не менее %d)</item>
+        <item quantity="other">Пароль должен содержать буквы (не менее %d)</item>
+     </plurals>
+     <plurals name="lockpassword_password_requires_lowercase">
         <item quantity="one">Пароль должен содержать хотя бы 1 строчную букву</item>
-    </plurals>
-    <plurals name="lockpassword_password_requires_uppercase">
-        <item quantity="other">Пароль должен содержать заглавные буквы (не менее %d)</item>
-        <item quantity="one">Пароль должен содержать хотя бы 1 заглавную букву</item>
-    </plurals>
-    <plurals name="lockpassword_password_requires_numeric">
-        <item quantity="other">Пароль должен содержать цифры (не менее %d)</item>
-        <item quantity="one">Пароль должен содержать хотя бы 1 цифру</item>
-    </plurals>
-    <plurals name="lockpassword_password_requires_symbols">
-        <item quantity="other">Пароль должен содержать специальные символы (не менее %d)</item>
-        <item quantity="one">Пароль должен содержать хотя бы 1 специальный символ.</item>
-    </plurals>
-    <plurals name="lockpassword_password_requires_nonletter">
-        <item quantity="other">Пароль должен содержать небуквенные символы (не менее %d)</item>
+        <item quantity="other">Пароль должен содержать строчные символы (не менее %d)</item>
+     </plurals>
+     <plurals name="lockpassword_password_requires_nonletter">
         <item quantity="one">Пароль должен содержать хотя бы 1 небуквенный символ.</item>
-    </plurals>
+        <item quantity="other">Пароль должен содержать небуквенные символы (не менее %d)</item>
+     </plurals>
+     <plurals name="lockpassword_password_requires_numeric">
+        <item quantity="one">Пароль должен содержать хотя бы 1 цифру</item>
+        <item quantity="other">Пароль должен содержать цифры (не менее %d)</item>
+     </plurals>
+     <plurals name="lockpassword_password_requires_symbols">
+        <item quantity="one">Пароль должен содержать хотя бы 1 специальный символ.</item>
+        <item quantity="other">Пароль должен содержать специальные символы (не менее %d)</item>
+     </plurals>
+     <plurals name="lockpassword_password_requires_uppercase">
+        <item quantity="one">Пароль должен содержать хотя бы 1 заглавную букву</item>
+        <item quantity="other">Пароль должен содержать заглавные буквы (не менее %d)</item>
+     </plurals>
 </resources>

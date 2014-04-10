@@ -1,32 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Builded with CloudBuildr -->
+<!-- Builded with NXT -->
 <resources>
      <plurals name="lockpassword_password_requires_letters">
-        <item quantity="other">Пароль должен содержать буквы (не менее %d)</item>
         <item quantity="one">Пароль должен содержать хотя бы 1 букву</item>
+        <item quantity="other">Пароль должен содержать буквы (не менее %d)</item>
      </plurals>
      <plurals name="lockpassword_password_requires_lowercase">
-        <item quantity="other">Пароль должен содержать строчные символы (не менее %d)</item>
         <item quantity="one">Пароль должен содержать хотя бы 1 строчную букву</item>
+        <item quantity="other">Пароль должен содержать строчные символы (не менее %d)</item>
      </plurals>
      <plurals name="lockpassword_password_requires_nonletter">
-        <item quantity="other">Пароль должен содержать небуквенные символы (не менее %d)</item>
         <item quantity="one">Пароль должен содержать хотя бы 1 небуквенный символ</item>
+        <item quantity="other">Пароль должен содержать небуквенные символы (не менее %d)</item>
      </plurals>
      <plurals name="lockpassword_password_requires_numeric">
-        <item quantity="other">Пароль должен содержать цифры (не менее %d)</item>
         <item quantity="one">Пароль должен содержать хотя бы 1 цифру</item>
+        <item quantity="other">Пароль должен содержать цифры (не менее %d)</item>
      </plurals>
      <plurals name="lockpassword_password_requires_symbols">
-        <item quantity="other">Пароль должен содержать специальные символы (не менее %d)</item>
         <item quantity="one">Пароль должен содержать хотя бы 1 специальный символ</item>
+        <item quantity="other">Пароль должен содержать специальные символы (не менее %d)</item>
      </plurals>
      <plurals name="lockpassword_password_requires_uppercase">
-        <item quantity="other">Пароль должен содержать заглавные буквы (не менее %d)</item>
         <item quantity="one">Пароль должен содержать хотя бы 1 заглавную букву</item>
+        <item quantity="other">Пароль должен содержать заглавные буквы (не менее %d)</item>
      </plurals>
      <plurals name="show_dev_countdown">
-        <item quantity="other">Ещё %1$d шага, и вы разработчик.</item>
         <item quantity="one">Ещё %1$d шаг, и вы разработчик.</item>
+        <item quantity="other">Ещё %1$d шага, и вы разработчик.</item>
      </plurals>
 </resources>

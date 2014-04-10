@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Builded with CloudBuildr -->
+<!-- Builded with NXT -->
 <resources>
      <string name="Import">Импортировать</string>
      <string name="access_phone_fail_no_product">"Couldn't access USB storage."</string>
@@ -137,7 +137,6 @@
      <string name="pref_advanced_functions">Расширенные настройки</string>
      <string name="pref_advanced_settings">Дополнительные настройки</string>
      <string name="pref_camcorder_settings_category">Настройки видеокамеры</string>
-     <string name="pref_camera_ae_bracket_hdr_default">Off</string>
      <string name="pref_camera_ae_bracket_hdr_entry_ae_bracket">AE-Bracket</string>
      <string name="pref_camera_ae_bracket_hdr_entry_hdr">HDR</string>
      <string name="pref_camera_ae_bracket_hdr_entry_off">Вкл.</string>
@@ -151,14 +150,12 @@
      <string name="pref_camera_antibanding_entry_3">Авто</string>
      <string name="pref_camera_antibanding_title">Устранение мерцания</string>
      <string name="pref_camera_audio_capture_title">Голос</string>
-     <string name="pref_camera_audioencoder_default">aac</string>
      <string name="pref_camera_auto_focus_title_entry_off">Выкл.</string>
      <string name="pref_camera_auto_focus_title_entry_on">Вкл.</string>
      <string name="pref_camera_autoexposure_entry_centerweighted">Центровзвешенный</string>
      <string name="pref_camera_autoexposure_entry_frameaverage">Усредненный</string>
      <string name="pref_camera_autoexposure_entry_spotmetering">Точечный</string>
      <string name="pref_camera_autoexposure_title">Режим экспозиции</string>
-     <string name="pref_camera_coloreffect_default">none</string>
      <string name="pref_camera_coloreffect_entry_aqua">Вода</string>
      <string name="pref_camera_coloreffect_entry_blackboard">Blackboard</string>
      <string name="pref_camera_coloreffect_entry_mono">Моно</string>
@@ -170,7 +167,6 @@
      <string name="pref_camera_coloreffect_entry_whiteboard">Whiteboard</string>
      <string name="pref_camera_coloreffect_title">Эффекты</string>
      <string name="pref_camera_coloreffect_title_simple_mode">Эффекты</string>
-     <string name="pref_camera_contrast_default">5</string>
      <string name="pref_camera_contrast_entry_high">Высокая</string>
      <string name="pref_camera_contrast_entry_low">Низкая</string>
      <string name="pref_camera_contrast_entry_middle">Средняя(По умолчанию)</string>
@@ -210,8 +206,6 @@
      <string name="pref_camera_movie_solid_entry_off">Выкл.</string>
      <string name="pref_camera_movie_solid_entry_on">Вкл.</string>
      <string name="pref_camera_movie_solid_title">Сплошной ролик</string>
-     <string name="pref_camera_movie_solid_value_off">off</string>
-     <string name="pref_camera_movie_solid_value_on">on</string>
      <string name="pref_camera_panoramamode_title">Панорама</string>
      <string name="pref_camera_picture_format_title">Выбрать формат фото</string>
      <string name="pref_camera_picturesize_entry_full_screen">Полный экран 16:9</string>
@@ -276,7 +270,6 @@
      <string name="pref_camera_skinToneEnhancement_entry_disable">Выключено</string>
      <string name="pref_camera_skinToneEnhancement_entry_enable">Включено</string>
      <string name="pref_camera_skinToneEnhancement_title">Улучшение тона кожи</string>
-     <string name="pref_camera_sound_default">on</string>
      <string name="pref_camera_sound_entry_off">off</string>
      <string name="pref_camera_sound_entry_on">on</string>
      <string name="pref_camera_sound_title">Звуки</string>
@@ -291,13 +284,11 @@
      <string name="pref_camera_touchafaec_entry_off">Выкл.</string>
      <string name="pref_camera_touchafaec_entry_on">Вкл.</string>
      <string name="pref_camera_touchafaec_title">Выбор зоны автофокуса</string>
-     <string name="pref_camera_video_duration_default">10</string>
      <string name="pref_camera_video_duration_entry_10">10 минут</string>
      <string name="pref_camera_video_duration_entry_120">2 часа</string>
      <string name="pref_camera_video_duration_entry_30">30 минут</string>
      <string name="pref_camera_video_duration_entry_mms">30 секунд(MMS)</string>
      <string name="pref_camera_video_duration_title">Длительность видеозаписи</string>
-     <string name="pref_camera_volumekey_function_default">zoom</string>
      <string name="pref_camera_volumekey_function_entry_shutter">Снимок</string>
      <string name="pref_camera_volumekey_function_entry_volume">Громкость</string>
      <string name="pref_camera_volumekey_function_entry_zooming">Зум</string>
@@ -319,12 +310,9 @@
      <string name="pref_grp_capture_settings">Настройки видео</string>
      <string name="pref_grp_picture_settings">Настройки фото</string>
      <string name="pref_grp_restore_settings">Сбросить настройки</string>
-     <string name="pref_scan_qrcode_default">on</string>
      <string name="pref_scan_qrcode_entry_off">Выкл.</string>
      <string name="pref_scan_qrcode_entry_on">Вкл.</string>
      <string name="pref_scan_qrcode_title">Сканировать QR коды</string>
-     <string name="pref_scan_qrcode_value_off">off</string>
-     <string name="pref_scan_qrcode_value_on">on</string>
      <string name="pref_settings_mode">Режим камеры</string>
      <string name="pref_video_captrue_ability_title">Захват кадра</string>
      <string name="pref_video_continuous_focus">Непрерывный фокус</string>

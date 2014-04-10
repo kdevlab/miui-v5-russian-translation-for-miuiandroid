@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Builded with CloudBuildr -->
+<!-- Builded with NXT -->
 <resources>
      <string name="accessibility_nfc_enabled">NFC включен</string>
      <string name="app_name">Служба Nfc</string>
@@ -18,12 +18,9 @@
      <string name="disconnecting_headset">Отключение</string>
      <string name="failed_to_enable_bt">Не удалось включить Bluetooth</string>
      <string name="inbound_me_profile_text">Нажмите, чтобы добавить этого человека в контакты</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="inbound_me_profile_title">Contact received over NFC</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="nfcUserLabel">Nfc</string>
      <string name="outbound_me_profile_text">Нажмите, чтобы дать этому человеку свою контактную информацию</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="outbound_me_profile_title">NFC interaction complete</string>
      <string name="pair_no">Нет</string>
      <string name="pair_yes">Да</string>

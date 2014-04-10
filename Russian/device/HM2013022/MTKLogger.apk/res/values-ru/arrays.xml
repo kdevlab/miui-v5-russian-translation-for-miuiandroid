@@ -1,17 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!-- Builded with NXT -->
 <resources>
-    <string-array name="entries_list_preference_aeemode">
+     <string-array name="entries_list_preference_aeemode">
         <item>Mediatek Разработчик</item>
         <item>Mediatek Пользователь</item>
         <item>Customer Разработчик</item>
         <item>Customer Пользователь</item>
-    </string-array>
-    <string-array name="entries_list_preference_aeemode_oem">
+     </string-array>
+     <string-array name="entries_list_preference_aeemode_oem">
         <item>Режим разработчика</item>
         <item>Режим пользователя</item>
-    </string-array>
-    <string-array name="mode_list_preference">
+     </string-array>
+     <string-array name="mode_list_preference">
         <item>USB-режим</item>
         <item>SD-режим</item>
-    </string-array>
+     </string-array>
 </resources>

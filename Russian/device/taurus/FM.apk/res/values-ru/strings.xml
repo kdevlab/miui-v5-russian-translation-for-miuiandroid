@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Builded with CloudBuildr -->
+<!-- Builded with NXT -->
 <resources>
      <string name="FMRecording_reach_storage_threshold">Запись остановлена. На карте памяти мало места.</string>
      <string name="access_sd_fail">"Нет доступа к карте памяти."</string>
      <string name="alert_dialog_cancel">Выход</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="alert_dialog_ok">OK</string>
      <string name="alert_message_delete_station">Вы уверены, что хотите удалить станцию?</string>
      <string name="alert_title_delete">Удалить</string>
@@ -21,8 +20,6 @@
      <string name="button_text_stop">Стоп</string>
      <string name="default_audio">Стерео</string>
      <string name="default_band">США</string>
-     <string name="default_blank" />
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="default_station">FM</string>
      <string name="delete_station_title">Удалить</string>
      <string name="dialog_sleep_title">Спящий режим</string>
@@ -45,7 +42,6 @@
      <string name="frequency_already_exist">Радиочастота уже существует</string>
      <string name="frequency_out_of_range">Радиочастота %1$s~%2$s вне диапазона</string>
      <string name="frequency_should_not_null">Радиочастота не может быть пустой</string>
-     <string name="frequency_string" />
      <string name="hint_station_name">Ввести название станции</string>
      <string name="input_station">Радиочастота (MHz)</string>
      <string name="menu_add_list">Добавить список</string>
@@ -84,7 +80,7 @@
      <string name="preset_tune">Настроить</string>
      <string name="presetlist_autoselect_title">Подтвердить автовыбор</string>
      <string name="radio_text_string">Это слишком длинный текст, который нужен для прокрутки</string>
-	 <string name="record_completed">Запись завершена</string>
+     <string name="record_completed">Запись завершена</string>
      <string name="record_error_unknown">Запись остановлена. Неизвестная ошибка во время записи.</string>
      <string name="record_fail">Запись не удалась</string>
      <string name="record_file_format">%1$s_%2$s</string>
@@ -119,5 +115,4 @@
      <string name="toast_save_station">%sMHz была сохранена</string>
      <string name="toast_sleep_mode">Остановка на %s</string>
      <string name="transmit_msg_string">Трансляция:</string>
-     <string name="type_rd" />
 </resources>

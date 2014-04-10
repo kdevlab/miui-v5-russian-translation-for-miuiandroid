@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Builded with CloudBuildr -->
+<!-- Builded with NXT -->
 <resources>
      <string name="BaMmi">Запрет вызовов</string>
      <string name="CLIRDefaultOffNextCallOff">Идентификация абонента по умолчанию не запрещена. След. вызов: разрешена</string>
@@ -80,10 +80,6 @@
 
 Закрыть его?"</string>
      <string name="anr_title" />
-     <string name="autofill_address_name_separator">" "</string>
-     <string name="autofill_address_summary_format">$1$2$3</string>
-     <string name="autofill_address_summary_name_format">$1$2$3</string>
-     <string name="autofill_address_summary_separator">", "</string>
      <string name="autofill_area">Область</string>
      <string name="autofill_county">Округ</string>
      <string name="autofill_department">Департамент</string>
@@ -163,7 +159,6 @@
      <string name="day">дн.</string>
      <string name="days">дн.</string>
      <string name="decline">Отклонить</string>
-     <string name="defaultMsisdnAlphaTag">MSISDN1</string>
      <string name="defaultVoiceMailAlphaTag">Голосовая почта</string>
      <string name="default_audio_route_category_name">Система</string>
      <string name="default_audio_route_name">Телефон</string>
@@ -567,9 +562,6 @@
      <string name="org_unit">Подразделение организации:</string>
      <string name="owner_name">Владелец</string>
      <string name="passwordIncorrect">Неверный пароль.</string>
-     <string name="password_keyboard_label_alpha_key">АБВ</string>
-     <string name="password_keyboard_label_alt_key">ALT</string>
-     <string name="password_keyboard_label_symbol_key">\?123</string>
      <string name="paste">Вставить</string>
      <string name="perm_costs_money">за это может взиматься плата</string>
      <string name="permdesc_accessCoarseLocation">Разрешает приложению получать данные о вашем примерном местоположении с помощью служб определения местоположения, вышек сотовой связи и точек доступа Wi-Fi. Эти службы должны быть включены на устройстве, а приложению должно быть разрешено их использовать.</string>
