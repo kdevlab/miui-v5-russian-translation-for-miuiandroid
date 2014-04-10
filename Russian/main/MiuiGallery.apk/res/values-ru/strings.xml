@@ -277,8 +277,6 @@
      <string name="menu_item_sort_name_desc">По имени (+)</string>
      <string name="menu_item_sort_size_asc">По размеру (-)</string>
      <string name="menu_item_sort_size_desc">По размеру (+)</string>
-     <string name="menu_item_sort_visit_asc">По частоте (-)</string>
-     <string name="menu_item_sort_visit_desc">По частоте (+)</string>
      <string name="menu_view_contact">Просмотр контакта</string>
      <string name="message_no_delete_access">Отказано в доступе. Невозможно удалить файл или папку: %s.</string>
      <string name="message_no_delete_access_with_count">Невозможно удалить файл(ы) или папку(и) (%d). Возможно они не существуют или доступ к ним запрещен.</string>
@@ -503,5 +501,6 @@
      <string name="widget_type_photo">Выберите изображение</string>
      <string name="widget_type_shuffle">Перемешать все изображения</string>
      <string name="width">Ширина</string>
+	 <string name="yellow_page">Сервисы</string>
      <string name="yes">Да</string>
 </resources>

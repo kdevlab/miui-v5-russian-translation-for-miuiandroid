@@ -642,7 +642,7 @@
      <string name="brightness_summary">Настроить яркость экрана</string>
      <string name="bssid_label">"BSSID: "</string>
      <string name="bt_hci_snoop_log">Журнал Bluetooth HCI</string>
-     <string name="bt_hci_snoop_log_summary">Записывать все пакеты Bluetooth HCI в журнал.</string>
+     <string name="bt_hci_snoop_log_summary">Сохранять все пакеты HCI Bluetooth в журнал</string>
      <string name="bt_trace_log">Журнал трассировки Bluetooth</string>
      <string name="bt_trace_log_summary">Включить журнал трассировки Bluetooth</string>
      <string name="bugreport_in_power">Отчеты об ошибках</string>
@@ -766,7 +766,7 @@
      <string name="controls_label">Элементы управления</string>
      <string name="controls_subtitle">Режим энергопотребления</string>
      <string name="copyright_title">Авторские права</string>
-     <string name="cpu_dtm_summary">Ограничение максимальной производительности процессора для экономии батареи.</string>
+     <string name="cpu_dtm_summary">Ограничение максимальной производительности процессора для экономии батареи</string>
      <string name="cpu_dtm_title">Режим энергосбережения ЦП</string>
      <string name="create">Создать</string>
      <string name="credential_storage_type">Тип памяти</string>
@@ -2897,7 +2897,7 @@
      <string name="show_hw_screen_updates">Показывать данные GPU</string>
      <string name="show_hw_screen_updates_summary">Показывать данные в окнах во время прорисовки с GPU</string>
      <string name="show_magnifier_when_input">Отображать лупу</string>
-     <string name="show_non_rect_clip">Отладка непрямоугольных операций изобр.</string>
+     <string name="show_non_rect_clip">Отладить операции непрямоугольного сечения</string>
      <string name="show_notification">Показывать уведомления</string>
      <string name="show_owner_info_on_lockscreen_label">Показывать данные о владельце на экране блокировки</string>
      <string name="show_password">Показывать пароль</string>
@@ -3766,16 +3766,16 @@
      <string name="wifi_remembered">Сохранено</string>
      <string name="wifi_required_info_text">Для завершения настройки, Ваше устройство требует дотупа к Wi-Fi. После настройки, Вы можете переключаться между мобильной сетью и Wi-Fi.</string>
      <string name="wifi_save">Сохранить</string>
-     <string name="wifi_scan_always_available">Сканировать всегда</string>
-     <string name="wifi_scan_always_available_summary">Cлужбы местоположения Google и других приложений будут сканировать доступные сети, даже если Wi-Fi выключен</string>
+     <string name="wifi_scan_always_available">Всегда искать сети</string>
+     <string name="wifi_scan_always_available_summary">Разрешить службе геопозиционирования и другим приложениям Google искать сети, даже если Wi-Fi выключен</string>
      <string name="wifi_scan_always_confirm_allow">Да</string>
      <string name="wifi_scan_always_confirm_deny">Нет</string>
      <string name="wifi_scan_always_turnon_message">"Для улучшения определения местоположения и для других целей, %1$s хочет включить сканирование сети, даже когда Wi-Fi выключен.
 
 Разрешить это для всех приложений, которые требует сканирование?"</string>
      <string name="wifi_scan_notify_remember_choice">Больше не показывать</string>
-     <string name="wifi_scan_notify_text_location_off">"Приложения могут сканировать соседние сети, даже если Wi-Fi выключен. Если вы не хотите, чтобы это происходило, перейдите в расширенные настройки> Сканирование всегда доступно"</string>
-     <string name="wifi_scan_notify_text_location_on">"Для улучшения определения местоположения и для других целей, приложения Google и другие могут сканировать соседние сети, даже если Wi-Fi выключен. Если вы не хотите, чтобы это происходило, перейдите в расширенные настройки> Сканирование всегда доступно"</string>
+     <string name="wifi_scan_notify_text_location_off">"Приложения могут сканировать соседние сети, даже если Wi-Fi выключен. Если вы не хотите, чтобы это происходило, перейдите в расширенные настройки> Всегда искать сети"</string>
+     <string name="wifi_scan_notify_text_location_on">"Для улучшения определения местоположения и для других целей, приложения Google и другие могут сканировать соседние сети, даже если Wi-Fi выключен. Если вы не хотите, чтобы это происходило, перейдите в расширенные настройки> Всегда искать сети"</string>
      <string name="wifi_secured_first_item">Защита %1$s</string>
      <string name="wifi_secured_second_item">, защита %1$s</string>
      <string name="wifi_security">Безопасность</string>
@@ -3875,7 +3875,7 @@
      <string name="wifi_status_test">Статус Wi-Fi</string>
      <string name="wifi_stopping">Выключение Wi-Fi…</string>
      <string name="wifi_suspend_optimizations">Оптимизация Wi-Fi</string>
-     <string name="wifi_suspend_optimizations_summary">Минимизировать использование батареи при включенном Wi-Fi</string>
+     <string name="wifi_suspend_optimizations_summary">Экономить заряд батареи, когда используется Wi-Fi</string>
      <string name="wifi_tether_auto_channel_text">Авто</string>
      <string name="wifi_tether_auto_channel_width_text">Авто 20/40 МГц</string>
      <string name="wifi_tether_auto_disable_title">Не выключать точку доступа Wi-Fi</string>

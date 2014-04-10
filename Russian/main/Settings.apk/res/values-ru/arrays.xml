@@ -28,70 +28,70 @@
         <item>Устройство</item>
      </string-array>
      <string-array name="app_ops_labels">
-        <item>Location</item>
-        <item>Location</item>
-        <item>Location</item>
-        <item>Vibrate</item>
-        <item>Read contacts</item>
-        <item>Modify contacts</item>
-        <item>Read call log</item>
-        <item>Modify call log</item>
-        <item>Read calendar</item>
-        <item>Modify calendar</item>
-        <item>Location</item>
+        <item>Местоположение</item>
+        <item>Местоположение</item>
+        <item>Местоположение</item>
+        <item>Вибрация</item>
+        <item>Чтение контактов</item>
+        <item>Изменение контактов</item>
+        <item>Чтение журнала</item>
+        <item>Изменение журнала</item>
+        <item>Чтение календаря</item>
+        <item>Изменение календаря</item>
+        <item>Местоположение</item>
         <item>Post notification</item>
-        <item>Location</item>
-        <item>Call phone</item>
-        <item>Receive SMS/MMS</item>
-        <item>Send SMS/MMS</item>
-        <item>Receive SMS/MMS</item>
-        <item>Receive SMS/MMS</item>
-        <item>Receive SMS/MMS</item>
-        <item>Receive SMS/MMS</item>
-        <item>Send SMS/MMS</item>
-        <item>Receive SMS/MMS</item>
-        <item>Send SMS/MMS</item>
-        <item>Modify settings</item>
+        <item>Местоположение</item>
+        <item>Телефон</item>
+        <item>Получение SMS/MMS</item>
+        <item>Отправка SMS/MMS</item>
+        <item>Получение SMS/MMS</item>
+        <item>Получение SMS/MMS</item>
+        <item>Получение SMS/MMS</item>
+        <item>Получение SMS/MMS</item>
+        <item>Отправка SMS/MMS</item>
+        <item>Получение SMS/MMS</item>
+        <item>Отправка SMS/MMS</item>
+        <item>Изменение настроек</item>
         <item>Draw on top</item>
         <item>Access notifications</item>
-        <item>Camera</item>
-        <item>Record audio</item>
-        <item>Play audio</item>
-        <item>Read clipboard</item>
-        <item>Modify clipboard</item>
+        <item>Камера</item>
+        <item>Запись звука</item>
+        <item>Воспроизведение звука</item>
+        <item>Чтение буфера обмена</item>
+        <item>Изменение буфера обмена</item>
      </string-array>
      <string-array name="app_ops_summaries">
         <item>coarse location</item>
         <item>fine location</item>
         <item>GPS</item>
-        <item>vibrate</item>
-        <item>read contacts</item>
-        <item>modify contacts</item>
-        <item>read call log</item>
-        <item>modify call log</item>
-        <item>read calendar</item>
-        <item>modify calendar</item>
-        <item>wi-fi scan</item>
-        <item>notification</item>
-        <item>cell scan</item>
-        <item>call phone</item>
-        <item>read SMS</item>
-        <item>write SMS</item>
-        <item>receive SMS</item>
-        <item>receive emergency SMS</item>
-        <item>receive MMS</item>
-        <item>receive WAP push</item>
-        <item>send SMS</item>
-        <item>read ICC SMS</item>
-        <item>write ICC SMS</item>
-        <item>modify settings</item>
+        <item>вибрировать</item>
+        <item>читать контакты</item>
+        <item>изменять контакты</item>
+        <item>читать журнал вызовов</item>
+        <item>изменять журнал вызовов</item>
+        <item>читать календарь</item>
+        <item>изменять календарь</item>
+        <item>сканировать wi-fi</item>
+        <item>уведомлять</item>
+        <item>сканировать сети</item>
+        <item>звонить</item>
+        <item>читать сообщения</item>
+        <item>писать SMS</item>
+        <item>получать SMS</item>
+        <item>получать emergency SMS</item>
+        <item>получать MMS</item>
+        <item>получать WAP push</item>
+        <item>отправлять сообщения</item>
+        <item>читать ICC SMS</item>
+        <item>писать ICC SMS</item>
+        <item>изменять настройки</item>
         <item>draw on top</item>
         <item>access notifications</item>
         <item>camera</item>
-        <item>record audio</item>
-        <item>play audio</item>
-        <item>read clipboard</item>
-        <item>modify clipboard</item>
+        <item>записывать звук</item>
+        <item>воспроизводить звук</item>
+        <item>читать буфер обмена</item>
+        <item>изменять буфер обмена</item>
      </string-array>
      <string-array name="app_process_limit_entries">
         <item>Стандартное ограничение</item>
@@ -413,9 +413,9 @@
         <item>Разрешить</item>
      </string-array>
      <string-array name="show_non_rect_clip_entries">
-        <item>Отключено</item>
-        <item>Нарисуйте непрямоугольную вырезанную область в синем</item>
-        <item>Выделите тестовые команды рисования в зеленом</item>
+        <item>Выключено</item>
+        <item>Непрямоугольное усечение синим</item>
+        <item>Тест. команды рисования зеленым</item>
      </string-array>
      <string-array name="slideshow_time_entries">
         <item>1 минута</item>
