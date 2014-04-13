@@ -367,13 +367,6 @@
         <item>@string/wifi_security_psk_generic</item>
         <item>@string/wifi_security_eap</item>
      </string-array>
-     <string-array name="wifi_security_no_eap">
-        <item>@string/wifi_security_none</item>
-        <item>@string/wifi_security_wep</item>
-        <item>@string/wifi_security_psk_generic</item>
-        <item>WAPI PSK</item>
-        <item>WAPI CERT</item>
-     </string-array>
      <string-array name="wifi_signal">
         <item>Слабый</item>
         <item>Средний</item>
