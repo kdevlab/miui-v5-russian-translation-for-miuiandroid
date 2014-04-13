@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Builded with CloudBuildr -->
+<!-- Builded with NXT -->
 <resources>
      <string-array name="animator_duration_scale_entries">
         <item>Анимация отключена</item>
@@ -88,14 +88,6 @@
         <item>Цифровой пароль</item>
         <item>Смешанный пароль</item>
      </string-array>
-     <string-array name="dndm_auto_time_trun_on_off">
-        <item>@string/dndm_auto_time_turn_on</item>
-        <item>@string/dndm_auto_time_turn_off</item>
-     </string-array>
-     <string-array name="dndm_vip_list_group_array">
-        <item>@string/dndm_vip_list_custom</item>
-        <item>@string/dndm_vip_list_contact</item>
-     </string-array>
      <string-array name="dream_timeout_entries">
         <item>Никогда</item>
         <item>15 сек.</item>
@@ -117,22 +109,12 @@
         <item>Systrace (Graphics)</item>
         <item>Call stack on glGetError</item>
      </string-array>
-     <string-array name="entries_color_calibration">
-        <item>sRGB</item>
-        <item>Естественный</item>
-     </string-array>
      <string-array name="entries_font_size">
         <item>Мелкий</item>
         <item>Обычный</item>
         <item>Крупный</item>
         <item>Огромный</item>
      </string-array>
-     <integer-array name="font_size_preference_preview_size">
-        <item>14</item>
-        <item>18</item>
-        <item>22</item>
-        <item>27</item>
-     </integer-array>
      <string-array name="gemini_sim_info_number_display_format_entries">
         <item>Первые 4 цифры</item>
         <item>Последние 4 цифры</item>
@@ -272,16 +254,6 @@
         <item>Средняя</item>
         <item>Большая</item>
      </string-array>
-     <string-array name="media_feedback_level_entries">
-        <item>Сильный</item>
-        <item>Средний</item>
-        <item>Слабый</item>
-     </string-array>
-     <string-array name="media_feedback_level_values">
-        <item>15</item>
-        <item>7</item>
-        <item>0</item>
-     </string-array>
      <string-array name="mi1_led_color_entries">
         <item>Синий</item>
         <item>Красный</item>
@@ -304,28 +276,24 @@
         <item>OS X</item>
         <item>Linux</item>
      </string-array>
-     <!-- The size of the array does not match! Now: 5 must: 8 -->
      <string-array name="msd_pc_system_install_finish_summary">
         <item>Если вы установили этот драйвер\nМобильное устройство хранения MI-2 должно быть на вашем компьютере</item>
         <item>Для Windows Vista или новее,\nмузыкальный плеер MI-2 должен появится на вашем компьютере</item>
         <item>Если вы установили драйвер\nКомпьютер будет автоматически открывать и читать данные телефона</item>
         <item></item>
      </string-array>
-     <!-- The size of the array does not match! Now: 5 must: 8 -->
      <string-array name="msd_pc_system_install_start_summary">
         <item>Для Windows XP или старее,\nдрайвер должен быть установлен вручную</item>
         <item>Для Windows Vista или новее,\nмузыкальный плеер MI-2 появится на вашем компьютере</item>
         <item>Для операционной системы OS X,\nдрайвер должен быть установлен вручную</item>
         <item></item>
      </string-array>
-     <!-- The size of the array does not match! Now: 5 must: 8 -->
      <string-array name="msd_pc_system_install_step_1_summary">
         <item>(Пожалуйста, игнорируйте всплывающие окна мастера установки)\nзапоминающее устройство XIAOMI появится на вашем компьютере\nОткройте и выберите файл Setup.exe для установки</item>
         <item></item>
         <item>Запоминающее устройство XIAOMI появится на вашем компьютере\nткройте и выберите файл AndroidFileTransfer.dmg для установки</item>
         <item></item>
      </string-array>
-     <!-- The size of the array does not match! Now: 5 must: 6 -->
      <string-array name="msd_pc_system_install_step_2_summary">
         <item>2. Мобильное устройство хранения MI-2 появится на вашем компьютере\nТеперь вы можете передавать файлы</item>
         <item></item>
@@ -335,10 +303,6 @@
      <string-array name="network_use_entry">
         <item>Только домашняя</item>
         <item>Домашняя + Роуминг</item>
-     </string-array>
-     <string-array name="nfc_se_route_values">
-        <item>1</item>
-        <item>2</item>
      </string-array>
      <string-array name="overlay_display_devices_entries">
         <item>Нет</item>
@@ -355,10 +319,6 @@
      <string-array name="phone_call_noise_suppression_title">
         <item>Один микрофон</item>
         <item>Два микрофона</item>
-     </string-array>
-     <string-array name="phone_call_noise_suppression_values">
-        <item>1</item>
-        <item>2</item>
      </string-array>
      <string-array name="power_mode_entries">
         <item>Производительный</item>
@@ -487,10 +447,6 @@
         <item>Шимпанзе</item>
         <item>Обезьяна</item>
      </string-array>
-     <string-array name="values_color_calibration">
-        <item>0</item>
-        <item>1</item>
-     </string-array>
      <string-array name="vpn_states">
         <item>Отключено</item>
         <item>Инициализация…</item>
@@ -572,11 +528,6 @@
         <item>Автоматически</item>
         <item>Вручную</item>
         <item>Всегда спрашивать</item>
-     </string-array>
-     <string-array name="wifi_connect_type_values">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
      </string-array>
      <string-array name="wifi_eap_method">
         <item>PEAP</item>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Builded with CloudBuildr -->
+<!-- Builded with NXT -->
 <resources>
      <string name="AGPS_CAUSE_BAD_PUSH_CONTENT">Некорректное содержимое PUSH</string>
      <string name="AGPS_CAUSE_NETWORK_CREATE_FAIL">Ошибка создания сети</string>
@@ -551,7 +551,6 @@
      <string name="bluetooth_tethering_overflow_error">Макс. число подключаемых устройств: %1$d</string>
      <string name="bluetooth_turning_off">Отключение Bluetooth...</string>
      <string name="bluetooth_turning_on">Включение Bluetooth...</string>
-     <string name="bluetooth_unknown">""</string>
      <string name="bluetooth_untether_blank">Подключение к %1$s будет прервано.</string>
      <string name="bluetooth_visibility_timeout">Тайм-аут видимости</string>
      <string name="breathing_light_color_menu_title">Светлый цвет</string>
@@ -652,7 +651,6 @@
      <string name="credentials_reset_warning">Неверный пароль. У вас осталась одна попытка, после которой хранилище регистрационных данных будет очищено.</string>
      <string name="credentials_reset_warning_plural">Неверный пароль. Осталось несколько попыток (%1$d). Затем хранилище регистрационных данных будет очищено.</string>
      <string name="credentials_title">Хранилище регистрационных данных</string>
-     <string name="credentials_unlock">""</string>
      <string name="credentials_unlock_hint">Введите пароль для хранилища учетных данных.</string>
      <string name="credentials_wrong_password">Неправильный пароль.</string>
      <string name="crypt_keeper_button_text">Зашифровать данные</string>
@@ -886,8 +884,6 @@
      <string name="dndm_repeated_call_summary_none">Не делать исключения для повторных вызовов</string>
      <string name="dndm_special_call_setting_group">Исключения</string>
      <string name="dndm_summary">После включения режима не беспокоить, входящие звонки и сообщения будут без звука</string>
-     <string name="dndm_twelve_hour_time_format">a h:mm</string>
-     <string name="dndm_twenty_four_hour_time_format">HH:mm</string>
      <string name="dndm_vip_call_button_title">Разрешить из списка исключений</string>
      <string name="dndm_vip_call_setting_title">Настрока исключений</string>
      <string name="dndm_vip_call_summary_contact">Все контакты</string>
