@@ -73,6 +73,7 @@
      <string name="confirm_restore_all_title">Восстановить все сообщения от этого номера?</string>
      <string name="confirm_restore_positive">Восстановить</string>
      <string name="confirm_restore_title">Восстановить все выбранные сообщения?</string>
+	 <string name="confirm_send_mms">Один из получателей содержит адрес электронной почты. Это сообщение будет отправлено как MMS, что может привести к дополнительным расходам.</string>
      <string name="context_menu_add_contact">Добавить в контакты</string>
      <string name="context_menu_add_to_browser_favorite">Добавить в избранное браузера</string>
      <string name="context_menu_browse_web">Перейти</string>

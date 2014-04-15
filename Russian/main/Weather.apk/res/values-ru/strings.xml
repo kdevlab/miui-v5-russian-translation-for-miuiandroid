@@ -42,10 +42,11 @@
      <string name="aqi_details_hazardous">Avoid all physical activity outdoors; people with heart or lung disease, older adults, and children should remain indoors and keep activity levels low.</string>
      <string name="aqi_details_light_pollution">People with heart or lung disease, older adults, and children should reduce prolonged or heavy exertion.</string>
      <string name="aqi_details_unhealthy">People with heart or lung disease, older adults, and children should avoid prolonged or heavy exertion; everyone else should reduce prolonged or heavy exertion.</string>
-     <string name="aqi_quality_index_dangerous">dangerous</string>
+     <string name="aqi_quality_index_break">Yikes!</string>
+	 <string name="aqi_quality_index_dangerous">dangerous</string>
      <string name="aqi_quality_index_good">good</string>
      <string name="aqi_quality_index_hazardous">hazardous</string>
-     <string name="aqi_quality_index_light_pollution">light pollution</string>
+     <string name="aqi_quality_index_light_pollution">небольшое загрязнение</string>
      <string name="aqi_quality_index_moderate">moderate</string>
      <string name="aqi_quality_index_pure">excellent</string>
      <string name="aqi_quality_index_unhealthy">unhealthy</string>

@@ -83,6 +83,7 @@
      <string name="unknown_apps_dlg_text">Для обеспечения безопасности на вашем телефоне заблокирована установка приложений, полученных не из Google Play</string>
      <string name="unknown_apps_dlg_title">Установка заблокирована</string>
      <string name="unknown_installer">Неизвестный установщик</string>
+	 <string name="virus_scan_caller_unknown">Неизвестно</string>
      <string name="virus_scan_clear">Удалить</string>
      <string name="virus_scan_install">" "<u>Установить</u>" "</string>
      <string name="virus_scan_is_risk">Приложение с риском на вирус!</string>
