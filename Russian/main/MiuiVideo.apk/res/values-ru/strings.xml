@@ -51,6 +51,7 @@
      <string name="cancel_waitfornewset">Не следить</string>
      <string name="cant_connecting">Не удается подключиться к серверу</string>
      <string name="channel_more">Еще</string>
+	 <string name="check_network">Не удалось подключиться к сети. Проверьте настройки.</string>
      <string name="clear_cache">Очистить кеш</string>
      <string name="clear_cache_success">Кэш очищен</string>
      <string name="clear_cache_summary">Очистить кешированные файлы изображений</string>

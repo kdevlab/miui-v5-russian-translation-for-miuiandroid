@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Builded with NXT -->
 <resources>
-     <string-array name="general_preference_auto_advance_summary_array">
-        <item>"Переходить к новому сообщению после удаления"</item>
-        <item>"Переходить к старому сообщению после удаления"</item>
-        <item>"Переходить к списку сообщений после удаления"</item>
+     <string-array name="compose_modes">
+        <item>Ответить</item>
+        <item>Ответить всем</item>
+        <item>Переслать</item>
      </string-array>
      <string-array name="general_preference_text_zoom_summary_array">
         <item>Мелкий</item>
@@ -12,5 +12,45 @@
         <item>Обычный</item>
         <item>Большой</item>
         <item>Огромный</item>
+     </string-array>
+     <string-array name="menu_att_mgr_sort_string_array">
+        <item>По умолчанию</item>
+        <item>Формат</item>
+        <item>Имя</item>
+        <item>Отправитель</item>
+        <item>Дата</item>
+     </string-array>
+     <string-array name="moveto_folder_sections">
+        <item>Системные</item>
+        <item>Часто используемые</item>
+        <item>Все папки</item>
+     </string-array>
+     <string-array name="prefEntries_autoAdvance">
+        <item>Следующее письмо</item>
+        <item>Предыдущее письмо</item>
+        <item>Список писем</item>
+     </string-array>
+     <string-array name="prefEntries_removal_action">
+        <item>Только архивировать</item>
+        <item>Только удалять</item>
+        <item>Архивировать или удалять</item>
+     </string-array>
+     <string-array name="prefSummaries_autoAdvance">
+        <item>Показывать более позднюю цепочку после удаления текущей</item>
+        <item>Показывать более раннюю цепочку после удаления текущей</item>
+        <item>Показывать список цепочек после удаления текущей цепочки</item>
+     </string-array>
+     <string-array name="prefSummaries_removal_action_summary">
+        <item>Только архивировать</item>
+        <item>Только удалять</item>
+        <item>Архивировать или удалять</item>
+     </string-array>
+     <string-array name="sync_status">
+        <item>Сихронизовано</item>
+        <item>Нет соединения</item>
+        <item>Не удалось войти</item>
+        <item>Ошибка безопасности</item>
+        <item>Ошибка синхронизации</item>
+        <item>Внутренняя ошибка</item>
      </string-array>
 </resources>
