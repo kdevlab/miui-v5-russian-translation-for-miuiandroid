@@ -231,11 +231,16 @@
      <string name="js_engine_flags">Установить флаги JS</string>
      <string name="local_bookmarks">Локальные</string>
      <string name="location">Адрес</string>
+	 <string name="low_memory_error">Не хватает памяти для завершения данной операции</string>
      <string name="max_tabs_warning">Достигнут предел количества вкладок</string>
+	 <string name="media_player_error_button">OK</string>
+     <string name="media_player_error_text_invalid_progressive_playback">Данное видео нельзя проиграть на этом устройстве</string>
+     <string name="media_player_error_text_unknown">Это видео не может быть проиграно</string>
+     <string name="media_player_error_title">Ошибка воспроизведения</string>
+     <string name="media_player_loading_video">Загрузка видео…</string>
      <string name="menu_addtodesk">Добавить на рабочий стол</string>
      <string name="menu_disable_night_mode">Выключить ночной режим</string>
-     <string name="menu_disable_save_bandwidth_mode">Отключить мобильный интернет</string>
-     <string name="menu_download_video">Загруженные видео</string>
+     <string name="menu_disable_save_bandwidth_mode">Отключить мобильный интернет</string>   
      <string name="menu_enable_night_mode">Включить ночной режим</string>
      <string name="menu_enable_save_bandwidth_mode">Включить мобильный интернет</string>
      <string name="menu_exit">Выход</string>
@@ -247,33 +252,37 @@
      <string name="menu_save_bandwidth_mode_first_clicked_txt">"Не использовать мобильные сети для предварительной загрузки страниц и показа изображений"</string>
      <string name="menu_save_bandwidth_mode_open_toast">Включен мобильный интернет</string>
      <string name="menu_save_snapshot">Сохранить страницу</string>
-     <string name="menu_share_url">Отправить</string>
      <string name="menu_theme_setting">Настройки темы</string>
-     <string name="menu_view_download">Загрузки</string>
+	 <string name="miui_content_copy">Копировать</string>
+     <string name="miui_content_cut">Вырезать</string>
+     <string name="miui_content_paste">Вставить</string>
+     <string name="miui_content_select">Выбрать</string>
+     <string name="miui_content_select_all">Выбрать все</string>
+     <string name="miui_content_share">Отправить</string>
+     <string name="miui_content_web_search">Поиск</string>
      <string name="miui_quicksearch_enable_pref_summary">Включает панель быстрого поиска в уведомлениях</string>
      <string name="miui_quicksearch_enable_pref_title">Поиск в уведомлениях</string>
      <string name="miui_search_notification_message">Нажмите, чтобы открыть</string>
      <string name="miui_search_notification_title">Быстрый поиск</string>
+	 <string name="miuichromium_save_password_message">Вы хотите, чтобы браузер запомнил этот пароль?</string>
+     <string name="miuichromium_save_password_never">Никогда</string>
+     <string name="miuichromium_save_password_notnow">Не сейчас</string>
+     <string name="miuichromium_save_password_remember">Запомнить</string>
      <string name="modify_download_path_no_sdcard_dlg_msg">Требуется USB накопитель для изменения</string>
-     <string name="move_to_up_folder">на уровень выше</string>
-     <string name="multi_select_title">Выбрано %1$s закладок</string>
+	 <string name="month_picker_dialog_title">Выберите месяц</string>
+     <string name="move_to_up_folder">Наверх</string>
      <string name="name">Ярлык</string>
      <string name="navigation_button_close">Закрыть</string>
      <string name="navigation_button_newtab">Новая</string>
      <string name="navigation_button_tab">Вкладки</string>
      <string name="navigation_button_view">Вид</string>
-     <string name="network_alert_message">Wi-Fi сеть недоступна. Использовать мобильный интернет?</string>
      <string name="network_show_wifi_setting_tip_dialog_description">Подключиться к сети сейчас?</string>
      <string name="network_show_wifi_setting_tip_dialog_notshow">Запомнить выбор</string>
      <string name="network_show_wifi_setting_tip_dialog_setting_cate_title">Уведомление о Wi-Fi</string>
      <string name="network_show_wifi_setting_tip_dialog_setting_title">При использовании мобильного интернета Вы будете получать уведомления о доступных сетях Wi-Fi</string>
      <string name="network_show_wifi_setting_tip_dialog_title">Доступна сеть Wi-Fi</string>
-     <string name="new_folder">Новая папка</string>
      <string name="new_incognito_tab">Новая вкладка (инкогнито)</string>
      <string name="new_tab">Новая вкладка</string>
-     <string name="no">Нет</string>
-     <string name="no_subfolders">Нет подпапок</string>
-     <string name="not_enough_disk_space_alert">Не хватает места на диске</string>
      <string name="not_remind_again">Больше не напоминать</string>
      <string name="notif_install_successful">Загрузка завершена</string>
      <string name="ok">ОК</string>
@@ -282,7 +291,7 @@
      <string name="open_bookmark">Открыть</string>
      <string name="open_history_group_in_new_window">Открыть всю историю</string>
      <string name="open_history_most_visited_group_in_new_window">Открыть все часто посещаемые сайты</string>
-     <string name="other_bookmarks">Другие закладки</string>
+	 <string name="opening_file_error">Ошибка открытия файла</string>
      <string name="page_info">Информация</string>
      <string name="page_info_address">Адрес:</string>
      <string name="page_info_view">Информация</string>
@@ -293,7 +302,6 @@
      <string name="pref_accessibility_title">Спец. возможности</string>
      <string name="pref_accessibility_url_shortcut_enter_summary">При вводе в адресную строку, общие комбинациями букв могут быть введены в одно нажатие</string>
      <string name="pref_accessibility_url_shortcut_enter_title">Быстрый ввод ссылок</string>
-     <string name="pref_allow_apptabs">Разрешить несколько вкладок в приложении</string>
      <string name="pref_autofill_enabled">Автозаполнение форм</string>
      <string name="pref_autofill_enabled_summary">Быстрое заполнение веб-форм</string>
      <string name="pref_autofill_profile_editor">Текст автозаполнения</string>
@@ -301,6 +309,7 @@
      <string name="pref_autologin_progress">Вход на сайты Google с помощью аккаунта %s</string>
      <string name="pref_autologin_progress_in_background">Вход на сайты Google используя %s в фоне</string>
      <string name="pref_autologin_title">Автоматический вход в систему</string>
+	 <string name="pref_category_title_version">Версия</string>
      <string name="pref_clear_cache_for_exit">Очищать кэш</string>
      <string name="pref_clear_history_for_exit">Очищать историю</string>
      <string name="pref_confirm_for_exit">Подтверждать выход</string>
@@ -312,8 +321,6 @@
      <string name="pref_content_fontsize_setting">Настройки шрифта</string>
      <string name="pref_content_homepage">Стартовая страница</string>
      <string name="pref_content_javascript">Разрешить JavaScript</string>
-     <string name="pref_content_load_images">Загрузка графики</string>
-     <string name="pref_content_load_images_summary">Показывать изображения на веб-страницах</string>
      <string name="pref_content_load_page">Обзор страниц</string>
      <string name="pref_content_load_page_summary">Открывать новые страницы в окне предпросмотра</string>
      <string name="pref_content_night_read_mode">Ночной режим</string>
@@ -328,14 +335,11 @@
      <string name="pref_data_preload_summary">"
 разрешать браузеру предварительно загружать результаты поиска в фоновом режиме"</string>
      <string name="pref_data_preload_title">Загрузка результатов поиска</string>
-     <string name="pref_data_preload_value_never_summary">Запрещать браузеру предварительно загружать результаты поиска в фоновом режиме</string>
      <string name="pref_data_title">Настройки контента</string>
      <string name="pref_default_text_encoding">Кодировка текста</string>
      <string name="pref_default_text_encoding_dialogtitle">Кодировка текста</string>
      <string name="pref_default_zoom">Масштаб по умолчанию</string>
      <string name="pref_default_zoom_dialogtitle">Масштаб по умолчанию</string>
-     <string name="pref_developer_options">Для разработчиков</string>
-     <string name="pref_developer_options_summary">Для отладки или отсылки отладочной информации</string>
      <string name="pref_development_cpu_upload_path">Включить путь загрузки ЦП</string>
      <string name="pref_development_error_console">Показать консоль JavaScript</string>
      <string name="pref_development_hardware_accel">Включить рендеринг OpenGL</string>
@@ -369,7 +373,6 @@
      <string name="pref_general_autofill_title">Автозаполнение</string>
      <string name="pref_general_exit_setting_title">Настройки выхода</string>
      <string name="pref_general_setting_title">Настройки</string>
-     <string name="pref_general_sync_title">Синхронизация</string>
      <string name="pref_general_title">Общие</string>
      <string name="pref_gesture_title">Жесты</string>
      <string name="pref_image_display_control">Загрузка изображений</string>
@@ -385,11 +388,6 @@
      <string name="pref_inverted_summary">Инвертировать цвета на веб-страницах</string>
      <string name="pref_key_gesture_title">Кнопки и жесты</string>
      <string name="pref_key_title">Настройки кнопок</string>
-     <string name="pref_lab_fullscreen">Во весь экран</string>
-     <string name="pref_lab_fullscreen_summary">Чтобы скрыть строку состояния, используйте полноэкранный режим</string>
-     <string name="pref_lab_quick_controls">Панель инструментов</string>
-     <string name="pref_lab_quick_controls_summary">Чтобы открыть панель инструментов, начните перелистывать страницу справа или слева</string>
-     <string name="pref_lab_title">Лаборатория Google</string>
      <string name="pref_link_prefetch_dialogtitle">Загрузка веб-страниц</string>
      <string name="pref_link_prefetch_summary">"
 разрешать браузеру предварительно загружать связанные веб-страницы в фоновом режиме"</string>
@@ -439,17 +437,19 @@
      <string name="pref_text_zoom">Масштабирование текста</string>
      <string name="pref_ua_string">Агент пользователя</string>
      <string name="pref_ua_title">Настройки UserAgent</string>
-     <string name="pref_use_instant_search">Живой поиск Google</string>
-     <string name="pref_use_instant_search_summary">В живом поиске результаты появляются прямо при вводе текста (возможно увеличение объема передаваемых данных)</string>
+	 <string name="pref_version_summary">Версия:%s</string>
      <string name="pref_video_preload_dialogtitle">Загрузка видео</string>
      <string name="pref_video_preload_summary">"
 разрешать браузеру предварительно загружать видео файлы"</string>
      <string name="pref_video_preload_title">Загрузка видео</string>
-     <string name="pref_video_preload_value_never_summary">Не разрешать браузеру предзагрузку видео файлов</string>
      <string name="pref_volume_key_enabled">Клавиши громкости</string>
      <string name="pref_volume_key_operation">Функция клавиш громкости</string>
      <string name="pref_zoom_on_double_tap">Увеличение двойным нажатием</string>
      <string name="preview">Предварительный просмотр</string>
+	 <string name="profiler_error_toast">Не удалось запустить профайлер</string>
+	 <string name="profiler_no_storage_toast">Не удается запустить профилировщик. Нет SD-карты.</string>
+     <string name="profiler_started_toast">Профайлер запущен</string>
+     <string name="profiler_stopped_toast">Профайлер завершен. Результаты: %1$s.</string>
      <string name="progress_dialog_setting_wallpaper">Установка обоев…</string>
      <string name="quicklink_saved_before">Сайт уже добавлен</string>
      <string name="quicklink_user_define_webpage_title">Имя</string>
@@ -473,7 +473,6 @@
      <string name="readmode_refresh">Обновить</string>
      <string name="readmodelist_bookmarks_to_show">Список чтения</string>
      <string name="recover">Восстановить</string>
-     <string name="recover_from_crash">Восстановить последнюю сессию</string>
      <string name="reload">Обновить</string>
      <string name="remove">Удалить</string>
      <string name="remove_bookmark">Удалить закладку</string>
@@ -482,7 +481,6 @@
      <string name="remove_snapshot">Удалить сохраненную страницу</string>
      <string name="removed_from_bookmarks">Удалено из закладок</string>
      <string name="replace">Заменить</string>
-     <string name="report_reading_mode_issue">Отправить ошибку режима чтения в MIUI</string>
      <string name="return_to_homepage">Домашняя страница</string>
      <string name="same_bookmarks_warning">Эта закладка уже существует</string>
      <string name="same_folder_name_warning">Эта папка уже существует</string>
@@ -492,6 +490,8 @@
      <string name="save_file_already_exist_alert_message">"Файл уже существует. 
 Перезаписать его?"</string>
      <string name="save_file_already_exist_alert_title">Внимание</string>
+	 <string name="save_image_failed">Ошибка сохранения изображения</string>
+     <string name="save_image_success">Изображение сохранено</string>
      <string name="save_to_bookmarks">Добавить закладку</string>
      <string name="saving_snapshot">Сохраняется…</string>
      <string name="search">Поиск</string>
@@ -506,7 +506,6 @@
      <string name="search_shipin">Video</string>
      <string name="search_sogou">Segou</string>
      <string name="search_taobao">Taobao</string>
-     <string name="search_the_web">Поиск в интернете</string>
      <string name="search_tupian">Image</string>
      <string name="search_yahoo">Yahoo</string>
      <string name="search_yandex">Яндекс</string>
@@ -520,8 +519,6 @@
      <string name="set_as_homepage">Сделать главной страницей</string>
      <string name="share_link">Поделиться</string>
      <string name="share_page">Поделиться</string>
-     <string name="shortcut_bookmark">Закладка</string>
-     <string name="shortcut_bookmark_title">Выберите закладку</string>
      <string name="sign_in_to" formatted="false">Войти в %s1 \"%s2\"</string>
      <string name="snapshot_failed">Не удалось сохранить страницу</string>
      <string name="snapshot_go_live">Интерактивная версия</string>
@@ -537,11 +534,17 @@
      <string name="ssl_warnings_header">У этого сайта проблемы с сертификатом безопасности</string>
      <string name="stop">Стоп</string>
      <string name="stop_loading">Стоп</string>
-     <string name="stopping">Остановка…</string>
      <string name="storage_internal">Внутренняя память</string>
      <string name="storage_sd_card">SD-карта</string>
      <string name="storage_usb">USB-накопитель</string>
-     <string name="tab_bookmarks">Закладки</string>
+     <string name="sub_sync_item_browser_title_cloud_tab">Синхр. вкладки</string>
+     <string name="sub_sync_item_browser_title_cloud_tab_summary">Синхронизировать открытые вкладки на различных устройствах</string>
+     <string name="sub_sync_item_browser_title_history">Синхр. истории</string>
+     <string name="sub_sync_item_browser_title_history_summary">Синхронизировать историю просмотров</string>
+     <string name="sub_sync_item_browser_title_novel">Sync novels</string>
+     <string name="sub_sync_item_browser_title_novel_summary">Sync novels of browser</string>
+     <string name="sync_item_browser_summary">Синхронизировать данные в облако - легкое использование браузера на разных устройствах</string>
+     <string name="sync_item_browser_title">Синхронизация браузера</string>
      <string name="tab_closed">Вкладка закрыта</string>
      <string name="tab_history">История</string>
      <string name="tab_most_visited">Часто посещаемые</string>
@@ -550,9 +553,10 @@
      <string name="tab_quicklinks">Ссылки</string>
      <string name="tab_snapshots">Сохраненные страницы</string>
      <string name="tab_yellowpage">Категории</string>
+	 <string name="time_picker_dialog_am">AM</string>
+     <string name="time_picker_dialog_pm">PM</string>
+     <string name="time_picker_dialog_title">Установка времени</string>
      <string name="title_bar_loading">Загрузка…</string>
-     <string name="too_many_subwindows_dialog_message">Можно открыть только одно всплывающее окно</string>
-     <string name="too_many_subwindows_dialog_title">Всплывающее окно уже открыто</string>
      <string name="too_many_windows_dialog_message">Невозможно открыть новую вкладку: закройте хотя бы одну</string>
      <string name="too_many_windows_dialog_title">Открыто макс. число вкладок</string>
      <string name="ua_switcher_desktop">Полная версия</string>
@@ -564,18 +568,6 @@
      <string name="username">Имя</string>
      <string name="view_certificate">Сертификат</string>
      <string name="warning">Внимание</string>
-     <string name="webapp_add_to_desktop">Добавить на стол</string>
-     <string name="webapp_addtodeskpop_append">Добавлено</string>
-     <string name="webapp_app_name">Веб-маркет приложений</string>
-     <string name="webapp_bottom_bar_addtodesk">На стол</string>
-     <string name="webapp_bottom_bar_exit">Выход</string>
-     <string name="webapp_bottom_bar_hidebar">Скрыть бар</string>
-     <string name="webapp_bottom_bar_openbrowser">Открыть в браузере</string>
-     <string name="webapp_bottom_bar_showbar">Показать бар</string>
-     <string name="webapp_dialog_title">Добавить приложение на рабочий стол?</string>
-     <string name="webapp_splashview_loading">Загрузка, подождите…</string>
-     <string name="webapp_web_forward">Вперед</string>
-     <string name="webapp_web_goback">Назад</string>
      <string name="website_settings_clear_all">Удалить все</string>
      <string name="website_settings_clear_all_dialog_cancel_button">Отмена</string>
      <string name="website_settings_clear_all_dialog_message">Удалить все данные веб-сайта и разрешения на доступ к сведениям о вашем местоположении?</string>
@@ -587,5 +579,20 @@
      <string name="webstorage_origin_summary_mb_stored">Объем занятой памяти телефона (МБ)</string>
      <string name="webstorage_outofspace_notification_text">Нажмите, чтобы освободить место</string>
      <string name="webstorage_outofspace_notification_title">Память браузера переполнена</string>
-     <string name="yes">Да</string>
+     <string name="webview_cancel">Отмена</string>
+     <string name="webview_find_on_page">Поиск на странице</string>
+     <string name="webview_js_dialog_before_unload">"%s
+
+Вы уверены, что хотите покинуть эту страницу?"</string>
+     <string name="webview_js_dialog_before_unload_negative_button">Остаться</string>
+     <string name="webview_js_dialog_before_unload_positive_button">Покинуть</string>
+     <string name="webview_js_dialog_before_unload_title">Подтверждение перехода</string>
+     <string name="webview_js_dialog_title">Страница \"%s\" сообщает:</string>
+     <string name="webview_last_month">В прошлом месяце</string>
+     <string name="webview_no_matches">Нет совпадений</string>
+     <string name="webview_ok">OK</string>
+     <string name="webview_older">Ранее</string>
+     <string name="webview_today">Сегодня</string>
+     <string name="webview_yesterday">Вчера</string>
+     <string name="week_picker_dialog_title">Установка недели</string>
 </resources>
