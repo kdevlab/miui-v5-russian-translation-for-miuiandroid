@@ -5,95 +5,95 @@
         <item quantity="other">Новых сообщений: %1$d</item>
      </plurals>
      <plurals name="confirm_archive_conversation">
-        <item quantity="other">Архивировать эти цепочки (%1$d)?</item>
         <item quantity="one">Архивировать эту цепочку?</item>
+        <item quantity="other">Архивировать эти цепочки (%1$d)?</item>
      </plurals>
      <plurals name="confirm_delete_conversation">
-        <item quantity="other">Удалить эти цепочки (%1$d)?</item>
         <item quantity="one">Удалить эту цепочку?</item>
+        <item quantity="other">Удалить эти цепочки (%1$d)?</item>
      </plurals>
      <plurals name="confirm_delete_conversation_with_sub">
-        <item quantity="other">Переписки содержат объедененные элементы. Хотите удалить их все?</item>
         <item quantity="one">Переписка содержит объедененные элементы. Хотите удалить их все?</item>
+        <item quantity="other">Переписки содержат объедененные элементы. Хотите удалить их все?</item>
      </plurals>
      <plurals name="confirm_discard_drafts_conversation">
-        <item quantity="other">Удалить черновики из этих цепочек (%1$d)?</item>
         <item quantity="one">Удалить черновики из этой цепочки?</item>
+        <item quantity="other">Удалить черновики из этих цепочек (%1$d)?</item>
      </plurals>
      <plurals name="conversation_archived">
-        <item quantity="other">Заархивировано: (&amp;lt;b>%1$d&amp;lt;/b>)</item>
         <item quantity="one">Заархивировано: (&amp;lt;b>%1$d&amp;lt;/b>)</item>
+        <item quantity="other">Заархивировано: (&amp;lt;b>%1$d&amp;lt;/b>)</item>
      </plurals>
      <plurals name="conversation_deleted">
-        <item quantity="other">Удаленных цепочек: &amp;lt;b>%1$d&amp;lt;/b></item>
         <item quantity="one">Удаленных цепочек: &amp;lt;b>%1$d&amp;lt;/b></item>
+        <item quantity="other">Удаленных цепочек: &amp;lt;b>%1$d&amp;lt;/b></item>
      </plurals>
      <plurals name="conversation_folder_changed">
-        <item quantity="other">Папки изменены</item>
         <item quantity="one">Папка изменена</item>
+        <item quantity="other">Папки изменены</item>
      </plurals>
      <plurals name="conversation_muted">
-        <item quantity="other">Скрытых цепочек: &amp;lt;b>%1$d&amp;lt;/b></item>
         <item quantity="one">Скрытых цепочек: &amp;lt;b>%1$d&amp;lt;/b></item>
+        <item quantity="other">Скрытых цепочек: &amp;lt;b>%1$d&amp;lt;/b></item>
      </plurals>
      <plurals name="conversation_not_important">
-        <item quantity="other">Цепочек, помеченных как неважные: &amp;lt;b>%1$d&amp;lt;/b></item>
         <item quantity="one">Цепочек, помеченных как неважные: &amp;lt;b>%1$d&amp;lt;/b></item>
+        <item quantity="other">Цепочек, помеченных как неважные: &amp;lt;b>%1$d&amp;lt;/b></item>
      </plurals>
      <plurals name="conversation_not_spam">
-        <item quantity="other">Цепочек, помеченных как не спам: &amp;lt;b>%1$d&amp;lt;/b></item>
         <item quantity="one">Цепочек, помеченных как не спам: &amp;lt;b>%1$d&amp;lt;/b></item>
+        <item quantity="other">Цепочек, помеченных как не спам: &amp;lt;b>%1$d&amp;lt;/b></item>
      </plurals>
      <plurals name="conversation_phished">
-        <item quantity="other">Цепочек, помеченных как фишинг: &amp;lt;b>%1$d&amp;lt;/b></item>
         <item quantity="one">Цепочек, помеченных как фишинг: &amp;lt;b>%1$d&amp;lt;/b></item>
+        <item quantity="other">Цепочек, помеченных как фишинг: &amp;lt;b>%1$d&amp;lt;/b></item>
      </plurals>
      <plurals name="conversation_spammed">
-        <item quantity="other">Цепочек, помеченных как спам: &amp;lt;b>%1$d&amp;lt;/b></item>
         <item quantity="one">Цепочек, помеченных как спам: &amp;lt;b>%1$d&amp;lt;/b></item>
+        <item quantity="other">Цепочек, помеченных как спам: &amp;lt;b>%1$d&amp;lt;/b></item>
      </plurals>
      <plurals name="conversation_unstarred">
-        <item quantity="other">Цепочек, удаленных из избранного: %1$d</item>
         <item quantity="one">Цепочек, удаленных из избранного: %1$d</item>
+        <item quantity="other">Цепочек, удаленных из избранного: %1$d</item>
      </plurals>
      <plurals name="draft">
-        <item quantity="other">Черновики</item>
         <item quantity="one">Черновик</item>
+        <item quantity="other">Черновики</item>
      </plurals>
      <plurals name="empty_folder_dialog_message">
-        <item quantity="other">Сообщения (%1$d) будут удалены без возможности восстановления</item>
         <item quantity="one">%1$d сообщение будет удалено без возможности восстановления</item>
+        <item quantity="other">Сообщения (%1$d) будут удалены без возможности восстановления</item>
      </plurals>
      <plurals name="message_view_attachment_bytes">
-        <item quantity="other">%d Б</item>
         <item quantity="one">%d Б</item>
+        <item quantity="other">%d Б</item>
      </plurals>
      <plurals name="message_view_attachment_gigabytes">
-        <item quantity="other">%d ГБ</item>
         <item quantity="one">%d ГБ</item>
+        <item quantity="other">%d ГБ</item>
      </plurals>
      <plurals name="message_view_attachment_kilobytes">
-        <item quantity="other">%d КБ</item>
         <item quantity="one">%d КБ</item>
+        <item quantity="other">%d КБ</item>
      </plurals>
      <plurals name="message_view_attachment_megabytes">
-        <item quantity="other">%d МБ</item>
         <item quantity="one">%d МБ</item>
+        <item quantity="other">%d МБ</item>
      </plurals>
      <plurals name="move_conversation">
-        <item quantity="other">Переместить цепочки (%1$d)</item>
         <item quantity="one">Переместить цепочку</item>
+        <item quantity="other">Переместить цепочки (%1$d)</item>
      </plurals>
      <plurals name="move_messages">
-        <item quantity="other">Переместить сообщения</item>
         <item quantity="one">Переместить сообщение</item>
+        <item quantity="other">Переместить сообщения</item>
      </plurals>
      <plurals name="new_incoming_messages_many">
         <item quantity="other">Новых сообщений: %1$d. Показать.</item>
      </plurals>
      <plurals name="num_selected">
-        <item quantity="other">Выбрано: %d</item>
         <item quantity="one">Выбрано: 1</item>
+        <item quantity="other">Выбрано: %d</item>
      </plurals>
      <plurals name="show_messages_read">
         <item quantity="other">Старых сообщений: %1$d</item>

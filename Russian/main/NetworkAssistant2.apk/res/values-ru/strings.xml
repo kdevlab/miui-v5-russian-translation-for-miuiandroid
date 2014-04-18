@@ -66,7 +66,7 @@
      <string name="lock_screen_traffic_warn_title">Предупреждение трафика</string>
      <string name="main_alert_message_no_imsi">SIM-карта не обнаружена</string>
      <string name="main_alert_message_no_mobile_package">Лимит мобильного трафика не установлен</string>
-	 <string name="main_alert_message_slot_no_data_connection">"Слот SIM-карты не поддерживает 
+     <string name="main_alert_message_slot_no_data_connection">"Слот SIM-карты не поддерживает 
 подключение к мобильному интернету"</string>
      <string name="main_button_idel_traffic">Предел</string>
      <string name="main_button_normal_traffic">Пакет</string>

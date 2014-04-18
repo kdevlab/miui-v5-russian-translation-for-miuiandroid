@@ -167,7 +167,7 @@
      <string name="settings_custom_notification">Настроить уведомления</string>
      <string name="settings_expandable_under_fullscreen">Полноэкранные приложения</string>
      <string name="settings_expandable_under_fullscreen_summary">Возможность доступа к панели состояния при работе с полноэкранными приложениями.</string>
-     <string name="settings_expandable_under_keyguard">Заблокированный экран</string>
+     <string name="settings_expandable_under_keyguard">На экране блокировки</string>
      <string name="settings_expandable_under_keyguard_summary">Возможность доступа к панели состояния в заблокированном режиме (если не установлен графический ключ).</string>
      <string name="settings_expanded_view">Настройки раскрытия</string>
      <string name="settings_no_carrier">Ничего</string>

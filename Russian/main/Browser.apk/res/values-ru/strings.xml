@@ -18,7 +18,7 @@
      <string name="accessibility_time_picker_second">Секунда</string>
      <string name="account">Аккаунт</string>
      <string name="action">Войти</string>
-	 <string name="actionbar_share">Поделиться</string>
+     <string name="actionbar_share">Поделиться</string>
      <string name="actionbar_web_search">Поиск в интернете</string>
      <string name="add_bookmark">Добавить закладку</string>
      <string name="add_folder">Новая папка</string>
@@ -94,7 +94,7 @@
      <string name="clip_dialog_title">Открыть скопированную ссылку?</string>
      <string name="close_all_tab_alert_message">Закрыть все вкладки?</string>
      <string name="close_all_tab_alert_title">Подтверждение закрытия</string>
-	 <string name="cloud_tab">Облачная вкладка</string>
+     <string name="cloud_tab">Облачная вкладка</string>
      <string name="color_picker_button_black">Черный</string>
      <string name="color_picker_button_blue">Синий</string>
      <string name="color_picker_button_cancel">Отмена</string>
@@ -139,7 +139,7 @@
      <string name="contextmenu_view_image">Просмотр изображения</string>
      <string name="copy_link">Копировать URL</string>
      <string name="create_shortcut_bookmark">Ярлык на рабочий стол</string>
-	 <string name="date_picker_dialog_clear">Очистить</string>
+     <string name="date_picker_dialog_clear">Очистить</string>
      <string name="date_picker_dialog_set">ОК</string>
      <string name="date_picker_dialog_title">Выберите дату</string>
      <string name="date_time_picker_dialog_title">Выберите дату и время</string>
@@ -226,21 +226,21 @@
      <string name="is_last_tab">На последней вкладке</string>
      <string name="is_page_bottom">Достигнут низ страницы</string>
      <string name="is_page_top">Достигнут верх страницы</string>
-	 <string name="js_disable_confirm_message">Отключение JavaScript может привести к неправильному отображению некоторых сайтов. Продолжить?</string>
+     <string name="js_disable_confirm_message">Отключение JavaScript может привести к неправильному отображению некоторых сайтов. Продолжить?</string>
      <string name="js_disable_confirm_title">Отключение JavaScript</string>
      <string name="js_engine_flags">Установить флаги JS</string>
      <string name="local_bookmarks">Локальные</string>
      <string name="location">Адрес</string>
-	 <string name="low_memory_error">Не хватает памяти для завершения данной операции</string>
+     <string name="low_memory_error">Не хватает памяти для завершения данной операции</string>
      <string name="max_tabs_warning">Достигнут предел количества вкладок</string>
-	 <string name="media_player_error_button">OK</string>
+     <string name="media_player_error_button">OK</string>
      <string name="media_player_error_text_invalid_progressive_playback">Данное видео нельзя проиграть на этом устройстве</string>
      <string name="media_player_error_text_unknown">Это видео не может быть проиграно</string>
      <string name="media_player_error_title">Ошибка воспроизведения</string>
      <string name="media_player_loading_video">Загрузка видео…</string>
      <string name="menu_addtodesk">Добавить на рабочий стол</string>
      <string name="menu_disable_night_mode">Выключить ночной режим</string>
-     <string name="menu_disable_save_bandwidth_mode">Отключить мобильный интернет</string>   
+     <string name="menu_disable_save_bandwidth_mode">Отключить мобильный интернет</string>
      <string name="menu_enable_night_mode">Включить ночной режим</string>
      <string name="menu_enable_save_bandwidth_mode">Включить мобильный интернет</string>
      <string name="menu_exit">Выход</string>
@@ -253,7 +253,7 @@
      <string name="menu_save_bandwidth_mode_open_toast">Включен мобильный интернет</string>
      <string name="menu_save_snapshot">Сохранить страницу</string>
      <string name="menu_theme_setting">Настройки темы</string>
-	 <string name="miui_content_copy">Копировать</string>
+     <string name="miui_content_copy">Копировать</string>
      <string name="miui_content_cut">Вырезать</string>
      <string name="miui_content_paste">Вставить</string>
      <string name="miui_content_select">Выбрать</string>
@@ -264,12 +264,12 @@
      <string name="miui_quicksearch_enable_pref_title">Поиск в уведомлениях</string>
      <string name="miui_search_notification_message">Нажмите, чтобы открыть</string>
      <string name="miui_search_notification_title">Быстрый поиск</string>
-	 <string name="miuichromium_save_password_message">Вы хотите, чтобы браузер запомнил этот пароль?</string>
+     <string name="miuichromium_save_password_message">Вы хотите, чтобы браузер запомнил этот пароль?</string>
      <string name="miuichromium_save_password_never">Никогда</string>
      <string name="miuichromium_save_password_notnow">Не сейчас</string>
      <string name="miuichromium_save_password_remember">Запомнить</string>
      <string name="modify_download_path_no_sdcard_dlg_msg">Требуется USB накопитель для изменения</string>
-	 <string name="month_picker_dialog_title">Выберите месяц</string>
+     <string name="month_picker_dialog_title">Выберите месяц</string>
      <string name="move_to_up_folder">Наверх</string>
      <string name="name">Ярлык</string>
      <string name="navigation_button_close">Закрыть</string>
@@ -291,7 +291,7 @@
      <string name="open_bookmark">Открыть</string>
      <string name="open_history_group_in_new_window">Открыть всю историю</string>
      <string name="open_history_most_visited_group_in_new_window">Открыть все часто посещаемые сайты</string>
-	 <string name="opening_file_error">Ошибка открытия файла</string>
+     <string name="opening_file_error">Ошибка открытия файла</string>
      <string name="page_info">Информация</string>
      <string name="page_info_address">Адрес:</string>
      <string name="page_info_view">Информация</string>
@@ -309,7 +309,7 @@
      <string name="pref_autologin_progress">Вход на сайты Google с помощью аккаунта %s</string>
      <string name="pref_autologin_progress_in_background">Вход на сайты Google используя %s в фоне</string>
      <string name="pref_autologin_title">Автоматический вход в систему</string>
-	 <string name="pref_category_title_version">Версия</string>
+     <string name="pref_category_title_version">Версия</string>
      <string name="pref_clear_cache_for_exit">Очищать кэш</string>
      <string name="pref_clear_history_for_exit">Очищать историю</string>
      <string name="pref_confirm_for_exit">Подтверждать выход</string>
@@ -437,7 +437,7 @@
      <string name="pref_text_zoom">Масштабирование текста</string>
      <string name="pref_ua_string">Агент пользователя</string>
      <string name="pref_ua_title">Настройки UserAgent</string>
-	 <string name="pref_version_summary">Версия:%s</string>
+     <string name="pref_version_summary">Версия:%s</string>
      <string name="pref_video_preload_dialogtitle">Загрузка видео</string>
      <string name="pref_video_preload_summary">"
 разрешать браузеру предварительно загружать видео файлы"</string>
@@ -446,8 +446,8 @@
      <string name="pref_volume_key_operation">Функция клавиш громкости</string>
      <string name="pref_zoom_on_double_tap">Увеличение двойным нажатием</string>
      <string name="preview">Предварительный просмотр</string>
-	 <string name="profiler_error_toast">Не удалось запустить профайлер</string>
-	 <string name="profiler_no_storage_toast">Не удается запустить профилировщик. Нет SD-карты.</string>
+     <string name="profiler_error_toast">Не удалось запустить профайлер</string>
+     <string name="profiler_no_storage_toast">Не удается запустить профилировщик. Нет SD-карты.</string>
      <string name="profiler_started_toast">Профайлер запущен</string>
      <string name="profiler_stopped_toast">Профайлер завершен. Результаты: %1$s.</string>
      <string name="progress_dialog_setting_wallpaper">Установка обоев…</string>
@@ -490,7 +490,7 @@
      <string name="save_file_already_exist_alert_message">"Файл уже существует. 
 Перезаписать его?"</string>
      <string name="save_file_already_exist_alert_title">Внимание</string>
-	 <string name="save_image_failed">Ошибка сохранения изображения</string>
+     <string name="save_image_failed">Ошибка сохранения изображения</string>
      <string name="save_image_success">Изображение сохранено</string>
      <string name="save_to_bookmarks">Добавить закладку</string>
      <string name="saving_snapshot">Сохраняется…</string>
@@ -553,7 +553,7 @@
      <string name="tab_quicklinks">Ссылки</string>
      <string name="tab_snapshots">Сохраненные страницы</string>
      <string name="tab_yellowpage">Категории</string>
-	 <string name="time_picker_dialog_am">AM</string>
+     <string name="time_picker_dialog_am">AM</string>
      <string name="time_picker_dialog_pm">PM</string>
      <string name="time_picker_dialog_title">Установка времени</string>
      <string name="title_bar_loading">Загрузка…</string>

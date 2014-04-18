@@ -181,65 +181,39 @@
      <string name="activity_mailbox_selection">Выбрать аккаунт</string>
      <string name="add_account">Добавить аккаунт</string>
      <string name="add_attachment">Прикрепить файл</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="add_bcc_label">Скрытая копия</string>
      <string name="add_cc_label">Копия</string>
      <string name="add_file_attachment">Прикрепить файл</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="add_label">Добавить папку</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="add_photo_attachment">Прикрепить фото</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="add_star">Пометить</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="add_video_attachment">Прикрепить видео</string>
      <string name="address_display_format">%1$s | %2$s</string>
      <string name="address_display_format_with_via_domain">%1$s (%2$s из домена %3$s)</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="all_folders_heading">Все папки</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="always_bcc_myself">Mail Always Bcc Myself</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="always_show_images">Всегда открывать картинки от этого отправителя</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="always_show_images_toast">Картинки этого отправителя будут всегда показываться</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="annex_size">attachments</string>
      <string name="app_name">Почта</string>
      <string name="application_mime_type">application/email-ls</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="archive">В архив</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="archived">Отправлено в архив</string>
      <string name="att_mgr_no_attachment">Нет вложений!</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="att_mgr_title_order_mime">Формат</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="att_mgr_title_order_name">Имя</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="att_mgr_title_order_rev_date">Дата</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="att_mgr_title_order_sender">Отправитель</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="att_mgr_title_order_size">Размер файла</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="attached_message">Прикрепленные сообщения</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="attachment_application_msword">Документ</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="attachment_application_pdf">PDF</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="attachment_application_vnd_ms_excel">Таблица</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="attachment_application_vnd_ms_powerpoint">Презентация</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="attachment_audio">Аудио</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="attachment_image">Изображение</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="attachment_mgr_name">Вложение</string>
      <string name="attachment_not_found">Не удалось загрузить файл</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="attachment_text">Текст</string>
      <string name="attachment_type_blocked">Не удается сохранить или открыть этот тип прикрепленных файлов</string>
      <string name="attachment_unknown">Файл %s</string>
@@ -268,7 +242,7 @@
      <string name="cc_heading">"Копия: "</string>
      <string name="change_account_confirm">Учетная запись \"%1$s\" будет удалена. Продолжить?</string>
      <string name="change_account_type">Смена типа аккаунта</string>
-	 <string name="change_folders_selection_dialog_title">Изменение папок</string>
+     <string name="change_folders_selection_dialog_title">Изменение папок</string>
      <string name="change_sync_settings">Настройки синхронизации</string>
      <string name="checking_for_mail">Проверка почты…</string>
      <string name="choosertitle_sharevia">Отправить через</string>
@@ -306,9 +280,8 @@
      <string name="contextmenu_send_mail">Отправить письмо</string>
      <string name="contextmenu_sharelink">Отправить ссылку</string>
      <string name="contextmenu_sms_dot">Сообщение…</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="conversation_content_provider">Conversation Content Provider</string>
-    <string name="conversation_folder_moved">Перемещено в папку \"%1$s\"</string>
+     <string name="conversation_folder_moved">Перемещено в папку \"%1$s\"</string>
      <string name="conversation_photo_welcome_text">Чтобы открыть цепочку писем, нажмите на фото отправителя</string>
      <string name="copy_email">Скопировать адрес эл. почты</string>
      <string name="copy_number">Скопировать номер телефона</string>
@@ -380,7 +353,7 @@
      <string name="forward_attribution_no_headers">---------- Пересылаемое сообщение ----------</string>
      <string name="forward_download_failed_ticker">Сбой при пересылке прикрепленных файлов</string>
      <string name="forward_download_failed_title">Не удалось переслать вложение</string>
-    <string name="forward_subject_label">Fwd:</string>
+     <string name="forward_subject_label">Fwd:</string>
      <string name="from">От</string>
      <string name="from_heading">"От: "</string>
      <string name="general_preference_confirm_delete_label">Подтверждать удаление</string>
@@ -525,16 +498,11 @@
      <string name="notification_action_reply">Ответить</string>
      <string name="notification_action_reply_all">Ответить всем</string>
      <string name="notification_action_undo_archive">Отправлено в архив</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="notification_action_undo_delete">Deleted</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="notification_action_undo_remove_label">Label Removed</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="notification_exchange_calendar_added">Exchange calendar added</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="ok">OK</string>
      <string name="okay_action">ОК</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="other_mail">Other mail</string>
      <string name="password_changed_prompt">"Couldn't sign in."</string>
      <string name="password_expire_warning_content_title">Истекает срок действия пароля</string>
@@ -549,20 +517,15 @@
      <string name="permission_access_provider_label">Доступ к данным сервиса эл. почты</string>
      <string name="permission_read_attachment_desc">Приложение получит доступ к прикрепленным файлам в сообщениях эл. почты</string>
      <string name="permission_read_attachment_label">Открывать прикрепленные файлы</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="phone">phone</string>
      <string name="photo_load_failed">"Couldn't load image"</string>
      <string name="photo_view_count" formatted="false">%d of %d</string>
      <string name="please_fill_in_your_mailbox_information">Please fill in your% s mailbox-related information:</string>
      <string name="please_fill_in_your_mailbox_information2">Please fill in your mailbox-related information:</string>
      <string name="please_wait">Please wait…</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="policy_app_blacklist">Disallow specified apps</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="policy_app_whitelist">Allow only specified apps</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="policy_bluetooth_restricted">Restrict Bluetooth usage</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="policy_calendar_age">Limit the number of calendar events synced</string>
      <string name="policy_dont_allow_attachments">"Don't allow attachments"</string>
      <string name="policy_dont_allow_browser">"Don't allow browsers"</string>
@@ -577,78 +540,44 @@
      <string name="policy_dont_allow_unsigned_apps">"Don't allow unsigned apps"</string>
      <string name="policy_dont_allow_unsigned_installers">"Don't allow unsigned app installers"</string>
      <string name="policy_dont_allow_wifi">"Don't allow Wi-Fi"</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="policy_email_age">Limit the number of emails synced</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="policy_html_truncation">Restrict HTML email size</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="policy_max_attachment_size">Restrict attachment size</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="policy_password_expiration">Require passwords to expire</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="policy_password_history">Restrict the reuse of recent passwords</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="policy_require_encryption">Require device encryption</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="policy_require_manual_sync_roaming">Only allow manual sync while roaming</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="policy_require_password">Require device password</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="policy_require_sd_encryption">Require SD card encryption</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="policy_require_smime">Require SMIME messages</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="policy_screen_timeout">Require an idle device to lock its screen</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="policy_text_truncation">Restrict text email size</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="pop3_name">POP3</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="prefDefault_autoAdvance">list</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="prefDefault_removal_action">archive</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="prefDialogTitle_conversationListIcon">Sender image</string>
      <string name="prefDialogTitle_removal_action">Archive &amp; delete actions</string>
      <string name="preference_removal_action_title">Archive &amp; delete actions</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="preference_sender_image_description">Show beside name in conversation list</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="preference_sender_image_title">Sender image</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="preference_swipe_description">In conversation list</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="preference_swipe_title_archive">Swipe to archive</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="preference_swipe_title_delete">Swipe to delete</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="preferences_default_reply_all_summary">Использовать по умолчанию для всех уведомлений</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="preferences_default_reply_all_title">Reply all</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="preferences_signature_dialog_title">Signature</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="preferences_signature_summary_not_set">Not set</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="preferences_signature_title">Signature</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="preview_attachment">Preview</string>
      <string name="previous_action">Назад</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="prompt_title">Prompt</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="protocol">Protocol</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="protocol_eas">eas</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="protocol_imap">imap</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="protocol_legacy_imap">imap</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="protocol_pop3">pop3</string>
      <string name="provider_note_live">Доступ по протоколу POP, позволяющий этой программе подключаться, разрешен только в некоторых аккаунтах Plus. Если вам не удается войти с помощью своего адреса электронной почты и пароля, скорее всего, у вас бесплатный аккаунт (не Plus). Чтобы войти в такой аккаунт, используйте браузер</string>
      <string name="provider_note_t_online">Прежде чем настраивать аккаунт, перейдите на веб-сайт оператора связи и установите пароль для доступа к электронной почте по протоколу POP3</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="pull_to_refresh">Pull to refresh</string>
      <string name="quick_1">Thanks!</string>
      <string name="quick_2">Sounds good to me!</string>
@@ -656,156 +585,102 @@
      <string name="quick_4">"Let's set up a meeting to discuss this."</string>
      <string name="quick_responses_empty_view">Нет шаблонов для быстрых ответов</string>
      <string name="quote_begin">&lt;div class=\"quote\"></string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="quoted_text">Include quoted text</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="quoted_text_label">Quote text</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="read_string">conversation read</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="recent_folders_heading">Recent folders</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="recipient_error_dialog_title">Recipient error</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="recipient_needed">Add at least one recipient.</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="refresh">Refresh</string>
      <string name="refreshing">Refreshing…</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="release_to_refresh">Release to refresh</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="remote_folders_heading">Server Folders</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="remove_account">Remove account</string>
      <string name="remove_account_confirm">The account \"%1$s\" will be removed from WPSMail.</string>
      <string name="remove_folder">Remove from %1$s</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="remove_star">Remove star</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="reply">Reply</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="reply_all">Reply all</string>
      <string name="reply_attribution" formatted="false">On %s, %s wrote:</string>
      <string name="reply_subject_label">Re:</string>
      <string name="replyto_heading">"Reply-to: "</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="report">Report</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="report_phishing">Report phishing</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="report_rendering_improvement">Looks good</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="report_rendering_improvement_desc">This message looks good.</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="report_rendering_problem">Looks bad</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="report_rendering_problem_desc">This message looks bad.</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="report_spam">Report spam</string>
      <string name="require_manual_sync_message">Фоновая синхронизация отключена для этой учетной записи в роуминге</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="respond_inline">Respond inline</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="resume_draft">Edit</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="retry">Retry</string>
      <string name="save_action">Сохранить</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="save_attachment">Save</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="save_draft">Save draft</string>
      <string name="saved">Saved, %s</string>
      <string name="saving">Saving…</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="search_attachment">Search</string>
      <string name="search_hint">Искать в электронной почте</string>
      <string name="search_result">Search Result :</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="search_results_header">Results</string>
      <string name="search_results_loaded">%1$d</string>
      <string name="search_results_searching_header">Searching…</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="search_title">Unified Email</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="search_unsupported">Search is not supported on this account.</string>
      <string name="security_changed_ticker_fmt">Account \"%s\" changed its security settings; no user action is required.</string>
      <string name="security_needed_ticker_fmt">Account \"%s\" requires security settings update.</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="security_notification_content_change_title">Security policies have changed</string>
      <string name="security_notification_content_unsupported_title">"Security policies can't be met"</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="security_notification_content_update_title">Security update required</string>
      <string name="security_unsupported_ticker_fmt">"Account \"%s\" can't be synced due to security requirements."</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="select_attachment_type">Choose type of attachment</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="select_no_file">No selected attachment to share</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="send">Send</string>
      <string name="send_failed">"Message wasn't sent."</string>
      <string name="sender_whitelist_cleared">"Pictures won't be shown automatically."</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="senders_elided">..</string>
      <string name="senders_split_token">, </string>
      <string name="sending">Sending…</string>
      <string name="sending_message">Sending message…</string>
      <string name="sent_folder_selection_title">Select server sent items folder for %s</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="set_network">Set network</string>
      <string name="settings_activity_title">Настройки</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="sharing">Share</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="shortcut_name_title">Name folder shortcut</string>
      <string name="show_elided">▶ Show quoted text</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="show_images">Show pictures</string>
      <string name="show_n_more_folders">Show %1$s more folders</string>
      <string name="signature">"
 
 %s"</string>
      <string name="signin">Sign-in</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="silent_ringtone">Silent</string>
      <string name="single_new_message_notification_title">%1$s: %2$s</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="sort_attachment">Sort by</string>
      <string name="spaceChar">" "</string>
      <string name="status_network_error">Ошибка подключения</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="storage">Storage</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="str_select_all">Select all</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="str_select_none">Deselect all</string>
      <string name="subject_and_snippet" formatted="false">%s — %s</string>
      <string name="subject_hint">Тема:</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="suggestions_authority">com.android.mail.providers.SuggestionsProvider</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="swipe_down_to_refresh">Swipe down to refresh</string>
      <string name="sync_error">"Couldn't sync."</string>
      <string name="sync_error_message">"Your device doesn't have enough storage space to sync."</string>
      <string name="system_account_create_failed">Не удалось создать аккаунт. Повторите попытку</string>
      <string name="system_folders_sent_dlg">"Select your server's sent items folder"</string>
      <string name="system_folders_sent_summary">"Select your server's sent items folder"</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="system_folders_sent_title">Sent items folder</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="system_folders_title">System folders</string>
      <string name="system_folders_trash_dlg">"Select your server's trash folder"</string>
      <string name="system_folders_trash_summary">"Select your server's trash folder"</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="system_folders_trash_title">Trash folder</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="tablet">tablet</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="tap_to_configure">Touch to set up</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="tap_to_configure_folder_sync">Sync Folder</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="tap_to_enable_sync">Touch to turn on.</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="time_error">Time Promblem</string>
      <string name="to">Кому:</string>
      <string name="to_heading">"To: "</string>
@@ -813,25 +688,17 @@
      <string name="too_large_to_attach_multiple">One or more files not attached. Limit %1$s.</string>
      <string name="too_large_to_attach_single">"Can't attach file over %1$s."</string>
      <string name="trash_folder_selection_title">Select server trash folder for %s</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="trigger_compose_char">c</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="trigger_refresh_char">u</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="trigger_save_char">s</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="trigger_y_char">y</string>
      <string name="turn_auto_sync_on_dialog_body">Changes you make to all apps and accounts, not just Gmail, will be synchronized between the web, your other devices, and your %1$s.</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="turn_auto_sync_on_dialog_confirm_btn">Turn on</string>
      <string name="turn_auto_sync_on_dialog_title">Turn auto-sync on?</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="undo">Undo</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="unread_string">conversation unread</string>
      <string name="unsent_messages_in_outbox">%1$s unsent in %2$s</string>
      <string name="updated_at">Last Updated%1$s</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="updated_just_now">Just Updated</string>
      <string name="validation_failed_prompt">Validation failed, please set the %s server</string>
      <string name="veiled_address" />
@@ -839,24 +706,18 @@
      <string name="veiled_alternate_text_unknown_person" />
      <string name="veiled_summary_unknown_person" />
      <string name="via_domain">via %1$s</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="view_more_conversations">View more conversations</string>
      <string name="wait_for_manual_sync_body">"This account isn't set up to sync automatically.
 Touch "<b>Sync Now</b> to sync mail once, or <b>Change Sync Settings</b> to set up this account to sync mail automatically.</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="wait_for_sync_body">Your email will appear shortly.</string>
      <string name="wait_for_sync_body_2">Exchange Server will prompt you within 1-30 seconds.Please confirm the security setting and activate.Pay attention to system alert.</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="wait_for_sync_title">Waiting for sync</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="wait_help_context">wait</string>
      <string name="widget_all_mail">Все входящие</string>
      <string name="widget_large_unread_count">%d+</string>
      <string name="widget_other_views">Нажмите, чтобы изменить</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="widget_provider">com.kingsoft.email.provider.WidgetProvider</string>
      <string name="wrong_password">Wrong password!</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="yes">Yes</string>
      <string name="zip_viewer_no_file">No files!</string>
 </resources>
