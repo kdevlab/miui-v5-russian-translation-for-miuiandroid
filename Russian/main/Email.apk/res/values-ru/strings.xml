@@ -707,8 +707,8 @@
      <string name="veiled_summary_unknown_person" />
      <string name="via_domain">via %1$s</string>
      <string name="view_more_conversations">View more conversations</string>
-     <string name="wait_for_manual_sync_body">"This account isn't set up to sync automatically.
-Touch "<b>Sync Now</b> to sync mail once, or <b>Change Sync Settings</b> to set up this account to sync mail automatically.</string>
+     <string name="wait_for_manual_sync_body">"В этом аккаунте не настроена автоматическая синхронизация.
+Выберите "<b>Настройки синхронизации</b>, чтобы включить ее, или <b>Синхронизировать сейчас</b>, чтобы синхронизировать почту один раз.</string>
      <string name="wait_for_sync_body">Your email will appear shortly.</string>
      <string name="wait_for_sync_body_2">Exchange Server will prompt you within 1-30 seconds.Please confirm the security setting and activate.Pay attention to system alert.</string>
      <string name="wait_for_sync_title">Waiting for sync</string>
