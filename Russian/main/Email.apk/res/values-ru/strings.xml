@@ -268,48 +268,33 @@
      <string name="cc_heading">"Копия: "</string>
      <string name="change_account_confirm">Учетная запись \"%1$s\" будет удалена. Продолжить?</string>
      <string name="change_account_type">Смена типа аккаунта</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="change_folders_selection_dialog_title">Change folders</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="change_sync_settings">Change sync settings</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="checking_for_mail">Checking for mail</string>
+	 <string name="change_folders_selection_dialog_title">Изменение папок</string>
+     <string name="change_sync_settings">Настройки синхронизации</string>
+     <string name="checking_for_mail">Проверка почты…</string>
      <string name="choosertitle_sharevia">Отправить через</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="clear">Clear</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="clear">Да</string>
      <string name="clear_display_images_whitelist_dialog_message">Вы действительно хотите запретить показ изображений в письмах?</string>
      <string name="clear_display_images_whitelist_dialog_title">Запрет показа изображений</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="clear_display_images_whitelist_title">Запретить показ изображений</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="collapse_recipient_details">Collapse recipient details</string>
+     <string name="collapse_recipient_details">Скрыть сведения о получателе</string>
      <string name="colon">:</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="compose">Compose</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="compose_help_context">compose</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="confirm">confirm</string>
-     <string name="confirm_discard_text">Discard this message?</string>
+     <string name="compose">Написать</string>
+     <string name="compose_help_context">написать</string>
+     <string name="confirm">да</string>
+     <string name="confirm_discard_text">Удалить это сообщение?</string>
      <string name="confirm_response">Отправка ответа…</string>
-     <string name="confirm_send_message">Send this message?</string>
-     <string name="confirm_send_message_with_no_body">"There's no text in the message body."</string>
-     <string name="confirm_send_message_with_no_subject">"There's no text in the message subject."</string>
-     <string name="confirm_send_title">Send message?</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="confirm_send_message">Отправить это сообщение?</string>
+     <string name="confirm_send_message_with_no_body">Введите текст сообщения</string>
+     <string name="confirm_send_message_with_no_subject">Укажите тему</string>
+     <string name="confirm_send_title">Отправить сообщение?</string>
      <string name="contact_content_provider">Contact Content Provider</string>
-     <string name="contact_info_string">Show contact information for %1$s</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="contact_info_string_default">Show contact information</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="contact_list_add_btn">Add</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="contact_list_search_hint">Search for contacts</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="contact_list_title">Contact List</string>
-     <string name="content_description">%1$s about %2$s, %3$s on %4$s, %5$s</string>
-     <string name="content_description_today">%1$s about %2$s, %3$s at %4$s, %5$s</string>
+     <string name="contact_info_string">Показать контактные данные пользователя %1$s</string>
+     <string name="contact_info_string_default">Показать контактные данные</string>
+     <string name="contact_list_add_btn">Добавить</string>
+     <string name="contact_list_search_hint">Поиск контактов</string>
+     <string name="contact_list_title">Список контактов</string>
+     <string name="content_description">Отправитель: %1$s; тема: %2$s; фрагмент: %3$s; дата: %4$s; состояние: %5$s</string>
+     <string name="content_description_today">Отправитель: %1$s; тема: %2$s; фрагмент: %3$s; время: %4$s; состояние: %5$s</string>
      <string name="contextmenu_add_contact">Добавить контакт</string>
      <string name="contextmenu_copy">Копировать</string>
      <string name="contextmenu_copylink">Скопируйте URL-адрес</string>
@@ -323,131 +308,85 @@
      <string name="contextmenu_sms_dot">Сообщение…</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="conversation_content_provider">Conversation Content Provider</string>
-     <string name="conversation_folder_moved">Moved to %1$s</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="conversation_photo_welcome_text">Touch a sender image to select that conversation.</string>
+    <string name="conversation_folder_moved">Перемещено в папку \"%1$s\"</string>
+     <string name="conversation_photo_welcome_text">Чтобы открыть цепочку писем, нажмите на фото отправителя</string>
      <string name="copy_email">Скопировать адрес эл. почты</string>
      <string name="copy_number">Скопировать номер телефона</string>
      <string name="create_action">Создать</string>
-     <string name="custom_from_account_label">Send mail as:</string>
-     <string name="date">2888/88/88</string>
-     <string name="date_heading">"Date: "</string>
+     <string name="custom_from_account_label">От:</string>
+     <string name="date_heading">"Дата: "</string>
      <string name="date_message_received">%1$s, %2$s</string>
-     <string name="date_message_received_today">Today, %1$s</string>
-     <string name="date_message_received_yesterday">Yesterday, %1$s</string>
-     <string name="debug_enable_file_logging_label">Enable sd card logging?</string>
-     <string name="debug_enable_verbose_logging_label">Enable extremely verbose logging?</string>
+     <string name="date_message_received_today">Сегодня, %1$s</string>
+     <string name="date_message_received_yesterday">Вчера, %1$s</string>
+     <string name="debug_enable_file_logging_label">Включить ведение журнала на SD-карту?</string>
+     <string name="debug_enable_verbose_logging_label">Включить подробное ведение журнала?</string>
      <string name="debug_title">Выполнить отладку</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="default_">DEFAULT</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="default_exchange">EXCHANGE</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="default_imap">IMAP</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="default_pop3">POP3</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="default_setup">DEFAULT SETTINGS</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="delete">Delete</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="deleted">Deleted</string>
+     <string name="delete">Удалить</string>
+     <string name="deleted">Удалено</string>
      <string name="device_admin_description">Включение серверных политик безопасности</string>
      <string name="device_admin_label">Электронная почта</string>
      <string name="disable_admin_warning">ВНИМАНИЕ! Отключение прав на администрирование Вашего телефона для приложения почты приведет к удалению всех аккаунтов электронной почты, которые используют эти права. Кроме того, будут удалены все письма, контакты, календари и другие данные, связанные с этими аккаунтами</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="discard">Discard</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="discard_drafts">Discard drafts</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="dismiss_tip_hover_text">Dismiss tip</string>
+     <string name="discard">Удалить</string>
+     <string name="discard_drafts">Удалить черновики</string>
+     <string name="dismiss_tip_hover_text">Закрыть подсказку</string>
      <string name="done">Назад</string>
      <string name="done_action">Готово</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="downlaod_cancel_confirm_download">Cancel download</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="downlaod_cancel_continue_download">Cancel</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="downlaod_confirm_download">Download</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="download_again">Download again</string>
-     <string name="download_before_sharing">" is not downloaded yet, please download it before sharing!"</string>
-     <string name="download_cancel_confirm_title">Cancel the download?</string>
-     <string name="download_complete_not_cancel">Download is complete, cancel failed!</string>
-     <string name="download_confirm_message">To open this file, You need to download the attachment size of 180K %1$s</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="download_confirm_title">Downloading confirmation</string>
-     <string name="download_failed">"Couldn't download. Touch to retry."</string>
+     <string name="downlaod_cancel_confirm_download">Отменить загрузку</string>
+     <string name="downlaod_cancel_continue_download">Отмена</string>
+     <string name="downlaod_confirm_download">Загрузить</string>
+     <string name="download_again">Скачать еще раз</string>
+     <string name="download_before_sharing">" еще не загружено. Сначала скачайте, прежде чем отправлять!"</string>
+     <string name="download_cancel_confirm_title">Отменить загрузку?</string>
+     <string name="download_complete_not_cancel">Загрузка завершена. Отменить не удалось!</string>
+     <string name="download_confirm_message">Чтобы открыть этот файл, Вам нужно скачать размер вложения в 180Кб %1$s</string>
+     <string name="download_confirm_title">Подтверждение загрузки</string>
+     <string name="download_failed">Ошибка загрузки. Нажмите, чтобы повторить.</string>
      <string name="draft_count_format"> (%1$s)</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="drawer_close">Close navigation drawer</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="drawer_open">Open navigation drawer</string>
+     <string name="drawer_close">Закрыть панель навигации</string>
+     <string name="drawer_open">Открыть панель навигации</string>
      <string name="edit_quick_response_dialog">Быстрый ответ</string>
      <string name="elided_padding_token"> </string>
      <string name="email_feedback_uri" />
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="email_package_name">com.android.email</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="eml_attachment_provider">com.android.email.provider.eml.attachment</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="empty_email_tip">Could not send Empty Email</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="empty_spam">Empty Spam</string>
-     <string name="empty_spam_dialog_title">Empty Spam?</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="empty_trash">Empty Trash</string>
-     <string name="empty_trash_dialog_title">Empty Trash?</string>
-     <string name="enable_sync_in_account_settings">Turn on in %1$s.</string>
+     <string name="empty_email_tip">Не удалось отправить пустое письмо</string>
+     <string name="empty_spam">Удалить спам</string>
+     <string name="empty_spam_dialog_title">Удалить спам?</string>
+     <string name="empty_trash">Очистить корзину</string>
+     <string name="empty_trash_dialog_title">Очистить корзину?</string>
+     <string name="enable_sync_in_account_settings">Чтобы включить ее, перейдите в %1$s</string>
      <string name="enumeration_comma">", "</string>
-     <string name="exception_cancel">This event has been canceled for: %s</string>
-     <string name="exception_updated">The details of this event have been changed for: %s</string>
+     <string name="exception_cancel">Это событие было отменено для: %s</string>
+     <string name="exception_updated">Детали этого события были изменены: %s</string>
      <string name="exchange_name">Корпоративный</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="exchange_name_alternate">Microsoft Exchange</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="expand_recipient_details">Expand recipient details</string>
-     <string name="failed">"Couldn't load image"</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="feedback">Send feedback</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="feedback_body">Feedback information</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="fetching_attachment">Fetching attachment</string>
-     <string name="file_deleted_success">File deleted successfully!</string>
-     <string name="file_not_found">File not found on the mail server!</string>
-     <string name="file_not_found_reDownload">File not found, please try again!</string>
-     <string name="file_rar_not_support">Does not support encrypted rar file!</string>
+     <string name="expand_recipient_details">Показать сведения о получателе</string>
+     <string name="failed">Не удалось загрузить фото</string>
+     <string name="feedback">Отправить отзыв</string>
+     <string name="feedback_body">Информация обратной свящи</string>
+     <string name="fetching_attachment">Загрузка файла</string>
+     <string name="file_deleted_success">Файл удален</string>
+     <string name="file_not_found">Файл не найден на сервере</string>
+     <string name="file_not_found_reDownload">Файл не найден. Повторите еще раз.</string>
+     <string name="file_rar_not_support">Не поддерживает зашифрованный файл RAR!</string>
      <string name="filtered_tag">[%1$s]%2$s</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="folder_icon_desc">Folder icon</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="folder_picker_title">Folder picker</string>
-     <string name="folder_removed">Removed from %1$s</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="folder_shortcut_widget_label">Email folder</string>
+     <string name="folder_icon_desc">Значок папки</string>
+     <string name="folder_picker_title">Выберите папку</string>
+     <string name="folder_removed">Удалено из папки \"%1$s\"</string>
+     <string name="folder_shortcut_widget_label">Папка почты</string>
      <string name="formatted_email_address">&lt;%1$s></string>
      <string name="formatted_subject">%1$s%2$s</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="forward">Forward</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="forward_attachment">Forward</string>
+     <string name="forward">Переслать</string>
+     <string name="forward_attachment">Переслать</string>
      <string name="forward_attribution">---------- Переадресованное сообщение ----------&lt;br>От: %1$s&lt;br>Дата: %2$s&lt;br>Тема: %3$s&lt;br>Кому: %4$s&lt;br></string>
      <string name="forward_attribution_no_headers">---------- Пересылаемое сообщение ----------</string>
      <string name="forward_download_failed_ticker">Сбой при пересылке прикрепленных файлов</string>
      <string name="forward_download_failed_title">Не удалось переслать вложение</string>
-     <string name="forward_subject_label">Fwd:</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="from">From</string>
-     <string name="from_heading">"From: "</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="general_preference_confirm_delete_label">Confirm before deleting</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="general_preference_confirm_delete_summary">Messages</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="general_preference_confirm_send_label">Confirm before sending</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="general_preference_confirm_send_summary">Messages</string>
+    <string name="forward_subject_label">Fwd:</string>
+     <string name="from">От</string>
+     <string name="from_heading">"От: "</string>
+     <string name="general_preference_confirm_delete_label">Подтверждать удаление</string>
+     <string name="general_preference_confirm_delete_summary">Сообщения</string>
+     <string name="general_preference_confirm_send_label">Подтверждать отправку</string>
+     <string name="general_preference_confirm_send_summary">Сообщения</string>
      <string name="general_preference_text_zoom_dialog_title">Размер шрифта</string>
      <string name="general_preference_text_zoom_huge">Огромный</string>
      <string name="general_preference_text_zoom_label">Размер шрифта</string>
@@ -455,84 +394,55 @@
      <string name="general_preference_text_zoom_normal">Обычный</string>
      <string name="general_preference_text_zoom_small">Небольшой</string>
      <string name="general_preference_text_zoom_tiny">Мелкий</string>
-     <string name="generic_attachment_problem">"Couldn't attach file."</string>
-     <string name="header_label_general_preferences">Общие</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="help_and_info">Help</string>
-     <string name="hide_elided">▼ Hide quoted text</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="hide_folders">Hide folders</string>
+     <string name="generic_attachment_problem">Не удалось прикрепить файл</string>
+     <string name="header_label_general_preferences">Общие настройки</string>
+     <string name="help_and_info">Справка</string>
+     <string name="hide_elided">▼ Скрыть цитируемый текст</string>
+     <string name="hide_folders">Скрыть папки</string>
      <string name="hierarchical_folder_parent_top">%1$s∕%2$s∕</string>
      <string name="hierarchical_folder_parent_top_ellip">%1$s∕…∕%2$s∕</string>
      <string name="hierarchical_folder_top">%1$s∕</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="hint_quick_reply_all">Reply to all here</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="ignore_spam_warning">Ignore, I trust this message</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="hint_quick_reply_all">Ответить на все здесь</string>
+     <string name="ignore_spam_warning">Я доверяю отправителю</string>
      <string name="imap_name">IMAP</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="inbox_folders_heading">Local Folders</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="info">Info</string>
-     <string name="input_password_prompt">Please enter the password:</string>
-     <string name="intent_account_manager_entry">com.android.email.activity.setup.ACCOUNT_MANAGER_ENTRY</string>
-     <string name="intent_exchange_action">com.android.email.EXCHANGE_INTENT</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="intent_exchange_package">com.android.exchange</string>
-     <string name="invalid_recipient">The address %s is invalid.</string>
-     <string name="kilobytes">%s KB</string>
+     <string name="inbox_folders_heading">Входящие</string>
+     <string name="info">Детали</string>
+     <string name="input_password_prompt">Введите пароль:</string>
+     <string name="invalid_recipient">Недействительный адрес: %s</string>
+     <string name="kilobytes">%s кб</string>
      <string name="label_notification_ticker" formatted="false">%s: %s</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="load_more">Load more</string>
-     <string name="loading_conversation">Loading…</string>
-     <string name="loading_conversations">Loading…</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="local_search">Local Search</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="login">Login</string>
+     <string name="load_more">Загрузить еще</string>
+     <string name="loading_conversation">Загрузка…</string>
+     <string name="loading_conversations">Загрузка…</string>
+     <string name="local_search">Поиск</string>
+     <string name="login">Войти</string>
      <string name="login_failed_ticker">Ошибка авторизации %s</string>
      <string name="login_failed_title">Не удалось войти в аккаунт</string>
-     <string name="long_press_to_select_tip">Touch &amp; hold to select one conversation, then touch to select more.</string>
+     <string name="long_press_to_select_tip">Чтобы выбрать несколько цепочек, нажмите и удерживайте одну из них, а затем нажимайте на следующие</string>
      <string name="mailbox_list_account_selector_combined_view">Комбинированный режим</string>
      <string name="mailbox_name_display_drafts">Черновики</string>
      <string name="mailbox_name_display_inbox">Входящие</string>
      <string name="mailbox_name_display_junk">Спам</string>
      <string name="mailbox_name_display_outbox">Исходящие</string>
      <string name="mailbox_name_display_sent">Отправленные</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="mailbox_name_display_starred">Starred</string>
+     <string name="mailbox_name_display_starred">Помеченнные</string>
      <string name="mailbox_name_display_trash">Корзина</string>
      <string name="mailbox_name_display_unread">Непрочитанные</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="mailbox_name_server_all_unread">Unread</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="mailbox_name_server_starred">Starred</string>
+     <string name="mailbox_name_server_all_unread">Непрочитанные</string>
+     <string name="mailbox_name_server_starred">Помеченные</string>
      <string name="mailbox_settings_activity_title">Параметры синхронизации</string>
      <string name="mailbox_settings_activity_title_with_mailbox">Параметры синхронизации (%s)</string>
      <string name="mailbox_settings_mailbox_sync_window_label">Период синхронизации</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="mailbox_settings_sync_enabled_label">Sync this folder</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="mailbox_settings_sync_enabled_summary">Messages will download when connected</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="main_help_context">ttl</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="manual_sync">Sync now</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="mark_important">Mark important</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="mark_not_important">Mark not important</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="mark_not_spam">Report not spam</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="mark_read">Read</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="mark_unread">Unread</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="me_object_pronun">me</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="me_subject_pronun">me</string>
+     <string name="mailbox_settings_sync_enabled_label">Синхронизировать эту папку</string>
+     <string name="mailbox_settings_sync_enabled_summary">Загружать сообщения при подключении к интернету</string>
+     <string name="manual_sync">Синхр.</string>
+     <string name="mark_important">Отметить как важное</string>
+     <string name="mark_not_important">Отметить как неважное</string>
+     <string name="mark_not_spam">Не спам</string>
+     <string name="mark_read">Отметить как прочитанное</string>
+     <string name="mark_unread">Отметить как непрочитанное</string>
+     <string name="me_object_pronun">я</string>
+     <string name="me_subject_pronun">я</string>
      <string name="meeting_accepted">Accepted: %s</string>
      <string name="meeting_allday">When: %s (all day)</string>
      <string name="meeting_allday_recurring">When: %s (all day, recurring)</string>
@@ -543,44 +453,26 @@
      <string name="meeting_updated">Updated: %s</string>
      <string name="meeting_when">When: %s</string>
      <string name="meeting_where">Where: %s</string>
-     <string name="megabytes">%s MB</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="menu_att_mgr">Attachments</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="menu_att_mgr_order_default">Default</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="menu_att_mgr_order_mime">Sort by format</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="menu_att_mgr_order_name">Sort by name</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="menu_att_mgr_order_rev_date">Sort by time</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="menu_att_mgr_order_sender">Sort by sender</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="menu_att_mgr_order_size">Sort by size</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="menu_change_folders">Change folders</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="menu_compose">Compose</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="menu_folder_options">Sync options</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="megabytes">%s мб</string>
+     <string name="menu_att_mgr">Вложения</string>
+     <string name="menu_att_mgr_order_default">По умолчанию</string>
+     <string name="menu_att_mgr_order_mime">Сортировать по формату</string>
+     <string name="menu_att_mgr_order_name">Сортировать по имени</string>
+     <string name="menu_att_mgr_order_rev_date">Сортировать по времени</string>
+     <string name="menu_att_mgr_order_sender">Сортировать по отправителям</string>
+     <string name="menu_att_mgr_order_size">Сортировать по размеру</string>
+     <string name="menu_change_folders">Изменить папки</string>
+     <string name="menu_compose">Написать</string>
+     <string name="menu_folder_options">Параметры синхронизации</string>
      <string name="menu_manage_folders">Управление папками</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="menu_move_to">Переместить</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="menu_move_to_inbox">Move to Inbox</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="menu_photo_save_all">Save all</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="menu_photo_share">Share</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="menu_photo_share_all">Share all</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="menu_move_to">Переместить в</string>
+     <string name="menu_move_to_inbox">Во входящие</string>
+     <string name="menu_photo_save_all">Сохранить все</string>
+     <string name="menu_photo_share">Поделиться</string>
+     <string name="menu_photo_share_all">Поделиться</string>
      <string name="menu_search">Поиск</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="menu_settings">Настройки</string>
-     <string name="menu_show_original">Revert auto-sizing</string>
+     <string name="menu_show_original">Показать исходный размер</string>
      <string name="message_compose_fwd_header_fmt">"
 
 -------- Исходное сообщение --------
@@ -591,77 +483,48 @@
 
 "</string>
      <string name="message_compose_insert_quick_response_list_title">Вставка быстрого ответа</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="message_compose_insert_quick_response_menu_title">Insert quick response</string>
+     <string name="message_compose_insert_quick_response_menu_title">Вставить быстрый ответ</string>
      <string name="message_count_spacer">  </string>
      <string name="message_decode_error">При расшифровке сообщения произошла ошибка</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="message_details_title">Message details</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="message_discarded">Message discarded.</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="message_invite_accept">Yes</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="message_invite_calendar_view">View in Calendar</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="message_invite_decline">No</string>
-     <string name="message_invite_label_attending">Going?</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="message_invite_tentative">Maybe</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="message_invite_title">Calendar invite</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="message_saved">Message saved as draft.</string>
+     <string name="message_details_title">Сведения о сообщении</string>
+     <string name="message_discarded">Черновик удален</string>
+     <string name="message_invite_accept">Да</string>
+     <string name="message_invite_calendar_view">Посмотреть в календаре</string>
+     <string name="message_invite_decline">Нет</string>
+     <string name="message_invite_label_attending">Вы примете участие?</string>
+     <string name="message_invite_tentative">Возможно</string>
+     <string name="message_invite_title">Приглашение в календаре</string>
+     <string name="message_saved">Черновик сообщения сохранен</string>
      <string name="message_view_attachment_background_load">Примечание. Несколько прикрепленных файлов в переадресованном сообщении будут загружены перед отправкой</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="mock_content_provider">Mock Content Provider</string>
-     <string name="more_atts_total">%1$d attachments in total</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="more_info_attachment">Info</string>
+     <string name="more_atts_total">Всего вложений: %1$d</string>
+     <string name="more_info_attachment">Справка</string>
      <string name="more_string">еще %1$s...</string>
      <string name="more_than_999">более 999</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="move_to_selection_dialog_title">Moved to another folder</string>
+     <string name="move_to_selection_dialog_title">Перемещение</string>
      <string name="multiple_new_message_notification_item"><b>%1$s</b>"   %2$s"</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="mute">Mute</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="name_or_number_is_error">User name or password error</string>
-     <string name="net_check_title">Network anomaly, please check the network。</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="network_error">No connection</string>
-     <string name="new_incoming_messages_one">New message from %s. Show.</string>
-     <string name="new_messages">%1$d new messages</string>
+     <string name="mute">Скрыть</string>
+     <string name="name_or_number_is_error">Неверный логин или пароль</string>
+     <string name="net_check_title">Проверьте настройки сети</string>
+     <string name="network_error">Нет подключения</string>
+     <string name="new_incoming_messages_one">%s – новое сообщение. Показать.</string>
+     <string name="new_messages">Новых сообщений: %1$d</string>
      <string name="next_action">Далее</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="no">No</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="no_application_found">No app can open this attachment for viewing.</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="no_conversations">No messages.</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="no_mails">No Mails</string>
+     <string name="no">Нет</string>
+     <string name="no_application_found">Файл не поддерживается вашими приложениями</string>
+     <string name="no_conversations">Нет сообщений</string>
+     <string name="no_mails">Нет сообщений</string>
      <string name="no_matched_attachment">No matched attachments!</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="non_synced_folder_description">To view conversations, sync this folder.</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="not_subject">No Subject</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="not_synced_title">Account not synced</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="not_updated_yet">No yet Updated</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="notification_action_archive">Archive</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="notification_action_delete">Delete</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="notification_action_remove_label">Remove label</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="notification_action_reply">Reply</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="notification_action_reply_all">Reply all</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="notification_action_undo_archive">Archived</string>
+     <string name="non_synced_folder_description">Для просмотра цепочек писем синхронизируйте эту папку</string>
+     <string name="not_subject">Нет темы</string>
+     <string name="not_synced_title">Аккаунт не синхронизирован</string>
+     <string name="not_updated_yet">Еще не обновлен</string>
+     <string name="notification_action_archive">Архивировать</string>
+     <string name="notification_action_delete">Удалить</string>
+     <string name="notification_action_remove_label">Удалить ярлык</string>
+     <string name="notification_action_reply">Ответить</string>
+     <string name="notification_action_reply_all">Ответить всем</string>
+     <string name="notification_action_undo_archive">Отправлено в архив</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="notification_action_undo_delete">Deleted</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
