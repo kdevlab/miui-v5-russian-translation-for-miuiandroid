@@ -1418,7 +1418,7 @@
      <string name="sms_control_title">Отправка SMS-сообщений</string>
      <string name="sms_control_yes">Разрешить</string>
      <string name="sms_premium_short_code_details"><font fgcolor="#ffffb060">Это приведет к расходам на вашем счету.</font></string>
-     <string name="sms_short_code_confirm_allow">ОГтправить</string>
+     <string name="sms_short_code_confirm_allow">Отправить</string>
      <string name="sms_short_code_confirm_always_allow">Разрешить всегда</string>
      <string name="sms_short_code_confirm_deny">Отмена</string>
      <string name="sms_short_code_confirm_message"></string>
