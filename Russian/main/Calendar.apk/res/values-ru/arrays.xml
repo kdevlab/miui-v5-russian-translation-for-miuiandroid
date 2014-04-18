@@ -26,11 +26,11 @@
         <item>Все мероприятия</item>
      </string-array>
      <string-array name="ordinal_labels">
-        <item>Перв.</item>
-        <item>Втор.</item>
-        <item>Трет.</item>
-        <item>Четверт.</item>
-        <item>Последн.</item>
+        <item>перв.</item>
+        <item>втор.</item>
+        <item>трет.</item>
+        <item>четверт.</item>
+        <item>последн.</item>
      </string-array>
      <string-array name="prefEntries_alerts_vibrateWhen">
         <item>Всегда</item>
