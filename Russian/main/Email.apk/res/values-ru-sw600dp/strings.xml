@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="menu_manage_folders">Управление папками</string>
+    <string name="add_cc_label">Копия</string>
+    <string name="add_bcc_label">Скрытая копия</string>
+    <string name="preferences_default_reply_all_summary">Использовать по умолчанию для всех уведомлений</string>
+</resources>
