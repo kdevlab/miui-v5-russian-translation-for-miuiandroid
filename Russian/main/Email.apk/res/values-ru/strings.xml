@@ -123,7 +123,7 @@
      <string name="account_setup_incoming_security_ssl_trust_certificates_label">SSL/TLS (принимать все сертификаты)</string>
      <string name="account_setup_incoming_security_tls_label">STARTTLS</string>
      <string name="account_setup_incoming_security_tls_trust_certificates_label">STARTTLS (принимать все сертификаты)</string>
-     <string name="account_setup_incoming_server_label">Server</string>
+     <string name="account_setup_incoming_server_label">Сервер</string>
      <string name="account_setup_incoming_title">Настройки аккаунта</string>
      <string name="account_setup_incoming_username_label">Имя пользователя</string>
      <string name="account_setup_names_account_name_label">Присвойте этому аккаунту название (по желанию)</string>
@@ -188,19 +188,19 @@
      <string name="address_display_format">%1$s | %2$s</string>
      <string name="address_display_format_with_via_domain">%1$s (%2$s из домена %3$s)</string>
      <string name="all_folders_heading">Все папки</string>
-     <string name="always_bcc_myself">Mail Always Bcc Myself</string>
+     <string name="always_bcc_myself">Всегда копию себе</string>
      <string name="always_show_images">Всегда открывать картинки от этого отправителя</string>
-     <string name="always_show_images_toast">Картинки этого отправителя будут всегда показываться</string>
+     <string name="always_show_images_toast">Картинки от этого отправителя будут всегда показываться</string>
      <string name="annex_size">вложений</string>
      <string name="app_name">Почта</string>
      <string name="archive">В архив</string>
      <string name="archived">Отправлено в архив</string>
      <string name="att_mgr_no_attachment">Нет вложений!</string>
-     <string name="att_mgr_title_order_mime">Формат</string>
-     <string name="att_mgr_title_order_name">Имя</string>
-     <string name="att_mgr_title_order_rev_date">Дата</string>
-     <string name="att_mgr_title_order_sender">Отправитель</string>
-     <string name="att_mgr_title_order_size">Размер файла</string>
+     <string name="att_mgr_title_order_mime">По формату</string>
+     <string name="att_mgr_title_order_name">По имени</string>
+     <string name="att_mgr_title_order_rev_date">По дате</string>
+     <string name="att_mgr_title_order_sender">По отправителю</string>
+     <string name="att_mgr_title_order_size">По размеру файла</string>
      <string name="attached_message">Прикрепленные сообщения</string>
      <string name="attachment_application_msword">Документ</string>
      <string name="attachment_application_pdf">PDF</string>
@@ -290,6 +290,8 @@
      <string name="debug_enable_file_logging_label">Включить ведение журнала на SD-карту?</string>
      <string name="debug_enable_verbose_logging_label">Включить подробное ведение журнала?</string>
      <string name="debug_title">Выполнить отладку</string>
+     <string name="default_">ПО УМОЛЧАНИЮ</string>
+     <string name="default_setup">НАСТРОЙКИ ПО УМОЛЧАНИЮ</string>
      <string name="delete">Удалить</string>
      <string name="deleted">Удалено</string>
      <string name="device_admin_description">Включение серверных политик безопасности</string>
@@ -330,7 +332,7 @@
      <string name="expand_recipient_details">Показать сведения о получателе</string>
      <string name="failed">Не удалось загрузить фото</string>
      <string name="feedback">Отправить отзыв</string>
-     <string name="feedback_body">Информация обратной свящи</string>
+     <string name="feedback_body">Информация для обратной связи</string>
      <string name="fetching_attachment">Загрузка файла</string>
      <string name="file_deleted_success">Файл удален</string>
      <string name="file_not_found">Файл не найден на сервере</string>
@@ -516,8 +518,8 @@
      <string name="phone">телефоном</string>
      <string name="photo_load_failed">Не удалось загрузить фото</string>
      <string name="photo_view_count" formatted="false">%d из %d</string>
-     <string name="please_fill_in_your_mailbox_information">Пожалуйста, заполните информацию в почтовом ящике %s:</string>
-     <string name="please_fill_in_your_mailbox_information2">Пожалуйста, заполните информацию в почтовом ящике:</string>
+     <string name="please_fill_in_your_mailbox_information">Пожалуйста, заполните информацию о почтовом ящике %s:</string>
+     <string name="please_fill_in_your_mailbox_information2">Пожалуйста, заполните информацию о почтовом ящике:</string>
      <string name="please_wait">Подождите…</string>
      <string name="policy_app_blacklist">Запретить указанные приложения</string>
      <string name="policy_app_whitelist">Разрешить только указанные приложения</string>
@@ -647,7 +649,7 @@
      <string name="signin">Войти</string>
      <string name="silent_ringtone">Без звука</string>
      <string name="single_new_message_notification_title">%1$s: %2$s</string>
-     <string name="sort_attachment">Сортировка по</string>
+     <string name="sort_attachment">Сортировка</string>
      <string name="spaceChar">" "</string>
      <string name="status_network_error">Ошибка подключения</string>
      <string name="storage">Память</string>
