@@ -25,8 +25,7 @@
      <string name="backup_data">Данные бэкапа</string>
      <string name="backup_delete">Удалить</string>
      <string name="backup_empty">Резервные копии не найдены</string>
-     <string name="backup_empty_info">"Резервное копирование данных,
-а также настроек и приложений"</string>
+     <string name="backup_empty_info">"езервное копирование данных</string>
      <string name="backup_error">Ошибка</string>
      <string name="backup_failed">Резервное копирование не удалось. Попробуйте еще раз.</string>
      <string name="backup_file_error">Файлы резерной копии повреждены. Операция не завершена.</string>
@@ -124,7 +123,7 @@
      <string name="cloud_item_info_summary">(Локально: %1$s|Онлайн: %2$s)</string>
      <string name="cloud_last_backup">Последняя:</string>
      <string name="cloud_no_backup">Нет резервных копий</string>
-     <string name="cloud_restore_guide">"Нажмите кнопку \"Начать\" для восстановления данных
+     <string name="cloud_restore_guide">"Нажмите кнопку \"Начать\" для восстановления данных.
 Вы можете восстановить %s в бэкап."</string>
      <string name="cloud_restore_title">Восстановление</string>
      <string name="cloud_restore_window_title">Восстановление из облака</string>

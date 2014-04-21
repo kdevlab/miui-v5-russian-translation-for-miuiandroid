@@ -34,7 +34,7 @@
      <string name="deleteAll_record">Удалить все записи</string>
      <string name="delete_record">Удалить запись</string>
      <string name="download_cancel">Остановить</string>
-     <string name="download_fail_line1">Файл не получен.</string>
+     <string name="download_fail_line1">Файл не получен</string>
      <string name="download_fail_line2">Файл: %1$s</string>
      <string name="download_fail_line3">Причина ошибки: %1$s</string>
      <string name="download_fail_ok">ОК</string>
@@ -92,7 +92,7 @@
      <string name="not_exist_file">Файл не существует</string>
      <string name="not_exist_file_desc">"Файл не существует! 
 "</string>
-     <string name="noti_caption">Выполнено: %1$s, не выполнено: %2$s.</string>
+     <string name="noti_caption">Выполнено: %1$s, не выполнено: %2$s</string>
      <string name="notification_received">Передача по Bluetooth: получено %1$s</string>
      <string name="notification_received_fail">Передача по Bluetooth: файл %1$s не получен</string>
      <string name="notification_receiving">Передача по Bluetooth: получение %1$s</string>

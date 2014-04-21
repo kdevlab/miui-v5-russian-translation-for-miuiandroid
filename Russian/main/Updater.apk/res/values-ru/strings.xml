@@ -27,15 +27,15 @@
      <string name="check_update_policy">Настройки обновления</string>
      <string name="check_update_when_wifi_available">Обновлять только по Wi-Fi</string>
      <string name="checking_for_updates">Проверка обновлений</string>
-     <string name="choose_recommend">Пожалуйста, выберите рекомендуете или нет</string>
-     <string name="comment_invalid">Пожалуйста, нажмите на звездочки, чтобы выбрать оценку</string>
+     <string name="choose_recommend">Выберите рекомендуете или нет</string>
+     <string name="comment_invalid">Нажмите на звездочки, чтобы выбрать оценку</string>
      <string name="comment_publish">Отправить</string>
      <string name="comment_sending">Отправка комментария…</string>
      <string name="comment_upload_failed">Ошибка отправки комментария</string>
      <string name="comment_upload_hint">Спасибо за Ваш комментарий</string>
      <string name="comment_upload_not_logined">Пожалуйста, зайдите в аккаунт</string>
      <string name="comment_upload_success">Комментарий отправлен!</string>
-     <string name="confirm_download_cancelation_dialog_message">Вы уверены, что хотите отменить загрузку обновления?</string>
+     <string name="confirm_download_cancelation_dialog_message">Отменить загрузку обновления?</string>
      <string name="copy_install_log">Копировать в буфер</string>
      <string name="current_version_text">"Текущая версия "</string>
      <string name="current_version_update_monthly_build">"Текущая версия "</string>
@@ -141,11 +141,11 @@
      <string name="submit_fail">Ошибка отправки</string>
      <string name="submit_progress">Отправка…</string>
      <string name="submit_success">Отправлено!</string>
-     <string name="system_backup_apply_helper">Устройство автоматически перезагрузится после применения обновления. </string>
+     <string name="system_backup_apply_helper">Устройство автоматически перезагрузится после применения обновления</string>
      <string name="system_backup_ask">Спрашивать снова</string>
      <string name="system_backup_button_text">Резервное копирование системы</string>
      <string name="system_backup_cancel_text">Обновить</string>
-     <string name="system_backup_download_helper">Устройство автоматически перезагрузится после обновления. </string>
+     <string name="system_backup_download_helper">Устройство автоматически перезагрузится после обновления</string>
      <string name="system_backup_error_message">Ошибка резервного копирования системы</string>
      <string name="system_backup_helper">"
 Рекомендуется сделать резервную копию ваших данных."</string>

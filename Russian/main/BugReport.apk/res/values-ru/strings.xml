@@ -7,7 +7,7 @@
      <string name="bugreport_feedback_from">От: %s</string>
      <string name="description">Описание (обязательно)</string>
      <string name="discard_draft_dialog_button_cancel">Отмена</string>
-     <string name="discard_draft_dialog_content">Отчет изменен. Нажмите OK для удаления черновика</string>
+     <string name="discard_draft_dialog_content">Отчет изменен. Нажмите OK для удаления черновика.</string>
      <string name="discard_draft_dialog_title">Удалить черновик</string>
      <string name="err_type">Тип отчета</string>
      <string name="err_type_call">Вызовы</string>

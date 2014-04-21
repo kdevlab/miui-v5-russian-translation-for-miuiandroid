@@ -13,7 +13,7 @@
      <string name="alarm_value">Будильник %s%%</string>
      <string name="app">Запустить</string>
      <string name="app_center">Центр приложений</string>
-     <string name="app_name">PonPonTile</string>
+     <string name="app_name">Mi Tag</string>
      <string name="auto_brightness">Автоподсветка</string>
      <string name="auto_brightness_on_off">Автоподсветка %s</string>
      <string name="available_networks">Доступные сети</string>
@@ -29,11 +29,11 @@
 прикоснитесь к нему задней панелью телефона"</string>
      <string name="bump_start">"Для начала, прислоните 
 телефон задней панелью к тегу"</string>
-     <string name="bump_write">"Чтобы записть тег,
+     <string name="bump_write">"Чтобы записать тег,
 прикоснитесь к нему задней панелью телефона"</string>
-     <string name="bump_write_alert">Чтобы применить эти настройки, прокоснитесь задней панелью телефона к плитке</string>
+     <string name="bump_write_alert">Чтобы применить эти настройки, прикоснитесь задней стороной телефона к плитке</string>
      <string name="call_sb">Позвонить %s</string>
-     <string name="call_to">Вызов...;</string>
+     <string name="call_to">Вызов…;</string>
      <string name="car_mode">Режим вождения</string>
      <string name="characters">%d/72</string>
      <string name="click_to_choose">Нажмите, чтобы открыть</string>
@@ -49,7 +49,7 @@
      <string name="contact_phone">Телефон</string>
      <string name="contact_title">Название</string>
      <string name="create">Создать</string>
-     <string name="create_configs_prompt">Чтобы добавить задание в список, нажмите Добавить</string>
+     <string name="create_configs_prompt">Чтобы добавить задание в список, нажмите добавить</string>
      <string name="create_tag">Создать</string>
      <string name="delete">Удалить</string>
      <string name="deleting">Удаление…</string>
@@ -178,9 +178,9 @@ touch the back of your phone to another tag."</string>
      <string name="unrecognized_tag">Unrecognized tag content</string>
      <string name="update_config">Изменить задачи</string>
      <string name="user_configs">Мои задачи</string>
-     <string name="vibrate_mode">Vibrate</string>
-     <string name="vibrate_off">Vibrate off</string>
-     <string name="vibrate_on">Vibrate on</string>
+     <string name="vibrate_mode">Вибрация</string>
+     <string name="vibrate_off">Выключена</string>
+     <string name="vibrate_on">Включена</string>
      <string name="voice_call_value">Громкость разговора %s%%</string>
      <string name="volume">Звук</string>
      <string name="web_label">Название (не обязательно)</string>

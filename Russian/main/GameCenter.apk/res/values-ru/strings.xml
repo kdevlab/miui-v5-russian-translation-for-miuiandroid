@@ -24,7 +24,7 @@
      <string name="app_detail_install">Установ.</string>
      <string name="app_detail_tab_rating">Топ</string>
      <string name="app_name">Игры</string>
-     <string name="apply_check_info_empty">Необходимо заполнить информацию.</string>
+     <string name="apply_check_info_empty">Необходимо заполнить информацию</string>
      <string name="ask_customer">Просим помочь</string>
      <string name="auto_location">Найдите автоматически</string>
      <string name="average_score">Оценок</string>
@@ -46,10 +46,10 @@
      <string name="card_recharge_hint32">не равна %dRMB</string>
      <string name="card_recharge_hint33">то Ваш платеж не удастся, и приведет к потере денежных средств</string>
      <string name="card_recharge_title">Пополнение через телефон:</string>
-     <string name="category_game_sort">сортировка</string>
+     <string name="category_game_sort">Сортировка</string>
      <string name="category_game_sort_default">по умолчанию</string>
-     <string name="category_game_sort_download">скачать</string>
-     <string name="category_game_sort_favourate">по favourate</string>
+     <string name="category_game_sort_download">По загрузкам</string>
+     <string name="category_game_sort_favourate">по избранным</string>
      <string name="category_game_sort_rank">по рангу</string>
      <string name="category_header">Все (%1$s)</string>
      <string name="category_info_invalid">Неверная информация о категории</string>
@@ -82,11 +82,11 @@
      <string name="comment_version_name">(версия %1$s)</string>
      <string name="confirm">OK</string>
      <string name="confirm_apply_gift">Провести %s очков?</string>
-     <string name="connect_fail">%1$s - установка не удалась: ошибка соединения, пожалуйста, проверьте сетевое соединение</string>
+     <string name="connect_fail">%1$s - установка не удалась: ошибка соединения. Проверьте сетевое соединение.</string>
      <string name="connect_network_fail">Ошибка соединения</string>
      <string name="connect_network_hint">Game Center требуется доступ к сети. Включите мобильную сеть или Wi-Fi для загрузки данных.</string>
      <string name="connect_network_settings">Настройки</string>
-     <string name="connect_no_fit_fail">%1$s - установка не удалась: нет подходящих пакетов установки для вашего телефона</string>
+     <string name="connect_no_fit_fail">%1$s - установка не удалась: нет подходящих пакетов установки для Вашего телефона</string>
      <string name="connecting">подключение</string>
      <string name="copy">Копировать</string>
      <string name="copy_success">Скопировано!</string>
@@ -115,8 +115,8 @@
      <string name="download_manager_install_apk_not_exists">АПК не существует</string>
      <string name="download_manager_install_cancel_manual">Отменена пользователем</string>
      <string name="download_manager_install_cancel_unzipping">Распаковка не удалась. Недостаточно места на SD-карте.</string>
-     <string name="download_manager_install_fail_unkown">Не удалось установить.</string>
-     <string name="download_manager_install_inconsistent_certificates">"Сертификаты не соответствуют."</string>
+     <string name="download_manager_install_fail_unkown">Не удалось установить</string>
+     <string name="download_manager_install_inconsistent_certificates">Сертификаты не соответствуют</string>
      <string name="download_manager_install_insufficient_storage">Не хватает места на диске</string>
      <string name="download_manager_install_no_permission">У вас нет разрешения</string>
      <string name="download_manager_install_uninstall_fail">Не удалось удалить</string>
@@ -264,14 +264,14 @@
      <string name="issu_chuli_wanchen">Решена</string>
      <string name="issu_comm_evaluated">Обратная связь</string>
      <string name="issu_evaluated">Обратная связь</string>
-     <string name="issu_goto_feedback">A a сообщить о проблеме a a</string>
+     <string name="issu_goto_feedback">Сообщить о проблеме</string>
      <string name="issu_grade">Обратная связь:</string>
      <string name="issu_grade_content">Обратная связь содержания:</string>
      <string name="issu_grade_msg">Дополнительные комментарии</string>
-     <string name="issu_grade_no_content">Пусто.</string>
+     <string name="issu_grade_no_content">Пусто</string>
      <string name="issu_grade_tijiao">Отправить</string>
      <string name="issu_manyi">Удовлетворен</string>
-     <string name="issu_no_content">Нет вопросов.</string>
+     <string name="issu_no_content">Нет вопросов</string>
      <string name="issu_no_manyi">Неудовлетворен</string>
      <string name="issu_no_satisfied">Спасибо за ваш отзыв!</string>
      <string name="issu_number">Вопрос: %d</string>
@@ -380,7 +380,7 @@
      <string name="online_game_hot">Хиты</string>
      <string name="online_game_new">Новые</string>
      <string name="password_hint">Пароль</string>
-     <string name="password_invalid">Пароль недействительный. Пожалуйста, введите 8-16 комбинацию из цифр и/или букв.</string>
+     <string name="password_invalid">Пароль недействительный. Введите 8-16 комбинацию из цифр и/или букв.</string>
      <string name="pause">Пауза</string>
      <string name="paused">приостановленно</string>
      <string name="paused_with_reason">&lt;font color=#909090>Приостановлено: %1$s%%&lt;/font> &lt;font color=#f76811>%2$s&lt;/font></string>
@@ -470,7 +470,7 @@
      <string name="start_game">Играть</string>
      <string name="status_downloading">Загрузка: %1$s%%</string>
      <string name="status_unzipping">Распаковка</string>
-     <string name="string_account_network_error_check">Пожалуйста, проверьте параметры подключения.</string>
+     <string name="string_account_network_error_check">Проверьте параметры подключения</string>
      <string name="string_account_network_error_data_failed">Загрузка не удалась</string>
      <string name="subject_lists">Список тем игр</string>
      <string name="system_app_sign_not_match_fail">%1$s установка не удалась из-за конфликта подписей</string>
@@ -567,7 +567,7 @@
      <string name="vip_home_update_level">&lt;font color=#2a2a2a>Очков необходимо, чтобы уровень поднялся&lt;/font>&lt;font color=#fd8000>%d&lt;/font>&lt;font color=#2a2a2a>RMB&lt;/font></string>
      <string name="vip_home_valid_end_pre">&lt;font color=#2a2a2a>Истекает через: &lt;/font>%s</string>
      <string name="vip_home_valid_end_suf">&lt;font color=#767676>(%d осталось дней)&lt;/font></string>
-     <string name="vip_home_vip_top_level">Вы наш Top VIP.</string>
+     <string name="vip_home_vip_top_level">Вы наш Top VIP</string>
      <string name="vip_info_unknown">нет</string>
      <string name="vip_jifen_text">%d Пунктов</string>
      <string name="vip_level_expried_text">Истекает : в%s</string>
@@ -575,15 +575,15 @@
      <string name="vip_personal_info_edit_tip2">Please complete personal information to help us provide better service.</string>
      <string name="vip_servicer">VIP-Ассистент</string>
      <string name="vip_title_gift">GamePacks</string>
-     <string name="vip_valid_forever">Срок Действия Не Истек.</string>
+     <string name="vip_valid_forever">Срок Действия Не Истек</string>
      <string name="vip_welcome_complex_info">Редактирование информации</string>
      <string name="vip_welcome_go_gamecenter">Перейдите в раздел Игры</string>
      <string name="visiting_appointments">Встречи</string>
      <string name="webkit_errpage_btn_text">Обновить</string>
-     <string name="webkit_errpage_tip">Пожалуйста, проверьте подключение.</string>
+     <string name="webkit_errpage_tip">Проверьте подключение</string>
      <string name="welcome_select_games">Выберите хотя бы одну игру и нажмите кнопку установки :)</string>
      <string name="welcome_skip_button">Далее</string>
-     <string name="welcome_subtitle">Попробуйте эти игры! :)</string>
+     <string name="welcome_subtitle">Попробуйте эти игры :)</string>
      <string name="welcome_title">Добро пожаловать!</string>
      <string name="yestoday">Вчера</string>
 </resources>

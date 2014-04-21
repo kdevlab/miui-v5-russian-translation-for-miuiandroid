@@ -279,18 +279,18 @@
      <string name="experimental_validate_thanks">Спасибо!</string>
      <string name="experimental_validate_username">Логин Xiaomi</string>
      <string name="experimental_validate_warning">Каждое Ваше исследование помогает стать MIUI лучше!</string>
-     <string name="find_device_check_sim">Проверка SIM…</string>
+     <string name="find_device_check_sim">Проверка SIM-карты…</string>
      <string name="find_device_sim_change_instructions">"Ваше устройство заблокировано. 
-Вставьте SIM-карту или введите Ваш пароль для аккаунта Xiaomi."</string>
+Вставьте SIM-карту или введите пароль для аккаунта Xiaomi."</string>
      <string name="find_device_sim_change_instructions_no_network">"Ваше устройство заблокировано. 
 Пожалуйста, вставьте оригинальную SIM-карту."</string>
      <string name="find_device_turn_off_flight_mode">Отключите режим полета</string>
      <string name="find_device_turn_off_flight_mode_instructions">"Ваше устройство заблокировано. 
 Пожалуйста, отключите режим полета."</string>
      <string name="firewall_setting">Черный список</string>
-     <string name="first_back_long_press_message">"Вы хотите, чтобы функция долгого нажатия клавишуи возврата, закрывало приложение и его сервисы? 
+     <string name="first_back_long_press_message">"Вы хотите, чтобы функция долгого нажатия клавиши возврата, закрывало приложение и его сервисы? 
 
-Включите через Настройки > Система > Настройки кнопок"</string>
+Включите через Настройки > Система > Настройки кнопок".</string>
      <string name="fools_day" />
      <string name="force_exit_message">Приложение \"%1$s\" закрыто</string>
      <string name="forget_password_string">Вспомнить</string>
@@ -483,7 +483,7 @@ EEEE"</string>
      <string name="unlockscreen_low_battery">Подключите зарядное устройство</string>
      <string name="unlockscreen_recharge_completed">Зарядка завершена</string>
      <string name="unlockscreen_recharging_message">Идет зарядка - %d%%</string>
-     <string name="user_agreement1">Вы будете использовать системы и интернет-услуги, предоставляемые Xiaomi, пожалуйста, прочитайте</string>
+     <string name="user_agreement1">Вы будете использовать системы и интернет-услуги, предоставляемые Xiaomi. Пожалуйста, прочитайте</string>
      <string name="user_agreement2">" Пользовательское соглашение "</string>
      <string name="user_agreement3">" и "</string>
      <string name="user_agreement4">Политику конфиденциальности</string>
