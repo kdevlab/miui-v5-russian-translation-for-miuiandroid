@@ -364,8 +364,8 @@
      <string name="pref_file_downlaod_save_reset_default_settings">Настройки по умолчанию</string>
      <string name="pref_file_download_save_modify_default_path">Изменить путь сохранения</string>
      <string name="pref_file_download_save_title">Загрузить и сохранить файл</string>
-     <string name="pref_fling_on_border_enabled">Слайд по границе</string>
-     <string name="pref_fling_on_border_enabled_title_summary">Слайд по границе экрана</string>
+     <string name="pref_fling_on_border_enabled">Слайд от края экрана</string>
+     <string name="pref_fling_on_border_enabled_title_summary">Слайд от левого или правого края экрана переключает вкладки</string>
      <string name="pref_fling_on_border_operation">Функция при слайде</string>
      <string name="pref_font_size_category">Размер текста</string>
      <string name="pref_force_userscalable">Фиксировать масштаб</string>
@@ -539,10 +539,10 @@
      <string name="storage_usb">USB-накопитель</string>
      <string name="sub_sync_item_browser_title_cloud_tab">Синхр. вкладки</string>
      <string name="sub_sync_item_browser_title_cloud_tab_summary">Синхронизировать открытые вкладки на различных устройствах</string>
-     <string name="sub_sync_item_browser_title_history">Синхр. истории</string>
+     <string name="sub_sync_item_browser_title_history">Синхр. историю</string>
      <string name="sub_sync_item_browser_title_history_summary">Синхронизировать историю просмотров</string>
-     <string name="sub_sync_item_browser_title_novel">Sync novels</string>
-     <string name="sub_sync_item_browser_title_novel_summary">Sync novels of browser</string>
+     <string name="sub_sync_item_browser_title_novel">Синхр. книги</string>
+     <string name="sub_sync_item_browser_title_novel_summary">Синхронизировать книги браузера</string>
      <string name="sync_item_browser_summary">Синхронизировать данные в облако - легкое использование браузера на разных устройствах</string>
      <string name="sync_item_browser_title">Синхронизация браузера</string>
      <string name="tab_closed">Вкладка закрыта</string>
