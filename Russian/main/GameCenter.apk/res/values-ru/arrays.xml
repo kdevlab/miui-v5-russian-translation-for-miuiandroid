@@ -67,7 +67,7 @@
         <item>Lottery</item>
         <item>Стратегии</item>
         <item>Популярные</item>
-        <item>рекомендуемые</item>
+        <item>Рекомендуемые</item>
         <item>Новые</item>
         <item>Обновления</item>
         <item>Beta</item>
@@ -88,7 +88,7 @@
         <item>как получить очки?</item>
      </string-array>
      <string-array name="my_page_dialog_hint">
-        <item>4-18 characters: (letters, characters, and numbers)</item>
+        <item>4-18 символов: (буквы, цифры и спецсимволы)</item>
         <item></item>
         <item></item>
         <item></item>
@@ -96,12 +96,12 @@
         <item></item>
      </string-array>
      <string-array name="my_page_dialog_titles">
-        <item>Nickname</item>
-        <item>Gender</item>
-        <item>Birthday</item>
-        <item>Phone</item>
+        <item>Ник</item>
+        <item>Пол</item>
+        <item>День рождения</item>
+        <item>Телефон</item>
         <item>QQ</item>
-        <item>City</item>
+        <item>Город</item>
      </string-array>
      <string-array name="my_page_hints">
         <item>Service when you need it.</item>
@@ -112,16 +112,16 @@
         <item>Activities</item>
      </string-array>
      <string-array name="my_page_sexs">
-        <item>Male</item>
-        <item>Female</item>
+        <item>Муж</item>
+        <item>Жен</item>
      </string-array>
      <string-array name="my_page_titles">
-        <item>Nick Name</item>
-        <item>Gender</item>
-        <item>Birthday</item>
-        <item>Mobile</item>
+        <item>Ник</item>
+        <item>Пол</item>
+        <item>День рождения</item>
+        <item>Телефон</item>
         <item>QQ</item>
-        <item>Area</item>
+        <item>Город</item>
      </string-array>
      <string-array name="permission_description">
         <item>Access coarse location sources such as the cellular network database to determine an approximate phone location, where available. Malicious applications can use this to determine approximately where you are.</item>
@@ -489,17 +489,17 @@
      </string-array>
      <string-array name="user_level_rule">
         <item>Ежедневный вход</item>
-        <item>Загрузк игр</item>
+        <item>Загрузка игр</item>
      </string-array>
      <string-array name="user_level_rule_value">
-        <item>+5 опыта(один день)</item>
-        <item>+5 опыта (5 дней подряд)</item>
+        <item>+5 очков(1х в день)</item>
+        <item>+5 очков(5х в день)</item>
      </string-array>
      <string-array name="vip_info_values">
-        <item>pts</item>
-        <item>credits</item>
-        <item>level</item>
-        <item>games</item>
+        <item>очков</item>
+        <item>баланс</item>
+        <item>уровень</item>
+        <item>игр</item>
      </string-array>
      <string-array name="vip_level_rule">
         <item>How to upgrade</item>
