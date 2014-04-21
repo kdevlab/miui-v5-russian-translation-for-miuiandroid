@@ -576,7 +576,6 @@
      <string name="quick_3">Я отвечу позже</string>
      <string name="quick_4">Это нужно обсудить при встрече</string>
      <string name="quick_responses_empty_view">Нет шаблонов для быстрых ответов</string>
-     <string name="quote_begin">&lt;div class=\"quote\"></string>
      <string name="quoted_text">Включить цитируемый текст</string>
      <string name="quoted_text_label">Цитировать</string>
      <string name="read_string">прочитано</string>
@@ -642,7 +641,7 @@
      <string name="shortcut_name_title">Ярлык папки</string>
      <string name="show_elided">▶ Показать цитируемый текст</string>
      <string name="show_images">Показать картинки</string>
-     <string name="show_n_more_folders">Показать ещt папки (%1$s)</string>
+     <string name="show_n_more_folders">Показать еще папки (%1$s)</string>
      <string name="signature">"
 
 %s"</string>
@@ -686,7 +685,7 @@
      <string name="turn_auto_sync_on_dialog_body">Изменения, которые Вы вносите во все приложения и аккаунты (не только Gmail), будут синхронизироваться между интернетом, другими вашими устройствами и вашим %1$s. Включить автосинхронизацию?</string>
      <string name="turn_auto_sync_on_dialog_confirm_btn">OK</string>
      <string name="turn_auto_sync_on_dialog_title">Включение автосинхронизации</string>
-     <string name="undo">Undo</string>
+     <string name="undo">Отменить</string>
      <string name="unread_string">не прочитано</string>
      <string name="unsent_messages_in_outbox">Неотправленных сообщений в папке \"%2$s\": %1$s</string>
      <string name="updated_at">Обновлено:%1$s</string>
@@ -701,9 +700,9 @@
      <string name="wait_for_manual_sync_body">"В этом аккаунте не настроена автоматическая синхронизация.
 Выберите "<b>Настройки синхронизации</b>, чтобы включить ее, или <b>Синхронизировать сейчас</b>, чтобы синхронизировать почту один раз.</string>
      <string name="wait_for_sync_body">Ваши сообщения загружаются</string>
-     <string name="wait_for_sync_body_2">Exchange Server спросит Вас через 1-30 секунд. Пожалуйста, подтвердите настройки безопасности и активируйте. Обратите внимание на предупреждение системы.</string>
+     <string name="wait_for_sync_body_2">Сервер Exchange спросит Вас через 1-30 секунд. Пожалуйста, подтвердите настройки безопасности и активируйте. Обратите внимание на предупреждение системы.</string>
      <string name="wait_for_sync_title">Синхронизация…</string>
-     <string name="wait_help_context">wait</string>
+     <string name="wait_help_context">подождите</string>
      <string name="widget_all_mail">Все входящие</string>
      <string name="widget_large_unread_count">%d+</string>
      <string name="widget_other_views">Нажмите, чтобы изменить</string>
