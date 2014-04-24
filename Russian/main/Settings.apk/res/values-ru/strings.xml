@@ -383,8 +383,11 @@
      <string name="battery_desc_voice">Использование батареи для голосовых вызовов</string>
      <string name="battery_desc_wifi">Использование батареи модулем Wi-Fi</string>
      <string name="battery_history_days">%1$d дн. %2$d ч. %3$d мин. %4$d с.</string>
+	 <string name="battery_history_days_no_seconds">%1$d дн. %2$d ч. %3$d мин.</string>
      <string name="battery_history_hours">%1$d ч. %2$d мин. %3$d с.</string>
+	 <string name="battery_history_hours_no_seconds">%1$d ч. %2$d мин.</string>
      <string name="battery_history_minutes">%1$d мин. %2$d с.</string>
+	 <string name="battery_history_minutes_no_seconds">%1$d мин.</string>
      <string name="battery_history_seconds">%1$d с.</string>
      <string name="battery_indicator_style">Стиль индикатора батареи</string>
      <string name="battery_info_awake_battery">Время работы от батареи:</string>
