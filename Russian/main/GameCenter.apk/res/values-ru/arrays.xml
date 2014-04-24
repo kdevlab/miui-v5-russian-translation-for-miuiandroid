@@ -40,44 +40,44 @@
         <item>Войти с Gmail</item>
      </string-array>
      <string-array name="game_fee">
-        <item>Pay</item>
-        <item>In-app purchases</item>
-        <item>Free</item>
+        <item>Платная</item>
+        <item>Покупки в игре</item>
+        <item>Бесплатная</item>
      </string-array>
      <string-array name="game_packet">
-        <item>Download contents:</item>
+        <item>Загружаемый контент:</item>
      </string-array>
      <string-array name="game_privacy">
-        <item>access messages</item>
-        <item>access contacts</item>
-        <item>access device number</item>
+        <item>доступ к сообщениям</item>
+        <item>доступ к контактам</item>
+        <item>доступ к номеру телефона</item>
      </string-array>
      <string-array name="game_tag">
-        <item>Promotion</item>
-        <item>New service</item>
-        <item>New low price</item>
-        <item>Cashback</item>
+        <item>Продвижение</item>
+        <item>Новая услуга</item>
+        <item>Новая скидка</item>
+        <item>Возврат денег</item>
         <item>Get number</item>
         <item>Бета</item>
         <item>Закрытые бета</item>
         <item>Starting line</item>
         <item>VIP service</item>
-        <item>Exclusive</item>
+        <item>Эксклюзив</item>
         <item>GamePack</item>
-        <item>Lottery</item>
+        <item>Лотерея</item>
         <item>Стратегии</item>
         <item>Популярные</item>
         <item>Рекомендуемые</item>
         <item>Новые</item>
         <item>Обновления</item>
-        <item>Beta</item>
+        <item>Бета</item>
         <item>Официальные</item>
         <item>HD</item>
         <item>3D</item>
         <item>Guarantee</item>
         <item>Pay</item>
         <item>Zone</item>
-        <item>"Editor's Choice"</item>
+        <item>"Выбор редакции"</item>
         <item></item>
         <item></item>
         <item></item>
@@ -104,16 +104,16 @@
         <item>Город</item>
      </string-array>
      <string-array name="my_page_hints">
-        <item>Service when you need it.</item>
+        <item>Обслуживание, когда это необходимо.</item>
         <item></item>
-        <item>Birthday GamePack based on info provided</item>
-        <item>GamePack notifications</item>
-        <item>Hangouts with our other gamers!</item>
-        <item>Activities</item>
+        <item>GamePack на День Рождения на основе предоставленной информации</item>
+        <item>Уведомления о GamePack</item>
+        <item>Тусовки с другими игроками!</item>
+        <item>Активность</item>
      </string-array>
      <string-array name="my_page_sexs">
-        <item>Муж</item>
-        <item>Жен</item>
+        <item>Мужской</item>
+        <item>Женский</item>
      </string-array>
      <string-array name="my_page_titles">
         <item>Ник</item>
@@ -121,371 +121,371 @@
         <item>День рождения</item>
         <item>Телефон</item>
         <item>QQ</item>
-        <item>Город</item>
+        <item>Местонахождение</item>
      </string-array>
      <string-array name="permission_description">
-        <item>Access coarse location sources such as the cellular network database to determine an approximate phone location, where available. Malicious applications can use this to determine approximately where you are.</item>
-        <item>Access fine location sources such as the Global Positioning System on the phone, where available. Malicious applications can use this to determine where you are, and may consume additional battery power.</item>
-        <item>Access extra location provider commands. Malicious applications could use this to interfere with the operation of the GPS or other location sources.</item>
-        <item>Create mock location sources for testing. Malicious applications can use this to override the location and/or status returned by real location sources such as GPS or Network providers.</item>
-        <item>Allows access to the kernel MTP driver to implement the MTP USB protocol.</item>
-        <item>Allows an application to view the state of all networks.</item>
-        <item>Allows application to use SurfaceFlinger low-level features.</item>
-        <item>Allows an application to view the information about the state of Wi-Fi.</item>
-        <item>Allows an application to view the information about the state of WiMAX.</item>
-        <item>Allows an application to make calls to AccountAuthenticators</item>
-        <item>Allows the application to add messages to your voicemail inbox.</item>
-        <item>Allows an application to use any installed media decoder to decode for playback.</item>
-        <item>Allows the application to get information on internal storage.</item>
-        <item>Allows the application to create internal storage.</item>
-        <item>Allows the application to destroy internal storage.</item>
-        <item>Allows the application to mount / unmount internal storage.</item>
-        <item>Allows the application to rename internal storage.</item>
-        <item>Allows an application to use the account authenticator capabilities of the AccountManager, including creating accounts and getting and setting their passwords.</item>
-        <item>"Allows the application to control the system's backup and restore mechanism. Not for use by normal applications."</item>
-        <item>Allows the modification of collected battery statistics. Not for use by normal applications.</item>
-        <item>Allows the modification of collected battery statistics. Not for use by normal applications.</item>
-        <item>Allows the holder to send intents to a device administrator. Should never be needed for normal applications.</item>
-        <item>Allows the application to tell the system which widgets can be used by which application. With this permission, applications can give access to personal data to other applications. Not for use by normal applications.</item>
-        <item>Allows the holder to bind to the top-level interface of an input method. Should never be needed for normal applications.</item>
-        <item>Allows the holder to make requests of package verifiers. Should never be needed for normal applications.</item>
-        <item>Allows the holder to bind to the top-level interface of a widget service. Should never be needed for normal applications.</item>
-        <item>Allows the holder to bind to the top-level interface of a text service(e.g. SpellCheckerService). Should never be needed for normal applications.</item>
-        <item>Allows the holder to bind to the top-level interface of a Vpn service. Should never be needed for normal applications.</item>
-        <item>Allows the holder to bind to the top-level interface of a wallpaper. Should never be needed for normal applications.</item>
-        <item>Allows an application to view configuration of the local Bluetooth phone, and to make and accept connections with paired devices.</item>
-        <item>Allows an application to configure the local Bluetooth phone, and to discover and pair with remote devices.</item>
-        <item>Allows the application to disable the entire phone permanently. This is very dangerous.</item>
-        <item>Allows an application to broadcast a notification that an application package has been removed. Malicious applications may use this to kill any other running application.</item>
-        <item>Allows an application to broadcast a notification that an SMS message has been received. Malicious applications may use this to forge incoming SMS messages.</item>
-        <item>Allows an application to send sticky broadcasts, which remain after the broadcast ends. Malicious applications can make the phone slow or unstable by causing it to use too much memory.</item>
-        <item>Allows an application to broadcast a notification that a WAP PUSH message has been received. Malicious applications may use this to forge MMS message receipt or to silently replace the content of any web page with malicious variants.</item>
-        <item>Allows an application to read and write the cache filesystem.</item>
-        <item>Allows the application to call phone numbers without your intervention. Malicious applications may cause unexpected calls on your phone bill. Note that this does not allow the application to call emergency numbers.</item>
-        <item>Allows the application to call any phone number, including emergency numbers, without your intervention. Malicious applications may place unnecessary and illegal calls to emergency services.</item>
-        <item>Allows application to take pictures and videos with the camera. This allows the application at any time to collect images the camera is seeing.</item>
-        <item>Allows an application to change the background data usage setting.</item>
-        <item>Allows an application to change whether a component of another application is enabled or not. Malicious applications can use this to disable important phone capabilities. Care must be used with this permission, as it is possible to get application components into an unusable, inconsistent, or unstable state.</item>
-        <item>Allows an application to change the current configuration, such as the locale or overall font size.</item>
-        <item>Allows an application to change the state of network connectivity.</item>
-        <item>Allows an application to receive packets not directly addressed to your device. This can be useful when discovering services offered near by. It uses more power than the non-multicast mode.</item>
-        <item>Allows an application to connect to and disconnect from Wi-Fi access points, and to make changes to configured Wi-Fi networks.</item>
-        <item>Allows an application to connect to and disconnect from WiMAX network.</item>
-        <item>Allows read/write access to properties uploaded by the checkin service. Not for use by normal applications.</item>
-        <item>Allows an application to free phone storage by deleting files in application cache directory. Access is very restricted usually to system process.</item>
-        <item>Allows an application to clear user data.</item>
-        <item>Allows the application to launch the full backup confirmation UI. Not to be used by any application.</item>
-        <item>Allows to invoke default container service to copy content. Not for use by normal applications.</item>
-        <item>Allows an application to create network sockets.</item>
-        <item>Allows an application to delete cache files.</item>
-        <item>Allows an application to delete Android packages. Malicious applications can use this to delete important applications.</item>
-        <item>Allows the application to turn the phone on or off.</item>
-        <item>Allows an application to read and write to any resource owned by the diag group; for example, files in /dev. This could potentially affect system stability and security. This should be ONLY be used for hardware-specific diagnostics by the manufacturer or operator.</item>
-        <item>Allows an application to disable the keylock and any associated password security. A legitimate example of this is the phone disabling the keylock when receiving an incoming phone call, then re-enabling the keylock when the call is finished.</item>
-        <item>Allows application to retrieve internal state of the system. Malicious applications may retrieve a wide variety of private and secure information that they should never normally need.</item>
-        <item>Allows application to expand or collapse the status bar.</item>
-        <item>Run as a low-level manufacturer test, allowing complete access to the phone hardware. Only available when a phone is running in manufacturer test mode.</item>
-        <item>Allows the application to control the flashlight.</item>
-        <item>Allows an application to force any activity that is in the foreground to close and go back. Should never be needed for normal applications.</item>
-        <item>Allows an application to forcibly stop other applications.</item>
-        <item>Allows an application to get the list of accounts known by the phone.</item>
-        <item>Allows an application to retrieve its code, data, and cache sizes</item>
-        <item>Allows application to retrieve information about currently and recently running tasks. May allow malicious applications to discover private information about other applications.</item>
-        <item>Allows the application to control various peripherals for the purpose of hardware testing.</item>
-        <item>Allows an application to deliver its own input events (key presses, etc.) to other applications. Malicious applications can use this to take over the phone.</item>
-        <item>Create mock location sources for testing. Malicious applications can use this to override the location and/or status returned by real location sources such as GPS or Network providers or monitor and report your location to an external source.</item>
-        <item>Allows an application to install new or updated Android packages. Malicious applications can use this to add new applications with arbitrarily powerful permissions.</item>
-        <item>Allows the creation of windows that are intended to be used by the internal system user interface. Not for use by normal applications.</item>
-        <item>"Allows an application to kill background processes of other applications, even if memory isn't low."</item>
-        <item>"Allows an application to kill background processes of other applications, even if memory isn't low."</item>
-        <item>Allows enabling/disabling location update notifications from the radio. Not for use by normal applications.</item>
-        <item>Allows an application to perform operations like adding, and removing accounts and deleting their password.</item>
-        <item>Allows applications to create and manage their own tokens, bypassing their normal Z-ordering. Should never be needed for normal applications.</item>
-        <item>Allows an application to manage network policies and define application-specific rules.</item>
-        <item>Allows the application to manage preferences and permissions for USB devices.</item>
-        <item>Allows an application to completely reset the system to its factory settings, erasing all data, configuration, and installed applications.</item>
-        <item>Allows an application to modify the contents of the internal media storage.</item>
-        <item>Allows application to modify global audio settings such as volume and routing.</item>
-        <item>Allows modification of how network usage is accounted against applications. Not for use by normal applications.</item>
-        <item>Allows the application to control the phone features of the device. An application with this permission can switch networks, turn the phone radio on and off and the like without ever notifying you.</item>
-        <item>Allows the application to format removable storage.</item>
-        <item>Allows the application to mount and unmount filesystems for removable storage.</item>
-        <item>Allows an application to move application resources from internal to external media and vice versa.</item>
-        <item>Allows an application to communicate with Near Field Communication (NFC) tags, cards, and readers.</item>
-        <item>Allows the application to verify a package is installable.</item>
-        <item>Allows the application to start CDMA provisioning. Malicious applications may unnecessarily start CDMA provisioning</item>
-        <item>"Allows an application to make parts of itself persistent, so the system can't use it for other applications."</item>
-        <item>Allows the modification of collected component usage statistics. Not for use by normal applications.</item>
-        <item>Allows application to process outgoing calls and change the number to be dialed. Malicious applications may monitor, redirect, or prevent outgoing calls.</item>
-        <item>"Allows an application to read all calendar events stored on your phone, including those of friends or coworkers. A malicious application with this permission can extract personal information from these calendars without the owners' knowledge."</item>
-        <item>Allows an application to read all of the contact (address) data stored on your phone. Malicious applications can use this to send your data to other people.</item>
-        <item>Allows an application to read any private words, names and phrases that the user may have stored in the user dictionary.</item>
-        <item>Allows application to read the content of the frame buffer.</item>
-        <item>"Allows the application to read all the URLs that the Browser has visited, and all of the Browser's bookmarks."</item>
-        <item>Allows applications to watch the keys you press even when interacting with another application (such as entering a password). Should never be needed for normal applications.</item>
-        <item>"Allows an application to read from the system's various log files. This allows it to discover general information about what you are doing with the phone, potentially including personal or private information."</item>
-        <item>Allows an application to read historical network usage for specific networks and applications.</item>
-        <item>Allows the application to access the phone features of the device. An application with this permission can determine the phone number and serial number of this phone, whether a call is active, the number that call is connected to and the like.</item>
-        <item>Allows the application to read personal profile information stored on your device, such as your name and contact information. This means the application can identify you and send your profile information to others.</item>
-        <item>Allows application to read SMS messages stored on your phone or SIM card. Malicious applications may read your confidential messages.</item>
-        <item>Allows the application to access and sync social updates from you and your friends. Malicious apps can use this to read private communications between you and your friends on social networks.</item>
-        <item>Allows an application to read the sync settings, such as whether sync is enabled for Contacts.</item>
-        <item>Allows an application to read the sync stats; e.g., the history of syncs that have occurred.</item>
-        <item>Allows the application to force the phone to reboot.</item>
-        <item>Allows an application to have itself started as soon as the system has finished booting. This can make it take longer to start the phone and allow the application to slow down the overall phone by always running.</item>
-        <item>Allows application to receive and process emergency broadcast messages. This permission is only available to system applications.</item>
-        <item>Allows application to receive and process MMS messages. Malicious applications may monitor your messages or delete them without showing them to you.</item>
-        <item>Allows application to receive and process SMS messages. Malicious applications may monitor your messages or delete them without showing them to you.</item>
-        <item>Allows application to receive and process WAP messages. Malicious applications may monitor your messages or delete them without showing them to you.</item>
-        <item>Allows application to access the audio record path.</item>
-        <item>Allows an application to remove tasks and kill their applications. Malicious applications can disrupt the behavior of other applications.</item>
-        <item>Allows an application to move tasks to the foreground and background. Malicious applications can force themselves to the front without your control.</item>
-        <item>Allows application to retrieve the content of the active window. Malicious applications may retrieve the entire window content and examine all its text except passwords.</item>
-        <item>Allows an application to monitor and control how the system launches activities. Malicious applications may completely compromise the system. This permission is only needed for development, never for normal use.</item>
-        <item>Allows an application to write to the SD card.</item>
-        <item>Allows application to send SMS messages. Malicious applications may cost you money by sending messages without your confirmation.</item>
-        <item>Allows application to send SMS messages. Malicious applications may cost you money by sending messages without your confirmation.</item>
-        <item>Allows the application to set an alarm in an installed alarm clock application. Some alarm clock applications may not implement this feature.</item>
-        <item>Allows an application to control whether activities are always finished as soon as they go to the background. Never needed for normal applications.</item>
-        <item>Allows an application to change the global animation speed (faster or slower animations) at any time.</item>
-        <item>Allows an application to turn on debugging for another application. Malicious applications can use this to kill other applications.</item>
-        <item>Allows an application to change the rotation of the screen at any time. Should never be needed for normal applications.</item>
-        <item>Allows an application to change the mouse or trackpad pointer speed at any time. Should never be needed for normal applications.</item>
-        <item>Allows an application to modify your preferred applications. This can allow malicious applications to silently change the applications that are run, spoofing your existing applications to collect private data from you.</item>
-        <item>Allows an application to control the maximum number of processes that will run. Never needed for normal applications.</item>
-        <item>"Allows an application to change the phone's clock time."</item>
-        <item>"Allows an application to change the phone's time zone."</item>
-        <item>Allows the application to set the system wallpaper.</item>
-        <item>Allows the application to set the system wallpaper size hints.</item>
-        <item>Puts the activity manager into a shutdown state. Does not perform a complete shutdown.</item>
-        <item>Allows application to request that the supplied signal be sent to all persistent processes.</item>
-        <item>Allows application to disable the status bar or add and remove system icons.</item>
-        <item>Allows the application to be the status bar.</item>
-        <item>Prevents the user from switching to another application.</item>
-        <item>Allows an application to get details about the currently synced feeds.</item>
-        <item>Allows an application to modify your currently synced feeds. This could allow a malicious application to change your synced feeds.</item>
-        <item>Allows an application to show system alert windows. Malicious applications can take over the entire screen.</item>
-        <item>Allows an application to use the SIP service to make/receive Internet calls.</item>
-        <item>Allows an application to request authentication tokens.</item>
-        <item>Allows the application to control the vibrator.</item>
-        <item>Allows an application to prevent the phone from going to sleep.</item>
-        <item>Allows an application to change network settings and to intercept and inspect all network traffic, for example to change the proxy and port of any APN. Malicious applications could monitor, redirect, or modify network packets without your knowledge.</item>
-        <item>"Allows an application to send event invitations as the calendar owner and add, remove, change events that you can modify on your device, including those of friends or co-workers. A malicious application with this permission can send spam emails that appear to come from calendar owners, modify events without the owners' knowledge, or add fake events."</item>
-        <item>Allows an application to modify the contact (address) data stored on your phone. Malicious applications can use this to erase or modify your contact data.</item>
-        <item>Allows an application to write new words into the user dictionary.</item>
-        <item>Allows an application to modify the Google services map. Not for use by normal applications.</item>
-        <item>"Allows an application to modify the Browser's history or bookmarks stored on your phone. Malicious applications can use this to erase or modify your Browser's data."</item>
-        <item>Allows the application to change or add to personal profile information stored on your device, such as your name and contact information. This means other applications can identify you and send your profile information to others.</item>
-        <item>"Allows an application to modify the system's secure settings data. Not for use by normal applications."</item>
-        <item>"Allows an application to modify the system's settings data. Malicious applications can corrupt your system's configuration."</item>
-        <item>Allows application to write to SMS messages stored on your phone or SIM card. Malicious applications may delete your messages.</item>
-        <item>Allows the application to display social updates from your friends. Malicious apps can use this to pretend to be a friend and trick you into revealing passwords or other confidential information.</item>
-        <item>Allows an application to modify the sync settings, such as whether sync is enabled for Contacts.</item>
+        <item>Разрешает приложению получать данные о вашем примерном местоположении с помощью служб определения местоположения, вышек сотовой связи и точек доступа Wi-Fi. Эти службы должны быть включены на устройстве, а приложению должно быть разрешено их использовать.</item>
+        <item>Разрешает приложению получать данные о вашем точном местоположении с помощью глобального позиционирования (GPS), вышек сотовой связи и точек доступа Wi-Fi. Эти службы должны быть включены на устройстве, а приложению должно быть разрешено их использовать. Это может вести к дополнительному расходу заряда батареи.</item>
+        <item>Приложение получит доступ к дополнительным командам управления источниками геоданных и сможет вмешиваться в работу системы GPS или других источников геоданных.</item>
+        <item>Приложение сможет создавать фиктивные местоположения для тестирования или установки нового источника геоданных и переопределять местоположение и/или статус, возвращаемые другими источниками, такими как система GPS.</item>
+        <item>Разрешает доступ к драйверу основного устройства MTP для реализации протокола MTP USB.</item>
+        <item>Приложение сможет просматривать информацию о сетевых подключениях, например о том, какие сети доступны и к каким из них вы подключены.</item>
+        <item>Приложение сможет использовать низкоуровневые функции SurfaceFlinger.</item>
+        <item>Приложение сможет просматривать информацию о сети Wi-Fi: состояние сети и имена подключенных устройств.</item>
+        <item>Приложение сможет определять, активирован ли WiMAX, а также получать информацию о подключенных сетях WiMAX.</item>
+        <item>Приложение сможет вызывать службы аутентификации аккаунта.</item>
+        <item>Приложение сможет добавлять голосовые сообщения в папку \"Входящие\".</item>
+        <item>Приложение сможет использовать любой установленный дешифратор.</item>
+        <item>Приложение сможет получать сведения о внутреннем хранилище.</item>
+        <item>Приложение сможет создать внутреннее хранилище.</item>
+        <item>Приложение сможет удалить внутреннее хранилище.</item>
+        <item>Приложение сможет подключать и отключать внутреннее хранилище.</item>
+        <item>Приложение сможет переименовывать внутреннее хранилище.</item>
+        <item>Приложение сможет использовать возможности аутентификации диспетчера аккаунтов, в том числе создавать аккаунты, получать и устанавливать пароли для них.</item>
+        <item>"Приложение сможет управлять механизмами резервного копирования и восстановления системы. Это разрешение не используется обычными приложениями."</item>
+        <item>Разрешает приложению получать данные об использовании батареи на низшем уровне. В результате оно может иметь доступ к информации об используемых вами программах.</item>
+        <item>Разрешает приложению получать данные об использовании батареи на низшем уровне. В результате оно может иметь доступ к информации об используемых вами программах.</item>
+        <item>Приложение сможет отправлять запросы на предоставление доступа администратора устройства. Это разрешение не используется обычными приложениями.</item>
+        <item>Приложение сможет настраивать в системе возможность использования виджетов различными программами. Приложение с таким разрешением может предоставлять другим программам доступ к личным данным. Это разрешение не используется обычными приложениями.</item>
+        <item>Приложение сможет подключаться к базовому интерфейсу системы ввода. Это разрешение не используется обычными приложениями.</item>
+        <item>Приложение сможет запрашивать проверку пакетов. Это разрешение не используется обычными приложениями.</item>
+        <item>Приложение сможет подключаться к базовому интерфейсу службы виджетов. Это разрешение не используется обычными приложениями.</item>
+        <item>Позволяет подключаться к базовому интерфейсу службы текстовых сообщений (например, SpellCheckerService). Это разрешение не используется обычными приложениями.</item>
+        <item>Приложение сможет подключаться к базовому интерфейсу службы VPN. Это разрешение не используется обычными приложениями.</item>
+        <item>>Приложение сможет подключаться к базовому интерфейсу службы обоев. Это разрешение не используется обычными приложениями.</item>
+        <item>Приложение сможет просматривать конфигурацию Bluetooth на телефоне, а также запрашивать и подтверждать соединение с другими устройствами.</item>
+        <item>Приложение сможет настраивать параметры локального телефона с поддержкой Bluetooth, а также обнаруживать удаленные устройства и выполнять сопряжение с ними.</item>
+        <item>Приложение сможет отключить все функции телефона. Это очень опасно.</item>
+        <item>Приложение сможет рассылать уведомления об удалении пакета программы. Вредоносные программы смогут таким образом прекращать работу других программ.</item>
+        <item>Приложение сможет уведомлять о получении SMS. Вредоносные программы смогут таким образом подделывать входящие SMS.</item>
+        <item>Приложение сможет делать несрочные рассылки, которые не удаляются после их отправки. Злоупотребление этими рассылками может замедлить работу телефона или сделать ее нестабильной из-за чрезмерного использования памяти.</item>
+        <item>Приложение сможет уведомлять о получении сообщений WAP PUSH. Вредоносные программы смогут таким образом фальсифицировать получение MMS или незаметно подменять содержание любой страницы вредоносными данными.</item>
+        <item>Приложение сможет выполнять чтение и запись в файловую систему кэша.</item>
+        <item>Приложение сможет без вашего участия звонить на любой номер телефона. Это не относится к номерам экстренных служб. Вредоносные программы смогут совершать вызовы без вашего разрешения, что может привести к непредвиденным расходам.</item>
+        <item>Приложение сможет без вашего участия звонить по любому номеру телефона, включая номера экстренного вызова. Вредоносные программы смогут помещать ненужные или незаконные номера в список служб экстренного вызова.</item>
+        <item>Приложение сможет снимать фотографии и видеоролики с помощью камеры в любое время без вашего разрешения.</item>
+        <item>Приложение сможет изменять настройки использования трафика в фоновом режиме.</item>
+        <item>Приложение сможет включать и отключать компоненты других программ. Вредоносные программы смогут таким образом отключать важные функции телефона. Используйте это разрешение с особой осторожностью, чтобы случайно не нарушить работу компонентов приложения.</item>
+        <item>Приложение сможет изменять текущую конфигурацию, например, региональные настройки или размер шрифта.</item>
+        <item>Приложение сможет изменять состояние подключения к сети.</item>
+        <item>Приложение сможет получать пакеты, отправленные всем устройствам в сети Wi-Fi (не только вашему телефону) в многоадресной рассылке. При этом расходуется больше энергии, чем в одноадресном режиме.</item>
+        <item>Приложение сможет подключаться к точкам доступа Wi-Fi и отключаться от них, а также изменять конфигурацию сетей Wi-Fi на устройстве.</item>
+        <item>Приложение сможет подключать устройство к сетям WiMAX и отключать его от них.</item>
+        <item>Предоставляет приложению доступ для чтения и записи к значениям свойств, добавленным с помощью службы регистрации. Это разрешение не используется обычными приложениями.</item>
+        <item>Разрешает приложению освобождать место на телефоне, удаляя кэшированные файлы других программ. В результате другие приложения могут запускаться медленнее, так как им потребуется повторно извлекать необходимые данные.</item>
+        <item>Приложение сможет удалять пользовательские данные.</item>
+        <item>Приложение сможет отображать окно подтверждения полного резервного копирования. Это разрешение не предназначено для всех приложений.</item>
+        <item>Приложение сможет вызывать службу контейнеров по умолчанию для копирования данных. Это разрешение не используется обычными приложениями.</item>
+        <item>Приложение сможет создавать сетевые сокеты и использовать различные сетевые протоколы. Так как браузер и другие приложения обеспечивают средства для отправки данных в Интернет, это разрешение предоставлять не обязательно.</item>
+        <item>Приложение сможет удалять файлы из кэша.</item>
+        <item>Приложение сможет удалять пакеты Android. Вредоносные программы смогут таким образом удалять важные программы.</item>
+        <item>Приложение сможет включать и выключать телефон.</item>
+        <item>Приложение сможет считывать и записывать данные системы диагностики (например, файлы в каталоге /dev). Это может повлиять на стабильность и безопасность системы. Это разрешение должно использоваться ТОЛЬКО производителем или оператором для диагностики аппаратного обеспечения.</item>
+        <item>Приложение сможет отключать блокировку экрана и другие функции защиты. Например, блокировка экрана будет отключаться при получении входящего вызова и включаться после завершения разговора.</item>
+        <item>Приложение сможет получать данные о внутреннем состоянии системы. Вредоносные программы смогут получать личную и защищенную информацию, к которой у них не должно быть доступа.</item>
+        <item>Приложение сможет разворачивать и сворачивать строку состояния.</item>
+        <item>Выполнить стандартную проверку нижнего уровня, обеспечивающую полный доступ к аппаратному обеспечению телефона. Доступно, только в режиме стандартной проверки.</item>
+        <item>Приложение сможет контролировать вспышку.</item>
+        <item>Приложение сможет завершать процессы, выполняемые в активном режиме. Это разрешение не используется обычными приложениями.</item>
+        <item>Приложение сможет принудительно останавливать работу других программ.</item>
+        <item>Приложение сможет получить список всех используемых на устройстве аккаунтов, в том числе созданных установленными приложениями.</item>
+        <item>Приложение сможет получать сведения о размере кода, данных и кэша.</item>
+        <item>Приложение сможет получать информацию о недавно запущенных и выполняемых задачах, а следовательно, и о приложениях, используемых на устройстве.</item>
+        <item>Приложение сможет управлять различными периферийными устройствами для проверки аппаратного обеспечения.</item>
+        <item>Приложение сможет передавать собственные входные события (нажатия клавиш и пр.) другим программам. Вредоносные программы смогут таким образом перехватить управление телефоном.</item>
+        <item>Приложение сможет создавать фиктивные местоположения для тестирования или установки нового источника геоданных и переопределять местоположение и/или статус, возвращаемые другими источниками, такими как система GPS или службы геопозиционирования.</item>
+        <item>Приложение сможет устанавливать новые или обновленные пакеты Android. Вредоносные программы смогут таким образом добавлять новые программы с любыми разрешениями.</item>
+        <item>Приложение сможет создавать окна для интерфейса внутренней системы. Это разрешение не используется обычными приложениями.</item>
+        <item>"Приложение сможет завершать фоновые процессы других приложений. Из-за этого другие приложения могут прекратить работу."</item>
+        <item>"Приложение сможет завершать фоновые процессы других приложений. Из-за этого другие приложения могут прекратить работу."</item>
+        <item>Приложение сможет включать и отключать уведомления об обновлении местоположения на основе данных приемопередачика. Это разрешение не используется обычными приложениями.</item>
+        <item>Приложение сможет добавлять и удалять аккаунты, а также стирать их пароли.</item>
+        <item>Приложение сможет создавать собственные токены и управлять ими в обход обычной Z-последовательности. Это разрешение не используется обычными приложениями.</item>
+        <item>Приложение сможет управлять сетевыми политиками и определять правила для отдельных приложений.</item>
+        <item>Приложение сможет управлять настройками и разрешениями для USB-устройств.</item>
+        <item>Приложение сможет выполнить полный сброс системы до заводских настроек, удалив все данные, параметры и установленные программы.</item>
+        <item>Приложение сможет изменять контент внутреннего хранилища мультимедиа.</item>
+        <item>Приложение сможет изменять системные настройки звука, например уровень громкости и активный динамик.</item>
+        <item>Приложение сможет изменять порядок расчета использования сетевых ресурсов различными программами. Это разрешение не используется обычными приложениями.</item>
+        <item>Приложение сможет управлять на устройстве функциями телефона: переключать сети, включать и выключать приемопередатчик, а также выполнять другие подобные действия без уведомления.</item>
+        <item>Приложение сможет форматировать съемный накопитель.</item>
+        <item>Приложение сможет подключать и удалять файловые системы для съемных накопителей.</item>
+        <item>Приложение сможет перемещать ресурсы из внутреннего накопителя на внешний и наоборот.</item>
+        <item>Приложение сможет обмениваться данными с NFC-метками, картами и устройствами считывания, используя связь малого радиуса действия.</item>
+        <item>Приложение сможет проверять возможность установки пакетов.</item>
+        <item>Приложение сможет запускать настройку CDMA. Вредоносные программы также смогут делать это без необходимости.</item>
+        <item>"Приложение сможет постоянно хранить свои компоненты в памяти. Это может уменьшить объем памяти, доступный другим приложениям, и замедлить работу устройства."</item>
+        <item>Приложение сможет изменять собранную статистику использования компонентов. Это разрешение не используется обычными приложениями.</item>
+        <item>Приложение сможет обрабатывать исходящие вызовы и изменять набираемые номера, а также отслеживать, перенаправлять или блокировать исходящие вызовы.</item>
+        <item>"Приложение сможет просматривать мероприятия в календаре устройства, в том числе добавленные друзьями или коллегами, а также передавать и сохранять данные календаря независимо от настроек конфиденциальности."</item>
+        <item>Приложение сможет просматривать и сохранять все данные о контактах на устройстве, включая то, как часто вы звоните, отправляете письма и другими способами связываетесь с определенными людьми. Вредоносные программы смогут передавать данные о контактах без уведомления.</item>
+        <item>Приложение получит доступ ко всем словам и фразам, которые хранятся в пользовательском словаре.</item>
+        <item>Приложение сможет считывать содержание буфера фреймов.</item>
+        <item>"Приложение получит доступ к истории и закладкам браузера. Обратите внимание: браузеры независимых поставщиков или другие приложения для просмотра веб-страниц могут не применять это разрешение."</item>
+        <item>Приложение сможет отслеживать нажатие пользователем клавиш даже при работе с другими программами (например, при вводе пароля). Это разрешение не используется обычными приложениями.</item>
+        <item>"Приложение сможет считывать информацию из различных системных журналов, а также получать сведения о работе пользователя на телефоне, в том числе к личной и конфиденциальной информации."</item>
+        <item>Приложение сможет считывать сохраненную историю использования определенных сетей и приложений.</item>
+        <item>Приложение получит доступ к функциям телефона на устройстве. Кроме того, оно сможет определять номера телефонов и серийные номера моделей, состояние активности вызова, а также удаленные номера, с которыми установлено соединение.</item>
+        <item>Приложение сможет просматривать вашу личную информацию (например, имя и контактные данные), сохраненную на устройстве. Получив эти данные, приложение сможет отправить их другим пользователям.</item>
+        <item>Приложение сможет просматривать SMS-сообщения, сохраненные на устройстве или SIM-карте, независимо от содержания или настроек конфиденциальности.</item>
+        <item>Приложение сможет просматривать и синхронизировать записи, публикуемые вами и вашими друзьями в социальных сетях. Будьте осторожны при передаче информации! С этим разрешением приложение сможет просматривать вашу переписку с друзьями в социальных сетях независимо от настроек конфиденциальности. Примечание. Это разрешение может применяться не во всех социальных сетях.</item>
+        <item>Приложение сможет просматривать настройки синхронизации аккаунта, например определять, включена ли синхронизация для приложения \"Контакты\"</item>
+        <item>Приложение сможет просматривать статистику синхронизации аккаунта, в том числе историю событий и объем синхронизированных данных.</item>
+        <item>Приложение сможет принудительно перезагружать телефон.</item>
+        <item>Приложение сможет запускаться после начальной загрузки системы. Это может привести к увеличению времени включения телефона и уменьшить его быстродействие в связи с постоянной работой приложения.</item>
+        <item>Приложение сможет получать и обрабатывать экстренные сообщения рассылок. Это разрешение доступно только для системных приложений.</item>
+        <item>Приложение сможет получать и обрабатывать MMS. Это значит, что оно сможет отслеживать и удалять отправленные на ваше устройство сообщения, не показывая их.</item>
+        <item>Приложение сможет получать и обрабатывать SMS. Это значит, что оно сможет отслеживать и удалять отправленные на ваше устройство сообщения, не показывая их.</item>
+        <item>Приложение сможет получать и обрабатывать WAP-сообщения. Это значит, что оно сможет отслеживать и удалять отправленные на ваше устройство сообщения, не показывая их.</item>
+        <item>Приложение сможет записывать аудио с помощью микрофона в любое время без уведомления.</item>
+        <item>Приложение сможет удалять задачи и собственные программы. Вредоносное ПО при этом сможет нарушать работу других приложений.</item>
+        <item>Приложение сможет переключать активный и фоновый режимы выполнения задач без вашего ведома.</item>
+        <item>Приложение сможет получать контент активного окна. Вредоносные программы смогут перехватывать такой контент и анализировать любой текст, кроме паролей.</item>
+        <item>Приложение сможет отслеживать запуск системных процессов и управлять им. Вредоносные программы смогут получить полный контроль над системой. Это разрешение необходимо только для разработки и не нужно в обычном режиме.</item>
+        <item>Позволяет приложению записывать и изменять данные на SD-карте.</item>
+        <item>Приложение сможет отправлять SMS. Учтите, что вредоносные программы смогут отправлять сообщения без уведомления, что может привести к непредвиденным расходам.</item>
+        <item>Приложение сможет отправлять SMS. Учтите, что вредоносные программы смогут отправлять сообщения без уведомления, что может привести к непредвиденным расходам.</item>
+        <item>Приложение сможет настраивать будильник. Функция поддерживается не во всех программах.</item>
+        <item>Приложение сможет управлять завершением процессов после их перехода в фоновый режим. Это разрешение не используется обычными приложениями.</item>
+        <item>Приложение сможет в любой момент изменить общую скорость анимации.</item>
+        <item>Приложение сможет включать отладку для другой программы. Вредоносное ПО сможет таким образом останавливать работу других приложений.</item>
+        <item>Приложение сможет менять ориентацию экрана. Это разрешение не используется обычными приложениями.</item>
+        <item>Приложение сможет в любой момент изменить скорость движения указателя мыши или сенсорной панели. Это разрешение не используется обычными приложениями.</item>
+        <item>Приложение сможет изменять предпочтительные приложения. Вредоносные программы смогут незаметно изменять запускаемые вами программы и собирать ваши личные данные от имени существующих приложений.</item>
+        <item>Приложение сможет управлять максимальным количеством процессов, которые могут быть запущены. Это разрешение не используется обычными приложениями.</item>
+        <item>"Приложение сможет изменять время в настройках устройства."</item>
+        <item>"Приложение сможет изменять часовой пояс в настройках устройства."</item>
+        <item>Приложение сможет устанавливать системные обои.</item>
+        <item>Приложение сможет устанавливать подсказки по размеру системных обоев.</item>
+        <item>Завершает работу диспетчера активности. Не выполняет полное завершение работы.</item>
+        <item>Приложение сможет запрашивать передачу полученного сигнала всем постоянным процессам.</item>
+        <item>Приложение сможет отключать строку состояния, а также добавлять и удалять системные значки.</item>
+        <item>Приложение сможет заменять собой строку состояния.</item>
+        <item>Запрещает пользователям переключаться между приложениями.</item>
+        <item>Приложение сможет получать сведения о синхронизируемых в настоящее время фидах.</item>
+        <item>Приложение сможет изменять фиды, синхронизируемые в настоящее время. Вредоносные программы смогут изменять синхронизированные фиды.</item>
+        <item>Разрешает приложению отображать элементы своего интерфейса поверх окон других программ. Это может мешать вашему взаимодействию с другими приложениями и вести к недоразумениям.</item>
+        <item>Приложение сможет использовать службу SIP для интернет-вызовов.</item>
+        <item>Приложение сможет запрашивать токены аутентификации.</item>
+        <item>Приложение сможет контролировать вибросигналы.</item>
+        <item>Приложение сможет запрещать перевод телефона в спящий режим.</item>
+        <item>Приложение сможет изменять сетевые настройки, а также перехватывать и просматривать весь сетевой трафик (например, изменять прокси-сервер или порт для APN). Вредоносные программы смогут отслеживать, перенаправлять и изменять сетевые пакеты без вашего ведома.</item>
+        <item>"Приложение сможет добавлять, удалять и изменять мероприятия, доступные для редактирования на вашем телефоне, включая мероприятия, добавленные другими людьми. Так приложение сможет рассылать сообщения от имени владельца календаря и изменять мероприятия без его ведома."</item>
+        <item>Приложение сможет изменять сведения о контактах на вашем телефоне, включая то, как часто вы звоните, отправляете письма и другими способами связываетесь с определенными людьми. С этим разрешением приложения смогут удалять данные о контактах.</item>
+        <item>Приложение сможет добавлять слова в пользовательский словарь.</item>
+        <item>Приложение сможет изменять карту служб Google. Это разрешение не используется обычными приложениями.</item>
+        <item>"Приложение сможет изменять историю или закладки браузера, сохраненные на телефоне, а также удалять и изменять данные браузера. Обратите внимание: браузеры независимых поставщиков или другие приложения для просмотра веб-страниц могут не применять это разрешение."</item>
+        <item>Приложение сможет изменять вашу личную информацию (например, имя и контактные данные), сохраненную на устройстве. Получив эти данные, приложение сможет отправить их другим пользователям.</item>
+        <item>"Приложение сможет изменять системные настройки безопасности. Это разрешение не используется обычными приложениями."</item>
+        <item>"Приложение сможет изменять настройки системы. Вредоносные программы смогут  повредить конфигурацию системы."</item>
+        <item>Приложение сможет изменять SMS, сохраненные на телефоне или SIM-карте. Вредоносные программы смогут удалять ваши сообщения.</item>
+        <item>Приложение сможет отображать новости, добавленные вашими друзьями в социальных сетях. Будьте осторожны при передаче этой информации! С этим разрешением приложение сможет создавать сообщения от лица друзей. Примечание. Это разрешение может применяться не во всех социальных сетях.</item>
+        <item>Приложение сможет изменять настройки синхронизации аккаунта. Например, с помощью этого разрешения можно включить в аккаунте синхронизацию контактов.</item>
      </string-array>
      <string-array name="permission_group_description">
-        <item>Access the available accounts.</item>
-        <item>Allow applications to do things that can cost you money.</item>
-        <item>Features only needed for application developers.</item>
-        <item>Direct access to hardware on the handset.</item>
-        <item>Monitor your physical location</item>
-        <item>Read and write your SMS, e-mail, and other messages.</item>
-        <item>Allow applications to access various network features.</item>
-        <item>Direct access to your contacts and calendar stored on the phone.</item>
-        <item>Monitor, record, and process phone calls.</item>
-        <item>Access the SD card.</item>
-        <item>Lower-level access and control of the system.</item>
-        <item>Other permission</item>
+        <item>Доступ к имеющимся аккаунтам.</item>
+        <item>Приложение сможет использовать платные услуги.</item>
+        <item>Функции, предназначенные для разработчиков приложений.</item>
+        <item>Прямой доступ к аппаратному обеспечению телефона.</item>
+        <item>Приложение сможет отслеживать ваше местоположение.</item>
+        <item>Чтение и запись SMS, электронных писем и других сообщений.</item>
+        <item>Приложение сможет получать доступ к различным сетевым функциям.</item>
+        <item>Прямой доступ к моим контактным данным.</item>
+        <item>Отслеживать, записывать и обрабатывать телефонные звонки.</item>
+        <item>Доступ к SD-карте.</item>
+        <item>Доступ нижнего уровня и управление системой.</item>
+        <item>Другие разрешения.</item>
      </string-array>
      <string-array name="permission_group_label">
-        <item>Your accounts</item>
-        <item>Services that cost you money</item>
-        <item>Development tools</item>
-        <item>Hardware controls</item>
-        <item>Your location</item>
-        <item>Your messages</item>
-        <item>Network communication</item>
-        <item>Your personal information</item>
-        <item>Phone calls</item>
-        <item>Storage</item>
-        <item>System tools</item>
-        <item>Other</item>
+        <item>Ваши аккаунты</item>
+        <item>Платные услуги</item>
+        <item>Средства разработки</item>
+        <item>Управление оборудованием</item>
+        <item>Ваше местоположение</item>
+        <item>Сообщения</item>
+        <item>Сетевой обмен данными</item>
+        <item>Личная информация</item>
+        <item>Телефонные вызовы</item>
+        <item>Память</item>
+        <item>Системные инструменты</item>
+        <item>Другое</item>
      </string-array>
      <string-array name="permission_label">
-        <item>coarse (network-based) location</item>
-        <item>fine (GPS) location</item>
-        <item>access extra location provider commands</item>
-        <item>mock location sources for testing</item>
-        <item>implement MTP protocol</item>
-        <item>view network state</item>
-        <item>access SurfaceFlinger</item>
-        <item>view Wi-Fi state</item>
-        <item>view WiMAX state</item>
-        <item>act as the AccountManagerService</item>
-        <item>add voicemail</item>
-        <item>use any media decoder for playback</item>
-        <item>get information on internal storage</item>
-        <item>create internal storage</item>
-        <item>destroy internal storage</item>
-        <item>mount / unmount internal storage</item>
-        <item>rename internal storage</item>
-        <item>act as an account authenticator</item>
-        <item>control system backup and restore</item>
-        <item>modify battery statistics</item>
-        <item>modify battery statistics</item>
-        <item>interact with a device admin</item>
-        <item>choose widgets</item>
-        <item>bind to an input method</item>
-        <item>bind to a package verifier</item>
-        <item>bind to a widget service</item>
-        <item>bind to a text service</item>
-        <item>bind to a VPN service</item>
-        <item>bind to a wallpaper</item>
-        <item>create Bluetooth connections</item>
-        <item>bluetooth administration</item>
-        <item>permanently disable phone</item>
-        <item>send package removed broadcast</item>
-        <item>send SMS-received broadcast</item>
-        <item>send sticky broadcast</item>
-        <item>send WAP-PUSH-received broadcast</item>
-        <item>access the cache filesystem</item>
-        <item>directly call phone numbers</item>
-        <item>directly call any phone numbers</item>
-        <item>take pictures and videos</item>
-        <item>change background data usage setting</item>
-        <item>enable or disable application components</item>
-        <item>change your UI settings</item>
-        <item>change network connectivity</item>
-        <item>allow Wi-Fi Multicast reception</item>
-        <item>change Wi-Fi state</item>
-        <item>change WiMAX state</item>
-        <item>access checkin properties</item>
-        <item>delete all application cache data</item>
-        <item>"delete other applications' data"</item>
-        <item>confirm a full backup or restore operation</item>
-        <item>Allows to invoke default container service to copy content. Not for use by normal applications.</item>
-        <item>full Internet access</item>
-        <item>"delete other applications' caches"</item>
-        <item>delete applications</item>
-        <item>power phone on or off</item>
-        <item>read/write to resources owned by diag</item>
-        <item>disable keylock</item>
-        <item>retrieve system internal state</item>
-        <item>expand/collapse status bar</item>
-        <item>run in factory test mode</item>
-        <item>control flashlight</item>
-        <item>force application to close</item>
-        <item>force stop other applications</item>
-        <item>discover known accounts</item>
-        <item>measure application storage space</item>
-        <item>retrieve running applications</item>
-        <item>test hardware</item>
-        <item>press keys and control buttons</item>
-        <item>permission to install a location provider</item>
-        <item>directly install applications</item>
-        <item>display unauthorized windows</item>
-        <item>kill background processes</item>
-        <item>kill background processes</item>
-        <item>control location update notifications</item>
-        <item>manage the accounts list</item>
-        <item>manage application tokens</item>
-        <item>manage network policy</item>
-        <item>manage preferences and permissions for USB devices</item>
-        <item>reset system to factory defaults</item>
-        <item>modify/delete internal media storage contents</item>
-        <item>change your audio settings</item>
-        <item>modify network usage accounting</item>
-        <item>modify phone state</item>
-        <item>format external storage</item>
-        <item>mount and unmount filesystems</item>
-        <item>Move application resources</item>
-        <item>control Near Field Communication</item>
-        <item>verify packages</item>
-        <item>directly start CDMA phone setup</item>
-        <item>make application always run</item>
-        <item>update component usage statistics</item>
-        <item>intercept outgoing calls</item>
-        <item>read calendar events plus confidential information</item>
-        <item>read contact data</item>
-        <item>read user defined dictionary</item>
-        <item>read frame buffer</item>
-        <item>"read Browser's history and bookmarks"</item>
-        <item>record what you type and actions you take</item>
-        <item>read sensitive log data</item>
-        <item>read historical network usage</item>
-        <item>read phone state and identity</item>
-        <item>read your profile data</item>
-        <item>read SMS or MMS</item>
-        <item>read your social stream</item>
-        <item>read sync settings</item>
-        <item>read sync statistics</item>
-        <item>force phone reboot</item>
-        <item>automatically start at boot</item>
-        <item>receive emergency broadcasts</item>
-        <item>receive MMS</item>
-        <item>receive SMS</item>
-        <item>receive WAP</item>
-        <item>record audio</item>
-        <item>stop running applications</item>
-        <item>reorder running applications</item>
-        <item>retrieve screen content</item>
-        <item>monitor and control all application launching</item>
-        <item>modify/delete SD card contents</item>
-        <item>send SMS messages</item>
-        <item>send SMS messages with no confirmation</item>
-        <item>set alarm in alarm clock</item>
-        <item>make all background applications close</item>
-        <item>modify global animation speed</item>
-        <item>enable application debugging</item>
-        <item>change screen orientation</item>
-        <item>change pointer speed</item>
-        <item>set preferred applications</item>
-        <item>limit number of running processes</item>
-        <item>set time</item>
-        <item>set time zone</item>
-        <item>set wallpaper</item>
-        <item>set wallpaper size hints</item>
-        <item>partial shutdown</item>
-        <item>send Linux signals to applications</item>
-        <item>disable or modify status bar</item>
-        <item>status bar</item>
-        <item>prevent app switches</item>
-        <item>read subscribed feeds</item>
-        <item>write subscribed feeds</item>
-        <item>display system-level alerts</item>
-        <item>make/receive Internet calls</item>
-        <item>use the authentication credentials of an account</item>
-        <item>control vibrator</item>
-        <item>prevent phone from sleeping</item>
-        <item>change/intercept network settings and traffic</item>
-        <item>"add or modify calendar events and send email to guests without owners' knowledge"</item>
-        <item>write contact data</item>
-        <item>write to user defined dictionary</item>
-        <item>modify the Google services map</item>
-        <item>"write Browser's history and bookmarks"</item>
-        <item>write to your profile data</item>
-        <item>modify secure system settings</item>
-        <item>modify global system settings</item>
-        <item>edit SMS or MMS</item>
-        <item>write to your social stream</item>
-        <item>write sync settings</item>
+        <item>примерное местоположение (на основе сети)</item>
+        <item>точное местоположение (на основе сети и сигналов GPS)</item>
+        <item>получать доступ к дополнительным командам источника данных о местоположении</item>
+        <item>установка фиктивного местоположения для отладки</item>
+        <item>реализовать протокол MTP</item>
+        <item>просмотр сетевых подключений</item>
+        <item>получать доступ к SurfaceFlinger</item>
+        <item>просмотр подключений Wi-Fi</item>
+        <item>просмотр подключений WiMAX</item>
+        <item>выступать в качестве службы управления аккаунтом</item>
+        <item>добавление голосовых сообщений</item>
+        <item>использование любых дешифраторов</item>
+        <item>получать сведения о внутреннем накопителе</item>
+        <item>создавать внутренний накопитель</item>
+        <item>удалять внутренний накопитель</item>
+        <item>подключение и отключение внутреннего хранилища</item>
+        <item>переименовывать внутренний накопитель</item>
+        <item>создание аккаунтов и установка паролей</item>
+        <item>управление резервным копированием и восстановлением системы</item>
+        <item>считывать статистику батареи</item>
+        <item>считывать статистику батареи</item>
+        <item>взаимодействовать с администратором устройства</item>
+        <item>выбирать виджеты</item>
+        <item>связывать с методом ввода</item>
+        <item>связываться с верификатором пакетов</item>
+        <item>привязка к службе виджетов</item>
+        <item>привязка к службе текстовых сообщений</item>
+        <item>подключаться к VPN-службе</item>
+        <item>связать с фоновым рисунком</item>
+        <item>установление связи с устройствами Bluetooth</item>
+        <item>доступ к настройкам Bluetooth</item>
+        <item>отключать телефон</item>
+        <item>отправлять рассылку об удалении пакета</item>
+        <item>отправлять рассылку о получении SMS</item>
+        <item>отправка рассылки с последующим сохранением</item>
+        <item>отправка рассылки о получении сообщений WAP PUSH</item>
+        <item>доступ к файловой системе кэша</item>
+        <item>осуществление телефонных вызовов</item>
+        <item>осуществление любых телефонных вызовов</item>
+        <item>фото- и видеосъемка</item>
+        <item>изменять настройки использования данных в фоновом режиме</item>
+        <item>включение и отключение компонентов приложения</item>
+        <item>изменение настроек экрана</item>
+        <item>изменение сетевых настроек</item>
+        <item>получение данных по многоадресной рассылке через Wi-Fi</item>
+        <item>изменение подключений Wi-Fi</item>
+        <item>изменение подключений WiMAX</item>
+        <item>доступ к регистрационным данным</item>
+        <item>очистка кэша приложений</item>
+        <item>удаление данных других приложений</item>
+        <item>подтверждать полное резервное копирование или восстановление</item>
+        <item>копирование контента</item>
+        <item>неограниченный доступ в Интернет</item>
+        <item>очистка кэш-памяти других приложений</item>
+        <item>удаление приложений</item>
+        <item>включать и выключать питание телефона</item>
+        <item>считывать/записывать данные в ресурсы, принадлежащие группе диагностики</item>
+        <item>отключение функции блокировки экрана</item>
+        <item>получение данных о состоянии системы</item>
+        <item>разворачивание/сворачивание строки состояния</item>
+        <item>запустить в тестовом режиме</item>
+        <item>управление вспышкой</item>
+        <item>принудительное завершение приложений</item>
+        <item>принудительная остановка приложений</item>
+        <item>поиск аккаунтов на устройстве</item>
+        <item>определение объема памяти приложений</item>
+        <item>получение данных о запущенных приложениях</item>
+        <item>проверять аппаратное обеспечение</item>
+        <item>отрабатывать нажатия клавиш и кнопок управления</item>
+        <item>разрешение на установку поставщика местоположения</item>
+        <item>непосредственная установка приложений</item>
+        <item>показывать неавторизованные окна</item>
+        <item>завершение фоновых процессов</item>
+        <item>завершение фоновых процессов</item>
+        <item>управлять уведомлениями об обновлении местоположения</item>
+        <item>добавление/удаление аккаунтов</item>
+        <item>управление токенами приложений</item>
+        <item>управление сетевой политикой</item>
+        <item>управлять настройками и разрешениями для USB-устройств</item>
+        <item>сброс к заводским настройкам</item>
+        <item>изм./удал. данных мультимедиа</item>
+        <item>изменение настроек звука</item>
+        <item>изменение учета использования сети</item>
+        <item>изменять состояние телефона</item>
+        <item>удаление данных с USB-накопителя</item>
+        <item>доступ к файловой системе USB-накопителя</item>
+        <item>перемещение ресурсов приложения</item>
+        <item>управление NFC-модулем</item>
+        <item>проверять пакеты</item>
+        <item>прямой запуск настройки телефона CDMA</item>
+        <item>поддержание приложения в рабочем режиме</item>
+        <item>обновлять статистику использования компонентов</item>
+        <item>перенаправление исходящих вызовов</item>
+        <item>просмотр в календаре мероприятий и конфиденциальных данных</item>
+        <item>просмотр контактов</item>
+        <item>просмотр добавленных в словарь слов</item>
+        <item>считывать буфер фреймов</item>
+        <item>просмотр закладок и истории поиска</item>
+        <item>записывать вводимый текст и совершаемые действия</item>
+        <item>просмотр конфиденциальных данных в журнале</item>
+        <item>читать журнал использования сети</item>
+        <item>получение данных о статусе телефона</item>
+        <item>просмотр ваших контактных данных</item>
+        <item>просмотр SMS и MMS</item>
+        <item>просмотр записей в вашей социальной ленте</item>
+        <item>просмотр настроек синхронизации</item>
+        <item>просмотр статистики синхронизации</item>
+        <item>принудительно перезагружать телефон</item>
+        <item>запуск при включении устройства</item>
+        <item>принимать экстренные вызовы</item>
+        <item>прием MMS-сообщений</item>
+        <item>прием SMS-сообщений</item>
+        <item>прием WAP-сообщений</item>
+        <item>запись звука</item>
+        <item>остановка запущенных приложений</item>
+        <item>упорядочивание запущенных приложений</item>
+        <item>получать доступ к содержанию экрана</item>
+        <item>отслеживание и управление запуском всех приложений</item>
+        <item>запись на SD-карту</item>
+        <item>отправка SMS-сообщений</item>
+        <item>отправка SMS без подтверждения</item>
+        <item>установка будильника</item>
+        <item>закрытие фоновых приложений</item>
+        <item>изменять глобальную скорость анимации</item>
+        <item>включение отладки приложений</item>
+        <item>изменять ориентацию экрана</item>
+        <item>изменять скорость указателя</item>
+        <item>настройка предпочтительных приложений</item>
+        <item>ограничивать количество запущенных процессов</item>
+        <item>установить время</item>
+        <item>настройка часового пояса</item>
+        <item>установка обоев</item>
+        <item>изменение размера обоев</item>
+        <item>частичное завершение работы</item>
+        <item>отправка сигналов Linux приложениям</item>
+        <item>отключать или изменять строку состояния</item>
+        <item>строка состояния</item>
+        <item>запретить переключение приложений</item>
+        <item>просмотр фидов пользователя</item>
+        <item>изменение данных о фидах пользователя</item>
+        <item>показ сообщений поверх других окон</item>
+        <item>осуществление/прием интернет-вызовов</item>
+        <item>использование аккаунтов на устройстве</item>
+        <item>управление функцией вибросигнала</item>
+        <item>отключение спящего режима</item>
+        <item>изменение/перехват сетевых настроек и трафика</item>
+        <item>добавление/изменение мероприятий и отправление гостям эл. сообщений без предупреждения владельца календаря</item>
+        <item>изменение контактов</item>
+        <item>добавлять слова в пользовательский словарь</item>
+        <item>изменение карты сервисов Google</item>
+        <item>изменение закладок и истории поиска</item>
+        <item>изменение ваших контактных данных</item>
+        <item>изменение настроек безопасности</item>
+        <item>изменение настроек системы</item>
+        <item>изменение SMS и MMS</item>
+        <item>добавление записей в вашу социальную ленту</item>
+        <item>включение/выключение синхронизации</item>
      </string-array>
      <string-array name="select_photos">
         <item>Камера</item>
         <item>Галерея</item>
      </string-array>
      <string-array name="service_introduction">
-        <item>"VIP member benefits: 
-1. One-on-one service 
-2. Get help instantly 
-3. Audio support center 
-4. Dial direct to support staffs' phones（VIP4 and higher）
-5. Priority customer service"</item>
-        <item>"Get help here! You can send screenshots to our support center. 
+        <item>"Преимущества VIP-членства: 
+1. Прямое обслуживание 
+2. Многновенная помощь 
+3. Голосовая техподдержка 
+4. Прямые тел. номера техподдержки (для VIP4 и выше)
+5. Приоритетное обслуживанияe"</item>
+        <item>"Получите помощь здесь! Вы можете отправить скриншоты в нашу службу поддержки. 
 
- Support center hours: 9:30-18:30 (Mon - Fri). You can use our online submission form if you encounter a problem on a weekend or holiday."</item>
-        <item>View your past service issues as well as the status of your current issues.Upgrade to VIP now to get priority customer service.</item>
-        <item>Your GamePacks will appear under My GamePacks</item>
-        <item>Spend points on GamePacks and Xiaomi accessories!</item>
+ Рабочие часы: 9:30-18:30 (Пнд - Птн). Вы можете использовать онлайн форму, если столкнулись с проблемой на выходной или праздничный день."</item>
+        <item>Ваши прошлые проблемы обслуживания, а также статус ваших текущих вопросов. Обновитесь до VIP сейчас, чтобы получить приоритетное обслуживание.</item>
+        <item>"Ваши GamePack'и появится в разделе Мои GP"</item>
+        <item>"Потратьте очки на GamePack'и и аксессуары Xiaomi!"</item>
      </string-array>
      <string-array name="user_level_rule">
         <item>Ежедневный вход</item>
@@ -502,40 +502,40 @@
         <item>игр</item>
      </string-array>
      <string-array name="vip_level_rule">
-        <item>How to upgrade</item>
-        <item>What are the benefits of upgrading?</item>
-        <item>What kind of guaruntees are offered?</item>
-        <item>"What happens if I don't keep up with my membership fees?"</item>
+        <item>Как перейти</item>
+        <item>Каковы преимущества повышения?</item>
+        <item>Какие гарантии предоставляются?</item>
+        <item>"Что произойдет, если я перестану вносить членские взносы?"</item>
      </string-array>
      <string-array name="vip_service_names">
-        <item>Online service</item>
-        <item>Issue status</item>
-        <item>In-game topup</item>
-        <item>Credit center</item>
-        <item>Reservation</item>
-        <item>VIP club</item>
+        <item>Поддержка</item>
+        <item>Вопросы</item>
+        <item>Пополнение</item>
+        <item>Кредитный центр</item>
+        <item>Бронирование</item>
+        <item>VIP клуб</item>
      </string-array>
      <string-array name="vip_service_summarys">
-        <item>Support (Chinese only): 18610535357</item>
-        <item>Current status of your issue</item>
-        <item>Top up in-game balances</item>
-        <item>Play games with credit</item>
-        <item>Make a reservation</item>
-        <item>VIP club</item>
+        <item>Поддержка (только на китайском): 18610535357</item>
+        <item>Статус ваших текущих вопросов</item>
+        <item>Пополнение внутриигрового счета</item>
+        <item>Играть в игры в кредит</item>
+        <item>Сделать предварительный заказ</item>
+        <item>VIP клуб</item>
      </string-array>
      <string-array name="vip_user_welcome_subtitle">
-        <item>VIP services available:</item>
-        <item>24 hour one-on-one customer service</item>
-        <item>Priority customer service</item>
-        <item>Exclusive VIP GamePacks</item>
-        <item>In order to activate VIP service</item>
+        <item>Доступные VIP-услуги:</item>
+        <item>24 часовое прямое обслуживание клиентов</item>
+        <item>Приоритетное обслуживание клиентов</item>
+        <item>"Эксклюзивные VIP GamePack'и"</item>
+        <item>Для активации VIP обслуживания</item>
      </string-array>
      <string-array name="vip_user_welcome_title">
-        <item>Upgraded to VIP</item>
-        <item>VIP service</item>
-        <item>VIP priority</item>
-        <item>VIP GamePack</item>
-        <item>Please complete user info</item>
+        <item>Повышение до VIP</item>
+        <item>VIP обслуживание</item>
+        <item>VIP приоритет</item>
+        <item>"VIP GamePack'и"</item>
+        <item>Пожалуйста, заполните информацию о пользователе</item>
      </string-array>
      <string-array name="weeks">
         <item></item>
