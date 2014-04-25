@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Builded with NXT -->
+<!-- Builded with CloudBuildr -->
 <resources>
      <string name="alipay_failed">调用支付宝失败</string>
      <string name="all_cities">Все города</string>
@@ -8,16 +8,23 @@
      <string name="app_version">Версия:Beta V%1$s</string>
      <string name="available_day_left">Осталось дней:%1$s</string>
      <string name="available_deadline">Действует до:%1$s</string>
+     <string name="available_deadline_all">Срок действия:%1$s</string>
+     <string name="business_hour">Часов: %1$s</string>
      <string name="button_cancel">Отмена</string>
      <string name="button_ok">OK</string>
      <string name="button_refresh">Обновить</string>
      <string name="buy_date">Дата:%1$s</string>
+     <string name="buy_error_info">支付失败，请检查订单内容后重试</string>
+     <string name="buylottery">Лотерея</string>
      <string name="buynow">Купить</string>
      <string name="call_service">Сервис обслуживания</string>
+     <string name="call_service_all">%1$s служба поддержки:%2$s</string>
      <string name="call_service_prefix">Номер обслуживания клиентов:</string>
      <string name="cancel">Отмена</string>
      <string name="category_desc_splitted">-</string>
+     <string name="category_more">Еще</string>
      <string name="category_other">Другое</string>
+     <string name="category_title">Категория</string>
      <string name="checking_new_version">Проверить обновление</string>
      <string name="choose_type">Фильтр</string>
      <string name="contactwithmerchant">Связаться с продавцом</string>
@@ -30,11 +37,13 @@
      <string name="feedback_submit">Отправить</string>
      <string name="feedback_title">Ваши предложения и комментарии</string>
      <string name="findinmap">Показать на карте</string>
+     <string name="get_all_item">Все</string>
      <string name="history_cities">Последние посещенные города</string>
      <string name="hot_cities">Популярные города</string>
      <string name="hotrank_tag">Топ</string>
+     <string name="item_announcement">Оповещение</string>
      <string name="item_loading">Загрузка…</string>
-     <string name="item_nores">免预约</string>
+     <string name="item_nores">Бесплатно</string>
      <string name="itemdetail">Информация</string>
      <string name="itemdetailbutton">Подробнее</string>
      <string name="itemnotes">Как купить</string>
@@ -48,6 +57,12 @@
      <string name="location_desc">Мое местоположение</string>
      <string name="location_desc_nearby">По соседству</string>
      <string name="location_distance">Расстояние</string>
+     <string name="lottery_announcement_title">中奖用户信息</string>
+     <string name="lottery_in">已参与</string>
+     <string name="lottery_info">抽奖号:%1$s</string>
+     <string name="lottery_info_prefix">抽奖号码:</string>
+     <string name="lottery_not_run">尚未开奖</string>
+     <string name="lottery_run">已开奖</string>
      <string name="map_choose_title">Выбери карту</string>
      <string name="menu_account">Мой аккаунт</string>
      <string name="menu_login">Войти</string>
@@ -55,12 +70,17 @@
      <string name="menu_not_login">Ты не вошел</string>
      <string name="menu_preferences">Настройки</string>
      <string name="menu_refresh">Обновить</string>
+     <string name="merchant_phone">Телефон：%1$s</string>
      <string name="money">юань</string>
-     <string name="moremerchant">Все филиалы</string>
+     <string name="money_prefix">Всего</string>
+     <string name="moreinfo">Подробно</string>
+     <string name="moremerchant">Все %1$s филиалы</string>
+     <string name="my_passbook_title">未使用消费券</string>
      <string name="mylife_tag">Мои</string>
+     <string name="nearby_distance">米</string>
      <string name="nearby_purchasecount">Покупок: %1$s</string>
      <string name="nearby_tag">Рядом</string>
-     <string name="nearestmerchant">最近商家</string>
+     <string name="nearestmerchant">Последние покупки</string>
      <string name="no_data">Нет данных. Попробуй еще ​​раз позже. :)</string>
      <string name="no_data_really">Нет данных</string>
      <string name="no_favorites_passbook">Пусто</string>
@@ -69,6 +89,7 @@
      <string name="no_network">Нет сети:)</string>
      <string name="no_network_update">Нет сети, если что)</string>
      <string name="no_new_version">Нет обновлений</string>
+     <string name="no_personal_lottery">暂时没有抽奖单，去逛逛吧</string>
      <string name="no_personal_passbook">Пусто</string>
      <string name="no_reservation_detail">Бесплатно</string>
      <string name="no_service">Нет сервиса</string>
@@ -76,10 +97,11 @@
      <string name="nores_short">Беспл.</string>
      <string name="notavailable">Истекло</string>
      <string name="ok">OK</string>
-     <string name="order_id_prefix">订单号:</string>
+     <string name="order_id_all">Заказов:%1$s</string>
+     <string name="order_id_prefix">Заказ:</string>
      <string name="order_id_text">Номер заказа:%1$s</string>
      <string name="order_number">Номер заказа:</string>
-     <string name="orig_price">/цена произ.</string>
+     <string name="orig_price">цена %1$s</string>
      <string name="passbook_count">%1$s</string>
      <string name="payment">Оплата</string>
      <string name="personal_account_default">Аккаунт</string>
@@ -91,11 +113,13 @@
      <string name="personal_check_update_default">Проверить обновление</string>
      <string name="personal_desc">Ваучер от %1$s</string>
      <string name="personal_location_changed">选定城市\"%1$s\"与GPS定位城市\"%2$s\"不符</string>
-     <string name="personal_settings_account">我的小米账户</string>
-     <string name="personal_settings_added_fav">已添加至我的收藏</string>
+     <string name="personal_lottery">История</string>
+     <string name="personal_settings_account">Аккаунт</string>
+     <string name="personal_settings_added_fav">Добавлено в избранное</string>
      <string name="personal_settings_feedback">Обратная связь</string>
-     <string name="personal_settings_login_fav">请登录小米账户</string>
-     <string name="personal_settings_remove_fav">已取消收藏</string>
+     <string name="personal_settings_login">Аккаунт Xiaomi</string>
+     <string name="personal_settings_login_fav">Войди в акаунт</string>
+     <string name="personal_settings_remove_fav">Удалить из избранного</string>
      <string name="personal_settings_star">Избранное</string>
      <string name="pulltorefresh">Потяни, чтобы обновить</string>
      <string name="purchasecount">%1$s чел.</string>
@@ -104,14 +128,16 @@
      <string name="refundable">Возвращаемый</string>
      <string name="releasetorefresh">Отпусти, чтобы обновить</string>
      <string name="search_content_empty">Введи запрос поиска</string>
+     <string name="search_desc">Поиск %1$s</string>
      <string name="search_hint">Поиск тут)</string>
-     <string name="search_not_found">没有搜索到\"%1$s\"关键词</string>
+     <string name="search_not_found">\"%1$s\" ничего не найдено</string>
      <string name="search_tag">Поиск</string>
      <string name="shop_count">магазинов</string>
      <string name="shoplocation">Местоположение</string>
      <string name="shrink">Свернуть</string>
      <string name="source">Источнок:%1$s</string>
-     <string name="total_passbook">/共%1$s张</string>
+     <string name="source_all">本次团购内容由%1$s提供，消费时请告知店员使用%1$s团购券。</string>
+     <string name="total_passbook">/%1$s всего</string>
      <string name="update_status_failed">Ошибка обновлени. Нет ответа от сервера.</string>
      <string name="update_status_local_app_failed">Ошибка обновления локального приложения</string>
      <string name="xiaomi_bytes_unit">%1$sб</string>
