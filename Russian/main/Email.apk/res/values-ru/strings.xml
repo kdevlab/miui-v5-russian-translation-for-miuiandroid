@@ -224,7 +224,7 @@
      <string name="auto_sync_off">Автосинхронизация отключена</string>
      <string name="bcc">Скрытая копия:</string>
      <string name="bcc_heading">"Скрытая: "</string>
-	 <string name="blank_feedback_toast">Обратная связь пустая. Напишите отзыв!</string>
+     <string name="blank_feedback_toast">Обратная связь пустая. Напишите отзыв!</string>
      <string name="body_hint">Текст сообщения</string>
      <string name="bytes">%s б</string>
      <string name="cancel">Отмена</string>
@@ -264,7 +264,7 @@
      <string name="contact_list_add_btn">Добавить</string>
      <string name="contact_list_search_hint">Поиск контактов</string>
      <string name="contact_list_title">Список контактов</string>
-	 <string name="contact_select">Выберите контакты</string>
+     <string name="contact_select">Выберите контакты</string>
      <string name="content_description">Отправитель: %1$s; тема: %2$s; фрагмент: %3$s; дата: %4$s; состояние: %5$s</string>
      <string name="content_description_today">Отправитель: %1$s; тема: %2$s; фрагмент: %3$s; время: %4$s; состояние: %5$s</string>
      <string name="contextmenu_add_contact">Добавить контакт</string>
@@ -280,7 +280,7 @@
      <string name="contextmenu_sms_dot">Сообщение…</string>
      <string name="conversation_content_provider">Conversation Content Provider</string>
      <string name="conversation_folder_moved">Перемещено в папку \"%1$s\"</string>
-	 <string name="conversation_item_mark_read">Прочитано</string>
+     <string name="conversation_item_mark_read">Прочитано</string>
      <string name="conversation_item_mark_unread">Не прочитано</string>
      <string name="conversation_photo_welcome_text">Чтобы открыть цепочку писем, нажмите на фото отправителя</string>
      <string name="copy_email">Скопировать адрес эл. почты</string>
@@ -296,7 +296,7 @@
      <string name="debug_title">Выполнить отладку</string>
      <string name="default_">ПО УМОЛЧАНИЮ</string>
      <string name="default_setup">НАСТРОЙКИ ПО УМОЛЧАНИЮ</string>
-	 <string name="default_signature">Отправлено через Xiaomi</string>
+     <string name="default_signature">Отправлено через Xiaomi</string>
      <string name="delete">Удалить</string>
      <string name="deleted">Удалено</string>
      <string name="device_admin_description">Включение серверных политик безопасности</string>
@@ -507,7 +507,7 @@
      <string name="ok">OK</string>
      <string name="okay_action">ОК</string>
      <string name="other_mail">Другая почта</string>
-	 <string name="outbox_alert_button_confirm">Изменить</string>
+     <string name="outbox_alert_button_confirm">Изменить</string>
      <string name="outbox_alert_description_sent_failed">"Причина: вложение к письму 
 превышает максимальный размер"</string>
      <string name="outbox_alert_title_sent_failed">Ошибка отправки</string>

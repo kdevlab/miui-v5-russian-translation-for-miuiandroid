@@ -20,9 +20,9 @@
         <item quantity="one">Удалить черновики из этой цепочки?</item>
         <item quantity="other">Удалить черновики из этих цепочек (%1$d)?</item>
      </plurals>
-	 <plurals name="contact_num_selected">
-        <item quantity="other">Выбрано: %d</item>
+     <plurals name="contact_num_selected">
         <item quantity="one">Выбрано: 1</item>
+        <item quantity="other">Выбрано: %d</item>
      </plurals>
      <plurals name="conversation_archived">
         <item quantity="one">Заархивировано: (<b>%1$d</b>)</item>

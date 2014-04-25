@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!-- Builded with NXT -->
 <resources>
-    <string-array name="array_role_entries">
+     <string-array name="array_role_entries">
         <item>Xiao Yan</item>
         <item>Xiao Feng</item>
         <item>Xiao Mei</item>
@@ -12,5 +13,5 @@
         <item>Xiao Lin</item>
         <item>Xiao Jing</item>
         <item>Jia Jia</item>
-    </string-array>
+     </string-array>
 </resources>

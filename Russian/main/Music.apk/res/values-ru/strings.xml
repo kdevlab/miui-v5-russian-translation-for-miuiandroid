@@ -39,7 +39,11 @@
      <string name="channel_postfix">МГЦ</string>
      <string name="choose_download_quality">Выберите качество скачавания</string>
      <string name="choose_stream_quality">Выберите качество потока</string>
+     <string name="click_to_play_all">Нажмите для воспроизведения</string>
      <string name="click_to_shuffle">Перемешать все</string>
+     <string name="collect_bill_success">Добавлено в избранное</string>
+     <string name="collect_fm_success">Добавлено в избранное</string>
+     <string name="collect_topic_success">Альбом добавлен в избранное</string>
      <string name="complete">Готово</string>
      <string name="confirm">ОК</string>
      <string name="correct_id3_by_internet">Получить инфо о треке</string>
@@ -166,6 +170,8 @@
      <string name="load_bill_in_process">Загрузка анонсов…</string>
      <string name="load_channel_failed">Ошибка загрузки</string>
      <string name="load_channel_in_process">Загрузка…</string>
+     <string name="load_recommend_failed">Ошибка загрузки списка</string>
+     <string name="load_recommend_in_process">Загрузка…</string>
      <string name="loading">Загрузка…</string>
      <string name="login">Войти</string>
      <string name="login_first">Сначала войдите в аккаунт Xiaomi</string>
@@ -313,6 +319,7 @@
      <string name="track_edit">Трек</string>
      <string name="tracks_title">Все треки</string>
      <string name="ultra_high_quality">Наилучшее</string>
+     <string name="uncollect_success">Удалено из избранного</string>
      <string name="unknown_album_name">Неизвестный альбом</string>
      <string name="unknown_artist_name">Неизвестный исполнитель</string>
      <string name="use_local_album">Установить обложку альбома</string>
