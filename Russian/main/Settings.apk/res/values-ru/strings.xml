@@ -2519,13 +2519,17 @@
 Рекомендуется использовать приложение \"%2$s\"."</string>
      <string name="preferred_application_warning_replace">Заменить</string>
      <string name="preferred_application_warning_title">Замена \"%s\"</string>
-     <string name="preferred_application_warning_use_system">Отменить</string>
+     <string name="preferred_application_warning_use_system">Использовать %s</string>
      <string name="preferred_launcher_title">Выбор рабочего стола</string>
      <string name="preferred_launcher_warning_message">После смены системного рабочего стола, может увеличиться потребление энергии и уменьшиться скорость работы телефона. Рекомендуется использовать рабочий стол по умолчанию.</string>
      <string name="preferred_launcher_warning_replace">Применить</string>
      <string name="preferred_launcher_warning_title">Замена рабочего стола</string>
      <string name="preferred_launcher_warning_use_system">Отмена</string>
      <string name="preferred_media_app_summary">Выберите музыкальный проигрыватель</string>
+     <string name="preferred_sms_settings">Это приложение будет установлено по умолчанию для создания и чтения сообщений.</string>
+     <string name="preferred_sms_title">Приложение сообщений по умолчанию</string>
+     <string name="preferred_sms_warning_message">При использовании приложения \"%1$s\" по умолчанию для сообщений может взыматься дополнительная оплата.</string>
+     <string name="preferred_sms_warning_use_system">Отмена</string>
      <string name="privacy_mode_enable_sum">Скрыть журнал вызовов, сообщения и другую личную информацию</string>
      <string name="privacy_mode_enable_title">Режим гостя</string>
      <string name="privacy_protect_title">Защита</string>
