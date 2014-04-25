@@ -36,6 +36,7 @@
      <string name="cancel">Отмена</string>
      <string name="cannot_connect_camera_once">Не возможно подключится к камере. Перезайдите в приложение.</string>
      <string name="cannot_connect_camera_twice">Не возможно подключится к камере. Перезагрузите устройство.</string>
+	 <string name="chroma_flash_exit_button_text">Выйти</string>
      <string name="clear_effects">Убрать эффекты</string>
      <string name="close">Закрыть</string>
      <string name="cloud_album_details">Облачный альбом:</string>
@@ -85,6 +86,7 @@
      <string name="effect_goofy_face_squeeze">Сжатие</string>
      <string name="effect_none">Без эффектов</string>
      <string name="effect_silly_faces">СМЕШНЫЕ РОЖИЦЫ</string>
+	 <string name="enable_feature">Да</string>
      <string name="error_app_unsupported">Данный вид кодировки не поддерживает это разрешение</string>
      <string name="error_app_unsupported_hfr_720p">720р поддерживает до 90 FPS</string>
      <string name="error_app_unsupported_hfr_codec">При включенной ВЧК поддерживается только H264 кодировка</string>
@@ -159,9 +161,11 @@
      <string name="no_save">Не сохранять</string>
      <string name="no_storage">Вставьте SD-карту перед использованием камеры</string>
      <string name="no_thumbnail">Нет миниатюр</string>
+	 <string name="not_enable_feature">Нет</string>
      <string name="not_enough_space">SD-карта заполнена</string>
      <string name="not_selectable_in_scene_mode">Недоступно в режиме съёмки</string>
      <string name="ok">OK</string>
+	 <string name="opti_zoom_exit_button_text">Выйти</string>
      <string name="orientation">Ориентация</string>
      <string name="pano_dialog_panorama_failed">Не удалось сохранить панораму</string>
      <string name="pano_dialog_prepare_preview">Обработка…</string>
@@ -186,10 +190,12 @@
      <string name="pref_camera_audio_capture_title">Голос</string>
      <string name="pref_camera_auto_focus_title_entry_off">Выкл.</string>
      <string name="pref_camera_auto_focus_title_entry_on">Вкл.</string>
+	 <string name="pref_camera_auto_opti_zoom_title">Автом. увеличение, если соотношение больше чем 2</string>
      <string name="pref_camera_autoexposure_entry_centerweighted">Взвешенный по центру</string>
      <string name="pref_camera_autoexposure_entry_frameaverage">Средний по кадру</string>
      <string name="pref_camera_autoexposure_entry_spotmetering">Точечный</string>
      <string name="pref_camera_autoexposure_title">Режим автоэкспозамера</string>
+	 <string name="pref_camera_chroma_flash_title">Chroma вспышка</string>
      <string name="pref_camera_coloreffect_entry_aqua" />
 	 <string name="pref_camera_coloreffect_entry_brannan">Рассвет</string>
      <string name="pref_camera_coloreffect_entry_earlybird">Осень</string>
@@ -277,6 +283,7 @@
      <string name="pref_camera_multiple_face_beauty_entry_off">Одно лицо</string>
      <string name="pref_camera_multiple_face_beauty_entry_on">Два лица</string>
      <string name="pref_camera_multiple_face_beauty_title">Режим красивое лицо</string>
+	 <string name="pref_camera_opti_zoom_title">Оптический зум</string>
      <string name="pref_camera_panoramamode_title">Панорама</string>
      <string name="pref_camera_picture_format_title">Формат изображения</string>
      <string name="pref_camera_picturesize_entry_1024x768">0.8 Мпикс.</string>
@@ -353,6 +360,7 @@
      <string name="pref_camera_touchafaec_entry_off">Выкл.</string>
      <string name="pref_camera_touchafaec_entry_on">Вкл.</string>
      <string name="pref_camera_touchafaec_title">АФ/АС по нажатию</string>
+	 <string name="pref_camera_ubi_focus_title">Ubi фокус</string>
      <string name="pref_camera_video_duration_entry_10">10 минут</string>
      <string name="pref_camera_video_duration_entry_120">2 часа</string>
      <string name="pref_camera_video_duration_entry_30">30 минут</string>
@@ -448,12 +456,15 @@
      <string name="show_on_map">Показать на карте</string>
      <string name="show_videos_only">Только видео</string>
      <string name="simple_mode_button_text_audio_capture">Выйти</string>
+	 <string name="simple_mode_button_text_chroma_flash">Выйти</string>
      <string name="simple_mode_button_text_color_effect">Выйти</string>
      <string name="simple_mode_button_text_face_beauty">Выйти</string>
      <string name="simple_mode_button_text_hand_night">Выйти</string>
      <string name="simple_mode_button_text_hdr">Выйти</string>
+	 <string name="simple_mode_button_text_opti_zoom">Выйти</string>
      <string name="simple_mode_button_text_panorama">Выйти</string>
      <string name="simple_mode_button_text_slow_video">Выйти</string>
+	 <string name="simple_mode_button_text_ubi_focus">Выйти</string>
      <string name="simple_mode_title">Простой режим</string>
      <string name="slideshow">Слайдшоу</string>
      <string name="snapshot_lower_than_video">Размер снимка меньше, чем размер видео. Пожалуйста, выберите разрешение выше или равное текущему размеру видео.</string>
@@ -475,6 +486,7 @@
      <string name="toast_burst_snap_forbidden_when_hdr_open">Серийная съемка невозможна в режиме HDR или сумерки</string>
      <string name="toast_burst_snap_forbidden_when_iso_not_auto">Серийная съемка не поддерживается при не автом. ISO</string>
      <string name="toast_start_audio_capture">Похлопайте, чтобы сработал затвор</string>
+	 <string name="ubi_focus_exit_button_text">Выйти</string>
      <string name="undo">Назад</string>
      <string name="unit_mm">мм</string>
      <string name="video_camera_label">Видеокамера</string>
