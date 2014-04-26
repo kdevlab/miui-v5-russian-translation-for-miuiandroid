@@ -53,31 +53,31 @@
         <item>доступ к номеру телефона</item>
      </string-array>
      <string-array name="game_tag">
-        <item>Продвижение</item>
-        <item>Новая услуга</item>
-        <item>Новая скидка</item>
-        <item>Возврат денег</item>
+        <item>Promotion</item>
+        <item>New service</item>
+        <item>New low price</item>
+        <item>Cashback</item>
         <item>Get number</item>
-        <item>Бета</item>
-        <item>Закрытые бета</item>
+        <item>Beta</item>
+        <item>Closed beta</item>
         <item>Starting line</item>
         <item>VIP service</item>
-        <item>Эксклюзив</item>
+        <item>Exclusive</item>
         <item>GamePack</item>
-        <item>Лотерея</item>
-        <item>Стратегии</item>
-        <item>Популярные</item>
-        <item>Рекомендуемые</item>
-        <item>Новые</item>
-        <item>Обновления</item>
-        <item>Бета</item>
-        <item>Официальные</item>
+        <item>Lottery</item>
+        <item>Strategy</item>
+        <item>Popular</item>
+        <item>Recommended</item>
+        <item>New</item>
+        <item>Update</item>
+        <item>Beta</item>
+        <item>Offical</item>
         <item>HD</item>
         <item>3D</item>
         <item>Guarantee</item>
         <item>Pay</item>
         <item>Zone</item>
-        <item>"Выбор редакции"</item>
+        <item>"Editor's Choice"</item>
         <item></item>
         <item></item>
         <item></item>
@@ -482,7 +482,7 @@
 5. Приоритетное обслуживанияe"</item>
         <item>"Получите помощь здесь! Вы можете отправить скриншоты в нашу службу поддержки. 
 
- Рабочие часы: 9:30-18:30 (Пнд - Птн). Вы можете использовать онлайн форму, если столкнулись с проблемой на выходной или праздничный день."</item>
+Рабочие часы: 9:30-18:30 (Пн - Пт). Вы можете использовать онлайн форму, если столкнулись с проблемой в выходной или праздничный день."</item>
         <item>Ваши прошлые проблемы обслуживания, а также статус ваших текущих вопросов. Обновитесь до VIP сейчас, чтобы получить приоритетное обслуживание.</item>
         <item>"Ваши GamePack'и появится в разделе Мои GP"</item>
         <item>"Потратьте очки на GamePack'и и аксессуары Xiaomi!"</item>
