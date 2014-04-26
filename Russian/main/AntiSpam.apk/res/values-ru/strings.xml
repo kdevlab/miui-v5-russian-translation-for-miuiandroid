@@ -43,13 +43,13 @@
      <string name="all_address_choose_hint">Все регионы</string>
      <string name="app_name">Черный список</string>
      <string name="baidu_thanks">Поддержка: Baidu</string>
-     <string name="bl_block_info" formatted="false">Вызовов: %d | Сообщения: %d</string>
+     <string name="bl_block_info" formatted="false">Вызовов: %d | Сообщений: %d</string>
      <string name="bl_no_blacklist">Нет контактов</string>
      <string name="bl_no_block_call">Нет заблокированных вызовов</string>
      <string name="bl_no_block_sms">Нет заблокированных сообщений</string>
      <string name="blacklist_prefix_add_hint">Добавить все номера с префиксом в черный список</string>
-     <string name="block_message_number">Блокированных сообщений: %d</string>
-     <string name="block_phone_number">Блокированных вызовов: %d</string>
+     <string name="block_message_number">Заблокированно: %d</string>
+     <string name="block_phone_number">Заблокированно: %d</string>
      <string name="cancle">Отмена</string>
      <string name="close_callwait">Выключить</string>
      <string name="customizer_mode_user_define_name">Мой режим</string>
