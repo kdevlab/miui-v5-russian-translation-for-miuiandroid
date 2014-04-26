@@ -1063,7 +1063,7 @@
      <string name="dndm_repeated_call_summary_3min">Второй вызов от того же человека в течение трех минут не будет отключен</string>
      <string name="dndm_repeated_call_summary_none">Не делать исключения для повторных вызовов</string>
      <string name="dndm_special_call_setting_group">Настройки исключений</string>
-     <string name="dndm_summary">После включения режима Не беспокоить, входящие звонки и сообщения будут без звука</string>
+     <string name="dndm_summary">После включения режима \"Не беспокоить\", входящие звонки и сообщения будут без звука</string>
      <string name="dndm_vip_call_button_title">Из списка исключений</string>
      <string name="dndm_vip_call_setting_title">Настройка исключений</string>
      <string name="dndm_vip_call_summary_contact">Все контакты</string>
@@ -1115,19 +1115,19 @@
      <string name="dolby_surround_virtualizer">Объемная визуализация</string>
      <string name="dolby_volume_leveler">Громкость звука</string>
      <string name="downloaded_rom_title">Пакет обновлений истек</string>
-     <string name="drive_mode">Режим вождения</string>
+     <string name="drive_mode">Режим \"За рулем\"</string>
      <string name="drive_mode_auto_reply">Автоответ</string>
      <string name="drive_mode_auto_sms_reply_content">Я сейчас за рулем. Перезвоню позже.</string>
      <string name="drive_mode_auto_sms_reply_content_title">Текст сообщения</string>
-     <string name="drive_mode_calling_auto_sms_reply">Автоответ сообщением</string>
+     <string name="drive_mode_calling_auto_sms_reply">Автоответ на вызов</string>
      <string name="drive_mode_invert_stop_report">Переверните, чтобы остановить отчет</string>
      <string name="drive_mode_only_contact_reply">Отвечать только контактам</string>
      <string name="drive_mode_phone_report">Уведомлять о вызове</string>
      <string name="drive_mode_settings">Настройки режима за рулем</string>
-     <string name="drive_mode_sms_auto_sms_reply">Автоответ SMS</string>
+     <string name="drive_mode_sms_auto_sms_reply">Автоответ на SMS</string>
      <string name="drive_mode_sms_report">Уведомлять о сообщении</string>
      <string name="drive_mode_title">Настроить режим</string>
-     <string name="drive_mode_voice_report">Настройки отчетов</string>
+     <string name="drive_mode_voice_report">Озвучивание событий</string>
      <string name="drm_reset_dialog_msg">Удалить все лицензии DRM из телефона?</string>
      <string name="drm_reset_toast_msg">Лицензии успешно удалены</string>
      <string name="drm_settings_summary">Удалить лицензии DRM</string>
@@ -1156,7 +1156,7 @@
      <string name="enable_app_permission_summary">Наблюдается 23 приложения</string>
      <string name="enable_app_permission_title">Мониторинг приложений включен</string>
      <string name="enable_compatibility">Масштабировать приложения</string>
-     <string name="enable_drive_mode">Включить режим вождения</string>
+     <string name="enable_drive_mode">Включить режим \"За рулем\"</string>
      <string name="enable_firewall">Блокировать нежелательные вызовы</string>
      <string name="enable_gps">Включить GPS</string>
      <string name="enable_gps_confirm_message">Необходимо подключение к интернету для получения данных GPS (EPO, A-GPS). Включить GPS?</string>
@@ -1277,7 +1277,7 @@
      <string name="finish_optimizing_virus">Оптимизация…</string>
      <string name="firewall_action">Действия</string>
      <string name="firewall_log">Журнал</string>
-     <string name="firewall_settings">Настройки режима не беспокоить</string>
+     <string name="firewall_settings">Настройки режима \"Не беспокоить\"</string>
      <string name="firewall_settings_tab_title">Правила</string>
      <string name="firmware_version">Версия Android:</string>
      <string name="floating_window_switch_label">Всплывающие окна</string>
@@ -1309,7 +1309,7 @@
      <string name="free_wifi_connected">Подключено к бесплатной Wi-Fi сети</string>
      <string name="free_wifi_connected_count">Подключено пользователей: %1$s</string>
      <string name="free_wifi_connected_time">Время онлайн：%1$s</string>
-     <string name="free_wifi_connecting">Подключение...</string>
+     <string name="free_wifi_connecting">Подключение…</string>
      <string name="free_wifi_login_again">Войти снова</string>
      <string name="free_wifi_speed_title">Медленное подключение?</string>
      <string name="free_wifi_summary">Бесплатный Wi-Fi, при поддержке %1$s</string>
@@ -1797,7 +1797,7 @@
      <string name="master_clear_desc_erase_external_storage">"
 
 Чтобы удалить музыку, фотографии и другие пользовательские данные, необходимо очистить SD-карту."</string>
-     <string name="master_clear_erase_application_progress">Удаление приложений в процессе...</string>
+     <string name="master_clear_erase_application_progress">Удаление приложений в процессе…</string>
      <string name="master_clear_failed">Сброс не выполнен, поскольку служба System Clear недоступна.</string>
      <string name="master_clear_final_button_text">Стереть все</string>
      <string name="master_clear_final_desc">Удалить всю личную информацию и загруженные приложения без возможности восстановления?</string>
@@ -3805,7 +3805,7 @@
      <string name="wifi_setup_description_connected">"Нажмите Далее для продолжения установки.
 
 Нажмите Назад для подключения к другой сети Wi-Fi."</string>
-     <string name="wifi_setup_description_connecting">Подключение может занять несколько минут...</string>
+     <string name="wifi_setup_description_connecting">Подключение может занять несколько минут…</string>
      <string name="wifi_setup_detail">Сведения о сети</string>
      <string name="wifi_setup_eap_not_supported">Во время установки нельзя настроить подключение к сети Wi-Fi с защитой EAP. Вы можете сделать это позже в меню \"Настройки > Беспроводные сети\"</string>
      <string name="wifi_setup_forget">Не подключаться</string>
