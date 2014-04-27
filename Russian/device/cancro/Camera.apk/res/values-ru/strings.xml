@@ -43,6 +43,7 @@
      <string name="confirm_change_mode_title">Смена режима</string>
      <string name="confirm_change_to_expert_mode_message">Переключиться в расширенный режим?</string>
      <string name="confirm_change_to_simple_mode_message">Переключиться в простой режим?</string>
+	 <string name="confirm_enable_opti_zoom_message">Включить оптич. увеличение на фото?</string>
      <string name="confirm_location_message">Сохранять информацию о месте съемки фотографий?</string>
      <string name="confirm_restore_message">Восстановить настройки по умолчанию?</string>
      <string name="confirm_restore_title">Восстановление настроек</string>
