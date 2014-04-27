@@ -2,7 +2,7 @@
 <!-- Builded with NXT -->
 <resources>
      <plurals name="all_numbers_count">
-        <item quantity="one">1 entry</item>
-        <item quantity="other">%d entries</item>
+        <item quantity="one">Записей: 1</item>
+        <item quantity="other">Записей: %d</item>
      </plurals>
 </resources>
