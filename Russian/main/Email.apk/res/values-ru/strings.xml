@@ -291,8 +291,13 @@
      <string name="date_message_received">%1$s, %2$s</string>
      <string name="date_message_received_today">Сегодня, %1$s</string>
      <string name="date_message_received_yesterday">Вчера, %1$s</string>
+     <string name="debug_clear_webview_cache">Очистить кэш просмотра</string>
+     <string name="debug_disable_graphics_acceleration_label">Отключить аппаратное ускорение графики</string>
+     <string name="debug_enable_debug_logging_label">Включить дополнительную регистрацию отладки?</string>
      <string name="debug_enable_file_logging_label">Включить ведение журнала на SD-карту?</string>
+     <string name="debug_enable_strict_mode_label">Включить строгий режим (с регистрацией)</string>
      <string name="debug_enable_verbose_logging_label">Включить подробное ведение журнала?</string>
+     <string name="debug_force_one_minute_refresh_label">Принудительно обновлять за одну минуту для POP/IMAP</string>
      <string name="debug_title">Выполнить отладку</string>
      <string name="default_">ПО УМОЛЧАНИЮ</string>
      <string name="default_setup">НАСТРОЙКИ ПО УМОЛЧАНИЮ</string>
@@ -611,6 +616,7 @@
      <string name="report_rendering_problem">Выглядит плохо</string>
      <string name="report_rendering_problem_desc">Это сообщение выглядит плохо</string>
      <string name="report_spam">Сообщить о спаме</string>
+	 <string name="request_entity_large">Запрашиваемый файл слишком большой</string>
      <string name="require_manual_sync_message">Фоновая синхронизация отключена для этой учетной записи в роуминге</string>
      <string name="respond_inline">Ответить в письме</string>
      <string name="resume_draft">Изменить</string>
