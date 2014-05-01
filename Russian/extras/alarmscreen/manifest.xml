@@ -1,0 +1,2288 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Alarmscreen version="1" frameRate="30" screenWidth="720">
+	<VariableBinders>
+		<ContentProviderBinder 
+				name="city_binder"
+				uri="content://pro.burgerz.weather/cities"  
+				columns="location,isHome"  
+				where="isHome=1"	
+				order="isHome DESC"
+				countName="hasHomeCity" >
+			<Variable name="cities_location" type="string" column="location" row="0"/>
+			<Variable name="cities_ishome" type="int" column="isHome" row="0"/>
+		</ContentProviderBinder>
+        <ContentProviderBinder
+				name="weather_binder" 
+				dependency="city_binder" 
+				uri="content://pro.burgerz.weather/weather" 
+				columns="station,temp,weatherType,weatherID,windSpeedMeters,windDirLocalized,tempLow,tempHigh,humidity,tempFeel"  
+				whereFormat="station='%s'"
+				whereParas="@cities_location" 
+				countName="hasweatherBZ" >
+            <Variable name="weather_id_bz" type="int" column="weatherID" row="0"/>
+            <Variable name="weather_location_bz" type="string" column="station" row="0"/>
+            <Variable name="weather_temperature_bz" type="int" column="temp" row="0"/>
+            <Variable name="weather_temperature_low_bz" type="string" column="tempLow" row="0"/>
+            <Variable name="weather_temperature_high_bz" type="string" column="tempHigh" row="0"/>
+            <Variable name="weather_description_bz" type="string" column="weatherType" row="0"/>
+        </ContentProviderBinder>
+        <ContentProviderBinder uri="content://weather/weather" columns="city_name,temperature,temperature_range,description,weather_type" countName="hasweatherStoc">
+            <Variable name="weather_id_stoc" type="int" column="weather_type"/>
+            <Variable name="weather_location_stoc" type="string" column="city_name"/>
+            <Variable name="weather_temperature_stoc" type="int" column="temperature"/>
+            <Variable name="weather_temperature_range_stoc" type="string" column="temperature_range"/>
+            <Variable name="weather_description_stoc" type="string" column="description"/>
+        </ContentProviderBinder>
+    </VariableBinders>
+	<Var name="hasweather" expression="(#hasweatherBZ + #hasweatherStoc)"/> 
+	<Var name="weather_id" type="int" expression="ifelse(#hasweatherBZ,#weather_id_bz,#weather_id_stoc)"/> 
+	<Var name="weather_location" type="string" expression="ifelse(#hasweatherBZ,@weather_location_bz,@weather_location_stoc)"/> 
+	<Var name="weather_temperature" type="int" expression="ifelse(#hasweatherBZ,#weather_temperature_bz,#weather_temperature_stoc)"/> 
+	<Var name="weather_temperature_range" type="string" expression="ifelse(#hasweatherBZ,#weather_temperature_low_bz+' - '+#weather_temperature_high_bz,@weather_temperature_range_stoc)"/> 
+	<Var name="weather_description" type="string" expression="ifelse(#hasweatherBZ,@weather_description_bz,@weather_description_stoc)"/> 
+	<Var name="dismiss_x" expression="#view_width/2"/>
+	<Var name="dismiss_y" expression="(#view_height-272-418)/2"/>
+	<Var name="weather_view_height" expression="#view_height-272"/>
+	<Var name="night" expression="not(ge(#hour24,6)*le(#hour24,17))"/>
+	<Group name="weather_bg">
+		<Group name="ani_default" visibility="eq(#weather_id,-1)">
+			<Image w="#view_width" h="#view_height" src="weather_bg_0.9.png"/>
+		</Group>
+		<Group name="ani_sunshine" visibility="eq(#weather_id,0)*not(#night)">
+			<Image w="#view_width" h="#view_height" src="weather/weather_bg_0.9.png"/>
+			<Group name="halo">
+				<AlphaAnimation>
+					<Alpha a="0" time="0"/>
+					<Alpha a="255" time="2000"/>
+					<Alpha a="255" time="5000"/>
+					<Alpha a="0" time="7000"/>
+				</AlphaAnimation>
+				<Image x="720" y="-696" scale="4" src="weather/halo_1.png">
+					<PositionAnimation>
+						<Position x="0" y="0" time="0"/>
+						<Position x="-620" y="596" time="2000"/>
+						<Position x="-720" y="696" time="3500"/>
+						<Position x="-720" y="696" time="4500"/>
+						<Position x="-620" y="596" time="6000"/>
+						<Position x="0" y="0" time="7000"/>
+					</PositionAnimation>
+				</Image>
+				<Image name="halo1" x="120+600" y="-614" scale="4" src="weather/halo_2.png">
+					<PositionAnimation>
+						<Position x="0" y="0" time="100"/>
+						<Position x="-500" y="514" time="2100"/>
+						<Position x="-600" y="614" time="3500"/>
+						<Position x="-600" y="614" time="4500"/>
+						<Position x="-500" y="514" time="5900"/>
+						<Position x="0" y="0" time="7000"/>
+					</PositionAnimation>
+				</Image>
+			</Group>
+			<Image scale="4" src="weather/cloud_light.png">
+				<AlphaAnimation>
+					<Alpha a="102" time="0"/>
+					<Alpha a="127.5" time="670"/>
+					<Alpha a="204" time="2000"/>
+					<Alpha a="204" time="3100"/>
+					<Alpha a="127.5" time="4300"/>
+					<Alpha a="102" time="5700"/>
+				</AlphaAnimation>
+			</Image>
+			<Group name="spot_d">
+				<AlphaAnimation>
+					<Alpha a="0" time="0"/>
+					<Alpha a="0" time="900"/>
+					<Alpha a="180" time="2500"/>
+					<Alpha a="180" time="5000"/>
+					<Alpha a="0" time="6100"/>
+					<Alpha a="0" time="7000"/>
+				</AlphaAnimation>
+				<Image x="190-150" y="437+150" alpha="76.5" scale="0.83" src="weather/spot.png">
+					<PositionAnimation>
+						<Position x="0" y="0" time="0"/>
+						<Position x="150" y="-150" time="2000"/>
+						<Position x="210" y="-210" time="5000"/>
+						<Position x="300" y="-300" time="7000"/>
+					</PositionAnimation>
+				</Image>
+				<Image x="245-100" y="425+100" alpha="127.5" scale="0.44" src="weather/spot.png">
+					<PositionAnimation>
+						<Position x="0" y="0" time="0"/>
+						<Position x="100" y="-100" time="2000"/>
+						<Position x="150" y="-150" time="5000"/>
+						<Position x="250" y="-250" time="7000"/>
+					</PositionAnimation>
+				</Image>
+				<Image x="236-50" y="468+50" alpha="127.5" scale="0.26" src="weather/spot.png">
+					<PositionAnimation>
+						<Position x="0" y="0" time="0"/>
+						<Position x="50" y="-50" time="2000"/>
+						<Position x="80" y="-80" time="5000"/>
+						<Position x="150" y="-150" time="7000"/>
+					</PositionAnimation>
+				</Image>
+				<Image x="291-5" y="441+5" alpha="255" scale="0.028" src="weather/spot.png">
+					<PositionAnimation>
+						<Position x="0" y="0" time="0"/>
+						<Position x="5" y="-5" time="2000"/>
+						<Position x="10" y="-10" time="5000"/>
+						<Position x="30" y="-30" time="7000"/>
+					</PositionAnimation>
+				</Image>
+				<Image x="321-10" y="405+10" alpha="178.5" scale="0.07" src="weather/spot.png">
+					<PositionAnimation>
+						<Position x="0" y="0" time="0"/>
+						<Position x="10" y="-10" time="2000"/>
+						<Position x="40" y="-40" time="5000"/>
+						<Position x="90" y="-90" time="7000"/>
+					</PositionAnimation>
+				</Image>
+				<Image x="360-5" y="333+5" alpha="51" scale="0.29" src="weather/spot.png">
+					<PositionAnimation>
+						<Position x="0" y="0" time="0"/>
+						<Position x="5" y="-5" time="2000"/>
+						<Position x="10" y="-10" time="5000"/>
+						<Position x="30" y="-30" time="7000"/>
+					</PositionAnimation>
+				</Image>
+			</Group>
+			<Group>
+				<AlphaAnimation>
+					<Alpha a="0" time="0"/>
+					<Alpha a="0" time="900"/>
+					<Alpha a="255" time="2500"/>
+					<Alpha a="255" time="5000"/>
+					<Alpha a="0" time="6100"/>
+					<Alpha a="0" time="7000"/>
+				</AlphaAnimation>
+				<Image x="720+185" y="-185" align="right" src="weather/spot_0.png">
+					<PositionAnimation>
+						<Position x="0" y="0" time="0"/>
+						<Position x="-120" y="120" time="2000"/>
+						<Position x="-150" y="150" time="5000"/>
+						<Position x="-185" y="185" time="7000"/>
+					</PositionAnimation>
+				</Image>
+				<Image x="412+5" y="317-5" alpha="178.5" scale="0.07" src="weather/spot.png">
+					<PositionAnimation>
+						<Position x="0" y="0" time="0"/>
+						<Position x="-5" y="5" time="2000"/>
+						<Position x="-10" y="10" time="5000"/>
+						<Position x="-30" y="30" time="7000"/>
+					</PositionAnimation>
+				</Image>
+				<Image x="434+100" y="163-100" alpha="38" src="weather/spot.png">
+					<PositionAnimation>
+						<Position x="0" y="0" time="0"/>
+						<Position x="-100" y="100" time="2000"/>
+						<Position x="-150" y="150" time="5000"/>
+						<Position x="-250" y="250" time="7000"/>
+					</PositionAnimation>
+				</Image>
+				<Image x="444+50" y="221-50" alpha="102" scale="0.48" src="weather/spot.png">
+					<PositionAnimation>
+						<Position x="0" y="0" time="0"/>
+						<Position x="-50" y="50" time="2000"/>
+						<Position x="-80" y="80" time="5000"/>
+						<Position x="-150" y="150" time="7000"/>
+					</PositionAnimation>
+				</Image>
+				<Image x="519+50" y="165-50" alpha="76.5" scale="0.31" src="weather/spot.png">
+					<PositionAnimation>
+						<Position x="0" y="0" time="0"/>
+						<Position x="-50" y="50" time="2000"/>
+						<Position x="-80" y="80" time="5000"/>
+						<Position x="-150" y="150" time="7000"/>
+					</PositionAnimation>
+				</Image>
+			</Group>
+			<Image x="720" y="0" align="right" pivotX="164" pivotY="0" scale="2" src="weather/halo_3.png">
+				<AlphaAnimation>
+					<Alpha a="0" time="0"/>
+					<Alpha a="0" time="1300"/>
+					<Alpha a="255" time="2300"/>
+					<Alpha a="255" time="4700"/>
+					<Alpha a="50" time="5700"/>
+					<Alpha a="0" time="7000"/>
+				</AlphaAnimation>
+			</Image>
+			<Group name="beam" pivotX="#view_width" pivotY="0">
+				<RotationAnimation>
+					<Rotation angle="-40" time="0"/>
+					<Rotation angle="-8" time="2000"/>
+					<Rotation angle="8" time="5000"/>
+					<Rotation angle="35" time="7000"/>
+				</RotationAnimation>
+				<Image x="680" y="-92" pivotX="40" pivotY="93" rotation="75" src="weather/beam_3.png">
+					<AlphaAnimation>
+						<Alpha a="0" time="0"/>
+						<Alpha a="0" time="1200"/>
+						<Alpha a="255" time="2200"/>
+						<Alpha a="255" time="4800"/>
+						<Alpha a="0" time="5800"/>
+						<Alpha a="0" time="7000"/>
+					</AlphaAnimation>
+				</Image>
+				<Image x="680" y="-92" src="weather/beam_3.png">
+					<AlphaAnimation>
+						<Alpha a="0" time="0"/>
+						<Alpha a="0" time="1200"/>
+						<Alpha a="255" time="2200"/>
+						<Alpha a="255" time="4800"/>
+						<Alpha a="0" time="5800"/>
+						<Alpha a="0" time="7000"/>
+					</AlphaAnimation>
+				</Image>
+				<Image x="669" y="-97" pivotX="51" pivotY="98" rotation="60" src="weather/beam_2.png">
+					<AlphaAnimation>
+						<Alpha a="0" time="0"/>
+						<Alpha a="0" time="1100"/>
+						<Alpha a="255" time="2100"/>
+						<Alpha a="255" time="4900"/>
+						<Alpha a="0" time="5900"/>
+						<Alpha a="0" time="7000"/>
+					</AlphaAnimation>
+				</Image>
+				<Image x="669" y="-97" pivotX="51" pivotY="98" rotation="20" src="weather/beam_2.png">
+					<AlphaAnimation>
+						<Alpha a="0" time="0"/>
+						<Alpha a="0" time="1100"/>
+						<Alpha a="255" time="2100"/>
+						<Alpha a="255" time="4900"/>
+						<Alpha a="0" time="5900"/>
+						<Alpha a="0" time="7000"/>
+					</AlphaAnimation>
+				</Image>
+				<Image x="669" y="-101" pivotX="51" pivotY="102" rotation="43" src="weather/beam_1.png">
+					<AlphaAnimation>
+						<Alpha a="0" time="0"/>
+						<Alpha a="0" time="1000"/>
+						<Alpha a="255" time="2000"/>
+						<Alpha a="255" time="5000"/>
+						<Alpha a="0" time="6000"/>
+						<Alpha a="0" time="7000"/>
+					</AlphaAnimation>
+				</Image>
+			</Group>
+			<Image scale="4" src="weather/sun_overlay.png"/>
+		</Group>
+		<Group name="ani_clear night" visibility="eq(#weather_id,0)*#night">
+			<Image w="#view_width" src="weather/weather_bg_0_1.png"/>
+			<Image src="weather/stars.png"/>
+			<Group rotation="40">
+				<Image x="450" y="-200" src="weather/meteor.png">
+					<AlphaAnimation>
+						<Alpha a="0" time="0"/>
+						<Alpha a="220" time="800"/>
+						<Alpha a="0" time="1400"/>
+						<Alpha a="0" time="5000"/>
+					</AlphaAnimation>
+					<PositionAnimation>
+						<Position x="0" y="450" time="1400"/>
+						<Position x="0" y="450" time="5000"/>
+					</PositionAnimation>
+				</Image>
+				<Image x="650" y="-400" src="weather/meteor.png">
+					<AlphaAnimation delay="200">
+						<Alpha a="0" time="0"/>
+						<Alpha a="0" time="400"/>
+						<Alpha a="210" time="1000"/>
+						<Alpha a="0" time="1500"/>
+						<Alpha a="0" time="5000"/>
+					</AlphaAnimation>
+					<PositionAnimation delay="200">
+						<Position x="0" y="0" time="400"/>
+						<Position x="0" y="400" time="1500"/>
+						<Position x="0" y="400" time="5000"/>
+					</PositionAnimation>
+				</Image>
+			</Group>
+			<Image x="456" y="521" scale="0.035" src="weather/spot.png">
+				<AlphaAnimation>
+					<Alpha a="50" time="0"/>
+					<Alpha a="50" time="1000"/>
+					<Alpha a="180" time="2000"/>
+					<Alpha a="50" time="3000"/>
+					<Alpha a="50" time="5000"/>
+				</AlphaAnimation>
+			</Image>
+			<Image x="365" y="354" scale="0.035" src="weather/spot.png">
+				<AlphaAnimation>
+					<Alpha a="50" time="0"/>
+					<Alpha a="50" time="1000"/>
+					<Alpha a="180" time="2000"/>
+					<Alpha a="50" time="3000"/>
+					<Alpha a="50" time="5000"/>
+				</AlphaAnimation>
+			</Image>
+			<Image x="145" y="652" scale="0.035" src="weather/spot.png">
+				<AlphaAnimation>
+					<Alpha a="50" time="0"/>
+					<Alpha a="50" time="1000"/>
+					<Alpha a="180" time="2000"/>
+					<Alpha a="50" time="3000"/>
+					<Alpha a="50" time="5000"/>
+				</AlphaAnimation>
+			</Image>
+			<Image x="234" y="378" scale="0.035" src="weather/spot.png">
+				<AlphaAnimation>
+					<Alpha a="50" time="0"/>
+					<Alpha a="50" time="1000"/>
+					<Alpha a="180" time="2000"/>
+					<Alpha a="50" time="3000"/>
+					<Alpha a="50" time="5000"/>
+				</AlphaAnimation>
+			</Image>
+			<Image x="348" y="381" scale="0.035" src="weather/spot.png">
+				<AlphaAnimation>
+					<Alpha a="50" time="0"/>
+					<Alpha a="50" time="1000"/>
+					<Alpha a="180" time="2000"/>
+					<Alpha a="50" time="3000"/>
+					<Alpha a="50" time="5000"/>
+				</AlphaAnimation>
+			</Image>
+			<Image x="368" y="157" scale="0.045" src="weather/spot.png">
+				<AlphaAnimation delay="3000">
+					<Alpha a="50" time="0"/>
+					<Alpha a="50" time="1000"/>
+					<Alpha a="120" time="2000"/>
+					<Alpha a="50" time="3000"/>
+					<Alpha a="50" time="5000"/>
+				</AlphaAnimation>
+			</Image>
+			<Image x="245" y="135" scale="0.045" src="weather/spot.png">
+				<AlphaAnimation delay="3000">
+					<Alpha a="50" time="0"/>
+					<Alpha a="50" time="1000"/>
+					<Alpha a="120" time="2000"/>
+					<Alpha a="50" time="3000"/>
+					<Alpha a="50" time="5000"/>
+				</AlphaAnimation>
+			</Image>
+			<Image x="451" y="547" scale="0.045" src="weather/spot.png">
+				<AlphaAnimation delay="3000">
+					<Alpha a="50" time="0"/>
+					<Alpha a="50" time="1000"/>
+					<Alpha a="120" time="2000"/>
+					<Alpha a="50" time="3000"/>
+					<Alpha a="50" time="5000"/>
+				</AlphaAnimation>
+			</Image>
+			<Image x="243" y="385" scale="0.045" src="weather/spot.png">
+				<AlphaAnimation delay="3000">
+					<Alpha a="50" time="0"/>
+					<Alpha a="50" time="1000"/>
+					<Alpha a="120" time="2000"/>
+					<Alpha a="50" time="3000"/>
+					<Alpha a="50" time="5000"/>
+				</AlphaAnimation>
+			</Image>
+			<Image x="256" y="348" scale="0.045" src="weather/spot.png">
+				<AlphaAnimation delay="3000">
+					<Alpha a="50" time="0"/>
+					<Alpha a="50" time="1000"/>
+					<Alpha a="120" time="2000"/>
+					<Alpha a="50" time="3000"/>
+					<Alpha a="50" time="5000"/>
+				</AlphaAnimation>
+			</Image>
+			<Image x="200" y="520" scale="0.04" src="weather/spot.png">
+				<AlphaAnimation delay="1000">
+					<Alpha a="38" time="0"/>
+					<Alpha a="38" time="1000"/>
+					<Alpha a="210" time="2000"/>
+					<Alpha a="38" time="3000"/>
+					<Alpha a="38" time="5000"/>
+				</AlphaAnimation>
+			</Image>
+			<Image x="486" y="359" scale="0.04" src="weather/spot.png">
+				<AlphaAnimation delay="1000">
+					<Alpha a="38" time="0"/>
+					<Alpha a="38" time="1000"/>
+					<Alpha a="210" time="2000"/>
+					<Alpha a="38" time="3000"/>
+					<Alpha a="38" time="5000"/>
+				</AlphaAnimation>
+			</Image>
+			<Image x="349" y="138" scale="0.04" src="weather/spot.png">
+				<AlphaAnimation delay="1000">
+					<Alpha a="38" time="0"/>
+					<Alpha a="38" time="1000"/>
+					<Alpha a="210" time="2000"/>
+					<Alpha a="38" time="3000"/>
+					<Alpha a="38" time="5000"/>
+				</AlphaAnimation>
+			</Image>
+			<Image x="357" y="285" scale="0.04" src="weather/spot.png">
+				<AlphaAnimation delay="1000">
+					<Alpha a="38" time="0"/>
+					<Alpha a="38" time="1000"/>
+					<Alpha a="210" time="2000"/>
+					<Alpha a="38" time="3000"/>
+					<Alpha a="38" time="5000"/>
+				</AlphaAnimation>
+			</Image>
+			<Image x="200" y="520" scale="0.04" src="weather/spot.png">
+				<AlphaAnimation delay="1000">
+					<Alpha a="38" time="0"/>
+					<Alpha a="38" time="1000"/>
+					<Alpha a="210" time="2000"/>
+					<Alpha a="38" time="3000"/>
+					<Alpha a="38" time="5000"/>
+				</AlphaAnimation>
+			</Image>
+			<Image scale="4" src="weather/halo_1.png">
+				<AlphaAnimation>
+					<Alpha a="38" time="0"/>
+					<Alpha a="60" time="2000"/>
+					<Alpha a="60" time="5000"/>
+					<Alpha a="38" time="7000"/>
+				</AlphaAnimation>
+			</Image>
+		</Group>
+		<Group name="ani_cloud" visibility="eq(#weather_id,1)*not(#night)">
+			<Image w="#view_width" h="#view_height" src="weather/weather_bg_0.9.png"/>
+			<Image x="0" y="250" scale="4" src="weather/cloud_2.png">
+				<PositionAnimation>
+					<Position x="-1148" y="0" time="20000"/>
+				</PositionAnimation>
+			</Image>
+			<Image x="0" y="140" scale="4" src="weather/cloud_3.png">
+				<PositionAnimation>
+					<Position x="-1876" y="0" time="5000"/>
+				</PositionAnimation>
+			</Image>
+			<Image x="0" y="370" scale="4" src="weather/cloud_1.png">
+				<PositionAnimation>
+					<Position x="-1280" y="0" time="20000"/>
+				</PositionAnimation>
+			</Image>
+			<Image scale="4" src="weather/cloud_light.png">
+				<AlphaAnimation>
+					<Alpha a="102" time="0"/>
+					<Alpha a="127.5" time="670"/>
+					<Alpha a="204" time="2000"/>
+					<Alpha a="204" time="3100"/>
+					<Alpha a="127.5" time="4300"/>
+					<Alpha a="102" time="5700"/>
+				</AlphaAnimation>
+			</Image>
+			<Group name="cloud_halo">
+				<AlphaAnimation>
+					<Alpha a="0" time="0"/>
+					<Alpha a="255" time="2000"/>
+					<Alpha a="255" time="5000"/>
+					<Alpha a="0" time="7000"/>
+				</AlphaAnimation>
+				<Image x="720" y="-696" scale="4" src="weather/halo_1.png">
+					<PositionAnimation>
+						<Position x="0" y="0" time="0"/>
+						<Position x="-620" y="596" time="2000"/>
+						<Position x="-720" y="696" time="3500"/>
+						<Position x="-720" y="696" time="4500"/>
+						<Position x="-620" y="596" time="6000"/>
+						<Position x="0" y="0" time="7000"/>
+					</PositionAnimation>
+				</Image>
+				<Image name="halo1" x="120+600" y="-614" scale="4" src="weather/halo_2.png">
+					<PositionAnimation>
+						<Position x="0" y="0" time="100"/>
+						<Position x="-500" y="514" time="2100"/>
+						<Position x="-600" y="614" time="3500"/>
+						<Position x="-600" y="614" time="4500"/>
+						<Position x="-500" y="514" time="5900"/>
+						<Position x="0" y="0" time="7000"/>
+					</PositionAnimation>
+				</Image>
+			</Group>
+			<Image x="720" y="0" align="right" pivotX="164" pivotY="0" scale="2" src="weather/halo_3.png">
+				<AlphaAnimation>
+					<Alpha a="0" time="0"/>
+					<Alpha a="0" time="1300"/>
+					<Alpha a="255" time="2300"/>
+					<Alpha a="255" time="4700"/>
+					<Alpha a="50" time="5700"/>
+					<Alpha a="0" time="7000"/>
+				</AlphaAnimation>
+			</Image>
+			<Group name="cloud_beam" pivotX="#view_width" pivotY="0">
+				<RotationAnimation>
+					<Rotation angle="-40" time="0"/>
+					<Rotation angle="-8" time="2000"/>
+					<Rotation angle="8" time="5000"/>
+					<Rotation angle="35" time="7000"/>
+				</RotationAnimation>
+				<Image x="680" y="-92" pivotX="40" pivotY="93" rotation="75" src="weather/beam_3.png">
+					<AlphaAnimation>
+						<Alpha a="0" time="0"/>
+						<Alpha a="0" time="1200"/>
+						<Alpha a="255" time="2200"/>
+						<Alpha a="255" time="4800"/>
+						<Alpha a="0" time="5800"/>
+						<Alpha a="0" time="7000"/>
+					</AlphaAnimation>
+				</Image>
+				<Image x="680" y="-92" src="weather/beam_3.png">
+					<AlphaAnimation>
+						<Alpha a="0" time="0"/>
+						<Alpha a="0" time="1200"/>
+						<Alpha a="255" time="2200"/>
+						<Alpha a="255" time="4800"/>
+						<Alpha a="0" time="5800"/>
+						<Alpha a="0" time="7000"/>
+					</AlphaAnimation>
+				</Image>
+				<Image x="669" y="-97" pivotX="51" pivotY="98" rotation="60" src="weather/beam_2.png">
+					<AlphaAnimation>
+						<Alpha a="0" time="0"/>
+						<Alpha a="0" time="1100"/>
+						<Alpha a="255" time="2100"/>
+						<Alpha a="255" time="4900"/>
+						<Alpha a="0" time="5900"/>
+						<Alpha a="0" time="7000"/>
+					</AlphaAnimation>
+				</Image>
+				<Image x="669" y="-97" pivotX="51" pivotY="98" rotation="20" src="weather/beam_2.png">
+					<AlphaAnimation>
+						<Alpha a="0" time="0"/>
+						<Alpha a="0" time="1100"/>
+						<Alpha a="255" time="2100"/>
+						<Alpha a="255" time="4900"/>
+						<Alpha a="0" time="5900"/>
+						<Alpha a="0" time="7000"/>
+					</AlphaAnimation>
+				</Image>
+				<Image x="669" y="-101" pivotX="51" pivotY="102" rotation="43" src="weather/beam_1.png">
+					<AlphaAnimation>
+						<Alpha a="0" time="0"/>
+						<Alpha a="0" time="1000"/>
+						<Alpha a="255" time="2000"/>
+						<Alpha a="255" time="5000"/>
+						<Alpha a="0" time="6000"/>
+						<Alpha a="0" time="7000"/>
+					</AlphaAnimation>
+				</Image>
+			</Group>
+		</Group>
+		<Group name="ani_cloud_night" visibility="eq(#weather_id,1)*#night">
+			<Image w="#view_width" src="weather/weather_bg_0_1.png"/>
+			<Image alpha="80" src="weather/stars.png"/>
+			<Image scale="4" src="weather/halo_1.png">
+				<AlphaAnimation>
+					<Alpha a="38" time="0"/>
+					<Alpha a="60" time="2000"/>
+					<Alpha a="60" time="5000"/>
+					<Alpha a="38" time="7000"/>
+				</AlphaAnimation>
+			</Image>
+			<Image x="0" y="250" scale="4" alpha="120" src="weather/cloud_2.png">
+				<PositionAnimation>
+					<Position x="-1148" y="0" time="20000"/>
+				</PositionAnimation>
+			</Image>
+			<Image x="0" y="140" scale="4" alpha="80" src="weather/cloud_3.png">
+				<PositionAnimation>
+					<Position x="-1876" y="0" time="5000"/>
+				</PositionAnimation>
+			</Image>
+			<Image x="0" y="370" scale="4" alpha="50" src="weather/cloud_1.png">
+				<PositionAnimation>
+					<Position x="-1280" y="0" time="20000"/>
+				</PositionAnimation>
+			</Image>
+		</Group>
+		<Group name="ani_overcast" visibility="eq(#weather_id,2)">
+			<Image w="#view_width" h="#view_height" src="weather/weather_bg_2.9.png"/>
+			<Group alpha="190">
+				<Image x="-179" y="-200" scale="4" src="weather/overcast_cloud_2.png">
+					<PositionAnimation>
+						<Position x="-1811" y="0" time="20000"/>
+					</PositionAnimation>
+				</Image>
+				<Image x="1632" y="-200" scale="4" src="weather/overcast_cloud_2.png">
+					<PositionAnimation>
+						<Position x="-1811" y="0" time="20000"/>
+					</PositionAnimation>
+				</Image>
+				<Image x="-679" y="-184" scale="4" src="weather/overcast_cloud_2.png">
+					<PositionAnimation>
+						<Position x="-1811" y="0" time="10000"/>
+					</PositionAnimation>
+				</Image>
+				<Image x="1132" y="-184" scale="4" src="weather/overcast_cloud_2.png">
+					<PositionAnimation>
+						<Position x="-1811" y="0" time="10000"/>
+					</PositionAnimation>
+				</Image>
+				<Image x="591" y="250" alpha="180" scale="4" src="weather/overcast_cloud_1.png">
+					<PositionAnimation>
+						<Position x="-1811" y="0" time="40000"/>
+					</PositionAnimation>
+				</Image>
+				<Image x="2390" y="250" alpha="180" scale="4" src="weather/overcast_cloud_1.png">
+					<PositionAnimation>
+						<Position x="-1811" y="0" time="40000"/>
+					</PositionAnimation>
+				</Image>
+				<Image x="-192" y="300" alpha="180" scale="4" src="weather/overcast_cloud_1.png">
+					<PositionAnimation>
+						<Position x="-1811" y="0" time="30000"/>
+					</PositionAnimation>
+				</Image>
+				<Image x="1607" y="300" alpha="180" scale="4" src="weather/overcast_cloud_1.png">
+					<PositionAnimation>
+						<Position x="-1811" y="0" time="30000"/>
+					</PositionAnimation>
+				</Image>
+			</Group>
+		</Group>
+		<Group name="ani_fog" visibility="eq(#weather_id,3)">
+			<Image w="#view_width" h="#view_height" src="weather/weather_bg_3.9.png"/>
+			<Var name="t1_scale">
+				<VariableAnimation delay="1200">
+					<AniFrame value="0.6" time="0"/>
+					<AniFrame value="0.62" time="1000"/>
+					<AniFrame value="0.67" time="2000"/>
+					<AniFrame value="0.78" time="3000"/>
+					<AniFrame value="0.94" time="4000"/>
+					<AniFrame value="1.19" time="5000"/>
+					<AniFrame value="2" time="6000"/>
+				</VariableAnimation>
+			</Var>
+			<Var name="d1_scale">
+				<VariableAnimation delay="3000">
+					<AniFrame value="0.6" time="0"/>
+					<AniFrame value="0.62" time="1000"/>
+					<AniFrame value="0.67" time="2000"/>
+					<AniFrame value="0.78" time="3000"/>
+					<AniFrame value="0.94" time="4000"/>
+					<AniFrame value="1.19" time="5000"/>
+					<AniFrame value="2" time="6000"/>
+				</VariableAnimation>
+			</Var>
+			<Var name="r1_scale">
+				<VariableAnimation>
+					<AniFrame value="0.8" time="0"/>
+					<AniFrame value="0.88" time="1000"/>
+					<AniFrame value="1.04" time="2000"/>
+					<AniFrame value="1.3" time="3000"/>
+					<AniFrame value="1.7" time="4000"/>
+					<AniFrame value="2.3" time="5000"/>
+					<AniFrame value="4" time="6000"/>
+				</VariableAnimation>
+			</Var>
+			<Var name="l1_scale">
+				<VariableAnimation delay="1500">
+					<AniFrame value="0.8" time="0"/>
+					<AniFrame value="0.88" time="1000"/>
+					<AniFrame value="1.04" time="2000"/>
+					<AniFrame value="1.3" time="3000"/>
+					<AniFrame value="1.7" time="4000"/>
+					<AniFrame value="2.3" time="5000"/>
+					<AniFrame value="4" time="6000"/>
+				</VariableAnimation>
+			</Var>
+			<Var name="r2_scale">
+				<VariableAnimation delay="3000">
+					<AniFrame value="0.8" time="0"/>
+					<AniFrame value="0.88" time="1000"/>
+					<AniFrame value="1.04" time="2000"/>
+					<AniFrame value="1.3" time="3000"/>
+					<AniFrame value="1.7" time="4000"/>
+					<AniFrame value="2.3" time="5000"/>
+					<AniFrame value="4" time="6000"/>
+				</VariableAnimation>
+			</Var>
+			<Var name="l2_scale">
+				<VariableAnimation delay="4500">
+					<AniFrame value="0.8" time="0"/>
+					<AniFrame value="0.88" time="1000"/>
+					<AniFrame value="1.04" time="2000"/>
+					<AniFrame value="1.3" time="3000"/>
+					<AniFrame value="1.7" time="4000"/>
+					<AniFrame value="2.3" time="5000"/>
+					<AniFrame value="4" time="6000"/>
+				</VariableAnimation>
+			</Var>
+			<Image name="t1" x="360" y="410" align="center" alignV="center" pivotX="459.5" pivotY="277" scale="#t1_scale" src="weather/fog.png">
+				<AlphaAnimation delay="1200">
+					<Alpha a="0" time="0"/>
+					<Alpha a="255" time="1500"/>
+					<Alpha a="255" time="4500"/>
+					<Alpha a="0" time="6000"/>
+				</AlphaAnimation>
+				<PositionAnimation delay="1200">
+					<Position x="0" y="-5.05" time="1000"/>
+					<Position x="0" y="-20.55" time="2000"/>
+					<Position x="0" y="-48" time="3000"/>
+					<Position x="0" y="-91.15" time="4000"/>
+					<Position x="0" y="-159.95" time="5000"/>
+					<Position x="0" y="-360" time="6000"/>
+				</PositionAnimation>
+			</Image>
+			<Image name="mountain" y="530" src="weather/fog_mountain.png"/>
+			<Image name="d1" x="360" y="410" align="center" alignV="center" pivotX="459.5" pivotY="277" scale="#d1_scale" src="weather/fog.png">
+				<AlphaAnimation delay="3000">
+					<Alpha a="0" time="0"/>
+					<Alpha a="255" time="1500"/>
+					<Alpha a="255" time="4500"/>
+					<Alpha a="0" time="6000"/>
+				</AlphaAnimation>
+				<PositionAnimation delay="3000">
+					<Position x="0" y="7.5" time="1000"/>
+					<Position x="0" y="30.75" time="2000"/>
+					<Position x="0" y="72" time="3000"/>
+					<Position x="0" y="137.1" time="4000"/>
+					<Position x="0" y="240.65" time="5000"/>
+					<Position x="0" y="540" time="6000"/>
+				</PositionAnimation>
+			</Image>
+			<Image name="r1" x="450" y="550" align="center" alignV="center" pivotX="459.5" pivotY="277" scale="#r1_scale" src="weather/fog.png">
+				<AlphaAnimation>
+					<Alpha a="0" time="0"/>
+					<Alpha a="255" time="1500"/>
+					<Alpha a="255" time="4500"/>
+					<Alpha a="0" time="6000"/>
+				</AlphaAnimation>
+				<PositionAnimation>
+					<Position x="46" y="0" time="1000"/>
+					<Position x="142.7" y="0" time="2000"/>
+					<Position x="290.5" y="0" time="3000"/>
+					<Position x="522.4" y="0" time="4000"/>
+					<Position x="896.55" y="0" time="5000"/>
+					<Position x="1870" y="0" time="6000"/>
+				</PositionAnimation>
+			</Image>
+			<Image name="l1" x="250" y="610" align="center" alignV="center" pivotX="459.5" pivotY="277" scale="#l1_scale" src="weather/fog.png">
+				<AlphaAnimation delay="1500">
+					<Alpha a="0" time="0"/>
+					<Alpha a="255" time="1500"/>
+					<Alpha a="255" time="4500"/>
+					<Alpha a="0" time="6000"/>
+				</AlphaAnimation>
+				<PositionAnimation delay="1500">
+					<Position x="-46" y="0" time="1000"/>
+					<Position x="-142.7" y="0" time="2000"/>
+					<Position x="-290.5" y="0" time="3000"/>
+					<Position x="-522.4" y="0" time="4000"/>
+					<Position x="-896.55" y="0" time="5000"/>
+					<Position x="-1850" y="0" time="6000"/>
+				</PositionAnimation>
+			</Image>
+			<Image name="r2" x="450" y="650" align="center" alignV="center" pivotX="459.5" pivotY="277" scale="#r2_scale" src="weather/fog.png">
+				<AlphaAnimation delay="3000">
+					<Alpha a="0" time="0"/>
+					<Alpha a="255" time="1500"/>
+					<Alpha a="255" time="4500"/>
+					<Alpha a="0" time="6000"/>
+				</AlphaAnimation>
+				<PositionAnimation delay="3000">
+					<Position x="46" y="0" time="1000"/>
+					<Position x="142.7" y="0" time="2000"/>
+					<Position x="290.5" y="0" time="3000"/>
+					<Position x="522.4" y="0" time="4000"/>
+					<Position x="896.55" y="0" time="5000"/>
+					<Position x="1870" y="0" time="6000"/>
+				</PositionAnimation>
+			</Image>
+			<Image name="l2" x="250" y="550" align="center" alignV="center" pivotX="459.5" pivotY="277" scale="#l2_scale" src="weather/fog.png">
+				<AlphaAnimation delay="4500">
+					<Alpha a="0" time="0"/>
+					<Alpha a="255" time="1500"/>
+					<Alpha a="255" time="4500"/>
+					<Alpha a="0" time="6000"/>
+				</AlphaAnimation>
+				<PositionAnimation delay="4500">
+					<Position x="-46" y="0" time="1000"/>
+					<Position x="-142.7" y="0" time="2000"/>
+					<Position x="-290.5" y="0" time="3000"/>
+					<Position x="-522.4" y="0" time="4000"/>
+					<Position x="-896.55" y="0" time="5000"/>
+					<Position x="-1850" y="0" time="6000"/>
+				</PositionAnimation>
+			</Image>
+		</Group>
+		<!--雨-->
+		<Group name="ani_rainstorm" visibility="ge(#weather_id,4)*le(#weather_id,6)">
+			<Image w="#view_width" h="#view_height" src="weather/weather_bg_10.9.png"/>
+			<Group x="-40" rotation="-7">
+				<PositionAnimation>
+					<Position x="-40" y="0" time="0"/>
+					<Position x="-10" y="0" time="500"/>
+					<Position x="-10" y="0" time="3500"/>
+					<Position x="-40" y="0" time="4000"/>
+				</PositionAnimation>
+				<Group x="40">
+					<!-- 上部分 -->
+					<Image y="-747" alpha="50" scale="4" src="weather/rainstorm_blur.png">
+						<PositionAnimation>
+							<Position x="0" y="747" time="750"/>
+						</PositionAnimation>
+					</Image>
+					<Image y="-747" alpha="100" src="weather/light_rain_3.png">
+						<PositionAnimation>
+							<Position x="0" y="747" time="1000"/>
+						</PositionAnimation>
+					</Image>
+					<Image y="-747" src="weather/moderate_rain_2.png">
+						<PositionAnimation>
+							<Position x="0" y="747" time="750"/>
+						</PositionAnimation>
+					</Image>
+					<Image y="-747" alpha="100" src="weather/light_rain_2.png">
+						<PositionAnimation>
+							<Position x="0" y="747" time="1000"/>
+						</PositionAnimation>
+					</Image>
+					<!-- 下部分 -->
+					<Image alpha="50" scale="4" src="weather/rainstorm_blur.png">
+						<PositionAnimation>
+							<Position x="0" y="747" time="750"/>
+						</PositionAnimation>
+					</Image>
+					<Image alpha="100" src="weather/light_rain_3.png">
+						<PositionAnimation>
+							<Position x="0" y="747" time="1000"/>
+						</PositionAnimation>
+					</Image>
+					<Image src="weather/moderate_rain_2.png">
+						<PositionAnimation>
+							<Position x="0" y="747" time="750"/>
+						</PositionAnimation>
+					</Image>
+					<Image alpha="100" src="weather/light_rain_2.png">
+						<PositionAnimation>
+							<Position x="0" y="747" time="1000"/>
+						</PositionAnimation>
+					</Image>
+				</Group>
+				<!-- 上部分 -->
+				<Image y="-747" alpha="100" scale="4" src="weather/rainstorm_blur.png">
+					<PositionAnimation>
+						<Position x="0" y="747" time="500"/>
+					</PositionAnimation>
+				</Image>
+				<Image y="-747" alpha="150" src="weather/light_rain_3.png">
+					<PositionAnimation>
+						<Position x="0" y="747" time="750"/>
+					</PositionAnimation>
+				</Image>
+				<Image y="-747" src="weather/moderate_rain_2.png">
+					<PositionAnimation>
+						<Position x="0" y="747" time="500"/>
+					</PositionAnimation>
+				</Image>
+				<Image y="-747" alpha="255" src="weather/light_rain_2.png">
+					<PositionAnimation>
+						<Position x="0" y="747" time="750"/>
+					</PositionAnimation>
+				</Image>
+				<Image y="-747" alpha="178.5" src="weather/light_rain_1.png">
+					<PositionAnimation>
+						<Position x="0" y="747" time="400"/>
+					</PositionAnimation>
+				</Image>
+				<!-- 下部分 -->
+				<Image alpha="100" scale="4" src="weather/rainstorm_blur.png">
+					<PositionAnimation>
+						<Position x="0" y="747" time="500"/>
+					</PositionAnimation>
+				</Image>
+				<Image alpha="150" src="weather/light_rain_3.png">
+					<PositionAnimation>
+						<Position x="0" y="747" time="750"/>
+					</PositionAnimation>
+				</Image>
+				<Image src="weather/moderate_rain_2.png">
+					<PositionAnimation>
+						<Position x="0" y="747" time="500"/>
+					</PositionAnimation>
+				</Image>
+				<Image alpha="255" src="weather/light_rain_2.png">
+					<PositionAnimation>
+						<Position x="0" y="747" time="750"/>
+					</PositionAnimation>
+				</Image>
+				<Image alpha="178.5" src="weather/light_rain_1.png">
+					<PositionAnimation>
+						<Position x="0" y="747" time="400"/>
+					</PositionAnimation>
+				</Image>
+				<!--大雨滴-->
+				<Image y="-100" x="100" alpha="30" src="weather/rain_spot.png">
+					<PositionAnimation>
+						<Position y="-50" x="100" time="1000"/>
+						<Position y="1000" x="105" time="1200"/>
+					</PositionAnimation>
+				</Image>
+				<Image y="-100" x="200" alpha="30" src="weather/rain_spot.png">
+					<PositionAnimation>
+						<Position y="-50" x="200" time="2000"/>
+						<Position y="1000" x="205" time="2200"/>
+					</PositionAnimation>
+				</Image>
+				<Image y="-100" x="300" alpha="30" src="weather/rain_spot.png">
+					<PositionAnimation>
+						<Position y="-50" x="300" time="3000"/>
+						<Position y="1000" x="305" time="3200"/>
+					</PositionAnimation>
+				</Image>
+				<Image y="-100" x="150" alpha="30" src="weather/rain_spot.png">
+					<PositionAnimation>
+						<Position y="-50" x="100" time="1500"/>
+						<Position y="1000" x="105" time="1700"/>
+					</PositionAnimation>
+				</Image>
+				<Image y="-100" x="250" alpha="30" src="weather/rain_spot.png">
+					<PositionAnimation>
+						<Position y="-50" x="200" time="2500"/>
+						<Position y="1000" x="205" time="2700"/>
+					</PositionAnimation>
+				</Image>
+				<Image y="-100" x="350" alpha="30" src="weather/rain_spot.png">
+					<PositionAnimation>
+						<Position y="-50" x="300" time="3500"/>
+						<Position y="1000" x="305" time="3700"/>
+					</PositionAnimation>
+				</Image>
+				<!--大雨滴 end-->
+			</Group>
+			<Image y="#weather_view_height" alignV="bottom" w="#view_width" src="weather/rainstorm_overlay.png"/>
+			<Image x="-240" y="-700" scale="4" src="weather/cloud_3.png">
+				<PositionAnimation>
+					<Position x="-240" y="-700" time="0"/>
+					<Position x="-240" y="0" time="1000"/>
+					<Position x="400" y="1200" time="1500"/>
+				</PositionAnimation>
+				<AlphaAnimation>
+					<Alpha a="0" time="0"/>
+					<Alpha a="0" time="500"/>
+					<Alpha a="200" time="1000"/>
+					<Alpha a="0" time="2000"/>
+				</AlphaAnimation>
+			</Image>
+			<Image x="-340" y="-700" alpha="100" scale="4" src="weather/cloud_3.png">
+				<PositionAnimation>
+					<Position x="-340" y="-700" time="0"/>
+					<Position x="60" y="0" time="2000"/>
+					<Position x="300" y="1200" time="2500"/>
+				</PositionAnimation>
+			</Image>
+		</Group>
+		<Group name="ani_t_storms" visibility="eq(#weather_id,7)">
+			<Image w="#view_width" h="#view_height" src="weather/weather_bg_7.9.png"/>
+			<Group x="-40" rotation="-10">
+				<Image y="-747" alpha="50" scale="4" src="weather/rainstorm_blur.png">
+					<PositionAnimation>
+						<Position x="0" y="747" time="1000"/>
+					</PositionAnimation>
+				</Image>
+				<Image y="-747" alpha="60" src="weather/light_rain_3.png">
+					<PositionAnimation>
+						<Position x="0" y="747" time="1500"/>
+					</PositionAnimation>
+				</Image>
+				<Image y="-747" alpha="50" src="weather/moderate_rain_2.png">
+					<PositionAnimation>
+						<Position x="0" y="747" time="1250"/>
+					</PositionAnimation>
+				</Image>
+				<Image y="-747" alpha="80" src="weather/moderate_rain_1.png">
+					<PositionAnimation>
+						<Position x="0" y="747" time="750"/>
+					</PositionAnimation>
+				</Image>
+				<Image y="-747" alpha="200" src="weather/light_rain_1.png">
+					<PositionAnimation>
+						<Position x="0" y="747" time="500"/>
+					</PositionAnimation>
+				</Image>
+				<Image y="-747" alpha="200" src="weather/light_rain_1.png">
+					<PositionAnimation>
+						<Position x="0" y="747" time="400"/>
+					</PositionAnimation>
+				</Image>
+				<Image alpha="50" scale="4" src="weather/rainstorm_blur.png">
+					<PositionAnimation>
+						<Position x="0" y="747" time="1000"/>
+					</PositionAnimation>
+				</Image>
+				<Image alpha="60" src="weather/light_rain_3.png">
+					<PositionAnimation>
+						<Position x="0" y="747" time="1500"/>
+					</PositionAnimation>
+				</Image>
+				<Image alpha="50" src="weather/moderate_rain_2.png">
+					<PositionAnimation>
+						<Position x="0" y="747" time="1250"/>
+					</PositionAnimation>
+				</Image>
+				<Image alpha="80" src="weather/moderate_rain_1.png">
+					<PositionAnimation>
+						<Position x="0" y="747" time="750"/>
+					</PositionAnimation>
+				</Image>
+				<Image alpha="200" src="weather/light_rain_1.png">
+					<PositionAnimation>
+						<Position x="0" y="747" time="500"/>
+					</PositionAnimation>
+				</Image>
+				<Image alpha="200" src="weather/light_rain_1.png">
+					<PositionAnimation>
+						<Position x="0" y="747" time="400"/>
+					</PositionAnimation>
+				</Image>
+			</Group>
+			<Image y="#weather_view_height" alignV="bottom" w="#view_width" src="weather/tstorm_overlay.png"/>
+			<!--雷电-->
+			<Image scale="4" src="weather/tstorm_light.png">
+				<AlphaAnimation>
+					<Alpha a="0" time="0"/>
+					<Alpha a="255" time="5"/>
+					<Alpha a="0" time="105"/>
+					<Alpha a="0" time="2105"/>
+				</AlphaAnimation>
+			</Image>
+			<Image scale="4" src="weather/tstorm_light.png">
+				<AlphaAnimation>
+					<Alpha a="0" time="0"/>
+					<Alpha a="0" time="50"/>
+					<Alpha a="255" time="55"/>
+					<Alpha a="0" time="155"/>
+					<Alpha a="0" time="2155"/>
+				</AlphaAnimation>
+			</Image>
+			<Image scale="4" src="weather/tstorm_light.png">
+				<AlphaAnimation>
+					<Alpha a="0" time="1000"/>
+					<Alpha a="255" time="1005"/>
+					<Alpha a="0" time="1100"/>
+					<Alpha a="0" time="4000"/>
+				</AlphaAnimation>
+			</Image>
+			<!--雷电 end-->
+		</Group>
+		<Group name="ani_rain_showers" visibility="eq(#weather_id,8)">
+			<Image w="#view_width" h="#view_height" src="weather/weather_bg_0.9.png"/>
+			<Group x="-80" rotation="-5">
+				<AlphaAnimation>
+					<Alpha a="0" time="0"/>
+					<Alpha a="0" time="2000"/>
+					<Alpha a="255" time="4000"/>
+					<Alpha a="255" time="9000"/>
+					<Alpha a="0" time="9500"/>
+				</AlphaAnimation>
+				<Image y="-747" alpha="150" src="weather/light_rain_3.png">
+					<PositionAnimation>
+						<Position x="0" y="747" time="1500"/>
+					</PositionAnimation>
+				</Image>
+				<Image y="-747" src="weather/light_rain_2.png">
+					<PositionAnimation>
+						<Position x="0" y="747" time="1000"/>
+					</PositionAnimation>
+				</Image>
+				<Image y="-747" alpha="178.5" src="weather/light_rain_1.png">
+					<PositionAnimation>
+						<Position x="0" y="747" time="750"/>
+					</PositionAnimation>
+				</Image>
+				<Image alpha="150" src="weather/light_rain_3.png">
+					<PositionAnimation>
+						<Position x="0" y="747" time="1500"/>
+					</PositionAnimation>
+				</Image>
+				<Image src="weather/light_rain_2.png">
+					<PositionAnimation>
+						<Position x="0" y="747" time="1000"/>
+					</PositionAnimation>
+				</Image>
+				<Image alpha="178.5" src="weather/light_rain_1.png">
+					<PositionAnimation>
+						<Position x="0" y="747" time="750"/>
+					</PositionAnimation>
+				</Image>
+			</Group>
+			<Group name="rain_showers_halo">
+				<AlphaAnimation>
+					<Alpha a="0" time="0"/>
+					<Alpha a="255" time="2000"/>
+					<Alpha a="255" time="5000"/>
+					<Alpha a="0" time="7000"/>
+				</AlphaAnimation>
+				<Image x="720" y="-696" scale="4" src="weather/halo_1.png">
+					<PositionAnimation>
+						<Position x="0" y="0" time="0"/>
+						<Position x="-620" y="596" time="2000"/>
+						<Position x="-720" y="696" time="3500"/>
+						<Position x="-720" y="696" time="4500"/>
+						<Position x="-620" y="596" time="6000"/>
+						<Position x="0" y="0" time="7000"/>
+					</PositionAnimation>
+				</Image>
+				<Image name="halo1" x="120+600" y="-614" scale="4" src="weather/halo_2.png">
+					<PositionAnimation>
+						<Position x="0" y="0" time="100"/>
+						<Position x="-500" y="514" time="2100"/>
+						<Position x="-600" y="614" time="3500"/>
+						<Position x="-600" y="614" time="4500"/>
+						<Position x="-500" y="514" time="5900"/>
+						<Position x="0" y="0" time="7000"/>
+					</PositionAnimation>
+				</Image>
+			</Group>
+			<Image x="720" y="0" align="right" pivotX="164" pivotY="0" scale="2" src="weather/halo_3.png">
+				<AlphaAnimation>
+					<Alpha a="0" time="0"/>
+					<Alpha a="0" time="1300"/>
+					<Alpha a="255" time="2300"/>
+					<Alpha a="255" time="4700"/>
+					<Alpha a="50" time="5700"/>
+					<Alpha a="0" time="7000"/>
+				</AlphaAnimation>
+			</Image>
+			<Group name="rain_showers_beam" pivotX="#view_width" pivotY="0">
+				<RotationAnimation>
+					<Rotation angle="-40" time="0"/>
+					<Rotation angle="-8" time="2000"/>
+					<Rotation angle="8" time="5000"/>
+					<Rotation angle="35" time="7000"/>
+				</RotationAnimation>
+				<Image x="680" y="-92" pivotX="40" pivotY="93" rotation="75" src="weather/beam_3.png">
+					<AlphaAnimation>
+						<Alpha a="0" time="0"/>
+						<Alpha a="0" time="1200"/>
+						<Alpha a="255" time="2200"/>
+						<Alpha a="255" time="4800"/>
+						<Alpha a="0" time="5800"/>
+						<Alpha a="0" time="7000"/>
+					</AlphaAnimation>
+				</Image>
+				<Image x="680" y="-92" src="weather/beam_3.png">
+					<AlphaAnimation>
+						<Alpha a="0" time="0"/>
+						<Alpha a="0" time="1200"/>
+						<Alpha a="255" time="2200"/>
+						<Alpha a="255" time="4800"/>
+						<Alpha a="0" time="5800"/>
+						<Alpha a="0" time="7000"/>
+					</AlphaAnimation>
+				</Image>
+				<Image x="669" y="-97" pivotX="51" pivotY="98" rotation="60" src="weather/beam_2.png">
+					<AlphaAnimation>
+						<Alpha a="0" time="0"/>
+						<Alpha a="0" time="1100"/>
+						<Alpha a="255" time="2100"/>
+						<Alpha a="255" time="4900"/>
+						<Alpha a="0" time="5900"/>
+						<Alpha a="0" time="7000"/>
+					</AlphaAnimation>
+				</Image>
+				<Image x="669" y="-97" pivotX="51" pivotY="98" rotation="20" src="weather/beam_2.png">
+					<AlphaAnimation>
+						<Alpha a="0" time="0"/>
+						<Alpha a="0" time="1100"/>
+						<Alpha a="255" time="2100"/>
+						<Alpha a="255" time="4900"/>
+						<Alpha a="0" time="5900"/>
+						<Alpha a="0" time="7000"/>
+					</AlphaAnimation>
+				</Image>
+				<Image x="669" y="-101" pivotX="51" pivotY="102" rotation="43" src="weather/beam_1.png">
+					<AlphaAnimation>
+						<Alpha a="0" time="0"/>
+						<Alpha a="0" time="1000"/>
+						<Alpha a="255" time="2000"/>
+						<Alpha a="255" time="5000"/>
+						<Alpha a="0" time="6000"/>
+						<Alpha a="0" time="7000"/>
+					</AlphaAnimation>
+				</Image>
+			</Group>
+			<Image y="#weather_view_height" alignV="bottom" w="#view_width" src="weather/snowshowers_overlay.png"/>
+		</Group>
+		<Group name="ani_heavy_rain" visibility="eq(#weather_id,9)">
+			<Image w="#view_width" h="#view_height" src="weather/weather_bg_10.9.png"/>
+			<Group x="-50" rotation="-10">
+				<Image y="-747" alpha="50" scale="4" src="weather/rainstorm_blur.png">
+					<PositionAnimation>
+						<Position x="0" y="747" time="1000"/>
+					</PositionAnimation>
+				</Image>
+				<Image y="-747" alpha="60" src="weather/light_rain_3.png">
+					<PositionAnimation>
+						<Position x="0" y="747" time="1500"/>
+					</PositionAnimation>
+				</Image>
+				<Image y="-747" alpha="50" src="weather/moderate_rain_2.png">
+					<PositionAnimation>
+						<Position x="0" y="747" time="1250"/>
+					</PositionAnimation>
+				</Image>
+				<Image y="-747" alpha="80" src="weather/moderate_rain_1.png">
+					<PositionAnimation>
+						<Position x="0" y="747" time="750"/>
+					</PositionAnimation>
+				</Image>
+				<Image x="-50" y="-747" alpha="200" src="weather/light_rain_1.png">
+					<PositionAnimation>
+						<Position x="0" y="747" time="500"/>
+					</PositionAnimation>
+				</Image>
+				<Image x="-50" y="-747" alpha="200" src="weather/light_rain_1.png">
+					<PositionAnimation>
+						<Position x="0" y="747" time="400"/>
+					</PositionAnimation>
+				</Image>
+				<Image alpha="50" scale="4" src="weather/rainstorm_blur.png">
+					<PositionAnimation>
+						<Position x="0" y="747" time="1000"/>
+					</PositionAnimation>
+				</Image>
+				<Image alpha="60" src="weather/light_rain_3.png">
+					<PositionAnimation>
+						<Position x="0" y="747" time="1500"/>
+					</PositionAnimation>
+				</Image>
+				<Image alpha="50" src="weather/moderate_rain_2.png">
+					<PositionAnimation>
+						<Position x="0" y="747" time="1250"/>
+					</PositionAnimation>
+				</Image>
+				<Image alpha="80" src="weather/moderate_rain_1.png">
+					<PositionAnimation>
+						<Position x="0" y="747" time="750"/>
+					</PositionAnimation>
+				</Image>
+				<Image x="50" alpha="200" src="weather/light_rain_1.png">
+					<PositionAnimation>
+						<Position x="0" y="747" time="500"/>
+					</PositionAnimation>
+				</Image>
+				<Image x="50" alpha="200" src="weather/light_rain_1.png">
+					<PositionAnimation>
+						<Position x="0" y="747" time="400"/>
+					</PositionAnimation>
+				</Image>
+			</Group>
+			<Image y="#weather_view_height" alignV="bottom" w="#view_width" src="weather/rain_overlay_2.png"/>
+		</Group>
+		<Group name="ani_moderate_rain" visibility="eq(#weather_id,10)">
+			<Image w="#view_width" h="#view_height" src="weather/weather_bg_10.9.png"/>
+			<Group x="-100" rotation="-15">
+				<Image y="-747" alpha="50" scale="4" src="weather/rainstorm_blur.png">
+					<PositionAnimation>
+						<Position x="0" y="747" time="750"/>
+					</PositionAnimation>
+				</Image>
+				<Image y="-747" alpha="50" src="weather/moderate_rain_2.png">
+					<PositionAnimation>
+						<Position x="0" y="747" time="1250"/>
+					</PositionAnimation>
+				</Image>
+				<Image x="-80" y="-747" alpha="200" src="weather/light_rain_1.png">
+					<PositionAnimation>
+						<Position x="0" y="747" time="500"/>
+					</PositionAnimation>
+				</Image>
+				<Image x="-80" y="-747" alpha="200" src="weather/light_rain_1.png">
+					<PositionAnimation>
+						<Position x="0" y="747" time="400"/>
+					</PositionAnimation>
+				</Image>
+				<Image alpha="50" scale="4" src="weather/rainstorm_blur.png">
+					<PositionAnimation>
+						<Position x="0" y="747" time="750"/>
+					</PositionAnimation>
+				</Image>
+				<Image alpha="50" src="weather/moderate_rain_2.png">
+					<PositionAnimation>
+						<Position x="0" y="747" time="1250"/>
+					</PositionAnimation>
+				</Image>
+				<Image x="80" alpha="200" src="weather/light_rain_1.png">
+					<PositionAnimation>
+						<Position x="0" y="747" time="500"/>
+					</PositionAnimation>
+				</Image>
+				<Image x="80" alpha="200" src="weather/light_rain_1.png">
+					<PositionAnimation>
+						<Position x="0" y="747" time="400"/>
+					</PositionAnimation>
+				</Image>
+			</Group>
+			<Image y="#weather_view_height" alignV="bottom" w="#view_width" src="weather/rain_overlay_1.png"/>
+		</Group>
+		<Group name="ani_light_rain" visibility="eq(#weather_id,11)">
+			<Image w="#view_width" h="#view_height" src="weather/weather_bg_11.9.png"/>
+			<Group x="-30" rotation="-5">
+				<Image y="-747" alpha="150" src="weather/light_rain_3.png">
+					<PositionAnimation>
+						<Position x="0" y="747" time="1500"/>
+					</PositionAnimation>
+				</Image>
+				<Image y="-747" src="weather/light_rain_2.png">
+					<PositionAnimation>
+						<Position x="0" y="747" time="1000"/>
+					</PositionAnimation>
+				</Image>
+				<Image y="-747" alpha="178.5" src="weather/light_rain_1.png">
+					<PositionAnimation>
+						<Position x="0" y="747" time="750"/>
+					</PositionAnimation>
+				</Image>
+				<Image alpha="150" src="weather/light_rain_3.png">
+					<PositionAnimation>
+						<Position x="0" y="747" time="1500"/>
+					</PositionAnimation>
+				</Image>
+				<Image src="weather/light_rain_2.png">
+					<PositionAnimation>
+						<Position x="0" y="747" time="1000"/>
+					</PositionAnimation>
+				</Image>
+				<Image alpha="178.5" antiAlias="false" src="weather/light_rain_1.png">
+					<PositionAnimation>
+						<Position x="0" y="747" time="750"/>
+					</PositionAnimation>
+				</Image>
+			</Group>
+			<Image y="#weather_view_height" alignV="bottom" w="#view_width" src="weather/rain_overlay_1.png"/>
+		</Group>
+		<!--雨 end-->
+		<!--雪-->
+		<Group name="ani_sleet" visibility="eq(#weather_id,12)">
+			<Image w="#view_width" h="#view_height" src="weather/weather_bg_11.9.png"/>
+			<Group x="-30" rotation="-5">
+				<Image y="-747" alpha="150" src="weather/light_rain_3.png">
+					<PositionAnimation>
+						<Position x="0" y="747" time="1500"/>
+					</PositionAnimation>
+				</Image>
+				<Image y="-747" src="weather/light_rain_2.png">
+					<PositionAnimation>
+						<Position x="0" y="747" time="1000"/>
+					</PositionAnimation>
+				</Image>
+				<Image y="-747" alpha="178.5" src="weather/light_rain_1.png">
+					<PositionAnimation>
+						<Position x="0" y="747" time="750"/>
+					</PositionAnimation>
+				</Image>
+				<Image alpha="150" src="weather/light_rain_3.png">
+					<PositionAnimation>
+						<Position x="0" y="747" time="1500"/>
+					</PositionAnimation>
+				</Image>
+				<Image src="weather/light_rain_2.png">
+					<PositionAnimation>
+						<Position x="0" y="747" time="1000"/>
+					</PositionAnimation>
+				</Image>
+				<Image alpha="178.5" src="weather/light_rain_1.png">
+					<PositionAnimation>
+						<Position x="0" y="747" time="750"/>
+					</PositionAnimation>
+				</Image>
+				<Group x="0" rotation="5">
+					<Image y="-747" alpha="120" src="weather/snow_big_3.png">
+						<PositionAnimation>
+							<Position x="0" y="747" time="13500"/>
+						</PositionAnimation>
+					</Image>
+					<Image alpha="120" src="weather/snow_big_3.png">
+						<PositionAnimation>
+							<Position x="0" y="747" time="13500"/>
+						</PositionAnimation>
+					</Image>
+				</Group>
+				<Group x="0" rotation="-5">
+					<Image y="-747" alpha="80" src="weather/snow_small_2.png">
+						<PositionAnimation>
+							<Position x="0" y="747" time="8500"/>
+						</PositionAnimation>
+					</Image>
+					<Image alpha="80" src="weather/snow_small_2.png">
+						<PositionAnimation>
+							<Position x="0" y="747" time="8500"/>
+						</PositionAnimation>
+					</Image>
+				</Group>
+				<Group x="0" rotation="-5">
+					<Image y="-747" alpha="255" src="weather/snow_small_3.png">
+						<PositionAnimation>
+							<Position x="0" y="747" time="5000"/>
+						</PositionAnimation>
+					</Image>
+					<Image alpha="255" src="weather/snow_small_3.png">
+						<PositionAnimation>
+							<Position x="0" y="747" time="5000"/>
+						</PositionAnimation>
+					</Image>
+				</Group>
+			</Group>
+			<Image y="#weather_view_height" alignV="bottom" w="#view_width" src="weather/sleet_overlay.png"/>
+		</Group>
+		<Group name="ani_blizzard" visibility="eq(#weather_id,13)">
+			<Image w="#view_width" h="#view_height" src="weather/weather_bg_17.9.png"/>
+			<Image x="-1876" y="140" scale="4" src="weather/cloud_3.png">
+				<PositionAnimation>
+					<Position x="0" y="60" time="0"/>
+					<Position x="1876" y="0" time="500"/>
+					<Position x="0" y="60" time="500"/>
+					<Position x="1876" y="0" time="800"/>
+					<Position x="2876" y="0" time="2000"/>
+				</PositionAnimation>
+			</Image>
+			<Group x="-70">
+				<PositionAnimation>
+					<Position x="0" y="0" time="0"/>
+					<Position x="80" y="0" time="300"/>
+					<Position x="0" y="0" time="500"/>
+					<Position x="80" y="0" time="800"/>
+					<Position x="0" y="0" time="1000"/>
+					<Position x="0" y="0" time="2000"/>
+				</PositionAnimation>
+				<Group x="-80" rotation="-25">
+					<Image y="-747" alpha="100" scale="4" src="weather/snow_blur_2.png">
+						<PositionAnimation>
+							<Position x="0" y="747" time="1000"/>
+						</PositionAnimation>
+					</Image>
+					<Image alpha="100" scale="4" src="weather/snow_blur_2.png">
+						<PositionAnimation>
+							<Position x="0" y="747" time="1000"/>
+						</PositionAnimation>
+					</Image>
+				</Group>
+				<Group x="-60" rotation="-17">
+					<Image y="-747" alpha="80" src="weather/snow_big_2.png">
+						<PositionAnimation>
+							<Position x="0" y="747" time="750"/>
+						</PositionAnimation>
+					</Image>
+					<Image y="-747" alpha="80" src="weather/snow_big_2.png">
+						<PositionAnimation>
+							<Position x="0" y="747" time="750"/>
+						</PositionAnimation>
+					</Image>
+				</Group>
+				<Group x="-80" rotation="-25">
+					<Image y="-747" alpha="80" scale="4" src="weather/snow_blur_1.png">
+						<PositionAnimation>
+							<Position x="0" y="747" time="400"/>
+						</PositionAnimation>
+					</Image>
+					<Image alpha="80" scale="4" src="weather/snow_blur_1.png">
+						<PositionAnimation>
+							<Position x="0" y="747" time="400"/>
+						</PositionAnimation>
+					</Image>
+				</Group>
+				<Group x="-80" rotation="-20">
+					<Image y="-747" alpha="100" src="weather/snow_small_3.png">
+						<PositionAnimation>
+							<Position x="0" y="747" time="1000"/>
+						</PositionAnimation>
+					</Image>
+					<Image alpha="100" src="weather/snow_small_3.png">
+						<PositionAnimation>
+							<Position x="0" y="747" time="1000"/>
+						</PositionAnimation>
+					</Image>
+				</Group>
+				<Group x="-80" rotation="-20">
+					<Image y="-747" alpha="50" src="weather/snow_small_2.png">
+						<PositionAnimation>
+							<Position x="0" y="747" time="1250"/>
+						</PositionAnimation>
+					</Image>
+					<Image alpha="50" src="weather/snow_small_2.png">
+						<PositionAnimation>
+							<Position x="0" y="747" time="1250"/>
+						</PositionAnimation>
+					</Image>
+				</Group>
+				<Group x="-80" rotation="-20">
+					<Image y="-747" alpha="50" src="weather/snow_small_2.png">
+						<PositionAnimation>
+							<Position x="0" y="747" time="1500"/>
+						</PositionAnimation>
+					</Image>
+					<Image alpha="50" src="weather/snow_small_2.png">
+						<PositionAnimation>
+							<Position x="0" y="747" time="1500"/>
+						</PositionAnimation>
+					</Image>
+				</Group>
+				<Group x="-80" rotation="-25">
+					<Image y="-747" alpha="200" scale="4" src="weather/snow_blur_3.png">
+						<PositionAnimation>
+							<Position x="0" y="747" time="400"/>
+						</PositionAnimation>
+					</Image>
+					<Image alpha="200" scale="4" src="weather/snow_blur_3.png">
+						<PositionAnimation>
+							<Position x="0" y="747" time="400"/>
+						</PositionAnimation>
+					</Image>
+				</Group>
+			</Group>
+			<!--跑的很快的雪花2个-->
+			<Group x="-80" rotation="-35">
+				<Image x="294" y="-1730" alpha="60" src="weather/snow_fast.png">
+					<PositionAnimation>
+						<Position x="0" y="2494" time="1000"/>
+						<Position x="2494" y="5000" time="3000"/>
+					</PositionAnimation>
+				</Image>
+			</Group>
+			<Group x="-75" rotation="-15">
+				<Image x="294" y="-1730" alpha="40" src="weather/snow_fast.png">
+					<PositionAnimation>
+						<Position x="0" y="2494" time="800"/>
+						<Position x="2494" y="5000" time="4000"/>
+					</PositionAnimation>
+				</Image>
+			</Group>
+			<Group x="-85" rotation="-15">
+				<Image x="294" y="-1730" alpha="40" src="weather/snow_fast.png">
+					<PositionAnimation>
+						<Position x="0" y="2494" time="600"/>
+						<Position x="2494" y="5000" time="5000"/>
+					</PositionAnimation>
+				</Image>
+			</Group>
+			<Group x="-80" rotation="-15">
+				<Image x="294" y="-1730" alpha="50" src="weather/snow_fast.png">
+					<PositionAnimation>
+						<Position x="0" y="2494" time="900"/>
+						<Position x="2494" y="5000" time="6000"/>
+					</PositionAnimation>
+				</Image>
+			</Group>
+			<Group x="-150" rotation="-6">
+				<Image x="294" y="-1730" alpha="60" src="weather/snow_fast.png">
+					<PositionAnimation>
+						<Position x="0" y="2494" time="100"/>
+						<Position x="2494" y="5000" time="2000"/>
+					</PositionAnimation>
+				</Image>
+			</Group>
+			<Group x="-10" rotation="-6">
+				<Image x="294" y="-1730" alpha="60" src="weather/snow_fast.png">
+					<PositionAnimation>
+						<Position x="0" y="2494" time="500"/>
+						<Position x="2494" y="5000" time="1000"/>
+					</PositionAnimation>
+				</Image>
+			</Group>
+			<Group x="-300" rotation="-6">
+				<Image x="294" y="-1730" alpha="60" src="weather/snow_fast.png">
+					<PositionAnimation>
+						<Position x="0" y="2494" time="1200"/>
+						<Position x="2494" y="5000" time="1500"/>
+					</PositionAnimation>
+				</Image>
+			</Group>
+			<!--跑的很快的雪花2个 end-->
+			<Image y="#weather_view_height" alignV="bottom" w="#view_width" src="weather/snow_overlay_3.png"/>
+		</Group>
+		<Group name="ani_snow_showers" visibility="eq(#weather_id,14)">
+			<Image w="#view_width" h="#view_height" src="weather/weather_bg_0.9.png"/>
+			<Group>
+				<AlphaAnimation>
+					<Alpha a="0" time="0"/>
+					<Alpha a="0" time="2000"/>
+					<Alpha a="255" time="4000"/>
+					<Alpha a="255" time="9000"/>
+					<Alpha a="0" time="11000"/>
+				</AlphaAnimation>
+				<Group x="-50" rotation="5">
+					<Image y="-747" alpha="120" src="weather/snow_big_3.png">
+						<PositionAnimation>
+							<Position x="0" y="747" time="15000"/>
+						</PositionAnimation>
+					</Image>
+					<Image alpha="120" src="weather/snow_big_3.png">
+						<PositionAnimation>
+							<Position x="0" y="747" time="15000"/>
+						</PositionAnimation>
+					</Image>
+				</Group>
+				<Group x="-60" rotation="-5">
+					<Image y="-747" alpha="80" src="weather/snow_small_2.png">
+						<PositionAnimation>
+							<Position x="0" y="747" time="8500"/>
+						</PositionAnimation>
+					</Image>
+					<Image alpha="80" src="weather/snow_small_2.png">
+						<PositionAnimation>
+							<Position x="0" y="747" time="8500"/>
+						</PositionAnimation>
+					</Image>
+				</Group>
+				<Group x="-80" rotation="-15">
+					<Image y="-747" alpha="255" src="weather/snow_small_3.png">
+						<PositionAnimation>
+							<Position x="0" y="747" time="5000"/>
+						</PositionAnimation>
+					</Image>
+					<Image alpha="255" src="weather/snow_small_3.png">
+						<PositionAnimation>
+							<Position x="0" y="747" time="5000"/>
+						</PositionAnimation>
+					</Image>
+				</Group>
+			</Group>
+			<Group name="snow_showers_halo">
+				<AlphaAnimation>
+					<Alpha a="0" time="0"/>
+					<Alpha a="255" time="2000"/>
+					<Alpha a="255" time="5000"/>
+					<Alpha a="0" time="7000"/>
+				</AlphaAnimation>
+				<Image x="720" y="-696" scale="4" src="weather/halo_1.png">
+					<PositionAnimation>
+						<Position x="0" y="0" time="0"/>
+						<Position x="-620" y="596" time="2000"/>
+						<Position x="-720" y="696" time="3500"/>
+						<Position x="-720" y="696" time="4500"/>
+						<Position x="-620" y="596" time="6000"/>
+						<Position x="0" y="0" time="7000"/>
+					</PositionAnimation>
+				</Image>
+				<Image name="halo1" x="120+600" y="-614" scale="4" src="weather/halo_2.png">
+					<PositionAnimation>
+						<Position x="0" y="0" time="100"/>
+						<Position x="-500" y="514" time="2100"/>
+						<Position x="-600" y="614" time="3500"/>
+						<Position x="-600" y="614" time="4500"/>
+						<Position x="-500" y="514" time="5900"/>
+						<Position x="0" y="0" time="7000"/>
+					</PositionAnimation>
+				</Image>
+			</Group>
+			<Image x="720" y="0" align="right" pivotX="164" pivotY="0" scale="2" src="weather/halo_3.png">
+				<AlphaAnimation>
+					<Alpha a="0" time="0"/>
+					<Alpha a="0" time="1300"/>
+					<Alpha a="255" time="2300"/>
+					<Alpha a="255" time="4700"/>
+					<Alpha a="50" time="5700"/>
+					<Alpha a="0" time="7000"/>
+				</AlphaAnimation>
+			</Image>
+			<Group name="snow_showers_beam" pivotX="#view_width" pivotY="0">
+				<RotationAnimation>
+					<Rotation angle="-40" time="0"/>
+					<Rotation angle="-8" time="2000"/>
+					<Rotation angle="8" time="5000"/>
+					<Rotation angle="35" time="7000"/>
+				</RotationAnimation>
+				<Image x="680" y="-92" pivotX="40" pivotY="93" rotation="75" src="weather/beam_3.png">
+					<AlphaAnimation>
+						<Alpha a="0" time="0"/>
+						<Alpha a="0" time="1200"/>
+						<Alpha a="255" time="2200"/>
+						<Alpha a="255" time="4800"/>
+						<Alpha a="0" time="5800"/>
+						<Alpha a="0" time="7000"/>
+					</AlphaAnimation>
+				</Image>
+				<Image x="680" y="-92" src="weather/beam_3.png">
+					<AlphaAnimation>
+						<Alpha a="0" time="0"/>
+						<Alpha a="0" time="1200"/>
+						<Alpha a="255" time="2200"/>
+						<Alpha a="255" time="4800"/>
+						<Alpha a="0" time="5800"/>
+						<Alpha a="0" time="7000"/>
+					</AlphaAnimation>
+				</Image>
+				<Image x="669" y="-97" pivotX="51" pivotY="98" rotation="60" src="weather/beam_2.png">
+					<AlphaAnimation>
+						<Alpha a="0" time="0"/>
+						<Alpha a="0" time="1100"/>
+						<Alpha a="255" time="2100"/>
+						<Alpha a="255" time="4900"/>
+						<Alpha a="0" time="5900"/>
+						<Alpha a="0" time="7000"/>
+					</AlphaAnimation>
+				</Image>
+				<Image x="669" y="-97" pivotX="51" pivotY="98" rotation="20" src="weather/beam_2.png">
+					<AlphaAnimation>
+						<Alpha a="0" time="0"/>
+						<Alpha a="0" time="1100"/>
+						<Alpha a="255" time="2100"/>
+						<Alpha a="255" time="4900"/>
+						<Alpha a="0" time="5900"/>
+						<Alpha a="0" time="7000"/>
+					</AlphaAnimation>
+				</Image>
+				<Image x="669" y="-101" pivotX="51" pivotY="102" rotation="43" src="weather/beam_1.png">
+					<AlphaAnimation>
+						<Alpha a="0" time="0"/>
+						<Alpha a="0" time="1000"/>
+						<Alpha a="255" time="2000"/>
+						<Alpha a="255" time="5000"/>
+						<Alpha a="0" time="6000"/>
+						<Alpha a="0" time="7000"/>
+					</AlphaAnimation>
+				</Image>
+			</Group>
+			<Image y="#weather_view_height" alignV="bottom" w="#view_width" src="weather/snowshowers_overlay.png"/>
+		</Group>
+		<Group name="ani_heavy_snow" visibility="eq(#weather_id,15)">
+			<Image w="#view_width" h="#view_height" src="weather/weather_bg_15.9.png"/>
+			<Group x="-50" rotation="5">
+				<Image y="-747" alpha="80" src="weather/snow_big_3.png">
+					<PositionAnimation>
+						<Position x="0" y="747" time="7500"/>
+					</PositionAnimation>
+				</Image>
+				<Image alpha="80" src="weather/snow_big_3.png">
+					<PositionAnimation>
+						<Position x="0" y="747" time="7500"/>
+					</PositionAnimation>
+				</Image>
+			</Group>
+			<Group x="0" rotation="0">
+				<Image y="-747" alpha="80" src="weather/snow_big_2.png">
+					<PositionAnimation>
+						<Position x="0" y="747" time="5000"/>
+					</PositionAnimation>
+				</Image>
+				<Image alpha="80" src="weather/snow_big_2.png">
+					<PositionAnimation>
+						<Position x="0" y="747" time="5000"/>
+					</PositionAnimation>
+				</Image>
+			</Group>
+			<Group x="-80" rotation="-5">
+				<Image y="-747" alpha="60" src="weather/snow_big_1.png">
+					<PositionAnimation>
+						<Position x="0" y="747" time="3500"/>
+					</PositionAnimation>
+				</Image>
+				<Image alpha="60" src="weather/snow_big_1.png">
+					<PositionAnimation>
+						<Position x="0" y="747" time="3500"/>
+					</PositionAnimation>
+				</Image>
+			</Group>
+			<Group x="-80" rotation="-10">
+				<Image y="-747" alpha="100" src="weather/snow_small_3.png">
+					<PositionAnimation>
+						<Position x="0" y="747" time="2500"/>
+					</PositionAnimation>
+				</Image>
+				<Image alpha="100" src="weather/snow_small_3.png">
+					<PositionAnimation>
+						<Position x="0" y="747" time="2500"/>
+					</PositionAnimation>
+				</Image>
+			</Group>
+			<Group x="-80" rotation="-10">
+				<Image y="-747" alpha="50" src="weather/snow_small_2.png">
+					<PositionAnimation>
+						<Position x="0" y="747" time="1500"/>
+					</PositionAnimation>
+				</Image>
+				<Image alpha="50" src="weather/snow_small_2.png">
+					<PositionAnimation>
+						<Position x="0" y="747" time="1500"/>
+					</PositionAnimation>
+				</Image>
+			</Group>
+			<Group x="-80" rotation="-15">
+				<Image y="-747" alpha="255" src="weather/snow_small_1.png">
+					<PositionAnimation>
+						<Position x="0" y="747" time="1250"/>
+					</PositionAnimation>
+				</Image>
+				<Image alpha="255" src="weather/snow_small_1.png">
+					<PositionAnimation>
+						<Position x="0" y="747" time="1250"/>
+					</PositionAnimation>
+				</Image>
+			</Group>
+			<!--跑的很快的雪花2个-->
+			<Group x="-80" rotation="-35">
+				<Image x="294" y="-1730" alpha="50" src="weather/snow_fast.png">
+					<PositionAnimation>
+						<Position x="0" y="2494" time="500"/>
+						<Position x="2494" y="5000" time="3000"/>
+					</PositionAnimation>
+				</Image>
+			</Group>
+			<Group x="-100" rotation="-15">
+				<Image x="294" y="-1730" alpha="30" src="weather/snow_fast.png">
+					<PositionAnimation>
+						<Position x="0" y="2494" time="500"/>
+						<Position x="2494" y="5000" time="5000"/>
+					</PositionAnimation>
+				</Image>
+			</Group>
+			<!--跑的很快的雪花2个 end-->
+			<Image y="#weather_view_height" alignV="bottom" w="#view_width" src="weather/snow_overlay_2.png"/>
+		</Group>
+		<Group name="ani_moderate_snow" visibility="eq(#weather_id,16)">
+			<Image w="#view_width" h="#view_height" src="weather/weather_bg_15.9.png"/>
+			<Group x="-50" rotation="5">
+				<Image y="-747" alpha="120" src="weather/snow_big_3.png">
+					<PositionAnimation>
+						<Position x="0" y="747" time="10000"/>
+					</PositionAnimation>
+				</Image>
+				<Image alpha="120" src="weather/snow_big_3.png">
+					<PositionAnimation>
+						<Position x="0" y="747" time="10000"/>
+					</PositionAnimation>
+				</Image>
+			</Group>
+			<Group x="0" rotation="0">
+				<Image y="-747" alpha="80" src="weather/snow_big_1.png">
+					<PositionAnimation>
+						<Position x="0" y="747" time="6500"/>
+					</PositionAnimation>
+				</Image>
+				<Image alpha="80" src="weather/snow_big_1.png">
+					<PositionAnimation>
+						<Position x="0" y="747" time="6500"/>
+					</PositionAnimation>
+				</Image>
+			</Group>
+			<Group x="-80" rotation="-5">
+				<Image y="-747" alpha="150" src="weather/snow_small_3.png">
+					<PositionAnimation>
+						<Position x="0" y="747" time="5500"/>
+					</PositionAnimation>
+				</Image>
+				<Image alpha="150" src="weather/snow_small_3.png">
+					<PositionAnimation>
+						<Position x="0" y="747" time="5500"/>
+					</PositionAnimation>
+				</Image>
+			</Group>
+			<Group x="-80" rotation="-15">
+				<Image y="-747" alpha="255" src="weather/snow_small_1.png">
+					<PositionAnimation>
+						<Position x="0" y="747" time="4000"/>
+					</PositionAnimation>
+				</Image>
+				<Image alpha="255" src="weather/snow_small_1.png">
+					<PositionAnimation>
+						<Position x="0" y="747" time="4000"/>
+					</PositionAnimation>
+				</Image>
+			</Group>
+			<Image y="#weather_view_height" alignV="bottom" w="#view_width" src="weather/snow_overlay_1.png"/>
+		</Group>
+		<Group name="ani_light_snow" visibility="eq(#weather_id,17)">
+			<Image w="#view_width" h="#view_height" src="weather/weather_bg_17.9.png"/>
+			<Group x="-50" rotation="5">
+				<Image y="-747" alpha="120" src="weather/snow_big_3.png">
+					<PositionAnimation>
+						<Position x="0" y="747" time="13500"/>
+					</PositionAnimation>
+				</Image>
+				<Image alpha="120" src="weather/snow_big_3.png">
+					<PositionAnimation>
+						<Position x="0" y="747" time="13500"/>
+					</PositionAnimation>
+				</Image>
+			</Group>
+			<Group x="-60" rotation="-5">
+				<Image y="-747" alpha="80" src="weather/snow_small_2.png">
+					<PositionAnimation>
+						<Position x="0" y="747" time="8500"/>
+					</PositionAnimation>
+				</Image>
+				<Image alpha="80" src="weather/snow_small_2.png">
+					<PositionAnimation>
+						<Position x="0" y="747" time="8500"/>
+					</PositionAnimation>
+				</Image>
+			</Group>
+			<Group x="-80" rotation="-15">
+				<Image y="-747" alpha="255" src="weather/snow_small_3.png">
+					<PositionAnimation>
+						<Position x="0" y="747" time="5000"/>
+					</PositionAnimation>
+				</Image>
+				<Image alpha="255" src="weather/snow_small_3.png">
+					<PositionAnimation>
+						<Position x="0" y="747" time="5000"/>
+					</PositionAnimation>
+				</Image>
+			</Group>
+			<Image y="#weather_view_height" alignV="bottom" w="#view_width" src="weather/snow_overlay_1.png"/>
+		</Group>
+		<!--雪 end-->
+		<Group name="ani_dust" visibility="ge(#weather_id,18)*le(#weather_id,21)">
+			<Image w="#view_width" h="#view_height" src="weather/weather_bg_18.9.png"/>
+			<Var name="t1_dust_scale">
+				<VariableAnimation delay="1200">
+					<AniFrame value="0.6" time="0"/>
+					<AniFrame value="0.62" time="1000"/>
+					<AniFrame value="0.67" time="2000"/>
+					<AniFrame value="0.78" time="3000"/>
+					<AniFrame value="0.94" time="4000"/>
+					<AniFrame value="1.19" time="5000"/>
+					<AniFrame value="2" time="6000"/>
+				</VariableAnimation>
+			</Var>
+			<Var name="d1_dust_scale">
+				<VariableAnimation delay="3500">
+					<AniFrame value="0.6" time="0"/>
+					<AniFrame value="0.62" time="1000"/>
+					<AniFrame value="0.67" time="2000"/>
+					<AniFrame value="0.78" time="3000"/>
+					<AniFrame value="0.94" time="4000"/>
+					<AniFrame value="1.19" time="5000"/>
+					<AniFrame value="2" time="6000"/>
+				</VariableAnimation>
+			</Var>
+			<Var name="r1_dust_scale">
+				<VariableAnimation>
+					<AniFrame value="0.8" time="0"/>
+					<AniFrame value="0.88" time="1000"/>
+					<AniFrame value="1.04" time="2000"/>
+					<AniFrame value="1.3" time="3000"/>
+					<AniFrame value="1.7" time="4000"/>
+					<AniFrame value="2.3" time="5000"/>
+					<AniFrame value="4" time="6000"/>
+				</VariableAnimation>
+			</Var>
+			<Var name="l1_dust_scale">
+				<VariableAnimation delay="1500">
+					<AniFrame value="0.8" time="0"/>
+					<AniFrame value="0.88" time="1000"/>
+					<AniFrame value="1.04" time="2000"/>
+					<AniFrame value="1.3" time="3000"/>
+					<AniFrame value="1.7" time="4000"/>
+					<AniFrame value="2.3" time="5000"/>
+					<AniFrame value="4" time="6000"/>
+				</VariableAnimation>
+			</Var>
+			<Var name="r2_dust_scale">
+				<VariableAnimation delay="3000">
+					<AniFrame value="0.8" time="0"/>
+					<AniFrame value="0.88" time="1000"/>
+					<AniFrame value="1.04" time="2000"/>
+					<AniFrame value="1.3" time="3000"/>
+					<AniFrame value="1.7" time="4000"/>
+					<AniFrame value="2.3" time="5000"/>
+					<AniFrame value="4" time="6000"/>
+				</VariableAnimation>
+			</Var>
+			<Var name="l2_dust_scale">
+				<VariableAnimation delay="4500">
+					<AniFrame value="0.8" time="0"/>
+					<AniFrame value="0.88" time="1000"/>
+					<AniFrame value="1.04" time="2000"/>
+					<AniFrame value="1.3" time="3000"/>
+					<AniFrame value="1.7" time="4000"/>
+					<AniFrame value="2.3" time="5000"/>
+					<AniFrame value="4" time="6000"/>
+				</VariableAnimation>
+			</Var>
+			<Image x="195" y="248" scale="4" src="weather/dust_city_2.png"/>
+			<Image name="t1" x="360" y="410" align="center" alignV="center" pivotX="459.5" pivotY="277" scale="2*#t1_dust_scale" src="weather/dust.png">
+				<AlphaAnimation delay="1200">
+					<Alpha a="0" time="0"/>
+					<Alpha a="255" time="1500"/>
+					<Alpha a="255" time="4500"/>
+					<Alpha a="0" time="6000"/>
+				</AlphaAnimation>
+				<PositionAnimation delay="1200">
+					<Position x="0" y="-5.05" time="1000"/>
+					<Position x="0" y="-20.55" time="2000"/>
+					<Position x="0" y="-48" time="3000"/>
+					<Position x="0" y="-91.15" time="4000"/>
+					<Position x="0" y="-130" time="5000"/>
+					<Position x="0" y="-170" time="6000"/>
+				</PositionAnimation>
+			</Image>
+			<Image name="d1" x="360" y="410" align="center" alignV="center" pivotX="459.5" pivotY="277" scale="2*#d1_dust_scale" src="weather/dust.png">
+				<AlphaAnimation delay="3500">
+					<Alpha a="0" time="0"/>
+					<Alpha a="255" time="1500"/>
+					<Alpha a="255" time="4500"/>
+					<Alpha a="0" time="6000"/>
+				</AlphaAnimation>
+				<PositionAnimation delay="3500">
+					<Position x="0" y="7.5" time="1000"/>
+					<Position x="0" y="30.75" time="2000"/>
+					<Position x="0" y="72" time="3000"/>
+					<Position x="0" y="137.1" time="4000"/>
+					<Position x="0" y="240.65" time="5000"/>
+					<Position x="0" y="540" time="6000"/>
+				</PositionAnimation>
+			</Image>
+			<Image x="0" y="747" alignV="bottom" pivotX="0" pivotY="72" scale="4" src="weather/dust_city_1.png"/>
+			<Image name="r1" x="450" y="550" align="center" alignV="center" pivotX="459.5" pivotY="277" scale="2*#r1_dust_scale" src="weather/dust.png">
+				<AlphaAnimation>
+					<Alpha a="0" time="0"/>
+					<Alpha a="255" time="1500"/>
+					<Alpha a="255" time="4500"/>
+					<Alpha a="0" time="6000"/>
+				</AlphaAnimation>
+				<PositionAnimation>
+					<Position x="46" y="0" time="1000"/>
+					<Position x="142.7" y="0" time="2000"/>
+					<Position x="290.5" y="0" time="3000"/>
+					<Position x="522.4" y="0" time="4000"/>
+					<Position x="896.55" y="0" time="5000"/>
+					<Position x="1870" y="0" time="6000"/>
+				</PositionAnimation>
+			</Image>
+			<Image name="l1" x="250" y="610" align="center" alignV="center" pivotX="459.5" pivotY="277" scale="2*#l1_dust_scale" src="weather/dust.png">
+				<AlphaAnimation delay="1500">
+					<Alpha a="0" time="0"/>
+					<Alpha a="255" time="1500"/>
+					<Alpha a="255" time="4500"/>
+					<Alpha a="0" time="6000"/>
+				</AlphaAnimation>
+				<PositionAnimation delay="1500">
+					<Position x="-46" y="0" time="1000"/>
+					<Position x="-142.7" y="0" time="2000"/>
+					<Position x="-290.5" y="0" time="3000"/>
+					<Position x="-522.4" y="0" time="4000"/>
+					<Position x="-896.55" y="0" time="5000"/>
+					<Position x="-1850" y="0" time="6000"/>
+				</PositionAnimation>
+			</Image>
+			<Image name="r2" x="450" y="650" align="center" alignV="center" pivotX="459.5" pivotY="277" scale="2*#r2_dust_scale" src="weather/dust.png">
+				<AlphaAnimation delay="3000">
+					<Alpha a="0" time="0"/>
+					<Alpha a="255" time="1500"/>
+					<Alpha a="255" time="4500"/>
+					<Alpha a="0" time="6000"/>
+				</AlphaAnimation>
+				<PositionAnimation delay="3000">
+					<Position x="46" y="0" time="1000"/>
+					<Position x="142.7" y="0" time="2000"/>
+					<Position x="290.5" y="0" time="3000"/>
+					<Position x="522.4" y="0" time="4000"/>
+					<Position x="896.55" y="0" time="5000"/>
+					<Position x="1870" y="0" time="6000"/>
+				</PositionAnimation>
+			</Image>
+			<Image name="l2" x="250" y="550" align="center" alignV="center" pivotX="459.5" pivotY="277" scale="2*#l2_dust_scale" src="weather/dust.png">
+				<AlphaAnimation delay="4500">
+					<Alpha a="0" time="0"/>
+					<Alpha a="255" time="1500"/>
+					<Alpha a="255" time="4500"/>
+					<Alpha a="0" time="6000"/>
+				</AlphaAnimation>
+				<PositionAnimation delay="4500">
+					<Position x="-46" y="0" time="1000"/>
+					<Position x="-142.7" y="0" time="2000"/>
+					<Position x="-290.5" y="0" time="3000"/>
+					<Position x="-522.4" y="0" time="4000"/>
+					<Position x="-896.55" y="0" time="5000"/>
+					<Position x="-1850" y="0" time="6000"/>
+				</PositionAnimation>
+			</Image>
+		</Group>
+		<!--冰雹-->
+		<Group name="ani_hallstone" visibility="eq(#weather_id,22)">
+			<Image w="#view_width" h="#view_height" src="weather/weather_bg_10.9.png"/>
+			<Group rotation="0">
+				<Image y="-747" alpha="50" src="weather/hallstone_4.png">
+					<PositionAnimation>
+						<Position x="0" y="747" time="1000"/>
+					</PositionAnimation>
+				</Image>
+				<Image y="-747" alpha="80" src="weather/hallstone_3.png">
+					<PositionAnimation>
+						<Position x="0" y="747" time="750"/>
+					</PositionAnimation>
+				</Image>
+				<Image y="-747" alpha="160" src="weather/hallstone_2.png">
+					<PositionAnimation>
+						<Position x="0" y="747" time="500"/>
+					</PositionAnimation>
+				</Image>
+				<Image y="-747" alpha="255" src="weather/hallstone_1.png">
+					<PositionAnimation>
+						<Position x="0" y="747" time="300"/>
+					</PositionAnimation>
+				</Image>
+				<Image alpha="50" src="weather/hallstone_4.png">
+					<PositionAnimation>
+						<Position x="0" y="747" time="1000"/>
+					</PositionAnimation>
+				</Image>
+				<Image alpha="80" src="weather/hallstone_3.png">
+					<PositionAnimation>
+						<Position x="0" y="747" time="750"/>
+					</PositionAnimation>
+				</Image>
+				<Image alpha="160" src="weather/hallstone_2.png">
+					<PositionAnimation>
+						<Position x="0" y="747" time="500"/>
+					</PositionAnimation>
+				</Image>
+				<Image alpha="255" src="weather/hallstone_1.png">
+					<PositionAnimation>
+						<Position x="0" y="747" time="300"/>
+					</PositionAnimation>
+				</Image>
+			</Group>
+			<Image y="747" alpha="230" alignV="bottom" w="#view_width" src="weather/rain_overlay_2.png"/>
+			<!--冰雹弹起效果-->
+			<Group>
+				<Image rotation="-5" x="0" y="#weather_view_height" src="weather/hallstone_flip_1.png">
+					<PositionAnimation>
+						<Position y="-200" x="50" time="150"/>
+					</PositionAnimation>
+					<AlphaAnimation>
+						<Alpha a="255" time="0"/>
+						<Alpha a="0" time="150"/>
+					</AlphaAnimation>
+				</Image>
+				<Image rotation="5" x="0" y="#weather_view_height" src="weather/hallstone_flip_2.png">
+					<PositionAnimation>
+						<Position y="0" time="100"/>
+						<Position y="-200" x="-50" time="300"/>
+					</PositionAnimation>
+					<AlphaAnimation>
+						<Alpha a="0" time="0"/>
+						<Alpha a="0" time="100"/>
+						<Alpha a="255" time="100"/>
+						<Alpha a="0" time="300"/>
+					</AlphaAnimation>
+				</Image>
+				<Image rotation="-5" x="-50" y="#weather_view_height" src="weather/hallstone_flip_1.png">
+					<PositionAnimation>
+						<Position y="0" time="100"/>
+						<Position y="-180" time="300"/>
+					</PositionAnimation>
+					<AlphaAnimation>
+						<Alpha a="0" time="0"/>
+						<Alpha a="0" time="100"/>
+						<Alpha a="255" time="100"/>
+						<Alpha a="0" time="300"/>
+					</AlphaAnimation>
+				</Image>
+				<Image rotation="5" x="0" y="#weather_view_height" src="weather/hallstone_flip_2.png">
+					<PositionAnimation>
+						<Position y="0" time="200"/>
+						<Position y="-100" time="350"/>
+					</PositionAnimation>
+					<AlphaAnimation>
+						<Alpha a="0" time="0"/>
+						<Alpha a="0" time="200"/>
+						<Alpha a="255" time="200"/>
+						<Alpha a="0" time="350"/>
+					</AlphaAnimation>
+				</Image>
+				<Image rotation="-5" x="200" y="#weather_view_height" src="weather/hallstone_flip_2.png">
+					<PositionAnimation>
+						<Position y="0" time="500"/>
+						<Position y="-150" time="700"/>
+					</PositionAnimation>
+					<AlphaAnimation>
+						<Alpha a="0" time="0"/>
+						<Alpha a="0" time="500"/>
+						<Alpha a="255" time="500"/>
+						<Alpha a="0" time="700"/>
+					</AlphaAnimation>
+				</Image>
+				<Image rotation="5" x="0" y="#weather_view_height" src="weather/hallstone_flip_2.png">
+					<PositionAnimation>
+						<Position y="0" time="400"/>
+						<Position y="-50" time="700"/>
+					</PositionAnimation>
+					<AlphaAnimation>
+						<Alpha a="0" time="0"/>
+						<Alpha a="0" time="400"/>
+						<Alpha a="255" time="400"/>
+						<Alpha a="0" time="600"/>
+					</AlphaAnimation>
+				</Image>
+				<Image rotation="-5" x="100" y="#weather_view_height" src="weather/hallstone_flip_1.png">
+					<PositionAnimation>
+						<Position y="0" time="600"/>
+						<Position y="-250" time="700"/>
+					</PositionAnimation>
+					<AlphaAnimation>
+						<Alpha a="0" time="0"/>
+						<Alpha a="0" time="600"/>
+						<Alpha a="255" time="600"/>
+						<Alpha a="0" time="800"/>
+					</AlphaAnimation>
+				</Image>
+			</Group>
+			<!--冰雹弹起效果 end-->
+		</Group>
+		<!--冰雹 end-->
+		<Group name="ani_haze" visibility="eq(#weather_id,23)+eq(#weather_id,24)">
+			<Image w="#view_width" h="#view_height" src="weather/weather_bg_24.9.png"/>
+			<Image x="-218" y="150" scale="4" src="weather/haze.png">
+				<PositionAnimation>
+					<Position x="1156" y="0" time="5000"/>
+				</PositionAnimation>
+			</Image>
+			<Image x="-1374" y="150" scale="4" src="weather/haze.png">
+				<PositionAnimation>
+					<Position x="1156" y="0" time="5000"/>
+				</PositionAnimation>
+			</Image>
+			<Image y="#weather_view_height" alignV="bottom" pivotX="0" pivotY="148" scale="4" src="weather/haze_tree.png"/>
+			<Image x="-218" y="150" scale="4" src="weather/haze.png">
+				<AlphaAnimation>
+					<Alpha a="0" time="0"/>
+					<Alpha a="250" time="2000"/>
+					<Alpha a="0" time="5000"/>
+				</AlphaAnimation>
+			</Image>
+		</Group>
+	</Group>
+	<Group x="#dismiss_x" y="#dismiss_y">
+		<Time name="time" x="-#time.bmp_width/2" src="alarm_screen_bar_time.png"/>
+		<Text name="label_text" x="-(min(#label_text.text_width,400)+#alarm_small_icon.bmp_width+14)/2+#alarm_small_icon.bmp_width+14" y="197" w="400" marqueeSpeed="30" size="36" bold="true" color="#FFFFFF" alpha="204" text="@label"/>
+		<Image name="alarm_small_icon" x="-(min(#label_text.text_width,400)+#alarm_small_icon.bmp_width+14)/2" y="202" src="alarm_small_icon.png"/>
+		<Text y="250" size="32" color="#FFFFFF" alpha="204" align="center" textExp="ifelse(#hasweather,@weather_description+' '+#weather_temperature+'°','')"/>
+		<Button name="snooze_alarm" x="-(#snooze_text.text_width+238)/2" y="333" w="#snooze_text.text_width+238" h="100">
+			<Normal>
+				<Image y="311" w="#snooze_text.text_width+238" align="center" src="snooze_bg_normal.9.png"/>
+			</Normal>
+			<Pressed>
+				<Image y="311" w="#snooze_text.text_width+238" align="center" src="snooze_bg_pressed.9.png"/>
+			</Pressed>
+		</Button>
+		<Text name="snooze_text" format="@snooze_message" y="355.5" size="30" bold="true" color="#ffffff" align="center" paras="#snooze_time"/>
+	</Group>
+	<Image x="0" y="#view_height-272" w="#view_width" h="272" src="tray.9.png"/>
+	<Image x="#dismiss_x" y="#view_height-200" align="center" w="570" h="126" src="slider_bg.9.png"/>
+	<Var name="ani_offset">
+		<VariableAnimation>
+			<AniFrame value="444-#dismiss_alarm.move_x" time="200"/>
+			<AniFrame value="444-#dismiss_alarm.move_x" time="100000000000000"/>
+		</VariableAnimation>
+	</Var>
+	<Group x="(#view_width-565)/2" y="#view_height-163" w="565" h="126" clip="true">
+		<Text x="343+min(444,#dismiss_alarm.move_x+#ani_offset*eq(#dismiss_alarm.state,2))" align="center" size="40" color="#000000" alpha="102" text="@slider_text"/>
+	</Group>
+	<Image x="67+min(444,#dismiss_alarm.move_x+#ani_offset*eq(#dismiss_alarm.state,2))" y="#view_height-201" src="slider.png"/>
+	<Slider name="dismiss_alarm" bounceInitSpeed="1000" bounceAcceleration="1500" delay="200">
+		<StartPoint x="68" y="#view_height-212" w="150" h="150"/>
+		<EndPoint name="dismiss_endpoint" x="430" y="#view_height-212" w="150" h="150">
+			<Path x="68" y="#view_height-212" tolerance="500">
+				<Position x="0" y="0"/>
+				<Position x="444" y="0"/>
+			</Path>
+			<ReachedState>
+				<Trigger>
+					<Command target="ani_offset.animation" value="play"/>
+				</Trigger>
+			</ReachedState>
+		</EndPoint>
+	</Slider>
+	<Image w="#view_width" src="round.9.png"/>
+</Alarmscreen>
