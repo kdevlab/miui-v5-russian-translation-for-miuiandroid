@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Builded with NXT -->
 <resources>
-     <string name="access_error">"В Гостевом режиме нельзя записывать"</string>
+     <string name="access_error">"В Гостевом режиме запись не доступна"</string>
      <string name="alert_message_delete_record">Удалить выбранную запись?</string>
      <string name="app_name">Диктофон</string>
      <string name="audio_db_album_name">Аудиозаписи</string>
@@ -26,10 +26,10 @@
      <string name="duration_format_hour">%sч</string>
      <string name="duration_format_minute">%sм</string>
      <string name="duration_format_second">%sс</string>
-     <string name="error_app_internal">Внутренняя ошибка приложения</string>
+     <string name="error_app_internal">Возможно, другое приложение использует функцию записи.</string>
      <string name="error_app_internal_title">Ошибка диктофона</string>
      <string name="error_filename_illegal_char">Имя файла содержит недопустимый символ</string>
-     <string name="error_filename_too_long">Слишком длинное име файла</string>
+     <string name="error_filename_too_long">Слишком длинное имя файла</string>
      <string name="error_mediadb_new_record">Не удалось сохранить аудиозапись</string>
      <string name="error_sdcard_access">Не удалось получить доступ к SD-карте</string>
      <string name="fm_record">Записи радио (%d)</string>
@@ -106,13 +106,13 @@
      <string name="status_bar_recording_pause">Пауза</string>
      <string name="stop_recording">остановка записи</string>
      <string name="storage_is_full">Память заполнена</string>
-     <string name="sync_only_in_wifi">Использовать только Wi-Fi</string>
+     <string name="sync_only_in_wifi">Только по Wi-Fi</string>
      <string name="sync_only_in_wifi_alert">Выключение этой опции может увеличить использование вашего мобильного трафика (это может стоить вам денег).</string>
      <string name="sync_only_in_wifi_summary">Диктофон будет использовать подключение к мобильной сети для загрузки и выгрузки записей, когда эта опция выключена</string>
      <string name="sync_records">Синхронизация записей</string>
      <string name="toast_file_is_downloading">Загрузка файла…</string>
      <string name="toast_max_record_time">Приложение: %1$s максимально поддерживает %2$s записей вложения</string>
-     <string name="toast_uninstall_fileexplorer">Приложение файлы не установлено</string>
+     <string name="toast_uninstall_fileexplorer">Приложение \"Файлы\" не установлено</string>
      <string name="unknown_caller">Неизвестный вызов</string>
      <string name="view_list_of_recordings">просмотр списка записей</string>
      <string name="wifi_recommended_body">"О загрузке через мобильный интернет:
