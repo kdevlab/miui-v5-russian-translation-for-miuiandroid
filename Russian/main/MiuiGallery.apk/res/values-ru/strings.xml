@@ -49,7 +49,7 @@
      <string name="appwidget_title">Фотогалерея</string>
      <string name="auto">Авто</string>
      <string name="auto_create_recent_album">Автосоздание избр. альбома</string>
-     <string name="auto_create_recent_album_confirm">После отключения этой функции, галерея очистит созданные данные последних альбомов. Последние альбомы, установленные пользователем, не будут затронуты. Кроме того, можно установить это вручную, долгим нажатием на альбом.</string>
+     <string name="auto_create_recent_album_confirm">После отключения этой функции, галерея очистит данные об автосозданных избранных альбомах. Избранные альбомы, выбранные пользователем, не будут затронуты. Кроме того, это можно сделать вручную, долгим нажатием на альбом.</string>
      <string name="auto_create_recent_album_over_ten_times">Создает избранный альбом после захода в него более 10 раз</string>
      <string name="autofix">Авто</string>
      <string name="baidu_bdmobile_downloads">Baidu Mobile</string>
@@ -454,7 +454,7 @@
      <string name="storage_no_space">Не хватает памяти</string>
      <string name="straighten">Выравнивание</string>
      <string name="straighten_tooltip">Чтобы выровнять фото, перетащите его</string>
-     <string name="sync_album">Синхр. альбом</string>
+     <string name="sync_album">Синхронизировать альбомы</string>
      <string name="sync_album_error">Не удалось загрузить фотографии. Повторите попытку позже.</string>
      <string name="sync_album_in_proecess">Синхронизация альбома. Пожалуйста, подождите…</string>
      <string name="sync_album_set_error">Не удалось загрузить альбомы. Повторите попытку позже.</string>
