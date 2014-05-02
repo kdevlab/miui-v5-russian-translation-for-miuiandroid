@@ -19,7 +19,7 @@
         <item>Грустный</item>
         <item>Подмигивающий</item>
         <item>Высунутый язык</item>
-        <item>Удивлённый</item>
+        <item>Удивленный</item>
         <item>Поцелуй</item>
         <item>Вопящий</item>
         <item>Отлично</item>
@@ -54,12 +54,12 @@
         <item>Никогда</item>
      </string-array>
      <string-array name="resent_via_entries_mms">
-        <item>Через MMS</item>
-        <item>Через облачное сообщение</item>
+        <item>MMS сообщение</item>
+        <item>Облачное сообщение</item>
      </string-array>
      <string-array name="resent_via_entries_sms">
-        <item>Через SMS</item>
-        <item>Через облачное сообщение</item>
+        <item>Текстовое сообщение</item>
+        <item>Облачное сообщение</item>
      </string-array>
      <string-array name="select_dialog_items">
         <item>1 сек.</item>
