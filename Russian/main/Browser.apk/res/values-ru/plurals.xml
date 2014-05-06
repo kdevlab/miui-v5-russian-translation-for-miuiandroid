@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="webview_matches_found">
+        <item quantity="other">%1$d из %2$d</item>
+        <item quantity="one">1 совпадение</item>
+    </plurals>
+    <plurals name="webview_last_num_days">
+        <item quantity="other">За %d дней</item>
+    </plurals>
+</resources>
