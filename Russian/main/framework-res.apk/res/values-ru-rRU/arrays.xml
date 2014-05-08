@@ -1,67 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Builded with NXT -->
 <resources>
-     <string-array name="app_ops_labels">
-        <item>Trying to access location</item>
-        <item>Trying to access location</item>
-        <item>Trying to access location</item>
-        <item>Trying to use vibrate</item>
-        <item>Trying to read contacts</item>
-        <item>Trying to modify contacts</item>
-        <item>Trying to read call log</item>
-        <item>Trying to modify call log</item>
-        <item>Trying to read calendar</item>
-        <item>Trying to modify calendar</item>
-        <item>Trying to access location</item>
-        <item>Trying to post notification</item>
-        <item>Trying to access location</item>
-        <item>Trying to make phone call</item>
-        <item>Trying to read SMS</item>
-        <item>Trying to write/modify SMS</item>
-        <item>Trying to receive SMS</item>
-        <item>Trying to receive SMS</item>
-        <item>Trying to receive MMS</item>
-        <item>Trying to receive SMS</item>
-        <item>Trying to send SMS</item>
-        <item>Trying to read SMS</item>
-        <item>Trying to write/modify SMS</item>
-        <item>Trying to modify settings</item>
-        <item>Trying to draw on top</item>
-        <item>Trying to access notifications</item>
-        <item>Trying to access Camera</item>
-        <item>Trying to record audio</item>
-        <item>Trying to play audio</item>
-        <item>Trying to read clipboard</item>
-        <item>Trying to modify clipboard</item>
-        <item>Trying to turn on/off Wifi</item>
-        <item>Trying to turn on/off bluetooth</item>
-        <item>Trying to turn on/off mobile data</item>
-        <item>Trying to send MMS</item>
-        <item>Trying to read MMS</item>
-        <item>Trying to write MMS</item>
-     </string-array>
-     <string-array name="emailAddressTypes">
-        <item>Домашний</item>
-        <item>Рабочий</item>
-        <item>Другой</item>
-        <item>Создать</item>
-     </string-array>
-     <string-array name="imAddressTypes">
-        <item>Домашний</item>
-        <item>Рабочий</item>
-        <item>Другой</item>
-        <item>Создать</item>
-     </string-array>
-     <string-array name="imProtocols">
-        <item>AIM</item>
-        <item>Windows Live</item>
-        <item>Yahoo</item>
-        <item>Skype</item>
-        <item>QQ</item>
-        <item>Google Talk</item>
-        <item>ICQ</item>
-        <item>Jabber</item>
-     </string-array>
      <integer-array name="maps_starting_lat_lng">
         <item>55750449</item>
         <item>37621136</item>
@@ -69,25 +8,4 @@
      <integer-array name="maps_starting_zoom">
         <item>2</item>
      </integer-array>
-     <string-array name="organizationTypes">
-        <item>Рабочий</item>
-        <item>Другой</item>
-        <item>Создать</item>
-     </string-array>
-     <string-array name="phoneTypes">
-        <item>Домашний</item>
-        <item>Мобильный</item>
-        <item>Рабочий</item>
-        <item>Рабочий факс</item>
-        <item>Домашний факс</item>
-        <item>Пейджер</item>
-        <item>Другой</item>
-        <item>Создать</item>
-     </string-array>
-     <string-array name="postalAddressTypes">
-        <item>Домашний</item>
-        <item>Рабочий</item>
-        <item>Другой</item>
-        <item>Создать</item>
-     </string-array>
 </resources>
