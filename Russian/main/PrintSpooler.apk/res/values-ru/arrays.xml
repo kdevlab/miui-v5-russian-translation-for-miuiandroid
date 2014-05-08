@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Builded with NXT -->
+<resources>
+     <string-array name="color_mode_labels">
+        <item>Черно-белое</item>
+        <item>Цветное</item>
+     </string-array>
+     <string-array name="orientation_labels">
+        <item>Книжная</item>
+        <item>Альбомная</item>
+     </string-array>
+     <string-array name="page_options_labels">
+        <item>Все</item>
+        <item>Диапазон</item>
+     </string-array>
+</resources>

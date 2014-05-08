@@ -9,10 +9,14 @@
      <string name="account_setup_options_mail_window_all">Все</string>
      <string name="account_setup_options_mail_window_auto">Автоматически</string>
      <string name="app_name">Службы Exchange</string>
+     <string name="auth_error_notification_text">Коснитесь, чтобы изменить параметры учетной записи для %s</string>
+     <string name="auth_error_notification_title">Ошибка аутентификации</string>
      <string name="exception_cancel">Это событие было отменено: %s</string>
      <string name="exception_updated">Подробности этого мероприятия был изменены на: %s</string>
      <string name="exchange_name">Корпоративный</string>
      <string name="exchange_name_alternate">Microsoft Exchange ActiveSync</string>
+     <string name="mailbox_name_server_all_unread">Непрочитанные</string>
+     <string name="mailbox_name_server_starred">Избранные</string>
      <string name="meeting_accepted">Приняты: %s</string>
      <string name="meeting_allday">Когда: %s (весь день)</string>
      <string name="meeting_allday_recurring">Когда: %s (весь день, повтор)</string>
@@ -45,5 +49,6 @@
      <string name="policy_require_manual_sync_roaming">Only allow manual sync while roaming</string>
      <string name="policy_require_sd_encryption">Require SD card encryption</string>
      <string name="policy_require_smime">Require SMIME messages</string>
+     <string name="policy_screen_timeout">Блокировать экран при простое</string>
      <string name="policy_text_truncation">Restrict text email size</string>
 </resources>

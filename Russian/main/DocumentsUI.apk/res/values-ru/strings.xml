@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Builded with NXT -->
+<resources>
+     <string name="app_label">Документы</string>
+     <string name="create_error">Не удалось создать папку</string>
+     <string name="drawer_close">Скрыть</string>
+     <string name="drawer_open">Показать</string>
+     <string name="empty">Ничего нет</string>
+     <string name="menu_create_dir">Новая папка</string>
+     <string name="menu_delete">Удалить</string>
+     <string name="menu_grid">Таблица</string>
+     <string name="menu_list">Список</string>
+     <string name="menu_open">Открыть</string>
+     <string name="menu_save">Сохранить</string>
+     <string name="menu_search">Поиск</string>
+     <string name="menu_settings">Настройки</string>
+     <string name="menu_share">Поделиться</string>
+     <string name="menu_sort">Сортировать</string>
+     <string name="mode_selected_count">Выбрано: %1$d</string>
+     <string name="pref_advanced_devices">Показать другие устройства</string>
+     <string name="pref_device_size">Показать размер устройства</string>
+     <string name="pref_file_size">Показать размер файла</string>
+     <string name="query_error">Не удалось отправить запрос</string>
+     <string name="root_available_bytes">Свободно %1$s</string>
+     <string name="root_recent">Недавние</string>
+     <string name="root_type_apps">Другие приложения</string>
+     <string name="root_type_device">Устройства</string>
+     <string name="root_type_service">Службы хранения</string>
+     <string name="root_type_shortcut">Ярлыки</string>
+     <string name="save_error">Не удалось сохранить документ</string>
+     <string name="share_via">Поделиться</string>
+     <string name="sort_date">По дате изменения</string>
+     <string name="sort_name">По названию</string>
+     <string name="sort_size">По размеру</string>
+     <string name="title_open">Открыть</string>
+     <string name="title_save">Сохранить</string>
+     <string name="toast_failed_delete">Не удалось удалить некоторые документы</string>
+     <string name="toast_no_application">Не удалось открыть файл</string>
+</resources>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Builded with NXT -->
+<resources>
+     <plurals name="composite_notification_title_template">
+        <item quantity="one">Задание печати: %1$d</item>
+        <item quantity="other">Задания печати: %1$d</item>
+     </plurals>
+     <plurals name="print_search_result_count_utterance">
+        <item quantity="one">Найдено принтеров: %1$s</item>
+        <item quantity="other">Найдено принтеров: %1$s</item>
+     </plurals>
+</resources>

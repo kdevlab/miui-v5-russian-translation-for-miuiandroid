@@ -15,4 +15,5 @@
      <string name="sync_item_calllog_title">Синхронизация журналов</string>
      <string name="sync_item_sms_summary">Прочитанные SMS сообщения будут автоматически синхронизированы</string>
      <string name="sync_item_sms_title">Синхронизация сообщений</string>
+     <string name="user_nickname">Ник</string>
 </resources>

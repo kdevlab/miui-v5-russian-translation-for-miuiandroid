@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Builded with NXT -->
+<resources>
+     <string name="accessibility_nfc_enabled">NFC включен</string>
+     <string name="app_name">Служба Nfc</string>
+     <string name="beam_canceled">Передача отменена</string>
+     <string name="beam_complete">Передача завершена</string>
+     <string name="beam_failed">Передача не завершена</string>
+     <string name="beam_handover_not_supported">Принимаемое устройство не поддерживает передачу больших файлов</string>
+     <string name="beam_outgoing">Beaming...</string>
+     <string name="beam_progress">Входящая передача...</string>
+     <string name="beam_touch_to_view">Нажмите, чтобы посмотреть</string>
+     <string name="beam_try_again">Bring devices together again</string>
+     <string name="cancel">Отмена</string>
+     <string name="complete_with">Complete with</string>
+     <string name="confirm_pairing">Вы уверены, что хотите подключить устройство %1$s?</string>
+     <string name="connect_headset_failed">Не удалось подключиться</string>
+     <string name="connected_headset">Подключено</string>
+     <string name="connecting_headset">Подключение</string>
+     <string name="could_not_use_app">"Couldn't use %1$s."</string>
+     <string name="default_pay_app_removed">Your preferred service for tap &amp; pay was removed. Choose another?</string>
+     <string name="disconnected_headset">Отключено</string>
+     <string name="disconnecting_headset">Отключение</string>
+     <string name="failed_to_enable_bt">Не удалось включить Bluetooth</string>
+     <string name="inbound_me_profile_text">Нажмите, чтобы добавить этого человека в контакты</string>
+     <string name="inbound_me_profile_title">Contact received over NFC</string>
+     <string name="nfcUserLabel">Nfc</string>
+     <string name="outbound_me_profile_text">Нажмите, чтобы дать этому человеку свою контактную информацию</string>
+     <string name="outbound_me_profile_title">NFC interaction complete</string>
+     <string name="pair_no">Нет</string>
+     <string name="pair_yes">Да</string>
+     <string name="pairing_headset">Сопряжение</string>
+     <string name="pairing_headset_failed">Не удалось выполнить сопряжение</string>
+     <string name="pay_with">Pay with</string>
+     <string name="tap_again_to_complete">Tap again to complete with %1$s</string>
+     <string name="tap_again_to_pay">Tap again to pay with %1$s</string>
+     <string name="touch">Нажмите для начала</string>
+     <string name="transaction_failure">"This transaction couldn't be completed with %1$s."</string>
+</resources>

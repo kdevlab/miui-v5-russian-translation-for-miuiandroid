@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Builded with NXT -->
+<resources>
+     <string name="app_label">Внешняя память</string>
+     <string name="root_documents">Документы</string>
+     <string name="root_internal_storage">Внутренняя память</string>
+</resources>

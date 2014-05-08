@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Builded with NXT -->
+<resources>
+     <string name="crop_wallpaper">Кадрировать обои</string>
+     <string name="wallpaper_instructions">Установить обои</string>
+     <string name="wallpaper_load_fail">Не удалось загрузить картинку на рабочий стол</string>
+</resources>

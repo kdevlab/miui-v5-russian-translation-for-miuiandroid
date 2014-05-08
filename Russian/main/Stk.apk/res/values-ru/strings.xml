@@ -5,6 +5,7 @@
      <string name="alphabet">Алфавит</string>
      <string name="app_name">SIM-Сервис</string>
      <string name="app_name2">SIM-Сервис</string>
+     <string name="app_name3">SIM Toolkit3</string>
      <string name="button_cancel">Отмена</string>
      <string name="button_no">Нет</string>
      <string name="button_ok">ОК</string>
@@ -15,6 +16,7 @@
      <string name="default_receive_data_msg">Прием данных...</string>
      <string name="default_send_data_msg">Отправка данных...</string>
      <string name="default_setup_call_msg">Настройка вызова...</string>
+     <string name="default_tone_dialog_msg">Playing Tone</string>
      <string name="digits">Цифры (0-9, *, #, +)</string>
      <string name="disable_app">Отключено</string>
      <string name="enable_app">Включено</string>

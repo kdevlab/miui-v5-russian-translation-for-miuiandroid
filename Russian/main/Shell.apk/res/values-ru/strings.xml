@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Builded with NXT -->
+<resources>
+     <string name="app_label">Оболочка</string>
+     <string name="bugreport_confirm">Сообщения об ошибках содержат данные из различных журналов системы, в том числе личные и конфиденциальные сведения. Отправляйие отчеты об ошибках только приложениям и людям, которым Вы доверяете.</string>
+     <string name="bugreport_confirm_repeat">Показывать в следующий раз</string>
+     <string name="bugreport_finished_text">Нажмите, чтобы сохранить отчет</string>
+     <string name="bugreport_finished_title">Отчет собран</string>
+</resources>

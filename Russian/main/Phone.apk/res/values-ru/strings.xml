@@ -219,7 +219,7 @@
      <string name="calling_via_template_miui">"Вызов через ^1
 ^2"</string>
      <string name="callwait_open_hint">Услуга \"Ожидание вызова\" предоставляется оператором. Если вы видите \"Ошибка MMI кода\", свяжитесь с оператором сети, чтобы подключить услугу ожидания вызова.</string>
-	 <string name="cancel">Отмена</string>
+     <string name="cancel">Отмена</string>
      <string name="cancel_call">Отменить</string>
      <string name="cannot_answered_Video_Call">Видеовызов не может быть совершен, так как уже совершается голосовой вызов</string>
      <string name="cannot_answered_Voice_Call">Голосовой вызов не может быть совершен, так как уже совершается видео вызов</string>
@@ -936,7 +936,7 @@
      <string name="onscreen_swap_calls_text_miui">Переключится</string>
      <string name="onscreen_tools_off_miui">Еще</string>
      <string name="onscreen_tools_on_miui">Еще</string>
-	 <string name="open_miui">Открыть</string>
+     <string name="open_miui">Открыть</string>
      <string name="optional_summary">&lt;Необязательно></string>
      <string name="ota_activate">Активировать</string>
      <string name="ota_call_end">Назад</string>

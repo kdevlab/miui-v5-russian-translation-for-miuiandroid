@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Builded with NXT -->
+<resources>
+     <string name="add_print_service_label">Добавить службу печати</string>
+     <string name="advanced_settings_button">Настроить</string>
+     <string name="all_printers">Все принтеры</string>
+     <string name="all_printers_label">Все принтеры</string>
+     <string name="app_label">Принтер</string>
+     <string name="blocked_notification_title_template">Задание \"%1$s\" заблокировано</string>
+     <string name="cancel">Отмена</string>
+     <string name="cancelling_notification_title_template">Отмена задания %1$s…</string>
+     <string name="choose_print_service">Выберите службу печати</string>
+     <string name="failed_notification_title_template">Ошибка задания \"%1$s\"</string>
+     <string name="generating_print_job">Создание задания печати…</string>
+     <string name="install_for_print_preview">Установить средство просмотра PDF</string>
+     <string name="label_color">Цветной</string>
+     <string name="label_copies">Копии</string>
+     <string name="label_destination">Принтер</string>
+     <string name="label_orientation">Ориентация</string>
+     <string name="label_pages">Страницы (%1$s)</string>
+     <string name="label_paper_size">Размер бумаги</string>
+     <string name="no_connection_to_printer">Нет связи с принтером</string>
+     <string name="page_count_unknown">Количество страниц</string>
+     <string name="pages_range_example">напр., 1–5, 8, 11–13</string>
+     <string name="permdesc_accessAllPrintJobs">Allows the holder to access print jobs created by another app. Should never be needed for normal apps.</string>
+     <string name="permdesc_startPrintServiceConfigActivity">Allows the holder to start the configuration activities of a print service. Should never be needed for normal apps.</string>
+     <string name="permlab_accessAllPrintJobs">доступ ко всем заданиям печати</string>
+     <string name="permlab_startPrintServiceConfigActivity">запуск службы конфигурации печати</string>
+     <string name="print_add_printer">Добавить принтер</string>
+     <string name="print_button">Печать</string>
+     <string name="print_dialog">Диалоговое окно печати</string>
+     <string name="print_error_default_message">Не удалось отправить документ на печать.</string>
+     <string name="print_forget_printer">Удалить принтер</string>
+     <string name="print_no_printers">Ничего не найдено</string>
+     <string name="print_preview">Предварительный просмотр</string>
+     <string name="print_search_box_hidden_utterance">Окно поиска скрыто</string>
+     <string name="print_search_box_shown_utterance">Окно поиска показано</string>
+     <string name="print_searching_for_printers">Поиск принтеров…</string>
+     <string name="print_select_printer">Выбрать принтер</string>
+     <string name="printer_unavailable">%1$s – недоступен</string>
+     <string name="printing_app_crashed">Сбой приложения печати</string>
+     <string name="printing_notification_title_template">Печать задания \"%1$s\"…</string>
+     <string name="reason_unknown">неизвестно</string>
+     <string name="restart">Повторить</string>
+     <string name="save_as_pdf">Сохранить как PDF-файл</string>
+     <string name="save_button">Сохранить</string>
+     <string name="search">Поиск</string>
+</resources>

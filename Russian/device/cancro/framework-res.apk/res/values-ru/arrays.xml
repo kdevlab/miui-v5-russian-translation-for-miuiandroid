@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Builded with NXT -->
+<resources>
+     <string-array name="app_ops_labels">
+        <item>получить доступ к местоположению устройства</item>
+        <item>получить доступ к местоположению устройства</item>
+        <item>получить доступ к местоположению устройства</item>
+        <item>Tиспользовать виброотклик</item>
+        <item>считать данные контактов</item>
+        <item>изменить данные контактов</item>
+        <item>считать данные списка вызовов</item>
+        <item>изменить данные списка вызовов</item>
+        <item>считать данные календаря</item>
+        <item>изменить данные календаря</item>
+        <item>получить доступ к местоположению устройства</item>
+        <item>вывести уведомление</item>
+        <item>получить доступ к местоположению устройства</item>
+        <item>выполнить телефонный звонок</item>
+        <item>считать SMS-сообщения</item>
+        <item>создать SMS-сообщение</item>
+        <item>получить SMS-сообщение</item>
+        <item>получить SMS-сообщение</item>
+        <item>получить MMS-сообщение</item>
+        <item>получить SMS-сообщение</item>
+        <item>отправить SMS-сообщение</item>
+        <item>считать SMS-сообщения</item>
+        <item>создать SMS-сообщение</item>
+        <item>изменить системные параметры</item>
+        <item>отображение поверх других элементов</item>
+        <item>получить доступ к уведомлениям</item>
+        <item>получить доступ к камере</item>
+        <item>запись аудио</item>
+        <item>воспроизведение аудио</item>
+        <item>считать содержимое буфера обмена</item>
+        <item>изменить содержимое буфера обмена</item>
+        <item>переключить состояние Wi-Fi</item>
+        <item>переключить состояние Bluetooth</item>
+        <item>переключить состояние мобильного интернета</item>
+        <item>отправить MMS-сообщение</item>
+        <item>считать MMS-сообщения</item>
+        <item>создать MMS-сообщение</item>
+     </string-array>
+     <string-array name="emailAddressTypes">
+        <item>Домашний</item>
+        <item>Рабочий</item>
+        <item>Другой</item>
+        <item>Создать</item>
+     </string-array>
+     <string-array name="imAddressTypes">
+        <item>Домашний</item>
+        <item>Рабочий</item>
+        <item>Другой</item>
+        <item>Создать</item>
+     </string-array>
+     <string-array name="imProtocols">
+        <item>AIM</item>
+        <item>Windows Live</item>
+        <item>Yahoo</item>
+        <item>Skype</item>
+        <item>QQ</item>
+        <item>Google Talk</item>
+        <item>ICQ</item>
+        <item>Jabber</item>
+     </string-array>
+     <string-array name="organizationTypes">
+        <item>Рабочий</item>
+        <item>Другой</item>
+        <item>Создать</item>
+     </string-array>
+     <string-array name="phoneTypes">
+        <item>Домашний</item>
+        <item>Мобильный</item>
+        <item>Рабочий</item>
+        <item>Рабочий факс</item>
+        <item>Домашний факс</item>
+        <item>Пейджер</item>
+        <item>Другой</item>
+        <item>Создать</item>
+     </string-array>
+     <string-array name="postalAddressTypes">
+        <item>Домашний</item>
+        <item>Рабочий</item>
+        <item>Другой</item>
+        <item>Создать</item>
+     </string-array>
+</resources>

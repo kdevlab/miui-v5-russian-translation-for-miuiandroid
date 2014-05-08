@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Builded with NXT -->
+<resources>
+     <string-array name="alert_reminder_interval_entries">
+        <item>Один раз</item>
+        <item>Каждые 2 минуты</item>
+        <item>Каждые 15 минут</item>
+        <item>Отключено</item>
+     </string-array>
+     <string-array name="alert_sound_duration_entries">
+        <item>2 секунды</item>
+        <item>4 секунды</item>
+        <item>6 секунд</item>
+        <item>8 секунд</item>
+        <item>10 секунд</item>
+     </string-array>
+</resources>

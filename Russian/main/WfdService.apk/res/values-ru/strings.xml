@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Builded with NXT -->
+<resources>
+     <string name="app_name">Служба Wfd</string>
+     <string name="perm_desc">Access Qualcomm WLAN Display Stack APIs</string>
+     <string name="perm_label">QC WLAN Display Stack</string>
+</resources>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Builded with NXT -->
+<resources>
+     <string name="alert_dialog_cancel">Отмена</string>
+     <string name="alert_dialog_no">Нет</string>
+     <string name="alert_dialog_ok">OK</string>
+     <string name="alert_dialog_yes">Да</string>
+     <string name="animation_connected">Подключено</string>
+     <string name="animation_downloading">Загрузка…</string>
+     <string name="animation_initializing">Инициализация…</string>
+     <string name="animation_sending">Отправка…</string>
+     <string name="animation_synchronizing">Синхронизация…</string>
+     <string name="app_name">MTP приложение</string>
+     <string name="bluetooth_running">Активация USB режима отключит Bluetooth. Продолжить?</string>
+     <string name="error_title">Внимание</string>
+     <string name="kies_software_check">Проверка Киес (ПК подключение S/W)</string>
+     <string name="media_scanner_finished">Сканировнаие завершено</string>
+     <string name="media_scanner_running">Сканирование медиа…</string>
+     <string name="non_idle_toast">"Подключение к ПК доступно только в режиме ожидания.
+	
+	Закройте запущенные приложения."</string>
+     <string name="notification_mtp_connected">MTP подключено</string>
+     <string name="notification_mtp_initialization">MTP инициализация</string>
+     <string name="notification_usb_connected">USB подключен</string>
+     <string name="resume_to_call">Возобновить вызов</string>
+     <string name="security_policy_restriction">Политика безопасности ограничивает использование подключения к ПК</string>
+     <string name="store_add_popup">MTP приложение будет перезапущено для подготовки SD​-карты. Продолжить?</string>
+</resources>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Builded with NXT -->
+<resources>
+     <string name="action_call">Звонок %s</string>
+     <string name="action_text">Текст %s</string>
+     <string name="app_name">Теги</string>
+     <string name="button_done">Готово</string>
+     <string name="empty_tag_prompt">Этот тег пустой</string>
+     <string name="import_vcard">Импорт ^1</string>
+     <string name="mime_display_name">Данные из NFC тега</string>
+     <string name="tag_empty">Пустой тег</string>
+     <string name="tag_unknown">Неизвестный тип метки</string>
+     <string name="title_existing_tag">Тег</string>
+     <string name="title_scanned_tag">Новые метки</string>
+     <string name="vcard_title">Контактная информация для ^1</string>
+</resources>

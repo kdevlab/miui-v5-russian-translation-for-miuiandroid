@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Builded with NXT -->
+<resources>
+     <plurals name="history_description">
+        <item quantity="one">record</item>
+        <item quantity="other">records</item>
+     </plurals>
+     <plurals name="play_description">
+        <item quantity="one">task</item>
+        <item quantity="other">tasks</item>
+     </plurals>
+     <plurals name="select_n_item">
+        <item quantity="one">%d selected</item>
+        <item quantity="other">%d selected</item>
+        <item quantity="zero">Choose items</item>
+     </plurals>
+     <plurals name="tags_description">
+        <item quantity="one">app</item>
+        <item quantity="other">apps</item>
+     </plurals>
+</resources>

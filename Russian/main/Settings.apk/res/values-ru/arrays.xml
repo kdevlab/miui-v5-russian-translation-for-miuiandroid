@@ -125,11 +125,49 @@
         <item>20 сек.</item>
         <item>Всегда</item>
      </string-array>
+     <string-array name="captioning_edge_type_selector_titles">
+        <item>Нет</item>
+        <item>Контур</item>
+        <item>С тенью</item>
+     </string-array>
+     <string-array name="captioning_font_size_selector_titles">
+        <item>Очень мелкий</item>
+        <item>Мелкий</item>
+        <item>Средний</item>
+        <item>Крупный</item>
+        <item>Очень крупный</item>
+     </string-array>
+     <string-array name="captioning_opacity_selector_titles">
+        <item>25%</item>
+        <item>50%</item>
+        <item>75%</item>
+        <item>100%</item>
+     </string-array>
+     <string-array name="captioning_preset_selector_titles">
+        <item>Белый на черном</item>
+        <item>Черный на белом</item>
+        <item>Желтый на черном</item>
+        <item>Желтый на синем</item>
+        <item>Пользовательский</item>
+     </string-array>
+     <string-array name="captioning_typeface_selector_titles">
+        <item>По умолчанию</item>
+        <item>Без засечек</item>
+        <item>Без засечек, сжатый</item>
+        <item>С засечками</item>
+        <item>Моноширинный</item>
+     </string-array>
      <string-array name="change_security_lock_picker">
         <item>Фейс-контроль</item>
         <item>Графический ключ</item>
         <item>Цифровой пароль</item>
         <item>Смешанный пароль</item>
+     </string-array>
+     <string-array name="debug_hw_overdraw_entries">
+        <item>Отключено</item>
+        <item>Показывать области наложения</item>
+        <item>Выделять области определенного цвета</item>
+        <item>Показывать число объектов</item>
      </string-array>
      <string-array name="dream_timeout_entries">
         <item>Никогда</item>
@@ -411,6 +449,16 @@
         <item>Спрашивать</item>
         <item>Запретить</item>
         <item>Разрешить</item>
+     </string-array>
+     <string-array name="select_runtime_summaries">
+        <item>Использовать среду Dalvik</item>
+        <item>Использовать среду ART</item>
+        <item>Использовать отладочную версию среды ART</item>
+     </string-array>
+     <string-array name="select_runtime_titles">
+        <item>Dalvik</item>
+        <item>ART</item>
+        <item>ART (отладка)</item>
      </string-array>
      <string-array name="show_non_rect_clip_entries">
         <item>Выключено</item>

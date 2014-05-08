@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Builded with NXT -->
+<resources>
+     <string name="app_name">Настройки SVI</string>
+     <string name="svi_enable_summary_off">The viewing experience will not be enhanced for ambient conditions</string>
+     <string name="svi_enable_summary_on">Enhance the viewing based on the ambient condition</string>
+     <string name="svi_enable_title">Включить SVI дисплей</string>
+     <string name="svi_info_default">Неизвестно</string>
+     <string name="svi_settings_title">Настройки SVI экрана</string>
+     <string name="svi_version_title">Версия SVI</string>
+</resources>

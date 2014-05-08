@@ -41,8 +41,16 @@
         <item quantity="one">"%d мин. "</item>
         <item quantity="other">"%d мин. "</item>
      </plurals>
+     <plurals name="print_search_result_count_utterance">
+        <item quantity="one">Найдено принтеров: %1$s</item>
+        <item quantity="other">Найдено принтеров: %1$s</item>
+     </plurals>
      <plurals name="show_dev_countdown">
         <item quantity="one">Теперь вы находитесь в %1$d шаге от становления разработчиком</item>
         <item quantity="other">Теперь вы находитесь в %1$d шагах от становления разработчиком</item>
+     </plurals>
+     <plurals name="wrong_pin_code">
+        <item quantity="one">Неверный PIN-код. Осталось попыток: %d. После этого SIM-карта будет заблокирована и Вам придется обратиться к оператору связи.</item>
+        <item quantity="other">Неверный PIN-код. Осталось попыток: %d.</item>
      </plurals>
 </resources>
