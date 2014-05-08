@@ -2,43 +2,43 @@
 <!-- Builded with NXT -->
 <resources>
      <string-array name="app_ops_labels">
-        <item>Trying to access location</item>
-        <item>Trying to access location</item>
-        <item>Trying to access location</item>
-        <item>Trying to use vibrate</item>
-        <item>Trying to read contacts</item>
-        <item>Trying to modify contacts</item>
-        <item>Trying to read call log</item>
-        <item>Trying to modify call log</item>
-        <item>Trying to read calendar</item>
-        <item>Trying to modify calendar</item>
-        <item>Trying to access location</item>
-        <item>Trying to post notification</item>
-        <item>Trying to access location</item>
-        <item>Trying to make phone call</item>
-        <item>Trying to read SMS</item>
-        <item>Trying to write/modify SMS</item>
-        <item>Trying to receive SMS</item>
-        <item>Trying to receive SMS</item>
-        <item>Trying to receive MMS</item>
-        <item>Trying to receive SMS</item>
-        <item>Trying to send SMS</item>
-        <item>Trying to read SMS</item>
-        <item>Trying to write/modify SMS</item>
-        <item>Trying to modify settings</item>
-        <item>Trying to draw on top</item>
-        <item>Trying to access notifications</item>
-        <item>Trying to access Camera</item>
-        <item>Trying to record audio</item>
-        <item>Trying to play audio</item>
-        <item>Trying to read clipboard</item>
-        <item>Trying to modify clipboard</item>
-        <item>Trying to turn on/off Wifi</item>
-        <item>Trying to turn on/off bluetooth</item>
-        <item>Trying to turn on/off mobile data</item>
-        <item>Trying to send MMS</item>
-        <item>Trying to read MMS</item>
-        <item>Trying to write MMS</item>
+        <item>Местоположение</item>
+        <item>Местоположение</item>
+        <item>Местоположение</item>
+        <item>Вибросигнал</item>
+        <item>Считывать данные контактов</item>
+        <item>Изменение контактов</item>
+        <item>Просмотр списка вызовов</item>
+        <item>Изменение списка вызовов</item>
+        <item>Считывать данные календаря</item>
+        <item>Изменение календаря</item>
+        <item>Местоположение</item>
+        <item>Разместить уведомление</item>
+        <item>Местоположение</item>
+        <item>Позвонить</item>
+        <item>Получение SMS/MMS</item>
+        <item>Отправка SMS/MMS</item>
+        <item>Получение SMS/MMS</item>
+        <item>Получение SMS/MMS</item>
+        <item>Получение SMS/MMS</item>
+        <item>Получение SMS/MMS</item>
+        <item>Отправка SMS/MMS</item>
+        <item>Получение SMS/MMS</item>
+        <item>Отправка SMS/MMS</item>
+        <item>Изменение настроек</item>
+        <item>Отображать поверх других элементов</item>
+        <item>Доступ к уведомлениям</item>
+        <item>Камера</item>
+        <item>Записать аудио</item>
+        <item>Воспроизвести аудио</item>
+        <item>Считать из буфера обмена</item>
+        <item>Изменить буфер обмена</item>
+        <item>Управление Wi-Fi</item>
+        <item>Управление Bluetooth</item>
+        <item>Управление мобильным интернетом</item>
+        <item>Отправка MMS</item>
+        <item>Чтение MMS</item>
+        <item>Запись MMS</item>
      </string-array>
      <string-array name="emailAddressTypes">
         <item>Домашний</item>
