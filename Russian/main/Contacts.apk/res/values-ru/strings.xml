@@ -843,13 +843,13 @@
      <string name="resource_comment_footer">Пустые комментарии не отображаются</string>
      <string name="resource_comment_good_comments">Позитивно</string>
      <string name="resource_comment_invalid">Нажмите на звезды для рейтинга</string>
-     <string name="resource_comment_loading_list">Loading…</string>
+     <string name="resource_comment_loading_list">Загрузка…</string>
      <string name="resource_comment_name_default">Пользователь %1$s</string>
      <string name="resource_comment_no_average_score">-.-</string>
      <string name="resource_comment_no_comment">Нет комментариев</string>
      <string name="resource_comment_publish">Отправить</string>
      <string name="resource_comment_rate">Рейтинг:</string>
-     <string name="resource_comment_score_count">%1$s users</string>
+     <string name="resource_comment_score_count">%1$s пользов.</string>
      <string name="resource_comment_sending">Отправка комментария…</string>
      <string name="resource_comment_title">Комментарии: %1$s</string>
      <string name="resource_comment_upload_data_invalid">Ошибка коментария</string>
@@ -860,6 +860,7 @@
      <string name="resource_comment_upload_success">Комментарий отправлен! Ваш комментарий будет отображаться после краткого обзора.</string>
      <string name="resource_default">Стандарт</string>
      <string name="resource_default_name">Ресурс</string>
+	 <string name="resource_delete">Удалить</string>
      <string name="resource_delete_all">Удалить выбранные ресурсы (%1$d)?</string>
      <string name="resource_delete_confirm">Удалить эти ресурсы?</string>
      <string name="resource_delta_update_failed">Ошибка обновления, нужно скачать полный ресурс</string>

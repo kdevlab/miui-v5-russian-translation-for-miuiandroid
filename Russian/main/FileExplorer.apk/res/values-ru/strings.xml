@@ -7,29 +7,20 @@
      <string name="add_task">Добавить задачи</string>
      <string name="adding_upload_tasks">Добавление задачи загрузки</string>
      <string name="already_signin_description">Войти можно только один раз в день, приходите завтра :)</string>
-     <string name="app_cache_cleanup_indication">%s кеша</string>
-     <string name="app_cache_title">Кэш приложений</string>
-     <string name="app_garbage_cleanup_indication">%s мусора</string>
-     <string name="app_garbage_path">Путь:</string>
-     <string name="app_garbage_title">Мусор от приложений</string>
      <string name="app_name">Файлы</string>
-     <string name="application_size_label">Приложение</string>
      <string name="background">В фоне</string>
      <string name="big5_summary">Кодировка по умолчанию в традиционной китайской версии системы Windows</string>
      <string name="bind_account">Привязка к аккаунту KuaiPan</string>
      <string name="bind_account_summary">Если у Вас уже есть учетная запись kuaipan, то ее можно привязать к учетной записи Xiaomi, чтобы синхронизировать данные</string>
      <string name="binded_accout_description">Эти два аккаунта были объединены. Теперь Вы можете войти используя либо аккаунт Xiaomi, либо аккаунт Kuaipan. В них обоих будут одни и теже файлы.</string>
      <string name="binded_accout_title">В настоящее время Вы уже связаны с учетной записью KuaiPan</string>
-     <string name="cache_size_label">Кэш</string>
      <string name="cancel">Отмена</string>
-     <string name="cancel_app_garbage_cleanup">Не очищать</string>
-     <string name="cancel_with_count_down">Отмена (%d)</string>
      <string name="category_all">Все</string>
      <string name="category_apk">Программы</string>
      <string name="category_document">Документы</string>
      <string name="category_favorite">Избранное</string>
      <string name="category_log">Журналы</string>
-     <string name="category_mirouter">MiRouter</string>
+     <string name="category_mirouter">Роутер</string>
      <string name="category_music">Музыка</string>
      <string name="category_other">Прочее</string>
      <string name="category_picture">Фото</string>
@@ -38,28 +29,22 @@
      <string name="category_zip">Архивы</string>
      <string name="choose_send_type">Выбор метода отправки</string>
      <string name="choose_upload_location">Выберите место загрузки</string>
-     <string name="clean_app_garbage">Очистить мусор (%d)</string>
      <string name="clean_message">Удаление %1$s</string>
      <string name="clean_title">Удалять файлы из корзины, если они лежат там дольше 30 дней</string>
      <string name="clean_trash_box">Очистить корзину</string>
-     <string name="cleaned">Очищено</string>
      <string name="cleaning">Очистка…</string>
-     <string name="cleanup_complete">Готово</string>
-     <string name="cleanup_stopped">Очистка остановлена</string>
      <string name="close">Закрыть</string>
      <string name="compress_fail">Ошибка архивирования, файл уже существует</string>
      <string name="compress_message">Имя архива:</string>
      <string name="compress_title">Создание архива</string>
      <string name="confirm">OК</string>
      <string name="copy_failed">Ошибка копирования</string>
-     <string name="count_down_time">Начало через %d секунд</string>
      <string name="create_kuaipan_shortcut_pref">Создать ярлык на рабочем столе</string>
      <string name="create_new_folder_desctiption">Создание папки…</string>
      <string name="create_new_folder_failed">Не удалось создать папку</string>
      <string name="create_share_link_description">Создание ссылки…</string>
      <string name="cution">Советы</string>
      <string name="data_capacity">Объем: %1$s</string>
-     <string name="data_size_label">Данные</string>
      <string name="decompress_cancel">Отмена</string>
      <string name="decompress_confirm">Распаковать</string>
      <string name="decompress_fail">Ошибка распаковки</string>
@@ -84,8 +69,6 @@
      <string name="download_failed">Ошибка загрузки</string>
      <string name="download_link_completed">Я поделился %1$s через KuaiPan. Нажмите ссылку внизу для просмотра:</string>
      <string name="downloading">Загрузка</string>
-     <string name="empty_dir_cleanup_indication">Пустых папок: %s</string>
-     <string name="empty_dir_title">Пустые каталоги</string>
      <string name="enable_sd_card">В настоящий момента SD-карта подключена к компьютеру и используется, чтобы видеть ее содержимое, отключите режим накопителя</string>
      <string name="error_filename_too_long">Имя файла слишком длинное</string>
      <string name="error_info_cant_send_folder">Папка не может быть передана</string>
@@ -96,7 +79,6 @@
      <string name="favorite_photo">Фото</string>
      <string name="favorite_ringtone">Мелодии</string>
      <string name="favorite_screen_cap">Скриншоты</string>
-     <string name="file_cleanup">Очистка файлов</string>
      <string name="file_info_canread">Чтение:</string>
      <string name="file_info_canwrite">Запись:</string>
      <string name="file_info_ishidden">Скрытый:</string>
@@ -117,17 +99,9 @@
      <string name="ftp_transfer_secure">Защищенная FTP-передача</string>
      <string name="ftp_username_and_passworld">Имя пользователя и пароль</string>
      <string name="ftp_username_hint">Имя пользователя</string>
-     <string name="garbage_size_metric">"%s
-мусора"</string>
      <string name="gbk_summary">Если вы используете кодировку GBK, например, в Windows Explorer, выберите этот тип кодирования, чтобы избежать искажения текста на китайском языке</string>
-     <string name="give_up_cleaning">Отмена</string>
-     <string name="header_text_cleaned">мусора очищено</string>
-     <string name="header_text_cleaning">мусора осталось</string>
-     <string name="header_text_scanned">можно очистить</string>
-     <string name="header_text_scanning">Поиск мусора…</string>
      <string name="instruction">Адрес синхронизации:</string>
      <string name="instruction_pre">Обмен файлами с ПК или Mac по FTP через сеть Wi-Fi</string>
-     <string name="item_name">Без имени</string>
      <string name="kuaipan_over_space">В вашем KuaiPan нет больше свободного места</string>
      <string name="kuaipan_prompt">KuaiPan</string>
      <string name="kuaipan_prompt_message">"
@@ -136,7 +110,6 @@
      <string name="kuaipan_tech_support">При поддержке Kingsoft Kuaipan</string>
      <string name="load_err">Ошибка загрузки</string>
      <string name="loading">Загрузка</string>
-     <string name="local_cache_size">Размер локального кэш: %s</string>
      <string name="login_reg_content">KuaiPan позволяет хранить файлы и синхронизировать их между несколькими устройствами</string>
      <string name="login_reg_content0">KuaiPan - Ваш интернет диск</string>
      <string name="menu_item_cleanup">Очистка</string>
@@ -155,17 +128,11 @@
      <string name="networkView_notConnected">Нет доступных сетей</string>
      <string name="new_folder_name">Новая папка</string>
      <string name="no">Нет</string>
-     <string name="no_app_cache_indication">Нет кэша приложений</string>
-     <string name="no_app_garbage_indication">Нет мусора от приложений</string>
-     <string name="no_empty_dir_indication">Нет пустых папок</string>
-     <string name="no_enough_space">Не хватает места</string>
      <string name="no_enough_storage_indication">Не хватает места для вставки файла. Очистите дополнительное место с помощью очистки или просто удалите большие файлы.</string>
      <string name="no_enough_storage_title">Не хватает места</string>
      <string name="no_file">Нет файлов</string>
      <string name="no_more_space">Не хватает места на диске</string>
      <string name="no_tasks">Задач нет</string>
-     <string name="no_temp_file_indication">Нет временных файлов</string>
-     <string name="no_thumbnail_indication">Нет кэша миниатюр</string>
      <string name="no_wifi">Нет Wi-Fi сети</string>
      <string name="no_wifi_hint">Нет Wi-Fi соединения</string>
      <string name="notif_server_starting">Синхронизация включена</string>
@@ -216,14 +183,9 @@
      <string name="release_to_signin">Отпустите для входа</string>
      <string name="rename_description">Переименовывается…</string>
      <string name="rename_failed">Переименование %1$s не удалось</string>
-     <string name="restart_cleaning">Повтор</string>
-     <string name="scanned">Сканирование завершено</string>
-     <string name="scanning" formatted="false">Сканирование %d из %d…</string>
-     <string name="scanning_on_going">Сканирование…</string>
      <string name="sd_card_available">Свободно: %1$s</string>
      <string name="sd_card_size">Всего: %1$s</string>
      <string name="sd_full">SD-карта полна</string>
-     <string name="sd_size_label">Хранилище пользователя</string>
      <string name="search_hint">Введите часть или все имя файла</string>
      <string name="search_title">Поиск документов</string>
      <string name="send_to_midrive_failed_message">Не удалось отправить в KuaiPan. Неверный формат файла.</string>
@@ -238,7 +200,6 @@
 Получено %1$s."</string>
      <string name="space_info">Объем в сети: %1$s доступно，всего: %2$s</string>
      <string name="space_usage">Использование места</string>
-     <string name="start_cleanup">Очистка</string>
      <string name="start_server">Запустить</string>
      <string name="start_use_xiaomi_account">Вход</string>
      <string name="stay_awake_summary">Не переводить экран в режим сна при использовании FTP</string>
@@ -248,19 +209,11 @@
      <string name="storage_sd_card">SD-карта</string>
      <string name="storage_usb">USB-накопитель</string>
      <string name="storage_warning">Внешний носитель не доступен</string>
-     <string name="sys_size">Всего: %1$s</string>
      <string name="sys_size_title">Полный объем</string>
      <string name="tab_category">Категории</string>
      <string name="tab_phone">Файлы</string>
-     <string name="temp_file_cleanup_indication">%s временнх файлов</string>
-     <string name="temp_file_title">Временные файлы</string>
-     <string name="thumbnail_cleanup_indication">%s эскизов</string>
-     <string name="thumbnail_title">Файлы эскизов</string>
      <string name="toast_file_not_can_read">Этот тип файла не поддерживается</string>
      <string name="trans_task">Передача</string>
-     <string name="trans_task_delete_confirm_message">"Удалить выбранные задачи? 
-
-Задач:%1$d"</string>
      <string name="transing">Отправка</string>
      <string name="trash_box_capacity">Объем корзины: %1$s</string>
      <string name="trash_box_link">Посетите pan.xiaomi.com для очистки корзины</string>
@@ -275,7 +228,6 @@
      <string name="ui_main_progress_txt_open_file">Загрузка…</string>
      <string name="ui_main_toast_favorite_removed">Избранное удалено</string>
      <string name="ui_main_toast_operation_failed">Ошибка удаления %1$s</string>
-     <string name="uninstall_app_data">Удалить приложение и все данные</string>
      <string name="unmount_inform_text">USB-хранилище будет отключено</string>
      <string name="upload_failed">Ошибка загрузки</string>
      <string name="upload_file_toolarge_message">%1$d файлов размером более 300 Мб не могут быть отправлены. Пожалуйста, проверьте в управлении передачами.</string>
@@ -287,17 +239,13 @@
      <string name="user_guide_kuaipan_copy">"Доступ к файлу с нескольких устройств
 , поместив его в Kuaipan"</string>
      <string name="user_guide_other_version">Скачать различные версии с Kuaipan</string>
-     <string name="user_guide_summary">Руководство по KuaiPan</string>
      <string name="user_guide_upload_to_kuaipan">"С телефона,
 просто скопировать и вставить в Kuaipan"</string>
      <string name="utf8_summary">Тип кодировки по умолчанию</string>
-     <string name="version_text">версия %1$s</string>
      <string name="wait_net">Ожидание сети</string>
      <string name="wait_sdcard">Ожидание подключения SD-карты</string>
      <string name="wait_wifi">Ожидание Wi-Fi</string>
      <string name="waiting">Ожидание</string>
-     <string name="waiting_for_cleaning">Ожидание очистки</string>
-     <string name="waiting_for_scanning">Ожидание сканирования</string>
      <string name="wangpan_root_path">Мой диск</string>
      <string name="wifi_state">Статус Wi-Fi</string>
      <string name="xiaomi_account">Аккаунт Xiaomi</string>

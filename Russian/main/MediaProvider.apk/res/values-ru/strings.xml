@@ -1,8 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Builded with NXT -->
 <resources>
-     <string name="app_label">Хранение мультимедиа</string>
+     <string name="alarm_sound_default">Мелодия будильника по умолчанию</string>
+	 <string name="app_label">Хранилище мультимедиа</string>
      <string name="artist_label">Исполнитель</string>
+	 <string name="notification_sound_default">Мелодия уведомления по умолчанию</string>
+     <string name="ringtone_default">Мелодия вызова по умолчанию</string>
+     <string name="root_audio">Музыка</string>
+     <string name="root_images">Изображения</string>
+     <string name="root_videos">Видео</string>
      <string name="uid_label">Мультимедиа</string>
-     <string name="upgrade_msg">Обновление базы данных мультимедиа...</string>
+     <string name="upgrade_msg">Обновление базы данных мультимедиа…</string>
 </resources>

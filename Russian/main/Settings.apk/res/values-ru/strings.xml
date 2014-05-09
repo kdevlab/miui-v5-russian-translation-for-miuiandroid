@@ -679,6 +679,7 @@
      <string name="button_text_delete_from_white_list">Удалить из списка</string>
      <string name="button_text_done">Готово</string>
      <string name="button_text_fix">Исправить</string>
+	 <string name="button_text_known">OK</string>
      <string name="button_text_quick_scan">Сканировать</string>
      <string name="button_text_security">Безопасно</string>
      <string name="button_text_uninstall">Удалить</string>
@@ -1025,6 +1026,7 @@
      <string name="device_status">Общая информация</string>
      <string name="device_status_activity_title">Общая информация</string>
      <string name="device_status_summary">Номер телефона, уровень сигнала и т.д.</string>
+	 <string name="dialog_message_auto_start_tips">Некоторые приложения, работающие в фоне, могут вести себя некорректно без автозапуска. Чтобы посмотреть индивидуальные разрешения для приложения, перейдите в настройки > приложения.</string>
      <string name="dialog_apn_disabled">APN выключен!</string>
      <string name="dialog_apn_disabled_msg">Выключите режим полета для настройки APN</string>
      <string name="dialog_msg_backup_and_cleanup_apps">После завершения резервного копирования, все данные приложений будут удалены (настройки учетных записей, базы данных и т.д.)</string>
@@ -1034,6 +1036,7 @@
      <string name="dialog_msg_cleanup_system_cache">Это очистит кэшированные данные всех приложений</string>
      <string name="dialog_msg_load_cleanup_engine_error">Ошибка запуска движка очистки. Повторите позже.</string>
      <string name="dialog_msg_uninstall_apps">Удалить выбранные приложения?</string>
+	 <string name="dialog_title_auto_start_tips">Информация о автозапуске</string>
      <string name="dialog_title_backup_and_cleanup_apps">Сделать бэкап и удалить данные приложения?</string>
      <string name="dialog_title_backup_and_uninstall_apps">Бэкап и удаление</string>
      <string name="dialog_title_check_all">Выбор всего</string>
@@ -1360,6 +1363,7 @@
      <string name="free_wifi_connected_time">Время онлайн：%1$s</string>
      <string name="free_wifi_connecting">Подключение…</string>
      <string name="free_wifi_login_again">Войти снова</string>
+	 <string name="free_wifi_manage_summary">Нажмите для просмотра %1$s</string>
      <string name="free_wifi_speed_title">Медленное подключение?</string>
      <string name="free_wifi_summary">Бесплатный Wi-Fi, при поддержке %1$s</string>
      <string name="free_wifi_wiwide_provider">WiWide</string>

@@ -711,11 +711,6 @@
 Выберите "<b>Настройки синхронизации</b>, чтобы включить ее, или <b>Синхронизировать сейчас</b>, чтобы синхронизировать почту один раз.</string>
      <string name="wait_for_sync_body">Ваши сообщения загружаются</string>
      <string name="wait_for_sync_body_2">Сервер Exchange спросит Вас через 1-30 секунд. Пожалуйста, подтвердите настройки безопасности и активируйте. Обратите внимание на предупреждение системы.</string>
-     <string name="wait_for_sync_body_txt_array_1">Сервер Exchange спросит Вас через</string>
-     <string name="wait_for_sync_body_txt_array_2">1–30</string>
-     <string name="wait_for_sync_body_txt_array_3">секунд. Пожалуйста, подтвердите настройки безопасности и активируйте. Обратите внимание на</string>
-     <string name="wait_for_sync_body_txt_array_4">предупреждение системы</string>
-     <string name="wait_for_sync_body_txt_array_5">.</string>
      <string name="wait_for_sync_note">Сделайте свайп вниз, чтобы получить уведомление. Нажмите, чтобы завершить настройку безопасности.</string>
      <string name="wait_for_sync_title">Синхронизация…</string>
      <string name="wait_help_context">подождите</string>

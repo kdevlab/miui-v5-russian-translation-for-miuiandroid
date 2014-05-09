@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Builded with NXT -->
 <resources>
-     <string name="alipay_failed">调用支付宝失败</string>
+     <string name="alipay_failed">Сбой Alipay</string>
      <string name="all_cities">Все города</string>
      <string name="allcategory">Все категории</string>
      <string name="app_name">Магазин</string>
@@ -14,7 +14,7 @@
      <string name="button_ok">OK</string>
      <string name="button_refresh">Обновить</string>
      <string name="buy_date">Дата:%1$s</string>
-     <string name="buy_error_info">Оплата не удалась, попробуйте еще раз после проверки деталей заказа</string>
+     <string name="buy_error_info">Оплата не удалась. Попробуйте еще раз после проверки деталей заказа.</string>
      <string name="buylottery">Лотерея</string>
      <string name="buynow">Купить</string>
      <string name="call_service">Сервис обслуживания</string>
@@ -116,6 +116,7 @@
      <string name="personal_lottery">История</string>
      <string name="personal_settings_account">Аккаунт</string>
      <string name="personal_settings_added_fav">Добавлено в избранное</string>
+	 <string name="personal_settings_faq">Часто задаваемые вопросы</string>
      <string name="personal_settings_feedback">Обратная связь</string>
      <string name="personal_settings_login">Аккаунт Xiaomi</string>
      <string name="personal_settings_login_fav">Войди в акаунт</string>

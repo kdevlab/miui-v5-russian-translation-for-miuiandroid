@@ -2,43 +2,43 @@
 <!-- Builded with NXT -->
 <resources>
      <plurals name="delete_files_confirm">
+        <item quantity="other">Удалить файлы: %1$d</item>
+		<item quantity="zero">Удалить файлы: %1$d</item>
+        <item quantity="one">Удалить файлы: %1$d</item>
+		<item quantity="two">Удалить файлы: %1$d</item>
         <item quantity="few">Удалить файлы: %1$d</item>
         <item quantity="many">Удалить файлы: %1$d</item>
-        <item quantity="one">Удалить файлы: 1</item>
-        <item quantity="other">Удалить файлы: %1$d</item>
-        <item quantity="two">Удалить файлы: %1$d</item>
-        <item quantity="zero">Удалить файлы: %1$d</item>
      </plurals>
      <plurals name="delete_folders_confirm">
+        <item quantity="other">" и папки: %1$d?"</item>
+		<item quantity="zero">" и папки: %1$d?"</item>
+        <item quantity="one">" и папки: %1$d?"</item>
+		<item quantity="two">" и папки: %1$d?"</item>
         <item quantity="few">" и папки: %1$d?"</item>
         <item quantity="many">" и папки: %1$d?"</item>
-        <item quantity="one">" и папки: 1?"</item>
-        <item quantity="other">" и папки: %1$d?"</item>
-        <item quantity="two">" и папки: %1$d?"</item>
-        <item quantity="zero">" и папки: %1$d?"</item>
      </plurals>
      <plurals name="directory_item_count">
+        <item quantity="other">файлов: %d</item>
+		<item quantity="zero">файлов: %d</item>
+        <item quantity="one">файлов: %d</item>
+		<item quantity="two">файлов: %d</item>
         <item quantity="few">файлов: %d</item>
         <item quantity="many">файлов: %d</item>
-        <item quantity="one">файлов: 1</item>
-        <item quantity="other">файлов: %d</item>
-        <item quantity="two">файлов: %d</item>
-        <item quantity="zero">файлов: %d</item>
      </plurals>
-     <plurals name="ui_bar_txt_download_progress">
+	 <plurals name="ui_bar_txt_download_progress">
+        <item quantity="other">Осталось скачать файлов: %1$d</item>
+		<item quantity="zero">Осталось скачать файлов: %1$d</item>
+        <item quantity="one">Осталось скачать файлов: %1$d</item>
+		<item quantity="two">Осталось скачать файлов: %1$d</item>
         <item quantity="few">Осталось скачать файлов: %1$d</item>
         <item quantity="many">Осталось скачать файлов: %1$d</item>
-        <item quantity="one">Осталось скачать файлов: 1</item>
-        <item quantity="other">Осталось скачать файлов: %1$d</item>
-        <item quantity="two">Осталось скачать файлов: %1$d</item>
-        <item quantity="zero">Осталось скачать файлов: %1$d</item>
      </plurals>
      <plurals name="ui_bar_txt_upload_progress">
+        <item quantity="other">Осталось загрузить файлов: %1$d</item>
+		<item quantity="zero">Осталось загрузить файлов: %1$d</item>
+        <item quantity="one">Осталось загрузить файлов: %1$d</item>
+		<item quantity="two">Осталось загрузить файлов: %1$d</item>
         <item quantity="few">Осталось загрузить файлов: %1$d</item>
         <item quantity="many">Осталось загрузить файлов: %1$d</item>
-        <item quantity="one">Осталось загрузить файлов: 1</item>
-        <item quantity="other">Осталось загрузить файлов: %1$d</item>
-        <item quantity="two">Осталось загрузить файлов: %1$d</item>
-        <item quantity="zero">Осталось загрузить файлов: %1$d</item>
      </plurals>
 </resources>
