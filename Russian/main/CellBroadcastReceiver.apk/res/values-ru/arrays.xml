@@ -5,7 +5,7 @@
         <item>Один раз</item>
         <item>Каждые 2 минуты</item>
         <item>Каждые 15 минут</item>
-        <item>Отключено</item>
+        <item>Не напоминать</item>
      </string-array>
      <string-array name="alert_sound_duration_entries">
         <item>2 секунды</item>

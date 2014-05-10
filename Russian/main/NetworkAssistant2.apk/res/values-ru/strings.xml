@@ -39,8 +39,8 @@
      <string name="declaration_dialog_msg">Эта функция может помочь вам отслеживать использование трафика мобильного интернета, чтобы предотвратить дополнительные денежные расходы. Для достижения наилучших результатов, установите предел трафика.</string>
      <string name="deleted_apps">Удаленные приложения</string>
      <string name="detail_app_button">О приложении</string>
-     <string name="dual_setting_simcard1">SIM 1</string>
-     <string name="dual_setting_simcard2">SIM 2</string>
+     <string name="dual_setting_simcard1">SIM-карта 1</string>
+     <string name="dual_setting_simcard2">SIM-карта 2</string>
      <string name="firewall_activity_lable">Управление подключениями</string>
      <string name="firewall_applist">Приложения</string>
      <string name="firewall_fragment_nonesys_listempty">Пусто</string>

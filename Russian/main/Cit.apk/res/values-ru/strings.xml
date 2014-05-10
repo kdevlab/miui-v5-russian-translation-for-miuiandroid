@@ -11,8 +11,8 @@
      <string name="cit_ac_charger_out">Отключите AC кабель</string>
      <string name="cit_accelermeter_sensor_check_summary">Ускорение движения в направлении X, Y, Z показано в трех векторах</string>
      <string name="cit_accelermeter_sensor_check_title">Проверка акселерометра</string>
-     <string name="cit_audio_lb_backmic_to_speaker_title">Back mic speaker feedback test</string>
-     <string name="cit_audio_lb_mainmic_to_earpiece_title">Main mic speaker feedback test</string>
+     <string name="cit_audio_lb_backmic_to_speaker_title">Тест заднего микрофона</string>
+     <string name="cit_audio_lb_mainmic_to_earpiece_title">Тест переднего микрофона</string>
      <string name="cit_audio_lb_phonecall_title">Имитация вызова</string>
      <string name="cit_audio_lb_summary_backmic_to_speaker">"Back microphone to speaker feedback test. 
 
@@ -203,11 +203,11 @@ Hold the phone as if you're answering a call, speak in to the microphone. You sh
      <string name="cit_stop_calibration">Конец калибровки</string>
      <string name="cit_tool">Инструменты</string>
      <string name="cit_tool_bluetooth">Bluetooth</string>
-     <string name="cit_tool_bluetooth_dut">Enter bluetooth test mode</string>
+     <string name="cit_tool_bluetooth_dut">Тест bluetooth</string>
      <string name="cit_tool_bluetooth_le_tx_h">Enter bluetooth low-power dissipation (2.480GHz) mode</string>
      <string name="cit_tool_bluetooth_le_tx_l">Enter bluetooth low-power dissipation (2.402GHz) mode</string>
      <string name="cit_tool_bluetooth_mode">Enter Bluetooth test mode</string>
-     <string name="cit_tool_bluetooth_not_on">BlueTooth function is not on !!</string>
+     <string name="cit_tool_bluetooth_not_on">BlueTooth не включен!!</string>
      <string name="cit_tool_bluetooth_off">Выключить</string>
      <string name="cit_tool_bluetooth_on">Включить</string>
      <string name="cit_tool_bluetooth_tx_h">Enter bluetooth single sound test（2.480GHz) mode</string>
@@ -220,15 +220,15 @@ Hold the phone as if you're answering a call, speak in to the microphone. You sh
      <string name="cit_tool_log_kmsg">Последний отчет ядра</string>
      <string name="cit_tool_log_logcat">ADB отчет</string>
      <string name="cit_tool_log_modem">Отчет модема</string>
-     <string name="cit_tool_log_no_sdcard">Insert SD card now</string>
+     <string name="cit_tool_log_no_sdcard">Вставьте SD-карту</string>
      <string name="cit_tool_log_ril">RIL отчет</string>
      <string name="cit_tool_log_toast">Лог был сохранен как %s</string>
      <string name="cit_tool_log_toast_generate_bugreport">Генерируется отчет об ошибке (это займет около 10 секунд)</string>
-     <string name="cit_tool_modem">MODEM test tools</string>
+     <string name="cit_tool_modem">Тест модема</string>
      <string name="cit_tool_modem_bugreport">Force MODEM Coredump</string>
-     <string name="cit_tool_modem_exit_ftm">Exit FTM mode</string>
-     <string name="cit_tool_modem_offline_log">Open/Close Offline Log</string>
-     <string name="cit_tool_nfc">NFC test tools</string>
+     <string name="cit_tool_modem_exit_ftm">Выйти из режима FTM</string>
+     <string name="cit_tool_modem_offline_log">Открыть/закрыть оффлайн журнал</string>
+     <string name="cit_tool_nfc">Тест NFC</string>
      <string name="cit_tool_nfc_st">Nfc ST:</string>
      <string name="cit_tool_nfc_st_confreq">freq:</string>
      <string name="cit_tool_nfc_st_run">Запустить</string>

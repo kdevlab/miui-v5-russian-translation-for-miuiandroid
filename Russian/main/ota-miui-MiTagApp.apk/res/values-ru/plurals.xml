@@ -2,20 +2,20 @@
 <!-- Builded with NXT -->
 <resources>
      <plurals name="history_description">
-        <item quantity="one">record</item>
-        <item quantity="other">records</item>
+        <item quantity="one">запись</item>
+        <item quantity="other">записей</item>
      </plurals>
      <plurals name="play_description">
-        <item quantity="one">task</item>
-        <item quantity="other">tasks</item>
+        <item quantity="one">задача</item>
+        <item quantity="other">задач</item>
      </plurals>
      <plurals name="select_n_item">
-        <item quantity="one">%d selected</item>
-        <item quantity="other">%d selected</item>
-        <item quantity="zero">Choose items</item>
+        <item quantity="one">Выбрано: %d</item>
+        <item quantity="other">Выбрано: %d</item>
+        <item quantity="zero">Выберите</item>
      </plurals>
      <plurals name="tags_description">
-        <item quantity="one">app</item>
-        <item quantity="other">apps</item>
+        <item quantity="one">приложение</item>
+        <item quantity="other">приложений</item>
      </plurals>
 </resources>
