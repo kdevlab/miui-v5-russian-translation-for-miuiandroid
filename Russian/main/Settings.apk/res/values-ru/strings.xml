@@ -1026,7 +1026,7 @@
      <string name="device_status">Общая информация</string>
      <string name="device_status_activity_title">Общая информация</string>
      <string name="device_status_summary">Номер телефона, уровень сигнала и т.д.</string>
-	 <string name="dialog_message_auto_start_tips">Некоторые приложения, работающие в фоне, могут вести себя некорректно без автозапуска. Чтобы посмотреть индивидуальные разрешения для приложения, перейдите в настройки > приложения.</string>
+	 <string name="dialog_message_auto_start_tips">Некоторые приложения, работающие в фоне, могут вести себя некорректно без автозапуска. Чтобы посмотреть индивидуальные разрешения для приложения, перейдите в Параметры > Приложения.</string>
      <string name="dialog_apn_disabled">APN выключен!</string>
      <string name="dialog_apn_disabled_msg">Выключите режим полета для настройки APN</string>
      <string name="dialog_msg_backup_and_cleanup_apps">После завершения резервного копирования, все данные приложений будут удалены (настройки учетных записей, базы данных и т.д.)</string>
