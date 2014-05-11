@@ -52,12 +52,12 @@
      <string name="cant_connecting">Не удается подключиться к серверу</string>
      <string name="channel_more">Еще</string>
      <string name="check_network">Не удалось подключиться к сети. Проверьте настройки.</string>
-     <string name="clear_cache">Очистить кеш</string>
+     <string name="clear_cache">Очистить кэш</string>
      <string name="clear_cache_success">Кэш очищен</string>
-     <string name="clear_cache_summary">Очистить кешированные файлы изображений</string>
+     <string name="clear_cache_summary">Очистить кэшированные файлы изображений</string>
      <string name="clear_history">Очистить историю</string>
-     <string name="clear_offline">Очистить оффлайн кеш медиафайлов</string>
-     <string name="clear_offline_summary">Очистить кешированные файлы видео</string>
+     <string name="clear_offline">Очистить оффлайн кэш медиафайлов</string>
+     <string name="clear_offline_summary">Очистить кэшированные файлы видео</string>
      <string name="clear_playhistory">Очистить историю просмотра</string>
      <string name="clear_playhistory_tip">Вся история просмотра в плеере будет удалена. Продолжить?</string>
      <string name="clearplayhistory">Очистить историю</string>

@@ -101,7 +101,7 @@
      <string name="ext_media_safe_unmount_notification_title">Можете извлечь</string>
      <string name="ext_media_unmountable_notification_message">Поврежденное USB-хранилище. Пожалуйста сформатируйте его.</string>
      <string name="ext_media_unmountable_notification_title">Поврежденное USB-хранилище</string>
-     <string name="filter_item_description">Вы можете выбрать тип уведомления в \"Параметры-Настройки панели уведомлений-пользовательские уведомления\"</string>
+     <string name="filter_item_description">Вы можете выбрать тип уведомления в \"Настройки\"-\"Панель уведомлений\"-\"Настроить уведомления\"</string>
      <string name="filter_item_preview_image">предпоказ</string>
      <string name="gps_notification_found_text">Местополож. определено по GPS</string>
      <string name="gps_notification_searching_text">Поиск GPS</string>

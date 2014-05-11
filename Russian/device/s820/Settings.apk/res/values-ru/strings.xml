@@ -1029,7 +1029,7 @@
      <string name="fcc_equipment_id">ID оборудования</string>
      <string name="filter">Фильтр</string>
      <string name="filter_apps_all">Все</string>
-     <string name="filter_apps_cached">В кеше</string>
+     <string name="filter_apps_cached">В кэше</string>
      <string name="filter_apps_onsdcard">USB накопитель</string>
      <string name="filter_apps_running">Работающие</string>
      <string name="filter_apps_third_party">Сторонние</string>
@@ -2076,7 +2076,7 @@ Are you sure to use GPS provided time?"</string>
      <string name="settings_backup">Создать резервную копию настроек</string>
      <string name="settings_backup_summary">Резервная копия настроек</string>
      <string name="settings_button">Настройки</string>
-     <string name="settings_label">Параметры</string>
+     <string name="settings_label">Настройки</string>
      <string name="settings_label_launcher">Настройки</string>
      <string name="settings_license_activity_loading">Загрузка…</string>
      <string name="settings_license_activity_title">Лицензии открытого ПО</string>

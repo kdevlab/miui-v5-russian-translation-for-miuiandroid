@@ -216,7 +216,7 @@
      <string name="failed_to_send_activate_email">Невозможно отправить активацию по почте</string>
      <string name="find_device">Поиск устройства</string>
      <string name="find_device_check_phone_error_title">Ошибка включения поиска устройств</string>
-     <string name="find_device_disabled_notice">Вы можете включить снова через Параметры - Мои аккаунты - Аккаунт Xiaomi</string>
+     <string name="find_device_disabled_notice">Вы можете включить снова через \"Настройки\" - \"Аккаунты\" - \"MiCloud\"</string>
      <string name="find_device_disabled_title">Поиск устройств отключен</string>
      <string name="find_device_disabling">Выключение…</string>
      <string name="find_device_enabling">Включение…</string>

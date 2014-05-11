@@ -688,9 +688,9 @@
      <string name="button_text_view_power">Посмотреть</string>
      <string name="cache_garbage">Кэш</string>
      <string name="cache_header_label">Кэш</string>
-     <string name="cache_list_empty_hints">Нет кешированных файлов</string>
+     <string name="cache_list_empty_hints">Нет кэшированных файлов</string>
      <string name="cache_manage_title">К очистке: %1$d | Освободится: %2$s</string>
-     <string name="cache_manager_actionbar_title">Файлы кеша</string>
+     <string name="cache_manager_actionbar_title">Файлы кэша</string>
      <string name="cache_size_label">Кэш</string>
      <string name="cached">Кэшированный фоновый процесс</string>
      <string name="call_log_tab_title">Журнал вызовов</string>
@@ -1026,7 +1026,7 @@
      <string name="device_status">Общая информация</string>
      <string name="device_status_activity_title">Общая информация</string>
      <string name="device_status_summary">Номер телефона, уровень сигнала и т.д.</string>
-	 <string name="dialog_message_auto_start_tips">Некоторые приложения, работающие в фоне, могут вести себя некорректно без автозапуска. Чтобы посмотреть индивидуальные разрешения для приложения, перейдите в Параметры > Приложения.</string>
+	 <string name="dialog_message_auto_start_tips">Некоторые приложения, работающие в фоне, могут вести себя некорректно без автозапуска. Чтобы посмотреть индивидуальные разрешения для приложения, перейдите в Настройки > Приложения.</string>
      <string name="dialog_apn_disabled">APN выключен!</string>
      <string name="dialog_apn_disabled_msg">Выключите режим полета для настройки APN</string>
      <string name="dialog_msg_backup_and_cleanup_apps">После завершения резервного копирования, все данные приложений будут удалены (настройки учетных записей, базы данных и т.д.)</string>
@@ -1319,11 +1319,11 @@
      <string name="finish_button_label">Готово</string>
      <string name="finish_checking_memory">Проверка состояния памяти…</string>
      <string name="finish_checking_protection">Проверка состояния защиты…</string>
-     <string name="finish_checking_trash">Проверка кеша приложений…</string>
+     <string name="finish_checking_trash">Проверка кэша приложений…</string>
      <string name="finish_checking_virus">Проверка вирусов…</string>
      <string name="finish_optimize_memory">Оптимизация расхода памяти…</string>
      <string name="finish_optimize_protection">Оптимизация защиты…</string>
-     <string name="finish_optimize_trash">Оптимизация кеша приложений…</string>
+     <string name="finish_optimize_trash">Оптимизация кэша приложений…</string>
      <string name="finish_optimizing_virus">Оптимизация…</string>
      <string name="firewall_action">Действия</string>
      <string name="firewall_log">Журнал</string>
@@ -3033,7 +3033,7 @@
      <string name="settings_backup">Создать резервную копию настроек</string>
      <string name="settings_backup_summary">Резервная копия настроек</string>
      <string name="settings_button">Настройки</string>
-     <string name="settings_label">Параметры</string>
+     <string name="settings_label">Настройки</string>
      <string name="settings_label_launcher">Настройки</string>
      <string name="settings_license_activity_loading">Загрузка…</string>
      <string name="settings_license_activity_title">Лицензии открытого ПО</string>
@@ -3249,7 +3249,7 @@
      <string name="sync_wifi_label">Настройки Wi-Fi</string>
      <string name="sync_wifi_only">Только Wi-Fi</string>
      <string name="system">Настройки системы</string>
-     <string name="system_cache_title">Системный кеш</string>
+     <string name="system_cache_title">Системный кэш</string>
      <string name="system_package">Системные обновления нельзя установить на внешнем носителе.</string>
      <string name="system_storage">Внутренняя память</string>
      <string name="system_update_settings_list_item_title">Обновление системы</string>

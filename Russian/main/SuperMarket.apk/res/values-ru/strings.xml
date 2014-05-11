@@ -21,8 +21,8 @@
      <string name="category_recommend_tag">Рекомендовано</string>
      <string name="category_tag">Категории</string>
      <string name="clear_cache_failed">Ошибка очистки. Попробуйте еще раз.</string>
-     <string name="clear_cache_message">Очистить кеш?</string>
-     <string name="clear_cache_succeed">Кеш очищен</string>
+     <string name="clear_cache_message">Очистить кэш?</string>
+     <string name="clear_cache_succeed">Кэш очищен</string>
      <string name="clear_search_record_message">Очистить историю поиска?</string>
      <string name="clear_session_message">Очистить сессию?</string>
      <string name="comment_1_star">1 звезда</string>
@@ -245,7 +245,7 @@
      <string name="pref_title_auto_update_setting">Настройки автообновления</string>
      <string name="pref_title_auto_update_via_wifi">Автообновление по Wi-Fi</string>
      <string name="pref_title_auto_update_via_wifi_checkbox">Автообновление</string>
-     <string name="pref_title_clear_cache">Очистить кеш</string>
+     <string name="pref_title_clear_cache">Очистить кэш</string>
      <string name="pref_title_clear_search_record">Очистить историю поиска</string>
      <string name="pref_title_clear_session">Очистить сессию</string>
      <string name="pref_title_data_save">Ограничение данных</string>

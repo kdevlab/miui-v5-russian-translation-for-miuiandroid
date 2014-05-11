@@ -8,7 +8,7 @@
      <string name="other_service_google_location">Сервис местоположения Google</string>
      <string name="other_service_google_location_use">Местоположение и поиск Google</string>
      <string name="other_service_google_location_use_help">"Разрешить сервису Google собирать данные о вашем местоположении. Сбор данных будет происходить в фоновом режиме.
-Изменить настройки можно в пункте \"Параметры\" > \"Местоположение\"."</string>
+Изменить настройки можно в пункте \"Настройки\" > \"Местоположение\"."</string>
      <string name="other_service_google_location_use_summary">Разрешить использовать Google местоположение для улучшения результатов поиска и других услуг</string>
      <string name="other_service_label">Другие сервисы</string>
      <string name="other_service_location">Местоположение</string>
@@ -18,7 +18,7 @@
      <string name="other_service_user_experience">Повышение качества</string>
      <string name="other_service_user_experience_summary0">"Вы можете поспособствовать улучшению качества нашего продукта, предварительно ознакомившись с нашей "</string>
      <string name="other_service_user_experience_summary1">политикой конфиденциальности</string>
-     <string name="setup_complete_info">Система запишет все настройки и создаст кеш. Возможно некоторое время притормаживание системы.</string>
+     <string name="setup_complete_info">Система запишет все настройки и создаст кэш. Возможно притормаживание системы в течение некоторого времени.</string>
      <string name="setup_complete_label">Спасибо!</string>
      <string name="setup_complete_start">Начать использование</string>
      <string name="setup_complete_summary">Настройка завершена! Наслаждайтесь захватывающей MIUI!</string>

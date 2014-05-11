@@ -213,7 +213,7 @@
      <string name="turn_on_smart_antispam_title">Идентификация номеров</string>
      <string name="unable_send_sms">Не удается отправить сообщение</string>
      <string name="user_notice_identify_summary_format">Идентификация неизвестных номеров представляет собой интернет-сервис. Прочитайте %1$s и %2$s перед использованием.</string>
-     <string name="user_notice_yp_detail_summary_format">Информация о этой желтой странице должна быть обновлена ​​в интернете. Пожалуйста, прочитайте %1$s и %2$s. Нажимая \"Принимаю\", Вы соглашаетесь с вышеуказанным содержанием, нажмите \"Отмена\" для просмотра кешированной информации.</string>
+     <string name="user_notice_yp_detail_summary_format">Информация о этой желтой странице должна быть обновлена ​​в интернете. Пожалуйста, прочитайте %1$s и %2$s. Нажимая \"Принимаю\", Вы соглашаетесь с вышеуказанным содержанием, нажмите \"Отмена\" для просмотра кэшированной информации.</string>
      <string name="voicemail">Голосовая почта</string>
      <string name="yellow_page_call_log_title">Журнал вызовов</string>
      <string name="yellow_page_detail_title">О программе</string>
