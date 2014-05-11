@@ -7,14 +7,14 @@
     <string name="company">Компания:</string>
     <string name="title">Название:</string>
     <string name="phone">Телефон:</string>
-    <string name="email">Email:</string>
-    <string name="web">Web:</string>
+    <string name="email">Почта:</string>
+    <string name="web">Веб-сайт:</string>
     <string name="address">Адрес:</string>
     <string name="birthday">День рождения:</string>
     <string name="note">Примечания:</string>
     <string name="add_to_contacts">Добавить в Контакты</string>
     <string name="recognize">Распознать</string>
-    <string name="place_barcode_into_rectangle">Поместите QR-код или штрих-код внутрь прямоугольника видоискателя</string>
+    <string name="place_barcode_into_rectangle">Наведите прямоугольник видоискателя на QR-код или штрих-код</string>
     <string name="open_flash_error">Ошибка включения вспышки</string>
     <string name="close_flash_error">Ошибка выключения вспышки</string>
     <string name="scan_fail">Ошибка сканирования</string>
