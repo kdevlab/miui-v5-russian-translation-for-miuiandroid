@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Сканер штрихкодов</string>
+    <string name="copy">Копировать</string>
+    <string name="name">Имя:</string>
+    <string name="nickname">Псевдоним:</string>
+    <string name="company">Компания:</string>
+    <string name="title">Название:</string>
+    <string name="phone">Телефон:</string>
+    <string name="email">Email:</string>
+    <string name="web">Web:</string>
+    <string name="address">Адрес:</string>
+    <string name="birthday">День рождения:</string>
+    <string name="note">Примечания:</string>
+    <string name="add_to_contacts">Добавить в Контакты</string>
+    <string name="recognize">Распознать</string>
+    <string name="place_barcode_into_rectangle">Поместите QR-код или штрих-код внутрь прямоугольника видоискателя</string>
+    <string name="open_flash_error">Ошибка включения вспышки</string>
+    <string name="close_flash_error">Ошибка выключения вспышки</string>
+    <string name="scan_fail">Ошибка сканирования</string>
+    <string name="vcard_prompt">Невозможно добавить контакт с пустым именем</string>
+    <string name="copy_succeed">Скопировано</string>
+    <string name="fail_generate_barcode">Ошибка генерации QR-кода или штрих-кода</string>
+    <string name="scan_result">Результаты сканирования</string>
+    <string name="flash_lable">Вспышка</string>
+    <string name="picker_lable">Галерея</string>
+</resources>
