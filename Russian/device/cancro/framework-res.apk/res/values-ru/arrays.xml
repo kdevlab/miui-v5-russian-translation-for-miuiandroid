@@ -33,12 +33,25 @@
         <item>воспроизведение аудио</item>
         <item>считать содержимое буфера обмена</item>
         <item>изменить содержимое буфера обмена</item>
+		<item>Trying to use media buttons</item>
+        <item>Trying to use audio focus</item>
+        <item>Trying to use master volume</item>
+        <item>Trying to use voice volume</item>
+        <item>использовать громкость звонка</item>
+        <item>использовать громкость медиа</item>
+        <item>использовать громкость будильника</item>
+        <item>использовать громкость уведомлений</item>
+        <item>использовать громкость Bluetooth</item>
+        <item>держать устройство включенным</item>
+        <item>получить доступ к местоположению устройства</item>
+        <item>получить доступ к местоположению устройства</item>
         <item>переключить состояние Wi-Fi</item>
         <item>переключить состояние Bluetooth</item>
         <item>переключить состояние мобильного интернета</item>
         <item>отправить MMS-сообщение</item>
         <item>считать MMS-сообщения</item>
         <item>создать MMS-сообщение</item>
+		<item>запуститься в автозагрузке</item>
      </string-array>
      <string-array name="emailAddressTypes">
         <item>Домашний</item>

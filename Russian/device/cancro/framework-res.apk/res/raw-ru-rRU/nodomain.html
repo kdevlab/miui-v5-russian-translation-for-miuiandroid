@@ -1,0 +1,123 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,user-scalable=no">
+<title>Веб-страница не доступна</title>
+<link rel="icon" href="file:///android_asset/webkit/favicon.png">
+<style>
+html,
+body,
+p {
+    margin: 0;
+    padding: 0;
+}
+
+a {
+    text-decoration: none;
+}
+
+body {
+    background: #f2f2f2;
+}
+
+.wrap {
+    margin: 0 auto;
+    width: 273px;
+}
+
+.error {
+    padding: 175px 5px 15px;
+    font: 17px/23px a;
+    color: #f0480d;
+    background: url(file:///android_asset/webkit/error.png) no-repeat 50% 80px;
+    background-size: 85px 74px;
+    text-align: center;
+}
+
+.error p {
+    height: 19px;
+    font: 13px/19px a;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.error p,
+.error a {
+    color: rgba(0, 0, 0, 0.7);
+}
+
+.reason {
+    border: solid rgba(0, 0, 0, 0.1);
+    border-width: 1px 0;
+    padding: 10px 3px 8px;
+    font: 13px/22px a;
+    color: rgba(0, 0, 0, 0.3);
+}
+
+.reason p:before {
+    content: '';
+    float: left;
+    margin: 9px 5px 0 0;
+    width: 5px;
+    height: 5px;
+    border-radius: 3px;
+    background: rgba(173, 173, 173, 0.5)
+}
+
+.button {
+    padding-top: 10px;
+    overflow: hidden;
+}
+
+.button a {
+    float: left;
+    margin-left: 33px;
+    padding-top: 33px;
+    width: 69px;
+    height: 27px;
+    font: 13px/27px a;
+    color: rgba(0, 0, 0, 0.5);
+    text-align: center;
+}
+
+.button a:first-child {
+    margin-left: 0;
+}
+
+.reload {
+    background: url(file:///android_asset/webkit/reload.png) no-repeat 50% 9px;
+    background-size: 23px 24px;
+}
+
+.detail {
+    background: url(file:///android_asset/webkit/detail.png) no-repeat 50% 9px;
+    background-size: 23px 24px;
+}
+
+.setting {
+    background: url(file:///android_asset/webkit/setting.png) no-repeat 50% 9px;
+    background-size: 23px 24px;
+}
+</style>
+</head>
+<body>
+<div class="wrap">
+    <div class="error">
+        Веб-страница не доступна
+        <p><a href="%s">%s</a></p>
+    </div>
+    <div class="reason">
+        <p>Проверьте интернет соединение</p>
+        <p>Перезагрузите страницу позже</p>
+        <p>Проверьте указанный вами адрес</p>
+    </div>
+    <div class="button">
+        <a class="reload" onclick="location.reload()">Обновить</a>
+        <a class="detail" onclick="location.href = 'file:///android_asset/errordetail_en.html?var=' + this.name" name="%e">Инфо</a>
+        <a class="setting" onclick="window.wirelessSetting.openWirelessSetting()">Настройки</a>
+    </div>
+</div>
+</body>
+</html>
