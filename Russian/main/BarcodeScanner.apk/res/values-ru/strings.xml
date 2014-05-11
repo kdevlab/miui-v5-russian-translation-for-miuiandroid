@@ -12,7 +12,7 @@
     <string name="address">Адрес:</string>
     <string name="birthday">День рождения:</string>
     <string name="note">Примечания:</string>
-    <string name="add_to_contacts">Добавить в Контакты</string>
+    <string name="add_to_contacts">Добавить в контакты</string>
     <string name="recognize">Распознать</string>
     <string name="place_barcode_into_rectangle">Наведите прямоугольник видоискателя на QR-код или штрих-код</string>
     <string name="open_flash_error">Ошибка включения вспышки</string>
@@ -21,7 +21,7 @@
     <string name="vcard_prompt">Невозможно добавить контакт с пустым именем</string>
     <string name="copy_succeed">Скопировано</string>
     <string name="fail_generate_barcode">Ошибка генерации QR-кода или штрих-кода</string>
-    <string name="scan_result">Результаты сканирования</string>
+    <string name="scan_result">Результат сканирования</string>
     <string name="flash_lable">Вспышка</string>
     <string name="picker_lable">Галерея</string>
 </resources>
