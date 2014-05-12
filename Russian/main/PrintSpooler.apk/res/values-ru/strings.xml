@@ -22,8 +22,8 @@
      <string name="no_connection_to_printer">Нет связи с принтером</string>
      <string name="page_count_unknown">Количество страниц</string>
      <string name="pages_range_example">напр., 1–5, 8, 11–13</string>
-     <string name="permdesc_accessAllPrintJobs">Allows the holder to access print jobs created by another app. Should never be needed for normal apps.</string>
-     <string name="permdesc_startPrintServiceConfigActivity">Allows the holder to start the configuration activities of a print service. Should never be needed for normal apps.</string>
+     <string name="permdesc_accessAllPrintJobs">Позволяет владельцу иметь доступ к заданиям печати, созданными другими приложениями. Не требуется обычным приложениям.</string>
+     <string name="permdesc_startPrintServiceConfigActivity">Позволяет владельцу настраивать конфигурации услуг печати. Не требуется обычным приложениям.</string>
      <string name="permlab_accessAllPrintJobs">доступ ко всем заданиям печати</string>
      <string name="permlab_startPrintServiceConfigActivity">запуск службы конфигурации печати</string>
      <string name="print_add_printer">Добавить принтер</string>

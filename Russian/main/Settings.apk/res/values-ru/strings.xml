@@ -69,7 +69,7 @@
      <string name="access_control_password_title">Ограничение доступа</string>
      <string name="access_control_recording_intro_header">Нарисуйте графический ключ:</string>
      <string name="access_control_reset_by_account">Войдите в аккаунт Xiaomi чтобы сбросить пароль контроля доступа</string>
-     <string name="accessibility_captioning_title">Captions</string>
+     <string name="accessibility_captioning_title">Титры</string>
      <string name="accessibility_enable">Включить доступ</string>
      <string name="accessibility_feature_state_off">Выключено</string>
      <string name="accessibility_feature_state_on">Включено</string>
@@ -274,7 +274,7 @@
      <string name="app_install_location_title">Место установки</string>
      <string name="app_log_tab_title">Журнал разрешений</string>
      <string name="app_manage_tab_title">Приложения</string>
-     <string name="app_memory_use">Memory use</string>
+     <string name="app_memory_use">Использование памяти</string>
      <string name="app_name">Сервис</string>
      <string name="app_name_label">Приложение</string>
      <string name="app_not_found_dlg_text">Приложение не найдено в списке установленных</string>
@@ -610,7 +610,7 @@
      <string name="bluetooth_profile_ftp">Передача файлов</string>
      <string name="bluetooth_profile_headset">Профиль HSP/HFP</string>
      <string name="bluetooth_profile_hid">Профиль HID</string>
-     <string name="bluetooth_profile_map">Message Access</string>
+     <string name="bluetooth_profile_map">Доступ к сообщениям</string>
      <string name="bluetooth_profile_opp">Профиль OPP</string>
      <string name="bluetooth_profile_pan">Интернет-доступ</string>
      <string name="bluetooth_profile_pan_nap">Профиль PAN</string>
@@ -729,7 +729,7 @@
      <string name="captioning_foreground_color">Цвет текста</string>
      <string name="captioning_locale">Язык</string>
      <string name="captioning_preset">Стиль титров</string>
-     <string name="captioning_preview_characters">Aa</string>
+     <string name="captioning_preview_characters">KDev Group</string>
      <string name="captioning_preview_text">Титры будут выглядеть так</string>
      <string name="captioning_preview_title">Предпросмотр</string>
      <string name="captioning_standard_options_title">Стандартные параметры</string>
@@ -738,8 +738,6 @@
      <string name="carrier_enabled">Включить/Выключить APN</string>
      <string name="carrier_enabled_summaryOff">APN выключен</string>
      <string name="carrier_enabled_summaryOn">APN включен</string>
-     <string name="category_key_power_usage_details">key_power_usage_details</string>
-     <string name="category_key_power_usage_packages">key_power_usage_packages</string>
      <string name="cdma_security_settings_summary">Настройка функции \"Мое местоположение\", разблокировка экрана и блокировка хранилища регистрационных данных</string>
      <string name="cell_broadcast_settings">Широковещательные сообщения</string>
      <string name="cell_broadcast_settings_summary">Выбор типа уведомлений для отображения</string>
@@ -1159,7 +1157,7 @@
      <string name="dolby_roomsize_title">"Объемный звук: "</string>
      <string name="dolby_surround_virtualizer">Объемная визуализация</string>
      <string name="dolby_volume_leveler">Громкость звука</string>
-     <string name="done_button">Done</string>
+     <string name="done_button">Готово</string>
      <string name="downloaded_rom_title">Пакет обновлений истек</string>
      <string name="drive_mode">Режим \"За рулем\"</string>
      <string name="drive_mode_auto_reply">Автоответ</string>
@@ -1589,7 +1587,7 @@
      <string name="history_details_title">Подробная история</string>
      <string name="home_app_uninstall_button">Удалить приложение</string>
      <string name="home_key">Клавиша \"ДОМОЙ\"</string>
-     <string name="home_settings">Home</string>
+     <string name="home_settings">Домашний экран</string>
      <string name="ime_security_warning">При использовании этого способа могут собираться все вводимые данные, в том числе пароли и номера кредитных карт. Способ ввода запрашивается приложением \"%1$s\". Использовать этот способ ввода?</string>
      <string name="immediately_destroy_activities">Не сохранять процессы</string>
      <string name="immediately_destroy_activities_summary">Завершать процессы сразу после их закрытия</string>
@@ -2028,11 +2026,16 @@
      <string name="msd_install_status_done">Уже установленный драйвер</string>
      <string name="msd_install_status_undo">Установить драйвер</string>
      <string name="msd_install_succeed">Драйвер уже установлен</string>
-     <string name="msd_install_windows_xp_step_2_1">1.Если появится Мастер Настройки, пожалуйста, следуйте его указаниям до окончания установки</string>
-     <string name="msd_pc_system_install_finish_summary_vista">Для версий Windows Vista и новее, музыкальный плеер \"%1$s\" будет автоматически отображаться на ПК.</string>
-     <string name="msd_pc_system_install_finish_summary_xp">После установки драйверов \"%1$s\" будет отображаться при подключении к ПК как USB-накопитель.</string>
-     <string name="msd_pc_system_install_start_summary_vista">Для версий Windows Vista и новее, \"%1$s\" будет автоматически отображаться как USB-накопитель.</string>
-     <string name="msd_pc_system_install_step_2_summary_xp">2. %1$s будет отображаться как USB-накопитель при подключении к ПК.</string>
+     <string name="msd_install_windows_xp_step_2_1">1.Если появится мастер настройки, пожалуйста, 
+следуйте его указаниям до окончания установки</string>
+     <string name="msd_pc_system_install_finish_summary_vista">Для версий Windows Vista и новее,
+музыкальный плеер \"%1$s\" будет автоматически отображаться на ПК</string>
+     <string name="msd_pc_system_install_finish_summary_xp">После установки этого драйвера,
+\"%1$s\" будет отображаться при подключении к ПК как USB-накопитель</string>
+     <string name="msd_pc_system_install_start_summary_vista">Для версий Windows Vista и новее,
+\"%1$s\" будет автоматически отображаться как USB-накопитель</string>
+     <string name="msd_pc_system_install_step_2_summary_xp">2. \"%1$s\" будет отображаться как USB-накопитель 
+ при подключении к ПК</string>
      <string name="msg_cleanup_db_update_checking">Проверка…</string>
      <string name="msg_cleanup_db_update_time_unknown">Обновлено: неизвестно</string>
      <string name="msg_system_cache_hints">Очистка кэшированных данных не затронет файлы приложений, настройки учетных записей, базы данных и т.д.</string>
@@ -2167,7 +2170,6 @@
      <string name="opt_restore_perm">Восстановлено разрешений по умолчанию для %d приложений</string>
      <string name="opt_resume_desc">Продолжить</string>
      <string name="opt_scanning">Сканирование…:</string>
-     <string name="opt_score">83</string>
      <string name="opt_score_desc">" %"</string>
      <string name="opt_state_done">Готово</string>
      <string name="opt_state_pause">Пауза</string>
@@ -3682,7 +3684,7 @@
      <string name="virus_scanner_lib_updating">Обновление…</string>
      <string name="virus_scanner_manual_update">Нажмите для обновления</string>
      <string name="virus_scanner_module">Tencent</string>
-     <string name="virus_scanner_provider">Поддержка: Tencent</string>
+     <string name="virus_scanner_provider">При поддержке %s</string>
      <string name="virus_scanner_scan">Антивирус</string>
      <string name="virus_scanner_scanning">Проверка приложений на вирусы</string>
      <string name="virus_scanner_select_Cancel">Отмена</string>
@@ -3887,7 +3889,7 @@
      <string name="wifi_display_summary_disabled">Отключен</string>
      <string name="wifi_display_summary_off">Выкл</string>
      <string name="wifi_display_summary_on">Вкл</string>
-     <string name="wifi_display_wps_config">WPS configuration</string>
+     <string name="wifi_display_wps_config">Настройка WPS</string>
      <string name="wifi_dont_skip">Не пропускать</string>
      <string name="wifi_eap_anonymous">Неизвестный</string>
      <string name="wifi_eap_ca_cert">Сертификат центра сертификации</string>

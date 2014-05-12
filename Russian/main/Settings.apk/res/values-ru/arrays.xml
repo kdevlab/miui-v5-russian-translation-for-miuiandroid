@@ -23,75 +23,115 @@
      </string-array>
      <string-array name="app_ops_categories">
         <item>Местоположение</item>
-        <item>Личное</item>
-        <item>Переписка</item>
+        <item>Личные данные</item>
+        <item>SMS/MMS</item>
+        <item>Мультимедиа</item>
         <item>Устройство</item>
+        <item>Загрузка</item>
      </string-array>
      <string-array name="app_ops_labels">
         <item>Местоположение</item>
         <item>Местоположение</item>
         <item>Местоположение</item>
-        <item>Вибрация</item>
-        <item>Чтение контактов</item>
+        <item>Вибросигнал</item>
+        <item>Считывать данные контактов</item>
         <item>Изменение контактов</item>
-        <item>Чтение журнала</item>
-        <item>Изменение журнала</item>
-        <item>Чтение календаря</item>
+        <item>Просмотр списка вызовов</item>
+        <item>Изменение списка вызовов</item>
+        <item>Считывать данные календаря</item>
         <item>Изменение календаря</item>
         <item>Местоположение</item>
-        <item>Post notification</item>
+        <item>Разместить уведомление</item>
         <item>Местоположение</item>
-        <item>Телефон</item>
+        <item>Позвонить</item>
+        <item>Чтение SMS/MMS</item>
+        <item>Запись SMS/MMS</item>
+        <item>Получение SMS/MMS</item>
+        <item>Получение SMS/MMS</item>
+        <item>Получение SMS/MMS</item>
         <item>Получение SMS/MMS</item>
         <item>Отправка SMS/MMS</item>
-        <item>Получение SMS/MMS</item>
-        <item>Получение SMS/MMS</item>
-        <item>Получение SMS/MMS</item>
-        <item>Получение SMS/MMS</item>
-        <item>Отправка SMS/MMS</item>
-        <item>Получение SMS/MMS</item>
-        <item>Отправка SMS/MMS</item>
+        <item>Чтение SMS/MMS</item>
+        <item>Запись SMS/MMS</item>
         <item>Изменение настроек</item>
-        <item>Draw on top</item>
-        <item>Access notifications</item>
+        <item>Отображать поверх других элементов</item>
+        <item>Доступ к уведомлениям</item>
         <item>Камера</item>
-        <item>Запись звука</item>
-        <item>Воспроизведение звука</item>
-        <item>Чтение буфера обмена</item>
-        <item>Изменение буфера обмена</item>
+        <item>Записать аудио</item>
+        <item>Воспроизвести аудио</item>
+        <item>Считать из буфера обмена</item>
+        <item>Изменить буфер обмена</item>
+        <item>Кнопки мультимедиа</item>
+        <item>Аудиофокус</item>
+        <item>Общая громкость</item>
+        <item>Громкость голоса</item>
+        <item>Громкость звонка</item>
+        <item>Громкость мультимедиа</item>
+        <item>Громкость будильника</item>
+        <item>Громкость уведомлений</item>
+        <item>Громкость Bluetooth-устройств</item>
+        <item>Не отключать</item>
+        <item>Местоположение</item>
+        <item>Определение местоположения</item>
+        <item>Wifi изменения</item>
+        <item>Изменения Bluetooth</item>
+        <item>Изменение данных</item>
+        <item>Отправка MMS</item>
+        <item>Чтение MMS</item>
+        <item>Создание MMS</item>
+        <item>Автозапуск</item>
      </string-array>
      <string-array name="app_ops_summaries">
-        <item>coarse location</item>
-        <item>fine location</item>
+        <item>приблизительное местоположение</item>
+        <item>точное местоположение</item>
         <item>GPS</item>
-        <item>вибрировать</item>
-        <item>читать контакты</item>
-        <item>изменять контакты</item>
-        <item>читать журнал вызовов</item>
-        <item>изменять журнал вызовов</item>
-        <item>читать календарь</item>
-        <item>изменять календарь</item>
-        <item>сканировать wi-fi</item>
-        <item>уведомлять</item>
-        <item>сканировать сети</item>
-        <item>звонить</item>
-        <item>читать сообщения</item>
-        <item>писать SMS</item>
-        <item>получать SMS</item>
-        <item>получать emergency SMS</item>
-        <item>получать MMS</item>
-        <item>получать WAP push</item>
-        <item>отправлять сообщения</item>
-        <item>читать ICC SMS</item>
-        <item>писать ICC SMS</item>
-        <item>изменять настройки</item>
-        <item>draw on top</item>
-        <item>access notifications</item>
-        <item>camera</item>
-        <item>записывать звук</item>
-        <item>воспроизводить звук</item>
-        <item>читать буфер обмена</item>
-        <item>изменять буфер обмена</item>
+        <item>вибросигнал</item>
+        <item>считывать данные контактов</item>
+        <item>изменение контактов</item>
+        <item>просмотр списка вызовов</item>
+        <item>изменение списка вызовов</item>
+        <item>считывать данные календаря</item>
+        <item>изменение календаря</item>
+        <item>поиск Wi-Fi</item>
+        <item>уведомление</item>
+        <item>поиск мобильных сетей</item>
+        <item>позвонить</item>
+        <item>чтение SMS</item>
+        <item>создание SMS</item>
+        <item>Получение SMS</item>
+        <item>получение экстренных SMS</item>
+        <item>получение MMS</item>
+        <item>получение сообщений WAP PUSH</item>
+        <item>отправка SMS</item>
+        <item>чтение SMS со смарт-карты</item>
+        <item>запись SMS на смарт-карту</item>
+        <item>изменение настроек</item>
+        <item>отображать поверх других элементов</item>
+        <item>доступ к уведомлениям</item>
+        <item>камера</item>
+        <item>записать аудио</item>
+        <item>воспроизвести аудио</item>
+        <item>считать из буфера обмена</item>
+        <item>изменить буфер обмена</item>
+        <item>кнопки мультимедиа</item>
+        <item>аудиофокус</item>
+        <item>общая громкость</item>
+        <item>громкость голоса</item>
+        <item>громкость звонка</item>
+        <item>громкость мультимедиа</item>
+        <item>громкость будильника</item>
+        <item>громкость уведомлений</item>
+        <item>громкость Bluetooth-устройств</item>
+        <item>не отключать</item>
+        <item>Отслеживать местоположение</item>
+        <item>контролировать использование энергии при определении местоположения</item>
+        <item>изменить wifi</item>
+        <item>изменить bluetooth</item>
+        <item>изменить моб. интернет</item>
+        <item>отправка MMS</item>
+        <item>чтение MMS</item>
+        <item>запись MMS</item>
+        <item>автоматический запуск</item>
      </string-array>
      <string-array name="app_process_limit_entries">
         <item>Стандартное ограничение</item>
@@ -137,12 +177,6 @@
         <item>Крупный</item>
         <item>Очень крупный</item>
      </string-array>
-     <string-array name="captioning_opacity_selector_titles">
-        <item>25%</item>
-        <item>50%</item>
-        <item>75%</item>
-        <item>100%</item>
-     </string-array>
      <string-array name="captioning_preset_selector_titles">
         <item>Белый на черном</item>
         <item>Черный на белом</item>
@@ -187,8 +221,8 @@
      <string-array name="enable_opengl_traces_entries">
         <item>Нет</item>
         <item>Logcat</item>
-        <item>Systrace (графически)</item>
-        <item>Call stack on glGetError</item>
+        <item>Systrace (графика)</item>
+        <item>Список вызовов в glGetError</item>
      </string-array>
      <string-array name="entries_dolby_control">
         <item>Нет</item>
@@ -225,15 +259,6 @@
         <item>Белый</item>
         <item>Фиолетовый</item>
      </string-array>
-     <string-array name="led_color_values">
-        <item>blue</item>
-        <item>red</item>
-        <item>yellow</item>
-        <item>green</item>
-        <item>cyan</item>
-        <item>white</item>
-        <item>\#FFAA00AA</item>
-     </string-array>
      <string-array name="led_freq_entries">
         <item>2 сек.</item>
         <item>3 сек.</item>
@@ -268,14 +293,6 @@
         <item>Лиловый</item>
         <item>Фиолетовый</item>
      </string-array>
-     <string-array name="mi1_led_color_values">
-        <item>blue</item>
-        <item>red</item>
-        <item>green</item>
-        <item>\#FFFF0033</item>
-        <item>\#FF5500FF</item>
-        <item>\#FFAA00AA</item>
-     </string-array>
      <string-array name="miracast_policies">
         <item>Производительность</item>
         <item>Баланс</item>
@@ -288,50 +305,34 @@
         <item>Linux</item>
      </string-array>
      <string-array name="msd_pc_system_install_finish_summary">
-        <item>Если вы установили этот драйвер\nМобильное устройство хранения MI-2 должно быть на вашем компьютере</item>
-        <item>Для Windows Vista или новее,\nмузыкальный плеер MI-2 должен появится на вашем компьютере</item>
-        <item>Если вы установили драйвер\nКомпьютер будет автоматически открывать и читать данные телефона</item>
+        <item>@string/msd_pc_system_install_finish_summary_xp</item>
+        <item>@string/msd_pc_system_install_finish_summary_vista</item>
+        <item>Если Вы установили драйвер,
+устройство будет автоматически открываться при подключении к ПК</item>
         <item></item>
      </string-array>
      <string-array name="msd_pc_system_install_start_summary">
         <item>Для Windows XP или старее,\nдрайвер должен быть установлен вручную</item>
-        <item>Для Windows Vista или новее,\nмузыкальный плеер MI-2 появится на вашем компьютере</item>
+        <item>@string/msd_pc_system_install_start_summary_vista</item>
         <item>Для операционной системы OS X,\nдрайвер должен быть установлен вручную</item>
         <item></item>
      </string-array>
      <string-array name="msd_pc_system_install_step_1_summary">
-        <item>(Пожалуйста, игнорируйте всплывающие окна мастера установки)\nзапоминающее устройство XIAOMI появится на вашем компьютере\nОткройте и выберите файл Setup.exe для установки</item>
+        <item>(Игнорируйте всплывающие окна мастера установки)\nзапоминающее устройство XIAOMI появится на Вашем компьютере\nОткройте и выберите файл Setup.exe для установки</item>
         <item></item>
-        <item>Запоминающее устройство XIAOMI появится на вашем компьютере\nткройте и выберите файл AndroidFileTransfer.dmg для установки</item>
+        <item>Запоминающее устройство XIAOMI появится на вашем компьютере\nОткройте и выберите файл AndroidFileTransfer.dmg для установки</item>
         <item></item>
      </string-array>
      <string-array name="msd_pc_system_install_step_2_summary">
-        <item>2. Мобильное устройство хранения MI-2 появится на вашем компьютере\nТеперь вы можете передавать файлы</item>
+        <item>@string/msd_pc_system_install_step_2_summary_xp</item>
         <item></item>
-        <item>Компьютер будет автоматически открывать и читать данные телефона\nТеперь вы можете передавать файлы</item>
+        <item>Теперь Вы можете передавать файлы на желаемые устройства</item>
         <item></item>
      </string-array>
      <string-array name="multi_sim_entries">
-        <item>Подписка 1</item>
-        <item>Подписка 2</item>
-     </string-array>
-     <string-array name="multi_sim_entries_voice">
-        <item>Подписка 1</item>
-        <item>Подписка 2</item>
-        <item>Запрос</item>
-     </string-array>
-     <string-array name="multi_sim_entries_voice_without_prompt">
-        <item>Подписка 1</item>
-        <item>Подписка 2</item>
-     </string-array>
-     <string-array name="multi_sim_summaries">
-        <item>Подписка 1</item>
-        <item>Подписка 2</item>
-     </string-array>
-     <string-array name="multi_sim_summaries_voice">
-        <item>Подписка 1</item>
-        <item>Подписка 2</item>
-        <item>Запрос пользователя</item>
+        <item>Оператор 1</item>
+        <item>Оператор 2</item>
+        <item>Оператор 3</item>
      </string-array>
      <string-array name="mvno_type_entries">
         <item>Нет</item>
@@ -345,11 +346,18 @@
         <item>Перемещение…</item>
      </string-array>
      <string-array name="overlay_display_devices_entries">
-        <item>Нет</item>
-        <item>720x480</item>
-        <item>1280x720</item>
-        <item>1920x1080</item>
-        <item>1280x720 и 1920x1080</item>
+        <item>Нет данных</item>
+        <item>720 x 480 пикс. (mdpi)</item>
+        <item>720 x 480 (mdpi, безопасный)</item>
+        <item>1280 x 720 (tvdpi)</item>
+        <item>1280 x 720 (tvdpi, безопасный)</item>
+        <item>1920 x 1080 (xhdpi)</item>
+        <item>1920 x 1080 (xhdpi, безопасный)</item>
+        <item>1280 x 720 (tvdpi)/1920 x 1080 (xhdpi)</item>
+     </string-array>
+	 <string-array name="perm_disable_keyguard_action">
+        <item>Разрешить</item>
+        <item>Отклонить</item>
      </string-array>
      <string-array name="perm_hips_action">
         <item>Разрешить</item>
