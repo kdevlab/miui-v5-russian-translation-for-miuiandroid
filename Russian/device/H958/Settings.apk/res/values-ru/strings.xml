@@ -50,7 +50,7 @@
      <string name="accessibility_toggle_large_text_title">Большой текст</string>
      <string name="account_settings">Аккаунты</string>
      <string name="account_sync_settings_title">Синхронизация</string>
-     <string name="activating">Активация...</string>
+     <string name="activating">Активация…</string>
      <string name="active_device_admin_msg">Администратор устройства</string>
      <string name="active_input_method_subtypes">Активные способы ввода</string>
      <string name="activity_picker_label">Выбор действия</string>
@@ -170,7 +170,7 @@
      <string name="backup_pw_set_button_text">Сохранить пароль</string>
      <string name="backup_section_title">Бэкап и восстановление</string>
      <string name="band_mode_failed">Сбой</string>
-     <string name="band_mode_loading">Загрузка списка частот...</string>
+     <string name="band_mode_loading">Загрузка списка частот…</string>
      <string name="band_mode_set">Настроить</string>
      <string name="band_mode_succeeded">Успешно</string>
      <string name="band_mode_title">Настроить частоту GSM/UMTS</string>
@@ -260,12 +260,12 @@
      <string name="bluetooth_ask_lasting_discovery">Одному из приложений нужно, чтобы ваш телефон был доступен для поиска на других устройствах. Включить Bluetooth?</string>
      <string name="bluetooth_auto_connect">Автоматическое подключение</string>
      <string name="bluetooth_confirm_passkey_msg">Для подключения к устройству&lt;br>&lt;b>%1$s&lt;/b>&lt;br>&lt;br>на нем должен отображаться этот код доступа:&lt;br>&lt;b>%2$s</string>
-     <string name="bluetooth_connect_specific_profiles_title">Подключить к...</string>
+     <string name="bluetooth_connect_specific_profiles_title">Подключить к…</string>
      <string name="bluetooth_connected">Подключено</string>
      <string name="bluetooth_connected_no_a2dp">Подключено (кроме A2DP)</string>
      <string name="bluetooth_connected_no_headset">Подключено (кроме HSP/HFP)</string>
      <string name="bluetooth_connected_no_headset_no_a2dp">Подключено (кроме HSP/HFP/A2DP)</string>
-     <string name="bluetooth_connecting">Подключение...</string>
+     <string name="bluetooth_connecting">Подключение…</string>
      <string name="bluetooth_connecting_error_message">Возникла неполадка при подключении к %1$s.</string>
      <string name="bluetooth_connection_dialog_text">Подключиться к устройству \"%1$s\"?</string>
      <string name="bluetooth_connection_notif_message">Нажмите, чтобы подключиться к устройству \"%1$s\".</string>
@@ -297,7 +297,7 @@
      <string name="bluetooth_disconnect_pan_user_profile">Доступ в Интернет через устройство %1$s будет отключен.</string>
      <string name="bluetooth_disconnect_title">Отключиться?</string>
      <string name="bluetooth_disconnected">Отключено</string>
-     <string name="bluetooth_disconnecting">Отключение...</string>
+     <string name="bluetooth_disconnecting">Отключение…</string>
      <string name="bluetooth_display_passkey_pin_msg">Для подключения к устройству &lt;br>&lt;b>%1$s&lt;/b>&lt;br>&lt;br> введите на нем код &lt;br>&lt;b>%2$s&lt;/b>, а затем нажмите клавишу Return или Enter.</string>
      <string name="bluetooth_dock_settings">Настройки док-станции</string>
      <string name="bluetooth_dock_settings_a2dp">Для музыки и мультимедиа</string>
@@ -350,7 +350,7 @@
      <string name="bluetooth_opp_profile_summary_connected">Установлено подключение к серверу передачи файлов</string>
      <string name="bluetooth_opp_profile_summary_not_connected">Нет подключения к серверу передачи файлов</string>
      <string name="bluetooth_opp_profile_summary_use_for">Используется для передачи файлов</string>
-     <string name="bluetooth_pairing">Сопряжение...</string>
+     <string name="bluetooth_pairing">Сопряжение…</string>
      <string name="bluetooth_pairing_accept">Сопряжение</string>
      <string name="bluetooth_pairing_decline">Отмена</string>
      <string name="bluetooth_pairing_device_down_error_message">Не удается установить соединение с устройством \"%1$s\".</string>
@@ -392,7 +392,7 @@
      <string name="bluetooth_sap_request">SAP запрос</string>
      <string name="bluetooth_scan_for_devices">Поиск устройств</string>
      <string name="bluetooth_search_for_devices">Поиск устройств</string>
-     <string name="bluetooth_searching_for_devices">Поиск...</string>
+     <string name="bluetooth_searching_for_devices">Поиск…</string>
      <string name="bluetooth_settings_summary">Настройка подключений, видимости и имени устройства</string>
      <string name="bluetooth_show_received_files">Полученные файлы</string>
      <string name="bluetooth_tether_checkbox_text">Bluetooth-модем</string>
@@ -402,8 +402,8 @@
      <string name="bluetooth_tethering_errored_subtext">Отсутствует подключение</string>
      <string name="bluetooth_tethering_off_subtext">Не делится Интернет-соединением этого телефона</string>
      <string name="bluetooth_tethering_overflow_error">Макс. число подключаемых устройств: %1$d</string>
-     <string name="bluetooth_turning_off">Отключение Bluetooth...</string>
-     <string name="bluetooth_turning_on">Включение Bluetooth...</string>
+     <string name="bluetooth_turning_off">Отключение Bluetooth…</string>
+     <string name="bluetooth_turning_on">Включение Bluetooth…</string>
      <string name="bluetooth_untether_blank">Подключение к %1$s будет прервано.</string>
      <string name="bluetooth_visibility">Видимость</string>
      <string name="bluetooth_visibility_timeout">Тайм-аут видимости</string>
@@ -1016,7 +1016,7 @@
      <string name="master_clear_desc_erase_external_storage">"
 
 Чтобы удалить музыку, фотографии и другие пользовательские данные, необходимо очистить SD-карту."</string>
-     <string name="master_clear_erase_application_progress">Удаление приложений в процессе...</string>
+     <string name="master_clear_erase_application_progress">Удаление приложений в процессе…</string>
      <string name="master_clear_failed">Сброс не выполнен, поскольку служба System Clear недоступна.</string>
      <string name="master_clear_final_button_text">Стереть все</string>
      <string name="master_clear_final_desc">Удалить всю личную информацию и загруженные приложения без возможности восстановления?</string>
@@ -1129,7 +1129,7 @@
      <string name="perm_app_name">Разрешения</string>
      <string name="perm_auto_start">Управление автозапуском приложений</string>
      <string name="perm_auto_start_desc">Включить или отключить функцию автозапуска приложений</string>
-     <string name="perm_canceling">Отмена...</string>
+     <string name="perm_canceling">Отмена…</string>
      <string name="perm_check">Проверить</string>
      <string name="perm_clean">Очистить</string>
      <string name="perm_configuration">Параметры</string>
@@ -1226,13 +1226,13 @@
      <string name="perm_hips_wifi_network_desc">Wi-Fi сеть</string>
      <string name="perm_hips_wifi_network_hint">%1$s программы имеют доступ в Интернет через Wi-Fi сеть</string>
      <string name="perm_invalid_input">Неверный ввод</string>
-     <string name="perm_loading">Загрузка...</string>
+     <string name="perm_loading">Загрузка…</string>
      <string name="perm_log">Журналы</string>
      <string name="perm_log_clear_content">Все журналы будут удалены. Продолжить?</string>
      <string name="perm_log_clear_title">Очистить журналы</string>
      <string name="perm_monitored_app">Мониторинг приложений (%1$d)</string>
      <string name="perm_notice">Оповещение безопасности</string>
-     <string name="perm_operating">Обработка...</string>
+     <string name="perm_operating">Обработка…</string>
      <string name="perm_optimize">Оптимизировать</string>
      <string name="perm_privacy_app_count">%1$d разрешений</string>
      <string name="perm_privacy_app_finish">Завершить</string>
@@ -1421,7 +1421,7 @@
      <string name="recognizer_settings_summary">Настройки для %s</string>
      <string name="recognizer_settings_title">Голосовой поиск</string>
      <string name="recognizer_title">Распознавание голоса</string>
-     <string name="recompute_size">Повторное вычисление размера...</string>
+     <string name="recompute_size">Повторное вычисление размера…</string>
      <string name="remove_account_failed">Аккаунт необходим для доступа к некоторым приложениям. Чтобы удалить его, нужно восстановить на устройстве настройки по умолчанию (в результате все личные данные будут удалены). Это можно сделать в разделе \"Настройки > \"Резервное копирование и сброс\".</string>
      <string name="remove_account_label">Удалить аккаунт</string>
      <string name="remove_device_admin">Отключить</string>
@@ -1507,7 +1507,7 @@
      <string name="sdcard_settings_mass_storage_status">USB накопитель используется как память</string>
      <string name="sdcard_settings_not_present_status">USB накопитель не примонтирован</string>
      <string name="sdcard_settings_read_only_status">USB накопитель смонтирован только для чтения</string>
-     <string name="sdcard_settings_scanning_status">Поиск мультимедиа на SD-карте...</string>
+     <string name="sdcard_settings_scanning_status">Поиск мультимедиа на SD-карте…</string>
      <string name="sdcard_settings_screen_mass_storage_text">Включить USB накопитель</string>
      <string name="sdcard_settings_total_bytes_label">Всего байт:</string>
      <string name="sdcard_settings_unmounted_status">Теперь можно извлечь SD-карту</string>
@@ -1566,7 +1566,7 @@
      <string name="service_started_by_app">Запущено приложением.</string>
      <string name="service_stop">Остановить</string>
      <string name="service_stop_description">Эта служба была запущена соответствующим приложением, в котором может произойти сбой, если ее остановить.</string>
-     <string name="set_data_subscription_progress">Установка оператора передачи данных...</string>
+     <string name="set_data_subscription_progress">Установка оператора передачи данных…</string>
      <string name="set_dds_error">Ошибка при установке оператора передачи данных.</string>
      <string name="set_dds_failed">Ошибка при установке оператора передачи данных. Сбросить все подключения и попробовать снова?</string>
      <string name="set_dds_success">Оператор передачи данных успешно установлен</string>
@@ -1916,16 +1916,16 @@
      <string name="virus_scan_app_no_risk">Угроз не найдено</string>
      <string name="virus_scan_app_passed">Сканирование завершено</string>
      <string name="virus_scan_app_risk">Найденые угрозы</string>
-     <string name="virus_scan_app_safe_scanning">Сканирование...</string>
+     <string name="virus_scan_app_safe_scanning">Сканирование…</string>
      <string name="virus_scan_app_scan_finish">Сканирование завершено</string>
-     <string name="virus_scan_app_scanning">Сканирование...</string>
+     <string name="virus_scan_app_scanning">Сканирование…</string>
      <string name="virus_scan_app_stop_scan">Остановить сканирование</string>
      <string name="virus_scan_app_uninstall">Пакетное удаление (%d)</string>
-     <string name="virus_scan_app_waiting">Подождите...</string>
+     <string name="virus_scan_app_waiting">Подождите…</string>
      <string name="virus_scanner_auto_update">Автообновление</string>
      <string name="virus_scanner_lib_already_latest">Вирусная база уже обновлена</string>
      <string name="virus_scanner_lib_update_failed">Ошибка обновления</string>
-     <string name="virus_scanner_lib_updating">Обновление...</string>
+     <string name="virus_scanner_lib_updating">Обновление…</string>
      <string name="virus_scanner_manual_update">Обновление на %s</string>
      <string name="virus_scanner_provider">Разработано %s</string>
      <string name="virus_scanner_scan">Сканировать</string>
@@ -2115,7 +2115,7 @@
      <string name="wifi_setup_description_connected">"Нажмите Далее для продолжения установки.
 
 Нажмите Назад для подключения к другой сети Wi-Fi."</string>
-     <string name="wifi_setup_description_connecting">Подключение может занять несколько минут...</string>
+     <string name="wifi_setup_description_connecting">Подключение может занять несколько минут…</string>
      <string name="wifi_setup_detail">Сведения о сети</string>
      <string name="wifi_setup_eap_not_supported">Во время установки нельзя настроить подключение к сети Wi-Fi с защитой EAP. Вы можете сделать это позже в меню \"Настройки > Беспроводные сети\"</string>
      <string name="wifi_setup_forget">Не подключаться</string>
@@ -2124,13 +2124,13 @@
      <string name="wifi_setup_refresh_list">Обновить список</string>
      <string name="wifi_setup_save">Сохранить</string>
      <string name="wifi_setup_skip">Пропустить</string>
-     <string name="wifi_setup_status_connecting">Подключение...</string>
+     <string name="wifi_setup_status_connecting">Подключение…</string>
      <string name="wifi_setup_status_eap_not_supported">EAP не поддерживается.</string>
      <string name="wifi_setup_status_edit_network">Укажите конфигурацию сети</string>
      <string name="wifi_setup_status_existing_network">Подключиться к существующей сети</string>
      <string name="wifi_setup_status_new_network">Подключиться к новой сети</string>
      <string name="wifi_setup_status_proceed_to_next">Далее</string>
-     <string name="wifi_setup_status_scanning">Поиск доступных сетей...</string>
+     <string name="wifi_setup_status_scanning">Поиск доступных сетей…</string>
      <string name="wifi_setup_status_select_network">Чтобы подключиться, нажмите на сеть</string>
      <string name="wifi_setup_status_unsecured_network">Подключение к незащищенной сети</string>
      <string name="wifi_setup_title">Настройки Wi-Fi</string>
@@ -2145,7 +2145,7 @@
      <string name="wifi_signal">Уровень сигнала</string>
      <string name="wifi_speed">Скорость связи</string>
      <string name="wifi_ssid">Имя (SSID)</string>
-     <string name="wifi_starting">Включение Wi-Fi...</string>
+     <string name="wifi_starting">Включение Wi-Fi…</string>
      <string name="wifi_state_disabled">Отключено</string>
      <string name="wifi_state_disabling">Выключение</string>
      <string name="wifi_state_enabled">Включен</string>
@@ -2154,7 +2154,7 @@
      <string name="wifi_state_unknown">Неизвестно</string>
      <string name="wifi_status">Статус</string>
      <string name="wifi_status_test">Статус Wi-Fi</string>
-     <string name="wifi_stopping">Выключение Wi-Fi...</string>
+     <string name="wifi_stopping">Выключение Wi-Fi…</string>
      <string name="wifi_tether_checkbox_text">Точка доступа Wi-Fi</string>
      <string name="wifi_tether_configure_ap_text">Настроить точку доступа Wi-Fi</string>
      <string name="wifi_tether_configure_ssid_default">Хот-спот Android</string>
@@ -2197,7 +2197,7 @@
      <string name="wifi_wps_onstart_pbc">Нажмите кнопку защищенного Wi-Fi на вашем роутере. Она может быть названа \"WPS\" или содержать этот символ:</string>
      <string name="wifi_wps_onstart_pin">Введите ПИН-код: %1$s в вашем Wi-Fi роутере. Настройка может занять до двух минут</string>
      <string name="wifi_wps_overlap_error">Обнаружен другой защищенный сеанс Wi-Fi. Повторите попытку позже</string>
-     <string name="wifi_wps_setup_msg">Включение WPS...</string>
+     <string name="wifi_wps_setup_msg">Включение WPS…</string>
      <string name="wifi_wps_setup_title">Настройка WPS</string>
      <string name="wimax_settings">Настройки 4G</string>
      <string name="wimax_settings_summary">Подключение и настройка сети и модема 4G</string>

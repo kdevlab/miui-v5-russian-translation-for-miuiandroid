@@ -9,7 +9,7 @@
 contacts, photos, etc"</string>
      <string name="account_hint_text">Email/Phone number</string>
      <string name="account_name">Account: %1$s</string>
-     <string name="activating">Activating...</string>
+     <string name="activating">Activating…</string>
      <string name="alert_title_remove_account">Delete account</string>
      <string name="app_name">Xiaomi SDK</string>
      <string name="bad_authentication">Authentication failed. Invalid username or password.</string>
@@ -67,7 +67,7 @@ contacts, photos, etc"</string>
      <string name="button_recharge">Top up</string>
      <string name="button_recharge_pay">Confirm</string>
      <string name="button_retry">Retry</string>
-     <string name="checking_account">Verifying account...</string>
+     <string name="checking_account">Verifying account…</string>
      <string name="completed">Finish</string>
      <string name="confirm">Confirm</string>
      <string name="data_keep_in_phone">Keep on my device</string>
@@ -103,7 +103,7 @@ Please contact Xiaomi customer service."</string>
      <string name="error_sim_not_ready">SIM not ready</string>
      <string name="error_too_frequent_visits_summary">"Number of account action exceeded.
 Wait five minutes and try again."</string>
-     <string name="error_too_frequent_visits_title">Whoa... slow down there</string>
+     <string name="error_too_frequent_visits_title">Whoa… slow down there</string>
      <string name="error_unknown">Unknown error: %1$s</string>
      <string name="error_user_id_mismatch_summary">Please check and re-login your account</string>
      <string name="error_user_id_mismatch_title">Account error</string>
@@ -158,8 +158,8 @@ Wait five minutes and try again."</string>
      <string name="hfb_pay_by_phone_hint">中国移动手机号码</string>
      <string name="hfb_retry_receive">重新接收</string>
      <string name="hfb_return">返 回</string>
-     <string name="hfb_sms1_progress_label">正在以短信提交订单，请稍候...</string>
-     <string name="hfb_sms2_progress_label">正在以短信形式确认支付，请稍候...</string>
+     <string name="hfb_sms1_progress_label">正在以短信提交订单，请稍候…</string>
+     <string name="hfb_sms2_progress_label">正在以短信形式确认支付，请稍候…</string>
      <string name="hfb_sms_error">短信发送失败！</string>
      <string name="hfb_sms_pay">特别提示：点击“确认支付”即同意向10658008发送短信以完成支付；费用由本机话费扣除。</string>
      <string name="hfb_succ_label">购买成功</string>
@@ -168,7 +168,7 @@ Wait five minutes and try again."</string>
 客服电话：%3$s"</string>
      <string name="hfb_tariff">资费说明</string>
      <string name="hfb_trans_error_label">未查到支付结果，请保持网络通畅</string>
-     <string name="hfb_trans_result_progress_label">正在查询支付结果...</string>
+     <string name="hfb_trans_result_progress_label">正在查询支付结果…</string>
      <string name="hfb_umpay_info">* 10658008是中国移动通信账户支付专用短信特服号码</string>
      <string name="hfb_upgrade_download_fail">新版本下载失败，请稍后再试.</string>
      <string name="hfb_upgrade_download_sucess">新版本下载成功,开始安装.</string>
@@ -312,7 +312,7 @@ Wait five minutes and try again."</string>
      <string name="linkpay_zhifubao">支付宝</string>
      <string name="login">Sign in</string>
      <string name="login_failed">Sign in failed</string>
-     <string name="login_notice">Signing in...</string>
+     <string name="login_notice">Signing in…</string>
      <string name="memu_refresh">Обновить</string>
      <string name="mibi_license_message">Touch OK if you agree to the terms and conditions described in the %1$s.</string>
      <string name="mibi_license_message_span">MiCredit User Agreement</string>
@@ -325,7 +325,7 @@ Wait five minutes and try again."</string>
      <string name="micloud_active_email_sent_2" />
      <string name="micloud_active_email_visit">Visit %s</string>
      <string name="micloud_active_sms_status_wait">Please wait a minute…</string>
-     <string name="micloud_activing_account">Activating your account, waiting...</string>
+     <string name="micloud_activing_account">Activating your account, waiting…</string>
      <string name="micloud_click_email">Click the link in the email to activate your Xiaomi Account</string>
      <string name="micloud_click_email_to_valid">Click the activation link in your inbox</string>
      <string name="micloud_confirm_logout_account">Are your sure to logout account ?</string>

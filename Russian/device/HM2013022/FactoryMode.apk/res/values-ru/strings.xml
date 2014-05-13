@@ -50,14 +50,14 @@
      <string name="btn_yes">Да</string>
      <string name="buletooth_test_close">Bluetooth выключен</string>
      <string name="buletooth_test_closed">Bluetooth выключен</string>
-     <string name="buletooth_test_closing">Выключение Bluetooth......</string>
+     <string name="buletooth_test_closing">Выключение Bluetooth…</string>
      <string name="buletooth_test_devicelist">Поиск устройств: всего</string>
      <string name="buletooth_test_devicelist_end">Конец</string>
      <string name="buletooth_test_open">Включите Bluetooth</string>
      <string name="buletooth_test_opened">Bluetooth включен</string>
-     <string name="buletooth_test_opening">Включение Bluetooth......</string>
+     <string name="buletooth_test_opening">Включение Bluetooth…</string>
      <string name="buletooth_test_searchfinish">Поиск завершен</string>
-     <string name="buletooth_test_searching">Поиск......</string>
+     <string name="buletooth_test_searching">Поиск…</string>
      <string name="buletooth_test_startsearch">Начать поиск</string>
      <string name="buletooth_test_stopsearch">Остановить поиск</string>
      <string name="cal_status">Статус калибровки:</string>
@@ -97,7 +97,7 @@
      <string name="flashlight">Вспышка</string>
      <string name="flashlight_not_exist">Вспышка не существует, никаких тестов</string>
      <string name="flashlight_testting">Тест вспышки</string>
-     <string name="flashlight_testting_2">Вспышка работает...</string>
+     <string name="flashlight_testting_2">Вспышка работает…</string>
      <string name="front_Camera">Передняя камера</string>
      <string name="front_Camera_not_exist">Перед камерой ничего нет, тестирование прервано</string>
      <string name="front_camera_info">Передняя камера</string>

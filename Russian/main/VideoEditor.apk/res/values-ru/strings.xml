@@ -40,7 +40,7 @@
      <string name="editor_import_image">Импортировать изображение</string>
      <string name="editor_import_video">Импортировать видеоклип</string>
      <string name="editor_load_error">Произошла ошибка. Не удается загрузить проект. Удалить этот проект?</string>
-     <string name="editor_loading_project">Загрузка проекта...</string>
+     <string name="editor_loading_project">Загрузка проекта…</string>
      <string name="editor_media_load_error">Невозможно загрузить файл.</string>
      <string name="editor_move_media_item_error">Невозможно переместить этот элемент.</string>
      <string name="editor_mute">Без звука</string>

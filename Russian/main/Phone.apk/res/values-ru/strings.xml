@@ -1366,7 +1366,7 @@
      <string name="t9_indexing_method_pinyin">Алфавитный</string>
      <string name="t9_indexing_method_title_miui">Поиск T9</string>
      <string name="t9_indexing_method_zhuyin">Китайский</string>
-     <string name="t9_indexing_rebuilding_message">Обновление базы данных T9, пожалуйста, подождите...</string>
+     <string name="t9_indexing_rebuilding_message">Обновление базы данных T9, пожалуйста, подождите…</string>
      <string name="technology_news_disable">Новости технологий отключены</string>
      <string name="technology_news_enable">Новости технологий включены</string>
      <string name="telocation_setting_miui">Настройки местоположения</string>
@@ -1382,7 +1382,7 @@
      <string name="throttle_data_usage">Передача данных</string>
      <string name="throttle_data_usage_subtext">%1$s (%2$d٪) из %3$s (максимум)</string>
      <string name="throttle_help">Подробнее</string>
-     <string name="throttle_help_subtext">Подробнее о политике передачи данных вашего оператора мобильной связи...</string>
+     <string name="throttle_help_subtext">Подробнее о политике передачи данных вашего оператора мобильной связи…</string>
      <string name="throttle_rate">Скорость передачи данных</string>
      <string name="throttle_rate_subtext">Превышение лимита снижает скорость передачи данных до %1$d кбит/с</string>
      <string name="throttle_status_subtext">"%1$s (%2$d٪) из %3$s (максимум)
@@ -1410,7 +1410,7 @@
      <string name="unknown_num">Неизвестный номер</string>
      <string name="unlock_failed">Запрос на разблокировку сети не выполнен</string>
      <string name="unlock_success">Разблокировка сети успешно завершена</string>
-     <string name="updating_fdn_contact">Выполняется обновление номера ограниченного набора...</string>
+     <string name="updating_fdn_contact">Выполняется обновление номера ограниченного набора…</string>
      <string name="updating_settings">Обновление настроек…</string>
      <string name="updating_title">Настройки вызовов</string>
      <string name="upgrade_vt_prompt">Would you like to upgrade the call to video call?</string>

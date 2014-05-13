@@ -9,7 +9,7 @@
   <string name="Add_Me_Helptext">Создание композиции путем сочетания фотографии людей с фоном</string>
   <string name="CONTRAST">Контраст</string>
   <string name="CS_PROGRESS_NUMBER">0/9</string>
-  <string name="CS_PROGRESS_TEXT">Создание изображения. Пожалуйста, подождите...</string>
+  <string name="CS_PROGRESS_TEXT">Создание изображения. Пожалуйста, подождите…</string>
   <string name="Cartoon_Helptext">Преобразовать фото в мультипликацию</string>
   <string name="Dialog_No">Нет</string>
   <string name="Dialog_Yes">Да</string>
@@ -240,7 +240,7 @@
   <string name="low_batt_msg">Аккумулятор разряжен</string>
   <string name="low_database_storage_view_text">Место хранения данных почти полное</string>
   <string name="low_temp_msg">Невозможно использовать вспышку при низкой температуре</string>
-  <string name="media_scanner_running">Сканирование библиотеки...</string>
+  <string name="media_scanner_running">Сканирование библиотеки…</string>
   <string name="media_server_died_msg">Произошла ошибка сервера. Перезагрузите камеру</string>
   <string name="message_enable_GPS">Включите GPS в настройках, для использования геотегов</string>
   <string name="message_size_limited">Размер сообщения достиг лимита</string>
@@ -264,10 +264,10 @@ Direct connected"</string>
   <string name="pcType">ПК</string>
   <string name="plugged_low_batt_msg">Невозможно использовать вспышку. Аккумулятор разряжен</string>
   <string name="preview_file_received_title">Предпросмотр полученного файла</string>
-  <string name="processing_msg">Обработка...</string>
+  <string name="processing_msg">Обработка…</string>
   <string name="profile_user_default_name">Неизвестный</string>
   <string name="recording_failed_msg">Сбой записи</string>
-  <string name="savingImage">Сохранение...</string>
+  <string name="savingImage">Сохранение…</string>
   <string name="sendImage">Отправить фото через</string>
   <string name="sendVideo">Отправить видео через</string>
   <string name="setImage">Установить как</string>
@@ -285,8 +285,8 @@ Direct connected"</string>
   <string name="user_profile_title">Профиль пользователя</string>
   <string name="video_play">Воспроизвести</string>
   <string name="video_reach_size_limit">Достигнут максимальный размер записи</string>
-  <string name="wait">Пожалуйста, подождите...</string>
-  <string name="wallpaper">Установка обоев. Подождите...</string>
+  <string name="wait">Пожалуйста, подождите…</string>
+  <string name="wallpaper">Установка обоев. Подождите…</string>
   <string name="warning_msg">Предупреждение</string>
   <string name="wifi_dialog_no">Отмена</string>
   <string name="wifi_dialog_text">Необходимо Wi-Fi соединение</string>

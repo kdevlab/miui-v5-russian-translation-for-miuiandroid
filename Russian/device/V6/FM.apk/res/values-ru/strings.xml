@@ -20,14 +20,14 @@
      <string name="FMR_RDS_PS_text">PS:</string>
      <string name="FMR_RDS_RT">None.</string>
      <string name="FMR_RDS_RT_text">RT:</string>
-     <string name="FMR_RDS_Ratio">detecting...</string>
+     <string name="FMR_RDS_Ratio">detecting…</string>
      <string name="FMR_RDS_Ratio_text">Ratio:</string>
      <string name="FMR_RDS_text">RDS</string>
-     <string name="FMR_Status_Caparray">detecting...</string>
+     <string name="FMR_Status_Caparray">detecting…</string>
      <string name="FMR_Status_Caparray_text">CapArray(pF):</string>
-     <string name="FMR_Status_RSSI">detecting...</string>
+     <string name="FMR_Status_RSSI">detecting…</string>
      <string name="FMR_Status_RSSI_text">RSSI(dBm):</string>
-     <string name="FMR_Status_Stereomono">detecting...</string>
+     <string name="FMR_Status_Stereomono">detecting…</string>
      <string name="FMR_Status_Stereomono_text">Stereo/Mono:</string>
      <string name="FMR_Status_text">Status</string>
      <string name="FMR_Stereomono_mono">Mono</string>
@@ -57,7 +57,7 @@
      <string name="dlg_delete_confirm_title">Подтвердите удаление из любимых</string>
      <string name="dlg_delete_confirm_title1">Подтвердите удаление из предустановленных</string>
      <string name="dlg_noantenna_title">Подключите наушники</string>
-     <string name="dlg_progress_text">Поиск радиостанций...</string>
+     <string name="dlg_progress_text">Поиск радиостанций…</string>
      <string name="dlg_progress_title">Поиск</string>
      <string name="dlg_rds_settings_alternative_frequency">Альтернативная частота</string>
      <string name="dlg_rds_settings_channel_information">Информация радиостанции</string>
@@ -100,5 +100,5 @@
      <string name="toast_sdcard_insufficient_space">Не хватает места на карте SD!</string>
      <string name="toast_sdcard_missing">Отсутсвует карта SD!</string>
      <string name="toast_sleep_mode">Радио будет отключено через %s</string>
-     <string name="toast_start_recording">Начинаем запись...</string>
+     <string name="toast_start_recording">Начинаем запись…</string>
 </resources>

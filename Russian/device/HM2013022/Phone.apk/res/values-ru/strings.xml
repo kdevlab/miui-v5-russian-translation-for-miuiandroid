@@ -13,7 +13,7 @@
      <string name="add_sip_account">Добавить аккаунт</string>
      <string name="add_vm_number_str">Добавить номер</string>
      <string name="add_zero_prefix">Добавить префикс 0 при наборе мобильных номеров</string>
-     <string name="adding_fdn_contact">Выполняется добавление номера ограниченного набора...</string>
+     <string name="adding_fdn_contact">Выполняется добавление номера ограниченного набора…</string>
      <string name="additional_cdma_call_settings">Дополнительные настройки вызовов CDMA</string>
      <string name="additional_gsm_call_settings">Дополнительные настройки</string>
      <string name="administrative_disable">Административные функции отключены</string>
@@ -79,7 +79,7 @@
      <string name="auto_ip_add_exception_numbers_miui">Добавить номера</string>
      <string name="auto_ip_exception_miui">Номера, которым не нужен префикс</string>
      <string name="auto_ip_exception_summary_miui">%d всего</string>
-     <string name="auto_ip_exception_summary_more_miui">,... %d всего</string>
+     <string name="auto_ip_exception_summary_more_miui">,… %d всего</string>
      <string name="auto_ip_no_exceptions_miui">Пожалуйста добавте номера которым не нужна IP приставка</string>
      <string name="auto_ip_remove_exception_numbers_confirm_miui">Вы точно хотите удалить %d номера?</string>
      <string name="auto_ip_setting_miui">Интеллектуальный IP</string>
@@ -228,7 +228,7 @@
      <string name="card_title_conf_call">Конференц-вызов</string>
      <string name="card_title_cugcall">CUG вызов</string>
      <string name="card_title_deflectedcall">Отклоненный вызовов</string>
-     <string name="card_title_dialing">Набор номера...</string>
+     <string name="card_title_dialing">Набор номера…</string>
      <string name="card_title_forwardcheckreceived">Получена проверка переадресации</string>
      <string name="card_title_forwarded_MTcall">Переадресация входящих вызовов</string>
      <string name="card_title_forwarded_incoming_call_miui">Вызов переадресован</string>
@@ -760,7 +760,7 @@ unconditional activated"</string>
      <string name="mobile_network_setting">Настройки мобильной сети</string>
      <string name="mobile_networks">Настройки сотовой сети</string>
      <string name="mobile_networks_miui">Мобильная сеть</string>
-     <string name="modem_switching">Switching SIM will take around 10 seconds to complete. Please wait...</string>
+     <string name="modem_switching">Switching SIM will take around 10 seconds to complete. Please wait…</string>
      <string name="mt_code_additional_call_forwarded">Additional incoming call forwarded</string>
      <string name="mt_code_call_connected_ect">Call transfer active</string>
      <string name="mt_code_call_connecting_ect">Call transferring</string>
@@ -1045,7 +1045,7 @@ Are you sure to allow mobile data service preferred?"</string>
      <string name="puk_requested">Неверный пароль, SIM-карта заблокирована! Введите код PUK2</string>
      <string name="puk_unlock_failed">PUK разблокировка неудалась</string>
      <string name="puk_unlock_success">PUK-код разблокировка удалась</string>
-     <string name="puk_unlocked">SIM-карта разблокирована. Осуществляется разблокировка телефона...</string>
+     <string name="puk_unlocked">SIM-карта разблокирована. Осуществляется разблокировка телефона…</string>
      <string name="radio_off_error">Чтобы увидеть эти настройки, нужно включить радио</string>
      <string name="rc_unlock_failed">Разблокировка корпоративной сети не удалась.</string>
      <string name="rc_unlock_success">Корпоративная сеть успешно разблокирована</string>
@@ -1323,7 +1323,7 @@ Are you sure to allow mobile data service preferred?"</string>
      <string name="throttle_data_usage">Передача данных</string>
      <string name="throttle_data_usage_subtext">%1$s (%2$d٪) из %3$s (максимум)</string>
      <string name="throttle_help">Подробнее</string>
-     <string name="throttle_help_subtext">Подробнее о политике передачи данных вашего оператора мобильной связи...</string>
+     <string name="throttle_help_subtext">Подробнее о политике передачи данных вашего оператора мобильной связи…</string>
      <string name="throttle_rate">Скорость передачи данных</string>
      <string name="throttle_rate_subtext">Превышение лимита снижает скорость передачи данных до %1$d кбит/с</string>
      <string name="throttle_status_subtext">"%1$s (%2$d٪) из %3$s (максимум)

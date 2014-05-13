@@ -410,7 +410,7 @@
      <string name="video_reach_size_limit">Достигнут предельный размер видео</string>
      <string name="video_snapshot_hint">Чтобы сделать снимок при видеосъёмке, нажмите на экран просмотра</string>
      <string name="videocamera_settings_label">Настройки видеокамеры</string>
-     <string name="wait">Пожалуйста, ждите...</string>
+     <string name="wait">Пожалуйста, ждите…</string>
      <string name="web_url_apk_warning">QR-код содержит приложение для загрузки, что может быть опасно. Мы рекомендуем Вам использовать маркет для поиска и установки приложений.</string>
      <string name="web_url_warning">Веб-сайт в QR-коде может быть опасен, браузер безопасно проверит его для вас. Соблюдайте осторожность.</string>
      <string name="website_details">Ссылка:</string>
@@ -419,7 +419,7 @@
      <string name="width">Ширина</string>
      <string name="wifi_connect_fail">Время подключения к Wi-Fi вышло или произошла ошибка</string>
      <string name="wifi_connect_success">Подключено к Wi-Fi</string>
-     <string name="wifi_connecting">Подключение к Wi-Fi...</string>
+     <string name="wifi_connecting">Подключение к Wi-Fi…</string>
      <string name="wifi_details">Wi-Fi:</string>
      <string name="wifi_open_fail">Не возможно открыть Wi-Fi</string>
      <string name="wifi_pwd">Пароль:</string>

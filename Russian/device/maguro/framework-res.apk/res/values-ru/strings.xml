@@ -65,9 +65,9 @@
      <string name="am">AM</string>
      <string name="android_system_label">Система Android</string>
      <string name="android_upgrading_apk">Оптимизация приложения %1$d из %2$d.</string>
-     <string name="android_upgrading_complete">Окончание загрузки...</string>
-     <string name="android_upgrading_starting_apps">Запуск приложений...</string>
-     <string name="android_upgrading_title">Обновление Android...</string>
+     <string name="android_upgrading_complete">Окончание загрузки…</string>
+     <string name="android_upgrading_starting_apps">Запуск приложений…</string>
+     <string name="android_upgrading_title">Обновление Android…</string>
      <string name="anr_activity_application">"Приложение \"%2$s\" не отвечает.
 
 Закрыть его?"</string>
@@ -221,7 +221,7 @@
      <string name="elapsed_time_short_format_h_mm_ss">%1$d:%2$02d:%3$02d</string>
      <string name="elapsed_time_short_format_mm_ss">%1$02d:%2$02d</string>
      <string name="ellipsis">…</string>
-     <string name="ellipsis_two_dots">...</string>
+     <string name="ellipsis_two_dots">…</string>
      <string name="emailTypeCustom">Создать свой ярлык</string>
      <string name="emailTypeHome">Личный</string>
      <string name="emailTypeMobile">Мобильный</string>
@@ -250,7 +250,7 @@
      <string name="extmedia_format_button_format">Формат</string>
      <string name="extmedia_format_message">Форматирование USB-накопителя безвозвратно удалит все файлы на нем! Продолжить?</string>
      <string name="extmedia_format_title">Форматирование</string>
-     <string name="extract_edit_menu_button">Изменить...</string>
+     <string name="extract_edit_menu_button">Изменить…</string>
      <string name="factorytest_failed">Не удалось провести стандартный тест</string>
      <string name="factorytest_no_action">Пакет, обеспечивающий действие FACTORY_TEST, не найден.</string>
      <string name="factorytest_not_system">Действие FACTORY_TEST поддерживается только для пакетов, установленных в /system/app.</string>
@@ -373,7 +373,7 @@
      <string name="launch_warning_replace">Приложение %1$s выполняется.</string>
      <string name="launch_warning_title">Приложение перенаправлено</string>
      <string name="list_delimeter">", "</string>
-     <string name="loading">Загрузка...</string>
+     <string name="loading">Загрузка…</string>
      <string name="locale_replacement" />
      <string name="lock_pattern_view_aspect">square</string>
      <string name="lockscreen_access_pattern_cell_added">Ячейка добавлена</string>
@@ -392,7 +392,7 @@
      <string name="lockscreen_forgot_pattern_button_text">Забыли ключ?</string>
      <string name="lockscreen_glogin_account_recovery_hint">"Забыли имя пользователя или пароль?
 Перейдите на страницу "</string>
-     <string name="lockscreen_glogin_checking_password">Проверка...</string>
+     <string name="lockscreen_glogin_checking_password">Проверка…</string>
      <string name="lockscreen_glogin_forgot_pattern">Снятие блокировки аккаунта</string>
      <string name="lockscreen_glogin_instructions">Для разблокировки войдите с помощью своего аккаунта Google</string>
      <string name="lockscreen_glogin_invalid_input">Неверное имя пользователя или пароль.</string>
@@ -949,8 +949,8 @@
      <string name="preposition_for_date">%s</string>
      <string name="preposition_for_time">в %s</string>
      <string name="preposition_for_year">в %s г.</string>
-     <string name="progress_erasing">Очистка USB-накопителя...</string>
-     <string name="progress_unmounting">Отключение USB-накопителя...</string>
+     <string name="progress_erasing">Очистка USB-накопителя…</string>
+     <string name="progress_unmounting">Отключение USB-накопителя…</string>
      <string name="radiobutton_not_selected">не выбрано</string>
      <string name="radiobutton_selected">выбрано</string>
      <string name="recent_tasks_title">Недавние</string>
@@ -1027,7 +1027,7 @@
      <string name="second">с.</string>
      <string name="seconds">с.</string>
      <string name="selectAll">Выбрать все</string>
-     <string name="selectTextMode">Выбрать текст...</string>
+     <string name="selectTextMode">Выбрать текст…</string>
      <string name="select_character">Введите символ</string>
      <string name="select_input_method">Выберите способ ввода</string>
      <string name="sendText">Выберите действие для текста</string>
@@ -1057,7 +1057,7 @@
      <string name="short_format_month">%b</string>
      <string name="shutdown_confirm">Телефон будет выключен.</string>
      <string name="shutdown_confirm_question">Завершить работу?</string>
-     <string name="shutdown_progress">Выключение...</string>
+     <string name="shutdown_progress">Выключение…</string>
      <string name="silent_mode">Режим без звука</string>
      <string name="silent_mode_ring">Звонок ВКЛ.</string>
      <string name="silent_mode_silent">Звонок ВЫКЛ.</string>

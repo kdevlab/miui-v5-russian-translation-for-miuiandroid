@@ -73,7 +73,7 @@
      <string name="force_stop_dlg_title">Закрытие приложения</string>
      <string name="i_known_button">ОК</string>
      <string name="input_hint">Пожалуйста, введите</string>
-     <string name="loading_app">Загрузка...</string>
+     <string name="loading_app">Загрузка…</string>
      <string name="manual_input_used_traffic_hint">Использовано трафика</string>
      <string name="manual_input_used_traffic_title">Введите использованный трафик</string>
      <string name="menu_display_system_app">Показать системные приложения</string>
@@ -131,7 +131,7 @@
      <string name="sync_fail_notify_title">Синхронизация не удалась</string>
      <string name="sync_traffic_fail_message">Синхронизация с оператором не удалась, сервер занят. Пожалуйста, попробуйте позже или позвоните в поддержку %s для помощи</string>
      <string name="sync_traffic_fail_title">Синхронизация не удалась</string>
-     <string name="sync_traffic_ing">Синхронизация с оператором, подождите...</string>
+     <string name="sync_traffic_ing">Синхронизация с оператором, подождите…</string>
      <string name="sync_traffic_no_cmd_detail">Укажите Ваш город, провинцию, ICC и оператора связи здесь: http://www.miui.com/forum-172-1.html. Спасибо.</string>
      <string name="sync_traffic_no_cmd_detail_custom_config">"Вы можете: 1.Параметры >> Настроить трафик >> Пользовательские настройки, или на главной странице Настроить трафик >> Пользовательские настроки; 2.Укажите Ваш город, провинцию, ICC и оператора связи здесь: http://www.miui.com/forum-172-1.html. Спасибо."</string>
      <string name="sync_traffic_no_cmd_title">Нет шаблона</string>
@@ -161,7 +161,7 @@
      <string name="update_fail">Ошибка обновления</string>
      <string name="update_no_network">Ошибка обновления. Пожалуйста, проверьте настройки сети.</string>
      <string name="update_success">Успешно обновлено</string>
-     <string name="updating">Обновление...</string>
+     <string name="updating">Обновление…</string>
      <string name="used_flux">Трафик</string>
      <string name="version_label">Версия:</string>
      <string name="warning_settings_toast">%1$d%% %2$d МБ</string>

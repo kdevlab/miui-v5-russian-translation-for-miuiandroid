@@ -9,13 +9,13 @@
      <string name="act_find_city_title">Добавить местоположение</string>
      <string name="act_set_city_delete_city">你确定要删除 %s 吗？</string>
      <string name="act_set_city_delete_title">删除位置</string>
-     <string name="act_set_city_find_side">Перепозиционирование...</string>
+     <string name="act_set_city_find_side">Перепозиционирование…</string>
      <string name="act_set_city_find_side_error">Не найдено</string>
      <string name="act_set_city_find_side_on">Включить GPS</string>
      <string name="act_set_city_title">Изменить местоположение</string>
      <string name="act_weather_cycle_add_city">保存位置</string>
      <string name="act_weather_cycle_offreport">无</string>
-     <string name="act_weather_cycle_update">Обновление...</string>
+     <string name="act_weather_cycle_update">Обновление…</string>
      <string name="act_weather_main_data_null">"Нет данных о погоде,
 нажмите для обновления"</string>
      <string name="act_weather_main_net_error">网络错误,请重试</string>

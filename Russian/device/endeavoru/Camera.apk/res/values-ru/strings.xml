@@ -72,7 +72,7 @@
   <string name="geo_tagging">Фотоснимки с геометками</string>
   <string name="geo_tagging_remind">Запись координат включена.</string>
   <string name="grid">Сетка</string>
-  <string name="group_portrait_processing_images">Определение лиц для выбора лучшей композиции снимка...</string>
+  <string name="group_portrait_processing_images">Определение лиц для выбора лучшей композиции снимка…</string>
   <string name="hint_auto_capture_no_face">Чтобы запустить таймер, нажмите кнопку съемки.</string>
   <string name="hint_auto_capture_one_face">Авт. срабатывание при наведении на лицо.</string>
   <string name="hint_auto_capture_smile_face">Наведите рамку на улывающееся лицо - снимок будет сделан автоматически</string>
@@ -126,8 +126,8 @@
   <string name="panorama_hold">Удерживать</string>
   <string name="panorama_start_panning_left_right">Для продолжения медленно потяните экран влево или вправо</string>
   <string name="panorama_start_panning_up_down">Для продолжения медленно потяните экран вверх или вниз</string>
-  <string name="panorama_stitching_error_images">Повторите ещё раз, перемещая камеру более плавно. Склеивание текущих снимков...</string>
-  <string name="panorama_stitching_images">Склеивание снимков...</string>
+  <string name="panorama_stitching_error_images">Повторите ещё раз, перемещая камеру более плавно. Склеивание текущих снимков…</string>
+  <string name="panorama_stitching_images">Склеивание снимков…</string>
   <string name="post_processing">Автоулучшение</string>
   <string name="power_warning_msg">3D-камера недоступна из-за низкого заряда аккумулятора. Зарядите телефон или переключитесь на 2D-камеру.</string>
   <string name="pref_flicker_50">50 Гц</string>
@@ -146,7 +146,7 @@
   <string name="pref_recording_limit_3min">3 мин.</string>
   <string name="pref_recording_limit_unlimited">Без ограничения</string>
   <string name="pref_review_duration_no_review">Без просмотра</string>
-  <string name="processing_image">Обработка...</string>
+  <string name="processing_image">Обработка…</string>
   <string name="quality">Качество</string>
   <string name="record_with_audio">Запись со звуком</string>
   <string name="recording_limit">Длительность записи</string>
@@ -180,7 +180,7 @@
   <string name="resolution_video_wvga_description_2">Широкоэкранное (800 x 480)</string>
   <string name="review_btn_capture">Съёмка</string>
   <string name="review_duration">Просмотр после съемки</string>
-  <string name="saving_photos">Сохранение фотографий...</string>
+  <string name="saving_photos">Сохранение фотографий…</string>
   <string name="scene">Сюжеты</string>
   <string name="scene_auto">Автовыбор</string>
   <string name="scene_backlight">Подсветка</string>

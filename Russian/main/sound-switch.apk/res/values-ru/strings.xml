@@ -89,7 +89,7 @@ Flash OTA package will not miss all data,Flash?"</string>
      <string name="ota2_title">Flash OTA Package</string>
      <string name="ota_dialog_message">"warning!!
 Flash Rom package will miss all data,Flash?"</string>
-     <string name="ota_message">Wait a moment, running...</string>
+     <string name="ota_message">Wait a moment, running…</string>
      <string name="ota_notfound_message">Not found update.zip</string>
      <string name="ota_notsupport_message">Not support Internal card flash Rom</string>
      <string name="ota_summary">Flash the SD card update.zip package</string>

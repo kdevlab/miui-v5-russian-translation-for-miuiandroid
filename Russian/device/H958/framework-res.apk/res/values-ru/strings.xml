@@ -66,9 +66,9 @@
      <string name="am">AM</string>
      <string name="android_system_label">Система Android</string>
      <string name="android_upgrading_apk">Оптимизация приложения %1$d из %2$d.</string>
-     <string name="android_upgrading_complete">Окончание загрузки...</string>
+     <string name="android_upgrading_complete">Окончание загрузки…</string>
      <string name="android_upgrading_starting_apps">Запуск приложений.</string>
-     <string name="android_upgrading_title">Обновление Android...</string>
+     <string name="android_upgrading_title">Обновление Android…</string>
      <string name="anr_activity_application">"Приложение \"%2$s\" не отвечает.
 
 Закрыть его?"</string>
@@ -134,7 +134,7 @@
      <string name="data_usage_limit_snoozed_body">Лимит превышен на %s.</string>
      <string name="data_usage_mobile_limit_snoozed_title">Превышен лимит на моб. трафик</string>
      <string name="data_usage_mobile_limit_title">Моб. Интернет отключен</string>
-     <string name="data_usage_restricted_body">Снять ограничение...</string>
+     <string name="data_usage_restricted_body">Снять ограничение…</string>
      <string name="data_usage_restricted_title">Фоновый режим ограничен</string>
      <string name="data_usage_warning_body">Проверьте трафик и настройки.</string>
      <string name="data_usage_warning_title">Осталось мало трафика</string>
@@ -216,7 +216,7 @@
      <string name="elapsed_time_short_format_h_mm_ss">%1$d:%2$02d:%3$02d</string>
      <string name="elapsed_time_short_format_mm_ss">%1$02d:%2$02d</string>
      <string name="ellipsis">…</string>
-     <string name="ellipsis_two_dots">...</string>
+     <string name="ellipsis_two_dots">…</string>
      <string name="emailTypeCustom">Создать свой ярлык</string>
      <string name="emailTypeHome">Личный</string>
      <string name="emailTypeMobile">Мобильный</string>
@@ -982,8 +982,8 @@
      <string name="preposition_for_date">%s</string>
      <string name="preposition_for_time">в %s</string>
      <string name="preposition_for_year">в %s г.</string>
-     <string name="progress_erasing">Очистка SD-карты...</string>
-     <string name="progress_unmounting">Отключение SD-карты...</string>
+     <string name="progress_erasing">Очистка SD-карты…</string>
+     <string name="progress_unmounting">Отключение SD-карты…</string>
      <string name="reboot_confirm">Телефон будет перезагружен.</string>
      <string name="reboot_confirm_question">Вы хотите перезагрузить телефон?</string>
      <string name="reboot_safemode_confirm">Перейти в безопасный режим? Все приложения сторонних поставщиков отключатся. Они будут включены по возвращении в обычный режим.</string>
@@ -1068,7 +1068,7 @@
      <string name="select_keyboard_layout_notification_message">Нажмите, чтобы выбрать раскладку клавиатуры.</string>
      <string name="select_keyboard_layout_notification_title">Выберите раскладку клавиатуры</string>
      <string name="sendText">Выберите действие для текста</string>
-     <string name="sending">Отправка...</string>
+     <string name="sending">Отправка…</string>
      <string name="serial_number">Серийный номер:</string>
      <string name="serviceClassData">Данные</string>
      <string name="serviceClassDataAsync">Асинхр.</string>
@@ -1094,7 +1094,7 @@
      <string name="short_format_month">%b</string>
      <string name="shutdown_confirm">Телефон будет выключен.</string>
      <string name="shutdown_confirm_question">Завершить работу?</string>
-     <string name="shutdown_progress">Выключение...</string>
+     <string name="shutdown_progress">Выключение…</string>
      <string name="silent_mode">Режим без звука</string>
      <string name="silent_mode_ring">Звонок включен</string>
      <string name="silent_mode_silent">Звонок отключен</string>

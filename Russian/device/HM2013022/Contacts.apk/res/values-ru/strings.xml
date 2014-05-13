@@ -141,7 +141,7 @@
      <string name="checkhint">проверить другой телефон</string>
      <string name="clearCallLogConfirmation">Журнал звонков будет очищен</string>
      <string name="clearCallLogConfirmation_title">Удаление данных</string>
-     <string name="clearCallLogProgress_title">Очистка списка вызовов...</string>
+     <string name="clearCallLogProgress_title">Очистка списка вызовов…</string>
      <string name="clearFrequentsConfirmation">Вы очистите все часто используемые контакты в приложениях Контакты и Телефон. Почтовые приложения будут собирать информацию с нуля.</string>
      <string name="clearFrequentsConfirmation_title">Очистить частые контакты?</string>
      <string name="clearFrequentsProgress_title">Очистка контактов…</string>
@@ -207,14 +207,14 @@
      <string name="delete_call_log_title">Выбрать журналы для удаления?</string>
      <string name="delete_contact_calllog_title">Удалить журнал вызовов контакта?</string>
      <string name="delete_duplicate">Объединить</string>
-     <string name="delete_duplicate_message">Объединение контактов...</string>
+     <string name="delete_duplicate_message">Объединение контактов…</string>
      <string name="delete_group_dialog_message">Удалить группу \"%1$s\"? (контакты в ней удалены не будут)</string>
      <string name="delete_group_dialog_title">Удаление группы</string>
      <string name="delete_selected_sim_entry_miui">Удалить выбранные контакты</string>
      <string name="delete_sim_entries_finish">Контакты с SIM удалены</string>
      <string name="delete_sim_entry_miui">Удалить</string>
      <string name="delete_unknown_contact_calllog_title">Удалить журнал вызовов неизвестных контактов?</string>
-     <string name="deleting">Удаление...</string>
+     <string name="deleting">Удаление…</string>
      <string name="deleting_sim_entry_miui">Удаление контактов с SIM-карты</string>
      <string name="description_add_contact">Добавить контакт</string>
      <string name="description_author">Автор:</string>
@@ -288,7 +288,7 @@
      <string name="dialerIconLabel">Телефон</string>
      <string name="dialerKeyboardHintText">Для набора используйте клавиатуру</string>
      <string name="dialer_addAnotherCall">Добавить вызов</string>
-     <string name="dialer_empty_text_loading">Загрузка...</string>
+     <string name="dialer_empty_text_loading">Загрузка…</string>
      <string name="dialer_empty_text_no_call_log">Журнал вызовов пуст</string>
      <string name="dialer_empty_text_no_search_result">Контакты не найдены</string>
      <string name="dialer_returnToInCallScreen">Вернуться к вызову</string>
@@ -306,7 +306,7 @@
      <string name="dirty_contacts_notification_message">(Вы можете отключить напоминание в настройках)</string>
      <string name="dirty_contacts_notification_title">Вы уверены, что хотите синхронизировать контакты?</string>
      <string name="display_all_contacts">Все контакты</string>
-     <string name="display_more_groups">Другие группы...</string>
+     <string name="display_more_groups">Другие группы…</string>
      <string name="display_only_phones">Только с номером телефона</string>
      <string name="display_options_sort_by_family_name">По фамилии</string>
      <string name="display_options_sort_by_given_name">По имени</string>
@@ -354,7 +354,7 @@
      <string name="export_to_sdcard">На SD-карту</string>
      <string name="export_to_sim">На SIM-карту</string>
      <string name="export_to_sim2">На SIM-карту 2</string>
-     <string name="export_to_sim_title">Экспорт на SIM-карту...</string>
+     <string name="export_to_sim_title">Экспорт на SIM-карту…</string>
      <string name="export_vcard_description">Экспортировать vCard на SD-карту</string>
      <string name="exporting_contact_failed_message">"Не удалось экспортировать данные.
 Причина: %s"</string>
@@ -406,7 +406,7 @@
      <string name="group_rename_dialog_title">Переименование группы</string>
      <string name="group_rename_fail_toast">Не удалось переименовать группу</string>
      <string name="group_rename_success_toast">Группа успешно переименована</string>
-     <string name="group_sms_progress_msg">Подготовка к групповой отправке SMS...</string>
+     <string name="group_sms_progress_msg">Подготовка к групповой отправке SMS…</string>
      <string name="groupsLabel">Группы</string>
      <string name="groups_list_empty">Нет групп</string>
      <string name="has_double_phone_number">Cannot save same type number twice, please check it.</string>
@@ -435,7 +435,7 @@
      <string name="import_sim_entry_miui">Импорт</string>
      <string name="import_to_xiaomi_account_confirm">Импорт</string>
      <string name="import_to_xiaomi_account_progress_finish">Импорт завершен</string>
-     <string name="import_to_xiaomi_account_progress_message">Импортирование...</string>
+     <string name="import_to_xiaomi_account_progress_message">Импортирование…</string>
      <string name="import_to_xiaomi_account_progress_title">Импортировать контакты в аккаунт Xiaomi</string>
      <string name="import_to_xiaomi_account_title">Вы уверены, что хотите импортировать контакты в аккаунт Xiaomi?</string>
      <string name="import_vcard_description">Импортирование контактов с SD-карты</string>
@@ -476,12 +476,12 @@
      <string name="list_filter_customize">Настроить</string>
      <string name="list_filter_phones">Все контакты с номерами телефонов</string>
      <string name="list_filter_single">Контакт</string>
-     <string name="loading">Загрузка...</string>
-     <string name="loading_group_members">Загрузка контактов...</string>
-     <string name="loading_groups">Загрузка групп...</string>
-     <string name="loading_recent">Загрузка последних контактов...</string>
+     <string name="loading">Загрузка…</string>
+     <string name="loading_group_members">Загрузка контактов…</string>
+     <string name="loading_groups">Загрузка групп…</string>
+     <string name="loading_recent">Загрузка последних контактов…</string>
      <string name="loading_resource_detail_fail">Ошибка загрузки ресурса!</string>
-     <string name="loading_resource_detail_info">Загрузка...</string>
+     <string name="loading_resource_detail_info">Загрузка…</string>
      <string name="local_invisible_directory">Другое</string>
      <string name="local_profile_title">Мой профиль</string>
      <string name="local_search_label">Все контакты</string>
@@ -664,7 +664,7 @@
      <string name="option_not_star">Убрать из избранных</string>
      <string name="option_rename_group">Переименовать</string>
      <string name="option_send_to_desktop">Отправить на рабочий стол</string>
-     <string name="option_send_to_others">Отправить...</string>
+     <string name="option_send_to_others">Отправить…</string>
      <string name="option_view_contact">Просмотр</string>
      <string name="option_view_group">Посмотреть</string>
      <string name="organizationLabelsGroup">Организация</string>
@@ -804,13 +804,13 @@
      <string name="resource_download">Скачать</string>
      <string name="resource_downloaded_title">Скачанные</string>
      <string name="resource_downloading">Скачивание</string>
-     <string name="resource_get_auth_checking">Проверка...</string>
+     <string name="resource_get_auth_checking">Проверка…</string>
      <string name="resource_get_auth_exceed_max_limit_tips">Тема не может работать на текущем устройстве с Вашего аккаунта, т.к. ограничение составляет до 10 мобильных устройств каждый год. Пожалуйста, попробуйте другие аккаунты Xiaomi.</string>
      <string name="resource_get_auth_exceed_max_limit_title">Превышен предел авторизаций</string>
      <string name="resource_get_auth_missing">Тема скачана с неофициального маркета. Пожалуйста, скачайте аналогичную тему из официального маркета.</string>
-     <string name="resource_get_auth_retrieving">Получение авторизации...</string>
+     <string name="resource_get_auth_retrieving">Получение авторизации…</string>
      <string name="resource_import_successful">Скачано.</string>
-     <string name="resource_importing">Импорт...</string>
+     <string name="resource_importing">Импорт…</string>
      <string name="resource_list_title">Последние</string>
      <string name="resource_local">Локальные %1$s</string>
      <string name="resource_mute">Без звука</string>
@@ -833,22 +833,22 @@
      <string name="restore_nickname">Восстановить</string>
      <string name="returnCall">Обратный вызов</string>
      <string name="ringLabelsGroup">Мелодия</string>
-     <string name="save_photo_progress">Сохранение фотографии...</string>
-     <string name="savingContact">Контакт сохраняется...</string>
-     <string name="savingDisplayGroups">Варианты отображения сохраняются...</string>
+     <string name="save_photo_progress">Сохранение фотографии…</string>
+     <string name="savingContact">Контакт сохраняется…</string>
+     <string name="savingDisplayGroups">Варианты отображения сохраняются…</string>
      <string name="scan">сканировать устройство</string>
      <string name="scan_duplicate_message">Контакты с полным дублированием данных (%1$d)</string>
-     <string name="scan_merge">Поиск возможных дубликатов контактов. Пожалуйста, подождите...</string>
-     <string name="scanning">поиск устройств...</string>
+     <string name="scan_merge">Поиск возможных дубликатов контактов. Пожалуйста, подождите…</string>
+     <string name="scanning">поиск устройств…</string>
      <string name="scanning_sdcard_failed_message">Не удалось просканировать SD-карту. Причина: %s.</string>
      <string name="scanning_sdcard_failed_title">SD-карта не просканирована</string>
      <string name="sdcard_status_changed_dialog_message">"Требуется выход.
 Пожалуйста, откройте это приложение еще раз, для обновления ресурсов."</string>
      <string name="sdcard_status_changed_dialog_title">Изменился статус SD-карты</string>
      <string name="searchHint">Поиск контактов</string>
-     <string name="search_results_searching">Поиск...</string>
+     <string name="search_results_searching">Поиск…</string>
      <string name="search_settings_description">Имена контактов</string>
-     <string name="searching_vcard_message">Поиск данных vCard на SD-карте...</string>
+     <string name="searching_vcard_message">Поиск данных vCard на SD-карте…</string>
      <string name="select_all">Выбрать все</string>
      <string name="select_device">выберите устройство для подключения</string>
      <string name="select_new_photo_from_photo_package">Выбрать из фото пакета</string>
@@ -883,7 +883,7 @@
      <string name="sim_contact_dropdown_menu_select_all_miui">Выбрать все</string>
      <string name="sim_contact_search_error">Произошла ошибка при поиске контактов с SIM-карты</string>
      <string name="sim_contacts">Контакты на SIM-карте</string>
-     <string name="sim_export_loading">SIM-карта считывается. Операция может занять несколько минут, пожалуйста, подождите...</string>
+     <string name="sim_export_loading">SIM-карта считывается. Операция может занять несколько минут, пожалуйста, подождите…</string>
      <string name="sim_indexed_contact_not_exist">Позиция %1$d не является допустимой на SIM-карте, должна быть между %2$d и %3$d</string>
      <string name="sim_invalid">Cannot save contact when SIM card is invalid.</string>
      <string name="sim_invalid_fix_number">Cannot save invalid fix number.</string>
@@ -898,7 +898,7 @@
      <string name="smart_group_frequency_4">Не было контакта в течение более 6 месяцев</string>
      <string name="smart_group_frequency_label">По последним вызовам</string>
      <string name="smart_group_label">Смарт-группировка</string>
-     <string name="smart_group_loading">Загрузка групп...</string>
+     <string name="smart_group_loading">Загрузка групп…</string>
      <string name="smart_group_location_label">По месторасположению</string>
      <string name="smart_group_location_unavailable">Другие</string>
      <string name="sms">Текстовое сообщение</string>
@@ -951,7 +951,7 @@
      <string name="toast_for_failed_saving_nickname">Не удалось сохранить изменения</string>
      <string name="toast_for_saving_nickname">Изменения сохранены</string>
      <string name="toast_join_with_empty_contact">Укажите имя контакта, который хотите объединить</string>
-     <string name="toast_making_personal_copy">Копирование...</string>
+     <string name="toast_making_personal_copy">Копирование…</string>
      <string name="toast_text_copied">Текст скопирован</string>
      <string name="today">Сегодня</string>
      <string name="type_incoming">Входящий вызов</string>
@@ -960,7 +960,7 @@
      <string name="type_voicemail">Голосовая почта</string>
      <string name="unknown">Неизвестно</string>
      <string name="unknown_contact_name">Неизвестный номер</string>
-     <string name="upgrade_in_progress">Список контактов обновляется...</string>
+     <string name="upgrade_in_progress">Список контактов обновляется…</string>
      <string name="upgrade_out_of_memory">"Контакты находятся в процессе обновления.
 
 Процесс обновления требует около %s МБ памяти.
@@ -972,7 +972,7 @@
      <string name="use_photo_as_primary2">Использовать как фото контакта из %s</string>
      <string name="user_profile_contacts_list_header">Я</string>
      <string name="vcard_export_request_rejected_message">Запрос на экспорт данных vCard отклонен. Повторите попытку позже.</string>
-     <string name="vcard_export_will_start_message">Экспорт файла %s...</string>
+     <string name="vcard_export_will_start_message">Экспорт файла %s…</string>
      <string name="vcard_import_failed">Не удалось импортировать данные vCard</string>
      <string name="vcard_import_request_rejected_message">Импорт vCard отменен.</string>
      <string name="vcard_import_will_start_message">Импорт %s начнется в ближайшее время</string>
@@ -983,8 +983,8 @@
      <string name="viewContactTitle">Сведения о контакте</string>
      <string name="view_updates_from_group">Обновления</string>
      <string name="voicemail">Голосовая почта</string>
-     <string name="voicemail_buffering">Буферизация...</string>
-     <string name="voicemail_fetching_content">Получение голосовой почты...</string>
+     <string name="voicemail_buffering">Буферизация…</string>
+     <string name="voicemail_fetching_content">Получение голосовой почты…</string>
      <string name="voicemail_fetching_timout">Не удалось получить голосовую почту</string>
      <string name="voicemail_playback_error">Не удалось воспроизвести сообщение</string>
      <string name="voicemail_speed_faster">Высокая скорость</string>

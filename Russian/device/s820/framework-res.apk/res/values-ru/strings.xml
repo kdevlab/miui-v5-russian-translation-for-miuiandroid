@@ -66,9 +66,9 @@
      <string name="alwaysUse">По умолчанию для этого действия</string>
      <string name="android_system_label">Система Android</string>
      <string name="android_upgrading_apk">Оптимизация приложения %1$d из %2$d.</string>
-     <string name="android_upgrading_complete">Окончание загрузки...</string>
+     <string name="android_upgrading_complete">Окончание загрузки…</string>
      <string name="android_upgrading_starting_apps">Запуск приложений.</string>
-     <string name="android_upgrading_title">Обновление Android...</string>
+     <string name="android_upgrading_title">Обновление Android…</string>
      <string name="anr_activity_application">"Приложение \"%2$s\" не отвечает.
 
 Закрыть его?"</string>
@@ -137,7 +137,7 @@
      <string name="data_usage_limit_snoozed_body">Лимит превышен на %s.</string>
      <string name="data_usage_mobile_limit_snoozed_title">Превышен лимит на моб. трафик</string>
      <string name="data_usage_mobile_limit_title">Моб. Интернет отключен</string>
-     <string name="data_usage_restricted_body">Снять ограничение...</string>
+     <string name="data_usage_restricted_body">Снять ограничение…</string>
      <string name="data_usage_restricted_title">Фоновый режим ограничен</string>
      <string name="data_usage_warning_body">Проверьте трафик и настройки.</string>
      <string name="data_usage_warning_title">Осталось мало трафика</string>
@@ -498,9 +498,9 @@
      <string name="media_route_button_content_description">Перенаправлять поток мультимедиа</string>
      <string name="media_route_chooser_grouping_done">Готово</string>
      <string name="media_route_status_available">Доступен</string>
-     <string name="media_route_status_connecting">Подключение...</string>
+     <string name="media_route_status_connecting">Подключение…</string>
      <string name="media_route_status_not_available">Недоступные</string>
-     <string name="media_route_status_scanning">Сканирование...</string>
+     <string name="media_route_status_scanning">Сканирование…</string>
      <string name="media_shared">Сейчас USB-накопитель используется компьютером.</string>
      <string name="media_unknown_state">Неизвестно состояние внешнего носителя.</string>
      <string name="megabyteShort">МБ</string>
@@ -1135,7 +1135,7 @@
      <string name="select_keyboard_layout_notification_message">Нажмите для выбора раскладки клавиатуры</string>
      <string name="select_keyboard_layout_notification_title">Выберите раскладку клавиатуры</string>
      <string name="sendText">Выберите действие для текста</string>
-     <string name="sending">Отправка...</string>
+     <string name="sending">Отправка…</string>
      <string name="serial_number">Серийный номер:</string>
      <string name="serviceClassData">Данные</string>
      <string name="serviceClassDataAsync">Асинхр.</string>
@@ -1161,7 +1161,7 @@
      <string name="short_format_month">%b</string>
      <string name="shutdown_confirm">Телефон будет выключен.</string>
      <string name="shutdown_confirm_question">Завершить работу?</string>
-     <string name="shutdown_progress">Выключение...</string>
+     <string name="shutdown_progress">Выключение…</string>
      <string name="silent_mode">Режим без звука</string>
      <string name="silent_mode_ring">Звонок включен</string>
      <string name="silent_mode_silent">Звонок отключен</string>

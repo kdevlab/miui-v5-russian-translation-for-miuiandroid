@@ -137,8 +137,8 @@
      <string name="lockscreen_sim2_puk_locked_message">Первая SIM2 заблокирована PUK-кодом</string>
      <string name="lockscreen_sim_locked_message_short">SIM-карта заблокирована</string>
      <string name="lockscreen_sim_puk_locked_message_short">PUK-код заблокирован</string>
-     <string name="media_controller_buffering">Буферизация %d%%...</string>
-     <string name="media_controller_connecting">Подключение...</string>
+     <string name="media_controller_buffering">Буферизация %d%%…</string>
+     <string name="media_controller_connecting">Подключение…</string>
      <string name="media_controller_live">В режиме реального времени</string>
      <string name="media_controller_playing">Воспроизведение</string>
      <string name="media_controller_weak_signal">Слабый сигнал</string>
@@ -194,7 +194,7 @@
      <string name="redo">Вернуть</string>
      <string name="retries_left">Осталось:%d</string>
      <string name="same_imei">Тот же самый IMEI</string>
-     <string name="searching_simcard">Detecting...</string>
+     <string name="searching_simcard">Detecting…</string>
      <string name="serviceClassVideo">Видео</string>
      <string name="serviceProvisioned">Услуга предоставлена.</string>
      <string name="serviceUnknown">Состояние службы неизвестно.</string>

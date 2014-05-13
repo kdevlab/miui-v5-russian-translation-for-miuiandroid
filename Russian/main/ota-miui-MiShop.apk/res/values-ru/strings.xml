@@ -93,7 +93,7 @@
      <string name="check_network">Настройки сети</string>
      <string name="checkcode_dialog_title">Введите этот код:</string>
      <string name="checkcode_not_empty">Введите код</string>
-     <string name="checking_update">Проверка обновления...</string>
+     <string name="checking_update">Проверка обновления…</string>
      <string name="checkout_activity_title">Клиринговая страница</string>
      <string name="checkout_build_request_params_exception">Получает данные о форме исключения</string>
      <string name="checkout_button_add_address">Добавить адрес</string>
@@ -154,7 +154,7 @@
      <string name="dialog_ask_cancel">Отмена</string>
      <string name="dialog_ask_ok">OK</string>
      <string name="district">Район</string>
-     <string name="doing_add_shopping_cart">Добавьте в корзину...</string>
+     <string name="doing_add_shopping_cart">Добавьте в корзину…</string>
      <string name="download_err">Загрузка не удалась, пожалуйста, проверьте вашу сеть</string>
      <string name="download_failed_id" />
      <string name="download_failed_tips">Посмотреть</string>
@@ -163,7 +163,7 @@
      <string name="edit_cart_item_activity_title">Изменить корзину</string>
      <string name="edit_cart_item_button_delete">Удалить</string>
      <string name="edit_cart_item_button_return">Вернуться к корзине</string>
-     <string name="empty_product">Дождитесь загрузки изображения...</string>
+     <string name="empty_product">Дождитесь загрузки изображения…</string>
      <string name="error_alipay_security">Сервис AliPay недосутепен. Повторите позже.</string>
      <string name="error_dup_email">Такая эл.почта уже зарегистрирована</string>
      <string name="error_dup_phone">Номер телефона уже зарегистрирован</string>
@@ -193,7 +193,7 @@
      <string name="fcode_vcode_err">Проверочный код введен неверно, введите повторно</string>
      <string name="fcode_vcode_fetch_err">Получить код не удалось, повторите попытку позже</string>
      <string name="fcode_verify_fcode_err">F-код неверен, введите повторно</string>
-     <string name="fcode_waiting">Идет проверка подлинности...</string>
+     <string name="fcode_waiting">Идет проверка подлинности…</string>
      <string name="festival_forward_message">Поделитесь скриншотом (кнопка меню + громкость вниз) с друзьями</string>
      <string name="festival_launch_mishop">Перейти в MiShop</string>
      <string name="filter_all">（Все）</string>
@@ -237,7 +237,7 @@
      <string name="login_before_register_sale_out_product">订阅通知前，请先登录</string>
      <string name="login_err">Ошибка входа в систему. Проверьте данные.</string>
      <string name="login_failed">Войти не удалось</string>
-     <string name="login_notice">Пожалуйста подождите...</string>
+     <string name="login_notice">Пожалуйста подождите…</string>
      <string name="login_ok">Вход в систему выполнен успешно. Добро пожаловать!</string>
      <string name="login_retry">Повторить</string>
      <string name="login_system_failed">Войти в систему не удадлсь, попробуйте ещё раз!</string>
@@ -362,7 +362,7 @@
      <string name="micloud_active_sms_status_fail">Регистрация не удалась</string>
      <string name="micloud_active_sms_status_network">Ошибка сетевого соединения</string>
      <string name="micloud_active_sms_status_success">Регистрация прошла успешно</string>
-     <string name="micloud_active_sms_status_wait">Пожалуйста, подождите ...</string>
+     <string name="micloud_active_sms_status_wait">Пожалуйста, подождите …</string>
      <string name="micloud_click_email">Нажмите на ссылку в сообщении, чтобы активировать аккаунт</string>
      <string name="micloud_email">Адрес эл.почты</string>
      <string name="micloud_error_email">Неправильный формат эл.почты</string>
@@ -447,7 +447,7 @@
      <string name="order_ask_cancel">Вы уверены, что хотите отменить заказ?</string>
      <string name="order_cancel">Заказ отменён</string>
      <string name="order_cancel_err">Отменить заказ не удалось, попробуйте еще ​​раз позже</string>
-     <string name="order_canceling">Отмена заказа...</string>
+     <string name="order_canceling">Отмена заказа…</string>
      <string name="order_code_sent">Код отправлен</string>
      <string name="order_code_sent_error">Не удалось отправить код</string>
      <string name="order_date_format" formatted="false">%-Y-%-m-%-d</string>
@@ -521,7 +521,7 @@
      <string name="order_submit_amount_title">Общая сумма к оплате</string>
      <string name="order_submit_button_return">Вернуться и изменить</string>
      <string name="order_submit_button_submit">Отправить ваш заказ</string>
-     <string name="order_submit_button_submit_n">Представлен...</string>
+     <string name="order_submit_button_submit_n">Представлен…</string>
      <string name="order_submit_count_descrption_template">Стоимость ¥%1$s + Стоимость доставки ¥%2$s - Купон ¥%3$s</string>
      <string name="order_submit_count_title">Общее количество продуктов</string>
      <string name="order_submit_coupon_discount">Купон</string>
@@ -556,7 +556,7 @@
      <string name="payment_fail">Оплата не удалась</string>
      <string name="payment_fail_explain">Посмотреть FAQ</string>
      <string name="payment_fail_text">Платеж не удался. Вы можете посмотреть онлайн FAQ по оплате.</string>
-     <string name="payment_in_progress">Идет оплата...</string>
+     <string name="payment_in_progress">Идет оплата…</string>
      <string name="payment_pickup_address">Адрес:</string>
      <string name="payment_pickup_tel">Телефон:</string>
      <string name="payment_success">Оплата успешно завершена</string>
@@ -691,7 +691,7 @@
      <string name="search_result_title">“%1$s”（%2$s）</string>
      <string name="search_title">“%s”</string>
      <string name="see_more">再去逛逛</string>
-     <string name="self_confirm_dowloading">Новая версия готова к загрузке...</string>
+     <string name="self_confirm_dowloading">Новая версия готова к загрузке…</string>
      <string name="separator">|</string>
      <string name="service_grade">服务态度</string>
      <string name="service_repair_info">Подробности о ремонте</string>
@@ -699,7 +699,7 @@
      <string name="shake_add_failed">加入购物车失败，请稍后重试</string>
      <string name="shake_add_success">加入购物车成功，您可以查看您的购物车</string>
      <string name="shake_add_to_cart">将奖品加入购物车</string>
-     <string name="shake_adding_cart">Добавление...</string>
+     <string name="shake_adding_cart">Добавление…</string>
      <string name="shake_cup_item">奖品</string>
      <string name="shake_cup_title">Все</string>
      <string name="shake_cup_user">用户ID（论坛昵称）</string>
@@ -715,7 +715,7 @@
      <string name="shake_hint2">И получите сюрприз))</string>
      <string name="shake_history_btn">Посмотреть историю лотереи</string>
      <string name="shake_history_item_desc">惊喜价：¥%1$s\u0009原价：¥%2$s</string>
-     <string name="shake_loading">Загружаем...</string>
+     <string name="shake_loading">Загружаем…</string>
      <string name="shake_month">%1$s月</string>
      <string name="shake_my_empty">"暂时没有摇中奖品
 您参与过%1$s次，不如%2$s人勤奋，再接再厉。"</string>
@@ -791,7 +791,7 @@
      <string name="toast_not_located">Местоположение не найдено</string>
      <string name="try_again">Повторить</string>
      <string name="update_no_sd">Не удалось загрузить пакет обновлений, проверьте, доступена ли SD-карта</string>
-     <string name="uppay_dowloading">Загрузка, подождите...</string>
+     <string name="uppay_dowloading">Загрузка, подождите…</string>
      <string name="uppay_no_exist_btn_negative">下载控件</string>
      <string name="uppay_no_exist_btn_positive">取消</string>
      <string name="uppay_no_exist_message">为保障您的支付安全，请下载并安装银联手机支付控件</string>
@@ -802,7 +802,7 @@
      <string name="uppay_pay_result_success">Успешно оплачено！</string>
      <string name="uppay_pay_result_title">支付结果通知</string>
      <string name="use_address">Выберите адрес доставки</string>
-     <string name="vcode_waiting">Получение кода подтверждения...</string>
+     <string name="vcode_waiting">Получение кода подтверждения…</string>
      <string name="view_detail">Смотреть подробности</string>
      <string name="we_are_closed">商城打烊了，过几小时再光临吧~</string>
      <string name="web_choose_file">Пожалуйста, выберите файл для загрузки</string>

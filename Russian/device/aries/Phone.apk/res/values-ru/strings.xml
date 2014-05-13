@@ -13,7 +13,7 @@
      <string name="add_sip_account">Добавить аккаунт</string>
      <string name="add_vm_number_str">Добавить номер</string>
      <string name="add_zero_prefix">Добавить префикс 0 при наборе мобильных номеров</string>
-     <string name="adding_fdn_contact">Выполняется добавление номера ограниченного набора...</string>
+     <string name="adding_fdn_contact">Выполняется добавление номера ограниченного набора…</string>
      <string name="additional_cdma_call_settings">Дополнительные настройки вызовов CDMA</string>
      <string name="additional_gsm_call_settings">Дополнительные настройки</string>
      <string name="administrative_disable">Административные функции отключены</string>
@@ -80,7 +80,7 @@
      <string name="auto_ip_add_exception_numbers_miui">Добавить номера</string>
      <string name="auto_ip_exception_miui">Номера, которым не нужен префикс</string>
      <string name="auto_ip_exception_summary_miui">%d всего</string>
-     <string name="auto_ip_exception_summary_more_miui">,... %d всего</string>
+     <string name="auto_ip_exception_summary_more_miui">,… %d всего</string>
      <string name="auto_ip_no_exceptions_miui">Пожалуйста добавте номера которым не нужна IP приставка</string>
      <string name="auto_ip_remove_exception_numbers_confirm_miui">Вы точно хотите удалить %d номера?</string>
      <string name="auto_ip_setting_miui">Интеллектуальный IP</string>
@@ -235,7 +235,7 @@
      <string name="card_title_conf_call">Конференц-вызов</string>
      <string name="card_title_cugcall">CUG вызов</string>
      <string name="card_title_deflectedcall">Отклоненный вызовов</string>
-     <string name="card_title_dialing">Набор номера...</string>
+     <string name="card_title_dialing">Набор номера…</string>
      <string name="card_title_forwardcheckreceived">Получена проверка переадресации</string>
      <string name="card_title_forwarded_MTcall">Переадресация входящих вызовов</string>
      <string name="card_title_forwarded_incoming_call_miui">Вызов переадресован</string>
@@ -468,7 +468,7 @@
      <string name="emergency_call_area_code_edit_dialog_button_miui">Вызов</string>
      <string name="emergency_call_area_code_edit_dialog_hint_miui">Например: 112</string>
      <string name="emergency_enable_radio_dialog_message">Включение радио…</string>
-     <string name="emergency_enable_radio_dialog_retry">Вне зоны действия сети, повторное подключение...</string>
+     <string name="emergency_enable_radio_dialog_retry">Вне зоны действия сети, повторное подключение…</string>
      <string name="emergency_enable_radio_dialog_title">Экстренный вызов</string>
      <string name="empty_alert">Поле \"%s\" не может быть пустым</string>
      <string name="empty_networks_list">Сети не найдены</string>
@@ -498,7 +498,7 @@
      <string name="enable_disable_technology_news">Новости технологий</string>
      <string name="enable_fdn">Включить разрешенные номера</string>
      <string name="enable_fdn_ok">Отключить разрешенные номера</string>
-     <string name="enable_in_progress">Подождите...</string>
+     <string name="enable_in_progress">Подождите…</string>
      <string name="enable_miui">Включить</string>
      <string name="enable_pin">Включить/отключить запрос PIN SIM-карты</string>
      <string name="enable_pin_ok">Запрос PIN SIM-карты включен</string>
@@ -613,7 +613,7 @@
      <string name="incall_error_supp_service_unknown">Услуга не поддерживается</string>
      <string name="incall_screen_background_summary_miui">Использовать обои, если нет аватарки</string>
      <string name="incall_screen_background_title_miui">Фон при звонке</string>
-     <string name="incall_status_dialed_mmi">Запуск последовательности MMI...</string>
+     <string name="incall_status_dialed_mmi">Запуск последовательности MMI…</string>
      <string name="incall_toast_hold">Удерживать</string>
      <string name="incall_toast_unhold">Не удерживать</string>
      <string name="information">Информация</string>
@@ -959,11 +959,11 @@
      <string name="pin_lock_warning_miui">"
 Обратите внимание, что телефон будет заблокирован, если не удастся ввести еще раз!"</string>
      <string name="pin_name">КОНТАКТНЫЙ</string>
-     <string name="pin_progress_change_pin2_miui">Изменение PIN2...</string>
-     <string name="pin_progress_change_pin_miui">Изменение PIN-кода...</string>
-     <string name="pin_progress_set_fdn_lock_miui">Настройка FDN состояния блокировки...</string>
-     <string name="pin_progress_set_icc_lock_miui">Настройка МТП состояния блокировки...</string>
-     <string name="pin_progress_unlock_icc_miui">Разблокирование SIM-карты...</string>
+     <string name="pin_progress_change_pin2_miui">Изменение PIN2…</string>
+     <string name="pin_progress_change_pin_miui">Изменение PIN-кода…</string>
+     <string name="pin_progress_set_fdn_lock_miui">Настройка FDN состояния блокировки…</string>
+     <string name="pin_progress_set_icc_lock_miui">Настройка МТП состояния блокировки…</string>
+     <string name="pin_progress_unlock_icc_miui">Разблокирование SIM-карты…</string>
      <string name="place_a_call1">Подписка 1</string>
      <string name="place_a_call2">Подписка 2</string>
      <string name="plmn_list_setting_add_plmn">Новый PLMN</string>
@@ -1034,7 +1034,7 @@
      <string name="puk_requested">Неверный пароль, SIM-карта заблокирована! Введите код PUK2</string>
      <string name="puk_unlock_failed">PUK разблокировка неудалась.</string>
      <string name="puk_unlock_success">PUK-код разблокировка удалась.</string>
-     <string name="puk_unlocked">SIM-карта разблокирована. Осуществляется разблокировка телефона...</string>
+     <string name="puk_unlocked">SIM-карта разблокирована. Осуществляется разблокировка телефона…</string>
      <string name="radio_off_error">Чтобы увидеть эти настройки, нужно включить радио</string>
      <string name="rc_unlock_failed">Разблокировка корпоративной сети не удалась.</string>
      <string name="rc_unlock_success">Корпоративная сеть успешно разблокирована</string>
@@ -1042,12 +1042,12 @@
      <string name="reading_settings">Чтение настроек…</string>
      <string name="regional_disable">Региональные новости отключены</string>
      <string name="regional_enable">Региональные новости включены</string>
-     <string name="register_automatically">Автоматическая регистрация...</string>
+     <string name="register_automatically">Автоматическая регистрация…</string>
      <string name="register_network_failed_message_miui">Не удается зарегистрироваться в выбранной вами сети. Вы хотели бы выбрать предпочтительную сеть автоматически?</string>
      <string name="register_network_failed_title_miui">Сервис недоступен</string>
      <string name="register_on_network">Регистрация в сети %s…</string>
      <string name="registration_done">Регистрация в сети завершена</string>
-     <string name="registration_status_checking_status">Проверка состояния...</string>
+     <string name="registration_status_checking_status">Проверка состояния…</string>
      <string name="registration_status_done">Вызовы принимаются</string>
      <string name="registration_status_failed_try_later">Не удалось зарегистрировать аккаунт (%s). Новая попытка будет предпринята позже.</string>
      <string name="registration_status_invalid_credentials">Не удалось зарегистрировать аккаунт. Неверное имя пользователя или пароль.</string>
@@ -1055,9 +1055,9 @@
      <string name="registration_status_no_wifi_data">Регистрация прервана – отсутствует подключение WiFi</string>
      <string name="registration_status_not_receiving">Вызовы не принимаются</string>
      <string name="registration_status_not_running">Не удалось зарегистрировать аккаунт</string>
-     <string name="registration_status_registering">Регистрация...</string>
+     <string name="registration_status_registering">Регистрация…</string>
      <string name="registration_status_server_unreachable">Не удалось зарегистрировать аккаунт. Неверное имя сервера.</string>
-     <string name="registration_status_still_trying">Пожалуйста, подождите...</string>
+     <string name="registration_status_still_trying">Пожалуйста, подождите…</string>
      <string name="reject_via_sms_miui">Отклонить через SMS</string>
      <string name="reject_via_sms_summary_miui">Текст SMS которое будет отправляться при отклонении звонка</string>
      <string name="reject_via_sms_title_miui">Настройки отклонения через SMS</string>
@@ -1065,7 +1065,7 @@
      <string name="reminder">Напоминание</string>
      <string name="remove_miui">Удалить</string>
      <string name="remove_sip_account">Удалить аккаунт</string>
-     <string name="removing_account">Удаление аккаунта...</string>
+     <string name="removing_account">Удаление аккаунта…</string>
      <string name="requesting_corporate_unlock">Запрос разблокировки корпоративной сети…</string>
      <string name="requesting_nw_subset_unlock">Запрос разблокировки подсети…</string>
      <string name="requesting_nw_unlock">Запрос разблокировки сети…</string>
@@ -1078,7 +1078,7 @@
      <string name="requesting_ruim_unlock">Запрос UIM разблокировки…</string>
      <string name="requesting_sim_unlock">Запрос разблокировки SIM…</string>
      <string name="requesting_sp_unlock">Запрос разблокировки поставщика услуг…</string>
-     <string name="requesting_unlock">Запрос разблокировки сети...</string>
+     <string name="requesting_unlock">Запрос разблокировки сети…</string>
      <string name="reset">Сбросить</string>
      <string name="reset_alert">Очистить количество использованных данных?</string>
      <string name="reset_data_usage">Сбросить</string>
@@ -1092,7 +1092,7 @@
      <string name="respond_via_sms_canned_response_4">Не могу говорить. Позвоните позже</string>
      <string name="respond_via_sms_canned_response_4_miui">Не могу говорить по телефону прямо сейчас. В чем дело?</string>
      <string name="respond_via_sms_confirmation_format">Сообщение отправлено на номер %s.</string>
-     <string name="respond_via_sms_custom_message">Собственное сообщение...</string>
+     <string name="respond_via_sms_custom_message">Собственное сообщение…</string>
      <string name="respond_via_sms_edittext_dialog_title">Быстрый ответ</string>
      <string name="respond_via_sms_setting_summary">""</string>
      <string name="respond_via_sms_setting_title">Быстрые ответы</string>
@@ -1124,7 +1124,7 @@
      <string name="ruim_unlock_failed">Не удалось разблокировать UIM</string>
      <string name="ruim_unlock_success">RUIM успешно разблокирована</string>
      <string name="save">Сохранить</string>
-     <string name="saving_account">Сохранение аккаунта...</string>
+     <string name="saving_account">Сохранение аккаунта…</string>
      <string name="search_networks">Поиск сетей</string>
      <string name="selectContact">выбрать контакт</string>
      <string name="select_all">Выбрать все</string>
@@ -1158,7 +1158,7 @@
      <string name="set_sub_success">Подписка установлена</string>
      <string name="set_subscription">Выберите подписки</string>
      <string name="set_subscription_error_atleast_one">Выберите по крайней мере одну подписку</string>
-     <string name="set_uicc_subscription_progress">Установка подписки...</string>
+     <string name="set_uicc_subscription_progress">Установка подписки…</string>
      <string name="setting_for_3G_service">3G сеть</string>
      <string name="settings_label">Настройки сети</string>
      <string name="show_always_title">"Не предупреждать меня снова"</string>
@@ -1299,7 +1299,7 @@
      <string name="t9_indexing_method_pinyin">Алфавитный</string>
      <string name="t9_indexing_method_title_miui">Поиск T9</string>
      <string name="t9_indexing_method_zhuyin">Китайский</string>
-     <string name="t9_indexing_rebuilding_message">Обновление базы данных T9, пожалуйста, подождите...</string>
+     <string name="t9_indexing_rebuilding_message">Обновление базы данных T9, пожалуйста, подождите…</string>
      <string name="technology_news_disable">Новости технологий отключены</string>
      <string name="technology_news_enable">Новости технологий включены</string>
      <string name="telocation_setting_miui">Настройки местоположения</string>
@@ -1315,7 +1315,7 @@
      <string name="throttle_data_usage">Передача данных</string>
      <string name="throttle_data_usage_subtext">%1$s (%2$d٪) из %3$s (максимум)</string>
      <string name="throttle_help">Подробнее</string>
-     <string name="throttle_help_subtext">Подробнее о политике передачи данных вашего оператора мобильной связи...</string>
+     <string name="throttle_help_subtext">Подробнее о политике передачи данных вашего оператора мобильной связи…</string>
      <string name="throttle_rate">Скорость передачи данных</string>
      <string name="throttle_rate_subtext">Превышение лимита снижает скорость передачи данных до %1$d кбит/с</string>
      <string name="throttle_status_subtext">"%1$s (%2$d٪) из %3$s (максимум)
@@ -1343,7 +1343,7 @@
      <string name="unknown_num">Неизвестный номер</string>
      <string name="unlock_failed">Запрос на разблокировку сети не выполнен</string>
      <string name="unlock_success">Разблокировка сети успешно завершена</string>
-     <string name="updating_fdn_contact">Выполняется обновление номера ограниченного набора...</string>
+     <string name="updating_fdn_contact">Выполняется обновление номера ограниченного набора…</string>
      <string name="updating_settings">Обновление настроек…</string>
      <string name="updating_title">Настройки вызовов</string>
      <string name="username_title">Имя пользователя</string>

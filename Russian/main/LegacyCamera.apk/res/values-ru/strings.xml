@@ -44,11 +44,11 @@
      <string name="not_enough_space">Нехватка памяти</string>
      <string name="not_selectable_in_effect">Недоступно при использовании эффекта</string>
      <string name="not_selectable_in_scene_mode">Недоступно в режиме съемки</string>
-     <string name="pano_capture_indication">Создание панорамы...</string>
+     <string name="pano_capture_indication">Создание панорамы…</string>
      <string name="pano_dialog_panorama_failed">Не удалось сохранить файл</string>
-     <string name="pano_dialog_prepare_preview">Обработка...</string>
+     <string name="pano_dialog_prepare_preview">Обработка…</string>
      <string name="pano_dialog_title">Панорама</string>
-     <string name="pano_review_saving_indication_str">Сохранение...</string>
+     <string name="pano_review_saving_indication_str">Сохранение…</string>
      <string name="pano_too_fast_prompt">Очень быстро</string>
      <string name="pref_camcorder_settings_category">Настройки видеокамеры</string>
      <string name="pref_camera_flashmode_entry_auto">Авто</string>
@@ -92,7 +92,7 @@
      <string name="pref_video_effect_title">Эффекты</string>
      <string name="pref_video_quality_title">Качество видео</string>
      <string name="pref_video_time_lapse_frame_interval_title">Замедление</string>
-     <string name="preparing_sd">Подготовка карты памяти...</string>
+     <string name="preparing_sd">Подготовка карты памяти…</string>
      <string name="review_cancel">Отмена</string>
      <string name="review_ok">Готово</string>
      <string name="review_play">Воспроизвести</string>
@@ -111,5 +111,5 @@
      <string name="video_camera_label">Видеокамера</string>
      <string name="video_reach_size_limit">Достигнут предельный размер видео</string>
      <string name="video_snapshot_hint">Чтобы сделать снимок при видеосъемке, нажмите на экран просмотра</string>
-     <string name="wait">Подождите...</string>
+     <string name="wait">Подождите…</string>
 </resources>

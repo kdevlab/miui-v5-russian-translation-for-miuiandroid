@@ -296,8 +296,8 @@
      </string-array>
      <string-array name="vpn_states">
         <item>Отключено</item>
-        <item>Инициализация...</item>
-        <item>Подключение...</item>
+        <item>Инициализация…</item>
+        <item>Подключение…</item>
         <item>Подключено</item>
         <item>Таймаут</item>
         <item>Подключение не удалось</item>
@@ -311,11 +311,11 @@
         <item>IPSec VPN with certificates and hybrid authentication</item>
      </string-array>
      <string-array name="wfd_status">
-        <item>Устройство подключено, создание сессии...</item>
+        <item>Устройство подключено, создание сессии…</item>
         <item>Сессия создана</item>
-        <item>Сессия сорвана...</item>
+        <item>Сессия сорвана…</item>
         <item>Сессия не создана</item>
-        <item>Истекло время ожидания, повтор...</item>
+        <item>Истекло время ожидания, повтор…</item>
         <item>Устройство подключено</item>
      </string-array>
      <string-array name="wifi_ap_security">
@@ -385,13 +385,13 @@
      </string-array>
      <string-array name="wifi_status">
         <item></item>
-        <item>Поиск...</item>
-        <item>Подключение...</item>
-        <item>Аутентификация...</item>
-        <item>Получение IP-адреса...</item>
+        <item>Поиск…</item>
+        <item>Подключение…</item>
+        <item>Аутентификация…</item>
+        <item>Получение IP-адреса…</item>
         <item>Подключено</item>
         <item>Приостановлено</item>
-        <item>Отключение...</item>
+        <item>Отключение…</item>
         <item>Нет подключения</item>
         <item>Сбой</item>
         <item>Заблокировано</item>
@@ -399,9 +399,9 @@
      </string-array>
      <string-array name="wifi_status_with_ssid">
         <item></item>
-        <item>Поиск...</item>
+        <item>Поиск…</item>
         <item>Соединение с сетью %1$s…</item>
-        <item>Аутентификация в сети %1$s...</item>
+        <item>Аутентификация в сети %1$s…</item>
         <item>Получение IP-адреса от %1$s…</item>
         <item>Подключено к %1$s</item>
         <item>Приостановлено</item>
