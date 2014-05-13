@@ -1065,13 +1065,14 @@
      <string name="preferred_network_type_3g_only_warning_miui">"Вы выбрали только 3G как тип сети, из-за этого возможна потеря сети при плохом покрытии сетей 3G
 Нажмите OK для продолжения"</string>
      <string name="preferred_network_type_pref_entries_3g_preferred_miui">Предпочтительно 3G</string>
+	 <string name="preferred_network_type_pref_entries_4g_preferred_miui">Предпочтительно 4G</string>
      <string name="preferred_network_type_pref_entries_auto_miui">Автоматически</string>
      <string name="preferred_network_type_pref_entries_global_miui">Глобальный</string>
      <string name="preferred_network_type_pref_entries_only_2g_miui">Только 2G</string>
      <string name="preferred_network_type_pref_entries_only_3g_miui">Только 3G</string>
      <string name="preferred_network_type_td_scdma_miui">GSM/TD-SCDMA</string>
      <string name="preferred_network_type_title_miui">Тип сети</string>
-     <string name="primary_account_summary_with">Основной аккаунт. %s</string>
+     <string name="primary_account_summary_with">Основной аккаунт %s</string>
      <string name="private_num">Скрытый номер</string>
      <string name="proceed">Продолжить</string>
      <string name="progress_dialog_exiting_ecm">Выход из режима экстренных обратных вызовов</string>

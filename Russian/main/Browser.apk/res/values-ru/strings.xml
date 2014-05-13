@@ -460,7 +460,7 @@
      <string name="quicklinks_most_visited_subtitle">Добавить плитку вашего сайта на главный экран</string>
      <string name="quicklinks_most_visited_title">Добавить на стартовую</string>
      <string name="readmode_already_add_to_bookshelf">Уже добавлено на книжную полку</string>
-     <string name="readmode_battery">Батарея </string>
+     <string name="readmode_battery">Батарея</string>
      <string name="readmode_login">Войти</string>
      <string name="readmode_login_message">Для продолжения чтения необходимо войти в аккаунт</string>
      <string name="readmode_page_load_error">Не удалось загрузить страницу. Нажмите кнопку обновить, чтобы попробовать еще раз.</string>
@@ -497,19 +497,10 @@
      <string name="search">Поиск</string>
      <string name="search_button_text">Поиск</string>
      <string name="search_cancel">Отмена</string>
-     <string name="search_dianping">Cate</string>
-     <string name="search_easou">Easou</string>
      <string name="search_hint">Поиск</string>
      <string name="search_label">Браузер</string>
-     <string name="search_s139">139</string>
      <string name="search_settings_description">Закладки и история поиска</string>
-     <string name="search_shipin">Video</string>
-     <string name="search_sogou">Segou</string>
-     <string name="search_taobao">Taobao</string>
-     <string name="search_tupian">Image</string>
-     <string name="search_yahoo">Yahoo</string>
      <string name="search_yandex">Яндекс</string>
-     <string name="search_yicha">Yicha</string>
      <string name="security_warning">Угроза безопасности</string>
      <string name="select_dot">Выбрать текст</string>
      <string name="selection_all">Выбрать все</string>
@@ -522,6 +513,8 @@
      <string name="sign_in_to" formatted="false">Войти в %s1 \"%s2\"</string>
      <string name="snapshot_failed">Не удалось сохранить страницу</string>
      <string name="snapshot_go_live">Интерактивная версия</string>
+	 <string name="ssl_certificate">Сертификат безопасности</string>
+     <string name="ssl_certificate_is_valid">Данный сертификат действителен</string>
      <string name="ssl_continue">Продолжить</string>
      <string name="ssl_date_invalid">Дата этого сертификата недействительна</string>
      <string name="ssl_expired">Срок действия сертификата истек</string>

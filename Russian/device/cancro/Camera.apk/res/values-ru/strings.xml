@@ -406,6 +406,7 @@
      <string name="pref_settings_mode">Режим камеры</string>
 	 <string name="pref_touch_down_capture_title">Нажатие вниз съемка</string>
      <string name="pref_video_captrue_ability_title">Фото при съемке</string>
+	 <string name="pref_video_fast_speed_title_simple_mode">Быстрое движение</string>
      <string name="pref_video_focusmode_entry_auto">Нажатие</string>
      <string name="pref_video_focusmode_entry_continuous">Непрерывный</string>
      <string name="pref_video_focusmode_title">Режим фокусировки</string>
@@ -465,6 +466,7 @@
      <string name="simple_mode_button_text_chroma_flash">Выйти</string>
      <string name="simple_mode_button_text_color_effect">Выйти</string>
      <string name="simple_mode_button_text_face_beauty">Выйти</string>
+	 <string name="simple_mode_button_text_fast_video">Выйти</string>
      <string name="simple_mode_button_text_hand_night">Выйти</string>
      <string name="simple_mode_button_text_hdr">Выйти</string>
      <string name="simple_mode_button_text_opti_zoom">Выйти</string>

@@ -3333,6 +3333,7 @@
      <string name="trackball_settings">Трекбол</string>
      <string name="trackball_wake_title">Пробуждение от трекбола</string>
      <string name="transition_animation_scale_title">Скорость переходов</string>
+	 <string name="translation_contributors_title">Авторы перевода</string>
      <string name="trust_access_points">Точки доступа по умолчанию</string>
      <string name="trust_switch_dialog_msg">"Система не будут спрашивать Вас о подтверждении любых операций связанных с безопасностью и конфиденциальностью. Пожалуйста, убедитесь, что хорошо знаете данного разработчика.
 Вы доверяете этому приложению?"</string>
