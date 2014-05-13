@@ -1594,8 +1594,8 @@
      <string name="ims_reg_required_off">Обязательная регистрация IMS отключена</string>
      <string name="ims_reg_required_on">Обязательная регистрация IMS включена</string>
      <string name="incoming_call_app_name">Входящий вызов</string>
-     <string name="incoming_call_breathing_light_color_title">Цвет индикатора</string>
-     <string name="incoming_call_breathing_light_freq_title">Частота мигания вспышки</string>
+     <string name="incoming_call_breathing_light_color_title">Пропущенные вызовы</string>
+     <string name="incoming_call_breathing_light_freq_title">Частота мигания</string>
      <string name="incoming_call_vibrate_abbreviation">Звонки</string>
      <string name="incoming_call_volume_title">Мелодия</string>
      <string name="incomming_command_summary_format">Вы можете сказать %1$s или %2$s для ответа или отклонения вызова.</string>
@@ -1994,7 +1994,7 @@
      <string name="miui_screensaver_state_on">Вкл.</string>
      <string name="miui_screensaver_title">Заставка</string>
      <string name="miui_screensaver_usage">Изображения из альбома заставки будут отображаться в режиме слайд-шоу через 5 секунд после отключения экрана</string>
-     <string name="mms_breathing_light_color_title">Цвет для сообщения</string>
+     <string name="mms_breathing_light_color_title">Пропущенные сообщения</string>
      <string name="mms_breathing_light_freq_title">Частота мигания</string>
      <string name="mms_log_tab_title">Сообщения</string>
      <string name="mms_vibrate_abbreviation">Сообщения</string>
@@ -2114,7 +2114,7 @@
      <string name="noise_suppression">Подавление шума</string>
      <string name="normal_date_format">%s (по умолчанию)</string>
      <string name="not_installed">Не установлено</string>
-     <string name="notification_breathing_light_color_title">Цвет для уведомлений</string>
+     <string name="notification_breathing_light_color_title">Уведомления</string>
      <string name="notification_breathing_light_freq_title">Частота мигания</string>
      <string name="notification_button_text_of_low_memory">Очистить</string>
      <string name="notification_listener_security_warning_summary">%1$s будет иметь возможность читать все уведомления, системые или любого установленного приложения, которые могут включать личные данные, имена контактов и текст сообщений. Он также сможет отклонить эти уведомления или не прикасаясь кнопки действий в них.</string>
