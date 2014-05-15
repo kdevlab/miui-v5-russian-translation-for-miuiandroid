@@ -54,6 +54,7 @@
      <string name="battery_low_why">Статистика</string>
      <string name="bluetooth_tethered">Общий модем доступен через Bluetooth</string>
      <string name="call_status_dialing">Вызов</string>
+	 <string name="call_status_ringing">Звонок</string>
      <string name="camera_key_action_app_title">Открыть приложение</string>
      <string name="camera_key_action_category_title">Действия клавиши \"MI\"</string>
      <string name="camera_key_action_none_title">Запуск камеры</string>
@@ -145,6 +146,7 @@
      <string name="oldman_airplane_mode_text">Режим полета</string>
      <string name="recent_apps_key">Последние приложения</string>
      <string name="recent_apps_key_show">Последние приложения</string>
+	 <string name="reject_call">Отклонение вызова</string>
      <string name="return_to_incall_screen">Нажмите для возврата к разговору</string>
      <string name="screen_button_custom">Настройка расположения кнопок</string>
      <string name="screen_button_disabled_message">Нижние клавиши отключены. Вы можете включить их снова, нажав клавиши \"Домой\" + \"Питание\".</string>

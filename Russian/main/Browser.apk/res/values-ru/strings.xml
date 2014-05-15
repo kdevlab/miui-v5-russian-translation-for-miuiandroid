@@ -318,6 +318,7 @@
      <string name="pref_content_autofit_summary">Подгонять веб-страницы под размер экрана</string>
      <string name="pref_content_block_float_popups">Блокировать плавающие окна</string>
      <string name="pref_content_block_popups">Блокировать всплывающие окна</string>
+	 <string name="pref_content_cloud_speedup">Включить облачное ускорение</string>
      <string name="pref_content_fontsize_setting">Настройки шрифта</string>
      <string name="pref_content_homepage">Стартовая страница</string>
      <string name="pref_content_javascript">Разрешить JavaScript</string>
