@@ -487,7 +487,7 @@
      <string name="empty_networks_list">Сети не найдены</string>
      <string name="enable">Включить</string>
      <string name="enable_3G_service">Включить 3G</string>
-     <string name="enable_antispam_strange_summary">Отключить первый звонок с неизвестного номера</string>
+     <string name="enable_antispam_strange_summary">Приглушить первый звонок с неизвестного номера</string>
      <string name="enable_antispam_strange_title">Анти-незнакомый звонок</string>
      <string name="enable_disable_administrative">Административные функции</string>
      <string name="enable_disable_advertisements">Реклама</string>
