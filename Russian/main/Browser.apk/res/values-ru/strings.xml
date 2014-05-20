@@ -514,6 +514,7 @@
      <string name="sign_in_to" formatted="false">Войти в %s1 \"%s2\"</string>
      <string name="snapshot_failed">Не удалось сохранить страницу</string>
      <string name="snapshot_go_live">Интерактивная версия</string>
+	 <string name="snapshot_successed">Успешно сохранено для чтения в офф-лайне</string>
 	 <string name="ssl_certificate">Сертификат безопасности</string>
      <string name="ssl_certificate_is_valid">Данный сертификат действителен</string>
      <string name="ssl_continue">Продолжить</string>
