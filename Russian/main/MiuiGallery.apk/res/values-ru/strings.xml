@@ -84,7 +84,7 @@
      <string name="click_to_enter_camera">Нет фото и видео</string>
      <string name="click_top_right">Нажмите на иконку здесь</string>
      <string name="close">Закрыть</string>
-     <string name="cloud_album_more_settings">Синхронизация MiCloud</string>
+     <string name="cloud_album_more_settings">Синхронизация с MiCloud</string>
      <string name="cloud_album_set_create">Новый</string>
      <string name="cloud_album_set_scan_qr_code">QR-код</string>
      <string name="cloud_albums">Облако</string>
@@ -392,7 +392,7 @@
      <string name="select_all">Выбрать все</string>
      <string name="select_image">Выбрать фото</string>
      <string name="select_item">Выбрать файлы</string>
-     <string name="select_too_much_to_send_tips">Выбранных фотографий слишком много, чтобы отправить. Максимум: %d.</string>
+     <string name="select_too_much_to_send_tips">Выбранных фотографий слишком много для отправки. Максимум: %d.</string>
      <string name="select_video">Выбрать видео</string>
      <string name="send">Отправить</string>
      <string name="send_multiple_files_hint_format">Отправить несколько файлов (%s)</string>
@@ -413,7 +413,7 @@
      <string name="set_screensaver_path_title">Заставка слайдшоу</string>
      <string name="set_wallpaper">Установка на рабочий стол…</string>
      <string name="settings">Настройки</string>
-     <string name="settings_i_xiaomi_com">Зайдите на i.xiaomi.com, чтобы смотреть свои облачные альбомы в любое время</string>
+     <string name="settings_i_xiaomi_com">Заходите на i.xiaomi.com, чтобы просматривать свои облачные альбомы в любое время</string>
      <string name="shadow">Затенение</string>
      <string name="share_album">Отправить альбом</string>
      <string name="share_album_owner">Владелец</string>

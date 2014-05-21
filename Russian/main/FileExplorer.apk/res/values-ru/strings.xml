@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <!-- Builded with NXT -->
 <resources>
      <string name="account_bind_prompt">"Перенос данных пользователя
@@ -12,7 +12,7 @@
      <string name="big5_summary">Кодировка по умолчанию в традиционной китайской версии системы Windows</string>
      <string name="bind_account">Привязка к аккаунту KuaiPan</string>
      <string name="bind_account_summary">Если у Вас уже есть учетная запись kuaipan, то ее можно привязать к учетной записи Xiaomi, чтобы синхронизировать данные</string>
-     <string name="binded_accout_description">Эти два аккаунта были объединены. Теперь Вы можете войти используя либо аккаунт Xiaomi, либо аккаунт Kuaipan. В них обоих будут одни и теже файлы.</string>
+     <string name="binded_accout_description">Эти два аккаунта были объединены. Теперь Вы можете войти используя либо аккаунт Xiaomi, либо аккаунт Kuaipan. В них обоих будут одни и те же файлы.</string>
      <string name="binded_accout_title">В настоящее время Вы уже связаны с учетной записью KuaiPan</string>
      <string name="cancel">Отмена</string>
      <string name="category_all">Все</string>
@@ -56,9 +56,9 @@
      <string name="delete_files">Удалить выбранные файлы (%1$d)?</string>
      <string name="delete_files_and_folders">"Удалить выбранные папки и файлы?
 Файлов: %1$d  Папок: %2$d"</string>
-     <string name="delete_folder">Вы уверены, что хотите удалить?</string>
+     <string name="delete_folder">Вы уверены, что хотите удалить эту папку?</string>
      <string name="delete_folders">Вы уверены, что хотите удалить выбранные папки (%1$d)?</string>
-     <string name="des_running_trans">Эти %1$d файлы ожидают отправки</string>
+     <string name="des_running_trans">Файлы, ожидающие отправки: %1$d</string>
      <string name="dialog_select_type">Выберите тип файла</string>
      <string name="dialog_type_audio">Аудио</string>
      <string name="dialog_type_image">Изображения</string>
@@ -69,13 +69,13 @@
      <string name="download_failed">Ошибка загрузки</string>
      <string name="download_link_completed">Я поделился %1$s через KuaiPan. Нажмите ссылку внизу для просмотра:</string>
      <string name="downloading">Загрузка</string>
-     <string name="enable_sd_card">В настоящий момента SD-карта подключена к компьютеру и используется, чтобы видеть ее содержимое, отключите режим накопителя</string>
+     <string name="enable_sd_card">В настоящий момента SD-карта подключена к компьютеру и используется. Отключите режим накопителя, чтобы увидеть ее содержимое.</string>
      <string name="error_filename_too_long">Имя файла слишком длинное</string>
      <string name="error_info_cant_send_folder">Папка не может быть передана</string>
      <string name="error_open_file_failed_no_app_found">Не найдено программ для открытия этого файла</string>
      <string name="fail_to_create_folder">Не удалось создать папку, папка с таким именем уже существует</string>
      <string name="fail_to_create_folder_unknown">Не удается создать: неизвестная ошибка</string>
-     <string name="fail_to_rename">Не удалось переименовать файл или папку, имя уже существует</string>
+     <string name="fail_to_rename">Файл или папка с таким же именем уже существуют</string>
      <string name="favorite_photo">Фото</string>
      <string name="favorite_ringtone">Мелодии</string>
      <string name="favorite_screen_cap">Скриншоты</string>
@@ -89,8 +89,8 @@
      <string name="file_too_large">Этот файл слишком большой для загрузки на сервер</string>
      <string name="finished">Завершено</string>
      <string name="folder_exist">Папка уже существует</string>
-     <string name="forward_to_web_recycle_prompt">&lt;a href=\"%1$s\">Нажмите сюда&lt;/a>для очистки корзины</string>
-     <string name="ftp_account_req_notice">Имя и пароль, 4~16 знаков, включая цифры, буквы, чувствительны к регистру</string>
+     <string name="forward_to_web_recycle_prompt">&lt;a href=\"%1$s\">Нажмите сюда&lt;/a> для очистки корзины</string>
+     <string name="ftp_account_req_notice">Имя и пароль, 4~16 символов (буквы, цифры и спецсимволы), чувствительны к регистру</string>
      <string name="ftp_anonymous_login">Анонимный FTP</string>
      <string name="ftp_invalid_username_or_password">Ошибка аутентификации</string>
      <string name="ftp_open_port_error">Невозможно открыть выбранный FTP-порт, проверьте подключение к сети и попробуйте еще раз</string>
@@ -153,7 +153,7 @@
      <string name="operation_decompressing">Распаковка…</string>
      <string name="operation_delete">Удалить</string>
      <string name="operation_delete_confirm_message">Подтверждение удаления</string>
-     <string name="operation_delete_confirm_message_folder">"Удаление папки приведет к удалению всех файлов внутри нее
+     <string name="operation_delete_confirm_message_folder">"Удаление папки приведет к удалению всех файлов внутри нее.
 "</string>
      <string name="operation_deleting">Удаление…</string>
      <string name="operation_deleting_detail">Удаление файлов (%1$d/%2$d)</string>
@@ -236,11 +236,11 @@
      <string name="user_guide">Руководство пользователя</string>
      <string name="user_guide_download_other_version">"Вы всегда можете скачать Kuaipan
 на Ваш PC или Mac"</string>
-     <string name="user_guide_kuaipan_copy">"Доступ к файлу с нескольких устройств
-, поместив его в Kuaipan"</string>
-     <string name="user_guide_other_version">Скачать различные версии с Kuaipan</string>
-     <string name="user_guide_upload_to_kuaipan">"С телефона,
-просто скопировать и вставить в Kuaipan"</string>
+     <string name="user_guide_kuaipan_copy">"Получите доступ к файлу с нескольких устройств,
+поместив его в облако Kuaipan"</string>
+     <string name="user_guide_other_version">Скачать версии для разных ОС с Kuaipan</string>
+     <string name="user_guide_upload_to_kuaipan">"Просто скопируйте файл
+с телефона и вставьте его в Kuaipan"</string>
      <string name="utf8_summary">Тип кодировки по умолчанию</string>
      <string name="wait_net">Ожидание сети</string>
      <string name="wait_sdcard">Ожидание подключения SD-карты</string>

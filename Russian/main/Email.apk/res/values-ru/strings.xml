@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <!-- Builded with NXT -->
 <resources>
      <string name="Folders">Папки</string>
@@ -28,8 +28,8 @@
      <string name="account_security_dialog_title">Обновления безопасности</string>
      <string name="account_security_policy_explanation_fmt">Серверу %s требуется разрешение на удаленное управление некоторыми функциями безопасности устройства Android</string>
      <string name="account_security_title">Безопасность устройства</string>
-     <string name="account_set_up_change_type_note">Если Вы хотите установить учетную запись переключения перед POP3 и IMAP, сначала удалите ее, вновь войдите</string>
-     <string name="account_set_up_notice">Всего в несколько шагов, вы можете настроить учетную запись электронной почты для большинства служб</string>
+     <string name="account_set_up_change_type_note">Если Вы хотите сменить тип учетной записи POP3/IMAP, сначала удалите ее, затем вновь войдите</string>
+     <string name="account_set_up_notice">Всего за несколько шагов, вы сможете настроить учетную запись электронной почты для большинства служб</string>
      <string name="account_settings_action">Настройки аккаунта</string>
      <string name="account_settings_background_attachments_label">Автозагрузка файлов</string>
      <string name="account_settings_background_attachments_summary">Автоматически загружать прикрепленные файлы при подключении по Wi-Fi</string>
@@ -369,8 +369,8 @@
      <string name="formatted_subject">%1$s%2$s</string>
      <string name="forward">Переслать</string>
      <string name="forward_attachment">Переслать</string>
-     <string name="forward_attribution">---------- Переадресованное сообщение ----------&lt;br>От: %1$s&lt;br>Дата: %2$s&lt;br>Тема: %3$s&lt;br>Кому: %4$s&lt;br></string>
-     <string name="forward_attribution_no_headers">---------- Пересылаемое сообщение ----------</string>
+     <string name="forward_attribution">--------- Пересылаемое письмо ---------&lt;br>От: %1$s&lt;br>Дата: %2$s&lt;br>Тема: %3$s&lt;br>Кому: %4$s&lt;br></string>
+     <string name="forward_attribution_no_headers">--------- Пересылаемое письмо ---------</string>
      <string name="forward_download_failed_ticker">Сбой при пересылке прикрепленных файлов</string>
      <string name="forward_download_failed_title">Не удалось переслать вложение</string>
      <string name="forward_subject_label">Fwd:</string>
@@ -395,7 +395,7 @@
      <string name="hierarchical_folder_parent_top">%1$s∕%2$s∕</string>
      <string name="hierarchical_folder_parent_top_ellip">%1$s∕…∕%2$s∕</string>
      <string name="hierarchical_folder_top">%1$s∕</string>
-     <string name="hint_quick_reply_all">Ответить на все здесь</string>
+     <string name="hint_quick_reply_all">Ответить всем здесь</string>
      <string name="ignore_spam_warning">Я доверяю отправителю</string>
      <string name="imap_name">IMAP</string>
      <string name="inbox_folders_heading">Входящие</string>
@@ -432,10 +432,10 @@
      <string name="mark_important">Отметить как важное</string>
      <string name="mark_not_important">Отметить как неважное</string>
      <string name="mark_not_spam">Не спам</string>
-     <string name="mark_read">Отметить как прочитанное</string>
-     <string name="mark_unread">Отметить как непрочитанное</string>
-     <string name="me_object_pronun">я</string>
-     <string name="me_subject_pronun">я</string>
+     <string name="mark_read">Прочитанное</string>
+     <string name="mark_unread">Непрочитанное</string>
+     <string name="me_object_pronun">Мне</string>
+     <string name="me_subject_pronun">Я</string>
      <string name="meeting_accepted">Принято: %s</string>
      <string name="meeting_allday">Когда: %s (весь день)</string>
      <string name="meeting_allday_recurring">Если: %s (весь день, повтор.)</string>
@@ -629,7 +629,7 @@
      <string name="remove_star">Удалить пометку</string>
      <string name="reply">Ответить</string>
      <string name="reply_all">Ответить всем</string>
-     <string name="reply_attribution" formatted="false">%s пользователь %s написал:</string>
+     <string name="reply_attribution" formatted="false">%s написал(-а) %s:</string>
      <string name="reply_subject_label">Re:</string>
      <string name="replyto_heading">"Ответить: "</string>
      <string name="report">Отчет</string>

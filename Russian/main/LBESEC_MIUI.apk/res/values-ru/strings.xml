@@ -95,7 +95,7 @@
      <string name="HIPS_Perm_CallState">Состояние телефона</string>
      <string name="HIPS_Perm_CallState_Desc">Получить состояние телефона</string>
      <string name="HIPS_Perm_CallState_Hint">Приложения, имеющие доступ к состоянию телефона: %1$s</string>
-     <string name="HIPS_Perm_Call_Desc">Позвонить, ответить или отклонить телефонные звонки</string>
+     <string name="HIPS_Perm_Call_Desc">Позвонить, ответить или отклонить вызов</string>
      <string name="HIPS_Perm_Call_Hint">Приложения, имеющие доступ к совершению вызовов, к ответу или отклонению телефонных звонков: %1$s</string>
      <string name="HIPS_Perm_Call_Number">звонок %1$s</string>
      <string name="HIPS_Perm_CancelMissedCalls">очистка информации о непринятых звонках</string>
@@ -124,8 +124,8 @@
      <string name="HIPS_Perm_MMS_Desc">Доступ к MMS сообщениям</string>
      <string name="HIPS_Perm_MMS_Hint">Приложения, имеющие доступ к MMS сообщениям: %1$s</string>
      <string name="HIPS_Perm_MobileNetwork">Мобильная сеть</string>
-     <string name="HIPS_Perm_MobileNetwork_Desc">Доступ к интернет посредством мобильной сети</string>
-     <string name="HIPS_Perm_MobileNetwork_Hint">Приложения, имеющие доступ к интернету через оператора: %1$s</string>
+     <string name="HIPS_Perm_MobileNetwork_Desc">Доступ в интернет посредством мобильной сети</string>
+     <string name="HIPS_Perm_MobileNetwork_Hint">Приложения, имеющие доступ в интернет через мобильную сеть: %1$s</string>
      <string name="HIPS_Perm_Mobile_Connectivity">Мобильный интернет</string>
      <string name="HIPS_Perm_Mobile_Connectivity_Desc">Доступ к мобильному интернету</string>
      <string name="HIPS_Perm_Mobile_Connectivity_Hint">Приложения, имеющие доступ к передаче данных по сети мобильной связи: %1$s</string>
@@ -138,7 +138,7 @@
      <string name="HIPS_Perm_Network_UnknownAddr">Неизвестный адрес</string>
      <string name="HIPS_Perm_Network_WIFIEvent">Wi-Fi</string>
      <string name="HIPS_Perm_PhoneID">Идентификация телефона</string>
-     <string name="HIPS_Perm_PhoneID_Desc">Получать идентификаторы устройства, включая IMEI, IMSI, и т.д</string>
+     <string name="HIPS_Perm_PhoneID_Desc">Получение идентификаторов устройства, включая IMEI, IMSI, и т.д</string>
      <string name="HIPS_Perm_PhoneID_Hint">Приложения, имеющие доступ к идентификаторам устройства: %1$s</string>
      <string name="HIPS_Perm_PhoneID_ICCID">получить серийный номер SIM</string>
      <string name="HIPS_Perm_PhoneID_IMEI">получить номер IMEI</string>
@@ -169,7 +169,7 @@
      <string name="HIPS_Perm_SMS_Hint">Приложения, имеющие доступ к входящим сообщениям: %1$s</string>
      <string name="HIPS_Perm_SendMMS">Отправка MMS сообщений</string>
      <string name="HIPS_Perm_SendMMS_Desc">Доступ к MMS сообщениям</string>
-     <string name="HIPS_Perm_SendMMS_Hint">Приложения, имеющие доступ к отправке MMS сообщений</string>
+     <string name="HIPS_Perm_SendMMS_Hint">Приложения, имеющие доступ к отправке MMS сообщений: %1$s</string>
      <string name="HIPS_Perm_SendSMS">Отправка сообщений</string>
      <string name="HIPS_Perm_SendSMS_Content">Содержание:</string>
      <string name="HIPS_Perm_SendSMS_Data">Отправить SMS на %1$s:%2$d</string>
@@ -190,7 +190,7 @@
      <string name="HIPS_Perm_VideoRecorder_Hint">Приложения, имеющие доступ к записи видео: %1$s</string>
      <string name="HIPS_Perm_WIFINetwork">Wi-Fi</string>
      <string name="HIPS_Perm_WIFINetwork_Desc">Доступ в интернет по Wi-Fi</string>
-     <string name="HIPS_Perm_WIFINetwork_Hint">Приложения, имеющие доступ в интернет: %1$s</string>
+     <string name="HIPS_Perm_WIFINetwork_Hint">Приложения, имеющие доступ в интернет по Wi-Fi: %1$s</string>
      <string name="HIPS_Perm_WIFI_Connectivity">Wi-Fi</string>
      <string name="HIPS_Perm_WIFI_Connectivity_Desc">Доступ к подключению по Wi-Fi</string>
      <string name="HIPS_Perm_WIFI_Connectivity_Hint">Приложения, имеющие доступ к подключению по Wi-Fi: %1$s</string>
@@ -208,8 +208,8 @@
      <string name="HIPS_SecurityPrompt_Reject">Запретить (%d)</string>
      <string name="HIPS_SecurityPrompt_Remember">Запомнить мой выбор</string>
      <string name="HIPS_SecurityPrompt_Title">%1$s пытается получить доступ к %2$s</string>
-     <string name="Privacy_AppPerm_Count">%1$d разрешения</string>
-     <string name="Privacy_AppPerm_Count_Trust">%1$d разрешения - &lt;font color=#478800>доверенные&lt;/font></string>
+     <string name="Privacy_AppPerm_Count">разрешений: %1$d</string>
+     <string name="Privacy_AppPerm_Count_Trust">разрешений: %1$d - &lt;font color=#478800>доверенное&lt;/font></string>
      <string name="Privacy_App_Finish">Закрыть</string>
      <string name="Privacy_App_Installed">Настройка доступа</string>
      <string name="Privacy_App_Launch">Открыть</string>

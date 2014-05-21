@@ -1234,7 +1234,7 @@
      <string name="perm_notice">Оповещение безопасности</string>
      <string name="perm_operating">Обработка…</string>
      <string name="perm_optimize">Оптимизировать</string>
-     <string name="perm_privacy_app_count">%1$d разрешений</string>
+     <string name="perm_privacy_app_count">разрешений: %1$d</string>
      <string name="perm_privacy_app_finish">Завершить</string>
      <string name="perm_privacy_app_installed">Установка завершена!</string>
      <string name="perm_privacy_app_launch">Открыть</string>

@@ -376,7 +376,7 @@
      </string-array>
      <string-array name="power_dialog_cpu_state_items">
         <item>Производительность</item>
-        <item>Сбалансированный</item>
+        <item>Сбалансированное</item>
         <item>Энергосбережение</item>
      </string-array>
      <string-array name="power_dialog_sleep_items">
