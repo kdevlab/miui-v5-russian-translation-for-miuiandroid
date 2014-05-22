@@ -149,6 +149,7 @@
      <string name="delete_folder">Удалить папку</string>
      <string name="delete_multi_bookmarks_alert_title">Вы уверены, что хотите удалить эти закладки (%1$s)?</string>
      <string name="disable_autofill">Отключить автозаполнение</string>
+	 <string name="dont_remind_again">Запомнить мой выбор</string>
      <string name="download">Загрузить</string>
      <string name="download_complete">Загрузка файла завершена</string>
      <string name="download_default_path_txt">Установить путь сохранения по умолчанию и больше не спрашивать</string>
@@ -277,7 +278,6 @@
      <string name="navigation_button_tab">Вкладки</string>
      <string name="navigation_button_view">Вид</string>
      <string name="network_show_wifi_setting_tip_dialog_description">Подключиться к сети сейчас?</string>
-     <string name="network_show_wifi_setting_tip_dialog_notshow">Запомнить выбор</string>
      <string name="network_show_wifi_setting_tip_dialog_setting_cate_title">Уведомление о Wi-Fi</string>
      <string name="network_show_wifi_setting_tip_dialog_setting_title">При использовании мобильного интернета Вы будете получать уведомления о доступных сетях Wi-Fi</string>
      <string name="network_show_wifi_setting_tip_dialog_title">Доступна сеть Wi-Fi</string>
@@ -558,6 +558,8 @@
      <string name="uploads_disabled">Добавление файлов отключено</string>
      <string name="url_copy_done">URL скопирован</string>
      <string name="url_hint">Введите URL</string>
+	 <string name="use_cellular_network_alert_message">Wi-Fi недоступен. Использовать мобильный интернет?</string>
+     <string name="use_cellular_network_alert_title">Предупреждение сети</string>
      <string name="user_defined_webpage">Добавить страницу</string>
      <string name="user_defined_webpage_title">Добавить на стартовую страницу</string>
      <string name="username">Имя</string>

@@ -114,6 +114,7 @@
      <string name="timer_hour">ч</string>
      <string name="timer_message">таймер на %1$d мин.</string>
      <string name="timer_message_with_hour">таймер на %1$d ч. и %2$d мин.</string>
+	 <string name="timer_message_with_seconds">%1$d секунд</string>
      <string name="timer_minute">м</string>
      <string name="timer_start_alarm">Время истекло</string>
      <string name="timer_title">Таймер</string>
