@@ -14,7 +14,6 @@
      <string name="accessibility_more_ptions_closed">Дополнительные настройки отключены</string>
      <string name="accessibility_more_ptions_opened">Дополнительные настройки включены</string>
      <string name="accessibility_open_more_ptions">Вкл. доп. настройки</string>
-     <string name="accessibility_opti_zoom_button">Opti_Zoom</string>
      <string name="accessibility_review_thumbnail">Недавние фото</string>
      <string name="accessibility_scroll_button_slider">Camera-Video-Switcher</string>
      <string name="accessibility_show_setting_panel_button">SettingButton</string>
@@ -493,6 +492,7 @@
      <string name="toast_burst_snap_forbidden_when_face_beauty_open">Серийная съемка не поддерживается в режиме красивое лицо</string>
      <string name="toast_burst_snap_forbidden_when_hdr_open">Серийная съемка невозможна в режиме HDR или сумерки</string>
      <string name="toast_burst_snap_forbidden_when_iso_not_auto">Серийная съемка не поддерживается при не автом. ISO</string>
+	 <string name="toast_cannot_preview_image_when_screen_locked">Невозможно посмотреть изображение или видео, когда экран заблокирован</string>
      <string name="toast_start_audio_capture">Похлопайте, чтобы сработал затвор</string>
      <string name="ubi_focus_exit_button_text">Выйти</string>
      <string name="undo">Назад</string>
