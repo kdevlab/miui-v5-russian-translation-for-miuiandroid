@@ -37,7 +37,7 @@
      <string name="comment_invalid">Выберите количество звезд для оценки</string>
      <string name="comment_name_default">Пользователь %1$s</string>
      <string name="comment_publish">Отправить</string>
-     <string name="comment_score_count">Людей: %1$s</string>
+     <string name="comment_score_count">Оценок:%1$s</string>
      <string name="comment_sending">Отправка…</string>
      <string name="comment_upload_account_need_activitied">Ваш аккаунт не активирован. Включить его сейчас?</string>
      <string name="comment_upload_account_not_activitied">Ваш аккаунт не активирован. Пожалуйста, активируйте и попробуйте еще раз.</string>
@@ -176,7 +176,7 @@
      <string name="my_app">Мои приложения</string>
      <string name="new_app_tag">Новые</string>
      <string name="no_average_score">Н/Д</string>
-     <string name="no_change_log">Журнал пуст</string>
+     <string name="no_change_log">Нет списка изменений</string>
      <string name="no_comment">Нет комментариев</string>
      <string name="no_data">Нет данных, проверьте сеть</string>
      <string name="no_description">Нет приложений</string>
@@ -248,7 +248,7 @@
      <string name="pref_title_clear_cache">Очистить кэш</string>
      <string name="pref_title_clear_search_record">Очистить историю поиска</string>
      <string name="pref_title_clear_session">Очистить сессию</string>
-     <string name="pref_title_data_save">Ограничение данных</string>
+     <string name="pref_title_data_save">Экономия трафика</string>
      <string name="pref_title_data_save_mode">Показывать изображения</string>
      <string name="pref_title_delete_package">Автоудаление apk</string>
      <string name="pref_title_delta_update">Чтобы уменьшить использование мобильных данных, Xiaomi MiStore будет скачивать только отдельные части приложения, которые были обновлены</string>

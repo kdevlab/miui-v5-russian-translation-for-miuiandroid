@@ -458,7 +458,7 @@
      <string name="menu_compose">Написать</string>
      <string name="menu_folder_options">Параметры синхронизации</string>
      <string name="menu_manage_folders">Управление папками</string>
-     <string name="menu_move_to">Переместить в</string>
+     <string name="menu_move_to">Переместить</string>
      <string name="menu_move_to_inbox">Во входящие</string>
      <string name="menu_photo_save_all">Сохранить все</string>
      <string name="menu_photo_share">Поделиться</string>
@@ -504,7 +504,7 @@
      <string name="new_down_desc2">Пользовательские данные будут сохранены</string>
      <string name="new_down_desc3">Рекомендуем использовать Wi-Fi</string>
      <string name="new_feature_desc">Что нового:</string>
-     <string name="new_incoming_messages_one">%s – новое сообщение. Показать.</string>
+     <string name="new_incoming_messages_one">%s – новое сообщение. Показать?</string>
      <string name="new_messages">Новых сообщений: %1$d</string>
 	 <string name="new_version">Новая версия:</string>
      <string name="next_action">Далее</string>

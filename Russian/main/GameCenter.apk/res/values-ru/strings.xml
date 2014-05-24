@@ -8,7 +8,7 @@
      <string name="account_more_info_grade">Уровень</string>
      <string name="account_more_info_integral">Очки</string>
      <string name="account_more_info_vip">VIP</string>
-     <string name="account_tag">MiCredit</string>
+     <string name="account_tag">Аккаунт</string>
      <string name="action_gamegift">Уровень игрока</string>
      <string name="action_settings">Параметры</string>
      <string name="alipay_rechare_title_hint">Выберите сумму пополнения:</string>
@@ -97,7 +97,7 @@
      <string name="copy">Копировать</string>
      <string name="copy_success">Скопировано!</string>
      <string name="credit_center">Кредитный центр</string>
-     <string name="cue_title_data_save_mode">Сохранение трафика: изображения не загружаются</string>
+     <string name="cue_title_data_save_mode">Экономия трафика: изображения не загружаются</string>
      <string name="default_nick_name">KDev Group</string>
      <string name="delete">Удалить</string>
      <string name="description_info">Описание</string>
@@ -529,7 +529,7 @@
      <string name="pref_title_auto_update_setting">Настройка автообновления</string>
      <string name="pref_title_clear_search_record">Очистить историю поиска</string>
      <string name="pref_title_data_check_update">Проверить наличие обновлений</string>
-     <string name="pref_title_data_save_mode">Сохранение трафика</string>
+     <string name="pref_title_data_save_mode">Экономия трафика</string>
      <string name="pref_title_push_activity_notification">Рекламные уведомления</string>
      <string name="pref_title_reserve_apk">Сохранение apk</string>
      <string name="pref_title_update_notification">Уведомление о обновлениях</string>
@@ -552,7 +552,7 @@
      <string name="pull_to_refresh_pull_label">Потяните вниз, чтобы обновить</string>
      <string name="pull_to_refresh_refreshing_label">Загрузка…</string>
      <string name="pull_to_refresh_release_label">Отпустите, чтобы обновить</string>
-     <string name="purchase_mibi">%sMiCredit</string>
+     <string name="purchase_mibi">%s MiCredit</string>
      <string name="purchase_record_title">Записи покупок</string>
      <string name="purchase_record_type_all">Все</string>
      <string name="purchase_record_type_suffix">%s платежей</string>
