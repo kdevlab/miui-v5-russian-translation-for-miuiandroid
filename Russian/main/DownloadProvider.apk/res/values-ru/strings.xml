@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <!-- Builded with NXT -->
 <resources>
      <string name="app_label">Диспетчер загрузок</string>
@@ -31,7 +31,7 @@
      <string name="task_already_exist">Загрузка уже существует</string>
      <string name="wifi_recommended_body" formatted="false">"О загрузке через мобильный интернет：
 
- %s（%s）
+ %s (%s)
 
 Загрузка файла может привести к расходу денежных стредств."</string>
      <string name="wifi_recommended_title">Загрузки</string>

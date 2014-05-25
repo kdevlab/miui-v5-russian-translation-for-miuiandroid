@@ -118,7 +118,7 @@
      <string name="app_name">Менеджер аккаунтов Xiaomi</string>
      <string name="available_functionality">Доступные функции</string>
      <string name="bad_authentication">Неверный пароль или имя пользователя</string>
-     <string name="balance">Баланс: %1$s MiCredits</string>
+     <string name="balance">Баланс: %1$s MiCredit</string>
      <string name="bankcall_error_card">Введите корректный номер банковской карты</string>
      <string name="bankcall_error_card_info">Пожалуйста, введите корректные данные банковского счета.</string>
      <string name="bankcall_saved_card_info">%1$s - Карта номер %2$s</string>
@@ -352,7 +352,7 @@
      <string name="next">Далее</string>
      <string name="noRemind">Не напоминать</string>
      <string name="nobind">Не связан</string>
-     <string name="order_price">%1$s MiCredits</string>
+     <string name="order_price">%1$s MiCredit</string>
      <string name="other_settings">Дополнительные параметры</string>
      <string name="password">Пароль</string>
      <string name="password_error">Введите пароль от Вашего аккаунта</string>
@@ -396,13 +396,13 @@
      <string name="progress_prepaid_creating">Создаю платёжное поручение…</string>
      <string name="progress_querying">Обрабатываю запрос подтверждения платежа…</string>
      <string name="progress_submit_hint">Зачисление будет произведено в течение 3-х минут.</string>
-     <string name="progress_submit_pay_summary">Сумма к оплате: %1$s MiCredits</string>
-     <string name="progress_submit_recharge_summary">Сумма зачисления: %1$s MiCredits</string>
+     <string name="progress_submit_pay_summary">Сумма к оплате: %1$s MiCredit</string>
+     <string name="progress_submit_recharge_summary">Сумма зачисления: %1$s MiCredit</string>
      <string name="progress_submit_summary">Сумма зачисления: %1$s CNY</string>
      <string name="progress_submit_title">Запрос принят, идет проверка</string>
      <string name="progress_success_pay_summary">Ваш заказ был успешно оплачен!</string>
      <string name="progress_success_pay_title">Оплата завершена</string>
-     <string name="progress_success_recharge_summary">Баланс: %1$s MiCredits</string>
+     <string name="progress_success_recharge_summary">Баланс: %1$s MiCredit</string>
      <string name="progress_success_recharge_title">Операция платежа выполнена успешно.</string>
      <string name="progress_voucher_creating">Пополнение карты MiCredit…</string>
      <string name="progress_warning_check">Платеж все еще не подтвержден  Мы проверим ваш запрос в течение двух рабочих дней</string>
@@ -470,8 +470,8 @@
      <string name="sync_sub_1_sms_1_intl_sms">Для активации Ваших SIM-карт, будет отправлено одно международное и одно обычное сообщение</string>
      <string name="sync_sub_2_intl_sms">Для активации Ваших SIM-карт, будет отправлено два международных сообщения</string>
      <string name="sync_sub_2_sms">Для активации Ваших SIM-карт, будет отправлено два сообщения</string>
-     <string name="title_mili_center">MiCredits</string>
-     <string name="title_pay">Оплатить MiCredits</string>
+     <string name="title_mili_center">MiCredit</string>
+     <string name="title_pay">Оплатить MiCredit</string>
      <string name="title_pay_record">%1$s: платежи</string>
      <string name="title_paytool">Пополнение через %1$s</string>
      <string name="title_prepaid">Пополнение через карту оплаты</string>
@@ -500,7 +500,7 @@
      <string name="voucher_btn_exchange">Обмен</string>
      <string name="voucher_btn_exchange_error">Неверно</string>
      <string name="voucher_btn_has_exchanged">Обмен совершен</string>
-     <string name="voucher_denom">MiCredits</string>
+     <string name="voucher_denom">MiCredit</string>
      <string name="voucher_edit_hint">Пароль</string>
      <string name="voucher_edit_limit">цифры</string>
      <string name="voucher_empty">Нет карты MiCredit</string>

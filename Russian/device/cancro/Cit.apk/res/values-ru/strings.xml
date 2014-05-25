@@ -210,8 +210,8 @@ Hold the phone as if you're answering a call, speak in to the microphone. You sh
      <string name="cit_tool_bluetooth_not_on">BlueTooth function is not on !!</string>
      <string name="cit_tool_bluetooth_off">Выключить</string>
      <string name="cit_tool_bluetooth_on">Включить</string>
-     <string name="cit_tool_bluetooth_tx_h">Enter bluetooth single sound test（2.480GHz) mode</string>
-     <string name="cit_tool_bluetooth_tx_l">Enter bluetooth single sound test（2.402GHz）mode</string>
+     <string name="cit_tool_bluetooth_tx_h">Enter bluetooth single sound test(2.480GHz) mode</string>
+     <string name="cit_tool_bluetooth_tx_l">Enter bluetooth single sound test(2.402GHz) mode</string>
      <string name="cit_tool_log">Отчеты</string>
      <string name="cit_tool_log_bugreport">Отчет об ошибке</string>
      <string name="cit_tool_log_dmesg">DMESG</string>

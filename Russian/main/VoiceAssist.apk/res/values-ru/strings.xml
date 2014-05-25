@@ -308,7 +308,7 @@
      <string name="resource_present">Gift</string>
      <string name="resource_price_format">(%1$s)</string>
      <string name="resource_price_free">Free</string>
-     <string name="resource_price_unit"> MiCredits</string>
+     <string name="resource_price_unit"> MiCredit</string>
      <string name="resource_purchase_getting_order">Retrieving order info…</string>
      <string name="resource_purchase_verifying_payment">Verifying payment info…</string>
      <string name="resource_purchase_waiting_payment">Waiting for payment info…</string>
@@ -336,7 +336,7 @@
      <string name="resource_trial_end_purchase">Purchase</string>
      <string name="resource_trial_end_restore">Finish trial</string>
      <string name="resource_trial_end_title">Trial expired</string>
-     <string name="resource_trial_time">（trial for %1$d minutes）</string>
+     <string name="resource_trial_time">(trial for %1$d minutes)</string>
      <string name="resource_unable_to_access">"We're sorry
 the content you're looking for is not currently available in your region."</string>
      <string name="resource_unknow_error">Unkown error.</string>

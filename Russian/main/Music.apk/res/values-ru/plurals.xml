@@ -74,11 +74,11 @@
         <item quantity="other">Треков: %d</item>
      </plurals>
      <plurals name="Ntracks_remove_from_favorite_playlist">
-        <item quantity="one">Треков удалено из плейлиста: 1</item>
-        <item quantity="other">Треков удалено из плейлиста: %d</item>
+        <item quantity="one">Трек удален из избранных</item>
+        <item quantity="other">Треков удалено из избранных: %d</item>
      </plurals>
      <plurals name="Ntracks_remove_from_playlist">
-        <item quantity="one">Треков удалено из плейлиста: 1</item>
+        <item quantity="one">Трек удален из плейлиста</item>
         <item quantity="other">Треков удалено из плейлиста: %d</item>
      </plurals>
      <plurals name="Ntracks_search_result_format">

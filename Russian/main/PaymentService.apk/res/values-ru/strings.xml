@@ -4,10 +4,10 @@
      <string name="account_detail">"Аккаунт Xiaomi:
 %1$s"</string>
      <string name="app_name">Платежный сервис</string>
-     <string name="balance">Баланс: %1$s MiCredits</string>
-     <string name="balance_giftcard_payment">%1$s MiCredits（%2$s-MiCredit подарочная карта）</string>
-     <string name="balance_no_giftcard_payment">%1$s MiCredits (нельзя использовать подарочную карту для этого заказа)</string>
-     <string name="balance_payment">%1$s MiCredits</string>
+     <string name="balance">Баланс: %1$s MiCredit</string>
+     <string name="balance_giftcard_payment">%1$s MiCredit (%2$s-MiCredit подарочная карта)</string>
+     <string name="balance_no_giftcard_payment">%1$s MiCredit (нельзя использовать подарочную карту для этого заказа)</string>
+     <string name="balance_payment">%1$s MiCredit</string>
      <string name="bankcall_bank_account">Банковская карта</string>
      <string name="bankcall_call_hint">Вы получите звонок от UnionPay (020-96585) в ближайшее время</string>
      <string name="bankcall_card">Банковская карта</string>
@@ -29,10 +29,10 @@
      <string name="bankcall_name_hint">Имя на банковской карте</string>
      <string name="bankcall_phone">Телефон</string>
      <string name="bankcall_phone_credit_hint">Телефон на банковской карте</string>
-     <string name="bankcall_phone_debit_hint">Убедитесь, что у Вас хорошее соединение с интернет</string>
+     <string name="bankcall_phone_debit_hint">Убедитесь, что у Вас хорошее соединение с интернетом</string>
      <string name="bankcall_province">Провинция</string>
      <string name="bankcall_saved_card_info">%1$s - номер карты %2$s</string>
-     <string name="bankcall_xiaomi_company">Корпорация Xiaomi (Beijing)</string>
+     <string name="bankcall_xiaomi_company">Корпорация Xiaomi (Пекин)</string>
      <string name="btn_agree">Согласен</string>
      <string name="btn_back">Назад</string>
      <string name="btn_call">Позвонить</string>
@@ -123,8 +123,8 @@
      <string name="giftcard_denom_frozen">MiCredit заморжено</string>
      <string name="giftcard_empty">Нет подарочных карт</string>
      <string name="giftcard_expire">%1$s истекло</string>
-     <string name="giftcard_expire_notification_prime_title">Yikes! Your promotional code is about to expire …</string>
-     <string name="giftcard_expire_notification_sub_title">Ваша MiCard истекает %1$s</string>
+     <string name="giftcard_expire_notification_prime_title">Внимание! Срок действия MiCard скоро закончится…</string>
+     <string name="giftcard_expire_notification_sub_title">Срок действия Вашей MiCard истекает %1$s</string>
      <string name="giftcard_hint">На подарочную карту будут переведены MiCredit. Через определенный срок они будут недействительны.</string>
      <string name="giftcard_push_notification_prime_title">Вы получили подарочный сертификат</string>
      <string name="giftcard_push_notification_sub_title">%1$s: %2$s MiCredit получено</string>
@@ -188,17 +188,17 @@
      <string name="msg_order_hint_1_1">После нажатия кнопки купить, устройство</string>
      <string name="msg_order_hint_1_2">автоматически свяжется с поставщиком услуг</string>
      <string name="msg_picker_hint_1_1">1.</string>
-     <string name="msg_picker_hint_1_2">Пополнение через СМС, может быть дороже: &lt;font color=red>%1$d юань = %2$d MiCredit&lt;/font></string>
+     <string name="msg_picker_hint_1_2">Пополнение через СМС, может быть дороже: &lt;font color=red>%1$d￥ = %2$d MiCredit&lt;/font></string>
      <string name="msg_picker_hint_2_1">2.</string>
-     <string name="msg_picker_hint_2_2">Взимается плата за обслуживание в размере %1$s юань</string>
+     <string name="msg_picker_hint_2_2">Взимается плата за обслуживание в размере %1$s￥</string>
      <string name="msg_progress_hint_2_1">Поставщик услуг успешно ответил</string>
      <string name="msg_progress_hint_2_2">Скоро поступит текствоое подтверждение</string>
      <string name="msg_send_no_net_error">Ошибка отправки сообщения: поставщик услуг недоступен</string>
      <string name="msg_send_no_sim_error">Ошибка отправки сообщения: проверьте SIM-карту</string>
      <string name="msg_send_send_fail_error">Ошибка отправки сообщения</string>
-     <string name="msg_telecom_order_denom">%1s юань （не включая передачу данных）</string>
+     <string name="msg_telecom_order_denom">%1s￥ (не включая передачу данных)</string>
      <string name="msg_telecom_order_denom_label">Сумма долга:</string>
-     <string name="msg_telecom_order_goods">%1s MiCredits</string>
+     <string name="msg_telecom_order_goods">%1s MiCredit</string>
      <string name="msg_telecom_order_goods_label">О заказе:</string>
      <string name="msg_telecom_picker_hint_1_1">После нажания Подтвердить покупку, ваш телефон</string>
      <string name="msg_telecom_picker_hint_1_2">автоматически отправит сообщение поставщику услуг.</string>
@@ -207,7 +207,7 @@
      <string name="msg_telecom_sending">Ожидание провайдера сети…</string>
      <string name="next">Далее</string>
      <string name="onemore_click_exit">Нажмите еще раз для выхода</string>
-     <string name="order_price">%1$s MiCredits</string>
+     <string name="order_price">%1$s MiCredit</string>
      <string name="password_error">Неверный пароль</string>
      <string name="password_forget">Забыли пароль?</string>
      <string name="password_hint">Введите пароль от аккаунта</string>
@@ -228,12 +228,12 @@
      <string name="prepaid_password_edit_hint">Пароль карты</string>
      <string name="prepaid_picker_hint_1_2">Поддерживается только разовая плата;</string>
      <string name="prepaid_picker_hint_2_2_a">Выбранная номинальная стоимость, должна быть равна стоимости предоплаченной карты, в противном случае это приведет к потере денег</string>
-     <string name="prepaid_picker_hint_2_2_b">Если номинальная стоимость карты не составляет &lt;font color=red>%1$s ￥&lt;/font>, карта будет считаться недействительной. Xiaomi не несет ответственности за любые финансовые потери, которые происходят в результате ошибки пользователя.</string>
+     <string name="prepaid_picker_hint_2_2_b">Если номинальная стоимость карты не составляет &lt;font color=red>%1$s￥&lt;/font>, карта будет считаться недействительной. Xiaomi не несет ответственности за любые финансовые потери, которые происходят в результате ошибки пользователя.</string>
      <string name="progress_bankcall_card_creating">Создание заказа…</string>
      <string name="progress_bankcall_card_querying">Определение типа банковского счета…</string>
      <string name="progress_creating">Проверка покупки…</string>
      <string name="progress_downloading">Загрузка…</string>
-     <string name="progress_error_pay_summary">Добавлено %1$s MiCredits. Но платеж не удался! Попробуйте позже.</string>
+     <string name="progress_error_pay_summary">Добавлено %1$s MiCredit. Но платеж не удался! Попробуйте позже.</string>
      <string name="progress_error_pay_title">Ошибка оплаты</string>
      <string name="progress_error_recharge_summary">Пополенение не удалось. Попробуйте позже.</string>
      <string name="progress_error_recharge_title">Ошибка пополнения</string>
@@ -244,11 +244,11 @@
      <string name="progress_prepaid_creating">Обработка запроса на пополнение…</string>
      <string name="progress_querying">Подождите…</string>
      <string name="progress_submit_hint">Пополнение будет зачислено в течение 3х минут</string>
-     <string name="progress_submit_recharge_summary">Пополнение: %1$s MiCredits</string>
+     <string name="progress_submit_recharge_summary">Пополнение: %1$s MiCredit</string>
      <string name="progress_submit_title">Запрос подтвержден</string>
      <string name="progress_success_pay_summary">Ваш заказ был успешно оплачен!</string>
      <string name="progress_success_pay_title">Оплата %1$s MiCredit завершена</string>
-     <string name="progress_success_recharge_summary">Баланс: %1$s MiCredits</string>
+     <string name="progress_success_recharge_summary">Баланс: %1$s MiCredit</string>
      <string name="progress_success_recharge_title">Пополнение на %1$s MiCredit завершено</string>
      <string name="progress_voucher_creating">Пополнение баланаса картой MiCredit…</string>
      <string name="progress_warning_check">"Пока не проверено.
@@ -258,21 +258,21 @@
 2. Сообщите свой серийный номер: %2$s"</string>
      <string name="progress_warning_waiting">Еще не подтвержден. Пожалуйста, повторите попытку позже.</string>
      <string name="recharge_bankcall_title">Банковская карта</string>
-     <string name="recharge_denomination">%1$s юань</string>
-     <string name="recharge_grid_edit_hint">Размер (юань)</string>
-     <string name="recharge_grid_edit_limit">%1$s~%2$s юань</string>
-     <string name="recharge_grid_edit_upper_limit">Не может превышать %1$s юань</string>
-     <string name="recharge_grid_error_denomination">Введите корректный размер пополнения (%1$d~%2$dRMB)</string>
+     <string name="recharge_denomination">%1$s￥</string>
+     <string name="recharge_grid_edit_hint">Сумма (в юанях)</string>
+     <string name="recharge_grid_edit_limit">%1$s~%2$s￥</string>
+     <string name="recharge_grid_edit_upper_limit">Не может превышать %1$s￥</string>
+     <string name="recharge_grid_error_denomination">Введите корректный размер пополнения (%1$d~%2$d￥)</string>
      <string name="recharge_grid_picker_hint">Выберите размер пополнения</string>
      <string name="recharge_group_favorite">Используемые методы пополнения</string>
      <string name="recharge_group_others">Другие методы пополнения</string>
      <string name="recharge_message_title">Сообщение</string>
-     <string name="recharge_notification">Пополнение: %1$s MiCredits</string>
+     <string name="recharge_notification">Пополнение: %1$s MiCredit</string>
      <string name="recharge_novalid_method">Нет действующего пополнения</string>
      <string name="recharge_other">Другие способы оплаты</string>
      <string name="recharge_pcpay_title">Компьютер</string>
      <string name="recharge_prepaid_title">Карты оплаты</string>
-     <string name="recharge_push_notification_prime_title">%1$d добавил %2$s MiCredits на Ваш счет</string>
+     <string name="recharge_push_notification_prime_title">%1$d добавил %2$s MiCredit на Ваш счет</string>
      <string name="recharge_push_notification_sub_title">Пополнение завершено</string>
      <string name="recharge_record_empty">Нет записей</string>
      <string name="recharge_voucher_title">Карта MiCredit</string>
@@ -287,14 +287,14 @@
      <string name="title_gesture">Графический ключ</string>
      <string name="title_giftcard">Подарочные карты</string>
      <string name="title_lockpattern">Включить блокировку</string>
-     <string name="title_mili_center">Мои MiCredits</string>
+     <string name="title_mili_center">Мои MiCredit</string>
      <string name="title_myaccount">Мой аккаунт: %s</string>
      <string name="title_nopassword">Не требовать для мелких платежей</string>
      <string name="title_nopassword_dialog">Суточный лимит</string>
      <string name="title_password">Пароль</string>
-     <string name="title_password_threshold">Суточный лимит = %1$s юань</string>
+     <string name="title_password_threshold">Суточный лимит = %1$s￥</string>
      <string name="title_pay_record">История платежей</string>
-     <string name="title_recharge">Пополнить MiCredits</string>
+     <string name="title_recharge">Пополнить MiCredit</string>
      <string name="title_recharge_record">Пополнения</string>
      <string name="title_transaction">Мои операции</string>
      <string name="title_visible_pattern">Сделать шаблон видимым</string>

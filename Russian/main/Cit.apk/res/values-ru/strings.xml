@@ -210,8 +210,8 @@ Hold the phone as if you're answering a call, speak in to the microphone. You sh
      <string name="cit_tool_bluetooth_not_on">BlueTooth не включен!!</string>
      <string name="cit_tool_bluetooth_off">Выключить</string>
      <string name="cit_tool_bluetooth_on">Включить</string>
-     <string name="cit_tool_bluetooth_tx_h">Enter bluetooth single sound test（2.480GHz) mode</string>
-     <string name="cit_tool_bluetooth_tx_l">Enter bluetooth single sound test（2.402GHz）mode</string>
+     <string name="cit_tool_bluetooth_tx_h">Enter bluetooth single sound test(2.480GHz) mode</string>
+     <string name="cit_tool_bluetooth_tx_l">Enter bluetooth single sound test(2.402GHz) mode</string>
      <string name="cit_tool_log">Отчеты</string>
      <string name="cit_tool_log_bugreport">Отчет об ошибке</string>
      <string name="cit_tool_log_dmesg">DMESG</string>
@@ -227,7 +227,7 @@ Hold the phone as if you're answering a call, speak in to the microphone. You sh
      <string name="cit_tool_modem">Тест модема</string>
      <string name="cit_tool_modem_bugreport">Force MODEM Coredump</string>
      <string name="cit_tool_modem_exit_ftm">Выйти из режима FTM</string>
-     <string name="cit_tool_modem_offline_log">Открыть/закрыть оффлайн журнал</string>
+     <string name="cit_tool_modem_offline_log">Открыть/закрыть офлайн журнал</string>
      <string name="cit_tool_nfc">Тест NFC</string>
      <string name="cit_tool_nfc_st">Nfc ST:</string>
      <string name="cit_tool_nfc_st_confreq">freq:</string>

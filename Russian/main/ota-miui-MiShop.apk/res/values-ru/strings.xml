@@ -196,7 +196,7 @@
      <string name="fcode_waiting">Идет проверка подлинности…</string>
      <string name="festival_forward_message">Поделитесь скриншотом (кнопка меню + громкость вниз) с друзьями</string>
      <string name="festival_launch_mishop">Перейти в MiShop</string>
-     <string name="filter_all">（Все）</string>
+     <string name="filter_all">(Все)</string>
      <string name="filter_comment">关注度</string>
      <string name="filter_default">默认</string>
      <string name="filter_is_null">Совпадений не найдено</string>
@@ -386,7 +386,7 @@
      <string name="mihome_check_btn">立即签到</string>
      <string name="mihome_check_count">%s人来过</string>
      <string name="mihome_checkin_success">签到成功</string>
-     <string name="mihome_gps">（GPS координаты）</string>
+     <string name="mihome_gps">(GPS координаты)</string>
      <string name="mihome_info_empty">Нет информации о Xiaomi Mall, пожалуйста, зайдите позже</string>
      <string name="mihome_map_empty">Карты ещё нет, пожалуйста, зайдите позже</string>
      <string name="mihome_reserve">预约小米之家服务</string>
@@ -688,7 +688,7 @@
      <string name="search_hint">搜索商品名称</string>
      <string name="search_hint_title">大家都在搜</string>
      <string name="search_result_is_null">没有与您搜索内容相符的产品</string>
-     <string name="search_result_title">“%1$s”（%2$s）</string>
+     <string name="search_result_title">“%1$s”(%2$s)</string>
      <string name="search_title">“%s”</string>
      <string name="see_more">再去逛逛</string>
      <string name="self_confirm_dowloading">Новая версия готова к загрузке…</string>
@@ -726,7 +726,7 @@
      <string name="shake_share">\u0009\u0009将此页面截屏（小米手机为菜单键＋音量下键）， 发送新浪微博带有＃小米商城APP＃话题，并@小米公司和一位好友，有机会赢大奖。</string>
      <string name="shake_success">Вы выиграли!</string>
      <string name="shake_title">Встряхнуть</string>
-     <string name="shake_try_again">Попробуйте еще раз （%1$s）</string>
+     <string name="shake_try_again">Попробуйте еще раз (%1$s)</string>
      <string name="share_to_weibo_failed">分享微博失败！</string>
      <string name="shopping_act">Вам предоставлены льготные условия</string>
      <string name="shopping_add_supply_exception">Добавить исключение покупки тарифа</string>
