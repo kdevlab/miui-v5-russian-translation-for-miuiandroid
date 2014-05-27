@@ -640,6 +640,18 @@
      <string name="bluetooth_tethering_overflow_error">Макс. число подключаемых устройств: %1$d</string>
      <string name="bluetooth_turning_off">Отключение Bluetooth…</string>
      <string name="bluetooth_turning_on">Включение Bluetooth…</string>
+	 <string name="bluetooth_unlock_add_device">Добавить устройство</string>
+     <string name="bluetooth_unlock_change_device_confirm_msg">Старое соответствубщее устройство будет заменено на новое. Продолжить?</string>
+     <string name="bluetooth_unlock_change_matched_device">Другое устройство</string>
+     <string name="bluetooth_unlock_confirm_device_text">Пожалуйста, хлопать устройство для подтверждения</string>
+     <string name="bluetooth_unlock_delete_device">Удалить устройство</string>
+     <string name="bluetooth_unlock_delete_device_confirm_msg">Удалиь это устройство?</string>
+     <string name="bluetooth_unlock_device_matched_text">Использовать это устройство для разблокировки клавиатуры</string>
+     <string name="bluetooth_unlock_no_matched_device_yet">Нет доступных устройств</string>
+     <string name="bluetooth_unlock_settings_devices_title">Устройство</string>
+     <string name="bluetooth_unlock_settings_toggle_title">Применить на</string>
+     <string name="bluetooth_unlock_settings_unlock_device">Разблокировать клавиатуру</string>
+     <string name="bluetooth_unlock_title">Разблокировка Bluetooth-устройством</string>
      <string name="bluetooth_untether_blank">Подключение к %1$s будет прервано</string>
      <string name="bluetooth_visibility">Видимость</string>
      <string name="bluetooth_visibility_timeout">Тайм-аут видимости</string>
@@ -2988,6 +3000,8 @@
      <string name="search_wifi">Wi-Fi</string>
      <string name="security_enable_widgets_disabled_summary">Отключено администратором</string>
      <string name="security_enable_widgets_title">Включить виджеты</string>
+	 <string name="security_keyguard_category_name">Блокировка кнопок</string>
+     <string name="security_password_category_name">Пароль</string>
      <string name="security_not_set">Безопасность не установлена</string>
      <string name="security_passwords_title">Пароли</string>
      <string name="security_privacy_settings_title">Конфиденциальность</string>
@@ -4106,6 +4120,8 @@
      <string name="wifi_tether_setting_title">Основные настройки</string>
      <string name="wifi_tether_starting">Включение…</string>
      <string name="wifi_tether_stopping">Выключение…</string>
+	 <string name="wifi_type_approval" />
+     <string name="wifi_type_approval_title">Type Approval</string>
      <string name="wifi_tether_wps_connect_summary">Выбор защищенной сети Wi-Fi</string>
      <string name="wifi_tether_wps_connect_title">Соединение WPS</string>
      <string name="wifi_tether_wps_pin_error">Неверный PIN</string>

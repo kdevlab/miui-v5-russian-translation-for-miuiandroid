@@ -5,8 +5,6 @@
 %1$s"</string>
      <string name="app_name">Платежный сервис</string>
      <string name="balance">Баланс: %1$s MiCredit</string>
-     <string name="balance_giftcard_payment">%1$s MiCredit (%2$s-MiCredit подарочная карта)</string>
-     <string name="balance_no_giftcard_payment">%1$s MiCredit (нельзя использовать подарочную карту для этого заказа)</string>
      <string name="balance_payment">%1$s MiCredit</string>
      <string name="bankcall_bank_account">Банковская карта</string>
      <string name="bankcall_call_hint">Вы получите звонок от UnionPay (020-96585) в ближайшее время</string>
@@ -53,14 +51,18 @@
      <string name="btn_wait_call_count">Ожидание (%1$s)</string>
      <string name="btn_wait_confirm">Ожидание</string>
      <string name="btn_wait_confirm_count">Ожидание "%1$s"</string>
+	 <string name="button_bind_phone">Привязать сейчас</string>
      <string name="button_call">Звонок</string>
      <string name="button_cancel">Отмена</string>
      <string name="button_confirm">OK</string>
+	 <string name="button_count_down_reget">Получение кода(%1$s)</string>
      <string name="button_next">Далее</string>
      <string name="button_pay">Оплатить</string>
      <string name="button_recharge">Пополнить</string>
      <string name="button_recharge_pay">Пополнить</string>
+	 <string name="button_reget">Получить код</string>
      <string name="button_retry">Повтор</string>
+	 <string name="button_sms_code">Подтвердить</string>
      <string name="cancel">Отмена</string>
      <string name="change_security_lock">Изменить блокировку</string>
      <string name="detail_consume_account">ID покупки</string>
@@ -126,6 +128,7 @@
      <string name="giftcard_expire_notification_prime_title">Внимание! Срок действия MiCard скоро закончится…</string>
      <string name="giftcard_expire_notification_sub_title">Срок действия Вашей MiCard истекает %1$s</string>
      <string name="giftcard_hint">На подарочную карту будут переведены MiCredit. Через определенный срок они будут недействительны.</string>
+	 <string name="giftcard_payment">%1$s MiCredit</string>
      <string name="giftcard_push_notification_prime_title">Вы получили подарочный сертификат</string>
      <string name="giftcard_push_notification_sub_title">%1$s: %2$s MiCredit получено</string>
      <string name="giftcard_record">Подарочные карты</string>
@@ -152,6 +155,7 @@
      <string name="hfb_succ_label">购买成功</string>
      <string name="hfb_succ_result">感谢您使用通信账户支付服务。</string>
      <string name="label_balance">Баланс:</string>
+	 <string name="label_giftcard">Подарочная карта:</string>
      <string name="label_order_name">Продукт:</string>
      <string name="label_order_price">Цена:</string>
      <string name="lockpassword_choose_your_pattern_header">Выберите шаблон</string>
@@ -208,6 +212,7 @@
      <string name="next">Далее</string>
      <string name="onemore_click_exit">Нажмите еще раз для выхода</string>
      <string name="order_price">%1$s MiCredit</string>
+	 <string name="partner_giftcard_payment">%1$sMiCredit (только для %2$s)</string>
      <string name="password_error">Неверный пароль</string>
      <string name="password_forget">Забыли пароль?</string>
      <string name="password_hint">Введите пароль от аккаунта</string>
@@ -216,11 +221,13 @@
      <string name="paytool_error_install">Установка мобильного плагина безопасности %1$s не удалась</string>
      <string name="paytool_error_msp">Ошибка %1$s</string>
      <string name="paytool_msp_not_installed">Вы не установили плагин мобильной безопасности %1$s. Установить его сейчас?</string>
+	 <string name="prepaid_card_order_info">%1$s пополнение карты: RMB %2$s</string>
      <string name="prepaid_edit_limit">знаков</string>
      <string name="prepaid_error_card_length">Неверный номер или пароль карты</string>
      <string name="prepaid_error_card_number">Неверный номер карты</string>
      <string name="prepaid_error_carrier">Выберите оператора</string>
      <string name="prepaid_error_denomination">Выберите сумму пополнения</string>
+	 <string name="prepaid_error_not_choose_carrier">Оператор не выбран</string>
      <string name="prepaid_error_password">Неверный пароль карты</string>
      <string name="prepaid_grid_carrier_hint">Выберите оператора</string>
      <string name="prepaid_grid_denomination_hint">Выберите сумму</string>
@@ -281,7 +288,12 @@
      <string name="scan_prompt_retry">Держите карту так, чтобы не было бликов. После чего повторите попытку.</string>
      <string name="scan_prompt_voucher">Сканировать пароль MiCredit</string>
      <string name="security_setting">Настройки безопасности</string>
-     <string name="summary_lockpattern">Защита Micredit ключем блокировки</string>
+	 <string name="sms_code_error">Ошибка проверочного кода. Повторите еще раз.</string>
+     <string name="sms_code_hint">Проверочный код</string>
+     <string name="summary_bind_phone">Чтобы обеспечить безопасность своей учетной записи, пожалуйста, заполните компенсацию после привязки номера телефона.</string>
+     <string name="summary_lockpattern">Защита ключем блокировки</string>
+	 <string name="summary_sms_code">Чтобы обеспечить безопасность своей учетной записи, введите код подтверждения, полученный на номер %1$s, а затем закончить процедуру.</string>
+     <string name="title_bind_phone">Привзязать номер</string>
      <string name="title_change_lockpattern">Сменить ключ</string>
      <string name="title_discounts">Акции и скидки</string>
      <string name="title_gesture">Графический ключ</string>
@@ -294,8 +306,9 @@
      <string name="title_password">Пароль</string>
      <string name="title_password_threshold">Суточный лимит = %1$s￥</string>
      <string name="title_pay_record">История платежей</string>
-     <string name="title_recharge">Пополнить MiCredit</string>
+     <string name="title_recharge">Пополнить баланс</string>
      <string name="title_recharge_record">Пополнения</string>
+	 <string name="title_sms_code">Введите проверочный код</string>
      <string name="title_transaction">Мои операции</string>
      <string name="title_visible_pattern">Сделать шаблон видимым</string>
      <string name="voucher_edit_hint">Код</string>

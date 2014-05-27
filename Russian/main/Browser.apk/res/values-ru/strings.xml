@@ -138,8 +138,10 @@
      <string name="contextmenu_sharelink">Отправить ссылку</string>
      <string name="contextmenu_view_image">Просмотр изображения</string>
      <string name="copy_link">Копировать URL</string>
+	 <string name="copy_to_clipboard_failure_message">Не удалось скопировать в буфер обмена</string>
      <string name="create_shortcut_bookmark">Ярлык на рабочий стол</string>
      <string name="date_picker_dialog_clear">Очистить</string>
+	 <string name="date_picker_dialog_other_button_label">Другое</string>
      <string name="date_picker_dialog_set">ОК</string>
      <string name="date_picker_dialog_title">Выберите дату</string>
      <string name="date_time_picker_dialog_title">Выберите дату и время</string>
