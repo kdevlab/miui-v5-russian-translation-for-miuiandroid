@@ -34,7 +34,7 @@
      <string name="backup_items_app_tailer">" - данные приложений "</string>
      <string name="backup_items_sysdata_tailer">" - системные данные, "</string>
      <string name="backup_new">Новый</string>
-     <string name="backup_progress">Выполняется резервная копия…</string>
+     <string name="backup_progress">Выполняется резервное копирование…</string>
      <string name="backup_recently">(последний)</string>
      <string name="backup_report">Отчет</string>
      <string name="backup_update">Обновить</string>
@@ -114,17 +114,17 @@
      <string name="cloud_app_restore_summary">Восстановить ранее установленные приложения и связать с ними данные пользователя</string>
      <string name="cloud_app_restore_wifi_prompt">Вам необходимо подключиться к Интернету через Wi-Fi для восстановления приложений и пользовательских данных.</string>
      <string name="cloud_app_total_size">Размер копии: %1$s</string>
-     <string name="cloud_app_version_size">Версия: %1$s, Размер:%2$s</string>
+     <string name="cloud_app_version_size">Версия: %1$s, размер:%2$s</string>
      <string name="cloud_app_wait_wifi">Ожидание Wi-Fi</string>
-     <string name="cloud_backup_hint">Вы должны войти в систему для онлайн резервного копирования</string>
-     <string name="cloud_backup_login">Войти в MIUI</string>
+     <string name="cloud_backup_hint">Вы должны войти в систему для резервного копирования в облако</string>
+     <string name="cloud_backup_login">Войти в аккаунт Xiaomi</string>
      <string name="cloud_backup_window_title">Облако</string>
      <string name="cloud_home_title">Онлайн</string>
      <string name="cloud_item_info_summary">(Локально: %1$s|Онлайн: %2$s)</string>
      <string name="cloud_last_backup">Последняя:</string>
      <string name="cloud_no_backup">Нет резервных копий</string>
      <string name="cloud_restore_guide">"Нажмите кнопку \"Начать\" для восстановления данных.
-Вы можете восстановить %s в бэкап."</string>
+Вы также можете восстановить %s в резервном хранилище."</string>
      <string name="cloud_restore_title">Восстановление</string>
      <string name="cloud_restore_window_title">Восстановление из облака</string>
      <string name="cloud_search">Поиск…</string>
@@ -146,7 +146,7 @@
      <string name="enable_encrypt_indicator">Резервные копии не зашифрованы. Нажмите здесь, чтобы включить шифрование.</string>
      <string name="enable_encrypt_summery1">"Система зашифрует локальный бэкап на основе аккаунта Xiaomi.
  Вам нужно будет войти в учетную запись Xiaomi для удаления данных или использования с других устройств для восстановления резервной копии."</string>
-     <string name="enable_encrypt_summery2">"Новый бэкап будет автоматически шифроваться. 
+     <string name="enable_encrypt_summery2">"Новые бэкапы будут автоматически шифроваться. 
  Вы должны войти в аккаунт Xiaomi для удаления данных или использования других устройств для восстановления резервной копии."</string>
      <string name="enable_encrypt_title">Шифрование</string>
      <string name="enable_encrypt_xiaomi_account">Эта резервная копия была создана %1$s. Пожалуйста, удалите текущий аккаунт, и войдите в %2$s для восстановления данных.</string>
@@ -235,7 +235,7 @@
 Нажмите кнопку OK, чтобы отменить незавершенную задачу."</string>
      <string name="task_failed">Не удалось</string>
      <string name="task_failed_all_local">Ошибки во всех задачах</string>
-     <string name="task_failed_local">Ошибка в задачах (%1$s)</string>
+     <string name="task_failed_local">Ошибки в задачах: %1$s</string>
      <string name="task_finished">Завершено</string>
      <string name="task_local_backup_cancel_dialog">"Резервное копирование не было завершено.
 Нажмите кнопку OK, чтобы удалить эту резервную копию."</string>

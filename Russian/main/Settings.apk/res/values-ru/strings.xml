@@ -641,11 +641,11 @@
      <string name="bluetooth_turning_off">Отключение Bluetooth…</string>
      <string name="bluetooth_turning_on">Включение Bluetooth…</string>
 	 <string name="bluetooth_unlock_add_device">Добавить устройство</string>
-     <string name="bluetooth_unlock_change_device_confirm_msg">Старое соответствубщее устройство будет заменено на новое. Продолжить?</string>
+     <string name="bluetooth_unlock_change_device_confirm_msg">Старое соответствующее устройство будет заменено на новое. Продолжить?</string>
      <string name="bluetooth_unlock_change_matched_device">Другое устройство</string>
      <string name="bluetooth_unlock_confirm_device_text">Пожалуйста, хлопать устройство для подтверждения</string>
      <string name="bluetooth_unlock_delete_device">Удалить устройство</string>
-     <string name="bluetooth_unlock_delete_device_confirm_msg">Удалиь это устройство?</string>
+     <string name="bluetooth_unlock_delete_device_confirm_msg">Удалить это устройство?</string>
      <string name="bluetooth_unlock_device_matched_text">Использовать это устройство для разблокировки клавиатуры</string>
      <string name="bluetooth_unlock_no_matched_device_yet">Нет доступных устройств</string>
      <string name="bluetooth_unlock_settings_devices_title">Устройство</string>

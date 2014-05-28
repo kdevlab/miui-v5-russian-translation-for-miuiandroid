@@ -1094,7 +1094,7 @@
      <string name="dndm_notification">Тихий режим активен</string>
      <string name="dndm_open">Тихий режим</string>
      <string name="dndm_repeated_call_setting_title">Повторные звонки</string>
-     <string name="dndm_repeated_call_summary_3min">Если звонящий в течении 3х минут позвонит повторно, звук звонка не будет отключен</string>
+     <string name="dndm_repeated_call_summary_3min">Если звонящий в течение 3х минут позвонит повторно, звук звонка не будет отключен</string>
      <string name="dndm_repeated_call_summary_none">Отключать звук при повторных звонках с одного и того же номера</string>
      <string name="dndm_special_call_setting_group">Исключения</string>
      <string name="dndm_summary">Когда тихий режим активен, звук вызовов и уведомлений, во время блокировки телефона, будет отключен.</string>

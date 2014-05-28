@@ -55,7 +55,7 @@
      <string name="button_call">Звонок</string>
      <string name="button_cancel">Отмена</string>
      <string name="button_confirm">OK</string>
-	 <string name="button_count_down_reget">Получение кода(%1$s)</string>
+	 <string name="button_count_down_reget">Получение кода (%1$s)</string>
      <string name="button_next">Далее</string>
      <string name="button_pay">Оплатить</string>
      <string name="button_recharge">Пополнить</string>
@@ -212,7 +212,7 @@
      <string name="next">Далее</string>
      <string name="onemore_click_exit">Нажмите еще раз для выхода</string>
      <string name="order_price">%1$s MiCredit</string>
-	 <string name="partner_giftcard_payment">%1$sMiCredit (только для %2$s)</string>
+	 <string name="partner_giftcard_payment">%1$s MiCredit (только для %2$s)</string>
      <string name="password_error">Неверный пароль</string>
      <string name="password_forget">Забыли пароль?</string>
      <string name="password_hint">Введите пароль от аккаунта</string>
@@ -221,7 +221,7 @@
      <string name="paytool_error_install">Установка мобильного плагина безопасности %1$s не удалась</string>
      <string name="paytool_error_msp">Ошибка %1$s</string>
      <string name="paytool_msp_not_installed">Вы не установили плагин мобильной безопасности %1$s. Установить его сейчас?</string>
-	 <string name="prepaid_card_order_info">%1$s пополнение карты: RMB %2$s</string>
+	 <string name="prepaid_card_order_info">%1$s пополнение карты: %2$s￥</string>
      <string name="prepaid_edit_limit">знаков</string>
      <string name="prepaid_error_card_length">Неверный номер или пароль карты</string>
      <string name="prepaid_error_card_number">Неверный номер карты</string>
@@ -293,7 +293,7 @@
      <string name="summary_bind_phone">Чтобы обеспечить безопасность своей учетной записи, пожалуйста, заполните компенсацию после привязки номера телефона.</string>
      <string name="summary_lockpattern">Защита ключем блокировки</string>
 	 <string name="summary_sms_code">Чтобы обеспечить безопасность своей учетной записи, введите код подтверждения, полученный на номер %1$s, а затем закончить процедуру.</string>
-     <string name="title_bind_phone">Привзязать номер</string>
+     <string name="title_bind_phone">Привязать номер</string>
      <string name="title_change_lockpattern">Сменить ключ</string>
      <string name="title_discounts">Акции и скидки</string>
      <string name="title_gesture">Графический ключ</string>

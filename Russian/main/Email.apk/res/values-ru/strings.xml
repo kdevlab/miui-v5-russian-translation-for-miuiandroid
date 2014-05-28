@@ -307,7 +307,7 @@
      <string name="delete">Удалить</string>
      <string name="deleted">Удалено</string>
 	 <string name="device_activity_btn_str">Возврат к действию</string>
-     <string name="device_activity_lint_str">Включить почтовым слыжбам полное обновление и активировать оборудование безопасности</string>
+     <string name="device_activity_lint_str">Включить почтовым службам полное обновление и активировать оборудование безопасности</string>
      <string name="device_admin_description">Включение серверных политик безопасности</string>
      <string name="device_admin_label">Электронная почта</string>
 	 <string name="device_not_activiey_lint1">Диспетчер устройств не активирован</string>

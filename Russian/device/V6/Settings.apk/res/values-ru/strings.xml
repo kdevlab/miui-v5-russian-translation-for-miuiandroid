@@ -10,7 +10,7 @@
      <string name="AGPS_CAUSE_REMOTE_ABORT">Удалённая сторона завершила сессию (получен SUPL END)</string>
      <string name="AGPS_CAUSE_REMOTE_MSG_ERROR">Получено некорректное содержимое в сообщении</string>
      <string name="AGPS_CAUSE_REQ_NOT_ACCEPTED">Запрос не принят</string>
-     <string name="AGPS_CAUSE_TIMER_EXPIRY">Сообщение не вернулось в течении определённого временного интервала</string>
+     <string name="AGPS_CAUSE_TIMER_EXPIRY">Сообщение не вернулось в течение определённого временного интервала</string>
      <string name="AGPS_CAUSE_TLS_AUTH_FAIL">Ошибка аутентификации TLS</string>
      <string name="AGPS_CAUSE_USER_AGREE">Пользователь согласился с подтверждением</string>
      <string name="AGPS_CAUSE_USER_DENY">Пользователь не согласился с подтверждением</string>
