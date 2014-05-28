@@ -409,6 +409,7 @@
      <string name="pref_video_focusmode_entry_auto">Нажатие</string>
      <string name="pref_video_focusmode_entry_continuous">Непрерывный</string>
      <string name="pref_video_focusmode_title">Режим фокусировки</string>
+	 <string name="pref_video_quality_entry_4kuhd">Ультра HD</string>
      <string name="pref_video_quality_title">Качество видео</string>
      <string name="pref_video_slow_speed_title_simple_mode">Замедление</string>
      <string name="pref_video_speed_entry_fast">Быстрая</string>

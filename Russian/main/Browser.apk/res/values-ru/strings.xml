@@ -267,6 +267,13 @@
      <string name="miui_quicksearch_enable_pref_title">Поиск в уведомлениях</string>
      <string name="miui_search_notification_message">Нажмите, чтобы открыть</string>
      <string name="miui_search_notification_title">Быстрый поиск</string>
+	 <string name="miuichromium_error_page_mobile">Мобильная сеть</string>
+     <string name="miuichromium_error_page_reason_network">Посмотреть адрес</string>
+     <string name="miuichromium_error_page_reason_server">Не удалось загрузить страницу</string>
+     <string name="miuichromium_error_page_reload">Обновить</string>
+     <string name="miuichromium_error_page_title">Не удалось найти страницу</string>
+     <string name="miuichromium_error_page_url">Посмотреть ссылку</string>
+     <string name="miuichromium_error_page_wlan">Настройки Wi-Fi</string>
      <string name="miuichromium_save_password_message">Вы хотите, чтобы браузер запомнил этот пароль?</string>
      <string name="miuichromium_save_password_never">Никогда</string>
      <string name="miuichromium_save_password_notnow">Не сейчас</string>

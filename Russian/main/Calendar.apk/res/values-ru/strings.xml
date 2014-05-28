@@ -172,6 +172,7 @@
      <string name="online_reminder_slider_text">Включить оповещения</string>
      <string name="pengzu">彭祖</string>
      <string name="prefDialogTitle_vibrateWhen">Вибрация</string>
+	 <string name="pref_error_no_ringtone_select">Ничего не выбрано</string>
      <string name="pref_title_alarm_remind">Звуковой сигнал</string>
      <string name="pref_title_alert_remind">Всплывающее окно</string>
      <string name="pref_title_no_remind">Выключено</string>

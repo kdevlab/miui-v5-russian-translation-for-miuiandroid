@@ -674,7 +674,7 @@
      <string name="bugreport_in_power_summary">Показывать в меню опцию отправки отчета об ошибке</string>
      <string name="bugreport_tool_log_toast">Лог сохранен в %s</string>
      <string name="bugreport_tool_log_toast_generate_bugreport">Создание отчета об ошибке</string>
-     <string name="build_number">Номер сборки</string>
+     <string name="build_number">Номер сборки:</string>
      <string name="builtin_keyboard_settings_summary">Настройки физической клавиатуры</string>
      <string name="builtin_keyboard_settings_title">Физическая клавиатура</string>
      <string name="button_disconnect_network">Отключение от сети</string>
@@ -1859,6 +1859,7 @@
      <string name="manage_notification_access">Доступ к уведомлениям</string>
      <string name="manage_notification_access_summary_zero">Приложения не могут читать уведомления</string>
      <string name="manage_space_text">Управление местом</string>
+	 <string name="manage_xiaomi_router">Управление роутером Xiaomi</string>
      <string name="manageapplications_settings_summary">Управление установленными приложениями и их удаление</string>
      <string name="manageapplications_settings_title">Приложения</string>
      <string name="manually_add_network">Добавить сеть</string>
@@ -4183,6 +4184,10 @@
      <string name="xiaomi_account">Аккаунт Xiaomi</string>
      <string name="xiaomi_cloud_service">Mi Cloud</string>
      <string name="xiaomi_money_service">Центр MiCredit</string>
+	 <string name="xiaomi_router_available_notif_summary">Нажмите, чтобы посмотреть</string>
+     <string name="xiaomi_router_available_notif_title">Доступен Xiaomi роутер</string>
+     <string name="xiaomi_router_notif_summary">Сообщать, когда Xiaomi роутер доступен</string>
+     <string name="xiaomi_router_notif_title">Уведомления</string>
      <string name="yes">Да</string>
      <string name="zone_auto">Часовой пояс сети</string>
      <string name="zone_auto_summaryOff">Использовать часовой пояс сети</string>

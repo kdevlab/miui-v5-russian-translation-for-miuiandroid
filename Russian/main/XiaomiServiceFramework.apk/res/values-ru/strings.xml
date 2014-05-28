@@ -322,11 +322,11 @@
      <string name="micloud_title_dspt" formatted="false">"Всего: %s 
 занято: %s | свободно: %s"</string>
      <string name="micloud_title_full_dspt">Вы достигли предела места в облаке</string>
-     <string name="micloud_upgrade_space">Добавить места</string>
+     <string name="micloud_upgrade_space">Добавить место</string>
      <string name="micloud_use_existing">Существующий</string>
      <string name="micloud_user_base_info">Общая информация</string>
      <string name="micloud_user_email">Почта</string>
-     <string name="micloud_user_id">ID</string>
+     <string name="micloud_user_id">ID пользователя</string>
      <string name="micloud_user_name">Имя</string>
      <string name="micloud_user_phone">Телефон</string>
      <string name="micloud_user_space_usage">Облако</string>
@@ -335,7 +335,7 @@
      <string name="micloud_warn_full_title">Недостаточно метса</string>
      <string name="micloud_warn_low_sum">Вы использовали 90% места для хранения в облаке</string>
      <string name="micloud_warn_low_title">Мало свободного места…</string>
-     <string name="micloud_web_discription_01">Войдите на i.xiaomi.com</string>
+     <string name="micloud_web_discription_01">Зайдите на i.xiaomi.com</string>
      <string name="micloud_web_discription_02">для хранения и доступа к файлам из любого места</string>
      <string name="micloud_welcome_skip_login"><u>Пропустить этот шаг</u></string>
      <string name="mili_center">MiCredit</string>
@@ -347,7 +347,7 @@
      <string name="msg_picker_hint_2_2">За каждую SMS взимается плата, согласно тарифу вашего оператора</string>
      <string name="msg_picker_hint_3_1">3. </string>
      <string name="msg_picker_hint_3_2">Максимальная сумма пополнения 300 юаней в месяц</string>
-     <string name="my_mili_record">Мой MiCredit</string>
+     <string name="my_mili_record">Мои MiCredit</string>
      <string name="my_xiaomi_account">Мой аккаунт Xiaomi</string>
      <string name="next">Далее</string>
      <string name="noRemind">Не напоминать</string>
