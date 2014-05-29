@@ -330,6 +330,7 @@ SMS (%1$d), MMS (%2$d)"</string>
      <string name="private_settings">Настройки</string>
      <string name="processing">Обработка…</string>
      <string name="prvate_contact">Приватные контакты</string>
+	 <string name="quick_reply">Ответить</string>
      <string name="rate_limit_surpassed">Подтвердить</string>
      <string name="received_label">"Получено: "</string>
      <string name="recipient_label">"Получатель: "</string>
@@ -346,7 +347,7 @@ SMS (%1$d), MMS (%2$d)"</string>
      <string name="replace">Заменить</string>
      <string name="replace_image">Заменить картинку</string>
      <string name="resent_message">Повторить</string>
-     <string name="resize_image_error_information">Изображение слишком велико для отправки, даже после изменения размера</string>
+     <string name="resize_image_error_information">Изображение слишком велико для отправки</string>
      <string name="restore_all_button_msg">Восстановить всё</string>
      <string name="restore_blocked_message">Восстановить сообщение</string>
      <string name="restore_to_phone_memory_failed">Не удалось восстановить</string>

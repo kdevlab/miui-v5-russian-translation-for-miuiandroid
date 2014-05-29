@@ -5,7 +5,7 @@
      <string name="all_cities">Все города</string>
      <string name="allcategory">Все категории</string>
      <string name="app_name">Магазин</string>
-     <string name="app_version">Версия:Beta V%1$s</string>
+     <string name="app_version">Версия: V%1$s</string>
      <string name="available_day_left">Осталось дней:%1$s</string>
      <string name="available_deadline">Действует до:%1$s</string>
      <string name="available_deadline_all">Срок действия:%1$s</string>
@@ -70,7 +70,7 @@
      <string name="menu_not_login">Ты не вошел</string>
      <string name="menu_preferences">Настройки</string>
      <string name="menu_refresh">Обновить</string>
-     <string name="merchant_phone">Телефон：%1$s</string>
+     <string name="merchant_phone">Телефон:%1$s</string>
      <string name="money">юань</string>
      <string name="money_prefix">Всего</string>
      <string name="moreinfo">Подробно</string>

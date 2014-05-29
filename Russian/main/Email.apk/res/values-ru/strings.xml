@@ -174,7 +174,7 @@
      <string name="account_waiting_for_folders_msg">Загрузка…</string>
      <string name="accounts_welcome">Почта поддерживает большинство популярных почтовых служб</string>
      <string name="actionbar_large_unread_count">Новых: %1$d+</string>
-     <string name="actionbar_title_mail_aggregation">Mail aggregation:</string>
+     <string name="actionbar_title_mail_aggregation">Накопленной почты:</string>
      <string name="activity_folder_selection">Выбрать папку</string>
      <string name="activity_mailbox_selection">Выбрать аккаунт</string>
      <string name="add_account">Добавить аккаунт</string>
@@ -276,7 +276,7 @@
      <string name="content_description_today">Отправитель: %1$s; тема: %2$s; фрагмент: %3$s; время: %4$s; состояние: %5$s</string>
      <string name="contextmenu_add_contact">Добавить контакт</string>
      <string name="contextmenu_copy">Копировать</string>
-     <string name="contextmenu_copylink">Скопируйте URL-адрес</string>
+     <string name="contextmenu_copylink">Скопиррвать ссылку</string>
      <string name="contextmenu_dial_dot">Набрать…</string>
      <string name="contextmenu_feedback">Отправить отзыв</string>
      <string name="contextmenu_help">Справка</string>
@@ -285,7 +285,6 @@
      <string name="contextmenu_send_mail">Отправить письмо</string>
      <string name="contextmenu_sharelink">Отправить ссылку</string>
      <string name="contextmenu_sms_dot">Сообщение…</string>
-     <string name="conversation_content_provider">Conversation Content Provider</string>
      <string name="conversation_folder_moved">Перемещено в папку \"%1$s\"</string>
      <string name="conversation_item_mark_read">Прочитано</string>
      <string name="conversation_item_mark_unread">Не прочитано</string>

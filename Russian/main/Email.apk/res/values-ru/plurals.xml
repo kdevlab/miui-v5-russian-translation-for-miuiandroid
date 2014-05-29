@@ -25,36 +25,36 @@
         <item quantity="other">Выбрано: %d</item>
      </plurals>
      <plurals name="conversation_archived">
-        <item quantity="one">Заархивировано: (<b>%1$d</b>)</item>
-        <item quantity="other">Заархивировано: (<b>%1$d</b>)</item>
+        <item quantity="one">Заархивировано: (%1$d)</item>
+        <item quantity="other">Заархивировано: (%1$d)</item>
      </plurals>
      <plurals name="conversation_deleted">
-        <item quantity="one">Удаленных цепочек: <b>%1$d</b></item>
-        <item quantity="other">Удаленных цепочек: <b>%1$d</b></item>
+        <item quantity="one">Удалено цепочек: %1$d</item>
+        <item quantity="other">Удалено цепочек: %1$d</item>
      </plurals>
      <plurals name="conversation_folder_changed">
         <item quantity="one">Папка изменена</item>
         <item quantity="other">Папки изменены</item>
      </plurals>
      <plurals name="conversation_muted">
-        <item quantity="one">Скрытых цепочек: <b>%1$d</b></item>
-        <item quantity="other">Скрытых цепочек: <b>%1$d</b></item>
+        <item quantity="one">Скрыто цепочек: %1$d</item>
+        <item quantity="other">Скрыто цепочек: %1$d</item>
      </plurals>
      <plurals name="conversation_not_important">
-        <item quantity="one">Цепочек, помеченных как неважные: <b>%1$d</b></item>
-        <item quantity="other">Цепочек, помеченных как неважные: <b>%1$d</b></item>
+        <item quantity="one">Цепочек, помеченных как неважные: %1$d</item>
+        <item quantity="other">Цепочек, помеченных как неважные: %1$d</item>
      </plurals>
      <plurals name="conversation_not_spam">
-        <item quantity="one">Цепочек, помеченных как не спам: <b>%1$d</b></item>
-        <item quantity="other">Цепочек, помеченных как не спам: <b>%1$d</b></item>
+        <item quantity="one">Цепочек, помеченных как не спам: %1$d</item>
+        <item quantity="other">Цепочек, помеченных как не спам: %1$d</item>
      </plurals>
      <plurals name="conversation_phished">
-        <item quantity="one">Цепочек, помеченных как фишинг: <b>%1$d</b></item>
-        <item quantity="other">Цепочек, помеченных как фишинг: <b>%1$d</b></item>
+        <item quantity="one">Цепочек, помеченных как фишинг: %1$d</item>
+        <item quantity="other">Цепочек, помеченных как фишинг: %1$d</item>
      </plurals>
      <plurals name="conversation_spammed">
-        <item quantity="one">Цепочек, помеченных как спам: <b>%1$d</b></item>
-        <item quantity="other">Цепочек, помеченных как спам: <b>%1$d</b></item>
+        <item quantity="one">Цепочек, помеченных как спам: %1$d</item>
+        <item quantity="other">Цепочек, помеченных как спам: %1$d</item>
      </plurals>
      <plurals name="conversation_unstarred">
         <item quantity="one">Цепочек, удаленных из избранного: %1$d</item>
