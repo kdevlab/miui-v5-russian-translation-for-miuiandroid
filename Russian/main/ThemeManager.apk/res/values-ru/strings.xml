@@ -78,7 +78,7 @@
      <string name="resource_comment_5_star">5 звезд</string>
      <string name="resource_comment_account_need_activitied">Ваш аккаунт не активирован, хотите активировать сейчас?</string>
      <string name="resource_comment_all_comments">Все</string>
-     <string name="resource_comment_average_score">Средняя</string>
+     <string name="resource_comment_average_score">Оценка</string>
      <string name="resource_comment_bad_comments">Плохие</string>
      <string name="resource_comment_count">%1$s оценок %2$s общее колличество отзывов (версия: %3$s)</string>
      <string name="resource_comment_current_version">Текущая версия</string>
@@ -104,7 +104,7 @@
      <string name="resource_comment_title">Отзывы к \"%1$s\"</string>
      <string name="resource_comment_upload_data_invalid">Ошибка отправки отзыва</string>
      <string name="resource_comment_upload_failed">Ошибка сохранения отзыва</string>
-     <string name="resource_comment_upload_hint">Ваш комментарий будет показан после краткого обзора</string>
+     <string name="resource_comment_upload_hint">Ваш комментарий будет показан после проверки</string>
      <string name="resource_comment_upload_not_bought">Прежде чем оставить отзыв, Вы должны применить тему</string>
      <string name="resource_comment_upload_not_logined">Пожалуйста, войдите в аккаунт</string>
      <string name="resource_comment_upload_success">Отзыв отправлен!</string>

@@ -434,7 +434,7 @@
      <string name="my_account_unlogin">выйти</string>
      <string name="my_favorites_title">Избранное</string>
      <string name="my_games">Мои игры</string>
-     <string name="my_games_title">Мои игры</string>
+     <string name="my_games_title">Обновления</string>
      <string name="my_gifts">Мои GamePacks</string>
      <string name="my_info_subtitle">Обо мне</string>
      <string name="my_service_title">Сервисы</string>
@@ -601,7 +601,7 @@
      <string name="simple_date_format_MMdd">dd-MM</string>
      <string name="simple_date_format_yyyyM">MM-yyyy</string>
      <string name="special_comm">VIP поддержка</string>
-     <string name="specific_category">Особое</string>
+     <string name="specific_category">Специальные</string>
      <string name="start_game">Играть</string>
      <string name="status_downloading">Загрузка: %1$s%%</string>
      <string name="status_unzipping">Распаковка</string>
@@ -645,7 +645,7 @@
      <string name="txt_My_Integral">Очки</string>
      <string name="txt_other_recharge_method">Выбрать другой метод пополнения</string>
      <string name="txt_purchase_record">Покупки</string>
-     <string name="txt_recharge_mibi">Пополнить MiCredit</string>
+     <string name="txt_recharge_mibi">MiCredit</string>
      <string name="txt_recharge_now">Пополнить</string>
      <string name="txt_recharge_number_btn">Баланс платежной карты</string>
      <string name="txt_selection">Выберите:</string>
