@@ -22,6 +22,7 @@
      <string name="accessibility_no_wifi">Отсутствует подключение к Wi-Fi</string>
      <string name="accessibility_no_wimax">Нет сигнала WiMAX</string>
      <string name="accessibility_notifications_button">Уведомления</string>
+	 <string name="accessibility_phone_four_bars">Сигнал телефонной сети: четыре деления</string>
      <string name="accessibility_phone_one_bar">Сигнал телефонной сети: одно деление</string>
      <string name="accessibility_phone_signal_full">Надежный телефонный сигнал</string>
      <string name="accessibility_phone_three_bars">Сигнал телефонной сети: три деления</string>

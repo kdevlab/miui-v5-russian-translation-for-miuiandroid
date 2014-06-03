@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Builded with NXT -->
 <resources>
-     <string name="app_name">Синхронизация аккаунтов Xiaomi</string>
-     <string name="find_device">Поиск устройства</string>
+     <string name="app_name">Сервисы Xiaomi</string>
      <string name="find_device_noise_title">Звук поиска устройства</string>
      <string name="find_device_stop_noise">Нажмите \"OK\", чтобы остановить сигнал</string>
      <string name="pref_summary_sync_display_photo_on_wifi_only">Рекомендуется включить, иначе возможно чрезмерное потребление трафика</string>
