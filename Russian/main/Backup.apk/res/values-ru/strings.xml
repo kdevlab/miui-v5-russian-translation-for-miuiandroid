@@ -108,9 +108,9 @@
      <string name="cloud_app_restore_error">Восстановление не удалось</string>
      <string name="cloud_app_restore_pending">Ожидание…</string>
      <string name="cloud_app_restore_progress">Восстановление…</string>
-     <string name="cloud_app_restore_prompt">Процесс восстановления удалит все локальные данные на данные из облака</string>
+     <string name="cloud_app_restore_prompt">Процесс восстановления заменит все локальные данные на данные, сохраненные в облаке</string>
      <string name="cloud_app_restore_query_error_prompt">Не удалось получить данные из облака. Приложения и пользовательские данные будут восстановлены автоматически, когда устройство сможет получить доступ к данным.</string>
-     <string name="cloud_app_restore_success">Приложений восстановлено</string>
+     <string name="cloud_app_restore_success">Приложения восстановлены</string>
      <string name="cloud_app_restore_summary">Восстановить ранее установленные приложения и связать с ними данные пользователя</string>
      <string name="cloud_app_restore_wifi_prompt">Вам необходимо подключиться к Интернету через Wi-Fi для восстановления приложений и пользовательских данных.</string>
      <string name="cloud_app_total_size">Размер копии: %1$s</string>
@@ -157,7 +157,7 @@
      <string name="guarded_mode_dialog_message">Не могу работать в режиме защиты</string>
      <string name="guarded_mode_dialog_title">Режим защиты</string>
      <string name="import_from_xiaomi_account_hint1">"1. Включите телефон с контактами
-2. Установите MiTalk и войдите в него
+2. Установите MiTalk и войдите в него.
  http://www.miliao.com
 3. Зайдите в настройки MiTalk и выберите Создать резервную копию контактов в аккаунт Xiaomi"</string>
      <string name="import_from_xiaomi_account_hint2">Примечание: Перейдите к следующему шагу, если резервная копия уже существует</string>

@@ -37,7 +37,7 @@
      <string name="button_refresh">Обновить</string>
      <string name="button_search">Поиск</string>
      <string name="button_text_login">Войти</string>
-     <string name="button_text_recharge">Пополнить</string>
+     <string name="button_text_recharge">Баланс</string>
      <string name="button_text_register">Создать новый аккаунт Xiaomi</string>
      <string name="buy_gift_packs">Приобрести GamePack</string>
      <string name="bytes_unit">%1$sБ</string>
@@ -49,11 +49,6 @@
      <string name="card_recharge_hint32">меньше, чем %d юаней,</string>
      <string name="card_recharge_hint33">то Ваш платеж не удастся, что приведет к потере денежных средств.</string>
      <string name="card_recharge_title">Пополнение через телефон:</string>
-     <string name="category_game_sort">Сортировка</string>
-     <string name="category_game_sort_default">по умолчанию</string>
-     <string name="category_game_sort_download">по загрузкам</string>
-     <string name="category_game_sort_favourate">по оценке</string>
-     <string name="category_game_sort_rank">по рейтингу</string>
      <string name="category_header">Все (%1$s)</string>
      <string name="category_info_invalid">Неверная информация о категории</string>
      <string name="category_tag">Категории</string>
@@ -634,8 +629,8 @@
      <string name="txt_card_hint">% значный номер</string>
      <string name="txt_card_no">Номер карты:</string>
      <string name="txt_card_psw">Пароль:</string>
-    <string name="txt_gender_female">Женский</string>
-    <string name="txt_gender_male">Мужской</string>
+     <string name="txt_gender_female">Женский</string>
+     <string name="txt_gender_male">Мужской</string>
      <string name="txt_hide_my_birthday">Скрыть от других</string>
      <string name="txt_installed_subtitle">Установленно</string>
      <string name="txt_local_game">Игр: %d</string>
@@ -666,7 +661,6 @@
      <string name="update_game_ignore">Отключить обновления этой игры.</string>
      <string name="update_game_ignore_text">Игры с отключенными обновлениями: %d.</string>
      <string name="update_game_ignore_toast">Отключено, при наличии новой версии не будет показано уведомление.</string>
-     <string name="update_game_item_current_version">Текущая: %s</string>
      <string name="update_game_item_new_version">Новая: %s</string>
      <string name="update_game_item_cur_version">Версия:</string>
      <string name="update_game_item_new_version">&lt;font color=#69a640>%1$s&lt;/font></string>
