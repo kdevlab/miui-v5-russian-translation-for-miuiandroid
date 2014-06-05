@@ -38,6 +38,8 @@
      <string name="album_share_title_new_album">Делиться новым альбомом</string>
      <string name="albums">альбомы</string>
      <string name="alert">Внимание</string>
+	 <string name="alert_init_merged_message">Теперь, фотографии на Вашем устройстве и фотографии хранящиеся в МiCloud будет отображаться вместе</string>
+     <string name="alert_init_merged_title">Все Ваши фото</string>
      <string name="alert_message_initial_cloud">Фотографии и скриншоты будут автоматически загружаться в облачный альбом только при активной сети Wi-Fi.</string>
      <string name="alert_message_open_sync">Необходима синхронизация. Вы хотите включить ее сейчас?</string>
      <string name="already_apply_album">Открыть %1$s?</string>
@@ -81,6 +83,7 @@
      <string name="clear_thumbnail_cache">Очистить кэш</string>
      <string name="clear_thumbnail_cache_confirm">Кэш миниатюр будет очищен. Галерея пересканирует все файлы и пересоздаст миниатюры снова. Это повлияет на скорость работы приложения.</string>
      <string name="clear_thumbnail_cache_summary">Очистить эскизы изображений, созданных при просмотре изображений в галерее</string>
+	 <string name="click_to_add_picture">Нажмите, чтобы добавить</string>
      <string name="click_to_enter_camera">Нет фото и видео</string>
      <string name="click_top_right">Нажмите на иконку здесь</string>
      <string name="close">Закрыть</string>
@@ -263,9 +266,11 @@
      <string name="loading_thumbnail">Загрузка эскизов…</string>
      <string name="loading_video">Загрузка видео…</string>
      <string name="local_albums">Альбомы</string>
+	 <string name="local_time">(устройство)</string>
      <string name="location">Место съемки</string>
      <string name="locations">Места</string>
      <string name="lomoish">Ломо</string>
+	 <string name="long_press_to_refocus">Удерживайте, чтобы повторить фокусировку</string>
      <string name="make_download_dir_fail">Не удалось создать каталог для хранения файлов</string>
      <string name="maker">Устройство</string>
      <string name="manual">Вручную</string>
@@ -334,6 +339,7 @@
      <string name="path">Путь к файлу</string>
      <string name="people">Люди</string>
      <string name="photo_page_always_rotate">Автоповорот изображения</string>
+	 <string name="photo_page_detail_show_in_the_map">Показать на карте</string>
      <string name="photo_page_save_image">Сохранить</string>
      <string name="photo_page_save_uri_image_fail">Не удалось сохранить фотографию</string>
      <string name="photo_page_save_uri_image_ok">Изображение сохранено в директорию фотокамеры</string>
@@ -345,7 +351,7 @@
      <string name="picker_no_album_selected">Альбом не выбран</string>
      <string name="picker_no_items_selected">Ничего не выбрано</string>
      <string name="picker_select_album_title_empty">Выберите альбом</string>
-     <string name="picker_tab_camera">Камера</string>
+     <string name="picker_tab_photo">Фото</string>
      <string name="posterize">Постеризация</string>
      <string name="preparing_data_to_delete">Подготовка к удалению данных…</string>
      <string name="projection">Проекция</string>
@@ -450,6 +456,7 @@
      <string name="slideshow_repeat_mode">Повторять</string>
      <string name="slideshow_time_select_title">Выбор времени слайдшоу</string>
      <string name="slideshow_time_title">Время слайдшоу</string>
+	 <string name="start_slide_show">Начать слайд-шоу</string>
      <string name="storage_all_volumes">Все накопители</string>
      <string name="storage_no_space">Не хватает памяти</string>
      <string name="straighten">Выравнивание</string>
@@ -460,6 +467,7 @@
      <string name="sync_album_set_error">Не удалось загрузить альбомы. Повторите попытку позже.</string>
      <string name="sync_album_summary">Синхронизировать фотографии и скриншоты с MiCloud</string>
      <string name="sync_history_power_on">Во время зарядки</string>
+	 <string name="sync_in_progress_message">Синхронизация, подождите…</string>
      <string name="sync_only_in_wifi">Только по Wi-Fi</string>
      <string name="sync_only_in_wifi_alert">Отключение загрузки только через Wi-Fi может потреблять сетевой трафик. Продолжить?</string>
      <string name="sync_only_in_wifi_summary">Синхронизировать фотографии и скриншоты только при Wi-Fi соединении</string>
@@ -477,6 +485,9 @@
      <string name="to_count">%d во всех</string>
      <string name="too_many_recipients">Сообщение имеет слишком много получателей (%1$s). Существует предел на %2$s получателей.</string>
      <string name="try_to_send">Отправить</string>
+	 <string name="ubifocus_data_missing">Некоторые данные потеряны</string>
+     <string name="ubifocus_map_error">Некоторые данные неверны</string>
+     <string name="ubifocus_refocus_fail_tip">Не удается перефокусироваться из-за некоторых неверных или отсутствующих данных</string>
      <string name="turn_left">Повернуть влево</string>
      <string name="turn_right">Повернуть вправо</string>
      <string name="unit_mm">мм</string>

@@ -407,6 +407,8 @@ SMS (%1$d), MMS (%2$d)"</string>
      <string name="sms_full_title">Память для текстовых сообщений переполнена</string>
      <string name="sms_rejected_body">Входящее сообщение отклонено по неизвестной причине</string>
      <string name="sms_rejected_title">Сообщение отклонено</string>
+	 <string name="sp_category_all">Все сообщения</string>
+     <string name="sp_category_bank">Сообщения от банков</string>
      <string name="sp_conversation_title">Уведомительные сообщения</string>
      <string name="sp_mark_as_read">Пометить все сообщения как прочитанные?</string>
      <string name="sp_mark_as_read_progress">Обработка, подождите…</string>
