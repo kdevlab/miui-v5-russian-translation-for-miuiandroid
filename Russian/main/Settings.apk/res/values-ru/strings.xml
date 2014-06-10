@@ -258,6 +258,7 @@
      <string name="apn_settings">Точки доступа интернет</string>
      <string name="apn_type">Тип APN</string>
      <string name="apn_user">Имя пользователя</string>
+	 <string name="app_backup">Бэкап</string>
      <string name="app_disable_dlg_text">Отключение встроенного приложения может нарушить работу других приложений. Продолжить?</string>
      <string name="app_disable_dlg_title">Отключение приложения</string>
      <string name="app_disable_notifications_dlg_text">Если выключить уведомления для этого приложения, Вы можете пропустить важное уведомление и обновление. Продолжить?</string>
@@ -265,6 +266,7 @@
      <string name="app_factory_reset">Удалить обновления</string>
      <string name="app_factory_reset_dlg_text">Все обновления для этого приложения будут удалены</string>
      <string name="app_factory_reset_dlg_title">Удалить обновления?</string>
+	 <string name="app_feedback">Отчет</string>
      <string name="app_floating_window_dlg_disable">"Для отключения настроек всплывающих окон %1$s  требуется остановить приложение. Вы можете открыть приложение вручную.
 Уверены, что хотите отключить?"</string>
      <string name="app_floating_window_dlg_enable">"Для включения настроек всплывающего окна %1$s требуется перезапуск приложения. Вы также можете вручную остановить приложение.
@@ -275,7 +277,7 @@
      <string name="app_log_tab_title">Журнал разрешений</string>
      <string name="app_manage_tab_title">Приложения</string>
      <string name="app_memory_use">Использование памяти</string>
-     <string name="app_name">Сервис</string>
+     <string name="app_name">Безопасность</string>
      <string name="app_name_label">Приложение</string>
      <string name="app_not_found_dlg_text">Приложение не найдено в списке установленных</string>
      <string name="app_not_supported_in_limited">Это приложение не поддерживается в ограниченных профилях</string>
@@ -672,6 +674,7 @@
      <string name="bt_trace_log_summary">Включить журнал трассировки Bluetooth</string>
      <string name="bugreport_in_power">Отчеты об ошибках</string>
      <string name="bugreport_in_power_summary">Показывать в меню опцию отправки отчета об ошибке</string>
+	 <string name="bugreport_tool_log">Отправить отчет об ошибке</string>
      <string name="bugreport_tool_log_toast">Лог сохранен в %s</string>
      <string name="bugreport_tool_log_toast_generate_bugreport">Создание отчета об ошибке</string>
      <string name="build_number">Номер сборки:</string>
@@ -1527,6 +1530,7 @@
      <string name="global_change_warning">Настройки будут изменены для всех пользователей устройства</string>
      <string name="global_font_change_title">Измените размер шрифта</string>
      <string name="global_locale_change_title">Измените язык</string>
+	 <string name="google_backup_section_title">Google бэкап</string>
      <string name="gps_time_sync_attention_gps_off">"Сначала необходимо включить GPS. Исправление местоположения GPS займет более минуты. Сигнал GPS зависит от окружающей среды.  Включить GPS и начать исправление местоположения?"</string>
      <string name="gps_time_sync_attention_gps_on">"Исправление местоположения GPS займет более минуты. Сигнал GPS зависит от окружающей среды.  Использовать исправление GPS?"</string>
      <string name="gsm_to_wifi_connect_type_title">Настройки &gt; Wi-Fi</string>
@@ -1743,6 +1747,8 @@
      <string name="local_backup_password_toast_confirmation_mismatch">Новый пароль и подтверждение не совпадают</string>
      <string name="local_backup_password_toast_success">Установлен новый пароль</string>
      <string name="local_backup_password_toast_validation_failure">Ошибка установки пароля</string>
+	 <string name="local_backup_section_summary">Резервное копирование настроек системы, аккаунта и приложений</string>
+     <string name="local_backup_section_title">Локальный бэкап</string>
      <string name="locale_default">По умолчанию</string>
      <string name="location_access_summary">Разрешить приложениям использовать данные о Вашем местоположении</string>
      <string name="location_access_title">Доступ к моим геоданным</string>
@@ -2016,6 +2022,11 @@
      <string name="mobile_no_provisioning_url">%1$s не имеет известных сайтов</string>
      <string name="mobile_unknown_sim_operator">Неизвестный оператор</string>
      <string name="model_number">Модель:</string>
+	 <string name="modem_tool_log">Журнал модема</string>
+     <string name="modem_tool_log_start">Начать</string>
+     <string name="modem_tool_log_start_toast">Начало сбора журнала модема на %s</string>
+     <string name="modem_tool_log_stop">Остановить</string>
+     <string name="modem_tool_log_stop_toast">Остановка сбора журнала модема от %s</string>
      <string name="mota_system_update_summary">Проверить обновление</string>
      <string name="move_app">Переместить</string>
      <string name="move_app_failed_dlg_text">Не удалось переместить приложение. %1$s</string>
@@ -3266,6 +3277,7 @@
      <string name="sync_wifi_label">Настройки Wi-Fi</string>
      <string name="sync_wifi_only">Только Wi-Fi</string>
      <string name="system">Настройки системы</string>
+	 <string name="system_backup_section_title">Резервное копирование</string>
      <string name="system_cache_title">Системный кэш</string>
      <string name="system_package">Системные обновления нельзя установить на внешнем носителе.</string>
      <string name="system_storage">Внутренняя память</string>

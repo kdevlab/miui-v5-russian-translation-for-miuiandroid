@@ -528,9 +528,12 @@
      <string name="okay_action">ОК</string>
      <string name="other_mail">Другая почта</string>
      <string name="outbox_alert_button_confirm">Изменить</string>
+	 <string name="outbox_alert_button_no_resend">Не отправлять</string>
+     <string name="outbox_alert_button_resend">Отправить</string>
      <string name="outbox_alert_description_sent_failed">"Причина: вложение к письму 
 превышает максимальный размер"</string>
-     <string name="outbox_alert_title_sent_failed">Ошибка отправки</string>
+     <string name="outbox_alert_mailbox_not_found">Адрес электронной почты не найден</string>
+	 <string name="outbox_alert_title_sent_failed">Ошибка отправки</string>
 	 <string name="outbox_no_mails">Нет сообщений в папке исходящие</string>
 	 <string name="parase_setup_data">Получение данных конфигурации…</string>
      <string name="password_changed_prompt">Не удалось войти</string>
