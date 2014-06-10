@@ -555,7 +555,6 @@
      <string name="purchase_record_type_today">За сегодня</string>
      <string name="rank_tag">Топ</string>
      <string name="rating_button">Рейтинг: %1$s</string>
-     <string name="recharge_alipay_detail">Пополняйте с Zhifubao</string>
      <string name="recharge_alipay_detail">Платеж Zhifubao</string>
      <string name="recharge_fail">Ошибка пополения</string>
      <string name="recharge_fee_detail">Платежные карты China Mobile, Unicom, Telcom</string>
@@ -663,7 +662,6 @@
      <string name="update_game_ignore_toast">Отключено, при наличии новой версии не будет показано уведомление.</string>
      <string name="update_game_item_new_version">Новая: %s</string>
      <string name="update_game_item_cur_version">Версия:</string>
-     <string name="update_game_item_new_version">&lt;font color=#69a640>%1$s&lt;/font></string>
      <string name="update_game_item_size_increment">&lt;font color=#69a640>%s&lt;/font></string>
      <string name="update_game_item_size_local">%s</string>
      <string name="update_game_item_size_title">Размер:</string>
