@@ -568,7 +568,6 @@
      <string name="remove_package_timeout_fail">Ошибка установки %1$s: пожалуйста, вручную удалите клиент перед обновлением до последней версии.</string>
      <string name="save_photo_fail">Ошибка сохранения фото</string>
      <string name="restore">Восстановить</string>
-     <string name="save_photo_fail">Не удалось сохранить фото.</string>
      <string name="save_photo_success">Фото успешно сохранено</string>
      <string name="select_recharge_value">Пожалуйста, выберите сумму пополнения</string>
      <string name="selected_not_pic">Допускаются только файлы изображений</string>
