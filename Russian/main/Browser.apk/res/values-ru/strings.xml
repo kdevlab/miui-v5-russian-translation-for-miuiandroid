@@ -94,7 +94,7 @@
      <string name="clip_dialog_title">Открыть скопированную ссылку?</string>
      <string name="close_all_tab_alert_message">Закрыть все вкладки?</string>
      <string name="close_all_tab_alert_title">Подтверждение закрытия</string>
-	 <string name="cloud_loading_tips">Потяните вниз, чтобы синхронизировать</string>
+	 <string name="cloud_loading_tips">Потяните, чтобы синхронизировать</string>
      <string name="cloud_no_new_data_toast">Нет новых данных</string>
      <string name="cloud_tab">Облачная вкладка</string>
 	 <string name="cloud_time_tips">Обновлено</string>
@@ -557,8 +557,8 @@
      <string name="sub_sync_item_browser_title_history_summary">Синхронизировать историю просмотров</string>
      <string name="sub_sync_item_browser_title_novel">Синхр. книги</string>
      <string name="sub_sync_item_browser_title_novel_summary">Синхронизировать книги браузера</string>
-	 <string name="sub_sync_item_browser_title_webapp">Синхронизация вэб приложений</string>
-     <string name="sub_sync_item_browser_title_webapp_summary">Синхронизировать добавленные вэб приложения</string>
+	 <string name="sub_sync_item_browser_title_webapp">Синхронизация веб-приложений</string>
+     <string name="sub_sync_item_browser_title_webapp_summary">Синхронизировать добавленные веб-приложения</string>
      <string name="sync_item_browser_summary">Синхронизировать данные в облако - легкое использование браузера на разных устройствах</string>
      <string name="sync_item_browser_title">Синхронизация браузера</string>
      <string name="tab_closed">Вкладка закрыта</string>
@@ -590,7 +590,7 @@
 	 <string name="webapp_add_to_desktop">На рабочий стол</string>
      <string name="webapp_add_to_favorite_toast">Добавить в список избранного</string>
      <string name="webapp_addtodeskpop_append">Добавлено</string>
-     <string name="webapp_app_name">Вэб приложения</string>
+     <string name="webapp_app_name">Веб-приложения</string>
      <string name="webapp_dialog_title">Добавить приложения на рабочий стол</string>
      <string name="webapp_menu_addtodesk">Добавить на рабочий стол</string>
      <string name="webapp_menu_already_addtodesk">Уже добавлено на рабочий стол</string>
