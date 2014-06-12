@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Builded with NXT -->
 <resources>
-     <string-array name="channel_featured_tabs">
+     <string-array name="addon_list_tabs">
+        <item>Все</item>
+        <item>Мои</item>
+     </string-array>
+	 <string-array name="channel_featured_tabs">
         <item>Хиты</item>
         <item>Топ</item>
         <item>Новые</item>

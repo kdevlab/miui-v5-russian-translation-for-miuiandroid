@@ -94,7 +94,11 @@
      <string name="clip_dialog_title">Открыть скопированную ссылку?</string>
      <string name="close_all_tab_alert_message">Закрыть все вкладки?</string>
      <string name="close_all_tab_alert_title">Подтверждение закрытия</string>
+	 <string name="cloud_loading_tips">Потяните вниз, чтобы синхронизировать</string>
+     <string name="cloud_no_new_data_toast">Нет новых данных</string>
      <string name="cloud_tab">Облачная вкладка</string>
+	 <string name="cloud_time_tips">Обновлено</string>
+     <string name="cloud_up_to_loading_tips">Отпустите, чтобы синхронизировать</string>
      <string name="color_picker_button_black">Черный</string>
      <string name="color_picker_button_blue">Синий</string>
      <string name="color_picker_button_cancel">Отмена</string>
@@ -150,6 +154,8 @@
      <string name="delete_bookmark_warning">Удалить закладку \"%s\"?</string>
      <string name="delete_folder">Удалить папку</string>
      <string name="delete_multi_bookmarks_alert_title">Вы уверены, что хотите удалить эти закладки (%1$s)?</string>
+	 <string name="dialog_geolocation_reject">Отклонить</string>
+     <string name="dialog_geolocation_share">Принять</string>
      <string name="disable_autofill">Отключить автозаполнение</string>
 	 <string name="dont_remind_again">Запомнить мой выбор</string>
      <string name="download">Загрузить</string>
@@ -232,6 +238,7 @@
      <string name="js_disable_confirm_message">Отключение JavaScript может привести к неправильному отображению некоторых сайтов. Продолжить?</string>
      <string name="js_disable_confirm_title">Отключение JavaScript</string>
      <string name="js_engine_flags">Установить флаги JS</string>
+	 <string name="loading_tips">Потяните, чтобы обновить</string>
      <string name="local_bookmarks">Локальные</string>
      <string name="location">Адрес</string>
      <string name="low_memory_error">Не хватает памяти для завершения данной операции</string>
@@ -453,7 +460,10 @@
 разрешать браузеру предварительно загружать видео файлы"</string>
      <string name="pref_video_preload_title">Загрузка видео</string>
      <string name="pref_volume_key_enabled">Клавиши громкости</string>
-     <string name="pref_volume_key_operation">Функция клавиш громкости</string>
+     <string name="pref_volume_key_operation">Функция клавиши громкости</string>
+	 <string name="pref_webapp_settings_fontsize">Размер шрифта</string>
+     <string name="pref_webapp_settings_hidebottombar">Скрывать нижний бар</string>
+     <string name="pref_webapp_settings_savewidth">Не загружать изображения при мобильном интернете</string>
      <string name="pref_zoom_on_double_tap">Увеличение двойным нажатием</string>
      <string name="preview">Предварительный просмотр</string>
      <string name="profiler_error_toast">Не удалось запустить профайлер</string>
@@ -547,6 +557,8 @@
      <string name="sub_sync_item_browser_title_history_summary">Синхронизировать историю просмотров</string>
      <string name="sub_sync_item_browser_title_novel">Синхр. книги</string>
      <string name="sub_sync_item_browser_title_novel_summary">Синхронизировать книги браузера</string>
+	 <string name="sub_sync_item_browser_title_webapp">Синхронизация вэб приложений</string>
+     <string name="sub_sync_item_browser_title_webapp_summary">Синхронизировать добавленные вэб приложения</string>
      <string name="sync_item_browser_summary">Синхронизировать данные в облако - легкое использование браузера на разных устройствах</string>
      <string name="sync_item_browser_title">Синхронизация браузера</string>
      <string name="tab_closed">Вкладка закрыта</string>
@@ -564,6 +576,7 @@
      <string name="too_many_windows_dialog_message">Невозможно открыть новую вкладку: закройте хотя бы одну</string>
      <string name="too_many_windows_dialog_title">Открыто макс. число вкладок</string>
      <string name="ua_switcher_desktop">Полная версия</string>
+	 <string name="up_to_loading_tips">Отпустите, чтобы обновить</string>
      <string name="uploads_disabled">Добавление файлов отключено</string>
      <string name="url_copy_done">URL скопирован</string>
      <string name="url_hint">Введите URL</string>
@@ -574,6 +587,20 @@
      <string name="username">Имя</string>
      <string name="view_certificate">Сертификат</string>
      <string name="warning">Внимание</string>
+	 <string name="webapp_add_to_desktop">На рабочий стол</string>
+     <string name="webapp_add_to_favorite_toast">Добавить в список избранного</string>
+     <string name="webapp_addtodeskpop_append">Добавлено</string>
+     <string name="webapp_app_name">Вэб приложения</string>
+     <string name="webapp_dialog_title">Добавить приложения на рабочий стол</string>
+     <string name="webapp_menu_addtodesk">Добавить на рабочий стол</string>
+     <string name="webapp_menu_already_addtodesk">Уже добавлено на рабочий стол</string>
+     <string name="webapp_menu_exit">Выйти</string>
+     <string name="webapp_menu_favorites">Избранное</string>
+     <string name="webapp_menu_nightmode">Ночной режим</string>
+     <string name="webapp_menu_settings">Настройки</string>
+     <string name="webapp_menu_share">Поделиться</string>
+     <string name="webapp_settings_title">Настройки</string>
+     <string name="webapp_webapp_favortes_title">Избранное</string>
      <string name="website_settings_clear_all">Удалить все</string>
      <string name="website_settings_clear_all_dialog_cancel_button">Отмена</string>
      <string name="website_settings_clear_all_dialog_message">Удалить все данные веб-сайта и разрешения на доступ к сведениям о вашем местоположении?</string>

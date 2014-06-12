@@ -7,7 +7,12 @@
      <string name="about_title">О программе</string>
      <string name="about_version_label">Версия</string>
      <string name="actors_colon">"В ролях: "</string>
+	 <string name="add_more_addons">добавить другие специальные</string>
      <string name="add_review">Добавить отзыв</string>
+	 <string name="addon" />
+     <string name="addon_category">Hot Specials</string>
+     <string name="addon_install_complete_disc">您已完成%s专区插件的安装，您可直接启动进入专区，或从“我的视频”里进入专区</string>
+     <string name="addon_update_desc">Найдена новая версия. Обновить?</string>
      <string name="adjust_position_next_media_notice">Далее</string>
      <string name="adjust_position_prev_media_notice">Назад</string>
      <string name="airkan_control_device_des">Вы можете управлять воспроизведением видео с помощью кнопок в нижней части экрана</string>
@@ -86,6 +91,8 @@
      <string name="declaration">Условия использования</string>
      <string name="declaration_content">Вы принимаете условия использования, предусмотренные Sohu Video, iQiyi и другими контент-провайдерами видео?</string>
      <string name="delete">Удалить</string>
+	 <string name="delete_addon">Удалить</string>
+     <string name="delete_addon_content">Удалить этот элемент?</string>
      <string name="delete_media">Удалить</string>
      <string name="delete_media_content">Удалить выбранные файлы?</string>
      <string name="di_count_ji">%d серия</string>
@@ -139,6 +146,7 @@
      <string name="in_download_notification">видео загружается: %d</string>
      <string name="in_pause">Приостановлено</string>
      <string name="in_waiting">Ожидание</string>
+	 <string name="install_comfirm">Нажмите, чтобы установить</string>
      <string name="jni_invalid_param">Неправильный параметр</string>
      <string name="jni_no_media_source">Нет доступа к источнику видео</string>
      <string name="jni_res_connect_error">Не удалось подключиться к сети</string>

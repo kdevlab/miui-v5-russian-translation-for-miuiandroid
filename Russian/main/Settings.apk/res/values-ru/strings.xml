@@ -500,6 +500,7 @@
      <string name="bluetooth_connection_notif_message">Нажмите, чтобы подключиться к устройству \"%1$s\"</string>
      <string name="bluetooth_connection_permission_request">Запрос на подключение по каналу Bluetooth</string>
      <string name="bluetooth_device">Bluetooth-устройство без названия</string>
+	 <string name="bluetooth_device_address">Адрес устройства:</string>
      <string name="bluetooth_device_advanced_enable_opp_title">Разрешить получение файлов</string>
      <string name="bluetooth_device_advanced_online_mode_summary">Подключиться к устройству Bluetooth</string>
      <string name="bluetooth_device_advanced_online_mode_title">Подключить</string>
@@ -1530,7 +1531,7 @@
      <string name="global_change_warning">Настройки будут изменены для всех пользователей устройства</string>
      <string name="global_font_change_title">Измените размер шрифта</string>
      <string name="global_locale_change_title">Измените язык</string>
-	 <string name="google_backup_section_title">Google бэкап</string>
+	 <string name="google_backup_section_title">Резервное копирование Google</string>
      <string name="gps_time_sync_attention_gps_off">"Сначала необходимо включить GPS. Исправление местоположения GPS займет более минуты. Сигнал GPS зависит от окружающей среды.  Включить GPS и начать исправление местоположения?"</string>
      <string name="gps_time_sync_attention_gps_on">"Исправление местоположения GPS займет более минуты. Сигнал GPS зависит от окружающей среды.  Использовать исправление GPS?"</string>
      <string name="gsm_to_wifi_connect_type_title">Настройки &gt; Wi-Fi</string>
