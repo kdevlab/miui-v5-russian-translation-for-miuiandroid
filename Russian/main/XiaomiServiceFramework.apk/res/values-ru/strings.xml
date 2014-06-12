@@ -264,7 +264,7 @@
      <string name="micloud_delete_account">Удалить аккаунт</string>
      <string name="micloud_dspt">Облачные сервисы включают облачные сообщения, синхронизацию, поиск устройства и другое. Вы также можете управлять своими данными онлайн в любое время!</string>
      <string name="micloud_email">Почта</string>
-     <string name="micloud_error_email">Неверный e-mail</string>
+     <string name="micloud_error_email">Неверный Email</string>
      <string name="micloud_error_empty_captcha_code">Введите код с картинки</string>
      <string name="micloud_error_empty_pwd">Нет пароля</string>
      <string name="micloud_error_empty_username">Нет имени</string>

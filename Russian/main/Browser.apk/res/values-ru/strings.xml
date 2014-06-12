@@ -36,10 +36,10 @@
      <string name="autofill_profile_editor_address_line_2">Адресная строка 2:</string>
      <string name="autofill_profile_editor_address_line_2_hint">Квартира, офис, здание, этаж и т. д.</string>
      <string name="autofill_profile_editor_city">Город:</string>
-     <string name="autofill_profile_editor_company_name">Название компании:</string>
+     <string name="autofill_profile_editor_company_name">Компания:</string>
      <string name="autofill_profile_editor_country">Страна:</string>
      <string name="autofill_profile_editor_delete_profile">Удалить</string>
-     <string name="autofill_profile_editor_email_address">Эл. почта:</string>
+     <string name="autofill_profile_editor_email_address">Почта:</string>
      <string name="autofill_profile_editor_heading">Введите текст для автозаполнения</string>
      <string name="autofill_profile_editor_name">Полное имя:</string>
      <string name="autofill_profile_editor_phone_number">Номер телефона:</string>

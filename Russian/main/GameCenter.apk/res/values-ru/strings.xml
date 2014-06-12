@@ -210,7 +210,7 @@
      <string name="gift_cdkey_voice_one">1. Пожалуйста, используйте ключ игры сразу, во избежание его потери</string>
      <string name="gift_cdkey_voice_two">"2. Вы можете просмотреть все старые ключи GamePack'ов в \"Мои GP\""</string>
      <string name="gift_copied_exchange_code">Скопировано</string>
-     <string name="gift_copy_exchange_code">Копировать код</string>
+     <string name="gift_copy_exchange_code">Копировать</string>
      <string name="gift_copy_text">"Скопируйте ключ GamePack'а"</string>
      <string name="gift_desc_text">"Подробнее о GamePack'е:"</string>
      <string name="gift_expired">Истек</string>
@@ -518,7 +518,7 @@
      <string name="pref_summary_auto_update_setting">Уведомление о скачивании</string>
      <string name="pref_summary_clear_search_record">Очистить данные о поиске</string>
      <string name="pref_summary_data_check_update">Проверка обновлений</string>
-     <string name="pref_summary_data_save_mode">Не загружить иконки и скриншоты</string>
+     <string name="pref_summary_data_save_mode">Не загружать изображения при мобильном интернете</string>
      <string name="pref_summary_reserve_apk">Сохранять apk после установки</string>
      <string name="pref_summary_update_notification">Сообщать о наличии обновлений для приложений</string>
      <string name="pref_title_auto_update_setting">Настройка автообновления</string>
@@ -612,7 +612,7 @@
      <string name="ticket_detail_overdue">Истек</string>
      <string name="ticket_detail_title">Детали купона</string>
      <string name="ticket_empty_loading_view_text2">&lt;font color=#000000>Что такое \"Игровой купон\"?&lt;/font>&lt;br> &lt;font color=#99000000>Игровой купон - это кредитный ваучер, который можно использовать вместо наличных средств для внутриигровых покупок в онлайн-играх&lt;/font></string>
-     <string name="ticket_list_empty_text">У Вас не игровых купонов</string>
+     <string name="ticket_list_empty_text">У Вас нет игровых купонов</string>
      <string name="ticket_source_text">%s</string>
      <string name="title_gift">"GamePack'и"</string>
      <string name="title_intergral">Очки</string>
@@ -688,7 +688,7 @@
      <string name="user_info_page_field_mask_tel">Мобильный: %s</string>
      <string name="user_name_invalid">Имя пользователя не может быть пустым</string>
      <string name="user_name_or_psw_empty">Имя пользователя или пароль пуст</string>
-     <string name="usr_name_hint">Аккаунт Xiaomi/email/телефон</string>
+     <string name="usr_name_hint">Аккаунт Xiaomi/Email/телефон</string>
      <string name="verifying">Проверка…</string>
      <string name="version_label">Версия:</string>
      <string name="view_all_gift">Подробнее</string>

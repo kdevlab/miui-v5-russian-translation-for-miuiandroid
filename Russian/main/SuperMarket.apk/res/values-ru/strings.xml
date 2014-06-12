@@ -67,7 +67,7 @@
      <string name="diagnostics_btn_upload">Выгрузить</string>
      <string name="diagnostics_cdn_ip">4. IP адрес CDN</string>
      <string name="diagnostics_content_hint">Диагностика:</string>
-     <string name="diagnostics_data_cost_hint">Инструмент диагностики использует около 100Кб мобильного интернета</string>
+     <string name="diagnostics_data_cost_hint">Инструмент диагностики использует около 100Кб мобильного трафика</string>
      <string name="diagnostics_data_sending">Отправка результатов…</string>
      <string name="diagnostics_data_upload_failed">Ошибка отправки. Повторите еще раз.</string>
      <string name="diagnostics_data_upload_success">Журнал отправлен</string>
@@ -112,7 +112,7 @@
      <string name="install_btn_ok">OK</string>
      <string name="install_earlier">Ранее</string>
      <string name="install_fail">Ошибка установки. Попробуйте снова.</string>
-     <string name="install_google_base_message">“%1$s” требует Google Service Framework</string>
+     <string name="install_google_base_message">\"%1$s\" требует Google Service Framework</string>
      <string name="install_google_base_title">Установка Google Service Framework</string>
      <string name="install_hash_fail">Ошибка установки. Загрузите пакет снова.</string>
      <string name="install_inconsistent_fail">Ошибка подписи. Удалите приложение и попробуйте снова.</string>

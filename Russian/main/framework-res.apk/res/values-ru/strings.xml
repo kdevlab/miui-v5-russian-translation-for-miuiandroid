@@ -493,7 +493,7 @@
      <string name="kg_login_password_hint">Пароль</string>
      <string name="kg_login_submit_button">Вход</string>
      <string name="kg_login_too_many_attempts">Слишком много неверных попыток</string>
-     <string name="kg_login_username_hint">Имя пользователя (E-mail)</string>
+     <string name="kg_login_username_hint">Имя пользователя (Email)</string>
      <string name="kg_password_instructions">Ввод пароля</string>
      <string name="kg_password_wrong_pin_code">Неверный PIN-код</string>
      <string name="kg_pattern_instructions">Ввод графического ключа</string>

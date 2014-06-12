@@ -189,7 +189,7 @@
      <string name="address_display_format">%1$s | %2$s</string>
      <string name="address_display_format_with_via_domain">%1$s (%2$s из домена %3$s)</string>
      <string name="all_folders_heading">Все папки</string>
-	 <string name="allread">Все прочитанные</string>
+	 <string name="allread">Все прочитано</string>
      <string name="always_bcc_myself">Всегда копию себе</string>
      <string name="always_show_images">Всегда открывать картинки от этого отправителя</string>
      <string name="always_show_images_toast">Картинки от этого отправителя будут всегда показываться</string>
@@ -626,7 +626,7 @@
      <string name="remove_star">Удалить пометку</string>
      <string name="reply">Ответить</string>
      <string name="reply_all">Ответить всем</string>
-     <string name="reply_attribution" formatted="false">%s написал(-а) %s:</string>
+     <string name="reply_attribution" formatted="false">%s написал(а) %s:</string>
      <string name="reply_subject_label">Re:</string>
      <string name="replyto_heading">"Ответить: "</string>
      <string name="report">Отчет</string>
@@ -652,7 +652,7 @@
      <string name="search_results_header">Результаты поиска</string>
      <string name="search_results_loaded">%1$d</string>
      <string name="search_results_searching_header">Поиск…</string>
-     <string name="search_title">Единые E-mail</string>
+     <string name="search_title">Единые Email</string>
 	 <string name="search_txt_size_limit_prompt">Строка поиска должна быть больше, чем 3</string>
      <string name="search_unsupported">В этом аккаунте не поддерживается поиск</string>
      <string name="security_changed_ticker_fmt">В аккаунте %s обновлены настройки безопасности. Ничего делать не нужно.</string>

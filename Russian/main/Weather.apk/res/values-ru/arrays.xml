@@ -3,7 +3,7 @@
 <resources>
      <string-array name="send_item">
         <item>Сообщение</item>
-        <item>E-mail</item>
+        <item>Email</item>
      </string-array>
      <string-array name="weather_details_key">
         <item>Недоступно</item>

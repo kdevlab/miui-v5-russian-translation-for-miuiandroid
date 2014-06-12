@@ -1021,7 +1021,7 @@
      <string name="sim_contacts">Контакт на SIM-карте</string>
      <string name="sim_error_anr_full">Хранилище номеров заполнено</string>
      <string name="sim_error_email_full">Хранилище почтовых адресов заполнено</string>
-     <string name="sim_error_email_too_long">E-mail слишком длинный</string>
+     <string name="sim_error_email_too_long">Email слишком длинный</string>
      <string name="sim_error_generic_failure">Ошибка</string>
      <string name="sim_error_not_ready">Загрузка контактов SIM-карты. Подождите…</string>
      <string name="sim_error_number_too_long">Номер слишком длинный</string>
