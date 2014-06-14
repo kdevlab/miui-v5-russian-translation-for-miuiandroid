@@ -23,7 +23,10 @@
      <string name="adding_attachments">Добавление. Подождите…</string>
      <string name="adding_attachments_title">Добавление вложений</string>
      <string name="adding_recipients">Добавление получателей…</string>
+	 <string name="alert_dlg_cancel_button">Отмена</string>
+     <string name="alert_dlg_ok_button">OK</string>
      <string name="app_label">Сообщения</string>
+	 <string name="app_name">Управление устройством</string>
      <string name="attach_image">Изображение</string>
      <string name="attach_record_sound">Записать аудио</string>
      <string name="attach_record_video">Снять видео</string>
@@ -65,6 +68,8 @@
      <string name="confirm_delete_message">Вы уверены, что хотите удалить выбранное сообщение?</string>
      <string name="confirm_dialog_locked_title">Удалить закрепленное сообщение?</string>
      <string name="confirm_dialog_title">Удаление</string>
+	 <string name="confirm_dlg__msg">Уведомление: CMCC бесплатная пост-служба не будет работать, если Вы отмените услугу. Продолжить?</string>
+     <string name="confirm_dlg_title">Управление устройством</string>
      <string name="confirm_export_dialog_description">После удаления приватного контакта Ваша переписка восстановится в обычный режим. Продолжить?</string>
      <string name="confirm_export_dialog_title">Удаление приватного контакта</string>
      <string name="confirm_no_block_positive">Не блокировать и восстановить</string>
@@ -171,6 +176,7 @@
      <string name="loading_all_messages">Загрузка сообщений…</string>
      <string name="loading_conversations">Загрузка переписок…</string>
      <string name="loading_mms">Загрузка MMS…</string>
+	 <string name="manage_permission_app_label">Разрешение управления устройством</string>
      <string name="me">Я</string>
      <string name="menu_compose_new">Новое сообщение</string>
      <string name="menu_delete_messages">Удалить сообщения</string>
@@ -376,6 +382,7 @@ SMS (%1$d), MMS (%2$d)"</string>
      <string name="select_recipient">выбор получателя</string>
      <string name="select_top_text">Текст вверху</string>
      <string name="send">Отправить</string>
+	 
      <string name="send_signature_confirm_dialog_message">Вы не ввели содержание сообщения. Хотите отправить его только с подписью?</string>
      <string name="send_signature_confirm_dialog_title">Отправить подтверждение</string>
      <string name="send_sms">отправить сообщение</string>
