@@ -331,7 +331,7 @@
      <string name="download_before_sharing">" еще не загружено. Сначала скачайте, прежде чем отправлять!"</string>
      <string name="download_cancel_confirm_title">Отменить загрузку?</string>
      <string name="download_complete_not_cancel">Загрузка завершена. Отменить не удалось!</string>
-     <string name="download_confirm_message">Чтобы открыть этот файл, Вам нужно скачать размер вложения в 180Кб %1$s</string>
+     <string name="download_confirm_message">Чтобы открыть этот файл, нужно скачать вложение размером %1$s. Продолжить?</string>
      <string name="download_confirm_title">Подтверждение загрузки</string>
      <string name="download_failed">Ошибка загрузки. Нажмите, чтобы повторить.</string>
      <string name="draft_count_format"> (%1$s)</string>

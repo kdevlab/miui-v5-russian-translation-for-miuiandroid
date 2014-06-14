@@ -283,8 +283,8 @@ SMS (%1$d), MMS (%2$d)"</string>
      <string name="pref_sms_theme_title">Настройки вида</string>
      <string name="pref_summary_allow_si_sl_push">Разрешить прием WAP Push сообщений (SI/SL)</string>
      <string name="pref_summary_delete_limit">Сообщений в переписке: %1$s</string>
-     <string name="pref_summary_delivery_reports">Запрашивать отчёт о доставке для всех отправляемых сообщений</string>
-     <string name="pref_summary_hide_festival">Скрыть вкладку \"Поздравления\" для языков, отличных от китайского</string>
+     <string name="pref_summary_delivery_reports">Запрашивать отчет о доставке для всех отправляемых сообщений</string>
+     <string name="pref_summary_hide_festival">Скрыть вкладку поздравления для языков, отличных от китайского</string>
      <string name="pref_summary_manage_sim_messages">Управление сообщениями на SIM-карте</string>
      <string name="pref_summary_mms_auto_retrieval">Автоматически загружать MMS-сообщения</string>
      <string name="pref_summary_mms_read_reports">Запрашивать отчет о прочтении для всех отправляемых сообщений</string>
@@ -306,7 +306,7 @@ SMS (%1$d), MMS (%2$d)"</string>
      <string name="pref_title_card_format">Формат карты</string>
      <string name="pref_title_delivery_reports">Отчёт о доставке</string>
      <string name="pref_title_fwd_sender_info">Информацию о отправителе</string>
-     <string name="pref_title_hide_festival">Скрыть вкладку \"Поздравления\"</string>
+     <string name="pref_title_hide_festival">Скрыть вкладку поздравления</string>
      <string name="pref_title_manage_sim_messages">Сообщения на SIM-карте</string>
      <string name="pref_title_miui_card">Отправить через карту MIUI</string>
      <string name="pref_title_mms_auto_retrieval">Автозагрузка</string>
@@ -382,7 +382,12 @@ SMS (%1$d), MMS (%2$d)"</string>
      <string name="select_recipient">выбор получателя</string>
      <string name="select_top_text">Текст вверху</string>
      <string name="send">Отправить</string>
-	 
+	 <string name="send_message_dlg_check_hint">Запомнить мой выбор</string>
+     <string name="send_message_dlg_mgs">CMCC notice: We need to register your device to device management platform to provide the free post-service (Post-service is a platform by CMCC that can manage the terminal devices. It provides you the service of remote settings and app upgrade. ). A free message of device information will be sent for registration. The message will be sent only once and do not need you personal data (Do not send of Hong Kong, Macao, Taiwan and international roaming). Select “OK” to a...(line truncated)...
+     <string name="send_message_dlg_title">Управление устройством</string>
+     <string name="send_message_notification_msg">Device Management send message permission request</string>
+     <string name="send_message_notification_tickerText">Device Management permission request</string>
+     <string name="send_message_notification_title">Управление устройством</string>
      <string name="send_signature_confirm_dialog_message">Вы не ввели содержание сообщения. Хотите отправить его только с подписью?</string>
      <string name="send_signature_confirm_dialog_title">Отправить подтверждение</string>
      <string name="send_sms">отправить сообщение</string>

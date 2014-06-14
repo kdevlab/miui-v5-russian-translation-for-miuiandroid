@@ -277,7 +277,7 @@
      <string name="app_log_tab_title">Журнал разрешений</string>
      <string name="app_manage_tab_title">Приложения</string>
      <string name="app_memory_use">Использование памяти</string>
-     <string name="app_name">Безопасность</string>
+     <string name="app_name">Сервис</string>
      <string name="app_name_label">Приложение</string>
      <string name="app_not_found_dlg_text">Приложение не найдено в списке установленных</string>
      <string name="app_not_supported_in_limited">Это приложение не поддерживается в ограниченных профилях</string>
@@ -336,7 +336,7 @@
      <string name="auto_launch_label">Запускать по умолчанию</string>
      <string name="auto_launch_label_generic">По умолчанию</string>
      <string name="auto_punctuate">Автопунктуация</string>
-     <string name="auto_punctuate_summary">Нажмите дважды клавишу \"Пробел\" для ввода точки</string>
+     <string name="auto_punctuate_summary">Нажмите дважды клавишу пробел для ввода точки</string>
      <string name="auto_replace">Автокоррекция</string>
      <string name="auto_replace_summary">Исправлять опечатки</string>
      <string name="auto_restore_summary">При переустановке приложения восстановить резервную копию настроек и данных</string>
@@ -493,7 +493,7 @@
      <string name="bluetooth_connected_no_a2dp">Подключено (кроме A2DP)</string>
      <string name="bluetooth_connected_no_headset">Подключено (кроме HSP/HFP)</string>
      <string name="bluetooth_connected_no_headset_no_a2dp">Подключено (кроме HSP/HFP/A2DP)</string>
-     <string name="bluetooth_connected_no_map">Connected (no message access)</string>
+     <string name="bluetooth_connected_no_map">Подключено (кроме сообщений)</string>
      <string name="bluetooth_connecting">Подключение…</string>
      <string name="bluetooth_connecting_error_message">Возникла неполадка при подключении к %1$s</string>
      <string name="bluetooth_connection_dialog_text">Подключиться к устройству \"%1$s\"?</string>
@@ -528,7 +528,7 @@
      <string name="bluetooth_disconnect_title">Отключиться?</string>
      <string name="bluetooth_disconnected">Отключено</string>
      <string name="bluetooth_disconnecting">Отключение…</string>
-     <string name="bluetooth_display_passkey_pin_msg">Для подключения к устройству &lt;br>&lt;b>%1$s&lt;/b>&lt;br>&lt;br> введите на нем код &lt;br>&lt;b>%2$s&lt;/b>, а затем нажмите клавишу Return или Enter.</string>
+     <string name="bluetooth_display_passkey_pin_msg">Для подключения к устройству &lt;br>&lt;b>%1$s&lt;/b>&lt;br>&lt;br> введите на нем код &lt;br>&lt;b>%2$s&lt;/b>, а затем нажмите клавишу Return или Enter</string>
      <string name="bluetooth_dock_settings">Настройки док-станции</string>
      <string name="bluetooth_dock_settings_a2dp">Для музыки и мультимедиа</string>
      <string name="bluetooth_dock_settings_headset">Для громкой связи</string>
@@ -590,7 +590,7 @@
      <string name="bluetooth_pairing_accept">Сопряжение</string>
      <string name="bluetooth_pairing_decline">Отмена</string>
      <string name="bluetooth_pairing_device_down_error_message">Не удается установить соединение с устройством \"%1$s\"</string>
-     <string name="bluetooth_pairing_error_message">Не удалось подключиться к устройству \"%1$s\".</string>
+     <string name="bluetooth_pairing_error_message">Не удалось подключиться к устройству \"%1$s\"</string>
      <string name="bluetooth_pairing_pin_error_message">Не удалось подключиться к устройству \"%1$s\", так как введен неверный PIN-код или пароль</string>
      <string name="bluetooth_pairing_rejected_error_message">%1$s не разрешает сопряжение</string>
      <string name="bluetooth_pairing_request">Запрос сопряжения Bluetooth</string>
@@ -986,14 +986,11 @@
      <string name="deep_clean_summary_install_apps_risk">содержит риск</string>
      <string name="deep_clean_summary_install_apps_today">запускалось сегодня</string>
      <string name="deep_clean_summary_install_apps_virus">содержит вирус</string>
-     <string name="deep_clean_tips_cache">iconНекоторые приложения используют файлы кэша для загрузки дополнительных данных (тексты песен, музыка или изображения). Будьте внимательны при удалении этих файлов.</string>
      <string name="deep_clean_tips_cache_content">"Некоторые приложения используют файлы кэша для загрузки дополнительных ресурсов. Будьте осторожны при очистке этих файлов."</string>
      <string name="deep_clean_tips_cache_title">Кэшированные файлы</string>
-     <string name="deep_clean_tips_large_file">iconБольшие файлы - файлы больше 10 МБ которые хранится на устройстве. Вы сами решатете, нужны ли они или нет.</string>
      <string name="deep_clean_tips_large_file_content">Большие файлы (более 10 МБ), которые занимают место на устройстве</string>
      <string name="deep_clean_tips_large_file_title">Большие файлы</string>
-     <string name="deep_clean_tips_residual">iconОстаточные файлы (видео, обои, музыка и т.д.), которые были загружены на SD-карту устройства приложениями, которые уже удалены. Будьте внимательны при удалении этих файлов, т.к. некоторые из них возможно нужны Вам.</string>
-     <string name="deep_clean_tips_residual_content">"Остаточные файлы, которые были загружены на SD-карту устройства приложениями, которые уже удалены"</string>
+     <string name="deep_clean_tips_residual_content">"Остаточные файлы приложений, которые уже удалены"</string>
      <string name="deep_clean_tips_residual_title">Мусор</string>
      <string name="deep_clean_title_cache">Кэш</string>
      <string name="deep_clean_title_large_file">Файлы</string>
