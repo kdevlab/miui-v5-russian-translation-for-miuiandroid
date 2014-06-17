@@ -327,7 +327,8 @@
         <item></item>
      </string-array>
      <string-array name="msd_pc_system_install_step_2_summary">
-        <item>@string/msd_pc_system_install_step_2_summary_xp</item>
+        <item>2. \"%1$s\" будет отображаться как USB-накопитель 
+ при подключении к ПК</item>
         <item></item>
         <item>Теперь Вы можете передавать файлы на желаемые устройства</item>
         <item></item>
