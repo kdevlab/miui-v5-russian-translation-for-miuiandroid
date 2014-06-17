@@ -305,15 +305,18 @@
         <item>Linux</item>
      </string-array>
      <string-array name="msd_pc_system_install_finish_summary">
-        <item>@string/msd_pc_system_install_finish_summary_xp</item>
-        <item>@string/msd_pc_system_install_finish_summary_vista</item>
+        <item>После установки этого драйвера,
+\"%1$s\" будет отображаться при подключении к ПК как USB-накопитель</item>
+        <item>Для версий Windows Vista и новее,
+музыкальный плеер \"%1$s\" будет автоматически отображаться на ПК</item>
         <item>Если Вы установили драйвер,
 устройство будет автоматически открываться при подключении к ПК</item>
         <item></item>
      </string-array>
      <string-array name="msd_pc_system_install_start_summary">
         <item>Для Windows XP или старее,\nдрайвер должен быть установлен вручную</item>
-        <item>@string/msd_pc_system_install_start_summary_vista</item>
+        <item>Для версий Windows Vista и новее,
+\"%1$s\" будет автоматически отображаться как USB-накопитель</item>
         <item>Для операционной системы OS X,\nдрайвер должен быть установлен вручную</item>
         <item></item>
      </string-array>
