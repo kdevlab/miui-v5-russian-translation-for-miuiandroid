@@ -86,6 +86,7 @@
      <string name="file_info_modified">Изменен:</string>
      <string name="file_info_size">Размер:</string>
      <string name="file_loading">Загрузка…</string>
+	 <string name="file_not_exist">файл не существует</string>
      <string name="file_too_large">Этот файл слишком большой для загрузки на сервер</string>
      <string name="finished">Завершено</string>
      <string name="folder_exist">Папка уже существует</string>
@@ -170,6 +171,7 @@
 1. Скачать (обновить локальный файл)
 2. Загрузить (обновить файл в облаке)"</string>
      <string name="open_changed_file_title">Файл изменен</string>
+	 <string name="open_file_failed">не удалось открыть</string>
      <string name="operating">Обработка…</string>
      <string name="operation_cancel">Отмена</string>
      <string name="operation_compress">Добавить в архив</string>

@@ -28,7 +28,7 @@
      <string name="add_new_account">Добавить аккаунт</string>
      <string name="add_new_entry_for_section">Добавить</string>
      <string name="add_organization">Добавить организацию</string>
-     <string name="add_to_my_contacts">Добавить в \"Мои контакты\"</string>
+     <string name="add_to_my_contacts">Добавить в мои контакты</string>
      <string name="add_wait">Добавить ожидание</string>
      <string name="add_xiaomi_account_dialog_btn">В аккаунт Xiaomi</string>
      <string name="add_xiaomi_account_dialog_msg">Рекомендуется сохранять контакты в аккаунт Xiaomi. Аккаунт Xiaomi позволяет производить синхронизацию и резервное копирование контактной информации и управление контактами на Вашем компьютере.</string>
@@ -817,6 +817,7 @@
      <string name="resource_account_login_title">Вход</string>
      <string name="resource_account_switch">Сменить аккаунт</string>
      <string name="resource_alarm_default">Будильник</string>
+	 <string name="resource_allow">Да</string>
      <string name="resource_app_name">Браузер ресурсов</string>
      <string name="resource_apply">Применить</string>
      <string name="resource_apply_trial">Попробовать</string>
@@ -858,6 +859,8 @@
      <string name="resource_comment_upload_not_bought">Вы должны использовать эту тему, прежде чем комментировать</string>
      <string name="resource_comment_upload_not_logined">Пожалуйста, зарегистрируйтесь</string>
      <string name="resource_comment_upload_success">Комментарий отправлен! Ваш комментарий будет отображаться после краткого обзора.</string>
+	 <string name="resource_connect_network_message">Разрешить приложению подключение к сети?</string>
+     <string name="resource_connect_network_settings">Уведомлять каждый раз, когда в сети</string>
      <string name="resource_default">Стандарт</string>
      <string name="resource_default_name">Ресурс</string>
 	 <string name="resource_delete">Удалить</string>
@@ -929,6 +932,7 @@
      <string name="resource_ranking">Топ</string>
      <string name="resource_ranking_free">Бесплатные</string>
      <string name="resource_ranking_purchase">Платные</string>
+	 <string name="resource_remind_another_time">Не напоминать</string>
      <string name="resource_ringtone_default">Мелодии</string>
      <string name="resource_ringtone_playing_error">ошибка проигрывания</string>
      <string name="resource_ringtone_volume_mute">Громкость мелодии отключена</string>

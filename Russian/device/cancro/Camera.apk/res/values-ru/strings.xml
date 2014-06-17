@@ -165,6 +165,7 @@
      <string name="not_enable_feature">Позже</string>
      <string name="not_enough_space">SD-карта заполнена</string>
      <string name="not_selectable_in_scene_mode">Недоступно в режиме съемки</string>
+	 <string name="object_track_enable_toast">Сдвиньте на экран предпросмотра, чтобы включить отслеживание объекта</string>
      <string name="ok">OK</string>
      <string name="opti_zoom_exit_button_text">Выйти</string>
      <string name="orientation">Ориентация</string>

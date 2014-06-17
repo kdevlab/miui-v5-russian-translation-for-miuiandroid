@@ -173,6 +173,7 @@
      <string name="download">Скачать</string>
      <string name="download_fail">Ошибка загрузки</string>
      <string name="download_fail_confirm_continue">Не удалось загрузить %s. Продолжить?</string>
+	 <string name="download_refocus_data">Скачать обновленные данные</string>
      <string name="duotone">Дуплекс</string>
      <string name="duration">Длительность</string>
      <string name="edit">Изменить</string>
@@ -376,6 +377,7 @@
      <string name="publishing">Публикация, подождите…</string>
      <string name="redeye">Красные глаза</string>
      <string name="redeye_tooltip">Нажмите для устранения эффекта красных глаз</string>
+	 <string name="refocus_data_downloading">Загрузка данных…</string>
      <string name="remove_hidden_album">Отменить скрытие</string>
      <string name="remove_recent_album">Удалить из последних альбомов</string>
      <string name="rename_failed">Не удалось переименовать</string>

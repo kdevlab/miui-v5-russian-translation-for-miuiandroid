@@ -11,8 +11,6 @@
      <string name="apply_font_btn_exclude">Без шрифта</string>
      <string name="apply_font_btn_reboot">Применить</string>
      <string name="apply_font_tip">Тема содержит шрифт, требуется перезагрузка</string>
-     <string name="apply_lockscreen_paper_tips">Работает не стандартный экран блокировки, новые обои на нем могут не смениться</string>
-     <string name="apply_theme_no_select_message">Пожалуйста, выберите компоненты</string>
      <string name="apply_theme_with_ringtones">Применять с рингтонами</string>
      <string name="backup_preference_title">Резервное копирование</string>
      <string name="backup_theme_dialog_message">"Резервное копирование текущей темы"</string>
@@ -25,10 +23,7 @@
      <string name="close">Закрыть</string>
      <string name="component_category_finest_title">Основные</string>
      <string name="component_category_more_title">Дополнительные</string>
-     <string name="component_include_title">Элементов: %1$s</string>
      <string name="component_lockstyle_personal_title">Настройки</string>
-     <string name="component_select_title">%1$s элементов</string>
-     <string name="component_settings_title">Текущая тема</string>
      <string name="default_name">По умол.</string>
      <string name="deleting">Удаление…</string>
      <string name="description_author">Автор:</string>
@@ -65,6 +60,7 @@
      <string name="resource_account_login_title">Вход</string>
      <string name="resource_account_switch">Сменить аккаунт</string>
      <string name="resource_alarm_default">Будильник</string>
+	 <string name="resource_allow">Да</string>
      <string name="resource_app_name">Браузер ресурсов</string>
      <string name="resource_apply">Применить</string>
      <string name="resource_apply_trial">Попробовать</string>
@@ -108,6 +104,8 @@
      <string name="resource_comment_upload_not_bought">Прежде чем оставить отзыв, Вы должны применить тему</string>
      <string name="resource_comment_upload_not_logined">Пожалуйста, войдите в аккаунт</string>
      <string name="resource_comment_upload_success">Отзыв отправлен!</string>
+	 <string name="resource_connect_network_message">Разрешить приложению подключение к сети?</string>
+     <string name="resource_connect_network_settings">Уведомлять каждый раз, когда в сети</string>
      <string name="resource_comment_version_name">(версия: %1$s)</string>
      <string name="resource_default">Стандартная мелодия</string>
      <string name="resource_default_name">Ресурс</string>
@@ -172,7 +170,6 @@
      <string name="resource_pack_price_info">%1$s обычная</string>
      <string name="resource_pack_warning">Внимание. Вы уже приобрели %1$d элементов. Текущая цена больше не актуальна. Необходимо приобрести их по отдельности.</string>
      <string name="resource_present">Подарок</string>
-     <string name="resource_preview">Просмотр</string>
      <string name="resource_price_free">Бесплатно</string>
      <string name="resource_price_unit">" Mi"</string>
      <string name="resource_purchase_getting_order">Получение даннных заказа…</string>
@@ -181,6 +178,7 @@
      <string name="resource_ranking">Популярные</string>
      <string name="resource_ranking_free">Бесплатные</string>
      <string name="resource_ranking_purchase">Платные</string>
+	 <string name="resource_remind_another_time">Не напоминать</string>
      <string name="resource_ringtone_default">Мелодии</string>
      <string name="resource_ringtone_playing_error">ошибка проигрывания</string>
      <string name="resource_ringtone_volume_mute">Громкость мелодии отключена</string>
@@ -210,7 +208,6 @@
      <string name="resource_update">Обновить</string>
      <string name="resource_user_know">OK</string>
      <string name="resource_waiting_download">Ожидание</string>
-     <string name="restore_default_theme_alert">Вы можете стать жертвой подделки темы. Перейдите в магазин тем, чтобы купить или повторно загрузить тему.</string>
      <string name="sdcard_not_mounted_dialog_message">"Вставьте SD-карту"</string>
      <string name="sdcard_not_mounted_dialog_title">SD-карта не обнаружена</string>
      <string name="sdcard_status_changed_dialog_message">Перезапустите приложение для обновления ресурсов.</string>
@@ -228,7 +225,7 @@
      <string name="theme_changed_failed_message">Ошибка применения темы</string>
      <string name="theme_changed_message">Успешно применено</string>
      <string name="theme_changing_dialog_title">Применение темы. Подождите…</string>
-     <string name="theme_component_title_alarm">Будильник</string>
+     <string name="theme_component_title_alarm">Предупреждение</string>
      <string name="theme_component_title_alarmstyle">Будильник</string>
      <string name="theme_component_title_all">Темы</string>
      <string name="theme_component_title_audio_effect">Звуковые эффекты</string>
@@ -255,7 +252,6 @@
      <string name="theme_description_title_default">По умолчанию</string>
 	 <string name="theme_fresh_man_notifaction">Попробуйте новые темы</string>
      <string name="theme_immediately_apply_tip">Тема обновляется, применить после обновления?</string>
-     <string name="theme_import_activity_label">Обновление тем</string>
      <string name="theme_import_data">Импорт информации</string>
      <string name="theme_import_fail">Ошибка импорта %1$s</string>
      <string name="theme_import_from_sdcard">Импортировать с SD-карты</string>
@@ -287,10 +283,7 @@
      <string name="theme_upgrade_request_content">Формат локальных тем нужно преобразовать для повышения эффективности. Это может занять некоторое время и возможно подтормаживание системы в процессе. Преобразовать темы сейчас?</string>
      <string name="theme_upgrade_request_title">Обновление тем</string>
      <string name="theme_upgrade_request_yes">Да</string>
-     <string name="third_party_pickers_activity_title">%1$s</string>
      <string name="title_component">Компоненты</string>
-     <string name="title_local">Телефон</string>
-     <string name="title_online">Онлайн</string>
      <string name="title_system_resource">Системные</string>
      <string name="to_activate_the_account">Активируйте свой аккаунт Xiaomi</string>
      <string name="wallpaper_crop">Обрезать</string>

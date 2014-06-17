@@ -11,7 +11,11 @@
      <string name="dialog_title_no_network">Сеть не найдена. Подключитесь через Wi-Fi или включите мобильный интернет.</string>
      <string name="direction_east">В</string>
      <string name="direction_north">С</string>
+	 <string name="direction_north_east">СВ</string>
+     <string name="direction_north_west">СЗ</string>
      <string name="direction_south">Ю</string>
+	 <string name="direction_south_east">ЮВ</string>
+     <string name="direction_south_west">ЮЗ</string>
      <string name="direction_west">З</string>
      <string name="getting_location">Получение местоположения…</string>
      <string name="guide_toast">Пожалуйста, откалибруйте компас жестом, показанным на рисунке</string>
