@@ -3526,6 +3526,7 @@
      <string name="use_default_tts_settings_title">Только мои настройки</string>
      <string name="use_location_summary">Разрешить Google использовать данные о местоположении для улучшения поиска и работы других служб</string>
      <string name="use_location_title">Учитывать при поиске</string>
+	 <string name="use_network_warning">Xiaomi Service Framework и Cloud Service требуется подключение к сети</string>
      <string name="use_system_language_to_select_input_method_subtypes">Язык системы</string>
      <string name="user_account_title">Аккаунт для контента</string>
      <string name="user_add_profile_item_summary">Вы можете ограничить доступ к приложениям и содержанию с вашего аккаунта</string>

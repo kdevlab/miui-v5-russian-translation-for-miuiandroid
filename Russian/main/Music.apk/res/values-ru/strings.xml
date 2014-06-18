@@ -150,6 +150,9 @@
      <string name="id3_modify_confirm_check">Сохранить изменения ID3?</string>
      <string name="id3_modify_confirm_text">Сохранить</string>
      <string name="impunity_declaration">Онлайн музыка предоставляется сервисом Baidu Online Music. Нажмите \"Принимаю\", чтобы принять <a href="http://music.baidu.com/doc/agreement">Условия использования</a> и продолжить.</string>
+	 <string name="impunity_declaration_ignore">Не спрашивать</string>
+     <string name="impunity_declaration_settings">Запрашивать разрешене к сети</string>
+     <string name="impunity_declaration_summary">При входе в музыку, будет всплывать напоминание</string>
      <string name="impunity_declaration_title">Примечание</string>
      <string name="keep_quit_position_settings">Запомнить позицию</string>
      <string name="keep_quit_position_summary">Возвращаться к состоянию на момент выхода. Рекомендуется включить.</string>
@@ -198,8 +201,6 @@
      <string name="modify_tracks_id3_background">Изменить ID3 выбранного трека в фоновом режиме</string>
      <string name="more">Еще</string>
      <string name="music_browser_label">Музыка</string>
-     <string name="music_filter">Фильтрация файлов</string>
-     <string name="music_filter_helper">Чтобы скрывать файлы, которые не связаны с музыкой, применяется размер фильтра 800 КБ. Порог можно настроить в меню Настройки/Файловый фильтр.</string>
      <string name="music_not_loaded">Музыка не загружена</string>
      <string name="music_open_other_connect">Скачать музыку с помощью мобильного подключения к интернету</string>
      <string name="music_picker_title">Выберите трек</string>
@@ -317,6 +318,7 @@
      <string name="sync_enable_toast">Вы можете изменить эту функцию через \"Настройки\" > \"Аккаунты\" > \"MiCloud\"</string>
      <string name="synchronize_playlist_setting">Синхронизация плейлистов</string>
      <string name="synchronize_playlist_summary">Синхронизировать плейлисты в MiCloud</string>
+	 <string name="take_effect_afater_restart">Перезапустите приложение, чтобы новые настройки вступили в силу</string>
      <string name="track_bit_rate_hd">HD</string>
      <string name="track_bit_rate_standard">Стд.</string>
      <string name="track_bit_rate_uhd">UHD</string>

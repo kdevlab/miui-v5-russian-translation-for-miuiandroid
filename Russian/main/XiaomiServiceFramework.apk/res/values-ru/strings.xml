@@ -165,6 +165,7 @@
      <string name="enable_micloud">Включить облачные сервисы</string>
      <string name="enable_sync">Включить</string>
      <string name="enable_sync_dspt">Синхронизация отключена</string>
+	 <string name="error_device_id">Не удается получить IMEI</string>
      <string name="error_account_changed_summary">Ваш аккаунт был изменен. Проверьте и перезапустите</string>
      <string name="error_account_changed_title">Аккаунт был изменен</string>
      <string name="error_auth_summary">Ошибка входа в аккаунт. Войдите заново</string>

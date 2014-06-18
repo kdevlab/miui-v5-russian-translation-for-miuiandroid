@@ -3,6 +3,11 @@
 <resources>
      <string name="Parse_error_dlg_text">При синтаксическом анализе пакета возникла неполадка</string>
      <string name="Parse_error_dlg_title">Синтаксическая ошибка</string>
+	 <string name="ad_block_button_title">Заблокировать</string>
+     <string name="ad_relative">Реклама</string>
+     <string name="adware_count">Содержит плагины: %d</string>
+     <string name="adware_hint">Эти плагины используются сторонними разработчиками для показа рекламны на устройстве</string>
+     <string name="adware_title">Реклама</string>
      <string name="allow_source_dlg_text">"%1$s хочет установить другие приложения.
 
 Разрешить и запомнить выбор?"</string>

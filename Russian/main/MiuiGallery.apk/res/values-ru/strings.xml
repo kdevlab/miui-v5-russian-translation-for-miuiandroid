@@ -266,7 +266,9 @@
      <string name="internal_sd_card_hm">Память телефона</string>
      <string name="invalid_invition_url">Неверная ссылка приглашения</string>
      <string name="invalid_recipient_message">Исправьте получателя (получателей) или они не будут получать сообщения</string>
-     <string name="item_not_sync">Этот файл не был синхронизирован с облаком и не может быть загружен</string>
+	 <string name="item_not_sync_for_origin_image">Это изображение не было синхронизировано в облако и оригинальное изображение не может быть загружено</string>
+     <string name="item_not_sync_for_origin_video">Это видео не синхронизировано с облаком и не может быть загружено</string>
+     <string name="item_not_sync_for_refocus_data">Это изображение не было синхронизировано в облако и его данные не могут быть загружены</string>
      <string name="kick_owner_user_positive_button_text">Удалить</string>
      <string name="kick_owner_user_title">Удалить этот номер?</string>
      <string name="kick_sharer">Удалить получателя</string>
@@ -504,6 +506,7 @@
      <string name="too_many_recipients">Сообщение имеет слишком много получателей (%1$s). Существует предел на %2$s получателей.</string>
      <string name="try_to_send">Отправить</string>
      <string name="ubifocus_data_missing">Некоторые данные потеряны</string>
+	 <string name="ubifocus_guide_text">Удерживайте 0.5с., чтобы обновить</string>
      <string name="ubifocus_map_error">Некоторые данные неверны</string>
      <string name="ubifocus_refocus_fail_tip">Не удается перефокусироваться из-за некоторых неверных или отсутствующих данных</string>
      <string name="turn_left">Повернуть влево</string>

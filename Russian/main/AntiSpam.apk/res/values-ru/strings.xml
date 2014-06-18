@@ -35,9 +35,12 @@
      <string name="SMS_MODENAME">Черный список</string>
      <string name="SMS_PREFIX">Префиксы</string>
      <string name="SMSpass">Разрешить сообщения</string>
+	 <string name="ad_block_hint">Заблокировано: %d</string>
      <string name="ad_install_monitor">Мониторинг приложений</string>
      <string name="ad_install_monitor_hint">Проверять приложения на наличие рекламы при установке</string>
+	 <string name="ad_permission_hint">Использование блокировки рекламы может повлиять на производительность приложений или их работоспособность</string>
      <string name="ad_relative_setting">Общие настройки</string>
+	 <string name="ad_single_block_hint">Заблокировано</string>
      <string name="ad_update_setting">Настройки обновления</string>
      <string name="ad_update_time">Обновлено: %s</string>
      <string name="ad_update_time_unKnown">Обновлено: неизвестно</string>
