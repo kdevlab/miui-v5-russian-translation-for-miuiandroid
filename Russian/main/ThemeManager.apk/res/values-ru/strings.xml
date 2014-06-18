@@ -105,7 +105,7 @@
      <string name="resource_comment_upload_not_logined">Пожалуйста, войдите в аккаунт</string>
      <string name="resource_comment_upload_success">Отзыв отправлен!</string>
 	 <string name="resource_connect_network_message">Разрешить приложению подключение к сети?</string>
-     <string name="resource_connect_network_settings">Уведомлять каждый раз, когда в сети</string>
+     <string name="resource_connect_network_settings">Запрашивать подключение</string>
      <string name="resource_comment_version_name">(версия: %1$s)</string>
      <string name="resource_default">Стандартная мелодия</string>
      <string name="resource_default_name">Ресурс</string>
@@ -178,7 +178,7 @@
      <string name="resource_ranking">Популярные</string>
      <string name="resource_ranking_free">Бесплатные</string>
      <string name="resource_ranking_purchase">Платные</string>
-	 <string name="resource_remind_another_time">Не напоминать</string>
+	 <string name="resource_remind_another_time">Больше не спрашивать</string>
      <string name="resource_ringtone_default">Мелодии</string>
      <string name="resource_ringtone_playing_error">ошибка проигрывания</string>
      <string name="resource_ringtone_volume_mute">Громкость мелодии отключена</string>
