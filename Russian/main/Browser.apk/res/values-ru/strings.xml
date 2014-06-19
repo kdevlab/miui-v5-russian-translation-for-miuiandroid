@@ -330,7 +330,7 @@
      <string name="pref_clear_cache_for_exit">Очищать кэш</string>
      <string name="pref_clear_history_for_exit">Очищать историю</string>
      <string name="pref_confirm_for_exit">Подтверждать выход</string>
-     <string name="pref_content_auto_light_mode">автоматическая яркость</string>
+     <string name="pref_content_auto_light_mode">Автоматическая яркость</string>
      <string name="pref_content_autofit">Мобильный вид</string>
      <string name="pref_content_autofit_summary">Подгонять веб-страницы под размер экрана</string>
      <string name="pref_content_block_float_popups">Блокировать плавающие окна</string>
@@ -559,7 +559,7 @@
      <string name="sub_sync_item_browser_title_history_summary">Синхронизировать историю просмотров</string>
      <string name="sub_sync_item_browser_title_novel">Синхр. книги</string>
      <string name="sub_sync_item_browser_title_novel_summary">Синхронизировать книги браузера</string>
-	 <string name="sub_sync_item_browser_title_webapp">Синхронизация веб-приложений</string>
+	 <string name="sub_sync_item_browser_title_webapp">Синхр. веб-приложения</string>
      <string name="sub_sync_item_browser_title_webapp_summary">Синхронизировать добавленные веб-приложения</string>
      <string name="sync_item_browser_summary">Синхронизировать данные в облако - легкое использование браузера на разных устройствах</string>
      <string name="sync_item_browser_title">Синхронизация браузера</string>

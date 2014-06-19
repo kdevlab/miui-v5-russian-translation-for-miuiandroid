@@ -292,12 +292,12 @@
      <string name="manual">Вручную</string>
      <string name="me">я</string>
      <string name="menu_item_sort">Сортировка</string>
-     <string name="menu_item_sort_date_asc">По дате (▼)</string>
-     <string name="menu_item_sort_date_desc">По дате (▲)</string>
-     <string name="menu_item_sort_name_asc">По имени (▼)</string>
-     <string name="menu_item_sort_name_desc">По имени (▲)</string>
-     <string name="menu_item_sort_size_asc">По размеру (▼)</string>
-     <string name="menu_item_sort_size_desc">По размеру (▲)</string>
+     <string name="menu_item_sort_date_asc">По дате ▲</string>
+     <string name="menu_item_sort_date_desc">По дате ▼</string>
+     <string name="menu_item_sort_name_asc">По имени ▲</string>
+     <string name="menu_item_sort_name_desc">По имени ▼</string>
+     <string name="menu_item_sort_size_asc">По размеру ▲</string>
+     <string name="menu_item_sort_size_desc">По размеру ▼</string>
      <string name="menu_view_contact">Просмотр контакта</string>
      <string name="message_no_delete_access">Отказано в доступе. Невозможно удалить файл или папку: %s.</string>
      <string name="message_no_delete_access_with_count">Невозможно удалить файл(ы) или папку(и) (%d). Возможно они не существуют или доступ к ним запрещен.</string>
@@ -399,7 +399,7 @@
      <string name="save_photo">Сохранить изменения?</string>
      <string name="saving_failure">Не удалось сохранить фото</string>
      <string name="saving_image">Сохранение картинки…</string>
-     <string name="scan_barcode_guide">Чтобы получить QR-код альбома, нажмите иконку Share в верхнем правом углу</string>
+     <string name="scan_barcode_guide">Чтобы получить QR-код альбома, нажмите иконку \"Поделиться\" в верхнем правом углу</string>
      <string name="scan_barcode_to_join">Отсканируйте QR-код, чтобы присоединиться к альбому</string>
      <string name="scan_qr_code">Необходимо сканировать QR-код, чтобы получить ссылку на общий альбом.</string>
      <string name="scan_qr_code_buttom_text">Отсканируйте QR-код, чтобы посмотреть этом альбом</string>
