@@ -46,7 +46,7 @@
      <string name="account_settings_login_dialog_content_fmt">Неверное имя пользователя или пароль аккаунта %s. Обновить их сейчас?</string>
      <string name="account_settings_login_dialog_reason_fmt" formatted="false">Не удалось войти в аккаунт %s. Причина проблемы: %s. Обновить имя пользователя и/или пароль?</string>
      <string name="account_settings_login_dialog_title">Не удалось войти в аккаунт</string>
-     <string name="account_settings_mail_check_frequency_label">Частота проверки папки \"Входящие\"</string>
+     <string name="account_settings_mail_check_frequency_label">Частота проверки папки входящие</string>
      <string name="account_settings_name_label">Имя отправителя</string>
      <string name="account_settings_notifications">Настройки уведомлений</string>
      <string name="account_settings_notify_label">Уведомления</string>
@@ -116,6 +116,9 @@
      <string name="account_setup_incoming_headline">Настройки сервера входящих сообщений</string>
      <string name="account_setup_incoming_imap_path_prefix_hint">По желанию</string>
      <string name="account_setup_incoming_imap_path_prefix_label">Префикс пути IMAP</string>
+	 <string name="account_setup_incoming_mail_adress_label">Адрес почты</string>
+     <string name="account_setup_incoming_mail_domain_hint">Может быть пустым</string>
+     <string name="account_setup_incoming_mail_domain_label">Домен</string>
      <string name="account_setup_incoming_password_label">Пароль</string>
      <string name="account_setup_incoming_port_label">Порт</string>
      <string name="account_setup_incoming_security_label">Тип безопасности</string>
@@ -140,7 +143,7 @@
      <string name="account_setup_options_mail_check_frequency_1hour">Каждый час</string>
      <string name="account_setup_options_mail_check_frequency_30min">Каждые 30 минут</string>
      <string name="account_setup_options_mail_check_frequency_5min">Каждые 5 минут</string>
-     <string name="account_setup_options_mail_check_frequency_label">Частота проверки папки \"Входящие\"</string>
+     <string name="account_setup_options_mail_check_frequency_label">Частота проверки папки входящие</string>
      <string name="account_setup_options_mail_check_frequency_never">Никогда</string>
      <string name="account_setup_options_mail_check_frequency_push">Автоматически (принудительно)</string>
      <string name="account_setup_options_mail_window_1day">Один день</string>
@@ -169,7 +172,7 @@
      <string name="account_setup_security_required_title">Удаленное управление безопасностью</string>
      <string name="account_setup_service_not_set">Ваши настройки услуг электронной почты еще не настроены</string>
      <string name="account_setup_username_password_toast">Введите действительный адрес электронной почты и пароль</string>
-     <string name="account_setup_username_uneditable_error">Невозможно изменить имя пользователя. Если хотите использовать другое имя, нажмите \"Добавить аккаунт\" и создайте новый аккаунт.</string>
+     <string name="account_setup_username_uneditable_error">Невозможно изменить имя пользователя. Если хотите использовать другое имя, нажмите добавить аккаунт и создайте новый аккаунт.</string>
      <string name="account_sync_off">Синхронизация для этого аккаунта отключена</string>
      <string name="account_waiting_for_folders_msg">Загрузка…</string>
      <string name="accounts_welcome">Почта поддерживает большинство популярных почтовых служб</string>
@@ -236,7 +239,7 @@
      <string name="cancel_attachment">Отмена</string>
      <string name="cannot_move_multiple_accounts_toast">Не удалось переместить сообщения, так как они находятся в разных аккаунтах</string>
      <string name="cannot_move_protocol_not_supported_toast">Перемещение не поддерживается в аккаунтах POP3</string>
-     <string name="cannot_move_special_mailboxes_toast">Нельзя перемещать сообщения из папок \"Черновики\", \"Исходящие\" и \"Отправленные\"</string>
+     <string name="cannot_move_special_mailboxes_toast">Нельзя перемещать сообщения из папок черновики, исходящие и отправленные</string>
      <string name="cant_move_or_change_labels">Не удалось переместить сообщения, так как они находятся в разных аккаунтах</string>
      <string name="cc">Копия:</string>
      <string name="cc_attribution">Копия: %1$s&lt;br></string>
@@ -317,7 +320,7 @@
      <string name="dialog_insufficient_space_for_single_account_on_internal">Недостаточно места для %s</string>
      <string name="dialog_insufficient_space_on_external">Не удается завершить автозагрузку. Нет места на внешней памяти.</string>
      <string name="dialog_insufficient_space_on_internal">Недостаточно места во внутренней памяти</string>
-     <string name="disable_admin_warning">ВНИМАНИЕ! Отключение прав на администрирование Вашего телефона для приложения почты приведет к удалению всех аккаунтов электронной почты, которые используют эти права. Кроме того, будут удалены все письма, контакты, календари и другие данные, связанные с этими аккаунтами</string>
+     <string name="disable_admin_warning">ВНИМАНИЕ! Отключение прав на администрирование Вашего телефона для приложения почты приведет к удалению всех аккаунтов электронной почты, которые используют эти права. Кроме того, будут удалены все письма, контакты, календари и другие данные, связанные с этими аккаунтами.</string>
      <string name="discard">Удалить</string>
      <string name="discard_drafts">Удалить черновики</string>
      <string name="dismiss_tip_hover_text">Закрыть подсказку</string>
@@ -491,7 +494,7 @@
      <string name="message_invite_tentative">Возможно</string>
      <string name="message_invite_title">Приглашение в календаре</string>
      <string name="message_saved">Черновик сообщения сохранен</string>
-     <string name="message_view_attachment_background_load">Примечание. Несколько прикрепленных файлов в переадресованном сообщении будут загружены перед отправкой</string>
+     <string name="message_view_attachment_background_load">Примечание. Несколько прикрепленных файлов в переадресованном сообщении будут загружены перед отправкой.</string>
      <string name="mock_content_provider">Mock Content Provider</string>
      <string name="more_atts_total">Всего вложений: %1$d</string>
      <string name="more_info_attachment">Справка</string>
@@ -525,7 +528,7 @@
      <string name="notification_action_undo_remove_label">Ярлык удален</string>
      <string name="notification_exchange_calendar_added">Добавлен календарь Exchange</string>
      <string name="ok">OK</string>
-     <string name="okay_action">ОК</string>
+     <string name="okay_action">OK</string>
      <string name="other_mail">Другая почта</string>
      <string name="outbox_alert_button_confirm">Изменить</string>
 	 <string name="outbox_alert_button_no_resend">Не отправлять</string>
@@ -695,13 +698,13 @@
      <string name="swipe_down_to_refresh">Потяните вниз, чтобы обновить</string>
      <string name="sync_error">Ошибка синхронизации</string>
      <string name="sync_error_message">Недостаточно места для синхронизации</string>
-     <string name="system_account_create_failed">Не удалось создать аккаунт. Повторите попытку</string>
-     <string name="system_folders_sent_dlg">Выберите папку \"Отправленные\" на сервере</string>
-     <string name="system_folders_sent_summary">Выберите папку \"Отправленные\" на сервере</string>
+     <string name="system_account_create_failed">Не удалось создать аккаунт. Повторите попытку.</string>
+     <string name="system_folders_sent_dlg">Выберите папку отправленные на сервере</string>
+     <string name="system_folders_sent_summary">Выберите папку отправленные на сервере</string>
      <string name="system_folders_sent_title">Отправленные</string>
      <string name="system_folders_title">Системные папки</string>
-     <string name="system_folders_trash_dlg">Выберите папку \"Корзина\" на сервере</string>
-     <string name="system_folders_trash_summary">Выберите папку \"Корзина\" на сервере</string>
+     <string name="system_folders_trash_dlg">Выберите папку корзина на сервере</string>
+     <string name="system_folders_trash_summary">Выберите папку корзина на сервере</string>
      <string name="system_folders_trash_title">Корзина</string>
      <string name="tablet">планшетным ПК</string>
      <string name="tap_to_configure">Нажмите для настройки</string>
@@ -734,7 +737,7 @@
      <string name="via_domain">из домена %1$s</string>
      <string name="view_more_conversations">Другие цепочки писем</string>
      <string name="wait_for_manual_sync_body">"В этом аккаунте не настроена автоматическая синхронизация.
-Выберите "<b>Настройки синхронизации</b>, чтобы включить ее, или <b>Синхронизировать сейчас</b>, чтобы синхронизировать почту один раз.</string>
+Выберите "<b>настройки синхронизации</b>, чтобы включить ее, или <b>синхронизировать сейчас</b>, чтобы синхронизировать почту один раз.</string>
      <string name="wait_for_sync_body">Ваши сообщения загружаются</string>
      <string name="wait_for_sync_body_2">Сервер Exchange спросит Вас через 1-30 секунд. Пожалуйста, подтвердите настройки безопасности и активируйте. Обратите внимание на предупреждение системы.</string>
 	 <string name="wait_for_sync_body_txt_array_1">Сервер Exchange спросит Вас через</string>
