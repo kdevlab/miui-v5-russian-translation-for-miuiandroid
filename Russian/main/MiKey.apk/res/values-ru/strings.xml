@@ -14,11 +14,11 @@
     <string name="note">Примечания:</string>
     <string name="add_to_contacts">Добавить в контакты</string>
     <string name="recognize">Распознать</string>
-    <string name="place_barcode_into_rectangle">Наведите QR-код или штрих-код внутрь видоискателя</string>
-    <string name="open_flash_error">Не удалось включить вспышку</string>
-    <string name="close_flash_error">Не удалось выключить вспышку</string>
+    <string name="place_barcode_into_rectangle">Наведи QR-код или штрих-код внутрь видоискателя</string>
+    <string name="open_flash_error">Не удалось включить фонарик</string>
+    <string name="close_flash_error">Не удалось выключить фонарик</string>
     <string name="scan_fail">Ошибка сканирования</string>
-    <string name="vcard_prompt">Невозможно добавить контакт с пустым именем</string>
+    <string name="vcard_prompt">Невозможно добавить контакт без имени</string>
     <string name="copy_succeed">Скопировано</string>
     <string name="fail_generate_barcode">Ошибка генерации QR-кода или штрих-кода</string>
     <string name="scan_result">Результат сканирования</string>
@@ -51,6 +51,8 @@
     <string name="action_zero_volume">Отключить звук</string>
     <string name="action_open_sound_recorder">Открыть диктофон</string>
     <string name="action_open_or_close_motion">Переключить поворот экрана</string>
+	<string name="action_open_camera360_capture">Открыть Camera360</string>
+    <string name="action_open_camera360_edit">Редактор Camera360</string>
     <string name="action_open_wechat">Открыть WeChat</string>
     <string name="action_share_to_wechat">Отправить в WeChat</string>
     <string name="action_share_to_moment">Отправить на стену в WeChat</string>
@@ -68,21 +70,21 @@
     <string name="recommend">Рекомендуется</string>
     <string name="add">Добавить</string>
     <string name="running_notification">MI кнопка работает</string>
-    <string name="click_to_open">Нажмите, чтобы открыть</string>
+    <string name="click_to_open">Нажми, чтобы открыть</string>
     <string name="call_to">Позвонить</string>
     <string name="sms_to">Отправить сообщение</string>
     <string name="sms_template">Текст сообщения</string>
     <string name="confirm">OK</string>
     <string name="cancel">Отмена</string>
     <string name="delete">Удалить</string>
-    <string name="input_phone">Введите номер телефона</string>
+    <string name="input_phone">Введи номер телефона</string>
     <string name="earphone">Наушники</string>
-    <string name="select_device">Устройство вставлено?</string>
+    <string name="select_device">Выбери устройство</string>
     <string name="times">" раз"</string>
     <string name="rank_prefix">Общий рейтинг:</string>
     <string name="rank_suffix">" место"</string>
     <string name="no_usage">...</string>
-    <string name="device_not_recognized">Ошибка распознавания. Вставьте кнопку и повторите.</string>
+    <string name="device_not_recognized">Ошибка распознавания. Вставь кнопку и повтори.</string>
     <string name="clean_memory">Очистить память</string>
     <string name="close_all">Закрыть все</string>
     <string name="sms_sent_done">Сообщение отправлено</string>
@@ -110,7 +112,16 @@
     <string name="back_camera">Задняя камера</string>
     <string name="write_pic_fail">Не удалось сохранить фото</string>
     <string name="settings">Настройки</string>
-	<string name="buy">Купить кнопку</string>
+	<string name="setting_buy">Купить кнопку</string>
+    <string name="app_not_installed">Приложение не установлено</string>
+    <string name="setting_toolbar">Панель инструментов</string>
+    <string name="setting_toolbar_desc">Отображать панель инструментов в уведомлениях</string>
+    <string name="setting_toolbar_tip">"Нажми на плюс, чтобы добавить новую функцию или нажми на существующую функцию, чтобы изменить ее. 
+Длительно нажми, чтобы удалить. 
+Тест тест тест! 
+
+Открой панель инструментов 
+Тест тест тест!"</string>
     <string name="task_title_prefix">Этап N:</string>
     <string name="setting_feedback">Обратная связь</string>
     <string name="setting_speed_desc">Выберите скорость работы</string>
@@ -130,7 +141,7 @@
 
 Режим аксессуара - кнопка служит для защиты гнезда наушников от пыли и грязи :)"</string>
     <string name="setting_instant_photo_desc">Четкие изображения, но требуется больше времени</string>
-    <string name="toolbox_outer_desc">Нажмите на кнопку добавить или на существующую функцию</string>
+    <string name="toolbox_outer_desc">Нажми на кнопку добавить или на существующую функцию</string>
     <string name="setting_speed_max_time">1000 м.с.</string>
     <string name="setting_speed_middle_time">500 м.с.</string>
     <string name="setting_speed_min_time">0 м.с.</string>
@@ -144,28 +155,28 @@
     <string name="file_delimiter">/</string>
     <string name="silent_mode_tip_main">Кнопка отключена</string>
     <string name="update_message">Обновление!</string>
-    <string name="silent_mode_tip_sub">Включите в настройках :)</string>
+    <string name="silent_mode_tip_sub">Включи в настройках :)</string>
     <string name="test_user_entry">Отзывы пользователей</string>
     <string name="goto_update">Обновить</string>
     <string name="faq_title">Справка</string>
     <string name="faq_speed_title">Почему так быстро откликается?</string>
-    <string name="faq_speed_text">На каждом устройстве кнопка откликается с разной скоростью. Вы можете отрегулировать скорость нажатия в настройках под себя.</string>
+    <string name="faq_speed_text">На каждом устройстве кнопка откликается с разной скоростью. Ты можешь отрегулировать скорость нажатия в настройках под себя.</string>
     <string name="faq_focus_title">Почему получаются размытые фото и медленная съемка?</string>
     <string name="faq_focus_text">Фокусировка перед снятием включена по умолчанию. Фокусировка и замер делает процесс съемки медленным, но при этом получаете более четкое изображение. Фокусировку можно отключить в настройках, но при этом возможны нечеткие фотографии.</string>
     <string name="faq_plug_title">Не получается подключить. Как быть?</string>
-    <string name="faq_plug_text">Чтобы не было  проблемы распознавания кнопки, правильно вставляйте ее. Нажмите и удерживайте край вставки, чтобы избежать нажатия клавиш.</string>
+    <string name="faq_plug_text">Чтобы не было проблемы распознавания кнопки, правильно вставляй ее. Держи кнопку за края и вставляй, чтобы избежать нажатия клавиши.</string>
     <string name="faq_misreq_title">Некорректная работа кнопки. Что делать?</string>
-    <string name="faq_misreq_text">Выключите музыку, очистите RAM память и панель уведомлений. Вставьте кнопку и выберите в приложении MI кнопку. Инженеры работают над устранением этой проблемы.</string>
+    <string name="faq_misreq_text">Выключи музыку, очисти RAM память и панель уведомлений. Вставь кнопку и выбери в приложении MI кнопку. Инженеры работают над устранением этой проблемы.</string>
     <string name="faq_comp_title">На каких устройствах работает эта кнопка?</string>
-    <string name="faq_comp_text">В настоящее время поддерживается только на системе MIUI V5. А также для использования необходимо скачать приложение \"MI кнопка\".</string>
+    <string name="faq_comp_text">В настоящее время поддерживается только на системе MIUI V5. А также для использования необходимо скачать приложение MI кнопка.</string>
     <string name="faq_voice_title">Не слышно собеседника. Что делать?</string>
-    <string name="faq_voice_text">Повторно вставьте кнопку и не забудьте выбрать \"MI кнопка\"</string>
+    <string name="faq_voice_text">Повторно вставь кнопку и не забудь выбрать MI кнопка</string>
     <string name="faq_slow_title">Почему медленно срабатывает?</string>
-    <string name="faq_slow_text">Проверьте в настройках скорость работы, возможно она выставлена на "0". Задайте подходящую для себя.</string>
+    <string name="faq_slow_text">Проверь в настройках скорость работы, возможно она выставлена на "0". Задай подходящую для себя.</string>
     <string name="faq_quni_title">Каков срок службы кнопки?</string>
     <string name="faq_quni_text">Кнопка способна выдержать до 30000 нажатий, взависимоти от типа нажатий и силы</string>
     <string name="faq_stat_title">Как скинуть статистику на “0”?</string>
     <string name="faq_stat_text">Статистика количества нажатий кнопки сбрасывается раз в сутки</string>
     <string name="faq_vsm_title">Меры предосторожности</string>
-    <string name="faq_vsm_text">Убедитесь, что, прежде чем снять заднюю крышку, Вы вытащили кнопку!</string>
+    <string name="faq_vsm_text">Убедись, что, прежде чем снять заднюю крышку, ты вытащил кнопку!</string>
 </resources>
