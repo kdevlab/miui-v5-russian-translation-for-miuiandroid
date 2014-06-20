@@ -127,7 +127,7 @@
      <string name="account_setup_incoming_security_ssl_trust_certificates_label">SSL/TLS (принимать все сертификаты)</string>
      <string name="account_setup_incoming_security_tls_label">STARTTLS</string>
      <string name="account_setup_incoming_security_tls_trust_certificates_label">STARTTLS (принимать все сертификаты)</string>
-     <string name="account_setup_incoming_server_label">Сервер</string>
+     <string name="account_setup_incoming_server_label">" сервер"</string>
      <string name="account_setup_incoming_title">Настройки аккаунта</string>
      <string name="account_setup_incoming_username_label">Имя пользователя</string>
      <string name="account_setup_names_account_name_label">Присвойте этому аккаунту название (по желанию)</string>
@@ -260,7 +260,7 @@
      <string name="compose_help_context">написать</string>
 	 <string name="compose_send">Отправить</string>
      <string name="compose_sent">Отправлено</string>
-     <string name="confirm">да</string>
+     <string name="confirm">Да</string>
      <string name="confirm_discard_text">Удалить это сообщение?</string>
      <string name="confirm_response">Отправка ответа…</string>
 	 <string name="confirm_save_message_no">Нет</string>
