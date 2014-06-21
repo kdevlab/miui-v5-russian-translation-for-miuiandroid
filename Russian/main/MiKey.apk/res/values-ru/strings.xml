@@ -24,7 +24,7 @@
     <string name="scan_result">Результат сканирования</string>
     <string name="flash_lable">Вспышка</string>
     <string name="picker_lable">Галерея</string>
-	<string name="app_name">MI кнопка</string>
+	<string name="app_name">MI-кнопка</string>
     <string name="short_click_1">Одно нажатие</string>
     <string name="short_click_2">Два нажатия</string>
     <string name="short_click_3">Три нажатия</string>
@@ -69,7 +69,7 @@
     <string name="delete_gesture">Удалить действие кнопки?</string>
     <string name="recommend">Рекомендуется</string>
     <string name="add">Добавить</string>
-    <string name="running_notification">MI кнопка работает</string>
+    <string name="running_notification">MI-кнопка работает</string>
     <string name="click_to_open">Нажми, чтобы открыть</string>
     <string name="call_to">Позвонить</string>
     <string name="sms_to">Отправить сообщение</string>
@@ -103,11 +103,11 @@
     <string name="cn_1000">1000</string>
     <string name="cn_10000">10000</string>
     <string name="cn_100000000">100000000</string>
-    <string name="splash_tip">Вставьте кнопку :)</string>
+    <string name="splash_tip">Вставь кнопку :)</string>
     <string name="default_action_title">По умолчанию</string>
     <string name="action_home">Открыть главный экран</string>
     <string name="message_photo_end">Фото сохранено</string>
-    <string name="select_camera">Выберите камеру</string>
+    <string name="select_camera">Выбери камеру</string>
     <string name="front_camera">Передняя камера</string>
     <string name="back_camera">Задняя камера</string>
     <string name="write_pic_fail">Не удалось сохранить фото</string>
@@ -115,22 +115,21 @@
 	<string name="setting_buy">Купить кнопку</string>
     <string name="app_not_installed">Приложение не установлено</string>
     <string name="setting_toolbar">Панель инструментов</string>
-    <string name="setting_toolbar_desc">Отображать панель инструментов в уведомлениях</string>
-    <string name="setting_toolbar_tip">"Нажми на плюс, чтобы добавить новую функцию или нажми на существующую функцию, чтобы изменить ее. 
-Длительно нажми, чтобы удалить. 
-Тест тест тест! 
+    <string name="setting_toolbar_desc">Отображать панель инструментов для быстрого доступа в уведомлениях</string>
+    <string name="setting_toolbar_tip">"Нажми на плюс, чтобы добавить новую функцию.
+	
+Нажми на существующую функцию, чтобы изменить ее. 
 
-Открой панель инструментов 
-Тест тест тест!"</string>
+Удерживай функцию, чтобы удалить."</string>
     <string name="task_title_prefix">Этап N:</string>
     <string name="setting_feedback">Обратная связь</string>
-    <string name="setting_speed_desc">Выберите скорость работы</string>
-    <string name="setting_speed_slow">Медленная</string>
-    <string name="setting_speed_quick">Быстрая</string>
+    <string name="setting_speed_desc">Выбери скорость работы кнопки. Чем меньше скорость, тем больше вероятности точности срабатывания.</string>
+    <string name="setting_speed_slow">Медленнее</string>
+    <string name="setting_speed_quick">Быстрее</string>
     <string name="setting_vibrate_desc">Вибрировать при действиях (не работает при съемке и отключенном звуке)</string>
-    <string name="setting_keeplive_desc">Быстрое реагирование кнопки (в режиме реального времени)</string>
+    <string name="setting_keeplive_desc">Приложение не будет выгружаться из памяти (возможен повышенный расход батареи)</string>
     <string name="setting_speed_text">Скорость</string>
-    <string name="setting_keeplive_text">В реальном времени</string>
+    <string name="setting_keeplive_text">Держать в памяти</string>
     <string name="setting_instant_photo_text">Фокусировка</string>
     <string name="setting_vibrate_text">Виброотклик</string>
 	<string name="setting_silent_mode">Отключить кнопку</string>
@@ -140,7 +139,7 @@
 Всегда отключайте этот режим перед перезагрузкой и использованием кнопки. В противном случае это приведет к отсутствию звука.
 
 Режим аксессуара - кнопка служит для защиты гнезда наушников от пыли и грязи :)"</string>
-    <string name="setting_instant_photo_desc">Четкие изображения, но требуется больше времени</string>
+    <string name="setting_instant_photo_desc">Четкие изображения, но потребуется больше времени на съемку</string>
     <string name="toolbox_outer_desc">Нажми на кнопку добавить или на существующую функцию</string>
     <string name="setting_speed_max_time">1000 м.с.</string>
     <string name="setting_speed_middle_time">500 м.с.</string>
@@ -166,13 +165,13 @@
     <string name="faq_plug_title">Не получается подключить. Как быть?</string>
     <string name="faq_plug_text">Чтобы не было проблемы распознавания кнопки, правильно вставляй ее. Держи кнопку за края и вставляй, чтобы избежать нажатия клавиши.</string>
     <string name="faq_misreq_title">Некорректная работа кнопки. Что делать?</string>
-    <string name="faq_misreq_text">Выключи музыку, очисти RAM память и панель уведомлений. Вставь кнопку и выбери в приложении MI кнопку. Инженеры работают над устранением этой проблемы.</string>
+    <string name="faq_misreq_text">Выключи музыку, очисти RAM память и панель уведомлений. Вставь кнопку и выбери ее в приложении. Инженеры работают над устранением этой проблемы.</string>
     <string name="faq_comp_title">На каких устройствах работает эта кнопка?</string>
-    <string name="faq_comp_text">В настоящее время поддерживается только на системе MIUI V5. А также для использования необходимо скачать приложение MI кнопка.</string>
+    <string name="faq_comp_text">В настоящее время поддерживается только на системе MIUI V5. А также для использования необходимо скачать само приложение.</string>
     <string name="faq_voice_title">Не слышно собеседника. Что делать?</string>
     <string name="faq_voice_text">Повторно вставь кнопку и не забудь выбрать MI кнопка</string>
     <string name="faq_slow_title">Почему медленно срабатывает?</string>
-    <string name="faq_slow_text">Проверь в настройках скорость работы, возможно она выставлена на "0". Задай подходящую для себя.</string>
+    <string name="faq_slow_text">Проверь в настройках скорость работы, возможно она выставлена на 0. Задай подходящую для себя.</string>
     <string name="faq_quni_title">Каков срок службы кнопки?</string>
     <string name="faq_quni_text">Кнопка способна выдержать до 30000 нажатий, взависимоти от типа нажатий и силы</string>
     <string name="faq_stat_title">Как скинуть статистику на “0”?</string>
