@@ -5,19 +5,12 @@
      <string name="alert_action_edit_anyway">Продолжить</string>
      <string name="alert_edit_action_delete">Удалить</string>
      <string name="alert_edit_action_update">Изменить</string>
-     <string name="alert_message_delete_folders">"Удалить выбранные папки?
-
-(папок: %1$s)"</string>
-     <string name="alert_message_delete_folders_notes">"Удалить выбранные папки и заметки?
-
-Папок: %1$s
-Заметок: %2$s"</string>
+     <string name="alert_message_delete_folders">Удалить выбранные папки: %1$s?</string>
+     <string name="alert_message_delete_folders_notes">Удалить выбранные папки (%1$s) и заметки (%2$s)?</string>
      <string name="alert_message_delete_note">Удалить заметку?</string>
-     <string name="alert_message_delete_notes">"Удалить выбранные заметки?
-
-(заметок: %1$s)"</string>
-     <string name="alert_message_edit_anyway">Заметка содержит неподдерживаемые данные. Их редактирование может привести к потере данных.</string>
-     <string name="alert_title_edit_anyway">Вы уверены, что хотите отредактировать, даже если некоторые данные пропадут?</string>
+     <string name="alert_message_delete_notes">Удалить выбранные заметки: %1$s?</string>
+     <string name="alert_message_edit_anyway">Вы уверены, что хотите отредактировать заметку, даже если некоторые данные пропадут?</string>
+     <string name="alert_title_edit_anyway">Заметка содержит неподдерживаемые данные</string>
      <string name="app_name">Заметки</string>
      <string name="app_widget">Заметки</string>
      <string name="attachment_camera">Камера</string>
@@ -30,25 +23,24 @@
      <string name="dlg_desc_confirm_alarm_silent">После отключения, сигналы будильника и заметок не будут играть в режиме \"Без звука\"</string>
      <string name="dlg_title_confirm_alarm_silent">Отключение сигналов в режиме \"Без звука\"</string>
      <string name="enable_sync">Синхронизация</string>
-     <string name="enable_sync_desc">Заметки можно синхронизировать с вашим Xiaomi аккаунтом %1$s. Синхронизировать прямо сейчас?</string>
+     <string name="enable_sync_desc">Синхронизировать заметки с вашим аккаунтом Xiaomi (%1$s)?</string>
      <string name="error_contact_not_exist">Контакт не существует</string>
-     <string name="error_note_empty_for_clock">К сожалению, невозможно установить время для пустой заметки</string>
+     <string name="error_note_empty_for_clock">Невозможно установить напоминание для пустой заметки</string>
      <string name="error_note_empty_for_send_to_desktop">Пустые заметки нельзя отправить на рабочий стол</string>
      <string name="error_note_not_exist">Заметка отсутствует</string>
-     <string name="error_unsupport_content">Эта заметка содержит неподдерживаемые данные, нажмите для обновления системы</string>
+    <string name="error_unsupport_content">Заметка содержит неподдерживаемые данные, нажмите для обновления необходимого приложения</string>
      <string name="error_widget_exist_for_send_to_desktop">Эта заметка уже есть на рабочем столе</string>
      <string name="folder_exist">Папка с таким именем уже существует</string>
-     <string name="format_move_notes_to_folder">Заметки %1$d перемещены в %2$s</string>
+     <string name="format_move_notes_to_folder">Заметки (%1$d) перемещены в папку %2$s</string>
      <string name="hint_foler_name">Введите имя</string>
      <string name="info_note_enter_desktop">Заметка добавлена на рабочий стол</string>
      <string name="login_sync">Вход и синхронизация</string>
      <string name="menu_create_folder">Новая папка</string>
      <string name="menu_delete">Удалить</string>
      <string name="menu_folder_change_name">Переименовать</string>
-     <string name="menu_font_size">Размер шрифта</string>
      <string name="menu_move">Переместить</string>
      <string name="menu_move_parent_folder">Назад</string>
-     <string name="menu_rename_folder">Переименовать папку</string>
+     <string name="menu_rename_folder">Переименовать</string>
      <string name="menu_send_to_desktop">Ярлык на рабочий стол</string>
      <string name="menu_setting">Настройки</string>
      <string name="menu_stick">Прикрепить</string>
@@ -81,13 +73,13 @@
      <string name="search_setting_description">Текст в заметках</string>
      <string name="select_account_prompt">Синхронизация заметок</string>
      <string name="snippet_image_stub">[Картинка]</string>
-     <string name="snippet_image_template">[Image %1$s]</string>
+     <string name="snippet_image_template">[Картинка %1$s]</string>
      <string name="toast_folder_privacy_mode">Нельзя изменить папку в гостевом режиме</string>
-     <string name="toast_message_add_image_fail">Не удалось вставить изображение!</string>
+     <string name="toast_message_add_image_fail">Не удалось вставить изображение</string>
      <string name="toast_note_privacy_mode">Нельзя изменить заметку в гостевом режиме</string>
      <string name="toast_reach_text_limit_attachment">Содержание заметки слишком велико для добавления новых вложений</string>
-     <string name="toast_reach_text_limit_truncate">Содержание записки автоматически сократится по длине</string>
+     <string name="toast_reach_text_limit_truncate">Содержание заметки автоматически сократится по длине</string>
      <string name="undo">Отменить</string>
      <string name="widget_havenot_content">Нет заметок, нажмите сюда, чтобы создать заметку</string>
-     <string name="widget_under_visit_mode">Не возможно просмотреть заметки, потому что включен гостевой режим</string>
+     <string name="widget_under_visit_mode">Невозможно просмотреть заметки в гостевом режиме</string>
 </resources>
