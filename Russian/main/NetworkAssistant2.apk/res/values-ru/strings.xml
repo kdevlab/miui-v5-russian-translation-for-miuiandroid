@@ -53,11 +53,11 @@
      <string name="force_stop_dlg_text">При ограничении мобильного интернета в фоне, некоторые приложения и сервисы не будут работать, если нет подключения к Wi-Fi</string>
      <string name="force_stop_dlg_title">Отключить фоновые данные</string>
      <string name="foreground_traffic">Трафик %s</string>
-     <string name="free_time_traffic">Off-peak data limit</string>
-     <string name="free_time_traffic_hint">Enter off-peak data limit</string>
-     <string name="free_time_traffic_settings">Off-peak data limit settings</string>
-     <string name="free_time_traffic_title">Enter off-peak data limit</string>
-     <string name="free_traffic_settings">Off-peak data usage settings</string>
+     <string name="free_time_traffic">Лимит бесплатного трафика</string>
+     <string name="free_time_traffic_hint">Настроить лимит трафика</string>
+     <string name="free_time_traffic_settings">Настройка бесплатного трафика</string>
+     <string name="free_time_traffic_title">Предел бесплатного трафика</string>
+     <string name="free_traffic_settings">Настройка бесплатного трафика</string>
      <string name="input_aviable_traffic">Настроить лимит трафика</string>
      <string name="input_traffic_pkg">Введите пакет трафика</string>
      <string name="input_used_hint">Введите исполь. трафик</string>
@@ -83,7 +83,7 @@
      <string name="main_traffic_used_only">Исполь.: %s</string>
      <string name="main_traffic_used_text">"%s
 использовано"</string>
-     <string name="manual_input_free_traffic">Set off-peak data usage</string>
+     <string name="manual_input_free_traffic">Введите использованный трафик</string>
      <string name="manual_input_traffic">Введите использованный трафик</string>
      <string name="network_assistant_upgraded_body">Нажмите, чтобы ограничить использование данных</string>
      <string name="network_assistant_upgraded_title">Обновление завершено</string>
@@ -120,7 +120,7 @@
      <string name="pref_free_adjust">Установить предел трафика</string>
      <string name="pref_free_traffic_exceed_limit">Сообщать о достижении лимита трафика</string>
      <string name="pref_free_traffic_limit_warn">Предупреждение о пределе трафика</string>
-     <string name="pref_free_traffic_settings">Настройка предела трафика</string>
+     <string name="pref_free_traffic_settings">Настройка бесплатного трафика</string>
      <string name="pref_leisure_no_overlay">Включено</string>
      <string name="pref_leisure_not_opened">Выключено</string>
      <string name="pref_manual_adjust">Настроить вручную</string>
