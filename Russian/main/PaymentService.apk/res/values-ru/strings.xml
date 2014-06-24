@@ -182,9 +182,12 @@
      <string name="lockscreen_forgot_pattern_button_text"><u>Забыли пароль?</u></string>
      <string name="login">Войти</string>
      <string name="memu_refresh">Обновить</string>
+	 <string name="mibi_license_checkbox_prompt">Больше не напоминать</string>
      <string name="mibi_license_message">Прежде чем воспользоваться этой услугой, вы должны согласиться с условиями предоставления услуг, указанными в %1$s.
 Нажмите OK, если согласны с правилами и условиями, описанными в %1$s.</string>
      <string name="mibi_license_message_span">MiCredit пользовательское соглашение</string>
+	 <string name="mibi_license_net_prompt_message">Использование приложения может увеличить использование трафика</string>
+     <string name="mibi_license_net_prompt_title">Требуется подключение к сети</string>
      <string name="mibi_license_title">Пользовательское соглашение</string>
      <string name="mili_center">MiCredit</string>
      <string name="msg_denomination_type">MiCredit</string>
@@ -292,7 +295,7 @@
      <string name="sms_code_hint">Проверочный код</string>
      <string name="summary_bind_phone">Чтобы обеспечить безопасность своей учетной записи, пожалуйста, заполните компенсацию после привязки номера телефона.</string>
      <string name="summary_lockpattern">Защита ключем блокировки</string>
-	 <string name="summary_sms_code">Чтобы обеспечить безопасность своей учетной записи, введите код подтверждения, полученный на номер %1$s, а затем закончить процедуру.</string>
+	 <string name="summary_sms_code">Чтобы обеспечить безопасность своей учетной записи, введите код подтверждения, полученный на номер %1$s, а затем закончите процедуру.</string>
      <string name="title_bind_phone">Привязать номер</string>
      <string name="title_change_lockpattern">Сменить ключ</string>
      <string name="title_discounts">Акции и скидки</string>
@@ -301,11 +304,13 @@
      <string name="title_lockpattern">Включить блокировку</string>
      <string name="title_mili_center">Мои MiCredit</string>
      <string name="title_myaccount">Мой аккаунт: %s</string>
+	 <string name="title_need_prompt">Запрашивать доступ к сети</string>
      <string name="title_nopassword">Не требовать для мелких платежей</string>
      <string name="title_nopassword_dialog">Суточный лимит</string>
      <string name="title_password">Пароль</string>
      <string name="title_password_threshold">Суточный лимит = %1$s￥</string>
      <string name="title_pay_record">История платежей</string>
+	 <string name="title_prompt">Уведомления</string>
      <string name="title_recharge">Пополнить баланс</string>
      <string name="title_recharge_record">Пополнения</string>
 	 <string name="title_sms_code">Введите проверочный код</string>

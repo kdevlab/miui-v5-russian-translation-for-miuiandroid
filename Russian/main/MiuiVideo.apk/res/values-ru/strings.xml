@@ -22,7 +22,6 @@
      <string name="airkan_video_playing">воспроизводится</string>
      <string name="airkan_video_playing_in">Видео</string>
      <string name="alert_ignore">Не показывать эту страницу</string>
-     <string name="all">Все</string>
      <string name="all_reviews">Все комментарии</string>
      <string name="all_specials">Все категории</string>
      <string name="alreadyselected">Выбрано</string>
@@ -344,7 +343,6 @@
 	 <string name="upgrade">Обновить</string>
      <string name="use_cellular_network">Мобильный интернет</string>
      <string name="use_cellular_network_summary">Использовать мобильный интернет для загрузки видео. Возможны денежные затраты.</string>
-     <string name="variety">Разное</string>
      <string name="video">" видео"</string>
      <string name="video_info_audio_bitrate_label">Аудио битрейт:</string>
      <string name="video_info_audio_coding_label">Аудио кодек:</string>

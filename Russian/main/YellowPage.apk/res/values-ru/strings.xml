@@ -131,7 +131,9 @@
      <string name="nearby_yellow_page_title_format">%1$s-%2$s</string>
      <string name="network_unavaliable">Сеть не доступна. Проверьте настройки сети.</string>
      <string name="no_more_result">Ничего не найдено</string>
-     <string name="notify_connect_every_time">Запрашивать доступ к сети каждый раз</string>
+     <string name="notfiy_connect_title">Резрешение сети</string>
+     <string name="notices_and_terms">Правовые аспекты и условия использования</string>
+     <string name="notify_connect_summary">Спрашивать перед подключением к сети</string>
      <string name="order_empty_hint">Нет заказов</string>
      <string name="order_id">ID заказа:%s</string>
      <string name="order_merchant_title">Мои заказы</string>
@@ -211,6 +213,7 @@
      <string name="turn_on_smart_antispam_summary_off">Запрос только локальных запрограммированных номеров</string>
      <string name="turn_on_smart_antispam_summary_on">Идентифицировать неизвестные номера и загружать из сети</string>
      <string name="turn_on_smart_antispam_title">Идентификация номеров</string>
+	 <string name="turn_on_yellowpage_service_title">Использовать сервисы</string>
      <string name="unable_send_sms">Не удается отправить сообщение</string>
      <string name="user_notice_identify_summary_format">Идентификация неизвестных номеров представляет собой интернет-сервис. Прочитайте %1$s и %2$s перед использованием.</string>
      <string name="user_notice_yp_detail_summary_format">Информация о этой желтой странице должна быть обновлена ​​в интернете. Пожалуйста, прочитайте %1$s и %2$s. Нажимая \"Принимаю\", Вы соглашаетесь с вышеуказанным содержанием, нажмите \"Отмена\" для просмотра кэшированной информации.</string>

@@ -60,6 +60,7 @@
      <string name="big_screen_alertdialog_title">Проектор</string>
      <string name="bigscreen_slide_exit">Выход из слайдшоу</string>
      <string name="bigscreen_slide_fail_cause_loading">Повторите попытку, чтобы начать слайд-шоу после загрузки изображения.</string>
+	 <string name="bigscreen_slide_playing">Слайд-шоу воспроизводится на устройстве: %s</string>
      <string name="bigscreen_video_quit">Выйти из просмотра видео</string>
      <string name="bigscrren_slide_exit">Выйти из слайдшоу на TV</string>
      <string name="browse_category">Просмотр изображений</string>
@@ -121,12 +122,18 @@
 Альбомов:%s
 Фото: %s"</string>
      <string name="confirm_delete_cloud_all_item_page" formatted="false">%s фотографий в %s альбомах, вы уверены, что хотите удалить?</string>
-     <string name="confirm_delete_home_merge_item">Удалить %s фото на устройстве и в облаке?</string>
-     <string name="confirm_delete_pictures">%s фотографий</string>
+	 <string name="confirm_delete_has_cloud_image">Удалить изображения в облаке? (%s)</string>
+     <string name="confirm_delete_has_cloud_image_video">Удалить изображения и видео в облаке? (%s)</string>
+     <string name="confirm_delete_has_cloud_local_image">Удалить изображения с устройства и облака? (%s)</string>
+     <string name="confirm_delete_has_cloud_local_image_video">Удалить изображения и видео с устройства и облака? (%s)</string>
+     <string name="confirm_delete_has_cloud_local_video">Удалить %s видео с устройства и облака?</string>
+     <string name="confirm_delete_has_cloud_video">Удалить %s видео в облаке?</string>
+     <string name="confirm_delete_has_local_image">Удалить изображения? (%s)</string>
+     <string name="confirm_delete_has_local_image_video">Удалить изображения и видео? (%s)</string>
+     <string name="confirm_delete_has_local_video">Удалить %s видео?</string>
+     <string name="confirm_delete_init_message">Фото будут удалены с устройства и облака. Если Вы хотите удалить только с телефона,перейдите в альбомы устройства.</string>
+     <string name="confirm_delete_init_title">Внимание</string>
      <string name="confirm_delete_system_album">%s системный альбом. Вы уверены, что хотите его удалить?</string>
-     <string name="confirm_delete_this_picture">Удалить это изображение?</string>
-     <string name="confirm_delete_this_video">Удалить это видео?</string>
-     <string name="confirm_delete_videos">%s видео</string>
      <string name="confirm_download">Вам необходимо скачать %s. Эта подсказка больше не будет показываться.</string>
      <string name="confirm_download_video_message">Необходимо завершить загрузку видео. Скачивание возобновится при доступном Wi-Fi соединении.</string>
      <string name="confirm_download_video_title">Загрузка видео</string>
@@ -466,6 +473,7 @@
      <string name="size_above">%1$s или более</string>
      <string name="size_below">%1$s или менее</string>
      <string name="size_between">между %1$s и %2$s</string>
+	 <string name="skip_hide_special_album">Системные альбомы (камера, скриншоты) нельзя скрыть</string>
      <string name="slideshow">Слайд-шоу</string>
      <string name="slideshow_category">Слайд-шоу</string>
      <string name="slideshow_dream_name">Слайд-шоу</string>

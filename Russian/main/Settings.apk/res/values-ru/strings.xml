@@ -865,9 +865,15 @@
      <string name="crypt_keeper_setup_description">Дождитесь завершения шифрования телефона. Выполнено: ^1%.</string>
      <string name="crypt_keeper_setup_title">Шифрование</string>
      <string name="crypt_keeper_switch_input_method">Переключение метода ввода</string>
-     <string name="crypt_keeper_unplugged_text">Подключите зарядное устройство и повторите попытку.</string>
+     <string name="crypt_keeper_unplugged_text">Подключите зарядное устройство и повторите попытку</string>
      <string name="cryptkeeper_emergency_call">Вызов службы экстренной помощи</string>
      <string name="cryptkeeper_return_to_call">Вернуться к вызову</string>
+	 <string name="cta_button_text_agree">OK</string>
+     <string name="cta_button_text_cancel">Отмена</string>
+     <string name="cta_checkbox_title">Больше не спрашивать</string>
+     <string name="cta_dialog_msg">Для обеспечения нормальной работы центра безопасности и обновления вирусной базы данных, требуется подключение к сети. Предоставить доступ к сети?</string>
+     <string name="cta_dialog_title">Аспекты и условия</string>
+     <string name="cta_settings">Доступ к сети</string>
      <string name="current_backup_pw_prompt">Введите текущий пароль</string>
      <string name="current_input_method">По умолчанию</string>
      <string name="current_suffix">(выбрано)</string>

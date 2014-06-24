@@ -1155,6 +1155,7 @@
      <string name="yellowpage_navigation_menu_order">Мои заказы</string>
      <string name="yellowpage_navigation_network_location_enable">Включить</string>
      <string name="yellowpage_navigation_network_location_enable_later">Отмена</string>
+	 <string name="yellowpage_navigation_network_location_enabled">Сервис включен. Вы можете отключить его в настройках местоположения.</string>
      <string name="yellowpage_navigation_network_location_not_enabled_summary">Включение отслеживания местоположения может улучшить качество услуг сервесов Xiaomi (сервисные номера банков и т.д.)</string>
      <string name="yellowpage_navigation_network_location_not_enabled_title">Местоположение</string>
      <string name="yellowpage_navigation_no_content">Ничего не найдено</string>
