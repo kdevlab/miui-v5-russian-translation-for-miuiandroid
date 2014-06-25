@@ -37,7 +37,8 @@
      <string name="compress_fail">Ошибка архивирования, файл уже существует</string>
      <string name="compress_message">Имя архива:</string>
      <string name="compress_title">Создание архива</string>
-     <string name="confirm">OК</string>
+     <string name="confirm">OK</string>
+	 <string name="connect_network_setting_des">Запрашивать доступ к сети</string>
      <string name="copy_failed">Ошибка копирования</string>
      <string name="create_kuaipan_shortcut_pref">Создать ярлык на рабочем столе</string>
      <string name="create_new_folder_desctiption">Создание папки…</string>
@@ -156,6 +157,8 @@
      <string name="name_illegal">Имя не может быть пустым</string>
      <string name="net_lose_connected">Сеть недоступна, не может получить размер</string>
      <string name="networkView_notConnected">Нет доступных сетей</string>
+	 <string name="network_connect_confirm_des">Использование kuaipan требует доступ к сети. Разрешить?</string>
+     <string name="never_notify_network_connect">Больше не показывать</string>
      <string name="new_folder_name">Новая папка</string>
      <string name="no">Нет</string>
      <string name="no_enough_storage_indication">Не хватает места для вставки файла. Очистите дополнительное место с помощью очистки или просто удалите большие файлы.</string>
@@ -167,12 +170,13 @@
      <string name="no_wifi_hint">Нет Wi-Fi соединения</string>
      <string name="notif_server_starting">Синхронизация включена</string>
      <string name="notif_title">FTP сеть активна</string>
-     <string name="open_changed_file_message">"Файл, который Вы пытаетесь открыть был изменен. Выберите:
+     <string name="open_changed_file_message">Файл, который Вы пытаетесь открыть был изменен. Выберите:
 1. Скачать (обновить локальный файл)
-2. Загрузить (обновить файл в облаке)"</string>
+2. Загрузить (обновить файл в облаке)</string>
      <string name="open_changed_file_title">Файл изменен</string>
 	 <string name="open_file_failed">не удалось открыть</string>
      <string name="operating">Обработка…</string>
+	 <string name="operation_agree">OK</string>
      <string name="operation_cancel">Отмена</string>
      <string name="operation_compress">Добавить в архив</string>
      <string name="operation_compressing">Создание архива…</string>
@@ -243,6 +247,7 @@
      <string name="storage_sd_card">SD-карта</string>
      <string name="storage_usb">USB-накопитель</string>
      <string name="storage_warning">Внешний носитель не доступен</string>
+	 <string name="system_alert">Напоминание</string>
      <string name="sys_size_title">Полный объем</string>
      <string name="tab_category">Категории</string>
      <string name="tab_phone">Файлы</string>

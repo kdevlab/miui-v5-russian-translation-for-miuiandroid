@@ -131,9 +131,14 @@
      <string name="confirm_delete_has_local_image">Удалить изображения? (%s)</string>
      <string name="confirm_delete_has_local_image_video">Удалить изображения и видео? (%s)</string>
      <string name="confirm_delete_has_local_video">Удалить %s видео?</string>
+	 <string name="confirm_delete_home_merge_item">Удалить изображения с устройства и облака? (%s)</string>
      <string name="confirm_delete_init_message">Фото будут удалены с устройства и облака. Если Вы хотите удалить только с телефона,перейдите в альбомы устройства.</string>
      <string name="confirm_delete_init_title">Внимание</string>
+	 <string name="confirm_delete_pictures">Удалить изображения (%s)</string>
      <string name="confirm_delete_system_album">%s системный альбом. Вы уверены, что хотите его удалить?</string>
+	 <string name="confirm_delete_this_picture">Удалить это изображение?</string>
+     <string name="confirm_delete_this_video">Удалить это видео?</string>
+     <string name="confirm_delete_videos">Удалить %s видео</string>
      <string name="confirm_download">Вам необходимо скачать %s. Эта подсказка больше не будет показываться.</string>
      <string name="confirm_download_video_message">Необходимо завершить загрузку видео. Скачивание возобновится при доступном Wi-Fi соединении.</string>
      <string name="confirm_download_video_title">Загрузка видео</string>
@@ -516,7 +521,9 @@
      <string name="ubifocus_data_missing">Некоторые данные потеряны</string>
 	 <string name="ubifocus_guide_text">Удерживайте 0.5с., чтобы обновить</string>
      <string name="ubifocus_map_error">Некоторые данные неверны</string>
-     <string name="ubifocus_refocus_fail_tip">Не удается перефокусироваться из-за некоторых неверных или отсутствующих данных</string>
+     <string name="ubifocus_refocus_data_missing">Не удалось обновить из-за некоторых отсутствующих данных</string>
+     <string name="ubifocus_refocus_download_tip">Скачайте обновленные данные перед обновлением</string>
+     <string name="ubifocus_refocus_map_error">Не удалось обновить из-за некоторых неверных данных</string>
      <string name="turn_left">Повернуть влево</string>
      <string name="turn_right">Повернуть вправо</string>
      <string name="unit_mm">мм</string>

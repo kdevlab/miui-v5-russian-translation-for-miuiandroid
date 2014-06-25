@@ -36,6 +36,7 @@
      <string name="cancel">Отмена</string>
      <string name="cannot_connect_camera_once">Не возможно подключится к камере. Перезайдите в приложение.</string>
      <string name="cannot_connect_camera_twice">Не возможно подключится к камере. Перезагрузите устройство.</string>
+	 <string name="cannot_move_warning_message">Съемка фото. Не перемещайте устройство.</string>
      <string name="chroma_flash_exit_button_text">Выйти</string>
      <string name="clear_effects">Убрать эффекты</string>
      <string name="close">Закрыть</string>
@@ -497,6 +498,7 @@
 	 <string name="toast_cannot_preview_image_when_screen_locked">Невозможно посмотреть изображение или видео, когда экран заблокирован</string>
      <string name="toast_start_audio_capture">Похлопайте, чтобы сработал затвор</string>
      <string name="ubi_focus_exit_button_text">Выйти</string>
+	 <string name="ubifocus_capture_warning_message">Лучше, когда экран просмотра содержит как вблизи (менее одного метра от объектива) и далеких объектов</string>
      <string name="undo">Назад</string>
      <string name="unit_mm">мм</string>
      <string name="video_camera_label">Видеокамера</string>

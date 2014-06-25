@@ -59,6 +59,11 @@
 • Синхронизировать все мероприятия – Вы никогда не потеряете их"</string>
      <string name="creating_event">Мероприятие создано</string>
      <string name="creating_event_with_guest">Приглашение отправлено</string>
+	 <string name="cta_notice_checkbox">Больше не показывать</string>
+     <string name="cta_notice_message">Напоминания в календаре о днях рождениях контактов требует доступ к списку контактов. Разрешить?</string>
+     <string name="cta_notice_ok">OK</string>
+     <string name="cta_notice_title">Напоминание</string>
+     <string name="cta_notify_settings">Запрашивать доступ к контактам</string>
      <string name="custom">Особое… (настраивается только на сайте)</string>
      <string name="daily">Ежедневно</string>
      <string name="data_notice_change_settings">更改设置</string>
