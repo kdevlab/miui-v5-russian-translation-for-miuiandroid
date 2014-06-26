@@ -150,6 +150,7 @@
      <string name="in_download_notification">видео загружается: %d</string>
      <string name="in_pause">Приостановлено</string>
      <string name="in_waiting">Ожидание</string>
+	 <string name="info_title">Информация</string>
 	 <string name="install_comfirm">Нажмите, чтобы установить</string>
      <string name="jni_invalid_param">Неправильный параметр</string>
      <string name="jni_no_media_source">Нет доступа к источнику видео</string>
@@ -273,8 +274,10 @@
      <string name="play_length_colon">"Время: "</string>
      <string name="play_setting">Воспроизведение</string>
      <string name="playvideo">Смотреть</string>
+	 <string name="post_playcount">раз</string>
      <string name="pps">PPS</string>
      <string name="pptv">PPTV</string>
+	 <string name="prex_playcount">Смотрелось:</string>
      <string name="publish">Отправить</string>
      <string name="qiyi">iQiyi</string>
      <string name="quarter_bell_alert_button_cancel">Отмена</string>

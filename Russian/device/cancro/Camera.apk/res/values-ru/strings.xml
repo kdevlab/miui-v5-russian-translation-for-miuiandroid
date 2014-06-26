@@ -185,13 +185,13 @@
      <string name="pref_advanced_settings">Дополнительные настройки</string>
      <string name="pref_camcorder_settings_category">Настройки видеокамеры</string>
      <string name="pref_camera_ae_bracket_hdr_title">HDR</string>
-     <string name="pref_camera_antibanding_60">60hz</string>
      <string name="pref_camera_antibanding_entry_0">Выкл.</string>
      <string name="pref_camera_antibanding_entry_1">50 Гц.</string>
      <string name="pref_camera_antibanding_entry_2">60 Гц.</string>
      <string name="pref_camera_antibanding_entry_3">Авто</string>
      <string name="pref_camera_antibanding_title">Устранение полос</string>
      <string name="pref_camera_audio_capture_title">Голос</string>
+	 <string name="pref_camera_auto_capture_when_stable_title">Автосъемка, когда стабильно</string>
      <string name="pref_camera_auto_chroma_flash_title">Авто Chroma вспышка</string>
      <string name="pref_camera_auto_focus_title_entry_off">Выкл.</string>
      <string name="pref_camera_auto_focus_title_entry_on">Вкл.</string>

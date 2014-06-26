@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Builded with NXT -->
+<resources>
+     <string name="bluetooth_unlock_rssi_far_debug_msg">Устройство Bluetooth находится слишком далеко, чтобы разблокировать</string>
+	 <string name="contact_carrier_message">Свяжитесь с оператором, если у вас возникли дополнительные вопросы</string>
+     <string name="emergency_call_string">Экстренные</string>
+	 <string name="empty_password_error_msg">Поле пароля не может быть пустым</string>
+     <string name="experimental_try_string">Попытка</string>
+     <string name="experimental_validate">Проверить</string>
+     <string name="experimental_validate_fail">Ошибка входа</string>
+     <string name="experimental_validate_password">Пароль</string>
+     <string name="experimental_validate_progress">Вход…</string>
+     <string name="experimental_validate_thanks">Спасибо!</string>
+     <string name="experimental_validate_username">Пользователь</string>
+     <string name="experimental_validate_warning">Спасибо, что помогаете нам сделать MIUI лучше!</string>
+     <string name="find_device_check_sim">Проверка SIM…</string>
+     <string name="find_device_turn_off_flight_mode">Выключите режим полета</string>
+     <string name="find_device_turn_off_flight_mode_instructions">"Ваше устройство заблокировано.
+Пожалуйста, выключите режим полета."</string>
+     <string name="forget_password_string">Забыли пароль?</string>
+     <string name="incorrect_pincode">Неверный PIN-код</string>
+     <string name="incorrect_pincode_remaining_attempts">Неверный PIN-код, осталось попыток: %d</string>
+     <string name="incorrect_pukcode">Неверный PUK-код</string>
+     <string name="incorrect_pukcode_remaining_attempts">Неверный PUK-код, осталось попыток: %d</string>
+     <string name="input_password_hint_text">Введите пароль</string>
+     <string name="input_pin_code">Введите PIN</string>
+     <string name="input_pin_code_to_unlock">Введите PIN-код для разблокировки</string>
+     <string name="input_puk_code">Введите PUK</string>
+     <string name="input_puk_code_to_unlock">Введите PUK-код для разблокировки</string>
+     <string name="lock_screen_date">EEEE, dd.MM</string>
+     <string name="lockscreen_access_pattern_cell_added">Ячейка добавлена</string>
+     <string name="lockscreen_access_pattern_cleared">Комбинация очищена</string>
+     <string name="lockscreen_access_pattern_detected">Комбинация завершена</string>
+     <string name="lockscreen_access_pattern_start">Комбинация началась</string>
+     <string name="lockscreen_emergency_call">Экстренный звонок</string>
+     <string name="lockscreen_failed_attempts_almost_at_wipe" formatted="false">Не удалось разблокировать устройство (%d попыток). Осталось попыток: %d. После этого будут установлены настройки по умолчанию, что приведет к удалению всех пользовательских данных.</string>
+     <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">"%d раз был неправильно введен пароль. После %d неудачных попыток, Вам будет предложено разблокировать устройство с помощью аккаунта.
+
+ Попробуй снова через %d секунд."</string>
+     <string name="lockscreen_failed_attempts_now_wiping">Не удалось разблокировать устройство (с %d попыток). Будут установлены настройки по умолчанию.</string>
+     <string name="lockscreen_forgot_pattern_button_text">Забыли пароль?</string>
+     <string name="lockscreen_glogin_checking_password">Проверка…</string>
+     <string name="lockscreen_glogin_forgot_pattern">Разблокировка аккаунта</string>
+     <string name="lockscreen_glogin_instructions">Для разблокировки, войдите в аккаунт Xiaomi</string>
+     <string name="lockscreen_glogin_invalid_input">Ошибка в имени пользователя или пароле</string>
+     <string name="lockscreen_glogin_password_hint">Пароль</string>
+     <string name="lockscreen_glogin_submit_button">Войти</string>
+     <string name="lockscreen_glogin_too_many_attempts">Слишком много попыток входа</string>
+     <string name="lockscreen_pattern_instructions">Нарисуйте комбинацию для разблокировки</string>
+     <string name="lockscreen_pattern_wrong">Попробуйте снова:</string>
+     <string name="lockscreen_too_many_failed_attempts_countdown">Попробуйте снова через %d секунд</string>
+     <string name="lockscreen_transport_next_description">Следущее</string>
+     <string name="lockscreen_transport_play_description">Кнопка проигрывания</string>
+     <string name="lockscreen_transport_prev_description">Предыдущее</string>
+     <string name="login_website_in_case_forget_password">Для сброса пароля, зайдите на i.xiaomi.com</string>
+	 <string name="miui_keyguard_ble_unlock_succeed_msg">Разблокировано bluetooth устройством</string>
+     <string name="miui_unlockscreen_password_wrong">Попытайтесь снова:</string>
+     <string name="open_wifi_settings">Открыть настройки подключения</string>
+     <string name="phone_locked_string">Устройство заблокировано</string>
+     <string name="phone_locked_timeout_minutes_string">Вернитесь сюда через %s мин.</string>
+     <string name="phone_locked_timeout_seconds_string">Вернитесь сюда через %s сек.</string>
+     <string name="pin_operation_failed">PIN - операция не удалась</string>
+     <string name="pincode_set_to_default_msg">PIN-код изменен на 1234, вы можете изменить его тут:</string>
+     <string name="puk_operation_failed">PUK - операция не удалась</string>
+     <string name="return_to_me_message">Если потеряли вернитесь к</string>
+     <string name="screen_on_proximity_sensor_hint">Чтобы отключить эту функцию, нажмите кнопки назад и громкость+ одновременно</string>
+     <string name="screen_on_proximity_sensor_summary">"Не прикасайтесь к верхней части экрана"</string>
+     <string name="screen_on_proximity_sensor_title">Предотвращать нажатия</string>
+     <string name="short_pincode_error_msg">Пожалуйста, введите 4–8 цифр</string>
+     <string name="short_pukcode_error_msg">Введите не менее 8 цифр</string>
+     <string name="starting_camera_string">Запуск камеры</string>
+     <string name="unlock_sim_string">Разблокировать SIM</string>
+     <string name="unlock_string">OK</string>
+     <string name="unlocking_sim_card">Разблокировка SIM-карты</string>
+     <string name="unlockscreen_low_battery">Подключите зарядное устройство</string>
+     <string name="unlockscreen_recharge_completed">Зарядка завершена</string>
+     <string name="unlockscreen_recharging_message">Батарея заряжена на %d%%</string>
+</resources>

@@ -87,6 +87,11 @@
      <string name="enable_updata_local_app">Обновлений: %1$s</string>
      <string name="expand_full_text">Далее</string>
      <string name="expand_full_text_comment">Развернуть▼</string>
+	 <string name="expansion_append_download_name">%1$s pack 2</string>
+     <string name="expansion_confirm_message">This application is with expansion pack, the installation process may take longer. Whether to continue the installation?</string>
+     <string name="expansion_confirm_title">App with expansion</string>
+     <string name="expansion_info">(expansion files %1$s）</string>
+     <string name="expansion_main_download_name">%1$s pack 1</string>
      <string name="favorite_account_need_activitied">Аккаунт не активирован. Активировать сейчас?</string>
      <string name="favorite_account_need_login">Войти, чтобы добавить приложение в избранное?</string>
      <string name="favorite_cancel_acount_need_login">Войти, чтобы убрать приложение из избранного?</string>

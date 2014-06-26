@@ -107,10 +107,12 @@
      <string name="accessibility_script_injection_security_warning_summary">Разрешить приложениям устанавливать скрипты Google для повышения доступности веб-контента?</string>
      <string name="accessibility_script_injection_title">Установка веб-скриптов</string>
      <string name="accessibility_service_default_description">Нет описания</string>
+	 <string name="accessibility_service_no_apps_confirm">OK</string>
      <string name="accessibility_service_disable_warning_summary">Чтобы отключить %1$s, нажмите ОК</string>
      <string name="accessibility_service_disable_warning_title">Отключить %1$s?</string>
      <string name="accessibility_service_no_apps_message">Бесплатное приложение TalkBack дает голосовое описание элементов интерфейса для пользователей с нарушениями зрения. Установить его из Android Маркета?</string>
-     <string name="accessibility_service_no_apps_title">Нужна программа чтения с экрана?</string>
+    <string name="accessibility_service_no_apps_prompt">Бесплатное приложение TalkBack дает голосовое описание элементов интерфейса для пользователей с нарушением зрения. Скачать приложение можно в Google Play.</string>
+	 <string name="accessibility_service_no_apps_title">Нужна программа чтения с экрана?</string>
      <string name="accessibility_service_security_warning_summary">Служба %1$s может сохранять любой вводимый текст, кроме паролей. В частности, сохраняются личные сведения, например номера кредитных карт. Кроме того, могут собираться данные об использовании телефона.</string>
      <string name="accessibility_service_security_warning_title">Использовать %1$s?</string>
      <string name="accessibility_service_state_off">Отключено</string>
