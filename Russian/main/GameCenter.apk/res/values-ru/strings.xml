@@ -107,8 +107,8 @@
      <string name="download_count">Загрузок: %1$s</string>
      <string name="download_deleted_fail">Ошибка установки %1$s: задача удалена</string>
      <string name="download_fail">Ошибка установки %1$s: ошибка загрузки</string>
-     <string name="download_manager_download_reason_paused_manual">Приостановлено</string>
-     <string name="download_manager_download_reason_paused_unknown">Приостановлено</string>
+     <string name="download_manager_download_reason_paused_manual">Пауза</string>
+     <string name="download_manager_download_reason_paused_unknown">Пауза</string>
      <string name="download_manager_download_reason_queued_for_wifi">В ожидании Wi-Fi</string>
      <string name="download_manager_download_reason_wait_for_network">Ожидание соединения</string>
      <string name="download_manager_download_reason_wait_to_retry">В ожидании повтора</string>
@@ -487,7 +487,7 @@
      <string name="password_hint">Пароль</string>
      <string name="password_invalid">Пароль недействительный. Введите комбинацию из 8-16 цифр и/или букв.</string>
      <string name="pause">Пауза</string>
-     <string name="paused">Приостановлено</string>
+     <string name="paused">Пауза</string>
      <string name="paused_with_reason">&lt;font color=#909090>Приостановлено: %1$s%%&lt;/font> &lt;font color=#f76811>%2$s&lt;/font></string>
      <string name="pending">В ожидании</string>
      <string name="permission_button">Разрешения (%1$s)</string>
