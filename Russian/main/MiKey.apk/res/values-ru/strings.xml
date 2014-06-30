@@ -24,7 +24,7 @@
     <string name="scan_result">Результат сканирования</string>
     <string name="flash_lable">Вспышка</string>
     <string name="picker_lable">Галерея</string>
-	<string name="app_name">MI-кнопка</string>
+	<string name="app_name">Кнопка</string>
     <string name="short_click_1">Одно нажатие</string>
     <string name="short_click_2">Два нажатия</string>
     <string name="short_click_3">Три нажатия</string>
@@ -69,7 +69,7 @@
     <string name="delete_gesture">Удалить действие кнопки?</string>
     <string name="recommend">Рекомендуется</string>
     <string name="add">Добавить</string>
-    <string name="running_notification">MI-кнопка работает</string>
+    <string name="running_notification">MiKey работает</string>
     <string name="click_to_open">Нажми, чтобы открыть</string>
     <string name="call_to">Позвонить</string>
     <string name="sms_to">Отправить сообщение</string>
@@ -79,7 +79,7 @@
     <string name="delete">Удалить</string>
     <string name="input_phone">Введи номер телефона</string>
     <string name="earphone">Наушники</string>
-    <string name="select_device">Выбери устройство</string>
+    <string name="select_device">Что подключено?</string>
     <string name="times">" раз"</string>
     <string name="rank_prefix">Общий рейтинг:</string>
     <string name="rank_suffix">" место"</string>
@@ -116,11 +116,11 @@
     <string name="app_not_installed">Приложение не установлено</string>
     <string name="setting_toolbar">Панель инструментов</string>
     <string name="setting_toolbar_desc">Отображать панель инструментов для быстрого доступа в уведомлениях</string>
-    <string name="setting_toolbar_tip">"Нажми на плюс, чтобы добавить новую функцию.
+    <string name="setting_toolbar_tip">"Чтобы добавить новую функцию, нажми на кнопку плюс
 	
-Нажми на существующую функцию, чтобы изменить ее. 
+Нажми на кнопку функции, чтобы изменить ее 
 
-Удерживай функцию, чтобы удалить."</string>
+Удерживай, чтобы удалить"</string>
     <string name="task_title_prefix">Этап N:</string>
     <string name="setting_feedback">Обратная связь</string>
     <string name="setting_speed_desc">Выбери скорость работы кнопки. Чем меньше скорость, тем больше вероятности точности срабатывания.</string>
@@ -132,14 +132,14 @@
     <string name="setting_keeplive_text">Держать в памяти</string>
     <string name="setting_instant_photo_text">Фокусировка</string>
     <string name="setting_vibrate_text">Виброотклик</string>
-	<string name="setting_silent_mode">Отключить кнопку</string>
+	<string name="setting_silent_mode">Режим кнопки</string>
     <string name="setting_silent_mode_default">Режим гарнитуры</string>
     <string name="setting_silent_mode_dust_cap">Режим аксессуара</string>
     <string name="setting_silent_mode_desc">"Режим гарнитуры - можно управлять плеером. Одно нажатие - вкл/выкл плеер; два - след. трек; четыре - пред. трек.
-Всегда отключайте этот режим перед перезагрузкой и использованием кнопки. В противном случае это приведет к отсутствию звука.
+Всегда отключайте этот режим перед перезагрузкой и использованием кнопки. В противном случае это может привести к отсутствию звука.
 
 Режим аксессуара - кнопка служит для защиты гнезда наушников от пыли и грязи :)"</string>
-    <string name="setting_instant_photo_desc">Четкие изображения, но потребуется больше времени на съемку</string>
+    <string name="setting_instant_photo_desc">Четкие изображения, но потребуется больше времени на обработку</string>
     <string name="toolbox_outer_desc">Нажми на кнопку добавить или на существующую функцию</string>
     <string name="setting_speed_max_time">1000 м.с.</string>
     <string name="setting_speed_middle_time">500 м.с.</string>
@@ -169,12 +169,12 @@
     <string name="faq_comp_title">На каких устройствах работает эта кнопка?</string>
     <string name="faq_comp_text">В настоящее время поддерживается только на системе MIUI V5. А также для использования необходимо скачать само приложение.</string>
     <string name="faq_voice_title">Не слышно собеседника. Что делать?</string>
-    <string name="faq_voice_text">Повторно вставь кнопку и не забудь выбрать MI кнопка</string>
+    <string name="faq_voice_text">Повторно вставь кнопку и не забудь выбрать MiKey</string>
     <string name="faq_slow_title">Почему медленно срабатывает?</string>
     <string name="faq_slow_text">Проверь в настройках скорость работы, возможно она выставлена на 0. Задай подходящую для себя.</string>
     <string name="faq_quni_title">Каков срок службы кнопки?</string>
     <string name="faq_quni_text">Кнопка способна выдержать до 30000 нажатий, взависимоти от типа нажатий и силы</string>
-    <string name="faq_stat_title">Как скинуть статистику на “0”?</string>
+    <string name="faq_stat_title">Как скинуть статистику на 0?</string>
     <string name="faq_stat_text">Статистика количества нажатий кнопки сбрасывается раз в сутки</string>
     <string name="faq_vsm_title">Меры предосторожности</string>
     <string name="faq_vsm_text">Убедись, что, прежде чем снять заднюю крышку, ты вытащил кнопку!</string>
