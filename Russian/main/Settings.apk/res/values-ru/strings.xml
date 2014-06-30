@@ -29,7 +29,7 @@
      <string name="MobileNetwork_SIM1_Active">SIM1 активна</string>
      <string name="MobileNetwork_SIM2_Active">SIM2 активна</string>
      <string name="MobileNetwork_SIM_Active">SIM%1$s активна</string>
-     <string name="MobileNetwork_off_Summary">Пожалуйста, включите интернет перед использованием A-GPS.</string>
+     <string name="MobileNetwork_off_Summary">Пожалуйста, включите интернет перед использованием A-GPS</string>
      <string name="MobileNetwork_on_Summary">Для работы A-GPS необходимо подключение к интернету</string>
      <string name="NI_Request_ClientName">Имя клиента</string>
      <string name="NI_Request_ID">Запрос ID</string>
