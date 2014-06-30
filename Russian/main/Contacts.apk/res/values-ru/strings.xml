@@ -104,7 +104,7 @@
      <string name="callrecordview_item_op_time_short_outgoing">" | "</string>
      <string name="callrecordview_menu_add_call_note">Добавить заметку о вызове</string>
      <string name="callrecordview_menu_batch_delete">Удалить несколько</string>
-     <string name="callrecordview_menu_delete">Очистить журнал вызовов</string>
+     <string name="callrecordview_menu_delete">Удалить вызовы от контакта</string>
      <string name="callrecordview_menu_delete_accepted">Удалить входящие вызовы</string>
      <string name="callrecordview_menu_delete_all">Очистить журнал</string>
      <string name="callrecordview_menu_delete_called">Удалить исходящие вызовы</string>
@@ -218,7 +218,7 @@
      <string name="deleteConfirmationDetail">Удалить контакт \"%s\"?</string>
      <string name="deleteConfirmation_title">Удаление контакта</string>
      <string name="delete_call_log_selected_title">Удалить выбранные записи?</string>
-     <string name="delete_call_log_title">Выбрать журналы для удаления?</string>
+     <string name="delete_call_log_title">Удалить выбранные записи?</string>
      <string name="delete_contact_calllog_title">Удалить журнал вызовов контакта?</string>
      <string name="delete_dial_input">удалить</string>
      <string name="delete_duplicate">Объединить</string>
