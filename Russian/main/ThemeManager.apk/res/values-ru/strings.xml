@@ -213,8 +213,8 @@
      <string name="short_ringtone_resource">Короткие</string>
      <string name="theme_another_import_running">Процесс импорта уже запущен, попробуйте позже.</string>
      <string name="theme_batch_has_update_text">Тем для обновления: %1$d</string>
-     <string name="theme_batch_update_all">Обновить все</string>
-     <string name="theme_batch_update_dlg_content">Вы уверены, что хотите обновить сейчас?</string>
+     <string name="theme_batch_update_all">Обновить %1$s и еще %2$d другие темы?</string>
+     <string name="theme_batch_update_dlg_content">Обновить %1$s сейчас?</string>
      <string name="theme_batch_update_dlg_content_single">Обновить сейчас?</string>
      <string name="theme_batch_update_dlg_title">Обновить</string>
      <string name="theme_batch_updating_text">Обновляется тем: %1$d</string>

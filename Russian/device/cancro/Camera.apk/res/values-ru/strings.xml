@@ -191,7 +191,7 @@
      <string name="pref_camera_antibanding_entry_3">Авто</string>
      <string name="pref_camera_antibanding_title">Устранение полос</string>
      <string name="pref_camera_audio_capture_title">Голос</string>
-	 <string name="pref_camera_auto_capture_when_stable_title">Автосъемка, когда стабильно</string>
+	 <string name="pref_camera_auto_capture_when_stable_title">Автосъемка при фокусе</string>
      <string name="pref_camera_auto_chroma_flash_title">Авто Chroma вспышка</string>
      <string name="pref_camera_auto_focus_title_entry_off">Выкл.</string>
      <string name="pref_camera_auto_focus_title_entry_on">Вкл.</string>
@@ -497,6 +497,7 @@
      <string name="toast_burst_snap_forbidden_when_iso_not_auto">Серийная съемка не поддерживается при не автом. ISO</string>
 	 <string name="toast_cannot_preview_image_when_screen_locked">Невозможно посмотреть изображение или видео, когда экран заблокирован</string>
      <string name="toast_start_audio_capture">Похлопайте, чтобы сработал затвор</string>
+	 <string name="ubi_focus_capture_fail">Не удалось сделать снимок. Повторите.</string>
      <string name="ubi_focus_exit_button_text">Выйти</string>
 	 <string name="ubifocus_capture_warning_message">Лучше, когда экран просмотра содержит как вблизи (менее одного метра от объектива) и далеких объектов</string>
      <string name="undo">Назад</string>
