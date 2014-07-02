@@ -90,7 +90,7 @@
      <string name="day">" "</string>
      <string name="declaration">Условия использования</string>
      <string name="declaration_content">Вы принимаете условия использования, предусмотренные Sohu Video, iQiyi и другими контент-провайдерами видео?</string>
-	 <string name="declaration_content_short">Вы согласны с условиями использования, предусмотренные Sohu видео, iQiyi, и других поставщиков видеоконтента?</string>
+	 <string name="declaration_content_short">Вы согласны с условиями использования, предусмотренными Sohu Video, iQiyi и другими контент-провайдерами видео?</string>
      <string name="delete">Удалить</string>
 	 <string name="delete_addon">Удалить</string>
      <string name="delete_addon_content">Удалить этот элемент?</string>
@@ -151,7 +151,7 @@
      <string name="in_pause">Приостановлено</string>
      <string name="in_waiting">Ожидание</string>
 	 <string name="info_title">Информация</string>
-	 <string name="install_comfirm">Нажмите, чтобы установить</string>
+	 <string name="install_comfirm">Установить</string>
      <string name="jni_invalid_param">Неправильный параметр</string>
      <string name="jni_no_media_source">Нет доступа к источнику видео</string>
      <string name="jni_res_connect_error">Не удалось подключиться к сети</string>

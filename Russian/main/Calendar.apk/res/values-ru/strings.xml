@@ -28,7 +28,7 @@
      <string name="action_bar_today">С</string>
      <string name="add_account">Добавить аккаунт</string>
      <string name="add_calendar">Подписка</string>
-     <string name="add_topic_success">Успешно добавлено\"%s\"</string>
+     <string name="add_topic_success">Успешно добавлено \"%s\"</string>
      <string name="agenda_today">Сегодня, %1$s</string>
      <string name="agenda_tomorrow">Завтра, %1$s</string>
      <string name="agenda_view">Повестка дня</string>
@@ -60,7 +60,7 @@
      <string name="creating_event">Мероприятие создано</string>
      <string name="creating_event_with_guest">Приглашение отправлено</string>
 	 <string name="cta_notice_checkbox">Больше не показывать</string>
-     <string name="cta_notice_message">Напоминания в календаре о днях рождениях контактов требует доступ к списку контактов. Разрешить?</string>
+     <string name="cta_notice_message">Напоминания в календаре о днях рождениях контактов требуют доступ к списку контактов. Разрешить?</string>
      <string name="cta_notice_ok">OK</string>
      <string name="cta_notice_title">Напоминание</string>
      <string name="cta_notify_settings">Запрашивать доступ к контактам</string>
