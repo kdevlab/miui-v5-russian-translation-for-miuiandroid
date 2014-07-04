@@ -3,7 +3,7 @@
 <resources>
      <string name="activity_not_found">Не удается открыть вложение</string>
      <string name="activity_not_found_uri">Не удается найти приложение для этого типа файлов</string>
-     <string name="addBlackList">Добавить в черный список</string>
+     <string name="addBlackList">В черный список</string>
      <string name="add_attachment">добавить вложение</string>
      <string name="add_bookmark">Избранные</string>
      <string name="add_contact">Контакт</string>

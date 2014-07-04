@@ -158,23 +158,23 @@
 	 <string name="label_giftcard">Подарочная карта:</string>
      <string name="label_order_name">Продукт:</string>
      <string name="label_order_price">Цена:</string>
-     <string name="lockpassword_choose_your_pattern_header">Выберите шаблон</string>
-     <string name="lockpassword_confirm_your_pattern_header">Подтвердите шаблон</string>
-     <string name="lockpassword_input_your_pattern_header">Подтвердите шаблон</string>
+     <string name="lockpassword_choose_your_pattern_header">Выберите ключ</string>
+     <string name="lockpassword_confirm_your_pattern_header">Подтвердите ключ</string>
+     <string name="lockpassword_input_your_pattern_header">Подтвердите ключ</string>
      <string name="lockpattern_confirm_button_text">Дальше</string>
      <string name="lockpattern_continue_button_text">Дальше</string>
-     <string name="lockpattern_need_to_confirm">Подтвердите шаблон:</string>
+     <string name="lockpattern_need_to_confirm">Подтвердите ключ:</string>
      <string name="lockpattern_need_to_confirm_wrong">Не соответствует! Пожалуйста, введите еще раз:</string>
      <string name="lockpattern_need_to_unlock_footer" />
      <string name="lockpattern_need_to_unlock_wrong">&lt;font color=red>Неверный пароль. Осталось попыток: %d.&lt;/font></string>
      <string name="lockpattern_need_to_unlock_wrong_footer" />
-     <string name="lockpattern_pattern_confirmed_header">Ваш новый шаблон разблокировки:</string>
-     <string name="lockpattern_pattern_entered_header">Шаблон сохранен</string>
+     <string name="lockpattern_pattern_confirmed_header">Ваш новый ключ разблокировки:</string>
+     <string name="lockpattern_pattern_entered_header">Ключ сохранен</string>
      <string name="lockpattern_recording_incorrect_too_short">Соедините минимум %d точек. Попробуйте еще раз:</string>
      <string name="lockpattern_recording_inprogress">Отпустите палец, когда закончите</string>
      <string name="lockpattern_recording_intro_header">Нарисуйте ключ разблокировки:</string>
      <string name="lockpattern_retry_text"><u>Сбросить пароль</u></string>
-     <string name="lockpattern_settings_help_how_to_record">Как нарисовать шаблон</string>
+     <string name="lockpattern_settings_help_how_to_record">Как нарисовать ключ</string>
      <string name="lockpattern_too_many_failed_confirmation_attempts_footer">Попробуйте еще раз через %d секнуд</string>
      <string name="lockpattern_too_many_failed_confirmation_attempts_header">&lt;font color=red>Слишком много неудачных попыток!&lt;/font></string>
      <string name="lockpattern_tutorial_cancel_label">Отмена</string>
@@ -185,8 +185,8 @@
 	 <string name="mibi_license_checkbox_prompt">Больше не напоминать</string>
      <string name="mibi_license_message">Прежде чем воспользоваться этой услугой, вы должны согласиться с условиями предоставления услуг, указанными в %1$s.
 Нажмите OK, если согласны с правилами и условиями, описанными в %1$s.</string>
-     <string name="mibi_license_message_span">MiCredit пользовательское соглашение</string>
-	 <string name="mibi_license_net_prompt_message">Использование приложения может увеличить использование трафика</string>
+     <string name="mibi_license_message_span">Пользовательское соглашение MiCredit</string>
+	 <string name="mibi_license_net_prompt_message">Использование приложения может увеличить расход трафика</string>
      <string name="mibi_license_net_prompt_title">Требуется подключение к сети</string>
      <string name="mibi_license_title">Пользовательское соглашение</string>
      <string name="mili_center">MiCredit</string>
@@ -315,7 +315,7 @@
      <string name="title_recharge_record">Пополнения</string>
 	 <string name="title_sms_code">Введите проверочный код</string>
      <string name="title_transaction">Мои операции</string>
-     <string name="title_visible_pattern">Сделать шаблон видимым</string>
+     <string name="title_visible_pattern">Показывать ключ</string>
      <string name="voucher_edit_hint">Код</string>
      <string name="voucher_edit_limit">знаков</string>
      <string name="voucher_error_password">Неверный код!</string>

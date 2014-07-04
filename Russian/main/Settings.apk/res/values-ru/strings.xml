@@ -168,7 +168,7 @@
      <string name="adb_warning_message">Отладка по USB – это режим, который позволяет использовать Ваше устройство как внешний накопитель: перемещать файлы (с компьютера и на компьютер), напрямую устанавливать приложения, а также просматривать системные журналы</string>
      <string name="adb_warning_title">Разрешить отладку по USB?</string>
      <string name="add_account_label">Добавить аккаунт</string>
-     <string name="add_blacklist">Добавить в черный список</string>
+     <string name="add_blacklist">В черный список</string>
      <string name="add_button">Добавить</string>
      <string name="add_device_admin">Активировать</string>
      <string name="add_device_admin_msg">Активировать администратора устройства?</string>
