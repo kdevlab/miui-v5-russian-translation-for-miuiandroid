@@ -251,17 +251,17 @@
      <string name="media_player_loading_video">Загрузка видео…</string>
      <string name="menu_addtodesk">Добавить на рабочий стол</string>
      <string name="menu_disable_night_mode">Выключить ночной режим</string>
-     <string name="menu_disable_save_bandwidth_mode">Отключить мобильный интернет</string>
+     <string name="menu_disable_save_bandwidth_mode">Отключить экономию трафика</string>
      <string name="menu_enable_night_mode">Включить ночной режим</string>
-     <string name="menu_enable_save_bandwidth_mode">Включить мобильный интернет</string>
+     <string name="menu_enable_save_bandwidth_mode">Включить экономию трафика</string>
      <string name="menu_exit">Выход</string>
      <string name="menu_hv_swap">В ландшафтный режим</string>
      <string name="menu_hv_swap2">В портретный режим</string>
      <string name="menu_preferences">Настройки</string>
-     <string name="menu_save_bandwidth_mode_close_toast">Мобильный интернет отключен</string>
+     <string name="menu_save_bandwidth_mode_close_toast">Экономия мобильного трафика отключена</string>
      <string name="menu_save_bandwidth_mode_first_clicked_positive_btn_txt">OK</string>
      <string name="menu_save_bandwidth_mode_first_clicked_txt">"Не использовать мобильные сети для предварительной загрузки страниц и показа изображений"</string>
-     <string name="menu_save_bandwidth_mode_open_toast">Включен мобильный интернет</string>
+     <string name="menu_save_bandwidth_mode_open_toast">Включена экономия мобильного трафика</string>
      <string name="menu_save_snapshot">Сохранить страницу</string>
      <string name="menu_theme_setting">Настройки темы</string>
      <string name="miui_content_copy">Копировать</string>
@@ -317,7 +317,7 @@
      <string name="please_select_a_file_to_import">Пожалуйста, выберите файл с данными</string>
      <string name="popup_window_attempt">Открыть всплывающее окно с этого сайта?</string>
      <string name="pref_accessibility_title">Спец. возможности</string>
-     <string name="pref_accessibility_url_shortcut_enter_summary">При вводе в адресную строку, общие комбинациями букв могут быть введены в одно нажатие</string>
+     <string name="pref_accessibility_url_shortcut_enter_summary">При вводе в адресную строку, общие комбинации букв могут быть введены в одно нажатие</string>
      <string name="pref_accessibility_url_shortcut_enter_title">Быстрый ввод ссылок</string>
      <string name="pref_autofill_enabled">Автозаполнение форм</string>
      <string name="pref_autofill_enabled_summary">Быстрое заполнение веб-форм</string>
@@ -351,8 +351,7 @@
      <string name="pref_content_search_engine_summary">Выберите поисковую систему</string>
      <string name="pref_content_title">Содержание страницы</string>
      <string name="pref_data_preload_dialogtitle">Загрузка результатов поиска</string>
-     <string name="pref_data_preload_summary">"
-разрешать браузеру предварительно загружать результаты поиска в фоновом режиме"</string>
+     <string name="pref_data_preload_summary">": браузер будет предварительно загружать результаты поиска в фоновом режиме"</string>
      <string name="pref_data_preload_title">Загрузка результатов поиска</string>
      <string name="pref_data_title">Настройки контента</string>
      <string name="pref_default_text_encoding">Кодировка текста</string>
@@ -396,11 +395,11 @@
      <string name="pref_gesture_title">Жесты</string>
      <string name="pref_image_display_control">Загрузка изображений</string>
      <string name="pref_images_preload_dialogtitle">Предзагрузка изображений</string>
-     <string name="pref_images_preload_summary">" разрешить браузеру предварительно загружать изображения, если позволяет сервер"</string>
+     <string name="pref_images_preload_summary">": браузер будет предварительно загружать изображения, если позволяет сервер"</string>
      <string name="pref_images_preload_title">Предзагрузка изображений</string>
      <string name="pref_images_preload_value_always_summary">Всегда разрешать браузеру предварительно загружать изображения, если позволяет сервер</string>
-     <string name="pref_images_preload_value_never_summary">Никогда не разрешать браузеру предварительно загружать изображения, если позволяет сервер</string>
-     <string name="pref_images_preload_value_wifi_only_summary">Разрешать браузеру предварительно загружать изображения, если позволяет сервер (умный режим)</string>
+     <string name="pref_images_preload_value_never_summary">Никогда не разрешать браузеру предварительно загружать изображения</string>
+     <string name="pref_images_preload_value_wifi_only_summary">Разрешать браузеру предварительно загружать изображения, если позволяет сервер (при подключении по Wi-Fi)</string>
      <string name="pref_inverted">Инверсия</string>
      <string name="pref_inverted_category">Режим инверсии</string>
      <string name="pref_inverted_contrast">Контраст</string>
@@ -408,8 +407,7 @@
      <string name="pref_key_gesture_title">Кнопки и жесты</string>
      <string name="pref_key_title">Настройки кнопок</string>
      <string name="pref_link_prefetch_dialogtitle">Загрузка веб-страниц</string>
-     <string name="pref_link_prefetch_summary">"
-разрешать браузеру предварительно загружать связанные веб-страницы в фоновом режиме"</string>
+     <string name="pref_link_prefetch_summary">": браузер будет предварительно загружать связанные веб-страницы в фоновом режиме"</string>
      <string name="pref_link_prefetch_title">Загрузка веб-страниц</string>
      <string name="pref_link_prefetch_value_never_summary">Запрещать браузеру предварительно загружать веб-страницы в фоновом режиме.</string>
      <string name="pref_min_font_size">Минимальный размер шрифта</string>
@@ -441,7 +439,7 @@
      <string name="pref_reading_mode_enabled_title">Режим чтения</string>
      <string name="pref_reading_mode_enabled_title_summary">Необходим JavaScript</string>
      <string name="pref_save_bandwidth_mode_summary">Браузер не будет использовать мобильную сеть для предварительной загрузки страниц или автоматического показа изображений</string>
-     <string name="pref_save_bandwidth_mode_title">Мобильный интернет</string>
+     <string name="pref_save_bandwidth_mode_title">Экономия трафика</string>
      <string name="pref_security_accept_cookies">Разрешить cookie</string>
      <string name="pref_security_accept_cookies_summary">Разрешить сайтам сохранять и читать файлы cookie</string>
      <string name="pref_security_passwords_title">Пароли</string>
@@ -458,8 +456,7 @@
      <string name="pref_ua_title">Настройки UserAgent</string>
      <string name="pref_version_summary">Версия:%s</string>
      <string name="pref_video_preload_dialogtitle">Загрузка видео</string>
-     <string name="pref_video_preload_summary">"
-разрешать браузеру предварительно загружать видео файлы"</string>
+     <string name="pref_video_preload_summary">": браузер будет предварительно загружать видео файлы"</string>
      <string name="pref_video_preload_title">Загрузка видео</string>
      <string name="pref_volume_key_enabled">Клавиши громкости</string>
      <string name="pref_volume_key_operation">Функция клавиши громкости</string>
@@ -488,9 +485,9 @@
      <string name="readmode_page_load_error">Не удалось загрузить страницу. Нажмите кнопку обновить, чтобы попробовать еще раз.</string>
      <string name="readmode_page_loading">Загрузка…</string>
      <string name="readmode_pay">Подписаться на главу</string>
-     <string name="readmode_pay_message">Последующие главы требует абонентской платы для просмотра</string>
+     <string name="readmode_pay_message">Последующие главы требуют абонентской платы для просмотра</string>
      <string name="readmode_reach_last_page">Достигнута последняя страница</string>
-     <string name="readmode_recommend">рекоммендуемые</string>
+     <string name="readmode_recommend">рекомендуемые</string>
      <string name="readmode_recommend_message">Вы прочитали все разделы этой книги. Пожалуйста, выберите другую.</string>
      <string name="readmode_refresh">Обновить</string>
      <string name="readmodelist_bookmarks_to_show">Список чтения</string>

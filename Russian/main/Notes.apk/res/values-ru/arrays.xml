@@ -3,16 +3,16 @@
 <resources>
      <string-array name="contact_entries">
         <item>Имя</item>
-        <item>Ник</item>
+        <item>Псевдоним</item>
         <item>Телефон</item>
-        <item>Email</item>
-        <item>Организация</item>
+        <item>Почта</item>
+        <item>Компания</item>
         <item>IM</item>
         <item>Интернет-телефон</item>
         <item>День рождения</item>
-        <item>Сайт</item>
+        <item>Веб-сайт</item>
         <item>Адрес</item>
-        <item>Заметка</item>
+        <item>Примечания</item>
      </string-array>
      <string-array name="font_size_names">
         <item>Маленький</item>
