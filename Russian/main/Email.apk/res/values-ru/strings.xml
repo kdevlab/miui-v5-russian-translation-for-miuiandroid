@@ -22,7 +22,7 @@
      <string name="account_folder_list_summary_inbox">Входящие</string>
      <string name="account_folder_list_summary_outbox">Исходящие</string>
      <string name="account_folder_list_summary_starred">Избранные</string>
-	 <string name="account_name_toast">Повтор имени. Переименуйте.</string>
+     <string name="account_name_toast">Повтор имени. Переименуйте.</string>
      <string name="account_password_spaces_error">Пароль начинается или заканчивается пробелом. Некоторые серверы не поддерживают пароли с пробелами.</string>
      <string name="account_security_dialog_content_fmt">Для аккаунта %s требуется обновить настройки безопасности</string>
      <string name="account_security_dialog_title">Обновления безопасности</string>
@@ -116,7 +116,7 @@
      <string name="account_setup_incoming_headline">Настройки сервера входящих сообщений</string>
      <string name="account_setup_incoming_imap_path_prefix_hint">По желанию</string>
      <string name="account_setup_incoming_imap_path_prefix_label">Префикс пути IMAP</string>
-	 <string name="account_setup_incoming_mail_adress_label">Адрес почты</string>
+     <string name="account_setup_incoming_mail_adress_label">Адрес почты</string>
      <string name="account_setup_incoming_mail_domain_hint">Может быть пустым</string>
      <string name="account_setup_incoming_mail_domain_label">Домен</string>
      <string name="account_setup_incoming_password_label">Пароль</string>
@@ -192,7 +192,7 @@
      <string name="address_display_format">%1$s | %2$s</string>
      <string name="address_display_format_with_via_domain">%1$s (%2$s из домена %3$s)</string>
      <string name="all_folders_heading">Все папки</string>
-	 <string name="allread">Все прочитано</string>
+     <string name="allread">Все прочитано</string>
      <string name="always_bcc_myself">Всегда копию себе</string>
      <string name="always_show_images">Всегда открывать картинки от этого отправителя</string>
      <string name="always_show_images_toast">Картинки от этого отправителя будут всегда показываться</string>
@@ -200,7 +200,7 @@
      <string name="app_name">Почта</string>
      <string name="archive">В архив</string>
      <string name="archived">Отправлено в архив</string>
-	 <string name="att_download_failed_content">Ошибка загрузки</string>
+     <string name="att_download_failed_content">Ошибка загрузки</string>
      <string name="att_download_failed_title">Ошибка загрузки вложения</string>
      <string name="att_mgr_no_attachment">Нет вложений!</string>
      <string name="att_mgr_title_order_mime">По формату</string>
@@ -258,12 +258,12 @@
      <string name="colon">:</string>
      <string name="compose">Написать</string>
      <string name="compose_help_context">написать</string>
-	 <string name="compose_send">Отправить</string>
+     <string name="compose_send">Отправить</string>
      <string name="compose_sent">Отправлено</string>
      <string name="confirm">Да</string>
      <string name="confirm_discard_text">Удалить это сообщение?</string>
      <string name="confirm_response">Отправка ответа…</string>
-	 <string name="confirm_save_message_no">Нет</string>
+     <string name="confirm_save_message_no">Нет</string>
      <string name="confirm_save_message_title">Сохранить в черновики?</string>
      <string name="confirm_save_message_yes">Да</string>
      <string name="confirm_send_message">Отправить это сообщение?</string>
@@ -310,13 +310,13 @@
      <string name="default_signature">Отправлено через Xiaomi</string>
      <string name="delete">Удалить</string>
      <string name="deleted">Удалено</string>
-	 <string name="device_activity_btn_str">Возврат к действию</string>
+     <string name="device_activity_btn_str">Возврат к действию</string>
      <string name="device_activity_lint_str">Включить почтовым службам полное обновление и активировать оборудование безопасности</string>
      <string name="device_admin_description">Включение серверных политик безопасности</string>
      <string name="device_admin_label">Электронная почта</string>
-	 <string name="device_not_activiey_lint1">Диспетчер устройств не активирован</string>
+     <string name="device_not_activiey_lint1">Диспетчер устройств не активирован</string>
      <string name="device_not_activiey_lint2">Почтовая служба не работает должным образом</string>
-	 <string name="dialog_auto_download_failed">Автозагрузка не закончена</string>
+     <string name="dialog_auto_download_failed">Автозагрузка не закончена</string>
      <string name="dialog_insufficient_space_for_single_account_on_internal">Недостаточно места для %s</string>
      <string name="dialog_insufficient_space_on_external">Не удается завершить автозагрузку. Нет места на внешней памяти.</string>
      <string name="dialog_insufficient_space_on_internal">Недостаточно места во внутренней памяти</string>
@@ -329,7 +329,7 @@
      <string name="downlaod_cancel_confirm_download">Отменить загрузку</string>
      <string name="downlaod_cancel_continue_download">Отмена</string>
      <string name="downlaod_confirm_download">Загрузить</string>
-	 <string name="downlaod_nonWifi_confirm_message">Нет Wi-Fi подключения. Продолжить загрузку?</string>
+     <string name="downlaod_nonWifi_confirm_message">Нет Wi-Fi подключения. Продолжить загрузку?</string>
      <string name="download_again">Скачать еще раз</string>
      <string name="download_before_sharing">" еще не загружено. Сначала скачайте, прежде чем отправлять!"</string>
      <string name="download_cancel_confirm_title">Отменить загрузку?</string>
@@ -343,7 +343,7 @@
      <string name="edit_quick_response_dialog">Быстрый ответ</string>
      <string name="elided_padding_token"> </string>
      <string name="email_feedback_uri" />
-	 <string name="empty_account_tip">Не удалось найти аккаунт</string>
+     <string name="empty_account_tip">Не удалось найти аккаунт</string>
      <string name="empty_email_tip">Не удалось отправить пустое письмо</string>
      <string name="empty_spam">Удалить спам</string>
      <string name="empty_spam_dialog_title">Удалить спам?</string>
@@ -416,7 +416,7 @@
      <string name="login_failed_ticker">Ошибка авторизации %s</string>
      <string name="login_failed_title">Не удалось войти в аккаунт</string>
      <string name="long_press_to_select_tip">Чтобы выбрать несколько цепочек, нажмите и удерживайте одну из них, а затем нажимайте на следующие</string>
-	 <string name="mail">Почта</string>
+     <string name="mail">Почта</string>
      <string name="mailbox_list_account_selector_combined_view">Комбинированный режим</string>
      <string name="mailbox_name_display_drafts">Черновики</string>
      <string name="mailbox_name_display_inbox">Входящие</string>
@@ -426,8 +426,6 @@
      <string name="mailbox_name_display_starred">Помеченнные</string>
      <string name="mailbox_name_display_trash">Корзина</string>
      <string name="mailbox_name_display_unread">Непрочитанные</string>
-     <string name="mailbox_name_server_all_unread">Непрочитанные</string>
-     <string name="mailbox_name_server_starred">Помеченные</string>
      <string name="mailbox_settings_activity_title">Параметры синхронизации</string>
      <string name="mailbox_settings_activity_title_with_mailbox">Параметры синхронизации (%s)</string>
      <string name="mailbox_settings_mailbox_sync_window_label">Период синхронизации</string>
@@ -468,7 +466,7 @@
      <string name="menu_photo_save_all">Сохранить все</string>
      <string name="menu_photo_share">Поделиться</string>
      <string name="menu_photo_share_all">Поделиться</string>
-	 <string name="menu_resend_all">Повторить все</string>
+     <string name="menu_resend_all">Повторить все</string>
      <string name="menu_search">Поиск</string>
      <string name="menu_settings">Настройки</string>
      <string name="menu_show_original">Показать исходный размер</string>
@@ -531,14 +529,14 @@
      <string name="okay_action">OK</string>
      <string name="other_mail">Другая почта</string>
      <string name="outbox_alert_button_confirm">Изменить</string>
-	 <string name="outbox_alert_button_no_resend">Не отправлять</string>
+     <string name="outbox_alert_button_no_resend">Не отправлять</string>
      <string name="outbox_alert_button_resend">Отправить</string>
      <string name="outbox_alert_description_sent_failed">"Причина: вложение к письму 
 превышает максимальный размер"</string>
      <string name="outbox_alert_mailbox_not_found">Адрес электронной почты не найден</string>
-	 <string name="outbox_alert_title_sent_failed">Ошибка отправки</string>
-	 <string name="outbox_no_mails">Нет сообщений в папке исходящие</string>
-	 <string name="parase_setup_data">Получение данных конфигурации…</string>
+     <string name="outbox_alert_title_sent_failed">Ошибка отправки</string>
+     <string name="outbox_no_mails">Нет сообщений в папке исходящие</string>
+     <string name="parase_setup_data">Получение данных конфигурации…</string>
      <string name="password_changed_prompt">Не удалось войти</string>
      <string name="password_expire_warning_content_title">Истекает срок действия пароля</string>
      <string name="password_expire_warning_dialog_content_fmt">Вам следует в ближайшее время изменить PIN-код или пароль блокировки экрана, иначе данные аккаунта %s будут удалены. Изменить сейчас?</string>
@@ -656,7 +654,7 @@
      <string name="search_results_loaded">%1$d</string>
      <string name="search_results_searching_header">Поиск…</string>
      <string name="search_title">Единые Email</string>
-	 <string name="search_txt_size_limit_prompt">Строка поиска должна быть больше, чем 3</string>
+     <string name="search_txt_size_limit_prompt">Строка поиска должна быть больше, чем 3</string>
      <string name="search_unsupported">В этом аккаунте не поддерживается поиск</string>
      <string name="security_changed_ticker_fmt">В аккаунте %s обновлены настройки безопасности. Ничего делать не нужно.</string>
      <string name="security_needed_ticker_fmt">В аккаунте %s требуется обновить настройки безопасности</string>
@@ -740,7 +738,7 @@
 Выберите "<b>настройки синхронизации</b>, чтобы включить ее, или <b>синхронизировать сейчас</b>, чтобы синхронизировать почту один раз.</string>
      <string name="wait_for_sync_body">Ваши сообщения загружаются</string>
      <string name="wait_for_sync_body_2">Сервер Exchange спросит Вас через 1-30 секунд. Пожалуйста, подтвердите настройки безопасности и активируйте. Обратите внимание на предупреждение системы.</string>
-	 <string name="wait_for_sync_body_txt_array_1">Сервер Exchange спросит Вас через</string>
+     <string name="wait_for_sync_body_txt_array_1">Сервер Exchange спросит Вас через</string>
      <string name="wait_for_sync_body_txt_array_2">1–30</string>
      <string name="wait_for_sync_body_txt_array_3">секунд. Пожалуйста, подтвердите настройки безопасности и активируйте. Обратите внимание на</string>
      <string name="wait_for_sync_body_txt_array_4">предупреждение системы</string>
@@ -752,7 +750,7 @@
      <string name="widget_large_unread_count">%d+</string>
      <string name="widget_other_views">Нажмите, чтобы изменить</string>
      <string name="wrong_password">Неверный пароль!</string>
-	 <string name="xiaomi_bytes_unit">%1$sб</string>
+     <string name="xiaomi_bytes_unit">%1$sб</string>
      <string name="xiaomi_external_storage_unavailable">Память недоступна. Проверьте SD-карту.</string>
      <string name="xiaomi_kilobytes_unit">%1$sкб</string>
      <string name="xiaomi_megabytes_unit">%1$sмб</string>
