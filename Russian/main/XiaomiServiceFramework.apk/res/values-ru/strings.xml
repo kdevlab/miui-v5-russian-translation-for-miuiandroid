@@ -116,6 +116,7 @@
      <string name="bind_sina_weibo">Связать с Sina WeiBo</string>
      <string name="bind_weibo_description">Найти информацию контакта: телефон, аватар и т.д.</string>
      <string name="binded">Связан</string>
+	 <string name="btn_activate">Активировать</string>
      <string name="btn_back">Назад</string>
      <string name="btn_call">Позвонить</string>
      <string name="btn_count_down_auto">Запрос через %1$s сек.</string>
@@ -293,6 +294,7 @@
      <string name="micloud_password_confirm_hint">Подтвердите пароль</string>
      <string name="micloud_password_error_inconsistent">Несоответсвие паролей</string>
      <string name="micloud_password_req_notice">8~16 символов, содержит цифры, буквы алфавита, с учетом регистра</string>
+	 <string name="micloud_proceed">Продолжить</string>
      <string name="micloud_reg_new">Новый</string>
      <string name="micloud_resend_active_email">Повторно отправить письмо активации</string>
      <string name="micloud_space_full_influence"><u>Закончилось место в облаке?</u></string>
