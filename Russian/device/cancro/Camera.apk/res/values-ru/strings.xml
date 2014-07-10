@@ -223,6 +223,7 @@
      <string name="pref_camera_coloreffect_entry_yesteryear">Прошлый год</string>
      <string name="pref_camera_coloreffect_title">Эффекты</string>
      <string name="pref_camera_contrast_title">Контрастность</string>
+	 <string name="pref_camera_countdown_title">Обратный отсчет</string>
      <string name="pref_camera_current_k_value">Текущее значение</string>
      <string name="pref_camera_default_suffix">(по умолчанию)</string>
      <string name="pref_camera_denoise_title">Устранение шумов</string>
@@ -240,8 +241,6 @@
      <string name="pref_camera_exposuretime_entry_8">1/8 сек.</string>
      <string name="pref_camera_exposuretime_entry_auto">Авто</string>
      <string name="pref_camera_exposuretime_title">Время выдержки</string>
-     <string name="pref_camera_facedetection_entry_off">Выкл.</string>
-     <string name="pref_camera_facedetection_entry_on">Вкл.</string>
      <string name="pref_camera_facedetection_title">Обнаружение лица</string>
      <string name="pref_camera_flashmode_entry_auto">Авто</string>
      <string name="pref_camera_flashmode_entry_off">Выкл.</string>
@@ -275,8 +274,6 @@
      <string name="pref_camera_long_pressing_burst_shooting_entry_off">Фокусировка</string>
      <string name="pref_camera_long_pressing_burst_shooting_entry_on">Серийная съемка</string>
      <string name="pref_camera_long_pressing_burst_shooting_title">Удержание кнопки затвора</string>
-     <string name="pref_camera_movie_solid_entry_off">Выкл.</string>
-     <string name="pref_camera_movie_solid_entry_on">Вкл.</string>
      <string name="pref_camera_movie_solid_title">Стабилизация изображения</string>
      <string name="pref_camera_multilevel_entry_high">Высокая</string>
      <string name="pref_camera_multilevel_entry_higher">Отличная</string>
@@ -328,8 +325,6 @@
      <string name="pref_camera_redeyereduction_entry_disable">Выкл.</string>
      <string name="pref_camera_redeyereduction_entry_enable">Вкл.</string>
      <string name="pref_camera_redeyereduction_title">Устранение красных глаз</string>
-     <string name="pref_camera_referenceline_entry_off">Выкл.</string>
-     <string name="pref_camera_referenceline_entry_on">Вкл.</string>
      <string name="pref_camera_referenceline_title">Вспомогательная сетка</string>
      <string name="pref_camera_saturation_title">Насыщенность</string>
      <string name="pref_camera_scenedetect_title">Автообнаружение сцены</string>
@@ -358,11 +353,7 @@
      <string name="pref_camera_skinToneEnhancement_entry_disable">Выкл.</string>
      <string name="pref_camera_skinToneEnhancement_entry_enable">Вкл.</string>
      <string name="pref_camera_skinToneEnhancement_title">Улучшение цвета кожи</string>
-     <string name="pref_camera_sound_entry_off">Выкл.</string>
-     <string name="pref_camera_sound_entry_on">Вкл.</string>
      <string name="pref_camera_sound_title">Звуки камеры</string>
-     <string name="pref_camera_sound_title_entry_off">Выкл.</string>
-     <string name="pref_camera_sound_title_entry_on">Вкл.</string>
      <string name="pref_camera_touchafaec_entry_off">Выкл.</string>
      <string name="pref_camera_touchafaec_entry_on">Вкл.</string>
      <string name="pref_camera_touchafaec_title">АФ/АС по нажатию</string>
@@ -377,8 +368,6 @@
      <string name="pref_camera_volumekey_function_entry_volume">Громкость</string>
      <string name="pref_camera_volumekey_function_entry_zoom">Зум</string>
      <string name="pref_camera_volumekey_function_title">Функция клавиши громкости</string>
-     <string name="pref_camera_watermark_entry_off">Выкл.</string>
-     <string name="pref_camera_watermark_entry_on">Вкл.</string>
      <string name="pref_camera_watermark_title">Дата на фотографии</string>
      <string name="pref_camera_whitebalance_entry_auto">Авто</string>
      <string name="pref_camera_whitebalance_entry_cloudy">Пасмурно</string>
@@ -391,8 +380,6 @@
      <string name="pref_camera_whitebalance_title">Баланс белого</string>
      <string name="pref_camera_zsl_entry_off">Выкл.</string>
      <string name="pref_camera_zsl_entry_on">Вкл.</string>
-     <string name="pref_captrue_mirror_entry_off">Выкл.</string>
-     <string name="pref_captrue_mirror_entry_on">Вкл.</string>
      <string name="pref_captrue_mirror_title">Передняя камера</string>
      <string name="pref_exposure_title">Экспозиция</string>
      <string name="pref_grp_advanced_settings">Расширенные настройки</string>
@@ -400,12 +387,11 @@
      <string name="pref_grp_picture_settings">Настройки фотографий</string>
      <string name="pref_grp_restore_settings">Сброс настроек</string>
      <string name="pref_manual_exposure_title">Ручная выдержка</string>
-     <string name="pref_scan_qrcode_entry_off">Выкл.</string>
-     <string name="pref_scan_qrcode_entry_on">Вкл.</string>
      <string name="pref_scan_qrcode_title">Сканирование QR кода</string>
      <string name="pref_setting_title">Настройки</string>
      <string name="pref_settings_mode">Режим камеры</string>
 	 <string name="pref_touch_down_capture_title">Нажатие вниз съемка</string>
+	 <string name="pref_video_4kuhd_title_simple_mode">Режим 4K</string>
      <string name="pref_video_captrue_ability_title">Фото при съемке</string>
 	 <string name="pref_video_fast_speed_title_simple_mode">Быстрое движение</string>
      <string name="pref_video_focusmode_entry_auto">Нажатие</string>
@@ -464,9 +450,11 @@
      <string name="show_images_only">Только изображения</string>
      <string name="show_on_map">Показать на карте</string>
      <string name="show_videos_only">Только видео</string>
+	 <string name="simple_mode_button_text_4kuhd">Выйти</string>
      <string name="simple_mode_button_text_audio_capture">Выйти</string>
      <string name="simple_mode_button_text_chroma_flash">Выйти</string>
      <string name="simple_mode_button_text_color_effect">Выйти</string>
+	 <string name="simple_mode_button_text_countdown">Выйти</string>
      <string name="simple_mode_button_text_face_beauty">Выйти</string>
 	 <string name="simple_mode_button_text_fast_video">Выйти</string>
      <string name="simple_mode_button_text_hand_night">Выйти</string>

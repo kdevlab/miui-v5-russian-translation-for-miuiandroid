@@ -149,16 +149,16 @@
      <string name="id3_edit_failed">Не удалось отредактировать ID3</string>
      <string name="id3_modify_confirm_check">Сохранить изменения ID3?</string>
      <string name="id3_modify_confirm_text">Сохранить</string>
-     <string name="impunity_declaration">Онлайн музыка предоставляется сервисом Baidu Online Music. Нажмите \"Принимаю\", чтобы принять <a href="http://music.baidu.com/doc/agreement">Условия использования</a> и продолжить.</string>
+     <string name="impunity_declaration">Онлайн музыка предоставляется сервисом Baidu Online Music. Нажмите принимаю, чтобы принять <a href="http://music.baidu.com/doc/agreement">Условия использования</a> и продолжить.</string>
 	 <string name="impunity_declaration_ignore">Не спрашивать</string>
      <string name="impunity_declaration_settings">Запрашивать разрешение к сети</string>
      <string name="impunity_declaration_summary">При входе в музыку, будет всплывать напоминание</string>
      <string name="impunity_declaration_title">Примечание</string>
      <string name="keep_quit_position_settings">Запомнить позицию</string>
      <string name="keep_quit_position_summary">Возвращаться к состоянию на момент выхода. Рекомендуется включить.</string>
-     <string name="ktv_alert_message">Нажмите \"Использовать телефон для добавления песен\" на главной странице консоли KTV, чтобы получить QR-код для подключения телефона</string>
+     <string name="ktv_alert_message">Нажмите использовать телефон для добавления песен на главной странице консоли KTV, чтобы получить QR-код для подключения телефона</string>
      <string name="ktv_alert_title">Доступно только на поддерживаемых устройствах</string>
-     <string name="ktv_connected_alert_message">Выбранные песни будут добавлены в список воспроизведения \"Мой KTV\"</string>
+     <string name="ktv_connected_alert_message">Выбранные песни будут добавлены в список воспроизведения мой KTV</string>
      <string name="ktv_connected_alert_titel">Подключено к %1$s</string>
      <string name="ktv_disconnect_alert_titel">Отключиться от %1$s?</string>
      <string name="ktv_song_vod_fail">“%1$s” ошибка добавления</string>
@@ -251,6 +251,8 @@
      <string name="playlist_renamed_message">Плейлист переименован</string>
      <string name="playlists_title">Плейлисты</string>
      <string name="powered_by">При поддержке</string>
+	 <string name="priority_storage">Загружать на SD-карту</string>
+     <string name="priority_storage_summary">Эта функция вступает в силу при использовании внешней SD-карты</string>
      <string name="project_device">Mi Box</string>
      <string name="project_device_mobile">Телефон</string>
      <string name="queue">В очередь</string>
@@ -315,8 +317,8 @@
      <string name="streamloadingtext">Подключение к %s</string>
      <string name="sync_alert_message">Синхронизировать музыку с MiCloud</string>
      <string name="sync_alert_title">Синхронизация музыки</string>
-     <string name="sync_disable_toast">Вы можете включить синхронизацию музыки через \"Настройки\" > \"Аккаунты\" > \"MiCloud\"</string>
-     <string name="sync_enable_toast">Вы можете изменить эту функцию через \"Настройки\" > \"Аккаунты\" > \"MiCloud\"</string>
+     <string name="sync_disable_toast">Включить синхронизацию музыки можно в настройках > аккаунты > MiCloud</string>
+     <string name="sync_enable_toast">Изменить эту функцию можно в настройках > аккаунт" > MiCloud</string>
      <string name="synchronize_playlist_setting">Синхронизация плейлистов</string>
      <string name="synchronize_playlist_summary">Синхронизировать плейлисты в MiCloud</string>
 	 <string name="take_effect_afater_restart">Перезапустите приложение, чтобы новые настройки вступили в силу</string>

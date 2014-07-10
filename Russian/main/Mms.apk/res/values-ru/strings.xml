@@ -164,6 +164,7 @@
      <string name="has_invalid_recipient">Недопустимые получатели: &lt;%1$s></string>
      <string name="hidden_sender_address">Адрес отправителя скрыт</string>
      <string name="hint_search_sms">Всего сообщений: %d</string>
+	 <string name="hms_first_use_tips">Для приема служебных сообщений, вы должны быть подключены к Wi-Fi сети</string>
      <string name="importing_progress_private_message">Импорт сообщений в приватный ящик…</string>
      <string name="in_sms">Сообщение</string>
      <string name="insufficient_drm_rights">Обнаруженных прав DRM недостаточно</string>
@@ -358,6 +359,7 @@ SMS (%1$d), MMS (%2$d)"</string>
      <string name="restore_blocked_message">Восстановить сообщение</string>
      <string name="restore_to_phone_memory_failed">Не удалось восстановить</string>
      <string name="restored_to_phone_memory">Восстановлено ​​в память телефона</string>
+	 <string name="retrive_hms_tips">Получение…</string>
      <string name="save">Сохранить</string>
      <string name="save_ringtone">Сохранить как мелодию звонка</string>
      <string name="save_to_sim">Сохранить на SIM-карту</string>
@@ -382,6 +384,7 @@ SMS (%1$d), MMS (%2$d)"</string>
      <string name="select_recipient">выбор получателя</string>
      <string name="select_top_text">Текст вверху</string>
      <string name="send">Отправить</string>
+	 <string name="send_hms_editor_hints">Облачное сообщение</string>
      <string name="send_message_dlg_check_hint">Запомнить мой выбор</string>
      <string name="send_message_dlg_mgs">CMCC notice: We need to register your device to device management platform to provide the free post-service (Post-service is a platform by CMCC that can manage the terminal devices. It provides you the service of remote settings and app upgrade.) A free message of device information will be sent for registration. The message will be sent only once and do not need you personal data (Do not send of Hong Kong, Macao, Taiwan and international roaming). Select “OK” to agree to register and use the service. Select “Cancel” to give up and no service will be provided from CMCC.</string>
      <string name="send_message_dlg_title">Управление устройством</string>
@@ -481,7 +484,9 @@ SMS (%1$d), MMS (%2$d)"</string>
      <string name="unsupported_media_format">Неподдерживаемый формат (%1$s)</string>
      <string name="view">Просмотр</string>
      <string name="view_bookmark">Открыть в переписке</string>
+	 <string name="view_hms_details">Подробнее</string>
      <string name="view_message_details">Подробности</string>
      <string name="wap_push_title">"[Push-сообщение] "</string>
-     <string name="yes">ОК</string>
+	 <string name="xiaomi_service_number">Сервисный номер</string>
+     <string name="yes">OK</string>
 </resources>

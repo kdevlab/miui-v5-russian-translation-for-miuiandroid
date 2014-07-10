@@ -108,6 +108,7 @@
      <string name="app_name">Аккаунт Xiaomi</string>
      <string name="available_functionality">Доступные функции</string>
      <string name="bad_authentication">Неверный пароль или имя пользователя</string>
+	 <string name="bank_cards">Банковские карты</string>
      <string name="balance">Баланс: %1$s MiCredit</string>
      <string name="bankcall_error_card">Введите корректный номер банковской карты</string>
      <string name="bankcall_error_card_info">Пожалуйста, введите корректные данные банковского счета</string>
@@ -122,7 +123,7 @@
      <string name="btn_count_down_auto">Запрос через %1$s сек.</string>
      <string name="btn_count_down_wait">Ожидание %1$s сек.</string>
      <string name="btn_delete_record">Удалить запись</string>
-     <string name="btn_mili_center_recharge">Пополнить счёт</string>
+     <string name="btn_mili_center_recharge">Пополнить счет</string>
      <string name="btn_net_connection_retry">Повтор</string>
      <string name="btn_next">След.</string>
      <string name="btn_other_bankcard">Используйте другую банковскую карту</string>
@@ -167,12 +168,12 @@
      <string name="enable_sync">Включить</string>
      <string name="enable_sync_dspt">Синхронизация отключена</string>
 	 <string name="error_device_id">Не удается получить IMEI</string>
-     <string name="error_account_changed_summary">Ваш аккаунт был изменен. Проверьте и перезапустите</string>
+     <string name="error_account_changed_summary">Ваш аккаунт был изменен. Проверьте и перезапустите.</string>
      <string name="error_account_changed_title">Аккаунт был изменен</string>
-     <string name="error_auth_summary">Ошибка входа в аккаунт. Войдите заново</string>
+     <string name="error_auth_summary">Ошибка входа в аккаунт. Войдите заново.</string>
      <string name="error_auth_title">Ошибка аккаунта</string>
      <string name="error_bankcard_verify_summary">Ошибка проверки карты</string>
-     <string name="error_common_summary">Системная ошибка. Попробуйте позже</string>
+     <string name="error_common_summary">Системная ошибка. Попробуйте позже.</string>
      <string name="error_common_title">Системная ошибка</string>
      <string name="error_dup_phone">Телефон уже зарегистрирован</string>
      <string name="error_expired_summary">Время ожидания вышло</string>
@@ -181,12 +182,12 @@
      <string name="error_giftcard_summary">Не возможно получить информацию о подарочной карте</string>
      <string name="error_has_bought_summary">Вы уже приобрели этот продукт</string>
      <string name="error_has_bought_title">Повторить покупку</string>
-     <string name="error_illegal_order_summary">Ошибка заказа. Попробуйте позже</string>
+     <string name="error_illegal_order_summary">Ошибка заказа. Попробуйте позже.</string>
      <string name="error_illegal_order_title">Ошибка заказа</string>
      <string name="error_invalid_dev_id">Неверный ID устройства</string>
      <string name="error_mili_title">Недостаточно средств</string>
      <string name="error_network">Ошибка сети</string>
-     <string name="error_network_summary">Невозможно подключиться. Проверьте соединение</string>
+     <string name="error_network_summary">Невозможно подключиться. Проверьте соединение.</string>
      <string name="error_network_title">Ошибка сети</string>
      <string name="error_no_sms_service">Сервис SMS недоступен</string>
      <string name="error_phone_error">Неверный номер телефона</string>
@@ -204,7 +205,7 @@
      <string name="error_verify_title">Нет разрешения</string>
      <string name="failed_to_send_activate_email">Невозможно отправить активацию по почте</string>
      <string name="find_device">Поиск устройства</string>
-     <string name="find_device_disabled_notice">Вы можете включить снова через \"Настройки\" - \"Аккаунты\" - \"MiCloud\"</string>
+     <string name="find_device_disabled_notice">Вы можете включить снова через настройки - аккаунты - MiCloud</string>
      <string name="find_device_disabled_title">Поиск устройств отключен</string>
      <string name="find_device_disabling">Выключение…</string>
      <string name="find_device_enabling">Включение…</string>
@@ -287,7 +288,7 @@
      <string name="micloud_intro_02_part_01">Не нужно ничего делать</string>
      <string name="micloud_intro_02_part_02">Облачные сервисы синхронизируют контакты, сообщения, фотографии и другие данные</string>
      <string name="micloud_intro_03_part_01">Данные в MiCloud</string>
-     <string name="micloud_intro_03_part_02">Управление данными, блокировка, очистка и т.д. на i.xiaomi.com</string>
+     <string name="micloud_intro_03_part_02">Управление данными, блокировка, очистка и т.д. на i.mi.com</string>
      <string name="micloud_is_what">Что такое MiCloud?</string>
      <string name="micloud_more">Подробнее</string>
      <string name="micloud_none">Ничего</string>
@@ -315,7 +316,7 @@
      <string name="micloud_warn_full_title">Недостаточно метса</string>
      <string name="micloud_warn_low_sum">Вы использовали 90% места для хранения в облаке</string>
      <string name="micloud_warn_low_title">Мало свободного места…</string>
-     <string name="micloud_web_discription_01">Зайдите на i.xiaomi.com</string>
+     <string name="micloud_web_discription_01">Зайдите на i.mi.com</string>
      <string name="micloud_web_discription_02">для хранения и доступа к файлам из любого места</string>
      <string name="micloud_welcome_skip_login"><u>Пропустить этот шаг</u></string>
      <string name="mili_center">MiCredit</string>

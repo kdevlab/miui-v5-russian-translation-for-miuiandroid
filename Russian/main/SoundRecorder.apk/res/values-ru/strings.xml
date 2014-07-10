@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Builded with NXT -->
 <resources>
-     <string name="access_error">"В Гостевом режиме запись не доступна"</string>
+     <string name="access_error">"В гостевом режиме запись не доступна"</string>
      <string name="alert_message_delete_record">Удалить выбранную запись?</string>
      <string name="app_name">Диктофон</string>
-     <string name="back">назад</string>
-     <string name="button_ok">ОК</string>
+     <string name="back">Назад</string>
+     <string name="button_ok">OK</string>
      <string name="button_queue_for_wifi">В очередь</string>
      <string name="button_start_now">Скачать</string>
      <string name="call_record">Записи вызовов (%d)</string>
@@ -49,8 +49,8 @@
      <string name="preference_record_type_dialog_title">Выбор типа файла для записи</string>
      <string name="preference_record_type_title">Тип записи</string>
      <string name="preference_scenes">Режим записи</string>
-     <string name="preference_silent_mode">Запись в режиме \"Без звука\"</string>
-     <string name="record_download">Скачать из MiCloud</string>
+     <string name="preference_silent_mode">Запись в режиме без звука</string>
+     <string name="record_download">Скачать из облака</string>
      <string name="record_download_activity">Загрузка записей</string>
      <string name="record_download_complete">Готово</string>
      <string name="record_download_failed">Ошибка</string>
@@ -93,7 +93,7 @@
      <string name="sync_records">Синхронизация записей</string>
      <string name="toast_file_is_downloading">Загрузка файла…</string>
      <string name="toast_max_record_time">Приложение \"%1$s\" поддерживает вложение записей длительностью до %2$s</string>
-     <string name="toast_uninstall_fileexplorer">Приложение \"Файлы\" не установлено</string>
+     <string name="toast_uninstall_fileexplorer">Приложение файлы не установлено</string>
      <string name="view_list_of_recordings">просмотр списка записей</string>
      <string name="wifi_recommended_body">"О загрузке через мобильный интернет:
  Загрузка файла может привести к затратам трафика и денежных стредств"</string>

@@ -10,14 +10,19 @@
         <item>За вчера 2G/3G</item>
         <item>Сегодня 2G/3G</item>
         <item>За месяц 2G/3G</item>
-        <item>За вчера WLAN</item>
-        <item>Сегодня WLAN</item>
-        <item>За месяц WLAN</item>
+        <item>За вчера Wi-Fi</item>
+        <item>Сегодня Wi-Fi</item>
+        <item>За месяц Wi-Fi</item>
      </string-array>
      <string-array name="date_of_traffic">
         <item>Трафик за вчера</item>
         <item>Трафик за сегодня</item>
         <item>Трафик за месяц</item>
+     </string-array>
+	 <string-array name="date_of_traffic_prefix">
+        <item>"Вчера "</item>
+        <item>"Сегодня "</item>
+        <item>"За месяц "</item>
      </string-array>
      <string-array name="network_speed_update_internals">
         <item>3 секунды</item>
@@ -33,9 +38,14 @@
         <item>Установить шаблон сообщения вручную</item>
      </string-array>
      <string-array name="traffic_sort_type">
-        <item>3G</item>
-        <item>Wi-Fi</item>
-        <item>Все</item>
+        <item>"3G "</item>
+        <item>"Wi-Fi "</item>
+        <item>"Сэкономленный "</item>
+     </string-array>
+	 <string-array name="traffic_type">
+        <item>"трафик 3G "</item>
+        <item>"трафик Wi-Fi "</item>
+        <item>"сэкономленный "</item>
      </string-array>
      <string-array name="traffic_uints">
         <item>Б</item>

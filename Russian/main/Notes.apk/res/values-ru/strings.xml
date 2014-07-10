@@ -20,8 +20,8 @@
      <string name="call_record_folder_name">Заметки из звонков</string>
      <string name="close">Закрыть</string>
      <string name="default_folder_name">Заметки</string>
-     <string name="dlg_desc_confirm_alarm_silent">После отключения, сигналы будильника и заметок не будут играть в режиме \"Без звука\"</string>
-     <string name="dlg_title_confirm_alarm_silent">Отключение сигналов в режиме \"Без звука\"</string>
+     <string name="dlg_desc_confirm_alarm_silent">После отключения, сигналы будильника и заметок не будут звучать в режиме без звука</string>
+     <string name="dlg_title_confirm_alarm_silent">Отключение сигналов в режиме без звука</string>
      <string name="enable_sync">Синхронизация</string>
      <string name="enable_sync_desc">Синхронизировать заметки с вашим аккаунтом Xiaomi (%1$s)?</string>
      <string name="error_contact_not_exist">Контакт не существует</string>
@@ -57,7 +57,7 @@
      <string name="notealert_ok">Готово</string>
      <string name="notelist_menu_new">Новая заметка</string>
      <string name="notify_alarm_title">Напоминание</string>
-     <string name="pref_desc_alarm_when_silent">Сигналы будильника и заметок будут играть в режиме \"Без звука\"</string>
+     <string name="pref_desc_alarm_when_silent">Сигналы будильника и заметок будут звучать в режиме без звука</string>
      <string name="pref_desc_mode_grid">Сетка</string>
      <string name="pref_desc_mode_list">Список</string>
      <string name="pref_title_alarm_when_silent">Оповещения в тихом режиме</string>

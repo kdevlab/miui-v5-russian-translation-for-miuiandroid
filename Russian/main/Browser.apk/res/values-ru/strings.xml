@@ -17,9 +17,11 @@
      <string name="accessibility_time_picker_minute">Минута</string>
      <string name="accessibility_time_picker_second">Секунда</string>
      <string name="account">Аккаунт</string>
+	 <string name="account_prifix">Аккаунт:</string>
      <string name="action">Войти</string>
      <string name="actionbar_share">Поделиться</string>
      <string name="actionbar_web_search">Поиск в интернете</string>
+	 <string name="adblock_notification">Заблокировано рекламы: %d</string>
      <string name="add_bookmark">Добавить закладку</string>
      <string name="add_folder">Новая папка</string>
      <string name="add_new_bookmark">Добавить закладку</string>
@@ -146,14 +148,14 @@
      <string name="create_shortcut_bookmark">Ярлык на рабочий стол</string>
      <string name="date_picker_dialog_clear">Очистить</string>
 	 <string name="date_picker_dialog_other_button_label">Другое</string>
-     <string name="date_picker_dialog_set">ОК</string>
+     <string name="date_picker_dialog_set">OK</string>
      <string name="date_picker_dialog_title">Выберите дату</string>
      <string name="date_time_picker_dialog_title">Выберите дату и время</string>
      <string name="delete">Удалить</string>
      <string name="delete_bookmark">Из закладок</string>
      <string name="delete_bookmark_warning">Удалить закладку \"%s\"?</string>
      <string name="delete_folder">Удалить папку</string>
-     <string name="delete_multi_bookmarks_alert_title">Вы уверены, что хотите удалить эти закладки (%1$s)?</string>
+     <string name="delete_multi_bookmarks_alert_title">Удалить эти закладки (%1$s)?</string>
 	 <string name="dialog_geolocation_reject">Отклонить</string>
      <string name="dialog_geolocation_share">Принять</string>
      <string name="disable_autofill">Отключить автозаполнение</string>
@@ -170,7 +172,7 @@
      <string name="download_no_sdcard_dlg_msg">Для загрузки файла %s требуется USB-накопитель.</string>
      <string name="download_no_sdcard_dlg_title">USB-накопитель недоступен</string>
      <string name="download_pending">Начинается загрузка…</string>
-     <string name="download_sdcard_busy_dlg_msg">USB-накопитель занят. Чтобы разрешить загрузки, выберите \"Отключить USB-накопитель\" в уведомлении.</string>
+     <string name="download_sdcard_busy_dlg_msg">USB-накопитель занят. Чтобы разрешить загрузки, выберите отключить USB-накопитель в уведомлении.</string>
      <string name="download_sdcard_busy_dlg_title">USB-накопитель недоступен</string>
      <string name="downloaded">Загружено</string>
      <string name="downloading">Загрузка</string>
@@ -185,6 +187,7 @@
      <string name="empty_bookmarks_folder">Нет закладок</string>
      <string name="empty_history">Нет данных</string>
      <string name="empty_snapshots_folder">Нет сохраненных страниц</string>
+	 <string name="enter_developer_mode">Режим для разработчиков</string>
      <string name="error_console_eval_button_text">Оценить</string>
      <string name="error_console_eval_text_hint">Оценить JavaScript</string>
      <string name="error_console_header_text_maximized">Консоль JavaScript</string>
@@ -200,7 +203,7 @@
      <string name="file_picker_new_folder">Новая папка</string>
      <string name="file_picker_sdcard_not_found">SD-карта не подключена</string>
      <string name="filename_empty_alert_message">Имя файла не может быть пустым</string>
-     <string name="filename_illegal_alert_message">Имя файла содержит недопустимые символы, они будут автоматически удалены.</string>
+     <string name="filename_illegal_alert_message">Имя файла содержит недопустимые символы. Они будут автоматически удалены.</string>
      <string name="find_on_page">Найти на странице</string>
      <string name="folder_name">Имя папки</string>
      <string name="folder_name_too_long">Имя папки слишком длинное</string>
@@ -213,11 +216,11 @@
      <string name="geolocation_permissions_prompt_message">%s запрашивает данные о вашем местоположении</string>
      <string name="geolocation_permissions_prompt_remember">Запомнить настройки</string>
      <string name="geolocation_permissions_prompt_share">Разрешить</string>
-     <string name="geolocation_permissions_prompt_toast_allowed">У этого сайта есть доступ к данным о вашем местоположении. Чтобы запретить его, выберите \"Настройки -> Расширенные -> Настройки веб-сайтов\".</string>
-     <string name="geolocation_permissions_prompt_toast_disallowed">У этого сайта нет доступа к данным о вашем местоположении. Чтобы предоставить его, выберите \"Настройки -> Расширенные -> Настройки веб-сайтов\".</string>
+     <string name="geolocation_permissions_prompt_toast_allowed">У этого сайта есть доступ к данным о вашем местоположении. Чтобы запретить его, выберите настройки -> расширенные -> настройки веб-сайтов.</string>
+     <string name="geolocation_permissions_prompt_toast_disallowed">У этого сайта нет доступа к данным о вашем местоположении. Чтобы предоставить его, выберите настройки -> расширенные -> настройки веб-сайтов.</string>
      <string name="geolocation_settings_page_dialog_cancel_button">Отмена</string>
      <string name="geolocation_settings_page_dialog_message">Закрыть этому сайту доступ к данным о вашем местоположении?</string>
-     <string name="geolocation_settings_page_dialog_ok_button">ОК</string>
+     <string name="geolocation_settings_page_dialog_ok_button">OK</string>
      <string name="geolocation_settings_page_summary_allowed">Этот сайт сейчас имеет доступ к вашему местоположению</string>
      <string name="geolocation_settings_page_summary_not_allowed">У этого сайта сейчас нет доступа к данным о вашем местоположении</string>
      <string name="geolocation_settings_page_title">Очистить геоданные</string>
@@ -229,7 +232,7 @@
      <string name="history_saved_webpage">Сохраненные страницы</string>
      <string name="history_track">История</string>
      <string name="homepage_set">Главная страница установлена</string>
-     <string name="in_incognito">В режиме \"Инкогнито\" история не сохраняется</string>
+     <string name="in_incognito">В режиме инкогнито история не сохраняется</string>
      <string name="is_first_history_item">Первая страница</string>
      <string name="is_first_tab">На первой вкладке</string>
      <string name="is_last_history_item">Последняя страница</string>
@@ -264,6 +267,8 @@
      <string name="menu_save_bandwidth_mode_open_toast">Включена экономия мобильного трафика</string>
      <string name="menu_save_snapshot">Сохранить страницу</string>
      <string name="menu_theme_setting">Настройки темы</string>
+	 <string name="miui_autologin_bar_error">Не удалось войти. Попробуйте еще раз.</string>
+     <string name="miui_autologin_bar_title">Используйте системный аккаунт, чтобы войти</string>
      <string name="miui_content_copy">Копировать</string>
      <string name="miui_content_cut">Вырезать</string>
      <string name="miui_content_paste">Вставить</string>
@@ -302,7 +307,7 @@
      <string name="new_tab">Новая вкладка</string>
      <string name="not_remind_again">Больше не напоминать</string>
      <string name="notif_install_successful">Загрузка завершена</string>
-     <string name="ok">ОК</string>
+     <string name="ok">OK</string>
      <string name="open_all_bookmarks">Открыть все</string>
      <string name="open_all_in_new_window">Открыть все в новых вкладках</string>
      <string name="open_bookmark">Открыть</string>
@@ -319,6 +324,8 @@
      <string name="pref_accessibility_title">Спец. возможности</string>
      <string name="pref_accessibility_url_shortcut_enter_summary">При вводе в адресную строку, общие комбинации букв могут быть введены в одно нажатие</string>
      <string name="pref_accessibility_url_shortcut_enter_title">Быстрый ввод ссылок</string>
+	 <string name="pref_adblock_counts">Всего заблокировано: %d</string>
+     <string name="pref_adblock_title">Блокировка рекламы</string>
      <string name="pref_autofill_enabled">Автозаполнение форм</string>
      <string name="pref_autofill_enabled_summary">Быстрое заполнение веб-форм</string>
      <string name="pref_autofill_profile_editor">Текст автозаполнения</string>
@@ -327,6 +334,8 @@
      <string name="pref_autologin_progress_in_background">Вход на сайты Google используя %s в фоне</string>
      <string name="pref_autologin_title">Автоматический вход в систему</string>
      <string name="pref_category_title_version">Версия</string>
+	 <string name="pref_clear_adblock_statistics">Очистить статистику</string>
+     <string name="pref_clear_adblock_statistics_dlg">Удалить статистику заблокированной рекламы?</string>
      <string name="pref_clear_cache_for_exit">Очищать кэш</string>
      <string name="pref_clear_history_for_exit">Очищать историю</string>
      <string name="pref_confirm_for_exit">Подтверждать выход</string>
@@ -370,6 +379,7 @@
      <string name="pref_development_trace">Включить трассировку</string>
      <string name="pref_development_viewport">Широкий экран</string>
      <string name="pref_development_visual_indicator">Включить визуальный индикатор</string>
+	 <string name="pref_enable_adblock_notification">Показывать уведомления</string>
      <string name="pref_exit_on_closing_last_tab_enabled_title">Закрытие вкладок</string>
      <string name="pref_extras_reset_default">Сбросить настройки</string>
      <string name="pref_extras_reset_default_dlg">Восстановить настройки по умолчанию?</string>
@@ -454,7 +464,7 @@
      <string name="pref_text_zoom">Масштабирование текста</string>
      <string name="pref_ua_string">Агент пользователя</string>
      <string name="pref_ua_title">Настройки UserAgent</string>
-     <string name="pref_version_summary">Версия:%s</string>
+     <string name="pref_version_summary">Версия: %s</string>
      <string name="pref_video_preload_dialogtitle">Загрузка видео</string>
      <string name="pref_video_preload_summary">": браузер будет предварительно загружать видео файлы"</string>
      <string name="pref_video_preload_title">Загрузка видео</string>
@@ -503,7 +513,7 @@
      <string name="return_to_homepage">Домашняя страница</string>
      <string name="same_bookmarks_warning">Эта закладка уже существует</string>
      <string name="same_folder_name_warning">Эта папка уже существует</string>
-     <string name="save">ОК</string>
+     <string name="save">OK</string>
      <string name="save_bookmark">В закладки</string>
      <string name="save_dialog_title">Сохранение файла</string>
      <string name="save_file_already_exist_alert_message">"Файл уже существует. 
@@ -564,7 +574,7 @@
      <string name="tab_history">История</string>
      <string name="tab_most_visited">Часто посещаемые</string>
      <string name="tab_opened_background">Вкладка открыта в фоне</string>
-     <string name="tab_opened_background_in_incognito">Владка открыта в режиме \"Инкогнито\"</string>
+     <string name="tab_opened_background_in_incognito">Владка открыта в режиме инкогнито</string>
      <string name="tab_quicklinks">Ссылки</string>
      <string name="tab_snapshots">Сохраненные страницы</string>
      <string name="tab_yellowpage">Категории</string>
@@ -603,10 +613,10 @@
      <string name="website_settings_clear_all">Удалить все</string>
      <string name="website_settings_clear_all_dialog_cancel_button">Отмена</string>
      <string name="website_settings_clear_all_dialog_message">Удалить все данные веб-сайта и разрешения на доступ к сведениям о вашем местоположении?</string>
-     <string name="website_settings_clear_all_dialog_ok_button">ОК</string>
+     <string name="website_settings_clear_all_dialog_ok_button">OK</string>
      <string name="webstorage_clear_data_dialog_cancel_button">Отмена</string>
      <string name="webstorage_clear_data_dialog_message">Удалить все данные, сохраненные этим веб-сайтом?</string>
-     <string name="webstorage_clear_data_dialog_ok_button">ОК</string>
+     <string name="webstorage_clear_data_dialog_ok_button">OK</string>
      <string name="webstorage_clear_data_title">Удалить сохраненные данные</string>
      <string name="webstorage_origin_summary_mb_stored">Объем занятой памяти телефона (МБ)</string>
      <string name="webstorage_outofspace_notification_text">Нажмите, чтобы освободить место</string>

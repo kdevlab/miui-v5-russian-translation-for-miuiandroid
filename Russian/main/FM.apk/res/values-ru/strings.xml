@@ -113,13 +113,13 @@
      <string name="fm_command_timeout_title">Время ожидания вышло</string>
      <string name="fm_recorder_name">Запись</string>
      <string name="fm_tune_timeout_msg">Попробуйте перезагрузить телефон</string>
-     <string name="fmradio_airplane_mode_enable_at_begin">Невозможно запустить радио в режиме \"В самолете\"</string>
+     <string name="fmradio_airplane_mode_enable_at_begin">Невозможно запустить радио в режиме полета</string>
      <string name="fmradio_clear_confirm_msg">Сохраненные радиостанции будут удалены. Продолжить сканирование?</string>
      <string name="fmradio_found_format">%s МГц…</string>
      <string name="fmradio_found_station">Найдено станций: %d</string>
      <string name="fmradio_in_calling_at_begin">Невозможно запустить радио во время разговора</string>
      <string name="fmradio_no_headset_in_listen">Перед использованием радио подключите наушники</string>
-     <string name="fmradio_on_airplane_mode_in_listen">Во время прослушивания был включен режим \"В самолете\", радио было автоматически остановлено</string>
+     <string name="fmradio_on_airplane_mode_in_listen">Во время прослушивания был включен режим полета, радио было автоматически остановлено</string>
      <string name="fmradio_scan_begin_msg">Сканировать</string>
      <string name="fmradio_service_label">Радио</string>
      <string name="fmradio_waiting_for_power_on">Радио запускается, подождите…</string>
@@ -229,7 +229,7 @@
      <string name="stations_list">Список радиостанций</string>
      <string name="stations_list_empty">Список пуст</string>
      <string name="status_recording">Запись: %s</string>
-     <string name="status_recording_time">(Запись: %s)</string>
+     <string name="status_recording_time">(запись: %s)</string>
      <string name="test_menu">Выбрать тест</string>
      <string name="test_prompt">Выберать тест</string>
      <string name="test_run">Запуск теста</string>
@@ -243,8 +243,7 @@
      <string name="toast_channel_added1">Дабвлено в сохраненные каналы</string>
      <string name="toast_channel_deleted">Удалено из избранного</string>
      <string name="toast_channel_deleted1">Удалено из сохраненных каналов</string>
-     <string name="toast_channel_searched">Найдено станций: %1$d</string>
-     <string name="toast_delete_station">%sМГц удалена</string>
+     <string name="toast_delete_station">%s МГц удалена</string>
      <string name="toast_delete_station_fail">Ошибка удаления станции</string>
      <string name="toast_edit_save_station_fail">Ошибка сохранения станции</string>
      <string name="toast_edit_station">Изменения сохранены</string>
