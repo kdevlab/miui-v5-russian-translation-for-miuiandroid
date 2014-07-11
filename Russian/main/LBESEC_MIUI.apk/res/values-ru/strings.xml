@@ -151,7 +151,7 @@
      <string name="HIPS_Perm_PhoneID_IMEISN">получить IMEI/SN</string>
      <string name="HIPS_Perm_PhoneID_IMSI">получить номер IMSI</string>
      <string name="HIPS_Perm_PhoneID_Number">получить ваш телефонный номер</string>
-     <string name="HIPS_Perm_PromptAll">Запрос всего</string>
+     <string name="HIPS_Perm_PromptAll">Спрашивать все</string>
      <string name="HIPS_Perm_ROOT">Суперпользователь</string>
      <string name="HIPS_Perm_ROOT_Desc">Запрос на доступ от имени суперпользователя</string>
      <string name="HIPS_Perm_ROOT_Desc_Stable">Недоступно в стабильной версии MIUI</string>
@@ -191,7 +191,7 @@
      <string name="HIPS_Perm_VideoRecorder">Запись видео</string>
      <string name="HIPS_Perm_VideoRecorder_Desc">Доступ к записи видео</string>
      <string name="HIPS_Perm_VideoRecorder_Hint">Приложения, имеющие доступ к записи видео: %1$s</string>
-     <string name="HIPS_Perm_WIFINetwork">Wi-Fi</string>
+     <string name="HIPS_Perm_WIFINetwork">подключиться к Wi-Fi</string>
      <string name="HIPS_Perm_WIFINetwork_Desc">Доступ в интернет по Wi-Fi</string>
      <string name="HIPS_Perm_WIFINetwork_Hint">Приложения, имеющие доступ в интернет по Wi-Fi: %1$s</string>
      <string name="HIPS_Perm_WIFI_Connectivity">Wi-Fi</string>
