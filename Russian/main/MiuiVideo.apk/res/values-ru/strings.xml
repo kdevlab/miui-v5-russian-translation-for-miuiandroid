@@ -11,7 +11,7 @@
      <string name="add_review">Добавить отзыв</string>
 	 <string name="addon" />
      <string name="addon_category">Специальное</string>
-     <string name="addon_install_complete_disc">您已完成%s专区插件的安装，您可直接启动进入专区，或从“我的视频”里进入专区</string>
+     <string name="addon_install_complete_disc">Нажмите, чтобы установить %s</string>
      <string name="addon_update_desc">Найдена новая версия. Обновить?</string>
      <string name="adjust_position_next_media_notice">Далее</string>
      <string name="adjust_position_prev_media_notice">Назад</string>
@@ -134,7 +134,7 @@
      <string name="fullscreen_to_play">Полный экран</string>
      <string name="funshion">Funshion</string>
      <string name="gong_count_dlna">DLNA: %d</string>
-	 <string name="gong_count_netdevice">Сетевых устройств: %d</string>
+	 <string name="gong_count_netdevice">Устройств: %d</string>
      <string name="gong_count_xiang">Файлов: %d</string>
      <string name="good">OK</string>
      <string name="have_no_cameravideo">Нет видео</string>
@@ -218,7 +218,7 @@
      <string name="mydlna">Мое DLNA</string>
      <string name="myfavorite">Избранное</string>
      <string name="myfavorite_onlylocal">Избранное</string>
-	 <string name="net_device_name">Сетевое устройство</string>
+	 <string name="net_device_name">Сетевые устройства</string>
      <string name="netease">NetEase</string>
      <string name="network_setting">Сеть</string>
      <string name="no_comment_tip">Нельзя отправить пустой комментарий</string>
@@ -359,9 +359,9 @@
      <string name="visit_postfix">| недавно посещенные</string>
      <string name="vp_full_high_definition">1080P</string>
      <string name="vp_high_definition">HD</string>
-     <string name="vp_next_ci">Далее</string>
+     <string name="vp_next_ci">След.</string>
      <string name="vp_offline">Офлайн</string>
-     <string name="vp_select_ci">Серии</string>
+     <string name="vp_select_ci">Список</string>
      <string name="vp_standard_definition">SD</string>
      <string name="vp_super_definition">UHD</string>
      <string name="vp_VideoView_error_button">OK</string>
