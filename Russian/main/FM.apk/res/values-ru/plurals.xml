@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="toast_channel_searched">
+        <item quantity="other">Найдено станций: %1$d</item>
+        <item quantity="one">Найдено станций: 1</item>
+    </plurals>
+</resources>
