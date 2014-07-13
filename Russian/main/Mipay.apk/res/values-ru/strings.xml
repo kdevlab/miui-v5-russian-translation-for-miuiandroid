@@ -5,13 +5,13 @@
     <string name="mipay_error_auth">Ошибка входа в аккаунт. Повторите еще раз.</string>
     <string name="mipay_error_server">Ошибка сервера. Повторите позже.</string>
     <string name="mipay_error_common">Системная ошибка. Повторите позже.</string>
-    <string name="mipay_error_account_changed">"Your account info has changed.
-Please log in again."</string>
-    <string name="mipay_error_cert_date">"Certificate date error. 
-Please check your local date and try again."</string>
-    <string name="mipay_format_time">MMM dd, yyyy hh:mmaa</string>
-    <string name="mipay_format_date">MMM. dd, yyyy</string>
-    <string name="mipay_denom_unit">RMB</string>
+    <string name="mipay_error_account_changed">"Данные Вашего аккаунта изменились.
+Повторите еще раз."</string>
+    <string name="mipay_error_cert_date">"Истек либо не наступил срок действия сертификата. 
+Проверьте корректность даты в настройках и повторите снова."</string>
+    <string name="mipay_format_time">dd.MMM.yyyy hh:mmaa</string>
+    <string name="mipay_format_date">dd.MMM.yyyy</string>
+    <string name="mipay_denom_unit">￥</string>
     <string name="mipay_button_pay">Оплатить</string>
     <string name="mipay_button_next">Далее</string>
     <string name="mipay_button_cancel">Отмена</string>
@@ -22,7 +22,7 @@ Please check your local date and try again."</string>
     <string name="mipay_common_license">Пользовательское соглашение</string>
     <string name="mipay_update_title">Есть обновление Mipay!</string>
     <string name="mipay_button_update">Обновить</string>
-    <string name="mipay_create_order_progress">Создане заказа…</string>
+    <string name="mipay_create_order_progress">Создание заказа…</string>
     <string name="mipay_order_title">Продукт:</string>
     <string name="mipay_order_id">Заказ:</string>
     <string name="mipay_pay_type_hint">Выберите метод оплаты</string>
@@ -31,7 +31,7 @@ Please check your local date and try again."</string>
     <string name="mipay_bank_card_item">%1$s (номер карты %2$s)</string>
     <string name="mipay_alipay_error">Ошибка Alipay</string>
     <string name="mipay_bank_card_hint">Введите номер аккаунта</string>
-    <string name="mipay_bank_card_safe_info">This service is encrypted and authorized by Xiaomi and Bank</string>
+    <string name="mipay_bank_card_safe_info">Эта услуга зашифрована и авторизирована Xiaomi и Вашим банком</string>
     <string name="mipay_bank_card_number_error">Проверьте номер аккаунта</string>
     <string name="mipay_bank_card_support_list">Поддерживаемые банки</string>
     <string name="mipay_bank_card_logo_desc">Логотип банка</string>
@@ -40,15 +40,15 @@ Please check your local date and try again."</string>
     <string name="mipay_bank_card_type_credit">Кредитная карта</string>
     <string name="mipay_bank_card_tail_number">Номер карты %1$s</string>
     <string name="mipay_bank_card_name">Имя</string>
-    <string name="mipay_bank_card_name_hint">Name associated with the account</string>
-    <string name="mipay_bank_card_id_card">ID card no.</string>
-    <string name="mipay_bank_card_id_card_hint">ID card no. associated with the account</string>
+    <string name="mipay_bank_card_name_hint">Имя, связанное с аккаунтом</string>
+    <string name="mipay_bank_card_id_card">Номер карты</string>
+    <string name="mipay_bank_card_id_card_hint">Номер карты, привязанной к аккаунту</string>
     <string name="mipay_bank_card_cvv2">CVV2</string>
     <string name="mipay_bank_card_cvv2_hint">CVV2</string>
     <string name="mipay_bank_card_valid_date">Срок действия</string>
     <string name="mipay_bank_card_valid_date_hint">MM/YY</string>
     <string name="mipay_bank_card_phone">Телефон</string>
-    <string name="mipay_bank_card_phone_hint">"Bank account's corresponding personal phone number"</string>
+    <string name="mipay_bank_card_phone_hint">Номер телефона, привязанный к аккаунту</string>
     <string name="mipay_bank_card_info_error">Проверьте информацию о карте</string>
     <string name="mipay_sms_captcha_error">Проверьте проверочный код</string>
     <string name="mipay_check_sms_captcha_summary">Проверочный код отправлен на номер %1$s</string>
@@ -65,7 +65,7 @@ Please check your local date and try again."</string>
     <string name="mipay_pay_check_password_title">Введите пароль оплаты</string>
     <string name="mipay_pay_check_cvv2_title">Введите CVV2</string>
     <string name="mipay_pay_check_sms_captcha_title">Введите проверочный код</string>
-    <string name="mipay_pay_order_denom_summary">Цена: ￥%1$s</string>
+    <string name="mipay_pay_order_denom_summary">Цена: %1$s￥</string>
     <string name="mipay_pay_sms_captcha_summary">Проверочный код отправлен на %1$s</string>
     <string name="mipay_pay_cvv2_error">Проверьте CVV2</string>
     <string name="mipay_query_wait">Оплата</string>
@@ -73,10 +73,10 @@ Please check your local date and try again."</string>
     <string name="mipay_query_failed">Покупка завершена</string>
     <string name="mipay_query_timeout">Тайм-аут оплаты</string>
     <string name="mipay_query_timeout_contact">Пожалуйста, свяжитесь с нашей справочной службой</string>
-    <string name="mipay_button_count_down">Повторно через %1$s сек.</string>
+    <string name="mipay_button_count_down">Повтор через %1$s сек.</string>
     <string name="mipay_bank_cards">Банковские карты</string>
     <string name="mipay_bank_cards_title">Мои карты</string>
-    <string name="mipay_bank_cards_add">Добавить крату</string>
+    <string name="mipay_bank_cards_add">Добавить карту</string>
     <string name="mipay_bank_cards_item_bank_title">%1$s%2$s</string>
     <string name="mipay_bank_cards_item_bank_number">**** **** **** %1$s</string>
     <string name="mipay_button_unbind_bank_card">Отвязать</string>
@@ -86,20 +86,20 @@ Please check your local date and try again."</string>
     <string name="mipay_setting_title">Настройки безопасности</string>
     <string name="mipay_setting_title_password">Пароль оплаты</string>
     <string name="mipay_setting_modify_password">Изменить пароль оплаты</string>
-    <string name="mipay_setting_forget_password">Forgot payment password</string>
+    <string name="mipay_setting_forget_password">Забыли пароль?</string>
     <string name="mipay_check_personal_info_name">Имя</string>
     <string name="mipay_check_personal_info_name_hint">Ваше имя</string>
-    <string name="mipay_check_personal_info_id_card">ID card no.</string>
-    <string name="mipay_check_personal_info_id_card_hint">Ваш ID card no.</string>
+    <string name="mipay_check_personal_info_id_card">Номер карты</string>
+    <string name="mipay_check_personal_info_id_card_hint">Номер Вашей карты</string>
     <string name="mipay_check_personal_info_phone">Телефон</string>
-    <string name="mipay_check_personal_info_phone_hint">"Bank account's corresponding phone number"</string>
-    <string name="mipay_check_personal_info_error">Please check your personal information</string>
-    <string name="mipay_process_expired">Your operation has expired, please restart</string>
+    <string name="mipay_check_personal_info_phone_hint">Номер телефона, привязанный к аккаунту</string>
+    <string name="mipay_check_personal_info_error">Пожалуйста, проверьте Вашу личную информацию</string>
+    <string name="mipay_process_expired">Срок действия операции истек, повторите снова</string>
     <string name="mipay_cancel_pay">Отменить покупку?</string>
     <string name="mipay_cancel_bind_bank_card">Отменить привязку карты?</string>
     <string name="mipay_cancel_unbind_bank_card">Отменить отвязку карты?</string>
     <string name="mipay_cancel_modify_password">Отменить изменение пароля оплаты?</string>
-    <string name="mipay_cancel_forget_password">Give up finding out your payment password?</string>
+    <string name="mipay_cancel_forget_password">Отказаться от восстановления пароля оплаты?</string>
     <string name="mipay_process_pay">Оплата</string>
     <string name="mipay_process_bind_bank_card">Привязать карту</string>
     <string name="mipay_process_unbind_bank_card">Отвязать карту</string>

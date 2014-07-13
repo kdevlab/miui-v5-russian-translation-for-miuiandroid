@@ -77,7 +77,7 @@
      <string name="HIPS_Perm_AdjustVolumeInCall">регулировать громкость при вызове</string>
      <string name="HIPS_Perm_AllowAll">Разрешить все</string>
      <string name="HIPS_Perm_AnswerCall">ответить на поступивший вызов</string>
-     <string name="HIPS_Perm_AudioRecorder">записи звука</string>
+     <string name="HIPS_Perm_AudioRecorder">Запись звука</string>
      <string name="HIPS_Perm_AudioRecorder_Desc">Доступ к записи звука</string>
      <string name="HIPS_Perm_AudioRecorder_Hint">Приложения, имеющие доступ к записи звука: %1$s</string>
      <string name="HIPS_Perm_AutoStart">Автозапуск</string>

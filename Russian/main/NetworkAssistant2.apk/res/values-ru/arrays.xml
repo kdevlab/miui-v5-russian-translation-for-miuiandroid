@@ -40,12 +40,12 @@
      <string-array name="traffic_sort_type">
         <item>"3G "</item>
         <item>"Wi-Fi "</item>
-        <item>"Сэкономленный "</item>
+        <item>"Сэкономлено "</item>
      </string-array>
 	 <string-array name="traffic_type">
         <item>"трафик 3G "</item>
         <item>"трафик Wi-Fi "</item>
-        <item>"сэкономленный "</item>
+        <item>"сэкономлено "</item>
      </string-array>
      <string-array name="traffic_uints">
         <item>Б</item>
