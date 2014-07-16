@@ -127,7 +127,7 @@
      <string name="account_setup_incoming_security_ssl_trust_certificates_label">SSL/TLS (принимать все сертификаты)</string>
      <string name="account_setup_incoming_security_tls_label">STARTTLS</string>
      <string name="account_setup_incoming_security_tls_trust_certificates_label">STARTTLS (принимать все сертификаты)</string>
-     <string name="account_setup_incoming_server_label">" сервер"</string>
+     <string name="account_setup_incoming_server_label">Сервер</string>
      <string name="account_setup_incoming_title">Настройки аккаунта</string>
      <string name="account_setup_incoming_username_label">Имя пользователя</string>
      <string name="account_setup_names_account_name_label">Присвойте этому аккаунту название (по желанию)</string>
@@ -143,6 +143,7 @@
      <string name="account_setup_options_mail_check_frequency_1hour">Каждый час</string>
      <string name="account_setup_options_mail_check_frequency_30min">Каждые 30 минут</string>
      <string name="account_setup_options_mail_check_frequency_5min">Каждые 5 минут</string>
+	 <string name="account_setup_options_mail_check_frequency_imap_push">Автоматически(если поддерживается)</string>
      <string name="account_setup_options_mail_check_frequency_label">Частота проверки папки входящие</string>
      <string name="account_setup_options_mail_check_frequency_never">Никогда</string>
      <string name="account_setup_options_mail_check_frequency_push">Автоматически (принудительно)</string>

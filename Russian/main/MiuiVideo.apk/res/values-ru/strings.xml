@@ -278,6 +278,8 @@
      <string name="pps">PPS</string>
      <string name="pptv">PPTV</string>
 	 <string name="prex_playcount">Смотрелось:</string>
+	 <string name="priority_storage">Исп. внешнюю SD-карту</string>
+     <string name="priority_storage_summary">Функция вступает в силу при использовании внешней SD-карты</string>
      <string name="publish">Отправить</string>
      <string name="qiyi">iQiyi</string>
      <string name="quarter_bell_alert_button_cancel">Отмена</string>

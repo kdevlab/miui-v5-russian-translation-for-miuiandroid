@@ -412,6 +412,10 @@
         <item>Музыка</item>
         <item>Почта</item>
      </string-array>
+	 <string-array name="priority_storage_entries">
+        <item>Внутренняя память</item>
+        <item>Внешняя память</item>
+     </string-array>
 	 <string-array name="ram_states">
         <item>нормальный</item>
         <item>умеренный</item>

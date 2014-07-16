@@ -177,6 +177,7 @@
      <string name="traffic_protection_unknown"><u>Настроить позже</u></string>
      <string name="traffic_protection_use_data">Включить интернет</string>
 	 <string name="traffic_saving_button_sorted">Статистика</string>
+	 <string name="traffic_saving_button_sorted_chose_simcard">SIM-карта</string>
      <string name="traffic_saving_button_start">Запустить</string>
      <string name="traffic_saving_button_stop">Остановить</string>
      <string name="traffic_saving_history_title">История</string>

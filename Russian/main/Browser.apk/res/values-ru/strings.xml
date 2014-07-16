@@ -96,8 +96,11 @@
      <string name="clip_dialog_title">Открыть скопированную ссылку?</string>
      <string name="close_all_tab_alert_message">Закрыть все вкладки?</string>
      <string name="close_all_tab_alert_title">Подтверждение закрытия</string>
+	 <string name="close_cloud_tab_tip">Закрыть облачные вкладки на %s?</string>
 	 <string name="cloud_loading_tips">Потяните, чтобы синхронизировать</string>
      <string name="cloud_no_new_data_toast">Нет новых данных</string>
+	 <string name="cloud_sync_closed_toast">Облачная синзронизация отключена</string>
+     <string name="cloud_sync_failed_toast">Ошибка. Повторите еще раз.</string>
      <string name="cloud_tab">Облачная вкладка</string>
 	 <string name="cloud_time_tips">Обновлено</string>
      <string name="cloud_up_to_loading_tips">Отпустите, чтобы синхронизировать</string>

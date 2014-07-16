@@ -48,6 +48,7 @@
      <string name="data_error">Услуга не доступна. Повторите попытку позже.</string>
      <string name="delete">Удалить</string>
      <string name="do_not_remind_me">Не напоминать</string>
+	 <string name="dont_enable">Не включать</string>
      <string name="download_completed">Загрузка завершена. Путь SD-карта: %s.</string>
      <string name="download_failed">Ошибка загрузки</string>
      <string name="download_failed_blocked">Ошибка. Не удается подключиться к сети.</string>
@@ -59,6 +60,7 @@
      <string name="download_failed_space">Ошибка загрузки. Недостаточно места.</string>
      <string name="download_failed_storage">Скачать не удалось. Проверьте SD-карту.</string>
      <string name="downloading">Загрузка…</string>
+	 <string name="enable_now">Включить</string>
      <string name="exapress_save_address_to_contact">Сохранить адрес в контакты</string>
      <string name="express_add_new_address">Добавить адрес</string>
      <string name="express_address_delete_warning">Вы уверены?</string>
@@ -109,6 +111,7 @@
      <string name="express_inquiry_logistics_indication">Служба доставки</string>
      <string name="express_inquiry_no_history">Пусто</string>
      <string name="express_inquiry_no_result">Нет результатов</string>
+	 <string name="express_inquiry_provider_info">При поддержке</string>
      <string name="express_inquiry_serial_number_indication">Номер отправления</string>
      <string name="express_inquiry_serial_number_prefix">"Номер: "</string>
      <string name="express_no_address">Пусто</string>
@@ -172,7 +175,7 @@ Custom service will contact you in a moment</string>
      <string name="group_name_data_source">Источник</string>
      <string name="group_name_gallery">Галерея</string>
      <string name="group_name_group_buying">Гропповые покупки</string>
-     <string name="group_name_other">Разное</string>
+     <string name="group_name_more">Разное</string>
      <string name="group_name_review">Просмотров (всего: %s)</string>
      <string name="group_name_service">Служба</string>
      <string name="locating_fail">Не удалось обнаружить. Проверьте настройки местоположения и повторите.</string>
@@ -203,7 +206,6 @@ Custom service will contact you in a moment</string>
      <string name="network_unavaliable">Сеть не доступна. Проверьте настройки сети.</string>
      <string name="no_more_result">Ничего не найдено</string>
      <string name="notfiy_connect_title">Резрешение сети</string>
-     <string name="notices_and_terms">Правовые аспекты и условия использования</string>
      <string name="notify_connect_summary">Спрашивать перед подключением к сети</string>
      <string name="order_empty_hint">Нет заказов</string>
      <string name="order_id">ID заказа:%s</string>
