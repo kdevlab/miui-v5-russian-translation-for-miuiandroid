@@ -400,7 +400,6 @@
      <string-array name="power_mode_entries">
         <item>Производительный</item>
         <item>Сбалансированный</item>
-        <item>Энергосберегающий</item>
      </string-array>
      <string-array name="preferred_app_entries">
         <item>Рабочий стол</item>
