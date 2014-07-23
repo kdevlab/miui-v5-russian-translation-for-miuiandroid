@@ -532,6 +532,9 @@
      <string name="outbox_alert_button_confirm">Изменить</string>
      <string name="outbox_alert_button_no_resend">Не отправлять</string>
      <string name="outbox_alert_button_resend">Отправить</string>
+	 <string name="outbox_alert_description_auth_error">Причина: ошибка авторизации с сервера во время синхрон. исходящих сообщений</string>
+     <string name="outbox_alert_description_http_error">Причина: HTTP ошибка с сервера во время синхрон. исходящих сообщений</string>
+     <string name="outbox_alert_description_provision_error">Причина: ошибка предоставления с сервера во время синхрон. исходящих сообщений</string>
      <string name="outbox_alert_description_sent_failed">"Причина: вложение к письму 
 превышает максимальный размер"</string>
      <string name="outbox_alert_mailbox_not_found">Адрес электронной почты не найден</string>

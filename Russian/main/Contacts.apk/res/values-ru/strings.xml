@@ -1159,6 +1159,7 @@
      <string name="yellowpage_navigation_search_city_name_hint">Город</string>
      <string name="yellowpage_navigation_search_hint">Поиск</string>
      <string name="yellowpage_navigation_search_offline_hint">Нет доступа в интерент</string>
+	 <string name="yellowpage_navigation_search_result_average_price">В среднем %d RMB</string>
      <string name="yellowpage_navigation_search_result_network_error">Ошибка подключения к сети</string>
      <string name="yellowpage_navigation_search_result_no_more">Больше ничего нет</string>
      <string name="yellowpage_navigation_search_result_service_error">Сервис недоступен</string>

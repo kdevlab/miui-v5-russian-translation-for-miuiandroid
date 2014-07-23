@@ -136,8 +136,7 @@
      <string name="status_bar_toggle_lock">Блокировка</string>
      <string name="status_bar_toggle_mute">Без звука</string>
      <string name="status_bar_toggle_network_type">Тип сети</string>
-     <string name="status_bar_toggle_power_high">Производительность</string>
-     <string name="status_bar_toggle_power_low">Энергосбережение</string>
+     <string name="status_bar_toggle_power_high">Производ.</string>
      <string name="status_bar_toggle_power_mid">Обычный</string>
      <string name="status_bar_toggle_power_mode">Режим питания</string>
      <string name="status_bar_toggle_privacy_mode">Гость</string>

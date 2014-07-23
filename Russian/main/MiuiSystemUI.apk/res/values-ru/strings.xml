@@ -232,8 +232,7 @@ d MMMM yyyy"</string>
      <string name="status_bar_toggle_mute">Без звука</string>
      <string name="status_bar_toggle_network_type">Тип сети</string>
      <string name="status_bar_toggle_power_high">Произв.</string>
-     <string name="status_bar_toggle_power_low">Сбережение</string>
-     <string name="status_bar_toggle_power_mid">Баланс</string>
+     <string name="status_bar_toggle_power_mid">Обычный</string>
      <string name="status_bar_toggle_power_mode">Режим питания</string>
      <string name="status_bar_toggle_privacy_mode">Гость</string>
      <string name="status_bar_toggle_quiet_mode">Тихий режим</string>

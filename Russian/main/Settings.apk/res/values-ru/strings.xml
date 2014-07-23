@@ -1209,7 +1209,7 @@
      <string name="emergency_tone_summary">Настроить режим работы при экстренном вызове</string>
      <string name="emergency_tone_title">Тональный сигнал экстренного вызова</string>
      <string name="empty_folder_title">Пустые папки (%d)</string>
-     <string name="empty_folder_title_hints">Пустая папка</string>
+     <string name="empty_folder_title_hints">Пустые папки</string>
      <string name="empty_list_msg">Нет приложений сторонних разработчиков</string>
      <string name="emptylist_fwlog_call">Здесь будут отображаться все заблокированные вызовы</string>
      <string name="emptylist_fwlog_ms">Здесь буду отображаться все заблокированные сообщения</string>
@@ -1224,6 +1224,7 @@
      <string name="enable_compatibility">Масштабировать приложения</string>
      <string name="enable_drive_mode">Включить режим за рулем</string>
      <string name="enable_firewall">Блокировать нежелательные вызовы</string>
+	 <string name="enable_mobile_data_when_opening_hotspot">Включать так же мобильный интернет?</string>
      <string name="enable_gps">Включить GPS</string>
      <string name="enable_gps_confirm_message">Необходимо подключение к интернету для получения данных GPS (EPO, A-GPS). Включить GPS?</string>
      <string name="enable_opengl_traces_title">Трассировка OpenGL</string>
@@ -3365,7 +3366,7 @@
      <string name="total_size">всего %s</string>
      <string name="total_size_label">Всего</string>
      <string name="touch_sensitive_summary">Повышает чувствительность сенсора для лучшего использования устройства в перчатках</string>
-     <string name="touch_sensitive_title">Режим в перчатках</string>
+     <string name="touch_sensitive_title">Чувствительный сенсор</string>
      <string name="touch_sensitive_turn_off_cancel">Отмена</string>
      <string name="touch_sensitive_turn_off_confirm">OK</string>
      <string name="touch_sensitive_turn_off_summary">Отключить выбранный режим?</string>
@@ -3585,7 +3586,7 @@
      <string name="user_dict_settings_context_menu_delete_title">Удалить</string>
      <string name="user_dict_settings_context_menu_edit_title">Изменить</string>
      <string name="user_dict_settings_edit_dialog_title">Изменить слово</string>
-     <string name="user_dict_settings_empty_text">Словарь пользователя пуст. Добавьте слово с помощью кнопки добавить(+).</string>
+     <string name="user_dict_settings_empty_text">Словарь пользователя пуст. Добавьте слово с помощью кнопки добавить. (+)</string>
      <string name="user_dict_settings_more_languages">Больше языков…</string>
      <string name="user_dict_settings_summary">""</string>
      <string name="user_dict_settings_title">Пользовательский словарь</string>

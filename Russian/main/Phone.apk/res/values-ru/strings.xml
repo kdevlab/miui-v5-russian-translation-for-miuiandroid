@@ -557,6 +557,7 @@
      <string name="fdn_contact_name_number_invalid">Название и номер не могут быть пустыми</string>
      <string name="fdn_contact_number_invalid">Неправильный номер</string>
      <string name="fdn_contact_updated">Номер ограниченного набора обновлен</string>
+	 <string name="fdn_contacts_empty_miui">Нет контактов</string>
      <string name="fdn_disabled">Разрешенные номера отключены</string>
      <string name="fdn_disabled_miui">Разрешенные номера отключены</string>
      <string name="fdn_enable_puk2_requested">Неверный пароль. Измените код PIN2 и повторите попытку</string>
@@ -677,6 +678,8 @@
      <string name="ip_prefix_setting_sum">Настройки IP префикса</string>
      <string name="ip_prefix_sum_miui">Префикс оператора: %s</string>
 	 <string name="ivr_menu_dialing_msg">Переадресация…</string>
+	 <string name="ivr_menu_dialing_msg_no_mute">Передача в выбранную услугу (игнорируйте сообщения об ошибках)…</string>
+	 <string name="ivr_menu_list_sub_menu_count_format">Нажми %s</string>
      <string name="ivr_menu_list_title">Голосовое меню</string>
      <string name="jituan_number_format_error_message_miui">%s поддерживает только цифры и символы</string>
      <string name="labelCDMAMore">Настройки вызовов CDMA</string>

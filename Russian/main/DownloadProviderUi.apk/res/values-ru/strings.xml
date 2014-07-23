@@ -1,12 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Builded with NXT -->
 <resources>
-     <string name="all_downloads">Все загрузки</string>
+     <string name="Only_the_wifi">Действует только при Wi-Fi</string>
+	 <string name="all_downloads">Все загрузки</string>
+	 <string name="all_the_internet">Все сети</string>
      <string name="app_downloads">Загрузки от приложения: %s</string>
      <string name="app_label">Загрузки</string>
+	 <string name="auth_activity_title">Аккаунт Xunlei</string>
+     <string name="bind_xunlei_account">Привязать аккаунт xunlei ></string>
      <string name="button_sort_by_date">Сортировать по дате</string>
      <string name="button_sort_by_size">Сортировать по размеру</string>
      <string name="cancel_running_download">Отмена</string>
+	 <string name="cancle">Отмена</string>
+     <string name="choose_open_time">Пожалуйста, выберите время открытия</string>
      <string name="confirm_delete_downloads_message">"Очистить выбранные загрузки?
 
 Загрузок: %d"</string>
@@ -15,6 +21,7 @@
      <string name="delete_downloads_records">Удалить все загрузки</string>
      <string name="delete_the_downloaded_file">Удалить загруженные файлы</string>
      <string name="deselect_all">Очистить</string>
+	 <string name="determine">OK</string>
      <string name="dialog_cannot_resume">Загрузка прервана. Она не может быть возобновлена.</string>
      <string name="dialog_failed_body">Вы хотите повторить загрузку файла позже или удалить его из очереди?</string>
      <string name="dialog_file_already_exists">Не могу скачать. Файл уже существует.</string>
@@ -26,12 +33,24 @@
      <string name="dialog_queued_body">Этот файл в очереди на скачивание</string>
      <string name="dialog_title_not_available">Ошибка загрузки</string>
      <string name="dialog_title_queued_body">Файл не доступен</string>
+	 <string name="disable">Отключить</string>
      <string name="download_complete">Скачанные</string>
      <string name="download_error">Ошибка</string>
      <string name="download_error_insufficient_space">Недостаточно места</string>
      <string name="download_in_process">В процессе</string>
      <string name="download_info_count_deleted_tasks">Загрузок удалено: %s</string>
      <string name="download_info_start_deleted_tasks">Подготовка к удалению</string>
+	 <string name="download_list_get_free_vip">Пробный Xunlei</string>
+     <string name="download_list_get_hightspeed_flow_auto_open">Ускорение загрузок Xunlei включено</string>
+     <string name="download_list_get_hightspeed_flow_pay_ok">Оплата завершена</string>
+     <string name="download_list_get_hightspeed_flow_sucess_head">Пробная сессия Xunlei сознада</string>
+     <string name="download_list_get_hightspeed_flow_sucess_tail">Наслаждайтесь более быстрой скоростью загрузки благодаря Xunlei</string>
+     <string name="download_list_intoAuth">Авторизация в MIUI</string>
+     <string name="download_list_intoAuthAlert">Подождите</string>
+     <string name="download_list_open_xl_cancel">Отмена</string>
+     <string name="download_list_open_xl_message">Включите двигатель загрузок Xunlei, чтобы воспользоваться неограниченным высокоскоростным сервисом загрузок</string>
+     <string name="download_list_open_xl_ok">OK</string>
+     <string name="download_list_open_xl_title">Движок загрузок Xunlei</string>
      <string name="download_no_application_title">Не могу открыть файл</string>
      <string name="download_paused">Загрузка приостановлена</string>
      <string name="download_pending">Дождитесь загрузки</string>
@@ -44,14 +63,30 @@
      <string name="download_title_sorted_by_size">По размеру</string>
      <string name="download_when_network_connected">Будет использоваться также мобильная сеть</string>
      <string name="downloads_operating">Загрузка…</string>
+	 <string name="dredge_xunlei_account">Создать аккаунт Xunlei</string>
      <string name="editmode_menu_delete">Удалить</string>
      <string name="editmode_menu_share">Отправить</string>
+	 <string name="experience_xunlei_account_speed">Аккаунт Xunlei</string>
+     <string name="free_high_speed_channel">Доступно данных</string>
+     <string name="get_account_dialog_msg">Получение информации акаунта</string>
+     <string name="get_order_dialog_msg">Получене информации о заказе</string>
+     <string name="get_order_fail_msg">Ошибка получения заказа</string>
+     <string name="high_speed_channel">Высокоскоростной канал данных</string>
+     <string name="immediately_a_renewal">Немедленное обновление</string>
      <string name="keep_queued_download">Оставить</string>
+	 <string name="member_cost">Ежегодная оплата</string>
+     <string name="menu_all_task_pause">Остановить все</string>
+     <string name="menu_all_task_start">Запустить все</string>
      <string name="menu_enter_edit_mode">Редактировать</string>
      <string name="menu_preferences">Настройки</string>
+	 <string name="mi_money">Mi деньги</string>
+     <string name="mi_money_">mi_money)</string>
      <string name="missing_title">Неизвестно</string>
      <string name="no_downloads">Нет загрузок</string>
+	 <string name="one_month">Месячная опалата</string>
      <string name="open_download">Открыть</string>
+	 <string name="open_xunlei_speed_service">Включить сервис ускорения</string>
+     <string name="original_price">(Original_price</string>
      <string name="pause_download">Пауза</string>
      <string name="paused_by_app">Приостановлено</string>
 	 <string name="paused_insufficient_space">В ожидании достаточного пространства</string>
@@ -59,6 +94,7 @@
      <string name="paused_unknown">Остановлено</string>
      <string name="paused_waiting_for_network">Ожидание сетевого подключения</string>
      <string name="paused_waiting_to_retry">Ожидание повтора</string>
+	 <string name="period_of_validity">Истекает:</string>
      <string name="pref_dialog_title_max_bytes_limit">Максимальный размер файла</string>
      <string name="pref_download_settings_title">Мобильный интернет</string>
      <string name="pref_summary_any_bytes_popup">Загружать файлы только по Wi-Fi</string>
@@ -77,7 +113,11 @@
      <string name="select_operation_items">Пожалуйста выберите</string>
      <string name="selected_count">Выбрано %1$d из %2$d</string>
      <string name="turn_off_xunlei_message">После отключения возможна более медленная скорость загрузки</string>
+	 <string name="turn_off_xunlei_tips">Сервис ускорения Xunlei отключен</string>
      <string name="turn_off_xunlei_title">Отключение движка Xunlei</string>
      <string name="xunlei_brand">При поддержке Xunlei</string>
+	 <string name="xunlei_member_annual_fee">Член Xunlei на год (platinum)</string>
+     <string name="xunlei_member_one_month">Член Xunlei на месяц (platinum)</string>
+     <string name="xunlei_speed_service">Сервис ускорения Xunlei</string>
      <string name="xunlei_switch">Движок загрузок Xunlei</string>
 </resources>
