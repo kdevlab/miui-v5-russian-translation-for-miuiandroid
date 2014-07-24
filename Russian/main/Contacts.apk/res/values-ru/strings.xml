@@ -200,12 +200,6 @@
      <string name="createContactShortcutSuccessful">Виджет контакта добавлен на рабой стол</string>
      <string name="create_group_dialog_title">Создание новой группы</string>
      <string name="create_group_item_label">Создать новую группу</string>
-	 <string name="cta_notice_checkbox">Больше не показывать</string>
-     <string name="cta_notice_new_contact_message">Сохранение контактов в аккаунт "%s" требует доступ к сети. Разрешить?</string>
-     <string name="cta_notice_ok">OK</string>
-     <string name="cta_notice_photo_message">Редактирование фото контактов с фотопакета требует доступ к сети. Разрешить?</string>
-     <string name="cta_notice_settings">Запрашивать доступ к сети</string>
-     <string name="cta_notice_title">Напоминание</string>
      <string name="customLabelPickerTitle">Название ярлыка</string>
      <string name="custom_list_filter">Настройка отображения</string>
      <string name="custom_nickname_hint">Введите титул (например: Мр. или Доктор)</string>

@@ -190,16 +190,16 @@
      <string name="traffic_saving_history_title">История</string>
      <string name="traffic_saving_history_total_money">Деньги</string>
      <string name="traffic_saving_history_total_money_unit">RMB</string>
-	 <string name="traffic_saving_history_total_month">За месяц</string>
-     <string name="traffic_saving_history_total_month_default">За месяц (пример)</string>
-     <string name="traffic_saving_history_total_month_value">"Прослушивание музыки &lt;font color='#45c487'>&lt;b>&lt;big>%1$s&lt;/big>&lt;/b>&lt;/font> / Чат &lt;font color='#45c487'>&lt;b>&lt;big>%2$s&lt;/big>&lt;/b>&lt;/font> ч. / Интернет серфинг &lt;font color='#45c487'>&lt;b>&lt;big>%3$s&lt;/big>&lt;/b>&lt;/font>"</string>
-     <string name="traffic_saving_history_total_month_value_default">"Прослушивание музыки &lt;font color='#45c487'>&lt;b>&lt;big>18&lt;/big>&lt;/b>&lt;/font> / Чат &lt;font color='#45c487'>&lt;b>&lt;big>10&lt;/big>&lt;/b>&lt;/font> ч. / Интернет серфинг &lt;font color='#45c487'>&lt;b>&lt;big>86&lt;/big>&lt;/b>&lt;/font>"</string>
+	 <string name="traffic_saving_history_total_month">"Сэкономлено за месяц: "</string>
+     <string name="traffic_saving_history_total_month_default">Средняя ежемесячная экономия:</string>
+     <string name="traffic_saving_history_total_month_value">"Слушай до &lt;font color='#45c487'>&lt;b>&lt;big>%1$s&lt;/big>&lt;/b>&lt;/font> песен / &lt;font color='#45c487'>&lt;b>&lt;big>%2$s&lt;/big>&lt;/b>&lt;/font> ч. чата / Читай новости: &lt;font color='#45c487'>&lt;b>&lt;big>%3$s&lt;/big>&lt;/b>&lt;/font>"</string>
+     <string name="traffic_saving_history_total_month_value_default">"Слушай до &lt;font color='#45c487'>&lt;b>&lt;big>18&lt;/big>&lt;/b>&lt;/font> песен / &lt;font color='#45c487'>&lt;b>&lt;big>10&lt;/big>&lt;/b>&lt;/font> часов чата / Читай новости: &lt;font color='#45c487'>&lt;b>&lt;big>86&lt;/big>&lt;/b>&lt;/font>"</string>
      <string name="traffic_saving_history_total_rate">Экономия</string>
      <string name="traffic_saving_history_total_rate_unit">%</string>
      <string name="traffic_saving_history_total_traffic">Трафик</string>
-     <string name="traffic_saving_msg_month">За месяц</string>
+     <string name="traffic_saving_msg_month">Экономия за месяц:</string>
 	 <string name="traffic_saving_msg_not_started">Не включено</string>
-     <string name="traffic_saving_msg_today">Сегодня</string>
+     <string name="traffic_saving_msg_today">Экономия сегодня:</string>
      <string name="traffic_saving_notify_start_content">За месяц %s</string>
      <string name="traffic_saving_notify_start_title">Экономия трафика</string>
      <string name="traffic_saving_tecsupport">При поддержке Opera Max</string>

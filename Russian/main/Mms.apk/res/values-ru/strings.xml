@@ -148,7 +148,11 @@
      <string name="festival">Поздравления</string>
      <string name="festival_sms_category_count_format">(%s)</string>
      <string name="festival_sms_loading">Загрузка…</string>
+	 <string name="file_create_time">Создан:</string>
      <string name="file_share_message_description">Я хочу поделиться с Вами файлами</string>
+	 <string name="file_size">Размер:</string>
+     <string name="file_title">Название:</string>
+     <string name="file_width_height">Размер:</string>
      <string name="forward_from">От:</string>
      <string name="forward_prefix">"От: "</string>
      <string name="found_old_messages">Найдено сообщений от предыдущего аккаунта: %1$s. Вы хотите загрузить их в текущий аккаунт %2$s?</string>
@@ -403,6 +407,7 @@ SMS (%1$d), MMS (%2$d)"</string>
      <string name="service_not_activated">Услуга не активирована в сети</string>
      <string name="set">Сохранить</string>
      <string name="set_smsc_address_title_miui">Установить номер SMS центра</string>
+	 <string name="share_img">Поделиться</string>
      <string name="show_all_messages">Показать все сообщения</string>
      <string name="sim_card1">SIM-карта 1</string>
      <string name="sim_card2">SIM-карта 2</string>
