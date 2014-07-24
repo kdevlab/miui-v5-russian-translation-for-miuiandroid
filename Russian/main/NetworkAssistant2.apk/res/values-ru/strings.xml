@@ -86,9 +86,14 @@
 использовано"</string>
      <string name="manual_input_free_traffic">Введите использованный трафик</string>
      <string name="manual_input_traffic">Введите использованный трафик</string>
+	 <string name="mi_service_app_detail">Трафик</string>
+     <string name="mi_service_framework">Mi Service Framework</string>
+     <string name="mi_service_framework_pkg">com.xiaomi.xmsf</string>
+     <string name="mi_service_traffic_detail">Информация</string>
      <string name="network_assistant_upgraded_body">Нажмите, чтобы ограничить использование данных</string>
      <string name="network_assistant_upgraded_title">Обновление завершено</string>
      <string name="network_control">Управление трафиком</string>
+	 <string name="none_mi_service_app_detail">Пусто</string>
      <string name="notification_content_title">Использовано %1$s во время блокировки</string>
      <string name="notification_title">%1$s-%2$s: исполь. около %3$s</string>
      <string name="ok_button">OK</string>
@@ -153,6 +158,8 @@
      <string name="pref_traffic_saving_switch">Экономия трафика</string>
      <string name="pref_traffic_saving_switch_hint">Использовать сжатие трафика при мобильном интернете</string>
      <string name="pref_traffic_saving_title">Экономия трафика</string>
+	 <string name="pref_traffic_saving_whitelist">Белый список</string>
+     <string name="pref_traffic_saving_whitelist_hint">Для этих приложений не будет ограничения трафика</string>
      <string name="pref_version">Версия %s</string>
      <string name="pref_warning_values">Порог предупреждения</string>
      <string name="right_precent">100%</string>
@@ -182,9 +189,16 @@
      <string name="traffic_saving_button_stop">Остановить</string>
      <string name="traffic_saving_history_title">История</string>
      <string name="traffic_saving_history_total_money">Деньги</string>
-     <string name="traffic_saving_history_total_money_unit" />
+     <string name="traffic_saving_history_total_money_unit">RMB</string>
+	 <string name="traffic_saving_history_total_month">За месяц</string>
+     <string name="traffic_saving_history_total_month_default">За месяц (пример)</string>
+     <string name="traffic_saving_history_total_month_value">"Прослушивание музыки &lt;font color='#45c487'>&lt;b>&lt;big>%1$s&lt;/big>&lt;/b>&lt;/font> / Чат &lt;font color='#45c487'>&lt;b>&lt;big>%2$s&lt;/big>&lt;/b>&lt;/font> ч. / Интернет серфинг &lt;font color='#45c487'>&lt;b>&lt;big>%3$s&lt;/big>&lt;/b>&lt;/font>"</string>
+     <string name="traffic_saving_history_total_month_value_default">"Прослушивание музыки &lt;font color='#45c487'>&lt;b>&lt;big>18&lt;/big>&lt;/b>&lt;/font> / Чат &lt;font color='#45c487'>&lt;b>&lt;big>10&lt;/big>&lt;/b>&lt;/font> ч. / Интернет серфинг &lt;font color='#45c487'>&lt;b>&lt;big>86&lt;/big>&lt;/b>&lt;/font>"</string>
+     <string name="traffic_saving_history_total_rate">Экономия</string>
+     <string name="traffic_saving_history_total_rate_unit">%</string>
      <string name="traffic_saving_history_total_traffic">Трафик</string>
-     <string name="traffic_saving_msg_month">За месяц %1$s (%2$s RMB)</string>
+     <string name="traffic_saving_msg_month">За месяц</string>
+	 <string name="traffic_saving_msg_not_started">Не включено</string>
      <string name="traffic_saving_msg_today">Сегодня</string>
      <string name="traffic_saving_notify_start_content">За месяц %s</string>
      <string name="traffic_saving_notify_start_title">Экономия трафика</string>
@@ -194,6 +208,13 @@
      <string name="traffic_saving_toast_start_none_mobile">Сжатие будет работать только с мобильным интернетом</string>
      <string name="traffic_saving_toast_start_unreachable">Ошибка включения</string>
      <string name="traffic_saving_toast_stop">Экономия трафика отключена</string>
+	 <string name="traffic_saving_whitelist_btn_add">Добавить</string>
+     <string name="traffic_saving_whitelist_btn_add_app">Добавить</string>
+     <string name="traffic_saving_whitelist_btn_added">Добавлено</string>
+     <string name="traffic_saving_whitelist_btn_remove">Удалить</string>
+     <string name="traffic_saving_whitelist_btn_removed">Удалено из списка</string>
+     <string name="traffic_saving_whitelist_count">Приложений без ограничения трафика: %d</string>
+     <string name="traffic_saving_whitelist_no_app">Нет приложений</string>
      <string name="traffic_setting_fragment_area">Местоположение</string>
      <string name="traffic_setting_fragment_brand">Бренд</string>
      <string name="traffic_setting_fragment_button2_text">Сохранить</string>
