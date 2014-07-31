@@ -89,6 +89,7 @@
      <string name="done">Готово</string>
      <string name="edit_event_all_day_label">Целый день</string>
      <string name="edit_event_calendar_label">Календарь</string>
+	 <string name="edit_event_confirm_message">Отменить изменения в событии?</string>
      <string name="edit_event_from_label">С</string>
      <string name="edit_event_label">Сведения</string>
      <string name="edit_event_show_all">Показать все</string>
@@ -180,10 +181,10 @@
      <string name="pengzu">彭祖</string>
      <string name="prefDialogTitle_vibrateWhen">Вибрация</string>
 	 <string name="pref_error_no_ringtone_select">Ничего не выбрано</string>
-     <string name="pref_title_alarm_remind">Звуковой сигнал</string>
-     <string name="pref_title_alert_remind">Всплывающее окно</string>
+     <string name="pref_title_alarm_remind">Звуковое уведомление</string>
+     <string name="pref_title_alert_remind">Всплывающее уведомление</string>
      <string name="pref_title_no_remind">Выключено</string>
-     <string name="pref_title_notification_remind">В панеле уведомлений</string>
+     <string name="pref_title_notification_remind">Напоминающее уведомление</string>
      <string name="preferences_about_title">О программе</string>
      <string name="preferences_alerts_popup_title">Всплывающее уведомление</string>
      <string name="preferences_alerts_ringtone_title">Мелодия уведомления</string>

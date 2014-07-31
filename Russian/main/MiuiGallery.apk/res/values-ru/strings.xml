@@ -153,7 +153,9 @@
      <string name="crop">Кадрировать</string>
      <string name="crop_fail_to_load_image">Ошибка загрузки изображения</string>
      <string name="crop_label">Кадрировать фотографию</string>
+	 <string name="crop_recognize_text">Определить</string>
      <string name="crop_save_text">Сохранить</string>
+	 <string name="crop_save_text_setas">Применить</string>
      <string name="crop_tooltip">Чтобы кадрировать фото, перетащите маркеры</string>
      <string name="crossprocess">Кросспроцесс</string>
      <string name="cut">Обрезать</string>
@@ -391,6 +393,7 @@
      <string name="publish_failed">Ошибка публикации</string>
      <string name="publish_succeeded">Альбом опубликован</string>
      <string name="publishing">Публикация, подождите…</string>
+	 <string name="recognizing_image">Подожите…</string>
      <string name="redeye">Красные глаза</string>
      <string name="redeye_tooltip">Нажмите для устранения эффекта красных глаз</string>
 	 <string name="refocus_data_downloading">Загрузка данных…</string>
