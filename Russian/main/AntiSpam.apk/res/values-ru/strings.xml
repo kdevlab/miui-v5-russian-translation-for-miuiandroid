@@ -60,8 +60,6 @@
 	 <string name="call_delete_hint">Удалить все заблокированные вызовы с выбранного номера?</string>
      <string name="cancle">Отмена</string>
      <string name="close_callwait">Выключить</string>
-	 <string name="create_table_report_sms">создание reportSms( id TEXT NOT NULL );</string>
-     <string name="create_table_report_sms_pending">создание таблицы reportSmsPending( id TEXT NOT NULL, address TEXT, body TEXT, date TEXT );</string>
      <string name="customizer_mode_user_define_name">Мой режим</string>
      <string name="dlg_add_blacklist">Добавить номер в черный список?</string>
      <string name="dlg_add_blacklist_warn_conflict_content">%1$s и %2$s других контактов уже в белом списке</string>
