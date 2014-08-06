@@ -294,6 +294,7 @@
      <string name="conversation_folder_moved">Перемещено в папку \"%1$s\"</string>
      <string name="conversation_item_mark_read">Прочитано</string>
      <string name="conversation_item_mark_unread">Не прочитано</string>
+	 <string name="conversation_list_net_check">Невозможно подключиться к сети. Проверь настройки сети или повтори позже.</string>
      <string name="conversation_photo_welcome_text">Чтобы открыть цепочку писем, нажмите на фото отправителя</string>
      <string name="copy_email">Скопировать адрес эл. почты</string>
      <string name="copy_number">Скопировать номер телефона</string>
@@ -366,10 +367,18 @@
      <string name="file_not_found_reDownload">Файл не найден. Повторите еще раз.</string>
      <string name="file_rar_not_support">Не поддерживает зашифрованный файл RAR!</string>
      <string name="filtered_tag">[%1$s]%2$s</string>
+	 <string name="folder_drafts_name_en0">Черновики</string>
+     <string name="folder_drafts_name_en1">Черновик</string>
      <string name="folder_icon_desc">Значок папки</string>
      <string name="folder_picker_title">Выберите папку</string>
      <string name="folder_removed">Удалено из папки \"%1$s\"</string>
+	 <string name="folder_sent_name_en0">Отправленные</string>
+     <string name="folder_sent_name_en1">Отправленные сообщения</string>
+     <string name="folder_sent_name_en2">Отправленное сообщение</string>
      <string name="folder_shortcut_widget_label">Папка почты</string>
+	 <string name="folder_trash_name_en0">Корзина</string>
+     <string name="folder_trash_name_en1">Удаленные сообщения</string>
+     <string name="folder_trash_name_en2">Удаленное сообщение</string>
      <string name="formatted_email_address">&lt;%1$s></string>
      <string name="formatted_subject">%1$s%2$s</string>
      <string name="forward">Переслать</string>
@@ -418,6 +427,7 @@
      <string name="login_failed_title">Не удалось войти в аккаунт</string>
      <string name="long_press_to_select_tip">Чтобы выбрать несколько цепочек, нажмите и удерживайте одну из них, а затем нажимайте на следующие</string>
      <string name="mail">Почта</string>
+	 <string name="mail_body_turncated">Это сообщение слишком большое, чтобы загрузить. Отображается только его часть. Посмотрите его на ПК позже.</string>
      <string name="mailbox_list_account_selector_combined_view">Комбинированный режим</string>
      <string name="mailbox_name_display_drafts">Черновики</string>
      <string name="mailbox_name_display_inbox">Входящие</string>
@@ -513,6 +523,7 @@
      <string name="no_conversations">Нет сообщений</string>
      <string name="no_mails">Нет сообщений</string>
      <string name="no_matched_attachment">Нет подобранных вложений!</string>
+	 <string name="no_wifi_promot">Wi-Fi сейчас не используется. Следите за трафиком.</string>
      <string name="non_synced_folder_description">Для просмотра цепочек писем синхронизируйте эту папку</string>
      <string name="not_subject">Нет темы</string>
      <string name="not_synced_title">Аккаунт не синхронизирован</string>
@@ -676,6 +687,14 @@
      <string name="sending">Отправка…</string>
      <string name="sending_message">Отправка сообщения…</string>
      <string name="sent_folder_selection_title">%s: выберите папку на сервере</string>
+	 <string name="ser_resp_err_map_certificate_validator_err">"Не удалось проверить сертификат сервера 
+\u0009 (Проверьте параметр 'автосинхронизации времени')</string>
+     <string name="ser_resp_err_map_connect_err">Ошибка подключения к сети. Попробуйте другую сеть.</string>
+     <string name="ser_resp_err_map_nouser">Нет такого пользователя</string>
+     <string name="ser_resp_err_map_or">или</string>
+     <string name="ser_resp_err_map_pserr">Неправильное имя пользователя или пароль</string>
+     <string name="ser_resp_err_map_serclosed">Сервис закрыт</string>
+     <string name="ser_resp_err_map_ssl">"Пожалуйста, попробуйте выбрать 'SSL / TLS (принимать все сертификаты)' в 'типе безопасности'"</string>
      <string name="set_network">Настроить сеть</string>
      <string name="settings_activity_title">Настройки</string>
      <string name="sharing">Отправить</string>

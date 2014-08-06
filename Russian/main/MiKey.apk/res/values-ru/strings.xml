@@ -25,6 +25,7 @@
     <string name="flash_lable">Вспышка</string>
     <string name="picker_lable">Галерея</string>
 	<string name="app_name">Кнопка</string>
+	<string name="chooser_dust_cap">Кнопка (режим аксессуара)</string>
     <string name="short_click_1">Одно нажатие</string>
     <string name="short_click_2">Два нажатия</string>
     <string name="short_click_3">Три нажатия</string>
@@ -51,8 +52,8 @@
     <string name="action_zero_volume">Отключить звук</string>
     <string name="action_open_sound_recorder">Открыть диктофон</string>
     <string name="action_open_or_close_motion">Переключить поворот экрана</string>
-	<string name="action_open_camera360_capture">Открыть Camera360</string>
-    <string name="action_open_camera360_edit">Редактор Camera360</string>
+	<string name="toast_open">Включено</string>
+    <string name="toast_close">Отключено</string>
     <string name="action_open_wechat">Открыть WeChat</string>
     <string name="action_share_to_wechat">Отправить в WeChat</string>
     <string name="action_share_to_moment">Отправить на стену в WeChat</string>
@@ -60,6 +61,18 @@
     <string name="action_send_text_message">Отправить сообщение</string>
     <string name="action_share_to_miliao">Отправить в MiTalk</string>
     <string name="action_share_to_miliao_wall">Отправить на стену в MiTalk</string>
+	<string name="toggle_wifi">Wi-Fi</string>
+    <string name="toggle_bluetooth">Bluetooth</string>
+    <string name="toggle_shake">Вибрация</string>
+    <string name="toggle_ring">Звук</string>
+    <string name="toggle_gps">GPS</string>
+    <string name="toggle_data">Интернет</string>
+    <string name="toggle_sleep">Спящий режим</string>
+    <string name="toggle_bright">Яркость</string>
+    <string name="toggle_flight">Режим полета</string>
+    <string name="toggle_nfc">NFC</string>
+	<string name="action_open_camera360_capture">Открыть Camera360</string>
+    <string name="action_open_camera360_edit">Редактор Camera360</string>
 	<string name="action_toolbox">Открыть инструменты</string>
     <string name="action_phone">Открыть телефон</string>
     <string name="category_app">Приложения</string>
@@ -69,7 +82,7 @@
     <string name="delete_gesture">Удалить действие кнопки?</string>
     <string name="recommend">Рекомендуется</string>
     <string name="add">Добавить</string>
-    <string name="running_notification">MiKey работает</string>
+    <string name="running_notification">Запущена кнопка</string>
     <string name="click_to_open">Нажми, чтобы открыть</string>
     <string name="call_to">Позвонить</string>
     <string name="sms_to">Отправить сообщение</string>
@@ -80,9 +93,9 @@
     <string name="input_phone">Введи номер телефона</string>
     <string name="earphone">Наушники</string>
     <string name="select_device">Что подключено?</string>
-    <string name="times">" раз"</string>
+    <string name="times"> раз</string>
     <string name="rank_prefix">Общий рейтинг:</string>
-    <string name="rank_suffix">" место"</string>
+    <string name="rank_suffix"> место</string>
     <string name="no_usage">...</string>
     <string name="device_not_recognized">Ошибка распознавания. Вставь кнопку и повтори.</string>
     <string name="clean_memory">Очистить память</string>
@@ -116,12 +129,13 @@
     <string name="app_not_installed">Приложение не установлено</string>
     <string name="setting_toolbar">Панель инструментов</string>
     <string name="setting_toolbar_desc">Отображать панель инструментов для быстрого доступа в уведомлениях</string>
-    <string name="setting_toolbar_tip">"Чтобы добавить новую функцию, нажми на кнопку плюс
+    <string name="setting_toolbar_tip">Чтобы добавить новую функцию, нажми на кнопку плюс
 	
 Нажми на кнопку функции, чтобы изменить ее 
 
-Удерживай, чтобы удалить"</string>
-    <string name="task_title_prefix">Этап N:</string>
+Удерживай, чтобы удалить</string>
+    <string name="task_title_prefix">"Этап: %1$s 
+Функция: %2$s"</string>
     <string name="setting_feedback">Обратная связь</string>
     <string name="setting_speed_desc">Выбери скорость работы кнопки. Чем меньше скорость, тем больше вероятности точности срабатывания.</string>
     <string name="setting_speed_slow">Медленнее</string>
@@ -135,19 +149,22 @@
 	<string name="setting_silent_mode">Режим кнопки</string>
     <string name="setting_silent_mode_default">Режим гарнитуры</string>
     <string name="setting_silent_mode_dust_cap">Режим аксессуара</string>
-    <string name="setting_silent_mode_desc">"Режим гарнитуры - можно управлять плеером. Одно нажатие - вкл/выкл плеер; два - след. трек; четыре - пред. трек.
-Всегда отключайте этот режим перед перезагрузкой и использованием кнопки. В противном случае это может привести к отсутствию звука.
+    <string name="setting_silent_mode_desc">Режим гарнитуры - можно управлять плеером:
+одно нажатие - вкл/выкл музыку; 
+два - след. трек;
+четыре - пред. трек.
+Всегда отключай этот режим перед перезагрузкой и использованием кнопки. В противном случае это может привести к отсутствию звука.
 
-Режим аксессуара - кнопка служит для защиты гнезда наушников от пыли и грязи :)"</string>
+Режим аксессуара - кнопка просто служит для защиты гнезда наушников от пыли и грязи :)</string>
     <string name="setting_instant_photo_desc">Четкие изображения, но потребуется больше времени на обработку</string>
-    <string name="toolbox_outer_desc">Нажми на кнопку добавить или на существующую функцию</string>
+    <string name="toolbox_outer_desc">Нажми на кнопку добавить или существующую функцию</string>
     <string name="setting_speed_max_time">1000 м.с.</string>
     <string name="setting_speed_middle_time">500 м.с.</string>
     <string name="setting_speed_min_time">0 м.с.</string>
     <string name="notification_recorder_start">Начало записи…</string>
     <string name="notification_control_stop">Остан.</string>
     <string name="notification_control_play">Воспр.</string>
-    <string name="notification_recorder_file_location">Место записи:</string>
+    <string name="notification_recorder_file_location">Путь хранения записи:</string>
     <string name="sdcard">SD-карта</string>
     <string name="showSlip">Показывать скольжения</string>
     <string name="close_recorder">Закрыть диктофон</string>
@@ -177,5 +194,5 @@
     <string name="faq_stat_title">Как скинуть статистику на 0?</string>
     <string name="faq_stat_text">Статистика количества нажатий кнопки сбрасывается раз в сутки</string>
     <string name="faq_vsm_title">Меры предосторожности</string>
-    <string name="faq_vsm_text">Убедись, что, прежде чем снять заднюю крышку, ты вытащил кнопку!</string>
+    <string name="faq_vsm_text">Убедись что ты вытащил кнопку прежде чем снять заднюю крышку!</string>
 </resources>

@@ -7,6 +7,7 @@
      <string name="about_title">О программе</string>
      <string name="about_version_label">Версия</string>
      <string name="actors_colon">"В ролях: "</string>
+	 <string name="ad_moredetail">подробнее</string>
 	 <string name="add_more_addons">добавить другие специальные</string>
      <string name="add_review">Добавить отзыв</string>
 	 <string name="addon" />
@@ -277,6 +278,7 @@
 	 <string name="post_playcount">раз</string>
      <string name="pps">PPS</string>
      <string name="pptv">PPTV</string>
+	 <string name="prefix_countdown">До окончания рекламы:</string>
 	 <string name="prex_playcount">Смотрелось:</string>
 	 <string name="priority_storage">Исп. внешнюю SD-карту</string>
      <string name="priority_storage_summary">Функция вступает в силу при использовании внешней SD-карты</string>
@@ -307,8 +309,8 @@
      <string name="select_media_source">Выберите источник</string>
      <string name="series_colon">"Эпизодов: "</string>
      <string name="setting">Настройки</string>
-	 <string name="setting_use_network">Использовать сеть</string>
-     <string name="setting_use_network_summery">Приложение будет использовать сетевой трафик</string>
+	 <string name="setting_network_alert">Предупреждение о сети</string>
+     <string name="setting_network_alert_summery">Спрашивать при просмотре видео</string>
      <string name="show_hidemedia">Показывать скрытые файлы</string>
      <string name="sina">Sina</string>
      <string name="souhu">Souhu</string>
@@ -321,6 +323,7 @@
      <string name="success_cancel_myfavorite">Убрано из избранного</string>
      <string name="success_cancel_waitfornewset">Отслеживание обновлений отменено</string>
      <string name="success_to_cancel_myfavorite">Отменено</string>
+	 <string name="suffix_countdown">сек.</string>
 	 <string name="sure">OK</string>
      <string name="tags_colon">"Жанр: "</string>
      <string name="temp_play_history_button_label">История просмотров</string>

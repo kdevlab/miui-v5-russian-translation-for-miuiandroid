@@ -109,6 +109,7 @@
      <string name="available_functionality">Доступные функции</string>
      <string name="bad_authentication">Неверный пароль или имя пользователя</string>
 	 <string name="bank_cards">Банковские карты</string>
+	 <string name="barcode_add_account_prompt">Чтобы добавить аккаунт, отсканируй QR-код еще раз после входа</string>
      <string name="balance">Баланс: %1$s MiCredit</string>
      <string name="bankcall_error_card">Введите корректный номер банковской карты</string>
      <string name="bankcall_error_card_info">Пожалуйста, введите корректные данные банковского счета</string>

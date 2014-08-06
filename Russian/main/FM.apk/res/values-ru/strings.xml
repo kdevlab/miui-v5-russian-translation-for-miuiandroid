@@ -254,6 +254,7 @@
      <string name="toast_fm_recorder_access_error">Запись недоступна в гостевом режиме</string>
      <string name="toast_fm_recorder_internal_error">Ошибка записи радио</string>
      <string name="toast_fm_recorder_storage_full">Память заполнена. Запись невозможна.</string>
+	 <string name="toast_fm_scaning">Сканирование…</string>
      <string name="toast_fm_seeking">Поиск станций…</string>
      <string name="toast_fm_starting">Радио запускается…</string>
      <string name="toast_fm_stoping">Радио выключается…</string>

@@ -16,6 +16,7 @@
      <string name="background_traffic">Фоновый трафик %s</string>
      <string name="begin_date">Дата начала учета</string>
      <string name="cancel_button">Отмена</string>
+	 <string name="checkout_traffic_saving_history">История</string>
      <string name="daily_pkg_traffic">Предел трафика</string>
      <string name="data_usage_correction_timeout_body">Нажмите для ручного обновления</string>
      <string name="data_usage_correction_timeout_title">Ошибка синхронизации данных</string>
