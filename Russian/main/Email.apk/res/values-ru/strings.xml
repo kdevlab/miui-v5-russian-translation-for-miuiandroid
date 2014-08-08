@@ -687,14 +687,14 @@
      <string name="sending">Отправка…</string>
      <string name="sending_message">Отправка сообщения…</string>
      <string name="sent_folder_selection_title">%s: выберите папку на сервере</string>
-	 <string name="ser_resp_err_map_certificate_validator_err">"Не удалось проверить сертификат сервера 
-\u0009 (Проверьте параметр 'автосинхронизации времени')</string>
+	 <string name="ser_resp_err_map_certificate_validator_err">Не удалось проверить сертификат сервера 
+\u0009 (Проверьте параметр "автосинхронизации времени")</string>
      <string name="ser_resp_err_map_connect_err">Ошибка подключения к сети. Попробуйте другую сеть.</string>
      <string name="ser_resp_err_map_nouser">Нет такого пользователя</string>
      <string name="ser_resp_err_map_or">или</string>
      <string name="ser_resp_err_map_pserr">Неправильное имя пользователя или пароль</string>
      <string name="ser_resp_err_map_serclosed">Сервис закрыт</string>
-     <string name="ser_resp_err_map_ssl">"Пожалуйста, попробуйте выбрать 'SSL / TLS (принимать все сертификаты)' в 'типе безопасности'"</string>
+     <string name="ser_resp_err_map_ssl">Пожалуйста, попробуйте выбрать "SSL/TLS (принимать все сертификаты)" в "типе безопасности"</string>
      <string name="set_network">Настроить сеть</string>
      <string name="settings_activity_title">Настройки</string>
      <string name="sharing">Отправить</string>
