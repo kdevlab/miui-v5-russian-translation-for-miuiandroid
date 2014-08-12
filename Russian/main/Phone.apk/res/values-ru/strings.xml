@@ -166,6 +166,7 @@
      <string name="callUnanswered_forwarded">Звонок не принят и переадресован</string>
      <string name="call_additional_sum">Другие</string>
      <string name="call_assistant_miui">Упрощение вызова</string>
+	 <string name="call_barring_sum">Настройки запрета вызовов</string>
      <string name="call_barring_sum">Запрет голосовых вызовов настройки</string>
      <string name="call_forwarding_number_hint_miui">Пожалуйста, введите номер для переадресации</string>
      <string name="call_forwarding_settings">Настройки переадресации вызова</string>
@@ -665,6 +666,7 @@
      <string name="invalidPuk2">Введите 8-значный код PUK2</string>
      <string name="invalid_new_pin2_miui">Новый PIN2 введен неверно. Введите новый PIN2 из 4~8 цифр.</string>
      <string name="invalid_new_pin_miui">Новый PIN введен неверно. Введите новый PIN2 от 4~8 цифр.</string>
+	 <string name="invalid_password">Введите пароль из 4 символов</string>
      <string name="invalid_pin2_miui">Неверный PIN2. Введите код PIN2, состоящий из 4~8 цифр.</string>
      <string name="invalid_pin_miui">Неверный PIN-код. Введите PIN-код, содержащий от 4 до 8 цифр.</string>
      <string name="invalid_puk2_miui">Неверный PUK2. Введите PUK2, состоящий из 8 цифр.</string>
@@ -715,8 +717,8 @@
      <string name="lable_all_outgoing">Все исходящие звонки</string>
      <string name="lable_all_outgoing_international">Международные исходящие звонки</string>
      <string name="lable_call_barring">Запрет вызовов</string>
-     <string name="lable_disable">Инвалидов</string>
-     <string name="lable_enable">Включено</string>
+     <string name="lable_disable">Отключен</string>
+     <string name="lable_enable">Включен</string>
      <string name="lable_incoming_calls_except">Входящие вызовы в роуминге</string>
      <string name="lable_sim_not_ready">Инструменты SIM не поддерживаются или не готовы к использованию.</string>
      <string name="lafs_disable">Расписание рейсов местного аэропорта отключено</string>
@@ -837,7 +839,7 @@
      <string name="newPin2Label">Новый PIN2</string>
      <string name="newPinLabel">Новый PIN</string>
      <string name="new_cards_available">Новая карта доступна. Настройте подписки.</string>
-     <string name="new_password_label">Новый пароль(4 цифры)</string>
+     <string name="new_password_label">Новый пароль (4 цифры)</string>
      <string name="new_pin2_hint_miui">Новый PIN2</string>
      <string name="new_pin_hint_miui">Новый PIN-код</string>
      <string name="next_miui">Далее</string>
@@ -897,7 +899,7 @@
      <string name="ok">ОК</string>
      <string name="oldPin2Label">Текущий PIN2</string>
      <string name="oldPinLabel">Текущий PIN</string>
-     <string name="old_password_label">Старый пароль(4 цифры)</string>
+     <string name="old_password_label">Старый пароль (4 цифры)</string>
      <string name="old_pin2_hint_miui">Текущий PIN2</string>
      <string name="old_pin_hint_miui">Текущий PIN-код</string>
      <string name="onHold">Ждет ответа</string>

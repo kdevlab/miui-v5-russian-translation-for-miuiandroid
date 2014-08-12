@@ -2,6 +2,9 @@
 <!-- Builded with NXT -->
 <resources>
      <string name="Only_the_wifi">Действует только при Wi-Fi</string>
+	 <string name="add_flow_fail_haveget_msg">Sorry,You have Get Free High Speed Flow This Month</string>
+     <string name="add_flow_fail_vip_msg">Dear Thunder vip, High Speed Channel Opened</string>
+     <string name="add_flow_success_msg">Get 300MB High Speed Flow Succeess</string>
 	 <string name="all_downloads">Все загрузки</string>
 	 <string name="all_the_internet">Все сети</string>
      <string name="app_downloads">Загрузки от приложения: %s</string>
